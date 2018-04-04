@@ -1,0 +1,40 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5896,21918,,,2869-09-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5896,21918,7341,0,2869-09-04 21:55:00 EST,2869-09-04 22:18:00 EST,118,"N",1,"Nursing/Other","CCU Nursing Transfer Acceptance Note:","
+CCU Nursing Transfer Acceptance Note:
+55 yr old male transfered from [**Hospital1 1415**] due to power failure, to be transfered back when able. Pt has history of HTN, hyperlipidemia. In January was diagnosed with Right upper lobe Ca, was followed here at [**Hospital1 **], treated with radiation and chemo, then right upper lobectomy in May. OR complicated by postop staph infection, complete obstruction of R main bronchus and total atelectasis of r lung. Had total pneumonectomy at the [**Hospital1 1415**] on [**9-2**]. Has had no peri/post complications. 
+
+Reveiw of systems:
+
+Surgery: Arrived at the [**Hospital1 22**] this eve. Alert&oriented, 2 Chest tubes to water seal on the R. draining serosang drainage. C/O R shoulder pain, is on Dilauded epidural, receiving prn Demerol IM(last at 1PM). Dressing became wet with drainage, changed at 10PM. Given 2 percocets for shoulder pain which decreased pain from a [**7-31**], pt able to fall asleep. CVP 5-9, goal to keep CVP<12, has been diuresed at the [**Hospital1 1415**], last dose Lasix yesterday.
+
+Resp: On 1L nc, sats 95-96%, L lung clear. No cough, using I/S. On MDI's, given this eve.
+
+Cv: HR 90-110 NSR/ST, BP 130-150/73. Lytes sent.
+
+ID: afebrile, WBC 16 at OSH. AB changed to po Levo and Cefpodoxim.
+
+GI: was taking Cl liqs, had chicken noodle soup this eve. No N/V/abd pain. No stool since OR. (+)flatus.
+
+Skin: intact other than surgical related wounds. Pneumonectomy incision with dressing, D&I.
+
+Soc: wife, daughter in this eve.
+
+A: stable s/p r pneumonectomy
+
+P: pain control, epidural cath to be DC'd tomorrow, may have percocet, then Demorol. Keep dry, CVP 5-10. Last bag TPN, advance diet po as tolerated. Transfer back to [**Hospital1 1415**] when issues there resolved.
+
+
+
+",,
+5896,,7341,0,2869-09-05 04:13:00 EST,2869-09-05 04:18:00 EST,104,"N",1,"Nursing/Other","CCU progress note 11p-7a","
+CCU progress note 11p-7a
+Uneventful nite. Slept in naps. Remains on Epidural drip ?d/c in am. Took Percocet 2 tabs for R shoulder ache/pain. 
+Left Lung clear, dim. R CT sites A+B intact, to gravity. no leaks noted. Site dsg intact. O2 1L n/c sats > 96%. 
+SR 90s, BP stable. CVP 5-9. TPN @ 42cc/hr. 
+Sips of water overnite. afebrile. po abx.
+
+PLAN: ?transfer to floor or back to [**Hospital 1415**] hospital in am. ?d/c epidural. monitor VS, emotional supports.
+",,

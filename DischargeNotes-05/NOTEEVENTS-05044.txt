@@ -1,0 +1,109 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5044,,,,2864-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2864-7-25**] 8:34 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 7802**]
+     Reason: H/O HERATOMA,?PATENCY OF PORTAL VEIN FOR EMBOLIZATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with hepatoma
+     REASON FOR THIS EXAMINATION:
+      ? patency of portal vein for embolization
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  H/O hepatitis C.  Now with hepatoma.  Evaluate portal vein
+     patency.
+     
+     COMPARISON:  None.
+     
+     ABDOMEN ULTRSOUND (COMPLETE STUDY):  The liver is enlarged and contains
+     multiple confluent nodules, consistent with diffuse infiltrating hepatoma. IVC
+     is compressed by bulky liver.  There is complete thrombosis of the main, left
+     and right portal veins.  A small amount of ascites is seen around the liver.
+     Intrahepatic biliary tree is not dilated.  CBD measures 0.4 cm.  The
+     gallbladder contains sludge but no gallstones.  There is gallbladder wall
+     edema, likely secondary to low protein status from liver disease.  There is no
+     pericholecystic fluid or sonographic [**Doctor Last Name **] sign. The pancreas is not
+     visualized. The spleen is normal.  The right kidney measures 12.3 cm.  The
+     left kidney measures 11.6 cm.  Bilateral kidneys have normal echogenicity with
+     no stones, mass or hydronephrosis.
+     
+     IMPRESSION:
+     
+     1. Diffuse infiltrating hepatoma causing enlargement of the liver and
+     compression of IVC.
+     
+     2. Main, left and right portal vein thrombosis.  Small amount of ascites.
+     
+     3. Sludge in the gallbladder.  No gallstones.  Gallbladder wall edema likely
+     secondary to low protein status from liver disease.
+     
+     
+     
+     
+
+",,
+5044,16329,,,2864-08-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5044,16329,,,2864-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2864-8-15**] 9:24 AM
+     US ABD LIMIT, SINGLE ORGAN PORT                                 Clip # [**Clip Number (Radiology) 7803**]
+     Reason: LIVER FAILURE.HEPATOCELLULAR CA. ASCITES. PLEASE MARK FOR PARACENTESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      31 year old man with hepatoma
+     REASON FOR THIS EXAMINATION:
+      32 yo male with hepatocellular [**Hospital **] transferred from OSH with rapidly progressive
+      liver failure, subjective fevers and chills; please assess for presence of
+      ascites and mark a spot for paracentesis 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hepatocellular carcinoma with increasing ascites, mark spot for
+     paracentesis.
+     
+     LIMITED ABDOMINAL ULTRASOUND FOR PARACENTESIS LOCALIZATION: Limited images of
+     all 4 quadrants were obtained. The largest pocket of fluid was noted within
+     the right lower quadrant. The skin overlying this region was marked for
+     paracentesis to be performed by the clinical staff.
+
+",,
+5044,16329,6255,0,2864-08-15 15:15:00 EST,2864-08-15 15:41:00 EST,-1,"N",69,"Nursing/Other","NURSING ADMISSION NOTE","
+NURSING ADMISSION NOTE
+Pt was diagnosed with liver CA [**5-29**] after presenting with n/v, 10 lb wt loss, and u/s showed multiple masses.  Pt found down in bathroom last nite, admitted to [**Doctor Last Name 4638**] with K=7, glu=27, INR=5.9.  He was treated with D50/insulin, calc gluconate, kayexylate, and 2 units FFP. He was tx to [**Hospital1 2**] (primary MD=[**Doctor Last Name 5510**]).  
+
+NEURO:  Usually lethargic, communication incomprehensible, and moving self about the bed somewhat agitated as he is trying to find a comfortable position.  But at times he follows commands, and nods approp to simple questions.  MS04 ivp prn for comfort given.  Pupils 2mm w/ no reaction.
+
+Cardiac:  90-100's NSR/ST no ectopy.  +periph pulses, extrems warm, no edema.  BP stable.
+
+RESP:  4L np 02 sat 90-97%.  Lungs clear bilat. no cough
+
+GI:  abd large, firm, distended - ascites.  no bowel sounds, no BM. NPO
+
+GU:  Foley cath, bilious urine, only 70cc for day shift
+
+PLAN:  COMFORT CARE.  Family met with team and CMO was decided.
+",,
+5044,16329,6255,0,2864-08-15 21:22:00 EST,2864-08-15 21:23:00 EST,511,"N",69,"Nursing/Other",,"
+
+PAIN CONTROL: PT. FOUND WRITHING IN THE BED. UP ON HIS KNEES. MS INCREASED TO 10MG/HR. GIVEN ATIVAN 2MG IVP X1. IVF'S DECREASED TO KVO. 
+FAMILY IN AND STAYING WITH PATIENT. PT. APPEARS MORE COMFORTABLE NOW. 
+",,
+5044,16329,6255,0,2864-08-16 05:18:00 EST,2864-08-16 05:19:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT APPEARED VERY COMFORTABLE ALL NIGHT ON IVMS AT 10 MG'S/HR.  RECEIVED ATIVAN 1 MG IV FOR MILD RESTLESSNESS W/ GOOD EFFECT.  PARENTS STAYED THE NIGHT.   
+",,
+5044,16329,6255,0,2864-08-16 16:46:00 EST,2864-08-16 16:52:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NURSING PROGRESS NOTE.","
+MICU/SICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+     No changes in ms, occn incomprehensible sounds, no response to verbal stimuli, no spontaneous movements.  Mso4 drip rate increased to 13 mg hr.  Medicated with ativen 2mg x 2 for restlessness.  Washed and shaved pt.  Provided reassurance and empathy for family.  Priest in to see pt per family request.  
+",,
+5044,16329,6255,0,2864-08-16 22:56:00 EST,2864-08-16 23:00:00 EST,723,"N",69,"Nursing/Other","rn death note","
+rn death note
+[**8-16**] 02 1120pm
+family at bedside with patient.  vs at 8pm 62/13, hr 50's agonal breathing. pt checked periodically cont. agonal breeathing with rate slowing. morphine gtt at 13mg /hr. At 1120pm nurse called to room . no respirations noted. no pulse audible.
+md notified. pt pornounced at 1130pm awaiting family members at this time.
+",,

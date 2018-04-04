@@ -1,0 +1,645 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5046,,,,3360-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-24**] 12:37 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 7817**]
+     Reason: KNOWN CHRONIC PANCREATITIS WITH WORSENING PAINI OVER LAST FEW DAYS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      stat
+      pancreatitis r/o ascitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL ULTRASOUND [**3360-10-24**].
+     
+     INDICATION:  Patient with a history of pancreatitis and ascites.
+     
+     COMPARISON:  Correlation is made to prior CT examinations of [**3360-9-24**] and
+     [**3359-11-7**].  Comparison is made to ultrasound examination of [**3359-11-21**].
+     
+     FINDINGS:  The liver is heterogeneous in echotexture.  No focal liver lesions
+     are identified.  There is central biliary dilatation and  common bile duct
+     dilitation with a  maximal diameter of 1.5 cm.  There is a dilated pancreatic
+     duct, which measures 6 mm.  This was identified on the most recent prior CT
+     examination. In addition, in the vicinity of the distal common bile duct,
+     there is a 9-mm echogenic calcification.  The location of this calcification
+     is compared to the prior CT examination of [**3359-11-7**], and it is a new finding.
+     Its appearance on the current ultrasound examination is suspicious for a
+     distal common bile duct stone.  Color Doppler and spectral Doppler evaluation
+     demonstrates that the main portal vein is patent with normal hepatopetal flow.
+     The pancreas is slightly edematous but no peripancreatic fluid collections are
+     identified. The gallbladder is unremarkable.  There is a moderate amount of
+     ascites in the pelvis.
+     
+     CONCLUSION:
+     
+     1) There is a 9-mm calcification near the region of the distal common bile
+     duct; its appearance on ultrasound suggests that it actually resides within
+     the distal common bile duct.  There is central biliary, common bile duct and
+     pancreatic duct dilatation.
+     
+     2) No peripancreatic fluid collections are seen.  Portal vein is patent with
+     normal hepatopetal flow.
+     
+     3) Heterogeneous liver.  No focal liver lesions identified.
+     
+     
+     
+
+",,
+5046,7975,,,3360-10-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3360-10-27**]       Discharge Date:  [**3360-10-31**]
+
+Date of Birth:   [**3309-9-4**]       Sex:  F
+
+Service:  SURGERY GOLD
+
+HISTORY OF PRESENT ILLNESS:  This was a 51-year-old female
+with a history of alcohol abuse, chronic pancreatitis, and
+cirrhosis, status post gastrojejunostomy secondary to
+duodenal stricture with a past medical history of diabetes
+mellitus, intermittent exacerbations of chronic pancreatitis,
+and osteoporosis.
+
+The patient was admitted on [**3360-10-27**], and presented
+with the presumptive diagnosis of choledocholithiasis,
+metabolic alkalosis, sudden onset, which was thought to be
+secondary to decompensated liver failure.  She was admitted
+to the [**Company **] Medicine Service where she was cared for initially
+on the floor and evaluated by the Liver Service as well.  On
+[**3360-10-28**], the patient received a CT scan which
+demonstrated a probable small bowel obstruction.  Given her
+continued decompensation, it was thought to be a combination
+of hepatic encephalopathy, worsening ..................
+status.  The patient was transferred to the Medical Intensive
+Care Unit on the East Campus.  On [**10-28**], a Surgery
+consult was obtained.
+
+On review of the [**Hospital 1032**] hospital course, it was noted that
+there was a question of small bowel obstruction per CT scan;
+however, given the patient met criteria for Child C
+cirrhosis, was a very poor surgical candidate.  A series of
+discussions were undertaken with the family as to whether or
+not they wished to pursue surgical correction of the small
+bowel obstruction.  It was decided by the family they would
+pursue this option, and on the evening of [**3360-10-29**],
+the patient was taken to the Operating Room by [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] where she underwent exploratory laparotomy.
+
+At the time, it was noted that the patient had a thick
+adhesion upon which there was a lobulized loop of jejunum.
+An approximate 10 cm segment of the jejunum was resected.
+The patient tolerated this procedure.  She was transferred to
+the Surgical Intensive Care Unit on the East Campus.
+
+Over night from [**10-29**], until the evening of [**10-30**], the patient was noted to be increasingly alkalotic
+despite supportive care measures by the Intensive Care Unit
+staff.  It was decided, with the patient becoming
+progressively more obtunded, her abdomen more distended,
+difficulties managing her blood pressure, and acid based
+status, to return with the patient to the Operating Room on
+the evening of [**3360-10-30**].
+
+At that time, the patient underwent a second exploratory
+laparotomy where she was noted to have a large amount of
+peritoneal fluid which was evacuated by suction.  At that
+time, exploratory laparotomy, there was evidence of diffuse
+ischemic and infarctive disease of the small bowel.  At that
+time, it was decided to close the patient and return her to
+the Intensive Care Unit.
+
+Discussions with the family where undertaken, and it was
+decided at that time to withdraw support and make the patient
+COMFORT CARE MEASURES ONLY.  The patient was taken off
+pressors and intravenous fluids in the Surgical Intensive
+Care Unit.  She was bolused with Dilaudid.  Approximately 45
+min after withdraw of support, the patient expired.
+Following this, the family declined a postmortem examination.
+
+DISCHARGE DIAGNOSIS:  Demise secondary to cardiac arrest in
+the setting of septic shock and small bowel obstruction.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1161**], M.D.
+[**MD Number 1162**]
+
+Dictated By:[**Name8 (MD) 5713**]
+MEDQUIST36
+
+D:  [**3360-10-31**]  09:50
+T:  [**3360-11-3**]  10:46
+JOB#:  [**Job Number 5714**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3360-11-6**] 6:03 PM
+(End of Report)
+
+
+",,
+5046,7975,,,3360-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-28**] 9:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7818**]
+     Reason: r/o infection                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with cirrhosis, choledocholithiasis, altered mental status    
+     REASON FOR THIS EXAMINATION:
+      r/o infection                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**3360-10-28**]
+     
+     CLINICAL INDICATION:  Altered mental status.  Evaluate for pulmonary
+     infection.
+     
+     Comparison is made to previous study of [**3360-6-23**].
+     
+     A feeding tube is present, with the distal tip terminating above the
+     hemidiaphragm level.  The heart size and mediastinal contours are normal. The
+     lungs reveal no focal areas of consolidation.  The right costophrenic angle
+     area remains blunted, stable from prior study.
+     
+     IMPRESSION:  1)  No radiographic evidence of pneumonia.
+     
+     2)  Proximal location of feeding/nasogastric tube, with distal tip terminating
+     above the GE junction level.  Findings communicated with clinical service
+     caring for the patient.
+
+",,
+5046,7975,,,3360-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with obstruction vs. ileus on KUB.  Radiology recommended CT 
+      with IV and oral contrast.
+     REASON FOR THIS EXAMINATION:
+      obstruction or ileus?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Obstruction vs. ileus on KUB.
+     
+     TECHNIQUE:  CT images were acquired from the lung bases through the pubic
+     symphysis using 150 cc of IV optiray contrast.  Multiplanar reformatted images
+     were performed for further evaluation.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is mild intrahepatic biliary ductal
+     dilatation and prominence of the CBD followed to the head of the pancreas. The
+     pancreatic duct is also prominent, measuring 5 mm.  There is moderate ascites
+     throughout the abdomen.  There are multiple dilated loops of small bowel with
+     multiple air fluid levels.  No clear transition point is identified, but it is
+     probably located within the distal third of the small bowel in the right
+     abdomen.  There is a loop of small bowel within the left mid abdomen which
+     demonstrates wall thickening.  There are multiple low attenuation lesions
+     within both kidneys, most of which are too small to characterize, but there is
+     a 1.7 cm simple right renal cyst.  The spleen, adrenal glands appear normal.
+     The pancreas is markedly atrophic.  There is no retroperitoneal
+     lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There are multiple dilated loops of small
+     bowel extending into the pelvis.  Ascites tracks into the pelvis.  There is no
+     lymphadenopathy.  A Foley catheter and air is present within the bladder.
+     
+     A dynamic compression screw traverses the left femoral neck and there is
+     cortical irregularity related to an old fracture.  Otherwise, osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1)  Multiple dilated loops of small bowel with multiple air fluid levels
+     suggest an evolving obstruction with no definite transition point identified.
+     However, the transition point probably is present within the distal third of
+     the small bowel in the right abdomen.
+     2)  Moderate ascites.
+     3) Prominent pancreatic and intrahepatic biliary ducts.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5046,7975,,,3360-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with obstruction vs. ileus on KUB.  Radiology recommended CT 
+      with IV and oral contrast.
+     REASON FOR THIS EXAMINATION:
+      obstruction or ileus?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Obstruction vs. ileus on KUB.
+     
+     TECHNIQUE:  CT images were acquired from the lung bases through the pubic
+     symphysis using 150 cc of IV optiray contrast.  Multiplanar reformatted images
+     were performed for further evaluation.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is mild intrahepatic biliary ductal
+     dilatation and prominence of the CBD followed to the head of the pancreas. The
+     pancreatic duct is also prominent, measuring 5 mm.  There is moderate ascites
+     throughout the abdomen.  There are multiple dilated loops of small bowel with
+     multiple air fluid levels.  No clear transition point is identified, but it is
+     probably located within the distal third of the small bowel in the right
+     abdomen.  There is a loop of small bowel within the left mid abdomen which
+     demonstrates wall thickening.  There are multiple low attenuation lesions
+     within both kidneys, most of which are too small to characterize, but there is
+     a 1.7 cm simple right renal cyst.  The spleen, adrenal glands appear normal.
+     The pancreas is markedly atrophic.  There is no retroperitoneal
+     lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There are multiple dilated loops of small
+     bowel extending into the pelvis.  Ascites tracks into the pelvis.  There is no
+     lymphadenopathy.  A Foley catheter and air is present within the bladder.
+     
+     A dynamic compression screw traverses the left femoral neck and there is
+     cortical irregularity related to an old fracture.  Otherwise, osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1)  Multiple dilated loops of small bowel with multiple air fluid levels
+     suggest an evolving obstruction with no definite transition point identified.
+     However, the transition point probably is present within the distal third of
+     the small bowel in the right abdomen.
+     2)  Moderate ascites.
+     3) Prominent pancreatic and intrahepatic biliary ducts.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5046,7975,,,3360-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with obstruction vs. ileus on KUB.  Radiology recommended CT 
+      with IV and oral contrast.
+     REASON FOR THIS EXAMINATION:
+      obstruction or ileus?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Obstruction vs. ileus on KUB.
+     
+     TECHNIQUE:  CT images were acquired from the lung bases through the pubic
+     symphysis using 150 cc of IV optiray contrast.  Multiplanar reformatted images
+     were performed for further evaluation.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is mild intrahepatic biliary ductal
+     dilatation and prominence of the CBD followed to the head of the pancreas. The
+     pancreatic duct is also prominent, measuring 5 mm.  There is moderate ascites
+     throughout the abdomen.  There are multiple dilated loops of small bowel with
+     multiple air fluid levels.  No clear transition point is identified, but it is
+     probably located within the distal third of the small bowel in the right
+     abdomen.  There is a loop of small bowel within the left mid abdomen which
+     demonstrates wall thickening.  There are multiple low attenuation lesions
+     within both kidneys, most of which are too small to characterize, but there is
+     a 1.7 cm simple right renal cyst.  The spleen, adrenal glands appear normal.
+     The pancreas is markedly atrophic.  There is no retroperitoneal
+     lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There are multiple dilated loops of small
+     bowel extending into the pelvis.  Ascites tracks into the pelvis.  There is no
+     lymphadenopathy.  A Foley catheter and air is present within the bladder.
+     
+     A dynamic compression screw traverses the left femoral neck and there is
+     cortical irregularity related to an old fracture.  Otherwise, osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1)  Multiple dilated loops of small bowel with multiple air fluid levels
+     suggest an evolving obstruction with no definite transition point identified.
+     However, the transition point probably is present within the distal third of
+     the small bowel in the right abdomen.
+     2)  Moderate ascites.
+     3) Prominent pancreatic and intrahepatic biliary ducts.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3360-10-28**] 12:48 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7821**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABD DISCOMFORT R/O OBSTRU VS ILEUS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5046,7975,,,3360-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-28**] 9:55 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 7819**]
+     Reason: r/o obstruction                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old woman with cirrhosis, choledocholithiasis, altered mental status, 
+      N/V
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Cirrhosis and altered mental status with nausea and vomiting. To
+     evaluate for obstruction.
+     
+     There are gas distended loops of small bowel with gas present in the colon and
+     rectum. [**Doctor First Name 7820**] compression screw in proximal left femur. A rounded calcific
+     densities in right upper quadrant possibly in costal cartilage but cannot rule
+     out gallstones.
+     
+     IMPRESSION: Findings could be due to an ileus or partial small bowel
+     obstruction. Correlate clinically and with follow up as indicated.
+
+",,
+5046,7975,6257,0,3360-10-28 19:05:00 EST,3360-10-28 19:19:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NURSING NOTE","
+[**Wardname **] 4 ICU NURSING NOTE
+ 
+   51 YO with HX ch pancreatitis, ETOH cirrhosis admitted with 5 day HX N,V, abd pain. US [**10-24**] showing CBD dilation with 9 mm stone. Pt encephalopatic with resting tachycardia transferred from floor for further management.
+  MS: Lethargic, Arousable to voice, Moans. does not follow commands. MAE. 
+  CV- SBP 12's-13's. HR 120's ST with frequent VEA. Receiving fld bolus. K being tepleted.
+   RESP: RR 11-13 min. BS clear. Sats 98-100% on RA.
+   ID: T- 100.6R. On antibiotics.
+   GI: NPO. Positive BS. NGT to LIS. Draining tan foul-smelling material. Moans when palp.
+   GU: Foley. 
+  
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-29**] 12:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7825**]
+     Reason: assess Swan position and CVL position                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old woman with cirrhosis, choledocholithiasis, altered mental status 
+           
+     REASON FOR THIS EXAMINATION:
+      assess Swan position and CVL position                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP:
+     
+     INDICATION:  Cirrhosis with altered mental status.  Evaluate position of Swan-
+     Ganz catheter and central venous line.
+     
+     COMPARISON:  [**3360-10-29**] at 10:00 hours.
+     
+     FINDINGS:  There is opacification at the left base with obliteration of the
+     left costophrenic angle.  There is also slight blunting at the right
+     costophrenic angle.  The lungs are otherwise clear.
+     
+     The position of the NG and ET tubes are unchanged since the prior examination.
+     There has been interval placement of what appears to be a Swan-Ganz catheter.
+     The distal third of the catheter is looped in the IVC with the tip probably
+     within the right atrium.  I do not see a central venous catheter.  No
+     pneumothorax.
+     
+     IMPRESSION:  Position of lines as described.  Bilateral pleural effusions more
+     marked on the left.
+     
+     
+     
+
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-29**] 9:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7824**]
+     Reason: s/p intubation; r/o PTX and assess ETT position             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old woman with cirrhosis, choledocholithiasis, altered mental status  
+         
+     REASON FOR THIS EXAMINATION:
+      s/p intubation; r/o PTX and assess ETT position                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cirrhosis, choledocholithiasis, change in mental status s/p
+     intubation, r/o pneumothorax and assess ETT position.
+     
+     SINGLE FRONTAL CHEST RADIOGRAPH dated [**3360-10-29**] at 10 a.m. is compared with
+     prior chest radiograph obtained 6 hours earlier. There is no interval change
+     in position of the NG tube. The ETT is intervally placed, terminating
+     approximately 4.5 cm above the carina. There is no evidence of pneumothorax.
+     
+     There is no significant interval change in the appearance of the chest since
+     the prior study. Note is again made of large amount of air in the left upper
+     quadrant with haustration.
+     
+     IMPRESSION: ETT in good position. No interval change in the appearance of the
+     chest.
+     
+     Probable colonic air in the left upper quadrant. However, if there is any
+     clinical suspicion for free intra-abdominal air, a left sided down decubitus
+     view can be performed for better evaluation of presence of pneumoperitoneum.
+     
+     
+
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-29**] 3:27 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7823**]
+     Reason: R/o bleed;                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with cirrhosis, choledocholithiasis, altered mental status   
+       
+     REASON FOR THIS EXAMINATION:
+      R/o bleed;                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Rule out bleeding.
+     
+     COMMENT: Portable supine AP radiograph of the abdomen is reviewed. The tip of
+     the nasogastric tube is identified in the gastric fundus. Again note is made
+     of multiple loops of dilated small bowel, which is indicating small bowel
+     obstruction. There is relative paucity of the air throughout the colon. Large
+     amount of food is seen in the stomach.
+     
+     IMPRESSION: Probable small bowel obstruction.
+
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5046,7975,6257,,3360-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3360-10-29**] 3:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7822**]
+     Reason: eval for CHF and free air                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old woman with cirrhosis, choledocholithiasis, altered mental status   
+       
+     REASON FOR THIS EXAMINATION:
+      eval for CHF and free air                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis, choledocholithiasis, change in mental status. Evaluate
+     for CHF and free air.
+     
+     Single frontal chest radiograph is compared to prior dated [**3360-10-28**].
+     
+     There is no significant interval change in the appearance of the chest.  There
+     is no evidence of CHF.
+     
+     The NG tube has been advanced, terminating in the gastric fundus.
+     
+     A large amount of air is noted in the left upper quadrant, which appears to
+     contain haustration and therefore probably represents intracolonic air.
+     
+     IMPRESSION:  No evidence of CHF.  Probable colonic air in the left upper
+     quadrant.  However, if there is clinical suspicion for free intra-abdominal
+     air, a left-side down, right-side up decubitus view can be performed for a
+     more sensitive evaluation for the presence of pneumoperitoneum.
+     
+
+",,
+5046,7975,6257,0,3360-10-29 05:59:00 EST,3360-10-29 06:27:00 EST,-1,"N",69,"Nursing/Other",,"
+
+CV: Tmax 99.6; tachy to high of 160's with freq ectopy at 12MN initially ? r/t pain/restlessness after multiple fluid boluses--med with fent/ativan IVP with min relief. Lopressor 5 mg IVP given by MD [**First Name (Titles) **] [**Last Name (Titles) **] decreasing to 120's and min ectopy. Hypotensive to low of 72/44--freq boluses with min effect. Neosynephrine begun 0600 hrs at 10.5 mcg/kg/min. Presently attempting TLCL to right groin. Maintained overnoc with (3)PIV's. Levo/ampi/flagyl for SBO. Skin dry, no breakdown. 
+
+Resp: ABG sl. improved, remains resp alkalotic. Tachyapneic to 30's, irreg and labored at times. O2 sats maintained >96% RA.
+
+GI: NPO, NGT with 250cc foul fecal-smelling drng since 12MN> Abd v.tender with mild palpation throughout; BS present, lactulose enema given, two mod BM following--mucous,yellow in color. Abd xray without changes, no free air 
+ Endo: BS 50-1 amp D50% given; SSI maintained.
+ 
+GU: Yellow urine >50cc/hr decreasing to 9cc/hr, amber by am via foley. IVF boluses. BUN/Creat elevated.
+
+Neuro: Somulent beginning of shift with increased restlessness at 12MN--answering occasional questiions with one word answers. Returning to min responsive by am--moaning when abd palpated. Following commands minimally to none. Husband notified by MD [**First Name (Titles) **] [**Last Name (Titles) 1833**] of TLCL.
+
+Plan: Maitain hemodynamics-neo gtt. TLCL> Probably repeat U/S abd. IV antibx. SSI. Correct electrolyte abnormalities. NGT. ?cause of decreased BP. Not a candidate for ERCP due to Bypass
+Neuro:  
+",,
+5046,7975,6257,0,3360-10-29 16:36:00 EST,3360-10-29 17:02:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Progress Notes
+
+Neuro: Pt. somnolent on inital assessment. Not reactive to painful/noxious stimuli. Pupils 4-5mm bilat and no reaction to light noticed, however MD states they are mildly reactive. Later in day patient grimacing when NGT repositioned. Rare spont. movements which are non-purposeful & occur in the UE's only.  Sedated w/ Propofol gtt d/t high RR. Medicated 1x w/ Fentanyl for possible pain.
+Pulm: Intubated at 0700 this AM. Breath sounds clr initially, now more coarse throughout. Has not required suctioning. Sats 95-100% on 70% FiO2. 
+CV: Heart tones distant.  Pulses improved this afternoon since BP has improved. BP was as low as 50/30s this AM and with numerous NS fluid boluses and Levophed at 0.5mcg/kg/min and Vasopressin at 0.02units/min, she is now > 100 systolic. Radial pulses very weak. Left PT by doppler only. Toes/fingers cyanotic and cold; trunk/chest warm. Temp 37.1-38.0 core. Swan Ganz catheter inserted. CO 4.13/CO 3.11/SVR 1394/PVR 174. NSR 110-130s. Only ectopy noted was during SG insertion, which incl. self-limiting, self-resolving [**Hospital1 **]-trigeminy. 
+GI: Abd. increasing in size. Extrememly taunt, distended and firm. No bowel tones. NGT R nare. Advanced NGT 5cm per recommendation of Surgery team. Draining yellow/tan bilious draininage. pH 6.0, heme +. 
+Pt. does not grimace when abd. palpated. One small BM -yellow mucoid- this AM. Fecal incont. bag placed, but no further BMs. Lactulose enemas had been given last noc. 
+GU: Urine output steadily decreased this AM, to about 3-9cc/hr. Now increasing to about 20-40/hr. Bladder pressures were obtained x 1, result = 35. Urine is very dark - tea->coffee colored. 
+ID: Cont. on Flagyl, Levofloxacin, and Ampicillin. WBC 1.2 this AM. 4.8 this afternoon.  
+HEME/LABS: Coags have now increased today. PT 21.5/PTT 73.6/INR 3.1.
+FAMILY: Husband [**Name (NI) 39**] was in today and spoke w/RN and MDs. Was very tearful when he saw [**Known patient firstname 8154**]. Asked appropriate questions. He states [**Known patient firstname 8154**] has family in [**State 1305**], including a mother who is also in poor health, requiring hospitalization, and he has not yet been able to notify them of [**Known patient firstname 8155**] situation. 
+** Patient taken to the OR at 1600 after phone consent was obtained w/RN and MD. **
+",,
+5046,7975,6257,0,3360-10-29 19:17:00 EST,3360-10-29 19:24:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Addendum
+
+[**3360-10-29**]  1915
+
+Pt. returned from OR at approx. 1750. VSS. BP per A-line reads 133-138/80-90. Levophed and Vasopressin cont. at same rates, however Levophed now being titrated down. Latest dose = 0.30 mcg/kg/min. Vasopressin at fixed dose of 0.02 units/min. Propofol gtt restarted for sedation. Core temp 35.7. Bear Hugger placed and turned on HIGH. 
+ABG drawn and sent. Results in CCC or flowsheet. Lactate was also run off ABG, result = > 9, up from earlier today. Sats 95+% on same vent settings as before [**Doctor First Name **]. UOP improved. Lighter in color and increased output. Abd. less distended. No response by pt. when palpated. 
+
+ALS and MD transferred pt. to west campus SICU at 1845. Propaq monitor sent w/ pt. for ABP monitoring capability. 2 additional units FFP sent in cooler w/ pt. 
+
+Rings from Safe removed and secured to chart. Included were the patient's 2 rings. 
+
+ 
+
+",,
+5046,7975,6257,0,3360-10-30 04:39:00 EST,3360-10-30 04:55:00 EST,3495,"N",54,"Nursing/Other","system update","
+system update
+d: pt transferred from east campus at 1900- intubated, unresponsive, multiple hemodynamics lines in place (aline, pa, and triple lumen), vasopressin and levophed infusing on transfer. labs sent on admission- requiring replacement of calcium, magnesium and potassium.
+
+cv- pt initially cold- warm blankets and bair hugger applied. pt did warm up to 98.1 but again dropped to 95.8 after receiving several liters of fluid which was not warmed on rapid transfuser. bair hugger again re-applied with subsequent increase in temp. pt continues to be tachycardic to 120's. 1st degree av block with occassional pvc's noted. levophed weaned from 0.4 to 0.1, vasopressin dose unchanged. pt given 3 liters of lr in effort to bump cvp to high teens- low 20's. co/ci stable. see carevue for specifics. extremties cool- + pulses with doppler
+resp- acidosis initially improved with ph 7.32. bicarb gtt stopped on transfer. repeat abg showed ph 7.18- given 2 amps bicarb ivp with some improvement. by 4am, pt dropping sats- repeat abg done with continued acidsosis and low ph- given additional 2 amps bicarb and fio2 increased to 60%. bs coarse in bases. sx x1 for small amts tan secretions.
+gi: npo, abd taut and distended, no bowel sounds present. ngt patent and draining mod amts pink tinged fluid
+gu: bladder pressure 24-25. huo 30-50cc amber urine
+neuro: propofol gtt d/c'd at 2000. pt does appear to attempt to open eyes to tactile stimuli, no movement of extremities noted.
+
+a: hemodynamis monitored, lytes repleted, levo titrated to maintain map>70
+r: condition poor with continued acidosis and pressor requirements. continue to monitor labs closely
+",,
+5046,7975,6257,0,3360-10-30 18:19:00 EST,3360-10-30 18:30:00 EST,3643,"N",54,"Nursing/Other","FOCUS-CONDITION UPDATE","
+FOCUS-CONDITION UPDATE
+DATA-PT REMAINS UNRESPONSIVE, PERL 2MM REACT SLUGGISH, PT HAS NO GAG/
+ COUGH REFLEX.  EXREMITIES FLACCID.  PT REMAINS INTUBATED ON 60&/IMV
+ 20 THIS AM/PEEP 12.5.  PT SUCTIONED FOR SCANT SECRETIONS.  PT REMAINS  ACIDOTIC (METABOLIC) THRUOUT THE DAY.  ABD REMAINS FIRM/DISTENDED
+ ABD DRESSING CHANGED FOR MOD AMT SEROUS DRAINAGE X3.  NGT TO LCWS
+ DRAINING SL RED TINGED TO BILIOUS COLORED FLUID.  BLADDER PRESSURES
+ 25-21.  PT AFEBRILE,  MAP KEPT > 70 WITH PITRESSIN AND LEVOPHED DRIP.  PT REMAINS ON  DILAUDID GTT AT 1MG/HR.  U/O 25-30CC/HR.  PLT CT        DECREASING AND HCT.  INR INCREASING.  BS LOW THIS AM
+ACTION-2 AMPS BICARB GIVEN DURING THE DAY.  PT STARTED ON D10W WITH 
+ 2 AMPS BICARB AT 150CC/HR.  MULT BLOOD PRODUCTS GIVEN.
+ NA REMAINS HIGH-ALL MEDS/GTTS IN D5W.  1 AMP D50 GIVEN THIS AM.
+ LABS CHECKED FREQ AS ORDERED.
+ P02 DECREASED THIS PM-PEEP/FIO2 INCREASED.
+ HUSBAND CALLED IN AT 18:30-UPDATED ON PTS GRAVE CONDITION.
+RESPONSE-PT REMAINS ACIDOTIC/INCREASED O2 REQUIREMENTS THIS PM.
+PLAN-CONTINUE TO MONITOR CLOSELY.  CHECK LABS AS ORDERED.
+  
+",,
+5046,7975,6257,0,3360-10-30 18:41:00 EST,3360-10-30 18:42:00 EST,3643,"N",54,"Nursing/Other","FOCUS-ADDENDUM","
+FOCUS-ADDENDUM
+DATA-PT REMAINS MOTTLED FACE/EXTREMITIES.
+",,
+5046,,6257,0,3360-10-31 02:30:00 EST,3360-10-31 02:50:00 EST,3439,"N",54,"Nursing/Other",,"
+
+DATA/ACTION: PT CONTINUED TO BE ACIDOTIC PH 7.06-7.09 TROMETHAMINE 100MEQ IV OVER 2 HRS AND BICARB 2AMPS IV.W/ NO RESPONSE. LACTIC ACID RAISING STEADY TO 23. 
+SENT TO OR-HUSBAND AWARE OF GRAVITY OF SITUATION. RETURNED FROM OR-DEAD BOWEL-DR. [**Last Name (STitle) 312**] SPOKE TO HUSBAND-COMFORT MEASURES ONLY.
+PT EXPIRED 0208-DR. [**Last Name (STitle) 312**] CALLED HUSBAND.  
+
+",,

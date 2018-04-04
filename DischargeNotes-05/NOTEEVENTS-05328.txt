@@ -1,0 +1,1435 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5328,28535,,,2695-04-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2695-4-24**]       Discharge Date:
+
+Date of Birth:   [**2628-3-29**]       Sex:  F
+
+Service:  Cardiac [**Doctor First Name **]
+
+DISCHARGE DATE:  Pending. Awaiting rehabilitation bed.
+
+CHIEF COMPLAINT:
+1.  Mitral valve regurgitation.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 67 year-old
+female with a history of paroxysm atrial fibrillation who
+presented to outside hospital on [**2695-4-22**] with a three day
+history of severe shortness of breath on exertion. She has
+been short of breath for about one year and this has been
+associated with chest tightness but no pain. She underwent
+diagnostic catheterization at the outside hospital. Post
+catheterization she was hypotensive and lightheaded. She was
+at that point transferred to the CCU where she remained
+stable and ventilated. She was then transferred to [**Hospital1 184**].
+
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation.
+2.  Breast cancer status post mastectomy.
+3.  Cervical carcinoma.
+4.  mitral regurgitation.
+5.  Hysterectomy.
+6.  Cholecystectomy.
+
+ALLERGIES: None known.
+
+MEDICATIONS:
+1.  Atenolol 100 mg bid.
+2.  Digoxin 0.25 mg q day.
+3.  Lipitor.
+4.  Coumadin.
+5.  Tamoxifen 10 mg bid.
+6.  Zestril 5 mg q day.
+
+HOSPITAL COURSE:  The patient was admitted under the medical
+team on transfer from the outside hospital. She was continued
+on the Heparin drip and cardiothoracic surgery was consulted.
+She was taken to the operating room on [**2695-4-25**] and underwent
+a mitral valve repair with .................... 6 mm costal
+.................... drain.
+
+Postoperatively she continued to be in atrial fibrillation
+and was started on Amiodarone.  She went into rapid atrial
+fibrillation with a rate in the 140s. Blood pressure was
+borderline and an Amiodarone infusion was started.  She was
+extubated on postoperative day zero.  EP consult was called.
+Recommendations followed to continue the Amiodarone and start
+Diltiazem.
+
+Over the next few days she continued to remain in atrial
+fibrillation despite the Amiodarone and Diltiazem and other
+medications. On postoperative day four she developed
+respiratory difficulty and had to be re-intubated and also
+had right chest tube placed. Her cardiac rhythm remained in
+atrial fibrillation to flutter with a rate down to the 50s.
+Her blood pressure was maintained with a Neo-Synephrine drip.
+Temporary transvenous pacer was placed on [**2695-5-1**].  She was
+extubated on [**2695-5-2**].
+
+Meanwhile her cardiac rhythm continued in afib / a flutter at
+rates from 60s to 150s. She was started on po Lopressor. Her
+chest tube was discontinued on postoperative day seven. She
+was started on Levofloxacin on postoperative day eight.  She
+had an increased white count and was found to have E coli in
+her urine for which the Levofloxacin and Vancomycin were
+started.
+
+On [**2695-5-6**] a vascular surgery consult was obtained for a
+swollen left arm. She underwent an ultrasound of the left
+upper extremity to rule out DVT which was ruled out.  Her
+transvenous wire and sheath were discontinued on [**2695-5-6**].
+She was started on IV Heparin. She was deemed stable enough
+to transfer to the regular floor on [**2695-5-7**]. By this time
+she had converted into sinus rhythm with a rate in the 50s.
+Her pacing wires were discontinued for transfer to the floor.
+
+On [**2695-5-9**] she went into atrial fibrillation again. She was
+minimally symptomatic. EP was consulted again and she was
+given an extra dose of Amiodarone. Her IV Heparin was
+continued and the plan was that she needed a pacemaker only
+if she was bradycardic and in sinus rhythm. Plans are now
+being made for her transfer to the [**Location 6244**] where she
+will be followed by her regular cardiologist, Dr. [**First Name (STitle) **]. She
+will be discharged to the PCU on a Heparin drip. She has been
+started on Coumadin and is being anticoagulated. Further
+decisions regarding atrial fibrillation and need for a
+pacemaker will be made by Dr. [**First Name (STitle) **].
+
+DISCHARGE MEDICATIONS:
+1.  Lopressor 50 mg bid.
+2.  Lasix 20 mg bid times one week.
+3.  Colace 100 mg bid.
+4.  Aspirin enteric 325 mg po q day.
+5.  Captopril 25 mg tid hold for a systolic blood pressure
+less than 110.
+6.  KCL 20 milliequivalents bid.
+7.  Amiodarone 400 mg q day.
+8.  Coumadin 5 mg q day, dose to be adjusted by physician at
+the reb center depending upon the INR.
+
+DI[**Last Name (STitle) 404**]E FOLLOW UP:  Follow up is with Dr. [**First Name (STitle) **] at [**Location 6245**]. Follow up with primary care physician in two weeks.
+Follow up with Dr. [**Last Name (Prefixes) **] in four weeks.
+
+
+
+
+                            [**Doctor Last Name 127**] [**Last Name (Prefixes) 128**], M.D.  [**MD Number 129**]
+
+Dictated By:[**Last Name (NamePattern1) 247**]
+MEDQUIST36
+
+D:  [**2695-5-10**]  09:20
+T:  [**2695-5-10**]  10:01
+JOB#:  [**Job Number 6246**]
+Signed electronically by: DR. [**First Name (STitle) 127**] [**Last Name (Prefixes) 128**]
+ on: MON [**2695-6-3**] 5:15 PM
+(End of Report)
+
+
+",,
+5328,28535,,,2695-04-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-24**] 8:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10246**]
+     Reason: pt with chf, MR, here preop for MVR                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with paf, cervical ca, breast ca, htn, MR                     
+     REASON FOR THIS EXAMINATION:
+      pt with chf, MR, here preop for MVR                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST RADIOGRAPH [**2695-4-24**], 20:43.
+     
+     INDICATION:  Pre-op for MVR surgery.
+     
+     No priors.
+     
+     FINDINGS:  Endotracheal tube is located 3 cm above the carina.  A faintly seen
+     NG tube is seen with tip just below the diaphragms.  Patient is post left
+     mastectomy. The heart is likely enlarged and there is upper zone
+     redistribution of the pulmonary vasculature, which even in this supine film
+     likely represents a small amount of interstitial pulmonary edema. There may be
+     a layering right pleural effusion. There are no focal consolidations to
+     suggest pneumonia and no effusions are seen.  
+     
+     IMPRESSION:
+     
+     1) Endotracheal tube in place.
+     
+     2) Post left mastectomy.
+     
+     3) Slight heart failure with a probable right effusion.
+
+",,
+5328,28535,6612,0,2695-04-25 01:10:00 EST,2695-04-25 02:38:00 EST,2147,"N",69,"Nursing/Other","NSG ADMIT NOTE P-MICU","
+NSG ADMIT NOTE P-MICU
+67YO female transfered this evening from [**Hospital1 **] s/p cath requirring MVR, in the AM. 
+
+PMH: A-fib
+     Breast Ca s/p left mastectomy
+     Cervical Ca
+     MR
+     Hysterectomy
+     s/p chole
+  
+All: NKDA
+
+HPI: Admitted to [**Hospital1 **] [**4-22**] with 3-4 day hx of SOB/palpitations, admitted to [**Hospital1 **]. Cardiac Cath performed [**4-24**] became unstable requirring intubation during the cath due Flash Pulmon. Edema and became hypotensive. Cath results showed severe MVR requiring MV replacement. Became hypertensive requiring Nipride Gtt for a short time and rec'd Lasix 30mg IVP times one. EF-10%,PW-50, PAD lesion noted. transfered to [**Hospital1 2**] for MV replacement. 
+
+ROS: Respir: Arrived intubated placed on A/C 60%/600/12 with Peep-10, able to wean Peep to 5 and FIO2 decreased to 50% for ABG-7/46-38-230-3-28.  L/S clear few crackles @ bases. O2 sats 95-99%. CXR performed showed mild CHF. 
+
+C/V: BP-110-140's/60, HR60-70 first degree HB, no ectopy noted. BP down to 80's s/p sedation boluses. Ordered for Captopril PO TID evening dose held. Started on IV Heparin Gtt for hx of A-fib. @ present is on 1300 units/hr, repeat PTT due @ 4AM. To go for MVR @ 9AM. No c/o's CP noted, EKG done upon admit. 
+
+GI: NGT in placed is NPO, LFT's elevated. Liver U/S done @ [**Hospital1 **], ?'ing abnormality in lateral lobe. 
+
+GU: u/o 40-60cc/hr, BUN/CRE 27/0.8. 
+
+Heme: PT/PTT 14.5/29.7 INR 1.5. HCT 35. 
+
+ID: WBC elevated 14.0 no temps. Started on IV Clinda.  BC's times two obtained and urine C&S sent. 
+
+Neuro: Increased agitation required Versed Gtt, started @ 2mg/hr, rec'd several IVB's during A-line placement. @ present is on 5mg/hr. Still becomes agitated pulling and straining against the restraints @ times requiring additional boluses. 
+
+Lines: Arrived with 2 #22's in right wrist, one was infiltrated, one flushed well. New #20 placed in left wrist and left AC. A-line attempted but was unsuccessful. 
+
+Social: Is married with 2 daugthers, husband talked with [**Doctor First Name 134**]. over the phone, daugther [**Doctor First Name 181**] in to visit and talked with CCU team. 
+
+P: Send to OR in AM for MVR. 
+
+
+                                                                                                                                                                                                                                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,
+5328,28535,6612,0,2695-04-25 11:07:00 EST,2695-04-25 11:22:00 EST,-1,"N",69,"Nursing/Other","Nursing Transfer Note.","
+Nursing Transfer Note.
+Briefly, this is a 67 yr old caucasion female admitted o/n to MICU.  Pt had been at an outside Hospital receiving a cardiac cath procedure during which she decompensated requiring emergent intubation.  Cardiac cath procedure verified that the pt has severe MR that will need to be replaced -- she is presently awaiting to be transferred to surgical team for this surgical procedure.  EF found to be 10%.  PMH includes; SOB times one year, A fib, Breast CA s/p L mastectomy, Cervical CA, MR, hysterectomy, choleocystectomy.  NKDA.  Meds; Atenolol, digoxin, lipitor, coumadin, tamoxifen, zestril.  The pt is a full code on univ isolation precautions. 
+RESP: Pt presently on MV c the following settings; AC-12-50-600-5.  LSCTA b/l.  No secretiions per ETT.  Last ABG o/n WNL.  Presently breathing comfortably c vent.
+CV: Pt HDS c new L radial A-Line in place.  Pt is in a fib, no ectopy noted this am.  +Heart murmur.  AM PTT = 150, per surgical team Heparin gtt d/c'ed @ 10:00 per there direct request.  No peripheral edema, weak but palpable distal pulses.  R Fem cath site benign.  Afebrile.  Blood bank has blood prod on reserve for this pt.  10mg Vit K sq injection provided per team order.  New PIV placed by anesthesia into R AC. 
+GI: NPO awaiting surgery.  OGT patent, stomach empty of contents.  Abd is firm, +BS noted.
+MS: Pt well sedated on 7mg/hr of Verced.  Pt responsive to verbal stimuli, but to obtunded to respond normally.  UE restrained to protect ETT/A-Line/Foley.  PERRL.  
+FAMILY: No contact from any family members thus far on day shift.  The pt is a full code.
+OTHER: Please see CareWeb for additional pt care data/comments.  
+",,
+5328,28535,6612,,2695-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-26**] 3:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10247**]
+     Reason: r/o ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with paf, cervical ca, breast ca, htn, MR , s/p  mvr and ct
+      removal
+     REASON FOR THIS EXAMINATION:
+      r/o ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**2695-4-26**] compared to two days earlier.
+     
+     CLINICAL INDICATION:  Breast cancer.  Chest tube removal following valve
+     surgery.
+     
+     Since the previous study, the patient has undergone median sternotomy and
+     valve surgery.  A Swan-Ganz catheter is present, terminating in the region of
+     the main pulmonary artery.
+     
+     There is a small left pneumothorax present.
+     
+     There are moderate-sized bilateral pleural effusions, slightly increased on
+     the right and new on the left in the interval.
+     
+     Cardiac and mediastinal contours are stable.
+     
+     IMPRESSION:
+     
+     1) Small left pneumothorax with moderate pleural effusion, consistent with
+     hydropneumothorax.
+     
+     2) Moderate-sized right pleural effusion, increased in size in the interval.
+
+",,
+5328,28535,6612,,2695-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-26**] 7:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10248**]
+     Reason: check pa placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with paf, cervical ca, breast ca, htn, MR , s/p  mvr and ct
+      removal
+     REASON FOR THIS EXAMINATION:
+      check pa placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to earlier the same day.
+     
+     CLINICAL INDICATION: Pulmonary artery catheter placement.
+     
+     A Swan-Ganz catheter has been retracted slightly in the interval and
+     terminates in the right ventricular outflow tract. The patient is status post
+     mediansternotomy.
+     
+     There is a small left apical pneumothorax, not significantly changed in the
+     interval.
+     
+     Heart is enlarged but stable in size. There is perihilar haziness present.
+     There is a left apical pneumothorax, small in size and stable compared to the
+     previous study.
+     
+     Moderate right and small left pleural effusions are again demonstrated with
+     interval increase in right sided effusion.
+     
+     IMPRESSION: 1. Swan-Ganz catheter terminates in right ventricular outflow
+     tract.
+     
+     2. Persistent small left apical pneumothorax.
+     
+     3. Moderate right and small left pleural effusions with interval increase in
+     size of right effusion in the interval.
+
+",,
+5328,28535,6612,0,2695-04-26 02:59:00 EST,2695-04-26 03:12:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt initally sedated on propofol weaned off and pt awoke following commands somewhat sleepy but very easy to arouse by calling name.
+Resp: weaned and extubated around midnight with good abg. pt placed on open face tent 2nd to mouth breathing and sats dropped into 80's% with 4l np once placed on 50% open face tent sats improved to 95-98%. Chest tubes draining minimal amounts of serous sanguinious drainage.
+C/V: Pt on amiodarone drip and milrinione drip briefly on neo and then nitro prior to awakening. pt ci dropped last evening to 1.4 when in sinus rhythm rate in the 50-60's pt apaced at rate of 80 with improveemnt to 1.8 so rate increased to 100 with CI >2.0 Rate adjusted down to 90 per Dr [**Last Name (STitle) **] as long as index stayed >2.0. Urine ouputs dropped off and CI dipped to 2.03 pt received total of 1000cc of lr. At 0300 pt went into a rapid afib rate 115-140's. CI dropped to 1.8 and bp borderline. ho ordered amiodarone bolus of 150mg and increase drip back to 1mg. 
+GI: OGT draining small amounts of bilious fluid, D/C'd when extubated.
+Endo: Blood sugars elevated treated with sliding svcal protcol.
+GU: urine outputsdropped off to 15cc/hr pt given 2 fluid boluses with no improveemnt ho aware to monitor for now until afib resolved.
+skin: incision clean and dry no drainage.
+Pain: pt started on Torodol IV denies need for pain medication when every asked.
+",,
+5328,28535,6612,0,2695-04-26 12:17:00 EST,2695-04-26 12:25:00 EST,3233,"N",54,"Nursing/Other","CSRU UPDATE NOTE","
+CSRU UPDATE NOTE
+NEURO: A/A/0X 3, MAE, FC'S, PAIN WELL CONTROLLED WITH PERCOCET TAB AND TORADOL.
+
+CV: TELE SB- AFIB 90'S-130'S, PT BOLUSED ON MY SHIFT WITH AMIODRAONE 150MG IV X 2 AND AMIODARONE GTT REMAINS AT 1MG/MIN.  PT WITH DROP IN CI TO 1.7, TREATED WITH 500ML HESPAN AND INDEX DIDN'T IMPROVE.  PT STARTED ON NTG AND INDEX IMPROVED TO 2.1  PRESENTLY CI 1.9 AND UO IS BORDERLINE WILL CONTINUE TO MONITOR FOR NOW PER [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] NP.  PLAN MAYBE TO INCREASE MILRINONE GTT WHICH IS INFUSING AT .25MCG/KG/MIN.  DISTAL PULSES ARE PALPABLE BUT WEAK, SKIN IS PALE, WARM AND DRY.
+
+RESP: PT IS ON 50% FACE TENT, ATTEMPTED NC; PT MOUTH BREATHES AND 02SATS DECREASED TO 91-92%, LS ARE DECREASED AT LEFT BASE, ? CXR TODAY, CT'S WERE REMOVED. PT IS PERFORMING INCENTIVE SPIROMETER AND CDB EXERCISES WITH ASSISTANCE.
+
+GI: ABD SOFT, BS'S PRESENT, PT TAKING IN ICE CHIPS, NO NAUSEA NO VOMITTING.
+
+GU: FOLEY PATENT, PASSING CONCENTRATED YELLOW URINE.
+
+ENDO: GLUCOSES ELEVATED REQUIRING SS INSULIN.
+
+HEME: HCT 32.0
+
+ID: ON POST-VANCO, AFEBRILE.
+
+A. STABLE
+P. MONITOR HR AND RHYTHM, CONSULT EPS IF PT DOES NOT CONVERT TO A NSR, FOLLOW CI AND UO. PULMONARY TOILET, PAIN CONTROL, EMOTIONAL SUPPORT, ADVANCE DIET AS TOLERATED.
+",,
+5328,28535,6612,0,2695-04-26 15:28:00 EST,2695-04-26 15:34:00 EST,3204,"N",54,"Nursing/Other",,"
+
+increasingly hypertensive w high svr,low ci,svo2< 60% & poor urine outputs despite increased milrinone & ntg. snp added w improved effect. c/o sob w crackles rll,lasix given. pain controlled w percocet & toradol.tolerating ice & sips well.see flow sheet.
+",,
+5328,28535,6612,0,2695-04-26 21:54:00 EST,2695-04-26 21:58:00 EST,3204,"N",54,"Nursing/Other",,"
+
+SUDDEN ONSET SOB W DROPPING SPO2,SLIGHT INCREASE IN PAP'S & SEVERE HYPERTENSION W CONSISTENT VRR > 135. SNP INCREASED,MSO4 GIVEN.DR. [**Last Name (STitle) **] CALLED TO BEDSIDE.LAOPREOOR 5 MG GIVEN X 2 W LASIX 20 MG. STARTING TO DIURESE,HR INTO MID 120'S W IMPROVED BP & SLOWLY INCREASING SPO2.
+",,
+5328,28535,6612,0,2695-04-27 04:48:00 EST,2695-04-27 04:54:00 EST,3120,"N",54,"Nursing/Other",,"
+
+NEURO: PT SLEEPING WELL THROUGH NIGHT WAKING INTERMITTENTLY 
+RESP: IMPROVED SATS AFTER LASIX FIO2 WEANED BACK DOWN TO 50% OPEN FACE TENT WITH SATS RUNNING 94%. NO FURTHER C/O SOB.
+C/V: PT REMAINS IN AFIB WITH INTERMIITENT PERIODS OF RATE DROPPING TO 50'S AND PACER KICKING IN BUT THEN WOULD QUICKLY GO BACK IN TO AFIB WITH RATE 100-130. BLOOD PRESSURE IMPROVED NIPRIDE TITRATED TO KEEP BP<150 AND SVR'S DOWN. CI REMAINS ABOVE 2.0 WITH SVO2 61% MILRIONONE DECREASED TO 0.25MCG/KG/MIN. MAG AND CA TREATED AS ORDERED.
+ENDO: BLOOD SUGARS ELEVATED AND TREATED WITH SLIDING SCALE INSULIN.
+GU: PT DIURESED WELL AFTER LASIZ 20MG IV URINE OUTPUTS NOW TAPERING OFF TO 30CC/HR THIS AM.
+PAIN: PT C/O INTERMITTENT PAIN TREATED WITH MORPHINE 2MG IV.
+",,
+5328,28535,6612,0,2695-04-27 05:31:00 EST,2695-04-27 05:37:00 EST,3120,"N",54,"Nursing/Other","ADDENDUM","
+ADDENDUM
+AFTER TURNING PT SIDE TO SIDE IN BED PT STATED SHE WAS EXHAUSTED BECAME HYPERTENSIVE DROPPED SATS INTO 80'S C/O SOB. PA PRESSURE AT TIME WERE ELEVATED 60-70/30'S. PT GIVEN MSO4 2MG IV AND NIPRIDE INCREASED TO 1.3MCG, FIO2 INCREASED BACK TO 70%. HO IN TO SEE PT LASIX 20MG IV GIVEN. BREATH SOUNDS DIMINISHED AT THE BASES. PT SETTLED AFTER MSO4 PA PRESSURES BACK DOWN TO 40/20 BP DOWN TO 120-130/50'S. O2 SAT NOW  94% PT APPEARS MUCH MORE COMFORTABLE. 
+",,
+5328,28535,6612,0,2695-04-27 16:05:00 EST,2695-04-27 16:19:00 EST,3100,"N",54,"Nursing/Other",,"
+
+Neuro:  Intact.
+
+CV:  A-febrile.  Fast A-fib rate slowed by amiodarone, lopressor, and diltiazem.  CO/CI WNL.  No ventricular ectopy.  HTN controlled with SNP.  
+
+Resp:  ""tight"" breathing.  Resp effort normal to elevated.  Resp rate normal to elevated.  BS diminished on Left.  Sensation of tight breathing relieved with MSo4.  MD's aware and attribute to beta 2 activety of amiodarone and beta blocker.
+
+GI:  No appetite.  Tol ice chips and sips of clears.  Hypoactive BS.
+
+GU:  Diuresing well with lasix.  
+
+Pain:  No complaint of pain.  MSo4 for ""tight"" breathing.  
+
+Activety:  Bedrest.
+
+Soc:  Husband and Daughter at bedside visiting.  All questions answered.  
+
+Misc:  Pt's ring, yellow metal w/ 1 red stone and 6 white stones, located in security.  Ring had been cut off in OR.  Pt, dauhgter, and husband made aware of ring being cut off.  All of them were relieved that ring had been found.  None of them seemed distressed that ring had been cut.  Daughter stated, ""That's OK, we can just take it to a jeweler"".
+
+",,
+5328,28535,6612,0,2695-04-27 22:00:00 EST,2695-04-27 22:09:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT WITH AFIB UP TO 130'S CI DOWN TO 1.9, LOPRESSOR 2.5 MG IV X1 GIVEN WITH MODERATE RESPONSE BUT REMAINS IN/OUT AFIB BUT RATE IN THE LOW 100'S. DISCUSSED WITH NASWAS, PLAN IF HR UP GIVE BOLUS OF DILTIAZEM, NO MORE LOPRESSOR. WILL ACCEPT U/O 20-30CC/HR, WILL ACCEPT CI 1.8-1.9. REMAINS ON DILTIAZEM AT 15, MILIRONE AT .25, SNP .25, PLAN TO GIVE CAPTORIL AND POSSIBLY WEAN SNP TO OFF. FIO2 DELIVERY CHANGED O2 100% DOWN TO 60% WITH SAO2 96%, RR 16-24. CONTINUE TO MONITOR CLOSELY, TREAT ELECTROLYTES, INSULIN DRIP AT 2U/HR.
+",,
+5328,28535,6612,,2695-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-28**] 3:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10249**]
+     Reason: S/P MVR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with paf, cervical ca, breast ca, htn, MR , s/p  mvr and ct
+      removal
+     REASON FOR THIS EXAMINATION:
+      S/P MVR
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2695-4-28**]:  Compared to two days earlier.
+     
+     CLINICAL INDICATION:  Chest tube removal following valve surgery.
+     
+     A Swan-Ganz catheter remains in place, terminating in the right ventricular
+     outflow tract.  A previously reported left pneumothorax is no longer evident.
+     
+     The cardiac and mediastinal contours are stable.  There are moderate-sized
+     bilateral pleural effusions, slightly improved on the right.
+     
+     IMPRESSION:
+     1)  Resolution of left pneumothorax.
+     2)  Persistent bilateral pleural effusions, slightly improved on the right
+     since the previous study.
+
+",,
+5328,28535,6612,,2695-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-28**] 8:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10250**]
+     Reason: s/p insertion of R-IJ cordis and PA Catheter
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with paf, cervical ca, breast ca, htn, MR , s/p  mvr and ct
+      removal
+     REASON FOR THIS EXAMINATION:
+      s/p insertion of R-IJ cordis and PA Catheter
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2695-4-28**]:  Compared to previous study from earlier the same
+     day.
+     
+     CLINICAL INDICATION:  Pulmonary artery catheter placement.
+     
+     A Swan-Ganz catheter has been advanced in the interval and is now in the right
+     pulmonary artery.  The cardiac and mediastinal contours are stable.  There are
+     moderate-sized bilateral pleural effusions.  The left effusion appears
+     slightly increased in the interval and the right appears stable.
+     
+     IMPRESSION:
+     1)  Advancement of Swan-Ganz catheter, terminating in the right pulmonary
+     artery.
+     2)  Moderate bilateral effusions, left greater than right, with slight
+     interval increase in left effusion in the interval.
+
+",,
+5328,28535,6612,0,2695-04-28 03:54:00 EST,2695-04-28 04:03:00 EST,3444,"N",54,"Nursing/Other",,"
+
+ PATIENT REMAINS IN AFIB WITH APPROX. 20% OF THE TIME APACED , RATE LOW 100'S, DESPITE BEING ON AMIODARONE DRIP AT .5MG/MIN, DILTIAZEM AT 15MG/HR. MAY NEED TO INCREASE CAPTOPROL, AT 6.25, CI HOVERING AT 2.0 WHILE ON MILIRONE AT .25MCG/KG/MIN, KEEPING SNP AT .25MCG/KG/MIN. RECEIVED X1 DOSE LOPRESSOR FOR HR IN THE 130'S. REMAINS ON INSULIN DRIP 1-3U/HR KEEPING BS 120-10 RANGE. K 3.7 RECEIVING 20MEQ KCL, U/O 25-30CC/HR. MGSO4 2GMS IV GIVEN. AM LABS SENT. COUMADIN 5MG PO GIVEN AT 10PM [**4-27**]. MAY NEED LASIX THIS AM, WGT STILL THE SAME. VANCOMYCIN CONTINUES D/T VALVE WITH SWAN IN STILL. CHEST INCISIONAL CLEANED WITH NS, APPROXIMATED WITH S/S CLEAN. RESP STATUS REMAINS TENUOUS, WITH FIO2 INCREASED TO 70% THIS AM, DESPITE CPT/ PRODUCTIVE COUGH THICK TAN SPUTUM. GIVEN 2MG MSO4 PRIOR TO CPT. [**Last Name (un) **] 92% THIS AM WITH ABG FAIR, CONTINUE TO DIURESIS THIS AM.
+",,
+5328,28535,6612,0,2695-04-28 17:05:00 EST,2695-04-28 17:16:00 EST,3100,"N",54,"Nursing/Other",,"
+
+Neuro:  unchange.
+
+CV:  Afib rate increased this afternoon.  Amiodarone bolus(es) ordered and hanging.  No ventricular ectopy.  Goal to decrease rate to 80-100.  Titrating SNP for BP.  
+
+Resp:  Unchanged (short of breath, desats with exertion).  ABG WNL.  Decreased on Left side.
+
+GI:  No appetite.  BS hypoactive to present.  
+
+GU:  Diuresing well with lasix.  
+
+Pain:  Treated with MSo4 as needed (see medsheet)
+
+Activety:  Bedrest
+
+Plan:  Swan and Cordis change.
+",,
+5328,28535,6612,,2695-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-29**] 9:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10252**]
+     Reason: s/p chest tube insertion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and reintubation
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube insertion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  S/P chest tube placement.
+     
+     CHEST, AP:  Comparison is made to previous films from earlier today.  There is
+     interval placement of the right sided chest tube, which appears to be kinked.
+     Again noted is evidence of Swan-Ganz catheter and ETT, both of which are in
+     good position.  No evidence of pneumothorax.  Again noted is evidence of left
+     lower lobe collapse, consolidation.
+     
+     IMPRESSION:   Interval placement of right sided chest tube, which appears to
+     be kinked.  No evidence of pneumothorax.
+
+",,
+5328,28535,6612,,2695-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-29**] 8:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10251**]
+     Reason: check et placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and reintubation
+     REASON FOR THIS EXAMINATION:
+      check et placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   ET tube placement.
+     
+     CHEST, AP:  Comparison is made to previous films from [**2695-4-28**].  There is
+     interval placement of ET tube, which appears to be in good position.  There is
+     placement of Swan-Ganz catheter, with the tip in the right main pulmonary
+     artery.  There is evidence of enlarged hydropneumothorax on the right side.
+     No evidence of pneumothorax on the left side.  The left hemidiaphragm is not
+     well visualized, consistent with left lower lobe collapse/consolidation. The
+     visualized the osseous structures are unremarkable.
+     
+     IMPRESSION: There is evidence of a large right hydropneumothorax noted.  Left
+     lower lobe collapse/consolidation.
+
+",,
+5328,28535,6612,,2695-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-29**] 11:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10253**]
+     Reason: Asses chest tube repositioning
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and reintubation. CT placement
+     REASON FOR THIS EXAMINATION:
+      Asses chest tube repositioning
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  S/P MPR.  Chest tube placement.
+     
+     CHEST, AP:  Comparison is made to previous films from two hours earlier.
+     AGain noted is evidence of ETT placement and Swan-Ganz placement.  Both of
+     which are in good position.  There is adjustment of the right sided chest
+     tube, which now appears to be in good position.  No evidence of pneumothorax.
+     There is a small right pleural effusion.  The left hemidiaphragm is not well
+     visualized, consistent with left lower lobe collapse/consolidation. Visualized
+     osseous structures are unremarkable.
+     
+     IMPRESSION:   Adjustment of the right sided chest tube which now appears to be
+     in good position.
+     
+     Left lower lobe collapse/consolidation.
+
+",,
+5328,28535,6612,0,2695-04-29 01:28:00 EST,2695-04-29 01:44:00 EST,3799,"N",54,"Nursing/Other",,"
+
+Neuro: Pt. awake and restless at times. Moaning about her breathing. Medicated with mso4 4mg iv for lower sternal discomfort, ease of breathing and to help reduce elevated PA #'s. 
+ 
+Cardiac: Pt. continues on amiodarone and diltiazem. Rhythm varies between afib/flutter/nsr. hr occ. accelerates to 120-130's. Milrinone off at 2400. 
+
+Pulm: Continues on hi-flow neb at 95% o2. sao2 drifts to 88% with anxiety. improved to 96% after mso4. C&R yellow secretions. BS clear in upper lung fields but diminished elsewhere. 
+
+GI: taking pills with sips h20. no n/v.
+
+GU: lasix po started with no diuretic response. changed to IV with additional dose at 2400. Improved response. po kcl given as ordered.
+
+Integ: Sternal incision c&d. dsg over ct site; tubes are out.  PA/Cordis changed o/w for elevated WBC. Vanco continues. 
+
+Plan: ? echo today to eval MVR fx.
+",,
+5328,28535,6612,0,2695-04-29 19:35:00 EST,2695-04-29 19:39:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Resp: difficulty with breathing - worked with pulmonary exercises - increased captopril and exta lasix doses - progressively got worse and required intubation - intubated by anesthesia without difficulty - received etom/succ/fent.  b/p decreased and neo started, nipride off.
+
+Abdomen with hypoactive bs - given reglan x2 with improvement - starting to pass flatus and nausea resolved.
+
+Hemodynamics decreased as resp decompensating - NP aware 
+
+Neuro intact prior to sedation 
+
+",,
+5328,28535,6612,,2695-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-4-30**] 1:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10254**]
+     Reason: S/P CORDIS/SWAN INSERTION-R/O PTX/CHECK PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and reintubation
+     REASON FOR THIS EXAMINATION:
+      S/P CORDIS/SWAN INSERTION-R/O PTX/CHECK PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2695-4-30**] compared to 1 day earlier.
+     
+     INDICATION:  Swan-Ganz catheter insertion.  Assess for pneumothorax.
+     
+     A Swan-Ganz catheter is present, terminating in the right pulmonary artery.
+     An endotracheal tube, right-sided chest tube, and nasogastric tube are also in
+     satisfactory position.
+     
+     The patient is S/P median sternotomy.  Heart is mildly enlarged but stable in
+     size. There is persistent left lower lobe atelectasis and small pleural
+     effusions, left greater than right.  The right lung demonstrates a focus of
+     subsegmental atelectasis in the right mid-lung zone but is otherwise clear.
+     No pneumothorax is evident.
+     
+     IMPRESSION:  1)  Lines and tubes in satisfactory position.
+     
+     2)  Persistent left lower lobe atelectasis and small pleural effusions, left
+     greater than right.
+
+",,
+5328,28535,6612,0,2695-04-30 01:26:00 EST,2695-04-30 02:05:00 EST,3799,"N",54,"Nursing/Other",,"
+
+Pt. intubated & propofol started once bp improved. Po2 180 on 100% fio2. cxr showed large right pleural effusion. Right pleural ct placed with 600cc straw colored drng obtained initially with large amount that spilled in bed. CT repositioned due to kink visualized on cxr. SAo2 consistently 100% and fio2 weaned to 40% with good abg. 
+
+Cardiac: rhythm afib to a-flutter rate down to the 50's. A-pacing at 90 with occ. loss of capture. bp maintained low 100 with neo .5-1mcq/kg. Dilt drip and amiod drip continue. CO/CI low ? tracing vs tricuspid regurg issue. mvbg sent 60%. reported to dr. [**Last Name (STitle) **]. 
+
+Pulm: fio2 weaned to 40%. pip's low 20's. right pleural ct drng straw to serosang drng. no air leak.
+
+GI: OGT drng. bilious. 
+
+GU: started on lasix drip dose turned up to 10mg/hr. Diuresing extremely well. K+ repleted prn. 
+
+Integ: sternal incision approx. with dermabond. no drng. OTA.
+
+Labs: k+, ca++ repleted. 
+plan: diurese, afterload reduce with captopril. keep sbp ~100. wean vent when cxr clear, effusions less and fluid balance remains neg.  ? cardiac echo for valve fx.
+",,
+5328,28535,6612,0,2695-04-30 17:39:00 EST,2695-04-30 18:05:00 EST,3025,"N",54,"Nursing/Other","UPDATE","
+UPDATE
+CV: HR ALTERNATING BET AF/FLUTTER AND NSR IN VARYING RATES. SBP TO LOW 80'S WHEN RATE DROPPING TO 50'S. DILT AND AMIO GTTS D/C'D. NEO RESTARTED W/O EFFECT. DOPA STARTED W/ SOME IMPROVEMENT OF BP. EPICARDIAL WIRES NOT SENSING OR CAPTURING APPROPIATELY. NEW PACING SWAN AND CORDIS PLACED BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] P.A. SWAN ALSO PACING BUT NOT ALWAYS CAPTURING. BP MORE STABLE THIS AFTERNOON AFTER CA+2 REPLACED. C.I. BY T.D. STILL<2, >2 BY FICK. MVO2 IN LOW 50'S. AWAITING EVAL BY E.P. TEAM. HEPARIN GTT D/C'D IN CASE OF POTENTIAL PACER PLACEMENT.
+
+RESP: MILD RESP ALKALOSIS ON CPAP. PAO2 IN 80'S ON .40 FIO2. SUX FOR MINIMAL AMT THIN YELLOW SECRETIONS. SPEC SENT FOR CX GIVEN ELEVATED WBC. PLEURAL CT W/MIN STRAW-COLORED DRNG. NO PLAN TO EXTUBATE TODAY.
+
+NEURO: AWAKE BUT CALM ON LOW DOSE PROPOFOL. MAE AND FOLLOWS COMMANDS. DENIES PAIN @ PRESENT.
+
+G.I.: OGT W/ BILIOUS DRNG. 
+
+G.U.: LASIX OFF IN A.M. WHEN BP LOW. CONTINUES TO DIURESE ON OWN. K+ AND CA+2 FREQ REPLACED.
+
+I.D.: WBC 19 TODAY. AFEBRILE. CONT ON VANCO. 
+
+SKIN/INCISIONS: SKIN AND INCISIONS INTACT. CT DRSG CHANGED FOR MOD AMT SEROSANG DRNG.
+
+A/[**Last Name (STitle) 8443**] STABLE THIS EVE. CONT TO MONITOR HR/BP CLOSELY. PACER ON VVI. EXTERNAL PACING PADS ALSO IN PLACE. CHECK LYTES FREQ AND REPLACE PRN. COMFORT MEASURES. ORIENT PRN. WILL TRANSFUSE W/ 1U PRBC PER DR. [**Last Name (Prefixes) 656**].
+",,
+5328,28535,6612,0,2695-05-01 04:30:00 EST,2695-05-01 04:41:00 EST,3714,"N",54,"Nursing/Other",,"
+
+NEURO AWAKE AND APPROPRIATE. PROPOFOL INCREASED SLIGHTLY TO AID IN SEDATION. THEN DECREASED TO 30 THIS AM. 
+CV/RESP AFIB ALL SHIFT. BOUTS OF RAPID AFIB. SELF LIMITING. OTHERWISE RATES IN THE 80'S TO LOW 100'S.PACER SENSING ONLY NO PACING ACTIVITY BP STABLE. CAPTOPRIL HELD. CO/CI GOOD AFTER 1 UNIT PRBC, THEN DECREASED THIS AM. NO VENT CHANGES. MAINTAINED ON CPAP WITH GOOD O2 SATS FIO2 40%. MINIMAL SUCTIONING REQUIRED. 
+STARTED ON CRITICARE TUBE FEEDS VIA OGT AT 10CC/HR. TOL WELL.
+GOOD UOP VIA FOLEY.
+CONTINUE TO MONITOR CARDIAC FUNCTION AND POTENTIAL VENT WEAN. INCREASE TUBE FEEDS AS TOL.
+",,
+5328,28535,6612,0,2695-05-01 10:05:00 EST,2695-05-01 10:16:00 EST,3083,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  NEURO: PT REMAINS SEDATED ON PROPOFOL-APPEARS COMF ON CURRENT DOSE- AND IS EASILY AROUSABLE.
+
+   RESP: PT APPEARS COMF ON CPAP. ALKYLOSIS IMPROVED THIS AM. OXYGENATION GOOD. BS CLEAR. 
+
+   CARDIAC: PT HAS BEEN AFIB ALL AM (AND ALLNOC). HR VARYING FROM 90-130-NEVER STAYED THAT FAST-JUMPING ALL OVER THE PLACE. 1045-PT BACK INTO SR HR 80. PT HAS PACING SWAN SET AT DR 50. IS NOT PACING. CI 1.96; WITH FICK >2. SVO 61-IMPROVED FROM LAST NOC. PT REMAINS OFF AMIOD. AND DILT. CONT ON DOPA-DECREASED TO 1 MCG AND SBP TO 80'S-SO BACK UP TO 2. ALSO ON HEPARIN SECOND. TO AFIB. PT ?AWAITING PERM PACER. EPS HAS NOT BEEN BY TODAY.
+
+   GU: PT HAS GOOD U/O.
+
+   GI: CONT ON TUBE FEED AT 10/HR-TOL WELL. WILL CHECK RE: ADVANCING RATE. FAINT BS. NO STOOL.
+
+   LAB: K CONT TO BE REPLETED. CA/MG REPLETED PRN. WBC SLIGHTLY LOWER TODAY-15.
+",,
+5328,28535,6612,0,2695-05-01 18:17:00 EST,2695-05-01 18:24:00 EST,3688,"N",54,"Nursing/Other","CSRU NSG PROG NOTE: 11AM-7PM","
+CSRU NSG PROG NOTE: 11AM-7PM
+Remains stable s/p temp. v-wire today. Remains intubated and ventilated. Sedated on propofol.j
+
+ROS:
+
+Cardiac: VVI rate 60. In AF w/ rate 100-120's no vea. On amiodarone gtt restarted to day for rapid af. Stable b/p. To restart heparin gtt.
+
+
+RESP: Prior to pacer placement on psv. Required ventilatory mode to vent during procedure. Remains on rate. To go back to psv when more awake and taking spont resp. Small secretions/ blood tinged last sx.
+CT intact w/out leak w/ minimal dng.
+
+GI: in Criticare 20cc/hr. Tolerated 10/hr, was briefly on 20 hr prior to pacer placement. 
+
+FLuid/electrolyte: electrolyte replacements. IN=out. U.o. > 30cc/hr.
+
+ASSESS:stable post temp wire placement, for permanent pacer when WBC wnl. 
+
+PLAN: discuss restarting heparin, replace lytes, restart TF, discuss captopril dosing.
+",,
+5328,28535,6612,0,2695-05-01 22:51:00 EST,2695-05-01 23:02:00 EST,3118,"N",54,"Nursing/Other","s/p temp transvenous pacer","
+s/p temp transvenous pacer
+o: cardiac: afib ventricular response 120's-99, without vea, amiodarone bolus x1 and gtt continues @ 1 mg. sbp 140's -100, captopril held @ 2200. dopa off since cath lab. heparin @ 1000 units @ 2000. pp via doppler. hct 35. mag 1.9 to recieve 2 gm mag.
+   resp: placed on cpap 10/5 see abg. sx and lavaged for a mod amount of thick yellow sputum , bs diminished 1/2 up bilaterally. rr 20's.
+   neuro: sedate, arousable, perl, weak grasps equal, mae,continues on propofol @ 30mcq. 
+   gi: criticare up @ 2200 @ 20ml. + bowel sounds, no stool colace given.
+   gu: 40 mg ivp lasix with 500 ml diuresis.
+   endo: no sliding scale insulin given
+a: continues in af, heparin restarted,
+p: monitor comfort, hr and rythym- ? dilt bolus and gtt if ventricular response 130's, sbp- captopril when sbp increased, ppt @ 2400, replace mag,resp status-pulm toilet, neuro status-propofol, check residuals,I+O, labs, as per orders.
+     
+   
+",,
+5328,28535,6612,,2695-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-2**] 9:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10256**]
+     Reason: s/p mvr, checking wire placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and post op chf
+     REASON FOR THIS EXAMINATION:
+      s/p mvr, checking wire placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+
+",,
+5328,28535,6612,,2695-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-2**] 10:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10255**]
+     Reason: assess chf/ for infiltrates
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p mvr and post op chf
+     REASON FOR THIS EXAMINATION:
+      assess chf/ for infiltrates
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST: Compared to 2 days earlier.
+     
+     INDICATION: Postop s/p valve surgery.
+     
+     An ETT, NG tube and right sided chest tube remain in place. There has been
+     interval placement of a temporary pacing lead which is overlying the expected
+     location of the right ventricle. There is a tiny curvilinear opacity at the
+     right apex suggesting a small pneumothorax.
+     
+     Cardiac and mediastinal contours are stable in the interval. There remains a
+     small to moderate left pleural effusion with adjacent atelectasis.
+     
+     IMPRESSION: 1) Interval placement of temporary pacing lead with tip overlying
+     right ventricle region.
+     
+     2) Small right apical pneumothorax with single right chest tube in place.
+     
+     3) Persistent left pleural effusion and left lower lobe atelectasis.
+
+",,
+5328,28535,6612,0,2695-05-02 04:00:00 EST,2695-05-02 04:07:00 EST,-1,"N",54,"Nursing/Other",,"
+
+resp note:pt remains intubated and vented at this time with present vent settings cpap5 ps5 40% and tolerating well.b/s diminished bilat with sx for small/mod amounts thick yellow secretions.pt appears comfortable,plan is to re-assess in am.and wean as tolerated.
+",,
+5328,28535,6612,0,2695-05-02 04:56:00 EST,2695-05-02 05:38:00 EST,3622,"N",54,"Nursing/Other","SHIFT UPDATE.","
+SHIFT UPDATE.
+PT. ASSESSMENT:
+
+NEURO:  REMAINS SEDATED ON PROPOFOL GTT, PT. RESPONDING TO SPEECH, ABLE TO FOLLOW COMMANDS, PEERL.  MEDICATED WITH INTERMITTEN MSO4 WITH GOOD EFFECT.  BILT. SOFT WRIST RESTRAINTS ON FOR SAFTEY.  TURNED AND REPOSITIONED Q2/HR'S, NO SKIN BREAKDOWN NOTED.  
+CARDIAC:  CURRENTLY IN AFIB MOST OF NIGHT, DOES HAVE BRIEF INTERMITTEN PERIODS OF SR WITH LOTS OF PAC'S.  SKIN LEAD PLACED BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] EARLY IN SHIFT, ATTEMPTING TO PACE WITH EPICARDIAL WIRES, STILL UNABLE TO EFFECTIVELY CAPTURE WITH SKIN WIRE.  TRANSVENOUS PACER REMAINS SET FOR RATE OF 30, NOT CHECKED FOR CAPTURE ON MY SHIFT.  INITIALLY SYS B/P 90-110 WITH MAPS IN THE MID 60'S.  B/P INCREASING TO 140 AROUND 04AM, GIVEN 25MG CAPTOPRIL VIA OGT.  EPICARDIAL WIRE CAPPED AND SECURED.  REMAINS ON HEPARIN GTT AT 1000U/HR WITH PTT OF ~60, AMIODARONE AT 1MG/MIN, PROPOFOL GTT AT 30MCG/KG/MIN.  2 NEW PERIPH IV'S PLACED FOR AMIODARONE AND PROPOFOL.  K/MG/CA ALL TREATED AS NEEDED.  + BPPP, FEET COOL.  
+RESP:  BS DIMINISHED AT BASES, AMBUED, LAVAGED FOR CLEAR THIN SECREATIONS.  ETT ROTATED.  VENT IPS DECREASED TO 5 FROM 10, ABG GOOD.    R PLEURAL CT TO SUCTION WITH NO AIR LEAK, MINIMAL OUTPUT, ? D/C'ING LATER TODAY.  TO GET PCXRAY THIS AM, FOR POSSIBLE EXTUBATION.
+GI/GU:  HOURLY URINES CONT. TO BE >25CC.  + BS THRU-OUT, OGT->FEEDINGS, CRITICARE INCREASED TO 30CC/HR, RESIDUALS ZERO.  BS SLIGHTLY ELEVATED TREATED WITH S.S. INSULIN.  DISCUSSED WITH CT TEAM ON ROUNDS PLAN ON ? EXTUBATION, TUBE FEEDS OFF AT 0630AM.  
+SOCIAL:  NO FAMILY CALLED.  WEDDING RINGS ABLE TO BE REMOVED, WILL PLAN ON GIVING TO FAMILY WHEN THEY ARRIVE.
+PLAN:  TUBE FEEDS OFF FOR POSSIBLE EXTUBATION, PCXRAY, D/C CT THIS AM.  CONT. TO MONITOR CLOSELY, GOAL FOR PTT 50-70 RANGE.
+",,
+5328,28535,6612,0,2695-05-02 13:32:00 EST,2695-05-02 13:37:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient is extubated and placed on 4 liter N/C and 50% open face mask HR 92 with periods of tachycardia. Patient has temporary pace maker placed yesterday . She is alert and oriented self suctioning mouth with yaunker tip;will continue to follow.
+",,
+5328,28535,6612,0,2695-05-02 14:01:00 EST,2695-05-02 14:01:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Rings
+  both bands given to spouse - pt aware 
+",,
+5328,28535,6612,0,2695-05-02 16:47:00 EST,2695-05-02 17:04:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Resp: extubated today after diuresis.  Sats 96-98 on 4l nc, good cough effort, wheezing noted and treated with albuterol.  Then audible wheezing with anxiety - no stridor/wheezes auscultated provided emotional support and mso4 for pain with good effect
+
+
+Neuro/Muscle: a/o x3 but movement slow and not well controlled when dangled at edge of bed difficulty holding up head and needed support to sit. 
+
+Swallowing: coughing after swallowing liquids even when sitting at 90 degrees  cont to monitor closely.
+
+CV: Cont with changes in rhythm - afib-aflutter-nsr rates from 60-150's  bolused x2 with dilt no change.  started lopressor po
+b/p increased after propofol off - hydrazaline x1 and cont with captopril  transvenous pacer attached but off
+
+Pain: controlled with mso4 and percocet - c/o discomfort r/t ct 
+
+Family: spouse in this afternoon to visit - took home rings and spoke with dgtr this am 
+
+Plan: cont to replace lytes, cont amio and heparin gtts, wean o2 to keep sats >94%, monitor HR, monitor swallowing and maintain aspiration precautions.  
+
+
+
+ 
+",,
+5328,28535,6612,,2695-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-3**] 6:37 AM
+     CHEST FLUORO WITHOUT RADIOLOGIST                                Clip # [**Clip Number (Radiology) 10257**]
+     Reason: For pacing wire placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p CABG
+     REASON FOR THIS EXAMINATION:
+      For pacing wire placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest fluoroscopy was performed without a Radiologist present. 4.25 minutes of
+     fluoro time were used. No films submitted for interpretation.
+
+",,
+5328,28535,6612,,2695-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-3**] 9:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10258**]
+     Reason: For pacing wire placement, confirm placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p CABG
+     REASON FOR THIS EXAMINATION:
+      For pacing wire placement, confirm placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Confirm placement of pacing wire.
+     
+     PORTABLE AP CHEST:  Comparison is made to exam of [**2695-5-2**].
+     
+     The previously described temporary pacing wire has been advanced, with the tip
+     now overlying the expected region of the right ventricle.  Otherwise, no
+     significant changes in the appearance of the chest since previous exam.
+     Persistent bilateral pleural effusions, left side greater than right, with
+     associated collapse/consolidation of the left lower lobe.
+     
+     IMPRESSION:  Interval advancement of temporary pacing wire, with the tip now
+     overlying the expected region of the right ventricle.  Otherwise, no
+     significant change in the appearance of the chest.
+     
+
+",,
+5328,28535,6612,0,2695-05-03 04:19:00 EST,2695-05-03 05:07:00 EST,3622,"N",54,"Nursing/Other","SHIFT UPDATE.","
+SHIFT UPDATE.
+PT. ASSESSMENT:
+
+NEURO:  A&OX3, MAE TO COMMANDS, DENIES PAIN AT THIS TIME.  OOB TO CHAIR WITH MAX ASSIST OF 2.  TOLERATING CHAIR FOR APPROX. 2/HR'S.  SLEEPING IN NAPS COMFORTABLY.  
+CARDIAC:  CONT. TO BE IN A-FIB WITH RATES 100-120, TREATED WITH TOTAL OF 12.5MG IVP LOPRESSOR WITH MINIMAL EFFECT.  RECEIVED 25MG PO CAPTOPRIL AND 1 X DOSE OF 10MG IVP HYDRALAZINE FOR MAP'S >100.  TRANSVENOUS PACING WIRE NOT CAPTURING APPROPRIATELY, CXRAY SHOWING THAT TEMP. WIRE IS IN SVC, ADVANCED BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 607**] STILL NOT CAPTURING APPROPRIATELY.  EP FELLOW IN AT 06AM AND NEW TEMP. PACING WIRE CURRENTLY BEING PLACED AT BEDSIDE WITH FLURO STANDING BY.  EP FELLOW TO MAKE RECOMMENDATIONS FOR RATE CONTROL.  EPICARDIAL WIRES REMAIN GROUNDED TO ABD.  AMIODARONE GTT CONT. AT 1MG/MIN, HEPARIN GTT CONT. TO BE TITRATED, AM PTT 78, CURRENTLY HEPARIN GTT OFF AND DOSE TO BE DECREASED DOWN TO 1000U/HR.  
+RESP:  BS CONT. TO BE DIMINISHED BILT. O2 REMAINS AT 4L NP WITH SAT'S >95%.  MODERATE COUGH, C&R CREAMY YELLOW SECREATIONS.  ABG'S CONT. TO BE ACCEPTABLE.  TREATED WITH ALLBUTEROL X1.  R PLEURAL CT TO SUCTION, MINIMAL DRAINAGE.  
+GI/GU:  HOURLY URINES DWINDILING AT BEG. OF SHIFT, TREATED WITH 40MG IVP LASIX WITH GOOD EFFECT.  + BS THRU-OUT, C/O NAUSEA, MEDICATED WITH 10MG IVP REGLAN WITH GOOD EFFECT.  BS CONT. TO BE SLIGHTLY ELEVATED, TREATED WITH INTERMITTENT S.S. INSULIN.  DIFFICULTY WITH SWALLOWING, PT. MUST BE SITTING BOLT UP IN BED, ONLY ATTEMPTED H2O WITH PILLS. 
+SOCIAL:  2 DAUGHTERS INTO VISIT, UPDATE GIVEN.  
+PLAN:  EP RECOMMENDATIONS FOR BETABLOCKING, CONT. TO MONITOR U/O AND TREAT WITH LASIX IF NEEDED.  MONITOR ELECTROLYTES AND TREAT ACCORDINGLY, SWALLOWING PRECAUTIONS.  
+",,
+5328,28535,6612,,2695-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-4**] 9:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10259**]
+     Reason: R/O PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman self DCed CT
+     REASON FOR THIS EXAMINATION:
+      R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Self d/c'd chest tube, rule out pneumothorax.
+     
+     Chest, single AP view.
+     
+     Compared with one day earlier, the right chest tube is no longer seen. There
+     is a tiny right apical pneumothorax. A right subclavian pacemaker lead is
+     present, overlying the right ventricle. The patient is status post sternotomy,
+     with left lower lobe collapse and/or consolidation and moderate left effusion.
+     Minimal upper zone redistribution, but no overt CHF.
+     
+     IMPRESSION:
+     
+     1. Tiny right apical pneumothorax status post interval removal of chest tube.
+     
+     2. Left lower lobe collapse and/or consolidation and moderate left effusion.
+     
+     3. Single pacemaker lead overlying right ventricle, introduced via right
+     subclavian approach.
+
+",,
+5328,28535,6612,0,2695-05-04 04:38:00 EST,2695-05-04 04:51:00 EST,3799,"N",54,"Nursing/Other",,"
+
+PT. REMAINS LETHARGIC AND VERY WEAK WITH MOVEMENTS. HEART RHYTHM CONTINUES IN AFIB. TRANSVENOUS PACING WIRE IN POSITION AND PACER SECURED TO PT. SBP RARELY < 140 DESPITE LOPRESSOR AND CAPTOPRIL. ADDITIONAL HYDRALYZINE GIVEN. RIGHT PL. CT DRNG/ CLEAR YELLOW. MINIMAL CT OUTPUT IN THE PAST FEW HOURS TODAY. ADEQUATE HUO. PT. PASSING FLATUS BUT NO BM. REMAINS ON HEPARIN IN THERAPEUTIC RANGE. 
+",,
+5328,28535,6612,0,2695-05-04 19:08:00 EST,2695-05-04 19:13:00 EST,3100,"N",54,"Nursing/Other",,"
+
+Neuro:  Lethargic
+
+CV:  A-febrile.  Continued A-fib.  
+
+Resp:  Sat in mid 90's on 3LNC.  R Pleural CT dc'd.  L Pleural effusion noted on x-ray and being watched by MD's.
+
+GI:  Liquid stool x 3.  Colase held.  Tol small amounts of gen diet.
+
+GU:  Cloudy urine.  Diuresing well with Lasix.
+
+Pain:  Denies.
+
+Activety:  Up to chair 3 times.
+
+Soc:  Husband and Daughter at bedside.  All questions answered.
+
+Skin:  Incisions free from signs of infection.
+
+Blood cultures x 2 sent, urine sent, stool for C.diff, expectorated sputum sent.
+",,
+5328,28535,6612,,2695-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-5**] 11:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10260**]
+     Reason: Asses for enlarging pleural effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p MVR with high O2 requirement and prior effusion on yest
+      film
+     REASON FOR THIS EXAMINATION:
+      Asses for enlarging pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P MVR with high oxygen requirements.  Effusion.  Evaluate size.
+     
+     Comparison is made with the previous film of [**2695-5-4**] and shows no significant
+     increase to the left pleural effusion.  The small right pneumothorax is
+     resolved.  A pacemaker is in place.  A small right pleural effusion is also
+     seen as previously.
+     
+     IMPRESSION:  No significant change to the left pleural effusion and left lower
+     lobe atelectasis.
+
+",,
+5328,28535,6612,0,2695-05-05 05:37:00 EST,2695-05-05 05:41:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT REMAINS FRAGILE, AT MN SOB, RR30'S, LASIX 20MG IV GIVEN, 2MG MSO4 IV WITH GOOD RESULTS, IMPROVED SATA ABLE TO WEAN O2 TO 3L AGAIN, PATIENT WITH APPROX. 4HRS OF [**Doctor Last Name **] AFTER BENADRYL. THIS AM ELEVATED WBC TO 28, ??? ORIGIN. AFIB PERSISTS 60-120'S. AMIODARONE AT 1MG/MIN. PTT LEEVATED HEPRIN OFFX1HR, TO BE RESTARTED AT 1000U/HR. OLD RPLEURAL CT OOZING LOTS OF SEROUS FLUID.
+",,
+5328,28535,6612,0,2695-05-05 14:35:00 EST,2695-05-05 14:53:00 EST,3100,"N",54,"Nursing/Other",,"
+
+Neuro:  Lethargic
+
+CV:  A-febrile.  Rhythm varies:  A-fib 90-110's to 1st degree AV block sinus with BBB rate ~ 60.  Blood Cultures x 2 sent.  A-line dc'd and tip sent for culture.  PIV's in L arm dc'd.    
+
+Resp:  Sats well with O2 via NC.  Diminished BS in L base.  
+
+GI:  Tol small amount of reg diet.  Stool x 1.
+
+GU:  Diuresing well with Lasix.  
+
+Skin:  Phlebitis in L arm.  
+
+Pain:  Denies.
+
+Activety:  Up to chair.
+
+Plan:  Monitor cultures.  When WBC count decreases - permanent pacer install.
+",,
+5328,28535,6612,,2695-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-6**] 10:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10261**]
+     Reason: ASSESS INFILTRATES, R/O CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p MVR with high O2 requirement and prior effusion on yest
+      film
+     REASON FOR THIS EXAMINATION:
+      ASSESS INFILTRATES, R/O CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: High O2 requirement question CHF.
+     
+     TECHNIQUE: Single view chest: Comparison is made to prior examination [**2695-5-5**].
+     
+     Single lead pacer wire is again demonstrated and overlying the expected
+     location of the right ventricle unchanged from the prior examination. There
+     has been interval improvement of the left pleural effusion. A much smaller
+     right pleural effusion is unchanged. The lungs are unremarkable and no focal
+     consolidations to suggest a pneumonia are present. The associated osseous
+     structures demonstrate a patient who is status post sternotomy otherwise
+     unremarkable.
+     
+     IMPRESSION: Interval improvement of the left pleural effusion. Smaller right
+     pleural effusion unchanged.
+
+",,
+5328,28535,6612,0,2695-05-06 05:39:00 EST,2695-05-06 05:49:00 EST,3084,"N",54,"Nursing/Other","UPDATE","
+UPDATE
+D: CARDIOLOGY IN TO SEE PT ON EVES- NOTED RHYTHM AND CONTROLED RATE INTO 80'S , PT REMAINS IN AFIB WITH RARE OCCAS OF 1ST DEGREE AV BLOCK. PACING WIRE REMAINS TO FUNCTION WITH MA 10. PACER TO OFF.
+PLAN: CARDIOLOGY TO RE-EVAL- POSSIBLE PLAN TO CARDIOVERT TODAY- SEE IF WHEN PT IN NSR- WILL SHE BLOCK DOWN THUS REQUIRING A PERMANENT PACER.
+PT TO [**Last Name (un) **] NPO UNTIL DECESION MADE BY CARDIOLOGY.
+",,
+5328,28535,6612,0,2695-05-06 05:49:00 EST,2695-05-06 06:03:00 EST,3084,"N",54,"Nursing/Other",,"
+
+D: NEURO: PT AWAKE, ALERT, MAE, FOLLOWING COMMANDS, APPROP CONVERSATIONALIST.
+
+CARDIAC: PT REMAINS IN AFIB WITH RARE SR NOTED (1ST DEGREE AVB),PT RATE 70-80 AFIB WITH OCCAS INC TO 110.  SBP 113-140/50, PALP PEDAL PULSES.
+
+RESP: R/A SAT >95%, BS CLEAR THRU OUT SL DIM IN BASES. COUGHING AND RAISING MOD AMT THIN YELLOW SPUTUM, SPECIMEN SENT.
+
+GI: PT TOL PO'S WELL, FAIR APPETITE, ABD SOFT-NON TENDER, ACTIVE BS, BM THIS AM, SOFT GUAIAC NEG.
+
+GU: PT U/O >40CC/HR - DIURESED WELL WITH LASIX 40MG TID--WT DOWN 2 KG TODAY ? DEC LASIX TODAY.
+
+SKIN: PT LEFT ARM SWOLLEN [**Last Name (un) **] ELBOW DOWNWARD- WARM PACKS APPLIED, PT HAD IV'S IN THIS ARM- ALL D/C-[**5-5**].
+
+PLAN AS STARTED ABOVE.
+",,
+5328,28535,6612,0,2695-05-06 15:32:00 EST,2695-05-06 15:55:00 EST,3083,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  NEURO: PT A&O X3. PLEASANT AND COOPERATIVE; BUT SEEMS VERY DISCOURAGED RE: LONG HOSP STAY.
+
+   RESP: BS CLEAR, SOMEWHAT DECREASED IN BASES. C&R SM AMTS THICK YELL. SATS 97 ON RA. CXR DONE TODAY-AS PER [**Last Name (NamePattern4) 1208**] PT IS STILL SOMEWHAT WET.
+
+    CARDIAC: PT IN AFIB THIS AM-RATE CONTROLLED-80'S. 0830-PT INTO SR RATE 60'S (NO PACING). PT HAS BEEN IN SR MOST OF DAY SINCE (EXCEPT SHORT TIME AROUND 1200). BP STABLE. EPS BY TO SEE PT THIS AFTERNOON. O.K. TO D/C PACING WIRE-D/C'D BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+
+    GU: PT ONLY 3 KG ABOVE PREOP WEIGHT; BUT AS STATED CXR ""WET"". PT REMAINS ON LASIX 40MG TID-GOOD DIURESIS FROM LASIX.
+
+    GI: PT TAKING FLUIDS W/O DIFFICULTY; POOR APPETITE AND SOMEWHAT NAUSEOUS OFF/ON DURING DAY.-GIVEN REGLAN THIS AFTERNOON.
+
+    LAB: K, CA REPLETED. BS ELEV. TO 270 THIS AFTERNOON-GIVEN SS REG COVERAGE-DOWN TO 116 3 HRS LATER-WILL CONT TO CHECK. WBC REMAIN ELEV. AT 25-SO PACER INSERTION HELD OFF.
+
+    OTHER: PT NOW HAS PERIPH IV. URINE C&S/U/A SENT. PT STILL HAS VERY EDEMATOUS LT ARM-VASCULAR BY TO SEE PT-TO CONT HOT PACKS AND ELEV. ARM. PT SAYS IT IS SOMEWHAT UNCOMF.-BUT DID NOW WANT ANY MED.  PT ASSISTED OOB-CHAIR AND SAT UP FOR SEVERAL HOURS THIS AM-TOL WELL. FAMILY IN TO VISIT THIS AFTERNOON-PT FATIGUES EASILY AND THEY HAVE LEFT. PT TO STAY IN CSRU TONIGHT.
+",,
+5328,28535,6612,,2695-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-7**] 2:08 PM
+     UPPER EXTREM VEINS US LEFT                                      Clip # [**Clip Number (Radiology) 10262**]
+     Reason: Assess for DVT axillary, subclavian veins, and forearm veins
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p MVR with swollen L arm
+     REASON FOR THIS EXAMINATION:
+      Assess for DVT axillary, subclavian veins, and forearm veins, also rule out
+      thrombophlebitis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67 year old woman status post mitral valve replacement, with
+     swollen left arm.
+     
+     FINDINGS:  Duplex ultrasound of the left upper extremity was performed.  The
+     left jugular vein, the left subclavian vein, the left axillary, brachial,
+     and cephalic veins are widely patent, with normal flow seen within them.
+     There is no evidence of thrombus within the veins.
+     
+     IMPRESSION:  No evidence of DVT in the left upper extremity.
+     
+
+",,
+5328,28535,6612,0,2695-05-07 06:31:00 EST,2695-05-07 06:44:00 EST,3248,"N",54,"Nursing/Other","CSRU Update","
+CSRU Update
+Neuro:  A+O X 3.  MAE.
+
+Cardiac:  See flow sheet.  HR nsr - sb.  BP ^ - hydralazine x 1.  No central access.  1 Periph IV in R hand.  PO KCL for low K+ x 2.  This AM Mg and IoCa low.  ?Pacemaker in the future - WBC 21 this AM.  Incisions well healed.
+
+Resp:  Cont to C+R blood tinged.  CS clr upper, decreased both bases.  O2 sats high 90's on room air.
+
+GI:  No issues, tol meds and fluids.  No stool.
+
+GU:  Good response to Lasix.  
+
+Endo:  Blood glucoses treated per sliding scale.
+
+Activity:  OOB in chair until 2200.  Turns self in bed.
+
+Misc:  Edematous L arm, elevated  all noc.  Heat applied.    
+",,
+5328,,,,2695-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-5-28**] 9:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10263**]
+     Reason: Assess for CHF,effusion,infiltrate.                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with recurrent mitral regurgitation.                          
+     REASON FOR THIS EXAMINATION:
+      Assess for CHF,effusion,infiltrate.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recurrent mitral regurgitation, assess for CHF, effusion,
+     infiltrate.
+     
+     COMPARISON: [**2695-5-6**].
+     
+     PA & LATERAL CHEST: There is slight left ventricular enlargement. The
+     mediastinal and hilar contours are unremarkable. There are bilateral pleural
+     effusions. The right effusion has gotten larger in the interval and the left
+     effusion is slightly smaller. There is minor atelectasis at the left base and
+     of the right mid lung zone. The lungs are otherwise clear and no focal
+     consolidations are identified. Sternal wires are again identified.
+     
+     IMPRESSION: Bilateral pleural effusions. The right effusion has gotten
+     slightly larger while the left is slightly smaller. No evidence for CHF or
+     pneumonia.
+
+",,
+5328,,,,2695-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-11-11**] 11:39 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 10264**]
+     Reason: redo mitral valve replacement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with cad
+     REASON FOR THIS EXAMINATION:
+      redo mitral valve replacement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, TWO VIEWS, PA AND LATERAL.
+     
+     HISTORY: CABG redo and preop mitral valve replacement.
+     
+     Status post CABG. Heart size is borderline to slightly enlarged for technique.
+     No evidence for CHF. Linear atelectases are present at the left base. No
+     pleural effusions.
+     
+     IMPRESSION: No evidence for CHF. Left basilar linear atelectases.
+
+",,
+5328,16474,6613,1,2695-11-19 20:07:00 EST,2695-11-19 21:48:00 EST,3204,"Y",54,"Nursing/Other",,"
+
+still no motor response elicited to tactile or verbal stimuli. nailbed. opens eyes to voice but not tracking w eyes or turning head to sound. pupils remain small & react bialt. dr. [**Last Name (STitle) **] aware.
+",,
+5328,16474,6613,0,2695-11-19 20:07:00 EST,2695-11-19 20:15:00 EST,3204,"N",54,"Nursing/Other",,"
+
+INITIALLY W LABILE BLOOD PRESSURE,VARIABLE HEMODYNAMICS/SVO2,LOW FILLING PRESSURES THAT RESPONDED TO VOLUME.SEE FLOW SHEET.INCREASINGLY MORE HYPERTENSIVE POST PROPOFOL DISCONTINUATION,SNP STARTED W BP & SVR CONTROL. PRESENTLY OPENING EYES SLOWLY TO VOICE W PINPOINT PUPILS,NO MOVEMENT ELICITED AS YET.PLAN TO INITIATE VENT WEANING WHEN MORE AWAKE.RT. THORACOTOMY DSG W SMALL AMT BLOODY STAINING,DSG INTACT. CT'S X 3 W MINIMAL SERO-SANG. DNG. TELEPHONE UPDATE GIVEN TO DAUGHTER.
+",,
+5328,16474,6613,,2695-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-11-20**] 9:18 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 10265**]
+     Reason: s/p MV replacement w/?post op CVA                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with as above                                                 
+     REASON FOR THIS EXAMINATION:
+      s/p MV replacement w/?post op CVA                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    67 y/o woman in status eplipticus following mitral valve
+     replacement.  Evaluate for CVA.
+     
+     TECHNIQUE:   Multiplanar T1, T2 FLAIR and susceptibility images through the
+     brain were performed in addition to T2W imaging.
+     
+     COMPARISONS;  None.
+     
+     FINDINGS:  Within the right cerebral hemisphere distribution of the middle
+     cerebral artery, there is diffusely increased abnormal T2 and FLAIR signal
+     accompanied by restricted diffusion throughout this region of the diffusion
+     weighted imaging.  The appearance is consistent with a large evolving CVA in
+     the middle cerebral artery territory. There are also foci of increased signal
+     in the right thalamus as well as along the medial aspect of the right
+     occipital and temporal lobes, raising suspicion that there may be some
+     additional involvement in the distribution of the posterior cerebral artery.
+     There are also regions of increased FLAIR and T2 signal within the
+     periventricular white matter of the left cerebral hemisphere consistent with
+     chronic microvascular infarcts.  There is no shift of the normally midline
+     structures. There is no hydrocephalus. No mass lesions are identified. No
+     extra-axial fluid collections are identified. There is no signal drop out on
+     the susceptibility images.
+     
+     IMPRESSION:  Findings consistent with a massive evolving CVA in the
+     distribution of middle cerebral artery territory with possible involvement of
+     the posterior cerebral artery territory as well.
+     
+     MRA:  2D and 3D time of flight images were performed of the Circle of [**Location (un) 405**].
+     These images demonstrate widely patent vessels throughout with no areas of
+     abnormal narrowing or aneurysmal dilatation identified.
+     
+     IMPRESSION:   Normal MRA appearance of the Circle of [**Location (un) 405**].
+
+",,
+5328,16474,6613,,2695-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-11-20**] 9:18 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 10265**]
+     Reason: s/p MV replacement w/?post op CVA                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with as above                                                 
+     REASON FOR THIS EXAMINATION:
+      s/p MV replacement w/?post op CVA                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    67 y/o woman in status eplipticus following mitral valve
+     replacement.  Evaluate for CVA.
+     
+     TECHNIQUE:   Multiplanar T1, T2 FLAIR and susceptibility images through the
+     brain were performed in addition to T2W imaging.
+     
+     COMPARISONS;  None.
+     
+     FINDINGS:  Within the right cerebral hemisphere distribution of the middle
+     cerebral artery, there is diffusely increased abnormal T2 and FLAIR signal
+     accompanied by restricted diffusion throughout this region of the diffusion
+     weighted imaging.  The appearance is consistent with a large evolving CVA in
+     the middle cerebral artery territory. There are also foci of increased signal
+     in the right thalamus as well as along the medial aspect of the right
+     occipital and temporal lobes, raising suspicion that there may be some
+     additional involvement in the distribution of the posterior cerebral artery.
+     There are also regions of increased FLAIR and T2 signal within the
+     periventricular white matter of the left cerebral hemisphere consistent with
+     chronic microvascular infarcts.  There is no shift of the normally midline
+     structures. There is no hydrocephalus. No mass lesions are identified. No
+     extra-axial fluid collections are identified. There is no signal drop out on
+     the susceptibility images.
+     
+     IMPRESSION:  Findings consistent with a massive evolving CVA in the
+     distribution of middle cerebral artery territory with possible involvement of
+     the posterior cerebral artery territory as well.
+     
+     MRA:  2D and 3D time of flight images were performed of the Circle of [**Location (un) 405**].
+     These images demonstrate widely patent vessels throughout with no areas of
+     abnormal narrowing or aneurysmal dilatation identified.
+     
+     IMPRESSION:   Normal MRA appearance of the Circle of [**Location (un) 405**].
+
+",,
+5328,16474,6613,0,2695-11-20 05:05:00 EST,2695-11-20 05:18:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro: sleeping awakes to voice. does not focus eyes. unable to follow commands. No spon. movement of extremities noted except rue some brief twitching noted and LLE same. Lasted aprox 10 minutes and resolved during administration of calcium gluconate. Does not respond to pain. Vital signs (BP) rise with turning pt. in the bed. mouth open protruding tongue. 
+cv/resp hr 60-70 nsr with episode of afib/flutter. No rate change but freq. pvc's noted. labs sent at this time. lytes treated,kcl,mag,and ion ca. h.o called to make aware of rhythm change. ekg done. converted to nsr shortly after lytes treated. fio2 decreased to 40% abg good. lungs clear/coarse. 
+gi/gu npo oral gastric tube to lws. foley qs uop. lower this am. no bm. no bowel sounds. 
+integ original or dsgs intact no drainage
+snp used to keep map<90. milrinone continues at .5mcg/kg/min. ct tubes min out.   
+con to monitor neuro status for any changes. Wean gtts and vent as tol.
+",,
+5328,16474,6613,0,2695-11-20 06:20:00 EST,2695-11-20 06:21:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro status unchanged except now left foot twiches continously and right hand as well. thoracic team on rounds and aware. 
+",,
+5328,16474,6613,0,2695-11-20 20:47:00 EST,2695-11-20 21:04:00 EST,-1,"N",54,"Nursing/Other",,"
+
+CV: STABLE SWAN DC'D FOR MRI AND NEW ONE FLOATED THIS PM, NIPRIDE WEANED OFF IN MRI D/T DECREASED B/P AFTER ATIVAN.  NEO GTT ON TO INC B/P FOR SHORT TIME - GOAL SBP 120-140.  HR NSR NO ECTOPY 60-70 THEN WENT INTO AFLUTTER 3:1 TO 4:1, WHEN GETTING READY TO CARDIOVERT - CONVERTED ON OWN NOW IN NSR WITH BBB IN 60'S NO ECTOPY.  PACING WIRES DC'D FOR MRI.
+
+RESP: LUNGS CLEAR MINIMAL SECRETIONS, NO VENT CHANGES ABG STABLE NO SPONTANEOUS BREATHING 
+
+GI: OG TO LCWS BILIOUS DRAINAGE HYPOACTIVE BS 
+
+GU FOLEY TO GRAVITY URINE OUTPUT ADEQUATE 
+
+PAIN STARTING TO RESPOND TO PAINFUL STIMULI - FIRM NAIL BED PRESSURE OPENS EYES AND ATTEMPTS TO MOVE TOES AWAY, ALSO B/P INCREASED WHEN DOING PAINFUL STIMULI - OTHERWISE NO INDICATIONS OF PAIN EXCEPT WITH STIMULATION NO NARCOTICS GIVEN LAST ATIVAN THIS AM IN MRI 
+
+NEURO: AT 8AM WOULD OPEN EYES TO NAME BUT NO RESPONSE TO PAIN, AND NO MOVEMENT.  NO SEIZURE ACTIVITY NOTED.  WENT TO MRI AND GOT ON TABLE AND STARTED HAVING SEIZURE DR [**Last Name (STitle) **] IN MRI ALSO AND WITNESSED SEIZURE - PLEASE SEE HER NOTE FOR DESCRIPTION OF SEIZURE - LASTED APPROX 15-20 MINUTES, RECEIVED THREE DOSES OF 2MG IV ATIVAN.  MRI DONE - B/P DEC AND NIPRIDE OFF - NO FURTHER ACTIVITY NOTED - LOADED WITH 1GM IV DILANTIN - WAS NON RESPONSIVE AFTER RETURNING FROM MRI AND HAS PROGRESSIVELY IMPROVED WITH RESPONSE - CURRENTLY OPENS EYES TO NAME OPENS LEFT EYE MORE FULLY THAN RIGHT EYE LID.  ATTEMPTS TO MOVE TOES AWAY WITH NAILBED PRESSURE MOVEMENT PRESENTS AS NOTEABLY MORE ON LEFT SIDE THAN RIGHT SIDE. NO RESPONSE TO FIRM NAIL BED PRESSURE RIGHT HAND AND ON LEFT HAND OPENS EYES BUT NO MOVEMENT.  
+
+ENDO BG COVERED WITH INSULIN REMAINS 100-200 
+
+FAMILY TALKED WITH DAUGHTER THIS AM ON PHONE AND DR [**Last Name (STitle) **] ALSO SPOKE WITH [**Hospital1 **] ON THE PHONE - HUSBAND AND SISTER LAW UPDATED WHEN IN THIS AFTERNOON BY RN AND PA NILLSON - DAUGHTERS IN THIS PM AND SPOKE WITH DR [**Last Name (STitle) **] OVER THE PHONE.  
+
+HEME RECEIVED ONE UNIT PRBC WITH NO REACTION REPEAT HCT 26 TO RECEIVE ANOTHER UNIT NEXT SHIFT AWARE 
+
+PLAN CONT TO MONITOR NEURO CLOSELY PAGE DR [**Last Name (STitle) **] FOR ANY SEIZURE ACTIVITY,  TRANSFUSE ANOTHER UNIT PRBC, CONT TO MONITOR GLUCOSE, CHECK DILANTIN LEVEL IN AM, AND LFT 
+
+",,
+5328,16474,6613,,2695-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2695-11-21**] 11:34 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10266**]
+     Reason: r/o extension of cva, blown right pupil                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with cva                                                      
+     REASON FOR THIS EXAMINATION:
+      r/o extension of cva, blown right pupil                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  67 y/o woman with a history of an evolving right middle cerebral
+     artery stroke.
+     
+     TECHNIQUE:  Axial images of the brain were obtained without intravenous
+     contrast.
+     
+     COMPARISON:  MR brain and brain MRA of [**2695-11-20**].
+     
+     FINDINGS:  There is marked effacement of the right cerebral hemispheric sulci
+     by edema associated with a complete right middle cerebral artery infarct.
+     There is considerable shift of normally midline structures towards the left
+     with near total obliteration of the right lateral ventricle. At this time,
+     there is no associated hemorrhage.  The osseous structures are unremarkable.
+     These findings were conveyed to Dr. [**First Name8 (NamePattern2) 10267**] [**Last Name (NamePattern1) 4292**] on [**2695-11-20**] at 1:00 pm.
+     
+     IMPRESSION: Acute, complete right middle cerebral artery territory infarct
+     with marked leftward subfalcine and less apparent right sided hippocampal
+     herniation.
+     
+
+",,
+5328,,6613,0,2695-11-21 05:00:00 EST,2695-11-21 05:35:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: No seizure activity throughout the night. Pt occasionally responsive to nail bed pressure by withdrawing extremeties. Less responsive on right side. Dr. [**Last Name (STitle) **] notified about periods of unresponsiveness. No narcs given. Pt has + cought reflex. + 3 PERRL. Opens eyes occasionally to painful stimuli. Not following commands. No spontaneous movement noted. Pt Dilantin loaded [**11-20**]. Dilantin level drawn/pending this am.
+
+CV: Pt Bp labile. IV NTG gtt was started for HTN. NTG d/c'd at one point for SBP 100's (Goal SBP 120-140's). Restarted again for HTN without much effect. Started Nipride gtt for persistant HTN 140's-170's. SBP down to 110'-130's. NTG weaned to off. TELE: HR 50's-70's. Rhythm: NSR, AFIB/Aflutter, SB. Pt with 2 episodes of SB in 30's without much effect on Bp. Dr. [**Last Name (STitle) **] was notifed. Calcium Chloride 1g given X1 with effect noted. Pt also recieved 4g MG and 20 KCL IV. CI= > 2.2. SVo2 >70%. Milrinone cont'd @.25mcg.
+
+RESP: Lungs clear. ABG's wnl. no vent changes made. Sxn'd scant amts of thick tan secretions. R thoracotomy site stable. minimal serous CT drainage.
+
+HEME: Pt transfused 2 units prbcs to keep HCT > 30.
+
+RENAL: U/O adequate. >30cc/hr.
+
+ASSESS: Unstable r/t Hypertension, Dysrhytmias, Alt mental status d/t massive CVA. No improvement in neuro status. At risk for further seizures.
+
+PLAN: Continue plan for close Bp mgmt. Keep SBP 120's-140's. Continue to monitor neuro status closely. Maintain seizure/ aspiration precautions Follow-up on dilatin level in am. Keep HCT >30. Redraw HCT @ 0800. Monitor BS. Monitor Tele. Replete electrolytes. 
+",,
+5328,,6613,0,2695-11-21 14:41:00 EST,2695-11-21 14:47:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Team notified this am that right pupil larger this am then left but reactive to light.  response in left foot but no place else - no eye opening.  neuro remained unchanged up to 10am neuro check then at 1115 when checked by neuro right eye dilated and nonresponsive - to ct scan for head ct - dr [**Last Name (STitle) **] in ct with us and aware of results - came back to csru and given mannitol dose and now with more rspose in lower extremeties when addressed with dr [**Last Name (STitle) **] and she assessed noted to be reflexive resopnse in feet cont with no response in upper extremeties but inc b/p with painful stimuli - husband and [**Name2 (NI) **] with friends in room awaiting daughters for family meeting.  will cont to monitor 
+",,
+5328,,6613,0,2695-11-21 17:42:00 EST,2695-11-21 17:46:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Family had meeting with Dr [**Last Name (STitle) **], Dr [**Last Name (STitle) **], [**First Name8 (NamePattern2) **] [**Name8 (MD) **] np, [**Doctor First Name **] social worker with husband,  2 daughters, minister, and 2 family friends and rn - discussed prognosis allowed family time alone to talk - all questions and concerns answered by health care team and emotional support provided - family made joint decision to withdraw care and place on morphine gtt - gtt started lines dc'd and and she was extubated - daughters in room and everything explained to them and husband wanted all lines out - she is currently on room air rhythm between heart block and junc - cont on morphine gtt and given iv ativan per dr [**Last Name (STitle) **] to prevent seizures.
+
+",,

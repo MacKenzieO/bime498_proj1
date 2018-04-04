@@ -1,0 +1,232 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5964,21390,,,3238-11-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3238-11-8**]       Discharge Date:  [**3238-11-12**]
+
+Date of Birth:   [**3144-9-24**]       Sex:  F
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:   The patient is a [**Age over 90 33**]-year-old
+female with a history of hypertension but no known history of
+coronary artery disease, who presented to the Emergency Room
+complaining of crushing [**11-10**] substernal chest pain since [**47**]
+P.M. on the evening prior to admission.  This was accompanied
+by shortness of breath.  In the Emergency Room, the patient
+was noted to be hypotensive to the 80s/50s, and hypoxic to
+86%, with a chest x-ray consistent with pulmonary edema.  The
+patient was intubated and started on a dopamine drip.
+Electrocardiogram revealed a new left bundle branch block.
+She had a CK of 581, with an MB of 98 (index of 16.1), and a
+troponin-I of greater than 50.  The patient was transferred
+to the cardiac catheterization laboratory, where the
+intervention was cancelled after extensive discussions with
+the family.  The patient was then transferred to the Coronary
+Care Unit for conservative management of congestive heart
+failure in the setting of an acute  myocardial infarction.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension
+
+SOCIAL HISTORY:   The patient lives with her daughter.  The
+power of attorney is [**First Name8 (NamePattern2) **] [**Known patient lastname 547**], phone number [**Telephone/Fax (1) 7516**].
+
+MEDICATIONS ON ADMISSION:   Maxzide.
+
+ALLERGIES:   No known drug allergies.
+
+PHYSICAL EXAMINATION:   Blood pressure 100/53, with a heart
+rate of 71, breathing at 13.  The patient was intubated on
+assist control with an FIO2 of 70, a respiratory rate of 12,
+tidal volume of 500, and PEEP of 5/5.  Oxygen saturation was
+99%.  In general, she appeared to be a frail, elderly female.
+Head, eyes, ears, nose and throat examination:  The pupils
+were small but reactive bilaterally.  The patient was
+intubated.  Cardiovascular examination:  Regular rate and
+rhythm, tachycardic, II/VI systolic ejection murmur over the
+apex. Respiratory:  Coarse breath sounds and bibasilar
+crackles.  Abdomen:  Mildly distended, with sparse bowel
+sounds, no hepatosplenomegaly, no rebound, no guarding.
+Extremities:  The feet were cool and without palpable pulses.
+
+LABORATORY DATA:   The patient had a white blood cell count
+of 12.9, a hematocrit of 36.6, platelets of 322, a PT of
+14.4, INR of 1.4, PTT of 94.5.  Sodium 136, potassium 5.3,
+chloride 102, bicarbonate 19, BUN 42, creatinine 1.1, glucose
+313.  She had a CK of 581, with an MB of 98, troponin-I
+greater than 50.  Chest x-ray revealed diffuse perihilar
+haziness, consistent with pulmonary edema.  Electrocardiogram
+revealed sinus tachycardia at 130, with a left bundle branch
+block which is new compared with the prior electrocardiogram
+of 1995.
+
+HOSPITAL COURSE:   After an extensive discussion amongst the
+family and the team, the patient was admitted to the Coronary
+Care Unit service for conservative management of acute
+myocardial infarction and congestive heart failure.  She was
+initially maintained on a heparin drip and aspirin, and was
+monitored with 24 hour telemetry.  She arrived to the floor
+intubated and on a dopamine drip to sustain her blood
+pressure.
+
+By the next morning, the patient was extubated successfully,
+and was weaned off the dopamine.  She diuresed briskly with
+lasix, resulting in a marked improvement in her respiratory
+status.  She remained hemodynamically stable throughout her
+stay.  She had a transthoracic echocardiogram, which revealed
+severe hypokinesis of the anterior septum and free wall, an
+ejection fraction of 40%, and moderate to severe mitral
+regurgitation.
+
+In light of this, our goal became to maximize her medical
+regimen.  She was started on low-dose Lopressor, which was
+carefully titrated.  She was continued on aspirin, and was
+started on Captopril for afterload reduction.  She tolerated
+her new medical regimen without any difficulties.
+
+The patient was transferred to the floor on [**11-10**].  Here
+she had one episode of 3/10 substernal chest pain that did
+not result in any electrocardiogram changes, and which
+resolved with two sublingual nitroglycerins.  The patient
+remained pain-free throughout the duration of her hospital
+stay.
+
+Of note, the patient developed a cough and had a good sputum
+sample, which had 2+ gram-positive cocci in pairs and
+clusters.  For this, she was started on Levaquin for empiric
+treatment of pneumonia.  She remained afebrile throughout her
+stay, and there was no obvious opacity visible on chest
+x-ray.
+
+CONDITION AT DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease
+2.  Congestive heart failure
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg by mouth once daily
+2.  Lopressor 25 mg by mouth twice a day
+3.  Colace 100 mg by mouth twice a day
+4.  Lasix 20 mg by mouth once daily
+5.  Levaquin 250 mg by mouth once daily
+6.  Zestril 10 mg by mouth once daily
+7.  Sublingual nitroglycerin 0.4 mg sublingually every five
+minutes x 3 as needed
+
+The patient was advised to follow up with her primary
+cardiologist, Dr. [**Last Name (STitle) **], within one to two weeks.  The
+patient will be discharged to [**Hospital **] Rehabilitation
+facility prior to returning home.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 246**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 906**], M.D.  [**MD Number 907**]
+
+Dictated By:[**Last Name (NamePattern1) 3561**]
+MEDQUIST36
+
+D:  [**3238-11-11**]  23:59
+T:  [**3238-11-12**]  01:02
+JOB#:  [**Job Number 7517**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 246**] [**Last Name (NamePattern1) 906**]
+ on: FRI [**3238-12-3**] 10:21 AM
+(End of Report)
+
+
+",,
+5964,21390,7431,0,3238-11-08 17:46:00 EST,3238-11-08 18:00:00 EST,40,"N",1,"Nursing/Other","CCU NSG ADMIT NOTE","
+CCU NSG ADMIT NOTE
+PT IS [**Age over 90 **] YO FEMALE ADMITTED TO [**Hospital1 22**] TODAY W/ CP.
+
+NKDA
+
+PMH: HYPERTENSION
+
+PT HAD CP THIS AM CAME TO EW WHERE SHE WAS SOB W/ SATS 90%. GIVEN LASIX 40MG IV AND LOPRESSOR 5MG AT WHICH TIME HE BP DROPPED TO THE 80'S. AND SHE WAS STARTED ON DOPAMINE AT 5MCG/KG. CK #1 580.
+SHE CONTINUED W/ HYPOXIA AND WAS INTUBATED. TAKEN TO THE CATH LAB, BUT CATH NOT DONE D/T ?CODE STATUS. PT GIVEN ADDITIONAL 40 MG LASIX AND TRANSFERRED TO CCU FOR FURTHER CARE. 
+
+PT ARRIVED TO CCU ~18:00 INTUBATED AND SEDATED ON AC500/12/5PEEP AND 100%FIO2 WHICH WAS TURNED DOWN TO 80% W/ SATS 100%. LUNG SOUNDS COARSE. 
+BP 120/80 AND DOPAMINE DECREASED TO 5MCG/KG. HEPARIN AT 800U/HR. HR 80'S SR W/ OCC PVC. PULSES WEAKLY PALPABABLE.
+NGT IN PLACE, CALMPED.
+FOLEY DRAINING CL YEL URINE.
+AFEBRILE.
+LARGE FAMILY IN TO VISIT. PT LIVES W/ DAUGHTER. HAS HEALTH CARE PROXY, COPY IN CHART.
+A/P: R/I MI. INTUBATED. CONTINUE TO CYCLE CK'S, WEAN FROM VENT AS POSSIBLE.
+",,
+5964,21390,7431,0,3238-11-09 02:56:00 EST,3238-11-09 02:59:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated with 6.5ETT secured at 20 cm lip and vented on settings A/C 500x 12x 40% peep 5. FiO2 weaned from 70%-40% based on sats which remain 99-100%. No a-line, no ABG drawn this shift. Plan is to wean to possibly ext. in AM.
+",,
+5964,21390,7431,0,3238-11-09 03:48:00 EST,3238-11-09 03:54:00 EST,104,"N",1,"Nursing/Other","CCU progress note:","
+CCU progress note:
+NEURO: remains lightly sedated on PROPOFOL, easily arousable to stimuli, opens eyes and nods head. bilat wrist restraints for extubation risk. 
+
+CARDIAC: SR 80s. SBP 100s on DOPAMINE 5mcg. pt indicating no chest pain when roused for turns. HEPARIN @ 800u/hr. cycling CKs
+
+CODE STATUS: DNR, no central lines.
+
+RESP: LS coarse, diuresed overnite. AC 500x12, 40%, 5 PEEP. Plan to wean and extubate this morning. 
+
+GI/GU: foley patent. diuresing to LASIX given at midnite x1. +BS. no stool. NGT intact, clamped. 
+
+PLAN: monitor hemodynamics and labs. Attempt to wean off dopamine if tolerated. recheck am PTT for heparin gtt. wean off propofol for extubation. 
+",,
+5964,21390,7431,0,3238-11-09 16:43:00 EST,3238-11-09 16:54:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+NEURO: PROPOFOL D/C 07:00. PT AWAKE ALERT, ORIENTED X3, COOPERATIVE.
+CV: HR 85-120 SA W/ OCC PVC. K 2.4 THIS AM REPLETED W/ TOTAL 120MEQ PO KCL, F/U K 4.5. DOPA WEANED AND D/C AT 10:30, BP 90-110/45-60. HEPARIN AT 800U/HR W/ THERAPUTIC PTT. CK 534 AT 4PM. NO CP
+RESP: PT WEANED AND EXTUBATED AT 10:30. W/O DIFFICULTY. NOW ON 4LNP W/ SATS 97%. LUNGS W/ DIMINISHED BS AT BASES
+GI: TOLERATING PO'S W/O DIFFICULTY. NO STOOL
+GU: FOLEY DRAINING CL YEL URINE. GIVEN 40MG LASIX IV AT 11:00, W/ GOOD RESPONSE, CURRENTLY ~ 1L NEG.
+ID: AFEBRILE
+SKIN: INTACT
+SOCIAL: FAMILY IN ALL AFTERNOON, VERY SUPPORTIVE.
+A: R/I MI, CHF, DIURESING WELL, SUCCESSFUL EXTUBATION
+P: MONITOR RESP STATUS, FOLLOW DK'S, DIURESE PRN, REPLETE K AS NECESSARY, DNR
+",,
+5964,21390,7431,0,3238-11-10 05:08:00 EST,3238-11-10 05:18:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: A&O X3. PLEASANT & COOPERATIVE.
+RESP: O2->3L NP. O2 SATS 94-98%. RR 19-31. BS CLEAR BUT DIMINISHED AT
+      BASES. DENIES SOB.
+CARDIAC: HR 77-93 SR. BP 87-109/41-83. DENIES C/O CP. HEPARIN GTT
+         INFUSING AT 800U/HR. TO START COUMADIN TODAY.
+GI: TAKING SIPS H20. SOME DIFFICULTY SWALLOWING. NEEDS PILLS CRUSHED.
+    ABD. SOFT. BS+. NO STOOL.
+GU: FOLEY->CD PATENT & DRAINING YELLOW URINE WITH SEDIMENT. U/O 45->
+    20CC/HR. HO AWARE. GIVEN TOTAL NS BOLUS 450CC[**Telephone/Fax (3) 1778**]) FOLLOW-
+    ED BY LASIX 20MG VP. U/O 400CC FOR FIRST HR.
+ID: T(MAX)98.7(PO).
+DISPOSITION: DNR. NO CENTRAL LINES. MINIMIZE PROCEDURES.
+PLAN: PROBABLE TRANSFER TO PCU TODAY.
+AM LABS PENDING.
+",,
+5964,21390,7431,1,3238-11-10 11:30:00 EST,3238-11-10 13:57:00 EST,506,"Y",1,"Nursing/Other","CCU NSG D/C SUMMARY: R/I MI/ S/P INTUBATION","
+CCU NSG D/C SUMMARY: R/I MI/ S/P INTUBATION
+D/C summary update:
+Pt urine output has remained very poor. Thinking is that she is dry from prior diuresis. She has received 2 250 NS boluses with no significant increase in urine output. She is now ~700cc positive for the day. Foley was flushed and is patent. Pt did have sensation of leaking foley after flushing and there was a small amt leakage in bed. O2 sat is 97-98% and lungs have only bbr. 
+PLAN: Continue to keep very careful I & O.
+      Monitor for leaking foley
+      Monitor resp status closely. Report any increase in rales or decrease in 02 sat.
+",,
+5964,21390,7431,0,3238-11-10 11:30:00 EST,3238-11-10 11:49:00 EST,506,"N",1,"Nursing/Other","CCU NSG D/C SUMMARY: R/I MI/ S/P INTUBATION","
+CCU NSG D/C SUMMARY: R/I MI/ S/P INTUBATION
+HPA: This delightful [**Age over 90 **]y old female developed sudden SOB and sscp on [**11-8**] and came to [**Hospital1 22**]. She was hypoxic with new LBBB and was intubated. She became hypotensive and was started on dopamine and was going to go to the cath lab but intervention was cancelled due to pt instability. When family arrived she was made DNR with primarily comfort measure. 
+
+PMH: HTN on maxide.
+
+ALLERGIES: NKDA
+
+CCU COURSE: CV: Pt r/i for small mi. She has been started in lopressor and it was increased to 25mg today. HR remains in 80-90 NSR with frequent pacs. BP stable 90-low 100s. K+ this am was 3.3 and she was replaced with 60meq iv. Heparin was d/c at 11am. She had been given one dose of coumadin, but it was d/c. She was seen by PT today and is starting rehab. She will be evaluated to see if she needs rehab before returning home.
+RESP: Pt successfully extubated [**11-9**]. She did have G+ cocci grow out of sputum and was started on levoquin  today at 11am. She has BBR.
+GI: Pt apetite is poor. She had lg BM. She has some difficulty swallowing pills and needs to be sitting upright.
+GU: Pt has foley. She has been receiving lasix, but urine output has decreased to ~20cc/hr. She received 500cc fluid bolus overnight and then lasix 20 at 5am. She is even for the day. She may require more lasix.
+ACTIVITY: Pt Has been OOB to chair with one assist. BAck to bed due to fatigue.
+MS: Pt alert and oriented times three. She lives with her daughter and has large supportive family.
+PLAN: Monitor I & O closely.
+      Continue with PT and assess need for interim placement before going home.
+       Continue with ABX for cocci in sputum.
+",,

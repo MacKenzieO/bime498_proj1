@@ -1,0 +1,172 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5241,7724,,,2950-01-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2950-1-23**]     Discharge Date:  [**2950-2-6**]
+
+Date of Birth:   [**2866-8-25**]     Sex:  M
+
+Service:
+
+ADDENDUM:  This is a continuation of the Discharge Summary.
+
+SUMMARY OF HOSPITAL COURSE (CONTINUED):  The patient was
+transferred to the Unit for close monitoring of blood
+pressure, and an arterial line was placed.  The patient was
+placed on a nicardipine drip for management of blood
+pressure.  The patient's Intensive Care Unit course was
+unremarkable.  The patient's blood pressure was well
+controlled and was weaned off the drip.
+
+Plastic Surgery, Oral Maxillofacial, and Ophthalmology all
+concluded nonoperative management for the orbital fractures.
+
+The patient was transferred to the floor in a stable
+condition on post trauma day three.  The patient's cervical
+spine was cleared, and a swallowing evaluation was obtained.
+The patient failed the swallowing study, and tube feeds were
+started.
+
+The [**Hospital 1032**] hospital course was remarkable for an
+additional head computed tomography which showed an interval
+improvement in the right subarachnoid hemorrhage.  Throughout
+the hospital course, the patient had nutritional issues, and
+aspiration precautions were made.  The patient was not
+motivated to follow commands or swallowing studies, and the
+patient was kept nothing by mouth for this reason.  Each day
+the patient was more and more alert, and the patient was
+unable to pass a bedside swallow evaluation times two.
+
+All these issues were discussed with the patient's son, who
+insisted that the patient should attempt oral intake as he
+did prior to admission.  The risks of aspiration pneumonia
+were told to the patient's son, and the patient's agreed to
+accept these risks and wanted his father to try oral intake.
+In addition, the possibility of percutaneous endoscopic
+gastrostomy tube placement was discussed with the son who
+adamantly refused this.
+
+The patient discontinued his own feeding tubes on post trauma
+day six.  As per the son, the patient was started on thick
+liquids for a trial of oral intake.
+
+A Geriatric consultation was obtained to comment on
+management of by mouth status.  They recommended attempts at
+oral intake with the son's recommendations.
+
+On post trauma day eleven, the patient developed a
+temperature of 101.4.  A urinalysis was sent, which was
+negative.  White blood cell count was 13.6, and a chest x-ray
+showed new right lower lobe infiltrate.  A sputum culture was
+sent, and blood cultures were sent.
+
+The Geriatric fellow who was following the patient suggested
+transfer to Medicine at this time.  A sputum culture grew out
+gram-negative and gram-positive rods, and the patient was
+started on Zosyn.
+
+At this time hospital course dictated by medical resident
+should be continued as well as discharge instructions and
+medications.
+
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) 1447**], M.D.  [**MD Number **]
+
+Dictated By:[**Last Name (NamePattern1) 3105**]
+
+MEDQUIST36
+
+D:  [**2950-2-12**]  11:43
+T:  [**2950-2-12**]  14:58
+JOB#:  [**Job Number 6082**]
+Signed electronically by: DR. [**First Name (STitle) **] TAN
+ on: WED [**2950-2-18**] 6:25 PM
+(End of Report)
+
+
+",,
+5241,7724,6504,0,2950-01-23 06:30:00 EST,2950-01-23 07:03:00 EST,4422,"N",53,"Nursing/Other",,"
+
+ 
+ADM. NOTE
+ASSESMENT AS NOTED.
+CAME IN FROM ER CT HEAD/NECK TO TSICU.WAS FOUND ON THE STREET IN POOL OF BLOOD ACC. TO AMBULANCE . CAME TO [**Hospital1 2**] FROM [**Hospital6 **].
+CT HEAD REAVELED SMALL SUBARACHNOID HEMORRAGE AND R. SIDE FACIAL FRUCTURES.SEE ADM. CHART FOR MED. HISTORY.
+
+NEURO: IN CERVICAL [**Last Name (un) 951**]-NECK HAS NOT BEEN CLEARED.MAE, FOLLOWS COM.SPEAKS CHINESE ONLY. SON LEFT @ 3AM.TRYING TO SIT UP IN BED- RESTRAINED BOTH WRISTS(FAMILY IS AWARE)
+
+RES: LS CLEAR, MAINTAINS SO2>96. ON RA
+
+CV: STARTED ON NICARDIPINE TO TITRATE SBP<150.GRTTING HALDOL FOR AGGITATION AND SBP GOES DOWN WITH HALDOL.A- LINE WAS PUT IN R. RADIAL INTACT
+
+U/O 40-50 CLEAR YELLOW
+
+SKIN: BRUISING R.PERIORBITAL AREA WITH SUPERFICIAL ABRASIONS.WAS WASHED WITH NS AND OPEN TO AIR.ACC TO FAMILY PT. HAD GOT TETANUS SHOT RECENTLY.
+
+PLAN: TO CLEAR SPINE, TO CONTROL BP<150
+
+
+",,
+5241,7724,6504,0,2950-01-23 10:30:00 EST,2950-01-23 10:33:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW met with pts son in ICU waiting area to introduce role of SW and for supportive intervention.  Son states that pt lives in elderly housing and is cared for primarily by the son, who visits several times each day to cook, clean and do shopping for pt.  Pt has another daughter who lives in [**Location 175**] and two children who live in [**State 1793**].  Pt son appears to be coping well and had a good understanding of medical information.  Son is a research scientist at [**University/College 4302**]and has a lot of flexability in his work that allows him to care for pt.  SW offered ongoing support to son as needed.  SW will follow. 
+",,
+5241,7724,6504,0,2950-01-23 18:21:00 EST,2950-01-23 18:35:00 EST,4370,"N",53,"Nursing/Other","TSICU NPN 0700-1900","
+TSICU NPN 0700-1900
+ROS:
+
+NEURO: Pt chinese speaking only. When son present, pt intermittently followed commands. Son stated pt was aware of incident and surroundings. Baseline dementia. Otherwise, pt has purposefull mvmnt to all extremities. Haldol prn agitation.
+
+RESP: LS clear-coarse. Sats WNL on RA. Expectorated mod blood tinged secretions, ?d/t facial fx's and old blood in nares. 
+
+CV: Nicardipine gtt off. Pt has intermittent bursts of HTN. Started on lopressor PO BID, IV lopressor X2 prn. HR 50s-80s, SB/SR with freq PAC's. EKG taken, no interventions from SICU team. Per neuro, goal SBP <150.
+
+HEME: H/H stable. Pboots for DVT prophylaxis. Heparin deferred d/t bleed.
+
+GI: NGT placed and promote w/ fiber started. Abd soft, nontender. +BS. No BM.
+
+GU: Foley with adequate amt clear yellow u/o. K+ repleted. Other lytes WNL.
+
+ID: Afebrile this shift. Clinda started for facial fx's.
+
+ENDO: FS WNL, no coverage needed.
+
+SOCIAL: Son [**Name (NI) 8343**], involved and supportive. Intermittently present for translation.
+
+ASMT: Pt s/p SAH, obs for neuro checks.
+
+PLAN: Cont neuro checks, monitor VS, maintain SBP <150, adv TF as tol.
+",,
+5241,7724,6504,0,2950-01-23 22:40:00 EST,2950-01-23 22:44:00 EST,4422,"N",53,"Nursing/Other",,"
+
+1900-2300
+NEURO- MAE, STRONG, SPEACH GARBLED(CHINESE ONLY), ASLEEP ON AND OF
+ON LOG ROLL PRECAUTIONS STILL, [**Last Name (un) 951**] IS ON.RESTRAINED TO PREVENT FALLS( SON IS AWARE)
+
+CVS - NICARDIPINE WAS STARTED AT 2000 TO KEEP SBP<150, RUNNING IN 120-140 NOW(ASLEEP/AWAKE). MOST OF THE TIME IN S.BRADY WITH OCC. PACS.
+
+SOCIAL- SON CALLED 2200 AND WAS UPDATED ON PT CONDITION
+",,
+5241,7724,6504,0,2950-01-24 04:51:00 EST,2950-01-24 05:07:00 EST,4422,"N",53,"Nursing/Other",,"
+
+NEURO- ASLEEP/ANXIOUS/AGGITATED.MAE, STRONG,PERL 4MM, MUMBLES SOME WORDS IN [**Doctor Last Name **] IN CHINESE. DOES NOT FOLLOW-?LANGUAGE BARRIER
+[**Last Name (un) 951**] IS STILL ON.RESTRAINED, TRYING TO SIT UP IN BED AND TO PULL LINES
+
+CVS - NICARDIPINE GTT IS OFF.MAINTAINS SBP>100.@TIME GOING TO 90S WHEN ASLEEP. A.LINE POSITIONAL, CUFF APPLIED @5AM
+
+RES- LS CLEAR, SO2>98 ON RA
+
+BS- NO COVERAGE
+
+GI TOLERATES T. FEEDING WELL WITH SMALL RESIDUALS, NO BM SO FAR
+
+U/O - 40CC/H CLEAR YELLOW
+
+PLAN [**Hospital **] TRANSFER TO THE FLOOR
+
+CONT. TO MONITOR BP , NEURO
+",,

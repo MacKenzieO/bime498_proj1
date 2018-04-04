@@ -1,0 +1,687 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5489,26661,,,2685-05-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2685-5-2**]              Discharge Date:   [**2685-5-6**]
+ 
+Date of Birth:  [**2620-12-4**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Seroquel / Ibuprofen / Sulfa (Sulfonamides)
+ 
+Attending:[**First Name3 (LF) 81**] 
+Chief Complaint:
+Mental status change 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+64 M rehab resident with history of DM2, ESRD on HD, CHF, HTN, 
+AFIB, was picked up in ambulance to go to HD today and patient 
+became acutely SOB and confused, repeatedly calling out for his 
+brother [**Name (NI) **], and ambulance was diverted to [**Hospital1 83**] ED. HD was 
+skipped today; last HD was on Thurs.  
+.  
+In the ED, patient had labored breathing but normal VS, T 97.0, 
+75, 106/52, 20, 99% 2Lnc. ABG: 7.69 / 15 / 127 / 19. Serum HCO3 
+15. CXR negative with no pulmonary edema, no infiltrate. CTA 
+chest negative. CT head negative. EKG with no previous shows 
+severe AFIB, Q waves II, III, F, V1-V3, IVCD. CK 17, Trop 0.34 
+likely from renal disease.  
+.  
+In the ED, patient was yelling for [**Doctor Last Name **] and yelling for the 
+nurse, alternating between getting agitated and calming down. 
+TSH pend. Serum tox negative for ASA. Had two blood cxs from PIV 
+and one blood cx from HD cath. Concern for performing LP since 
+patient has large sacral decub. Gets HD at [**Hospital3 6569**] TThS. 
+Received Haldol 5 IV, Ceftriaxone 2g IV, Vanco 1g IV, Acyclovir 
+800 IV over 1 hr, Ativan 1 mg IV.  
+.  
+Labs from [**2685-4-28**]: K 5.0, BUN 60, Ca 9.4, Phos 3.2, Albumin 2.5, 
+TG 197, Fluid gains 2.2 kg, weight 146.7 kg.  
+
+ 
+Past Medical History:
+DM2  
+ESRD on HD TThS  
+CHF  
+HTN  
+AFIB  
+L BKA  
+
+ 
+Social History:
+No ETOH, no smoking, no IVDU. 
+ 
+Family History:
+Unknown. 
+ 
+Physical Exam:
+ADMISSION EXAM:
+97.7 / 139/92 / 101 / 24 / 100% 1Lnc  
+GEN: Delirious, calling out for [**Doctor Last Name **] and nurse, right hand 
+shaking tremor, obese  
+HEENT: Cannot assess JVD, 2 mm minimally reactive, OP dry with 
+poor dentition  
+LUNGS: Rhonchorous bilaterally  
+HEART: Irregularly irregular  
+ABD: Soft, +BS, ND NT, obese.  PEG tube in place.  
+EXTR: 4+ pitting edema  
+NEURO: [**4-25**] motor  
+.
+.
+DISCHARGE EXAM:
+AF  BP 143/66  P 66  RR 20  O2: 100% 2L NC
+GEN: Alert and oriented, cooperative, appropriate  
+HEENT: PERRL, EOMI.  OP with MMM and poor dentition  
+NECK: Cannot assess JVD due to body habitus.
+LUNGS: Distant breath sounds bilaterally, good air movement. 
+CHEST: Left SCL HD line in place
+HEART: Irregularly irregular  
+ABD: Soft, +BS, ND/NT, obese.  PEG tube in place.  
+EXTR: 2+ pitting edema  
+NEURO: [**4-25**] motor  
+ 
+Pertinent Results:
+[**2685-5-2**] 03:10PM   PT-12.3 PTT-31.6 INR(PT)-1.1
+[**2685-5-2**] 03:10PM   WBC-9.1 RBC-4.50* HGB-12.9* HCT-38.7* MCV-86 
+MCH-28.7 MCHC-33.4 RDW-19.3*
+[**2685-5-2**] 03:10PM   NEUTS-71.6* BANDS-0 LYMPHS-21.7 MONOS-2.6 
+EOS-2.5 BASOS-1.6
+[**2685-5-2**] 03:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2685-5-2**] 03:10PM   TSH-2.7
+[**2685-5-2**] 03:10PM   ACETONE-SMALL
+[**2685-5-2**] 03:10PM   CALCIUM-9.6 PHOSPHATE-2.5* MAGNESIUM-1.7
+[**2685-5-2**] 03:10PM   CK-MB-3
+[**2685-5-2**] 03:10PM   cTropnT-0.34*
+[**2685-5-2**] 03:10PM   LIPASE-10
+[**2685-5-2**] 03:10PM   ALT(SGPT)-25 AST(SGOT)-20 CK(CPK)-17* ALK 
+PHOS-376* AMYLASE-17 TOT BILI-0.2
+[**2685-5-2**] 03:10PM   GLUCOSE-91 UREA N-47* CREAT-4.4* SODIUM-138 
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-15* ANION GAP-23
+[**2685-5-2**] 03:31PM   LACTATE-2.4* K+-4.0
+[**2685-5-2**] 05:11PM   TYPE-ART TEMP-37.2 O2-100 O2 FLOW-2.5 
+PO2-127* PCO2-15* PH-7.69* TOTAL CO2-19* BASE XS-1 AADO2-589 REQ 
+O2-94 INTUBATED-NOT INTUBA
+.
+CXR [**5-2**]:  Findings consistent with increased volume status, but 
+no overt pulmonary edema.  
+.  
+CTA chest [**5-2**]:  1. No evidence for pulmonary embolus or other 
+explanation for shortness of breath.  
+2. Incidentally noted 4-mm left lower lobe pulmonary nodule for 
+which a one-year followup is recommended in the absence of known 
+malignancy.  
+.  
+CT head [**5-2**]:  There is no intracranial hemorrhage. The 
+ventricles, cisterns, and sulci are prominent secondary to brain 
+atrophy. There is no mass effect or shift of normally midline 
+structures and [**Doctor Last Name **]-white matter differentiation is preserved. 
+Periventricular white matter hypodensities are the sequelae of 
+small vessel infarction. There is atherosclerotic disease of the 
+cavernous carotids. The visualized paranasal sinuses are clear.  
+
+.  
+EKG:  AFIB 65, demand pacing, Q waves II, III, F, V1-V3, IVCD.  
+.  
+[**2685-5-2**] 3:10 pm BLOOD CULTURE
+   AEROBIC BOTTLE (Pending): 
+
+   ANAEROBIC BOTTLE (Final [**2685-5-6**]): 
+       BACTEROIDES FRAGILIS GROUP.    BETA LACTAMASE POSITIVE.
+
+bld cx [**5-2**], [**5-4**], [**5-5**]: NGTD
+.
+[**2685-5-3**] 10:22 am SACRAL SWAB      
+   GRAM STAIN (Final [**2685-5-3**]): 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    IN PAIRS. 
+   WOUND CULTURE (Final [**2685-5-5**]): 
+      Due to mixed bacterial types ( >= 3 colony types) an 
+abbreviated
+      workup is performed appropriate to the isolates recovered 
+from the
+      site (including a screen for Pseudomonas aeruginosa, 
+Staphylococcus
+      aureus and beta streptococcus). 
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    MODERATE 
+GROWTH. 
+      ENTEROCOCCUS SP..    SPARSE GROWTH. 
+      GRAM NEGATIVE ROD #1.    RARE GROWTH. 
+      GRAM NEGATIVE ROD #2. 
+
+   ANAEROBIC CULTURE (Preliminary):    RESULTS PENDING. 
+
+[**2685-5-3**] 2:54 pm BKA stump SWAB 
+                            **FINAL REPORT [**2685-5-5**]**
+
+   GRAM STAIN (Final [**2685-5-3**]): 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final [**2685-5-5**]): 
+      CITROBACTER KOSERI.    SPARSE GROWTH. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+         Trimethoprim/Sulfa sensitivity testing available on 
+request. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             CITROBACTER KOSERI
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------     8 R
+TOBRAMYCIN------------   <=1 S
+
+ 
+Brief Hospital Course:
+64 M rehab resident with history of DM2, ESRD on HD, CHF, HTN, 
+and AFIB who presented with with acute mental status change on 
+the way to HD, found to have acute respiratory alkalosis and 
+metabolic acidosis, as well as GNR bacteremia.  Hospital course 
+by problem below:  
+.  
+#. GNR sepsis: He had an episode of hypothermia, hypotension, 
+and GNR bacteremia. Most likely source is sacral decubitus 
+ulcer.  Repeat blood cultures were no growth to date.  Initial 
+culture is preliminarly B.fragilis.  Wound swabs were sent for 
+culture, as well as MRSA screens.  He was covered broadly with 
+renally-dosed vanco, zosyn, and gent (gram positives and double 
+coverage for pseudomonas).  His wound grew citrobacter, 
+resistant to piperacillin.  He was switched to ciprofloxacin, 
+and should continue a total 14 day course of antibiotics.
+.
+# Mental status change: This was thought to be due to infection 
+as above, acute on chronic psychiatric symptoms, and alkalosis 
+with pH 7.69.  Repeat blood gas was significantly improved.  
+Serum tox screen was negative; due to baseline anuria, urine tox 
+screen was not able to be obtained.  LP was deferred due to 
+sacral ulcer overlying site.  His valproate level was 22, but 
+the medication is given for agitation and mood disorder.  Psych 
+was consulted for agitation and recommended haldol IV prn.  His 
+mental status improved by discharge.
+.  
+# Respiratory alkalosis: This was noted on admission, and was 
+thought to be due to  compensation for metabolic acidosis, 
+question from uremia vs. sepsis.  Repeat blood gas was improved. 
+  
+.  
+# ESRD on HD:  Patient with anion gap metabolic acidosis on 
+admission.  This improved with hemodialysis.  He was last 
+dialyzed on [**5-6**].   
+.  
+# DM2:  He was continued on his outpatient lantus and glargine.  
+
+.  
+# HTN:  Metoprolol was held in house due to hypotension.  On 
+discharge he was hypertensive, and this was restarted with hold 
+parameters.
+.  
+# AFIB:  He received metoprolol for rate control.  The patient 
+is not on coumadin because he does not want frequent blood 
+draws.  He is also s/p pacer.  
+.  
+# Wound Care:  The wound care nurse [**First Name (Titles) **] [**Last Name (Titles) 4224**] re his stage 
+IV ulcers.  He is to receive wound care as an outpatient, and 
+frequent repositioning. 
+.  
+# PEG:  His PEG tube material was hemooccult positive.  He was 
+continued on BID PPI.  He is to continue receiving daily 
+flushes, although he is no longer relying on tube feeds for 
+adequate pos.  
+.  
+# LLL Lung nodule: 4 mm nodule was found incidentally on CT 
+scan.  The radiologists recommended one-year follow-up.
+.
+#. FEN: He was given a renal, diabetic, cardiac diet.  
+.  
+#. PPX: PPI, heparin sc, bowel regimen  
+.  
+#. CODE: He is DNR/DNI, hospice care only but with exception of 
+dialysis per paperwork and discussion with Dr. [**Last Name (STitle) 3324**] at 
+patient's nursing home. 
+.  
+#. COMMUNICATION: Brother [**First Name8 (NamePattern2) 6570**] [**Known patient lastname 6571**]: [**Telephone/Fax (1) 6572**]. Brother 
+[**First Name8 (NamePattern2) **] [**Known patient lastname 6571**]: [**Telephone/Fax (1) 6573**].  ?Power of attorney [**First Name8 (NamePattern2) **] [**Known patient lastname 6571**]: 
+[**Telephone/Fax (1) 6574**]  
+.  
+#. ACCESS: HD cath in LIJ, pacer on R chest  
+ 
+Medications on Admission:
+NPH insulin 10 units sc QAM, 8 units sc Q4:30 pm  
+Fentanyl 50 mcg patch and 25 mcg patch  
+Reglan 5 per PEG TID prn  
+Tylenol #3 2 tabs BID  
+Colace  
+Vitamin C 500 BID  
+Metoprolol 12.5 BID  
+Valproic acid 250 via PEG Q8H  
+Ativan 0.5 QHS  
+Nephrocaps daily  
+ASA 81 daily  
+Nexium 40 daily  
+Heparin sc  
+NTG sl prn  
+Albuterol prn  
+Ativan 0.5 Q4H prn  
+MOM  
+Dulcolax prn  
+Fleet prn  
+Tylenol #3 prn  
+.  
+ALLERGIES:  
+Bactrim, Motrin, Seroquel  
+ 
+Discharge Medications:
+1. Fentanyl 50 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+2. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+3. Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times a 
+day) as needed.  
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+5. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Valproic Acid 250 mg Capsule Sig: One (1) Capsule PO Q8H 
+(every 8 hours).  
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical BID 
+(2 times a day) as needed.  
+9. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+10. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+13. Vancomycin 1,000 mg Recon Soln Sig: One (1)  Intravenous QHD 
+for 4 doses: last given on [**5-6**].  
+14. Gentamicin 40 mg/mL Solution Sig: One (1)  Injection QHD 
+(each hemodialysis) for 4 doses: last given on [**5-6**].  
+15. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1) 
+unit Subcutaneous four times a day as needed: per sliding scale. 
+ 
+16. Tylenol-Codeine #3 300-30 mg Tablet Sig: One (1) Tablet PO 
+four times a day as needed for pain.  
+17. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed.  
+18. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a 
+day: Hold for SBP <100 or P <60.  
+19. Insulin Glargine 100 unit/mL Solution Sig: One (1) unit 
+Subcutaneous twice a day: Given 10 units QAM and 8 units QPM.  
+20. Cipro 500 mg Tablet Sig: One (1) Tablet PO once a day for 10 
+days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 **] Northeast - [**Location (un) 347**]
+ 
+Discharge Diagnosis:
+1. altered mental status
+2. gram negative rod bacteremia
+....
+3. sacral decubitus ulcer - stage IV
+4. ESRD on HD
+5. DM2
+6. HTN
+7. AFib
+
+ 
+Discharge Condition:
+afebrile, oriented, alert
+
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] were hospitalized for altered mental status.  [**Doctor First Name 10**] were found 
+to have bacteria in your blood, and were started on antibiotics 
+for this.  [**Doctor First Name 10**] underwent hemodialysis on [**5-4**] and [**5-6**].
+.
+Please call the [**Hospital1 83**] micro lab tomorrow for exact speciation of 
+organisms at [**Telephone/Fax (1) 6575**]. 
+ 
+Followup Instructions:
+to be arranged after discharge from acute rehab
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 86**] MD [**MD Number 87**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 588**] [**Last Name (NamePattern1) 589**] MD [**MD Number 590**] [**2685-5-6**] @ 1927
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 46**] [**2685-7-30**] 2:58 PM
+(End of Report)
+
+
+",,
+5489,26661,,,2685-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2685-5-2**] 5:06 PM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 11549**]
+     Reason: pe?                                                         
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with esrd, altered menatl status, acute onset shortness of 
+      breath, weight 324lbs
+     REASON FOR THIS EXAMINATION:
+      pe?                                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AHPb SAT [**2685-5-2**] 6:20 PM
+      1. no explanation for sob and no pe
+      2. 4 mm left lower lobe pulmonary nodule.  1 yr f/u is recommendation without
+      known malignancy.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease with altered mental status and shortness
+     of breath.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast and contrast-enhanced axial CT imaging of the chest
+     was performed after the uneventful administration of Optiray contrast.
+     Multiplanar reformatted images were also obtained.
+     
+     CT CHEST WITH CONTRAST:  Evaluation of the lung fields is limited secondary to
+     respiratory motion, but the lungs are grossly clear.  There is, however, a 4-
+     mm subpleural nodule in the left lower lobe.  The pulmonary arteries opacify
+     without filling defects.  The heart and great vessels of the mediastinum are
+     remarkable for moderate coronary artery and mitral annular calcifications.
+     Dual-chamber pacemaker leads terminate in the right and left atrium.  A left
+     jugular central venous catheter tip terminates at the cavoatrial junction.
+     Visualized abdomen is unremarkable.  An NG tube is in place.  Left kidney is
+     small and contains a linear 6-mm calcification in the mid pole.
+     
+     IMPRESSION:
+     
+     1.  No evidence for pulmonary embolus or other explanation for shortness of
+     breath.
+     
+     2.  Incidentally noted 4-mm left lower lobe pulmonary nodule for which a one-
+     year followup is recommended in the absence of known malignancy.
+
+",,
+5489,26661,,,2685-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2685-5-2**] 5:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11548**]
+     Reason: bleed?                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with esrd, altered menatl status                                
+     REASON FOR THIS EXAMINATION:
+      bleed?                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AHPb SAT [**2685-5-2**] 6:08 PM
+      limited, but no hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status, question hemorrhage.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no intracranial hemorrhage.  The ventricles, cisterns, and
+     sulci are prominent secondary to brain atrophy.  There is no mass effect or
+     shift of normally midline structures and [**Doctor Last Name 20**]-white matter differentiation is
+     preserved.  Periventricular white matter hypodensities are the sequelae of
+     small vessel infarction.  There is atherosclerotic disease of the cavernous
+     carotids.  The visualized paranasal sinuses are clear.
+     
+     IMPRESSION:  No intracranial hemorrhage.
+                                                                           
+
+",,
+5489,26661,,,2685-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2685-5-2**] 3:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11547**]
+     Reason: volume overload?  pna?                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with shortness of breath o nthe way to dialysis                 
+     REASON FOR THIS EXAMINATION:
+      volume overload?  pna?                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath on the way to dialysis.
+     
+     FINDINGS:  Single portable upright chest radiograph is reviewed.  No
+     comparison is available.  The patient is slightly rotated, limiting
+     evaluation.  Heart size is mildly enlarged.  There is bilateral pulmonary
+     vascular engorgement, with mild upper zone redistribution, but no definite
+     pulmonary edema.  There is no pleural effusion or pneumothorax.  Left
+     subclavian approach hemodialysis catheter is in place, with catheter tip
+     projecting over the right atrium.  Extreme lung apices are excluded by the
+     patient's mandible, but there are no focal consolidations.
+     
+     IMPRESSION:  Findings consistent with increased volume status, but no overt
+     pulmonary edema.
+                                                                           
+
+",,
+5489,26661,6824,1,2685-05-03 01:09:00 EST,2685-05-03 04:44:00 EST,8919,"Y",54,"Nursing/Other","Nursing Admission Note:","
+Nursing Admission Note:
+IR to assess PEG, ? replacement of PEG; glargine and depakote held this am pt NPO
+",,
+5489,26661,6824,0,2685-05-03 01:09:00 EST,2685-05-03 02:09:00 EST,8919,"N",54,"Nursing/Other","Nursing Admission Note:","
+Nursing Admission Note:
+All alarms in place on monitor and functioning normally; evironment secured for safety.
+
+ALLERGIES: seroquel, ibuprofen, bactrim
+
+DNR/DNI
+
+Please see FHP for admission history and PMH
+
+NEURO: pt agitated, screaming out, hallucinating, priented to person only; will sometimes follow commands; not easily reoriented; recieving haldol IV, total 20mg with little effect; wrist restraints in place for pt safety/to protect lines; intermittant c/o pain at NIBP cuff site right leg, otherwise no pain; tremulous throughout with agitation; PERL, pupils 3mm and brisk bialterally; head CT negative; no movement in lower extemities, lifts and holds upper extemities; pysch consult tonight
+
+CV: pt afib, occasionally V or AV paced, HR 101-80, rare PVC's; SBP 139-125, MAP 75-105; lytes per Careview; HCT 98.7; no edema noted; no CP; + radial pulses, +right pedal pulses; lower extemitiy poorly perfused; AV fistula x2 left arm no bruit/thrill and cord-like; troponin elevation [**1-23**] renal function, no repeat drawn; left HD line in place, not sutured, MD aware,to resuture in am
+
+RESP: LSCTA bilaterally to posterior auscultation, no wheeze, crackle; 2LNC sats >95%; RR on arrival tachypneic, now RR in teens; has brief apneic periods ? d/t habitus
+
+GI: +BSx4; + medium lt. brown formed stool; PEG in place, patent and drain bilious fluid; gastric contents guiac +; able to take PO's per rehab notes; abd obese, non-tender; oral cavity with many rotting teeth
+
+GU: pt anuric; purulent drainage from urethra; no catheter; BUN/cr elevated, in ESRD; to be dialyzed [**5-3**], as pt missed reg scheduled dialysis [**5-2**]
+
+SKIN: many reddened skin folds, miconazole ordered, awaiting delivery from pharmacy; left stump elevated on pillow; stasis ulcer x3 along ant bottom portion of stump, 3rd healing, second 2 ulcers with red wound be and yellow tissue and purulent serosang drainage, cleansed with saline, wet to dry, and mefix tape in place; right lateral ankle, stasis ulcer, cleansed with NS and dsd inplace, purulent sero-sang drainage; tunneled sacral wound 5cm deep, irrigated with NS, packed with wet to dry, sero-sang purulent drainage; wound care consult ordered; barimaxx bed to constant rotation; HD dsg changes, as noted above, not sutured in place; long firm ? instrument palpated on right upper chest [**Name8 (MD) 87**], md unable to identify on CXR
+
+ACCESS: right PIVx2 WNL 18G and 20G; HD line in place
+
+ID: on ceftriaxone, awaiting ID approval, and vancomycin; afebrile; WBC's WNL, neutrophils elevated; lactate 1.7
+
+POC: follow ABG's; monitor MS, haldol prn, monitor QTc; wound care consult; plan for HD in AM; follow lytes; continue abx
+
+Please see Careview as needed for aditional info. 
+
+
+
+
+
+",,
+5489,26661,6824,0,2685-05-03 16:56:00 EST,2685-05-03 17:11:00 EST,3995,"N",54,"Nursing/Other",,"
+
+Micu nursing note7-1900
+
+Neuro: pt is sleepy but will wake to voice, pt able to move hands but will not move leg, pt A&O x1 this am but by 4 pm pt A&O x3 
+
+Cv Pt BP 90's sbp all day bu this afternoon nbp reading down into the 60's systolic pt boluses 250 cc x1 and Bp increased back to the 90's with in an hr Bp again reading in the 60's multi attmepts to place cuff on r arm and leg unable to get a better reading despite the face that pt was talking to be me, Bp was taken manually and was in the 90's and it was decieded that we would use doppler q1 hr because of difficult with cuff, dopper BP 90-140's
+
+Resp  lung clear, sats 100% 
+pt on 2L N/C
+
+Gi pt has peg which I have used for meds, is heme pos, billious green asperates, resident spoke with nursing home states pt eat and takes pills by mouth, it pt is more awake later [**Doctor First Name **] way want to attempt to give meds by mouth, Bowel sound x4 no stool
+
+GU doesn't make urine
+id pt hypothermic place of bear hugger this afternoon
+skin R stump dsg n/s wet to dry, multi open areas on stump with one area andn 3cm x3cm and about 2 cm deep draining green drainage (wound culture sent)
+sacral decub large daining fowel smelling yellow drainage, w-d normal saline, area 4x4 cm and about 3 in deep  culture sent from this area.
+pt remains on vanco and cefriaxone cultures pending
+endo no coverage needed at 12, 
+consult placed for wound care nurse may need wound vac
+A/P would continue with dsg change q12 or prn until wound care sees pt
+follow cultures
+advance diet as tol,  according to nh pt does have these periods of agitation and confusion, would have pt seen by discharge planning tomorrow, if cultures neg would consider sending pt back to nh
+",,
+5489,26661,6824,0,2685-05-04 04:15:00 EST,2685-05-04 05:00:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: BEHAVIOR IMPROVED AND APPROPIATE. PATIENT HAS A FEW OCCASIONS WHERE HE WAS CALLING OUT BUT REDIRECTED EASILY. NO NEED FOR PRN MEDS. INITIALLY ALERT AND ORIENTED X2, DID NOT KNOW WHERE HE WAS AND THOUGHT THE PRESIDENT'S NAME WAS ""[**Last Name (un) 88**]"". THIS MORNING AAOX3. DENIES PAIN, HAS TWO FENTANYL PATCHES ON LEFT SHOULDER FOR A TOTAL OF 75MCG. FOLLOWING COMMANDS CONSISTENTLY. CAN LIFT ANF HOLD UPPER EXTREMITIES. NO MOVEMENT NOTED OF LE'S. PERL @3MM AND SLUGGISH. ON VALPROIC ACID, NO SEIZURE ACTIVITY. 
+
+CARDIAC: HR 54-77 AFIB, OCASIONALLY V-PACED, WITH FREQUENT ECTOPY AND OCCASIONAL PAUSES WITH PACER NOT CAPTURING. OBTAINING BP AN ISSUE FOR PREVIOUS SHIFT. @2000 BP MANUAL WITH DOPPLER READ A SBP OF 132, RECEIVED 12.5MG LOPRESSOR AS ORDERED AND TWO HRS LATER DROPPED TO 82. MD AWARE AND PATIENT TREATED WITH 250CC BOLUS WITH EFFECT AND LOPRESSOR SUBSEQUENTLY D/C'D. BP 81-132/27-84. PULSES BY DOPPLER TO RIGHT FOOT. HCT 33.5.  PREVIOUS QUIAC+ FROM PEG. 
+
+RESP: ON 2L N/C WITH RR 11-20 AND SATS 97-100%. LS CLEAR WITH DIMINISHED BASES. NO COUGH/CONG/SOB NOTED.
+
+GI/GU: ABD SOFT AND OBESE WITH +BS. ONLY A SMEAR OF LIGHT BROWN STOOL. ON BOWEL MEDS. PATIENT HAS PEG, CURRENTLY CLAMPED. PATIENT IS SAID TO MAKE NO URINE ALTHOUGH HIS PAD AND A GAUZE OVER THAT AREA WAS WET WITH FOUL SMELLING DRAINAGE. CREAT 5.3.
+
+FEN: NO OTHER FLUID EXCEPT FLUID BOLUS. LYTES PER CAREVUE. ON FS Q6HRS WITH SSRI AND GLARGINE BID. ABLE TO TAKE CLEAR LIQUIDS EASILY AND HAD NO DIFFICULTY SWALLOWING HIS PILLS. 
+
+ID: TEMP OF 95.6 AT START OF SHIFT WITH BAIRHUGGER BLANKET IN PLACE, TEMP RISING TO CURRENT 96.8, BLANKET OFF. WBC 11. BLOOD CX FROM [**5-2**] GROWING GNR, SACRAL [**Month/Year (2) 89**] GRAM STAIN GROWING GNR AND GPC. STUMP WOUND SWAB PENDING. ON VANCO FOR POSSIBLE OSTEO AND CHANGED CEFTRAIXONE TO ZOSYN FOR BROADER COVERAGE FOR POSSIBLE SEPSIS.
+
+SKIN: SACRAL [**Month/Year (2) 89**], CHANGED, WET TO DRY DSG PLACED. MODERATE SEROSANG DRAINAGE AND FOUL ODOR. LEFT STUMP AND RIGHT ANKLE DSGS INTACT. FOLDS RED, MYCOSTATIN POWDER APPLIED.
+
+ACCESS: PIV X2. LIJ HD LINE, NOT SUTURED IN, REDNESS AT POINT OF INSERTION. AREA AROUND PEG WITH FOUL ODOR AND SCANT DRNG.
+
+SOCIAL/DISPO: DNR/DNI ?PRESSORS. WILL DO HD AND ABX. NO CONTACT FROM FAMILY OVERNOC. POSSIBLE HD TODAY, WILL NEED TO BE DOSED WITH VANCO AFTERWARDS. F/U ON CX'S, ESPECIALLY FROM HD LINE, STUMP DECUBS. NEED WOUND CARE NURSE [**First Name (Titles) 90**] [**Last Name (Titles) 89**] TREATMENT RECOMENDATIONS. ADVANCE DIET AS TOLERATED, ORDERED FOR RENAL/[**Doctor First Name 83**] DIET. EEG ORDERED PER PSYCH RECS. 
+",,
+5489,26661,6824,1,2685-05-04 04:15:00 EST,2685-05-04 05:09:00 EST,3272,"Y",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+ADDENDUM: POSSIBLE CALL OUT TODAY.
+",,
+5489,26661,6824,0,2685-05-04 15:09:00 EST,2685-05-04 15:51:00 EST,3645,"N",54,"Nursing/Other","NPN MICU-7 7AM-7PM","
+NPN MICU-7 7AM-7PM
+64YO MALE with ESRD, on HD, DM, s/p L BKA, osteomylitis, admitted [**5-3**] 
+while on way to HD developed SOB and MS changes in ambulance, brought to [**Hospital1 22**], now with +BC's and +wounds, on triple IV antibx's. 
+Is a DNR/DNI. 
+
+Neuro: Is alert on orientedx2, is not sure of the day of the week, and did not know the President, but is much improved from previous days. Was seen by Psych. note in chart. No calling out today has been very calm and cooperative. Able to move upper extremities, and moves R leg to painful stimuli. EEG being performed. No sz's noted. 
+
+C/V: BP 90-120/60, HR 60-80's alternating between V-paced and A-fib, with frequ PVC's. K+-5.5 before HD. No c/o's CP. 
+
+Respir: Remains on 2 L NP's with O2 sats 97-100%, no SOB noted, states that he is on O2 @ Nursing Home. L/S clear to diminished @ bases. 
+
+GI: Taking PO's well, no c/o's NV, no stool noted. PEG in place but not in use. [**Last Name (un) 91**] is obese with hypoactive BS's. 
+
+GU: Rec'd HD today but no fluid was taken off. BUN/CRE before HD-59/5.3. No urine noted. 
+
+ID: Temps 97.4 PO max, remains on Triple IV antibx's. Has +BC's GNR, and GNR&GPC growing out from coccyx [**Last Name (un) **]. C&S from Left leg stump is PND. Left SC HD line has swelling and reddness @ site, dsg changed by HD RN, ?'ing Line Sepsis. Repeat cultures taken from HD line and from perpherial line. 
+
+Skin: Skin [**Name8 (MD) **] RN in to assess wounds and [**Name8 (MD) **], dsg were all changed. Full assessment and report and recommendations are in the chart. Sacral [**Name8 (MD) **] tracks to 7cm deep and has lrge amt sero-sang foul smelling drainage noted. Please see wound care dsg changes recommendations as out-lined from Skin care RN in Blue Book and in Chart. Remains on Barimax rotation bed, rotation on as tolerated. 
+
+Status: Is DNR/DNI, was on ""Comfort Care"" @ Nursing Home.  No invasive procedures to be done. 
+
+IV Lines: Has two perpherial lines in R arm flushing well, and Left SC HD line in place. 
+
+A/P: Continue to monitor temps, administer IV antibx's, check WBC's qd. Check Culture results. Assess VS's, attempt to keep SBP>90. Continue with aggressive skin care as outlined, dsg changes BID, assess for changes. Assess for Neuro changes. Plan for transfer back to Nsg Home when stable, Case Manager is involved.  
+
+",,
+5489,26661,6824,0,2685-05-05 05:10:00 EST,2685-05-05 05:32:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: AROUSES TO VOICE. AAOX3. FOLLOWING COMMANDS. BEHAVIOR APPROPIATE. WILL OCCASIONALLY CALL OUT. WHEN ASKED WHY HE STATES ""WHEN I WAKE UP I USUALLY CALL OUT."" ABLE TO MOVE UPPER EXTREMITIES. LIMITED MOVEMENT TO RIGHT LEG [**1-23**] PAIN. PERL @3MM AND BRISK. DENIES PAIN. 75MCG FENTANYL PATCHES IN PLACE. ON VALPROIC ACID. NO SEIZURE ACTIVITY NOTED. EEG RESULTS PENDING.
+
+CARDIAC: HR 60-78 AFIB ABD SOMETIMES V-PACED. OCCASIONAL ECTOPY. DENIES CHEST PAIN. BP 80-130/26-97. RIGHT PULSES BY DOPPLER. HCT 34. NO SIGNS OF BLEEDING. 
+
+RESP: ON 2L N/C WITH RR 9-22 AND SATS 97-100%. LS CLEAR WITH DIMINISHED BASES. NO COUGH/CONG/SOB NOTED.
+
+GI/GU: ABD OBESE AND SOFT WITH +BS. NO STOOL. ON BOWEL MEDS. PEG CLAMPED. ANURIC. CREAT 3.6 S/P HD YESTERDAY.
+
+FEN: WAS NOT ULTRAFILTRATED YESTERDAY. LYTES PER CAREVUE. FS QAC AND HS WITH SSRI. DIET AS ORDERED. FED BY FRIEND.
+
+ID: TMAX 97.7 WITH WBC 9. CONTINUES ON VANCO FOR POSSIBLE OSTEO AND GENT AND ZOSYN FOR GNR AND PSEUDOMONAL COVERAGE. BLOOD CX'S SENT WITH AM LABS. OTHER CX'S PENDING. SPARSE GROWTH OF GNR FROM STUMP. SACRAL [**Month/Day (2) 89**] WITH BOTH GN AND GP BACTERIA. BLOOD CX GROWING GNR.
+
+SKIN: PLEASE SEE CAREVUE FOR DETAILS. SACRAL AND LEFT BKA DSGS CHANGED THIS MORNING. DSG INTACT TO RIGHT ANKLE. FOLDS RED, MYCOSTATIN POWDER AS ORDERED.
+
+ACCESS: PIV X2, LIJ HD LINE.
+
+SOCIAL/DISPO: DNR/DNI, HD AND ABX ONLY. FRIEND VISITING EARLY IN THE EVENING. BROTHER CALLED LATER. SHOULD BE CALLED OUT TODAY.
+",,
+5489,26661,6824,0,2685-05-05 16:37:00 EST,2685-05-05 17:31:00 EST,3645,"N",54,"Nursing/Other","NPN MICU-7 7AM-7PM","
+NPN MICU-7 7AM-7PM
+64 YO MALE with ESRD on HD, DM, s/p L-BKA, HTN, CHF, osteomylitis, Pace-maker, with +BS's and +GPC's in sacral [** **] on triple IV antibx's. 
+
+DNR/DNI: 
+
+Neuro: Is A&Ox3 is cooperative with care. PERL, moves upper extremities spon but lower extremities to pain. Has had no need for any sedatives. 
+
+C/V: BP-88-92/40-50's when asleep but when awake SBP-100-120/50's, HR- 60-80's V-paced alternating with episodes of A-fib and occ PVC's. No c/o's CP. K+-4.3. 
+
+GU: Is on HD, next due tomorrow last run was on [**5-4**], no fluid was taken off due to hypotension. BUN/CRE-31/3.1. Does not make urine. 
+
+GI: Has a PEG in place but not in use, taking PO's well but has poor appetite mostly due to very restrictive Diet. [**Last Name (un) 91**] is obese with +BS's
+no stool noted. HCT-34.1. 
+
+Respir: On 2L NP with O2 sats 96-99%, no c/o's SOB. L/S clear to diminished @ bases. 
+
+ID: Has + BC's of GNR, and GNC&GPC growing from Sacral [**Last Name (un) **], is on Zosyn IV q8hr and Vanco and Genta was given during HD yesterday. Temps-96-97.7 PO max, WBC coming down to 8.7. has HD line in Left IJ, ?'ing date of placement is swollen and a little red. 
+
+Skin: Has very lrge Sacral [**Last Name (un) **], and Left leg skin ulcer and R BKA stump incision line that has open areas, All areas were assessed by Skin [**Name8 (MD) **] RN yesterday and recommendations for dsg's were ordered and are posted in RM and in Blue book. Sacral [**Name8 (MD) **] tracks in to 7-8cm, and has foul smelling drainage. L shin skin ulcer looks improved. No other open areas noted, has rash in groin area rec'ing Mycostatin powder. 
+
+Social: Came from [**First Name4 (NamePattern1) 92**] [**Last Name (NamePattern1) **] NH, but did not like the care there, has stated that they have abused and hit him. Social Worker and Case Manager are involved, is being screened by [**Hospital1 93**] awaiting to hear on bed availabity. Would be able to go tomorrow s/p HD if stable and if PICC line has been placed. Pt's brother is spokesperson and has been updated. 
+
+A/P: Continue to monitor VS's, monitor temps, continue IV antibx's, assess culture results. Continue with good skin care as outlined. Assess for Neuro changes. Prepare for HD tomorrow. Transfer to Floor when bed is available. 
+
+
+
+
+",,
+5489,,6824,0,2685-05-06 03:36:00 EST,2685-05-06 03:46:00 EST,5694,"N",54,"Nursing/Other",,"
+
+Please See Carevue for Specifics.
+
+A+OX3, only moves UE, unable to move LE's.  Follows commands.  c/o a baseline pain that never goes away.  Afib with frequnet PVC's.  One 6 beat run of Vtach while sleeping.  SBP 110-130's.  Generalized edema.  HD scheduled for today.  Lungs are diminished at bases and clear upper lobes.  O2 sat 96-98% on 2L NC.  Abd is obese, +BSX4, no stool this shift.  Tolerating food from restricted diet.  Anuric.  Coccyx with stage four ulcer.  About a quarter size in circumference and 7cm deep.  Aream cleansed well with wound cleanser and then lightly repacked with Kerlex NS w->d, aquacel covering with abd pad.
+
+POC:  SW and CM following pt and looking for new rhab/housing for pt.  Continue to monitor hemodynamics, MS, pain.  Transfer to floor when bed availble.  Continue to offer emotional support throughout hospital stay.
+",,
+5489,,6824,0,2685-05-06 14:23:00 EST,2685-05-06 14:41:00 EST,4306,"N",54,"Nursing/Other","Nursing Note: 0700-1900","
+Nursing Note: 0700-1900
+Patient to go to [**Hospital 93**] Hosp in [**Location (un) 94**] upon return from dialysis. Page referrals completed and rehab facility aware of later admission. 
+
+NEURO: A&O X 3; cooperative with care. Moving upper extrems. Has baseline pain but no complaints this shift.
+
+RESP: O2 @ 2L n/c maintaing sats mid to high 90s. No SOB noted or reported. LS diminished.
+
+C/V: HR 60s-80s, paced. NBP 110s-120s. Dialyzed today. 
+
+ID: Afebrile; receiving Vanco/Gent during HD.
+
+ENDO: SS coverage.
+
+GI/GU: Has peg but able to take POs including meds. No BM today; anuric. 
+
+DISPO: DNR; will go to [**Hospital 93**] Hosp in [**Location (un) 94**] upon return from HD. 
+",,

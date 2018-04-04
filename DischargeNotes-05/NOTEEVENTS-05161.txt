@@ -1,0 +1,257 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5161,18124,,,2782-05-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2782-5-18**]     Discharge Date:  [**2782-6-4**]
+
+Date of Birth:   [**2704-9-24**]     Sex:  M
+
+Service:  ACOVE
+
+DISCHARGE SUMMARY ADDENDUM:  This is an addendum to the
+discharge summary dated [**2782-6-1**] to detail the events
+between [**2782-6-1**] and [**2782-6-4**]. New date of discharge
+[**2782-6-4**].
+
+HOSPITAL COURSE: In the interim Mr. [**Known patient lastname **] was unable to keep
+up his po intake which had been monitored in order to prepare
+for discontinuance of TPN and transfer to the [**Hospital3 2687**] facility.  His po intake was variable and
+inconsistent on a day to day basis and it was felt that the
+patient would be best served by being discharged to an
+alternative rehabilitation facility which could accommodate
+continued TPN. At this time the patient is being prepared for
+discharged to [**Hospital 436**] Rehabilitation facility which will
+continue TPN.
+
+In addition in the interim the patient experienced several
+episodes of atypical chest and abdominal pain all with normal
+EKGs and without any acutely concerning findings. It should
+be noted that the majority of these episodes responded to
+analgesia with Morphine Sulfate 1 milligram IV and this
+should be strongly considered should the patient experience
+any future atypical chest pain or abdominal pain without EKG
+changes.
+
+DISCHARGE MEDICATIONS:
+1.  Beclovent MDI two puffs qid inhaled.
+2.  Combivent MDI two puffs qid inhaled.
+3.  Combivent nebulizers q four hours prn.
+4.  Primidone 125 milligrams po q A.M. and 250 milligrams po
+q HS.
+5.  Neurontin 300 milligrams po tid.
+6.  Lopressor 25 milligrams po bid.
+7.  Protonix 40 milligrams po q day.
+8.  Cozaar 25 milligrams po q day.
+9.  Digoxin 0.25 milligrams po q day.
+10. Tylenol 650 milligrams po q four hours prn.
+11. Dilaudid 0.5 to 1 milligram IV q three to four hours prn.
+12. Albuterol nebulizers q four hours prn.
+13. Enteric coated aspirin 325 milligrams po q day.
+14. TPN.
+
+DISCHARGE INSTRUCTIONS: Routine PIC line care with saline
+flushes, no Heparin flushes. The patient has question Heparin
+induced thrombocytopenia and should not receive any
+Heparinized products.
+
+FINAL DIAGNOSIS:
+1.  Gallstone pancreatitis.
+2.  Coronary artery disease.
+3.  Seizure disorder.
+4.  Asthma.
+5.  Esophageal reflux.
+6.  Hypotension.
+7.  Sepsis.
+8.  Question Heparin induced thrombocytopenia.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE FOLLOW UP: The patient should be followed by the
+rehabilitation facility doctor and then transferred to [**Hospital3 2687**] facility where he will be followed by the
+[**Hospital3 1954**] facility physician.
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) 852**], M.D.  [**MD Number 5924**]
+
+Dictated By:[**Name8 (MD) 5925**]
+
+MEDQUIST36
+
+D:  [**2782-6-4**]  09:53
+T:  [**2782-6-4**]  10:13
+JOB#:  [**Job Number 5926**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name 852**]
+ on: SAT [**2782-6-5**] 7:21 AM
+(End of Report)
+
+
+",,
+5161,18124,6408,0,2782-05-22 15:44:00 EST,2782-05-22 16:00:00 EST,-1,"N",69,"Nursing/Other","MICU ACCEPT NOTE:","
+MICU ACCEPT NOTE:
+Pt. transferred from 12R at 1245pm. See admission and history page for details.
+NEURO: Mild mental retardation. Alert and appropriate with intermittent periods of confusion but easily reorients. No sz activity. 
+
+CV: Afebrile.  HR 90s-110s SR/ST with occasional PACs/PVCs.  Denies any pain. Cycling CKs to R/O MI. No CP or SOB. Received IVF boluses for hypotension with good effect (see carevue). Has double lumen R PICC line.  Receiving D51/2NS with 40KCL at 150cc/hr. Hypernatremic secondary to deydration. 
+
+RESP: O2 2L NC with O2 Sat > 94%. Lungs with intermittent wheezes and diminished at bases.  No cough noted.  Needs sputum sent for GS&CX if produces any. RR 12-28.  
+
+GI/GU: Abd soft and distended with absent bowel tones. NGT to CLWS with moderate amts of bilious drainage. Pt. denies nausea or stomach pain. No BM. To be started on TPN this pm. Foley intact with concentrated amber urine >25cc/hr.  
+
+SKIN: Intact. Buttocks and coccyx slightly red but no open areas. Repostioned side to side. 
+
+SOCIAL: Pt. says he has a neice and nephew in VT.
+",,
+5161,18124,6408,0,2782-05-23 03:52:00 EST,2782-05-23 04:08:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress","
+SMICU nsg progress
+Neuro- Pt alert and orientedx2 able to follow commands without difficulty. Moving rt upper extremity >lt.
+GI- Ng cont on lcs with ~600cc out. Abdomen distended but soft. No bowel sounds. Diffuse tenderness noted. Without s/s bleeding. Given total 2 units pc with hct after one unit [**Unit Number **].4. Pt c/o nauseax1 responding to increased ng suctioning.
+Cardiac- Initially hypotensive with bp 80's-90's. Given additional 500ns bolus with improvement. Cont on iv d51/2ns at 200cc/hr decreased to 100/hr when blood infusing. By 12m bp 110-120's with improvement in uo (see flow sheet). At 3am pt awaking from [**Doctor Last Name 65**] c/o nausea. Diaphoretic without change in bp/hr. Pt then c/o cp. HO notified. EKG without change. Given ntgx1 with ? improvement. Without further c/o
+Resp- Cont on 2l np with sats high 90's. Coughing lg thick blood tinged secretions once. Unable to send for c+s. Remains afebrile on current antibiotics.
+",,
+5161,18124,6408,0,2782-05-23 14:54:00 EST,2782-05-23 15:03:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert and oriented. Follows commands and cooperative. Mild tremor noted at times. 
+
+CV: Tmax 99.5. HR 100s-110s ST with occasional PVCs. BP stable. IVF D51/2 with 40KCL at 100cc/hr via PICC. Repleted with KCL and MGSO4. Skin warm and dry.
+
+RESP: O2 2L NC with O2 Sat >95%.  Lungs with wheezes and crackles at bases. Nebs given as ordered with moderate effect. Coughing up light yellowish sputum- cx sent, no bloody sputum noted.  RR 20-32. Pt. denies and SOB. 
+
+GI/GU: Abd soft and distended with absent bowel tones.  Pt. states he is passing gas and had a smear of brownish liquid stool on pad but unable to guiac.  Complaining of LLQ pain and says ""it's not that bad."" NGT to CLWS with bilious drainage in moderate amts (see carevue). Taking small amt of ice chips po for ""dry mouth."" Denies any nausea. Foley intact draining clear yellow urine >50cc/hr.  
+
+SKIN: Intact. Repositioned side to side q 2hrs and full bath given.  SCDs on continuously. 
+
+SOCIAL: Team unable to contact niece who is health care proxy. Pt. anxious to talk to her and let her know he is here.  ?need for ss consult since pt. stating he doesn't want to go back to [**Hospital 1**] rehab since he is treated poorly by staff. Need for ss consult addressed with team.
+",,
+5161,18124,6408,0,2782-05-24 03:56:00 EST,2782-05-24 04:20:00 EST,760,"N",69,"Nursing/Other","SMICU nsg progress","
+SMICU nsg progress
+Neuro- Alert, oriented,and cooperative. Pt turned s/s q2hrs. Pt movement limited. Able to follow commands without problem
+GI-[**Name2 (NI) **] initially on lis- small amts brown to coffee ground ob+ material out. HO notified and ng clamped. Cont with sm amts coffee grounds out but able to lavage clear easily. Hct stable at 34.9. Pt also passing mod amts liquid yellow ob- stool. Abdomen remains distended but soft. Absent bowel sounds.
+Resp- Despite neb tx pt with increase inspi/expir wheezes tonight. Intermittent cough- suctioned for thick white secretions at back of throat. Sats remain stable thoughout 94-97% on 2lnc.
+ID- Febrile with temp 101.2po. Blood/urine culture sent. Will need to send sputum. Given tylenol.
+Cardiac- No further hypotension. Remains on iv at 100/hr. Good uo. Hr increased 108-116st (? r/t temp). Cont with freq pvc's
+",,
+5161,18124,6408,0,2782-05-24 16:20:00 EST,2782-05-24 16:52:00 EST,251,"N",69,"Nursing/Other","FICU NPN 7A-7P","
+FICU NPN 7A-7P
+NEURO: ALERT AND ORIENTED X2, UNSURE OF THE PLACE. PLEASANT AND COOPERATIVE. FOLLOWING COMMANDS AND MAE. THIS AM ON MD EXAM C/O PAIN WITH PALPATION LUQ. CONTINUES TO HAVE DISCOMFORT IN LUQ NOW AT REST.
+
+CARDIAC: HR 91-108 SR/ST W/OCCASIONAL ECTOPY. K+ 3.5, MAG 1.6, AND PO4 1.6 THIS AM. WAS RECEIVING IVF WITH KCL THIS AM AND ELECTROLYTES WILL BE INCREASED IN TPN THIS EVENING. ALSO RECEIVING 15MMOL OF K-PHOS. BP 125-148/54-77. CARDIAC MEDS ON HOLD. PLTS 89 THIS AM TEAM WORRIED ABOUT DIC AND HIT ANTIBODIES. SCREENS SENT ON BOTH. HCT STABLE AT 34.5 INR 1.5, AND PLTS 104 LATE AM. WILL CHECK HCT AT 6PM. IVF CHANGED TO KVO.
+
+RESP: REMAINS ON 2L N/C. SATS 94-98%. RR IN THE 20'S. LS WITH EXP WHEEZES (TREATED WITH NEBS AND MDI'S) AND CRACKLES BIBASILAR. ON CT TODAY SHOWED SMALL BILAT PLEURAL EFFUSIONS. PRODUCTIVE COUGH ABLE TO EXPECTORATE TO BACK OF THROAT AND YANKEUR SXT FOR THICK WHITE SPUTUM.
+
+GI: NOW STRICT NPO. HCT IN PLACE. ABD SOFT AND DISTENDED WITH ABSENT BS. RECEIVED PO/IV CONTRAST FOR CT OF ABD. SCAN SHOWED PROGRESSION OF PERIPANCREATIC INFLAMMATORY CHANGES, FLUID COLLECTION THAT IS NOT DRAINABLE, 30% OF PANCREAS WITH NO CONTRAST UPTAKE, AND INGUINAL HERNIAS. THEY WERE ALSO NOT ABLE TO ASSESS ALL OF BOWEL [**3-6**] DISTENTION OF PO CONTRAST. ALL PO MEDS D/C'D. PATIENT IS STOOLING GOLDEN TO NOW BROWN LIQUID STOOL VIA FIC BAG. RECEIVING TPN. LAST FS 148. INSULIN INCREASED IN TPN. PATIENT HAVING COFFEE GROUND DRNG THIS AM FROM NGT SO HE WAS LAVAGED ONE LITER TILL CLEAR.
+
+GU: DRAINING 80-250CC/HR OF AMBER TO YELLOW CLEAR URINE. MAY RECEIVE LASIX FOR GOAL OF 1L NEGATIVE. DID RECEIVE 800CC OF CONTRAST AND IS CURRENTLY 1300CC POSITIVE.
+
+ID: TMAX 100.0. WBC 9.9 THIS AM. CONTINUES ON AMPICILLIN, FLAGYL AND LEVOFLOXACIN FOR PANCREATIC COLLECTION. BLD, URINE, AND SPUTUM CX'S PENDING.
+
+SKIN: INTACT. ECCHYMOTIC AREAS ON LEFT AND RIGHT LOWER ABD. RIGHT INCREASED SIGNIFICANTLY FROM YESTERDAY ACCORDING TO MD. CONTINUE TO MONITOR.
+
+ACCESS: RIGHT PICC, #22G LEFT HAND.
+
+SOCIAL: PATIENT IS A FULL CODE. NO CONTACT FROM FAMILY.
+",,
+5161,18124,6408,0,2782-05-25 04:33:00 EST,2782-05-25 05:19:00 EST,463,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress 7p-7a
+review of systems
+CV-vs have been stable. pt had some tachycardia accompanied by chest pain-hr was in the 110's which i was attributing to his fever.an ekg was done-showed no changes.we are cycling enzymes and troponin.he was started on the lopressor 5 mgs tid.bp has been stable.
+RESP-wearing 2 litres nasal cannula-his sats were 88-93% with dips to the low 80's%.o2 was increased to 3 litres and sats have been 90-95%.his lungs have been sounding wheezy most of the time, despite freq nebs.
+GI-aabd is soft and there are no bowel sounds present.he has been passing green liquid stool via rectal bag, c-diff cx to be sent.has had a good amt of drainage from ngt,brownish white.receiving protonix.ngt is currently clamped after tylenol dose. pt is npo.he had some R sided abd pain tx with .5 mgs dilaudid x 2.
+ID-t max=101.8po.was tx with cool washclothes and tylenol via ngt.receiving ampi,flagyl and levofloxin.no new cx sent.need a c-diff.
+HEME-had a small drop in hct from 34.? to 31.he has a clot in the bloodbank till noon.no apparent active bleeding.hematomas on abdomen noted.
+NEURO-alert and oriented x 2.very conversant and cooperative.
+F/E-his tachycardia was tx with 500ccs D5 1/2 NS. has had a good urine output all night, good amt of ngt drainage and also of stool.also insensible loss from fever.c/o thirst and asking for ice chips-given very sparingly.tx with 40 meqs iv KCL.please see am labs.
+ENDO-being covered with ss insulin.
+a-steady night-he slept very little.was awake each time i went into room until ~5:30 am.
+p-will watch vs,attempt to assess fluid status ( could transduce CVP) monitor temp.will tx if hct drops below 30.assess for active bleeding.
+
+",,
+5161,18124,6408,0,2782-05-25 13:21:00 EST,2782-05-25 13:30:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: PT. WITH EXP WHEEZES POST NEBS THIS AM. AFTER DIURESIS FROM LASIX THIS AM, WHEEZES ARE GONE. HO AWARE. O2 SATS ON 1L 96%. NO C/O SOB. 
+GI: REMAINS NPO. BS'S ABSENT. STOOL LESS LIQUID. FIB LEAKING AND RECTAL FOLEY PLACED. STOOL SENT FOR C-DIFF AND CX AND WBC'S. STOOL AND NG DRAINAGE + GUAIAC. PH 7. SLIGHT C/O NAUSEA WHEN NGT NOT DRAINING. NO COFFEE-GROUND MATERIAL. BILIOUS. TPN CONTINUES. GI CONSULTED.
+RENAL: GIVEN 10MG LASIX IVP WITH MODERATE DIURESIS. 
+CV: IN NSR. TOL. LASIX DOSE. LOPRESSOR CONTINUES. TRIPONIN'S REMAIN ELEVATED. EF 30-40%. 
+ID: HIGHEST TEMP 99.8. ALL ANTIBIOTICS D/C'ED. WILL RECX IF PT. SPIKES. 
+NEURO: AWAKE AND ALERT. 
+PAIN CONTROL: PAIN ON PALPATION. C/O 1X OF DISCOMFORT AND GIVEN DILAUDID .5MG IVP WITH RELIEF. 
+ENDOC: MG+ 1.4 AND REPLACED WITH 2GMS. GIVEN 2U SSI FOR BS OF 170.
+HEM: HCT STABLE. NO ACTIVE BLEEDING. WILL NEED NEW CLOT IF BLOOD IS NEEDED.
+
+",,
+5161,18124,6408,0,2782-05-25 15:42:00 EST,2782-05-25 15:48:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Received report from [**Doctor First Name 7779**] and assessed patient at 1530.  Rectal and foley tubes to BSD and patent.  Assisted patient on left side and tolerated well.  Placed heels off of mattress secondary to redness.  Monitors and alarms checked and activating.  No family at bedside nor no phone calls.  5mg IV dose of lopressor given with SBP 116 HR>70.  No nausea/vomiting.  Bed in lock postion. Continue to monitor.  See flowsheet for further assessment.
+                                           [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8261**], RN
+",,
+5161,18124,6408,0,2782-05-25 16:43:00 EST,2782-05-25 16:55:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Patient complainted of wanting to turn because uncomfortable.  Exporatory wheezing noted with some rhonchi.  Resp up 27.  Followed up with paging RT for breathing tx.  Encouraged to C&DB and coughed up some thick green color sputum.  After breathing tx. patient stated to feeling better.  No audible wheezing noted and resp 19. Continue to monitor.
+                                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RN
+",,
+5161,18124,6408,0,2782-05-26 04:23:00 EST,2782-05-26 04:42:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note 7p-7a","
+Nursing Progress Note 7p-7a
+Neuro:  Pt A&OX3 initially.  Rec'd benadryl for insomnia and became slightly inappropriate asking when he was going downstairs.  Otherwise calm and cooperative becoming slightly anxious at times.  Pt got little [**Doctor Last Name 65**] despite benadryl.
+
+CV:  HR 80's-100's.  BP 100's-130's.  Receiving lopressor q6 hrs.  febrile to 101.6, pan cultured.  Down to 99.2 after tylenol.  No antibiotics.
+
+Resp:  LS's CTA in upper lobes, diminished in lower lobes.  Receiving inhalers and neb tx.  Became wheezy at 0400, relieved with albuterol neb.  RR 24-30.  O2 sat 95-97 on 1L O2 nc.  +productive cough.  sputum sample sent for cx.
+
+Pain:  Pt c/o general discomfort this am, especially in ribs and back.  Medicated with 0.5mg of dilaudid.
+
+GI:  Abd soft, slightly tender to left side.  Hypo BS's.  NGT to LIS draining bilious material.  Rectal tube draining small amt of brown liquid stool.  TPN at 63.8cc/hr.  
+
+GU:  Foley draining qs clear yellow urine.  U/A C&S sent.  
+
+Skin:  Bedrest overnight.  Turning from side to side.  No apparent breakdown noted to buttocks.  Heels elevated on pillows.
+
+Soc:  no family phone calls this shift.
+
+Plan:  follow-up results of cultures and await start of appropriate antibiotic.  Pulmonary toilet.  Monitor GI status.
+
+ 
+",,
+5161,18695,6409,0,2782-07-13 16:41:00 EST,2782-07-13 16:51:00 EST,-1,"N",69,"Nursing/Other","Nursing Admission Note 0700-1900","
+Nursing Admission Note 0700-1900
+Pt is 77 year old male resident of [**Hospital 1**] Rehab admitted today after found to be lethargic and hypotensive.  In EW, pt was fluid resuscitated for dehydration and started on pressors.  
+
+Neuro:  Pt is lethargic, Ox3, calm and cooperative.  Baseline left hemiparesis from old CVA.
+
+CV:  HR 90's-100's, reportedly in afib, but appears to be in 1st degree AVB.  BP 90's-110's/40's on 40mcg/min neo.  Afebrile
+
+Resp:  LS's diminished with crackles.  O2 sat 98-99% on 4l o2.  Coughing green sputum, sent for culture.  RR 16-18, non labored.
+
+GI:  Abd distended with hypoactive bs's.  Incontinent of small amount of stool.  Attempted to place NGT but unable because of esophageal stricture.  NPO.
+
+GU:  Foley draining qs clear yellow urine.  Initially low in ew, but has increased since IVF.  BUN/cr elevated.
+
+Skin:  No breakdown noted to backside.  Heels reddened.  Trauma line placed to right groin in ew because of poor IV access. 
+
+Plan:  Cont to monitor for signs of infection.  Monitor resp status.
+",,
+5161,18695,6409,0,2782-07-14 06:00:00 EST,2782-07-14 06:07:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  NEO WEANED TO OFF.  HAS MAINTAINED SBP'S ABOVE 90 SINCE THEN.  PT TACHYCARDIC TO ONE TEENS.  LOPRESSOR 12.5 MG'S PO GIVEN W/ HR NOW DOWN ~ 100.  CK'S CONTINUE TO CLIMB AND MB FRACTION SLIGHTLY ELEVATED, BUT TROPONIN NORMAL.  3RD SET SENT W/ AM LABS.  TOL PO'S WELL, UO GOOD.  RR IN 20'S, REG, NONLABORED. SATS IN MID 90'S ON 3 LITERS NC.  + BIBASILIAR CRACKLES UNCHANGED.  + PROD COUGH, NO TEMP.  
+",,
+5161,18695,6409,0,2782-07-14 16:51:00 EST,2782-07-14 16:51:00 EST,-1,"N",69,"Nursing/Other",,"
+
+See transfer note for summary of days events.
+",,
+5161,18695,6409,0,2782-07-15 05:14:00 EST,2782-07-15 05:27:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 7p-7a
+Pt stable overnoc
+Review of systems:
+Neuro: Alert.  Oriented to person.
+Resp:  continues on 3L via nc.  LS course. congested cough noted. O2 sats 97%
+CV:  BP stable overnoc.  SBP 104-135/55-68.HR continues in 1st degree AV block.  Pt with occasional pauses throughout the noc.  K 3.2 this am.
+GI:  No BM overnoc.  BS present. Low po intake.   Pt having difficulty with thin liquids.  Consider swallow eval and reassess diet type. 
+GU:  Low u/o noted.  fluid bolus given with maintance fluid started.  U/o picked up to ~30-40cc/hr.  BUN/ Cr better this am 31/1.0 respectively.
+Skin.  Intact
+ID:  on levofloxin.  BC still pnd.  Pt remains afebrile. 
+Dispo:  pt called out.  awaiting bed on floor. Transfer note done
+  
+",,

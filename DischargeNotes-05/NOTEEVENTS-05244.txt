@@ -1,0 +1,1201 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5244,9494,,,2832-03-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2832-3-14**]              Discharge Date:   [**2832-3-25**]
+ 
+Date of Birth:  [**2736-7-7**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ipratropium
+ 
+Attending:[**First Name3 (LF) 6087**] 
+Addendum:
+Heparin subq TID also a discharge medication.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1953**] - [**Location (un) 418**]
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6088**] MD [**MD Number 6089**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 821**] [**Last Name (NamePattern1) 822**] MD [**MD Number 823**] [**2832-3-25**] @ 1703
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2832-4-16**] 7:07 AM
+(End of Report)
+
+
+",,
+5244,9494,6508,0,2832-03-15 04:50:00 EST,2832-03-15 05:18:00 EST,4196,"N",54,"Nursing/Other",,"
+
+pt admitted to micu 7 from er with hyperglycemia, hypernatremi, mental status changes. pt received on and insulin drip at 9 units/hr. na 174 at 0100 and K=3.2. pt receiveing kcl 40/500 d5w at 125 cc/hr and 1/2 ns at 200 cc/hr.
+
+past med hx: cad, mi,ptca in past,htn,dementia, CRI
+
+ pt arrived in er from nh with elevated blood sugar 704 and received insulin 7 units hum and staarted on insulin drip at 7 units. na elevated at 165, bun 68,cr 2.6. pt had recieved a dose of levaquin 250 at the nh for  UTI gr neg rods in urine and elevated wbc.pt has  midline in left ac. 2 periipheral iv's # 18 r hand,and # 18 r forearm. In Er bp initially 89/60 and pt with kussmaul respirations o2 sats 100 % on 15 l nrb pt received 3 liters ns in er and bp increased to 110/61 hr 64. of note ketones in urine neg.
+
+neuro: initially pt opening eyes to voice and not speaking. pt does follow some simple commands such as stick out your tongue, opens eyes both spontanteously and to commandd. pt reponding yes and no to simple questions. pt reponed yes when asked if he was cold and responded yes to blanket request.pt also asked for water when mouth care being done.
+head ct done in Er... no hem orrage, no mass effect, but did show acute sinusitis
+ 
+cv: vss. pt had episode of brief tachycardia  about 9 second burst, bp stable. 114-95/
+
+gi: abdomen soft. positive bowel sounds, npo. no bm
+
+gu: foley # 14 french draining cloudy yellow urine. positive uti urine from nh.. gr neg rods started on levoquin 250 mg iv at nh... pt to receive 750 levoquin iv in a.m.. pt also on flagyl 500  iv q 8 hours and received vanco 1 gram iv in er.
+
+resp: o2 at 6 l nc sats 93-96 % coughing and swallowing. breath sounds difficult to hear as pt moans while taking deep breaths.breath sounds heard in upper and lower lobes.
+
+endo: pt on q 1 hour blood sugars and insulin drip titrated according to guideline. bs 65 at 0400 drip off f/u bs 94 and blood sugar 117 at 0500.
+
+other labs: na 165 in er. 0100 na up to 174.. pt receiving 1/2 ns at 200 cc/hr. K=3.2 tx with 40 meq kcl/ 500 d5w at 125 cc/hr.
+
+social: pt has a wife and daughter.
+",,
+5244,9494,6508,0,2832-03-15 17:24:00 EST,2832-03-15 17:53:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Access:  2 (18g) PIV's R arm, L ant Midline
+
+*Allergies:  ipratropium
+
+** Please see admit note/FHP for admit info and hx
+
+Neuro:  Pt started shift extremely difficult to arouse and would not open eyes.  Now able to arouse, one word answers very weakly, follows commands, MAE (weakly), A&O x1.  Baseline is A&Ox1, usually tries to ambulate @ NH (several falls recently though), feeds himself, does not hold conversation but answers questions.  No c/o pain per vitals/verbal.  
+
+Cardiac: NSR w/ occassional PVC's, HR 62-69, SBP 92-114.  Hct this AM was 39.9, INR 1.5, K 3.2 this afternoon (currently repleting w/ 40mEq in 500cc), Na this AM 172 (started D5 @ 140cc/hr), Na @ noon 165 (decreasing too fast, stopped D5 infusion), Na lab 1600 sent, awaiting results and may or may not restart infusion, plan to correct over 48hrs.  
+
+Resp:  Now on 4L NC, o2sat 90-99 this shift but mostly >93 which is the goal, rr 16-29, LS clear upper, diminished LLL, diminished/crackles RLL.  Hx chf w/ EF 35%, w/ all the fluid being given monitor for Pulm edema.
+
+GI/Gu:  NPO @ this time, Speech & swallow came by to eval but pt was unarousable.  +BS, no stool this shift, colace held d/t NPO, abd soft/non-tender.  Urine out foley yellow/cloudy, 10-50cc/hr, BUN/Creat 48/1.8 w/ base line creat 1.9/1.8.  FSBG 67-155, insulin gtt OFF at this time w/ last BG 109 @ 1600, Unknown @ this time if he had a hx of increase glucose. 
+
+ID:  temp 96.8 oral, 99.1 axillary, WBC 12.4.  UTI and ? asp PNA being treated w/ levofloxacin and flagyl. Vanco level was checked and is 13.
+Skin: reddened coccyx, treated w/ aloe vesta cream, IV sites wnl.
+
+Psychosocial:  Wife is elderly and unable to come to hospital but called and was updated on condition and POC.  Daughter [**First Name8 (NamePattern2) 8357**] [**Last Name (NamePattern1) **] is HCP and number is on white board in room.  Pt is followed by elder care service outside of the nursing home (Generations), nurse visited today and spoke w/ MD to exchange info on the pt's hx.  # for that contact is on whiteboard as well.
+
+dispo: monitor Na lab and treat [**Name8 (MD) 17**] MD orders, monitor FSBG and restart gtt if needed (may change to RISS),  monitor resp status (goal sat >93), cont med regimen and abx, cont icu care.  
+",,
+5244,9494,6508,,2832-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-3-16**] 11:30 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9519**]
+     Reason: please reposition PICC tip from RIJ into SVC                
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 6107**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with hypernatremia, s/p bedside R PICC placement                
+     REASON FOR THIS EXAMINATION:
+      please reposition PICC tip from RIJ into SVC                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  [**Age over 90 **]-year-old man with malpositioned PICC line placed at the
+     bedside.  Repositioning requested.
+     
+     TECHNIQUE:  PICC line revision.
+     
+     RADIOLOGISTS:  Dr. [**First Name8 (NamePattern2) 2198**] [**Last Name (NamePattern1) 2199**] and Dr. [**First Name8 (NamePattern2) 3669**] [**Name (STitle) 156**] performed the
+     procedure.  Dr. [**Last Name (STitle) 156**], the attending physician, [**Name10 (NameIs) **] present and supervising
+     throughout the procedure.
+     
+     PROCEDURE AND FINDINGS:  The patient arrived with a PICC line in the upper
+     right arm, which had been placed at the bedside.  A fluoroscopic spot view
+     showed that this line was malpositioned, heading upward into the right
+     internal jugular vein. The site of line entry was prepped and draped in the
+     usual sterile fashion.  A pre-procedure timeout was performed to verify the
+     procedure to be performed and the identity of the patient.  Under fluoroscopic
+     guidance, the PICC line was retracted back into the right subclavian vein, and
+     via the existing PICC line, 0.018 guidewire was passed into the superior vena
+     cava.  The existing PICC line was then removed and replaced by a 4.5 French
+     micropuncture sheath.  Via the guidewire and sheath, a 37-cm length 4 French
+     single-lumen PICC line was advanced into the superior vena cava under
+     fluoroscopic guidance.  A final fluoroscopic spot image shows the new catheter
+     terminating in the distal superior vena cava.  The line was flushed and
+     secured to the adjacent skin with a StatLock device.  The patient tolerated
+     the procedure well.  There were no immediate complications.
+     
+     IMPRESSION:  Successful replacement of existing PICC line with a 37-cm length
+     4 French PICC line, via the pre-existing intravenous access site in the right
+     upper arm, terminating in the superior vena cava.  Line ready for use.
+
+",,
+5244,9494,6508,,2832-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-3-16**] 2:52 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9520**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with hypoxia, tachycardia, decr breath sounds on R              
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST X-RAY
+     
+     HISTORY:  Tachycardia, decreased breath sounds on right, rule out pneumonia.
+     
+     ONE PORTABLE VIEW:  Comparison with previous study done earlier the same day.
+     Persistent atelectasis or consolidation at the left base.  Subtly increased
+     density at the right base may represent a developing infiltrate on that side.
+     The heart and mediastinal structures are unchanged.  A PICC line has been
+     adjusted and now terminates in the right chest in the region of the upper
+     portion of the superior vena cava.
+     
+     IMPRESSION:  Persistent atelectasis and/or consolidation left lung base.
+     Possible subtle parenchymal infiltrate in right lower lung.
+     
+     
+     
+
+",,
+5244,9494,6508,0,2832-03-16 04:08:00 EST,2832-03-16 04:24:00 EST,9034,"N",54,"Nursing/Other",,"
+
+PT. IS A/A/O X1 WHICH IS HIS BASELINE. PT. HAS THROUGHOUT THIS SHIFT BECOME MUCH MORE AROUSABLE. NA HAS REMAINED 158-157, NEURO CHECKS WERE INITATED BUT NOW D/C'D WITH LATEST NA LEVEL. PT. HAS REMAINED AFEBILE.
+
+PT. IS NSR 70-80'S WITH RARE PVC. B/P HAS REMAINED WNL'S RANGING 110-130/60-70'S. PULSES ARE EASILY PALPABLE. NO EDEMA NOTED. 
+
+PT. LUNGS HAVE CLEARED SOMEWHAT WITH BOTH MID TO UPPER LOBES CLEAR AND DIMINISHED BIBASILAR. RESP RATE IS WNL'S WITH O2 SATS RANGING 95-99% ON 4L N/C. GOAL MAINTAINS >93%
+
+PT. IS NPO AT THIS TIME. BOWEL SOUNDS ARE EASILY AUDIBLE AND ABD. IS SOFT AND NON TENDER. PT. IS SCHEDULED FOR A SPEECH AND SWALLOW STUDY WHICH COULD NOT BE PERFORMED UESTERDAY DUE TO LETHARGY. BLOOD SUGAR ARE RANGING 299-74. PRESENTLY INSULIN GTT IS OFF WITH LATEST B.S. OF 74. FOLEY CATHETER IS DRAINING CLEAR YELLOW URINE >40CC/HR. 
+
+PT. IS SCHEDULED FOR PICC LINE EVALUATION. PEVA NURSE CALLED LAST EVENING AND STATED THAT THEY WILL EVALUATE HIM TODAY, AND IF NEEDED INSERT PICC FOLLOWING BLOOD CULTURE RESULTS PENDING TODAY. OTHERWISE PIV ARE INTACT AND INFUSING WITHOUT DIFFICULTY, BLOOD IS UNABLE TO BE DRAWN.  
+COCCYX IS REDDENED. THIS AREA IS OTA AND PT. IS TURNED AND FREQUENT SKIN CARE PROVIDED TO PREVENT FURTHER BREAKDOWN. 
+
+PLAN: TO CLOSELY MONTIOR ELECTROLYTES, AND REPLETE WHEN NECESSARY. MONITOR NEURO STATUS, BLOOD GLUCOSE LEVELS.  
+",,
+5244,9494,6508,0,2832-03-16 17:42:00 EST,2832-03-16 18:06:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full code
+
+*Access:  PICC [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 560**], L ant mid-line
+
+*Allergies: Ipratropium
+
+** Please see admit note/FHP for admit info and hx
+
+Neuro: A&Ox1, lethargic, arouses easily, follows commands, attemtps words but weakly (understandalbe for the most part), PERRL 3mm/brisk, no c/o pain, given 1mg IV morphine x1 during bedside PICC placement.  
+
+Cardiac:  NSR w/ occassional/rare PVC's, HR 67-79, SBP 102-128, Hct stable @ 40.5, INR 1.6 (baseline 1.8), K 3.5 this afternoon(repleting w/ 40mEq KCl), Na 158/159/158 this shift, next lab @ 2000 (increased continuous D5 gtt to 125cc/hr).  Had episode of bradycardia down to 40w/ BP 143, soon tachy to 100's, Sbp 92, o2sat 83, RR 40's was still arousable.  CXR, EKG, and labs sent.  only CXR showed change, worsening RML consolidation but is not thought to be cause of this issue.  Pt was heard coughing prior so ? vagal vs plugged.
+
+Resp:  was on 3l NC, now on 70% cool neb.  o2sat 95-99, rr 15-27, LS clear upper/diminished lower.  
+
+GI/GU:  remains NPO, speech and swallow did not return today, maybe tomorrow.  +BS, no stool this shift, abd soft/non-tender.  Urine out foley yellow/clear, 22-60cc/hr. FSBG 97-255, insulin gtt currently @ 2U/hr.  BUN/Creat 43/1.6 from 43/1.7.  
+
+ID:  temp 95.6-96.5 axillary, wbc 11.5.  Levofloxacin and flagyl for UTI and PNA (?aspiration @ NH).  IV sites wnl.  Skin:  coccyx reddened starting to blister, covered w/ duoderm.
+
+Psychosocial:  daughter (HCP) called for updates.  Given info on today's event but told that he is stable now.  She planned on coming this weekend anyway, she is out of state.  Nurse [**First Name (Titles) 1130**] [**Last Name (Titles) 8156**] organization that follows his care came to visit and was also updated on POC.  Her # is on whiteboard in room.
+
+Dispo:  monitor resp status/VS, follow FSBG and adjust insulin gtt [**First Name8 (NamePattern2) 17**] [**Last Name (un) **] protocol, monitor Na (next level @ 2000, and adjust D5 infusion [**Name8 (MD) 17**] MD orders if needed), cont med regimen and abx, cont icu care.
+",,
+5244,9494,6508,0,2832-03-17 06:08:00 EST,2832-03-17 06:33:00 EST,5715,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700 hours:","
+Nursing Progress Note 1900-0700 hours:
+** full code
+
+** access: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 560**] picc, L ant midline
+
+** allergy: ipratropium
+
+See Admit/FHP for hx
+
+Pt here with UTI/PNA.  
+
+NEURO: A & o x 1 only.  Slept most of night.  Able to follow commands.  Starting to speak and move more -? now that NA is starting to trend down.  Does have documented dementia in hx.  
+
+CARDIAC: NSR with HR 64-78 without ectopy. SBP 94-134/67-78. INR slightly more elev today at 1.7.  K repleted on evenings yesterday-3.9 this am.  No episodes of either tachy or brady overnight (one episode of this on days yesterday of unknown origin ? vagal vs plugging). Chloride is 124.  NA levels overnight q 4 hours 155/153/152.   
+
+RESP: Remained on 3l NC overnight.  Lungs clear-occasional scattered rhonchi-barely audible. Noted to have thick, stringy type mucous in mouth...Oral sxn'd, chest PT given.  O2 sats 93-97%.  RR normal, though with stimulation does increase.  RML consolidation.  
+
+GI/GU: remains NPO. Does not seem appropriate for meds.  Speech & swallow to eval again today if appropriate. Has not received feeds or PO since admit; receiving IVF of D5 at 125cc/hr (elev Na).  foley with clear, yellow UOP at 18-65cc/hr.  Bun/CR slightly better at 35/1.3
+
+ENDO: Insulin gtt [**First Name8 (NamePattern2) 17**] [**Last Name (un) **] protocol-stable bs overnight.
+
+ID: afebrile.  Runs low via axillary.  WBC 11.7-essentially the same. cont levo and flagyl for UTI & PNA.  
+
+SKIN: duoderm to coccyx-not removed or visualized as c,d and intact. 
+
+PSYCHOSOCIAL: daughter and HCP supportive and called for updates.  she is planning on coming to visit-is from out of state.  Numbers on whiteboard.  
+
+DISPO: -Full code in micu
+       -swallow study
+       -ins gtt per protocol
+       -abx to treat infection
+       -med regimen and icu supportive care
+
+
+
+
+",,
+5244,9494,6508,0,2832-03-17 17:27:00 EST,2832-03-17 17:46:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full code
+
+*Access: L Mid-line, R PICC
+
+*Allergies:  Ipratropium
+
+**  Please see admit note/FHP for admit info and hx
+
+Neuro:  Pt alert @ times more so than previous days d/t Na level now almost normalized, mostly sleeping but easily arousable, follows commands, answers questions, A&Ox1 but this is his baseline, aspiration precaution (do not feed unless pt is alert).  No c/o pain.
+
+Cardiac:  NSR w/ occasional PVC's, HR 62-80, SBP 104-132, Hct 35.7.  Na this AM @ 0900 was 149, next labs @ 1800, awaiting results.  D5 1/2NS continues @ 150cc/hr.  K was 3.6, repleted w/ 20mEq KCl in 50cc through PICC (central line).  
+
+Resp:  remains on 3L NC, o2sat 94-98, rr 15-29, LS clear upper/diminished lower.  CXR from yesterday showing worsening RML consolidation.  Rare cough/non-productive.  Had cough episode yesterday, soon after brady to 40's, desat to low 80's, then tachy to 100's, soon recovered, ? vagal vs plugged.  No repeat episodes to this pt, fam stated that he had vagaled when younger (would pass out).
+
+GI/GU:  Speech/swallow consult, determined Low sodium/Heart healthy, diabetic/consistent carbs.  Consistency: Ground; nectar pre-thickened.  Can take PO meds w/ applesauce.  +BS, no stool this shift, can now start PO colace, abd soft/non-tender.  Urine out foley, yellow/clear 14-140cc/hr w/ most hours adequate.  BUN and creat improved.  FSBG 145-238, now insulin gtt OFF, using humalog ss w/ Q4H checks.
+
+ID:  Temp 97.2-97.9, WBC 11.7.  Levofloxacin and Flagyl for UTI and PNA (? aspiration @ NH).  IV sites WNL, reddened coccyx not visualized d/t duoderm CD&I.  
+
+Psychosocial:  Fam called for update, daughter (name and phone # on board, she is HCP) is coming up from out of state to visit for the weekend.  The other daughter is not to receive updates from the hosp per fam.  Geriatric group (Generations) can also receive updates, nurse came to visit today and received update on POC and condition.
+
+Dispo:  cont to monitor MS [**First Name (Titles) 14**] [**Last Name (Titles) **] levels, follow FSBG Q4H and cover per humalog ss, replete lytes as needed, cont med regimen and icu care.  May be called out tomorrow.
+",,
+5244,9494,6508,0,2832-03-18 04:28:00 EST,2832-03-18 04:51:00 EST,5715,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700 hours:","
+Nursing Progress Note 1900-0700 hours:
+** Full code
+
+** access: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 560**] picc, l ant midline
+
+** allergy: ipratropium
+
+see Admit/FHP for hx/fsys
+
+Pt here in MICU for hyperglycemia/abnormal lab values/UTI/PNA
+
+NEURO: A & O x 1 only. Able to follow commands. Has been very pleasant but in middle of night a bit agitated and belligerent-refusing care-seemed to be better a little while later. 
+
+CARDIAC: NSR with HR 70's-80's, rare-occas pvc's.  SBP 100-130 with maps >60. At start of shift md made aware by lab that pt's K = >10 and was not hemolyzed.  Md [**First Name (Titles) 1832**] [**Last Name (Titles) **] and k level of 3.9.  VSS overnight.  Na has been improving.  
+
+RESP: lungs clear, somewhat decreased, Sats >93% on 3L nc.  rr regular.  Recent CXR with RML consolidation.  
+
+GI/GU: Pt has bedside swallow eval yesterday with rec's in chart.  I fed pt his dinner-seemed to do well with the nectar thick liquids via a cup, also did very well with the peaches- but seemed to be coughing a lot with the mashed potatoes and meatloaf which I ground up into tiny pieces.  Pt was able to illicit strong cough which I encouraged him to do after each bite but some ? as to whether pt is not still aspir some?? speech and swallow supposed to come back Fri to reassess. Abd soft, + bs. No bm. Foley with uop 14-40, clear, yellow.  
+
+ENDO: sugars cont to be an issue-titrated off gtt yesterday and started on s.s. humulog with sugars in 200's.  Overnight pt had value of crit high-md made aware-14u humulog given with first f/u sugar 126-will cont to assess.  Plan was to start something more long acting but unclear as to how much po pt is going to take in also.  
+
+ID: afebrile. Cont on levoflox and flagyl for uti/pna.  
+
+SKIN: duoderm to coccyx c,d,i. Some areas of ecchymosis, fragility but no other open areas. 
+
+psychosocial: no contact overnight. Daughter (# on whiteboard) is HCP. Pt resides at [**Hospital3 **] and also has a wife. 
+
+dispo: -control FSBG
+       -abx for course to treat infections
+       -cont to assess pt's eating capacity-f/u with speech & swallow
+       -med regimen and icu supportive care
+",,
+5244,9494,6508,0,2832-03-18 04:55:00 EST,2832-03-18 04:57:00 EST,5715,"N",54,"Nursing/Other","Nursing addendum:","
+Nursing addendum:
+** Spoke with md in regards to concern for aspiration.  Also asked for K/mag repletion.  Pt Na level slightly ^ again this am to 146 (had changed fluid overnight to LR as ordered). Dr [**Last Name (STitle) 776**] verbalized that we will just keep fluids as is for now.  
+",,
+5244,9494,6508,0,2832-03-18 15:38:00 EST,2832-03-18 16:05:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full Code
+
+*Allergies: Ipratropium
+
+*Access:  R PICC, L mid-line
+
+**  Please see admit note/FHP for admit info and hx.
+
+Neuro:  Pt easily arousable, follows commands, HOH (speak up), gives short/one word answers, MAE, no c/o pain.  A&Ox1, per fam and caregivers this is his baseline.
+
+Cardiac:  NSR w/ occasional/rare PVC's, HR 69-85, SBP 107-126, Hct 33.6, Na 142 (@ 1400), Mg this AM 1.7 (repleted w/ 3gm Mg Sulfate), K 4.1.  Continuous infusion of LR @ 100cc/hr to cont @ this time.
+
+Resp:  3L NC, LS clear, o2sat 94-95, rr 19-23.  RML consolidation, ?asp PNA @ nursing home.
+
+GI/Gu:  nectar thick, pureed liquids/foods only.  Fed this AM w/ no issue but had much coughing overnight w/ mashed potato and ground up meatloaf.  ? dobhoff vs PEG for continuous nutrition.  +BS, smear of stool this AM, brown/loose, abd soft/non-tender.  Urine out foley yellow/clear, 28-70cc/hr.  FSBG 87-224, covered per humalog SS, NPH to start tonight, MD's had held off while pt not eating afraid that sugars would plummet.
+
+ID:  Temp 97.1-97.4, WBC 8.8.  Remains on levofloxacin and flagyl for UTI and PNA.  IV sites wnl, coccyx w/ duoderm for reddened area, remains intact.
+
+Psychosocial:  Daughter called and updated, nurse [**First Name (Titles) 1130**] [**Last Name (Titles) 8358**] org. (Generations) following his care was also updated (allowed per fam).  Only daughter (HCP, name and # on whiteboard in pt's room) is allowed to speak to the hosp for updates.  There is another daughter that the fam has requested not be given information.  Refer her to her sister.  HCP daughter is scheduled to visit from out of state on Saturday.
+
+Dispo: cont to monitor FSBG and treat per humalog SS, monitor MS, cont LR infusion (recheck Na w/ AM labs), cont med regimen and abx, cont icu care at this time.  Pt is called out and awaiting a bed.
+",,
+5244,9494,6508,0,2832-03-18 18:42:00 EST,2832-03-18 18:47:00 EST,7689,"N",54,"Nursing/Other","Addendum for nursing 0700-1900","
+Addendum for nursing 0700-1900
+Attempted to feed pt dinner, was awake and alert, following commands.  Was tolerating Nutren (renal) supplement fluid in sm doses, applesauce and 2 bites of mashed w/ gravy.  After 3rd mashed w/ gravy and minced meat pt started coughing, tolerated a few more sips of Nutren and then stopped feeding d/t coughing.  Pt sat's were below 93% and RR >30, stated had no difficulty breathing, but appeared labored.  Took about 20 min for pt to settle to baseline.  Speech and swallow consult to f/u again tomorrow.  Fam and nurse following care from outside organization have been updated on possibility of dobhoff vs PEG for nutrition.  Daughter will be here to visit on Saturday and should discuss w/ MD's.
+",,
+5244,,,,2832-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-8-31**] 5:49 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9521**]
+     Reason: eval colitis, Cholecystitis.                                
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with elevated LFT's, leukocytosis, diffuse abd pain, foul 
+      stool.
+     REASON FOR THIS EXAMINATION:
+      eval colitis, Cholecystitis.                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AHPb WED [**2832-9-1**] 12:53 AM
+      1. 3.4 cm AAA
+      2. dense coronary artery calcification
+      3. bibasilar free fluid
+      4. multiple renal cysts
+      5. Enlarged inflammed GB, see ultrasound report
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Elevated LFTs and diffuse abdominal pain, evaluate for
+     cholecystitis.
+     
+     TECHNIQUE:  Multidetector CT imaging of the abdomen and pelvis was performed
+     without oral or intravenous contrast and displayed in 5 mm axial collimation.
+     Coronal and sagittal reformatted images were also obtained.  Comparison is
+     made to right upper quadrant ultrasound performed approximately two hours
+     prior.
+     
+     CT ABDOMEN WITHOUT CONTRAST:  There are large bibasilar opacities that likely
+     represent atelectasis, but infection cannot be excluded.  There is a small
+     left pleural effusion.  There are dense coronary artery calcifications and
+     aortic valvular calcifications.  Calcified subcarinal lymph nodes are noted.
+     The thoracic aorta is tortuous.  Allowing for limitations in a non-contrast
+     study, the liver appears normal.  Multiple granulomas are present in the
+     spleen.  The stomach is unremarkable.  Small bowel loops are normal.  The
+     adrenal glands are normal.  Innumerable lesions are present within both
+     kidneys, some demonstrating rim calcification.  The renal cortices are
+     atrophied.  Multiple mesenteric and retroperitoneal lymph nodes are noted, the
+     largest measuring 10 mm inferior to the pancreas.  There is near total fatty
+     replacement of the pancreas.
+     
+     The gallbladder is distended with pericholecystic stranding.  The wall cannot
+     be assessed.  There is a small amount of free fluid about the liver.
+     
+     There is an abdominal aortic aneurysm measuring 3.4 cm in diameter and 4 cm in
+     length, located 5 cm below the renal arteries, and not extending to the iliac
+     branches.  The abdominal aorta is very tortuous at this site.
+     
+     CT PELVIS WITHOUT CONTRAST:  The rectum, large bowel appear normal.  Scattered
+     diverticula are noted within the sigmoid colon.  Foley is present within the
+     bladder.  There is small free fluid in the pelvis.  There is a fat-containing
+                                                                 (Over)
+
+     DATE: [**2832-8-31**] 5:49 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9521**]
+     Reason: eval colitis, Cholecystitis.                                
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     left inguinal hernia.
+     
+     BONE WINDOWS:  Severe degenerative changes are noted throughout the spine.
+     There is mild-to-moderate S-shaped thoracolumbar scoliosis.  Degenerative
+     changes are also noted in the hips.
+     
+     IMPRESSION:
+     1.  Distended gallbladder with pericholecystic inflammatory stranding and
+     perihepatic free fluid are suggestive of cholecystitis.  Please refer to right
+     upper quadrant ultrasound performed the same day for further details.
+     2.  Bibasilar opacities likely represent atelectasis, but infection cannot be
+     excluded.
+     3.  3.4 cm infrarenal aortic aneurysm.
+     4.  Innumerable renal cysts with atrophied kidneys.
+
+",,
+5244,,39739,,2832-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-9-1**] 9:39 AM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 9522**]
+     Reason: cholecystitis                                               
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with cholecystitis                                              
+     REASON FOR THIS EXAMINATION:
+      cholecystitis                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old man with cholecystitis.
+     
+     PROCEDURE:  After explaining potential risks and benefits of the procedure to
+     the patient's wife by telephone, verbal consent was obtained.  Dr. [**First Name8 (NamePattern2) 291**]
+     [**Last Name (NamePattern1) 5658**] served as witness.  Patient identity was confirmed by name and date of
+     birth.  A qualified nurse was present to administer 50 mg of fentanyl over a
+     30-minute period with appropriate monitoring.
+     
+     The right upper abdomen was prepared and draped in the usual sterile fashion.
+     1% lidocaine buffered with bicarbonate was injected into the skin and
+     subcutaneous tissues for local anesthesia.  Thereafter, utilizing ultrasound
+     guidance, an 8-French pigtail catheter was inserted directly into the
+     gallbladder.  There was a free return of bile.  The gallbladder was
+     decompressed with suction (approximately 300 cc.) and specimens were sent for
+     culture and Gram stain. The catheter was then connected to the bag to drain
+     dependently. The patient tolerated the procedure and no immediate
+     complications were observed. Dr. [**First Name (STitle) 370**] was present for all essential portions
+     of the procedure.
+     
+     IMPRESSION:
+     1.  Patient status post percutaneous cholecystostomy tube placement by
+     ultrasound guidance.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+5244,,39739,,2832-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-9-1**] 3:16 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9523**]
+     Reason: right CVL placement pulled back 2 cm.                       
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with decreased responsiveness, LFT's increased, elukocytosis, 
+        abd pain
+     REASON FOR THIS EXAMINATION:
+      right CVL placement pulled back 2 cm.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Pullback of right central venous catheter.
+     
+     Comparison is made to radiograph taken at same day at approximately 4 a.m.
+     
+     UPRIGHT PORTABLE CHEST RADIOGRAPH
+     
+     Tip of right internal jugular central venous catheter terminates within the
+     upper-to-mid SVC and there is no evidence of pneumothorax.  Appearance of
+     radiograph is otherwise unchanged from that taken earlier with slightly
+     decreased gaseous distension.
+                                                                           
+
+",,
+5244,,39739,0,2832-09-01 03:50:00 EST,2832-09-01 04:03:00 EST,193,"N",1,"Nursing/Other","NURSING ADMISSION","
+NURSING ADMISSION
+   THIS [**Age over 90 **]YR OLD GENTLEMAN WAS ADMITTED @ 0130 FROM ED, C/0 DR [**First Name (STitle) **], DX: CHOLECYSTITIS.
+
+CV: HR ST->NSR, RARE PVC'S. NBP WITHIN ACCEPTABLE RANGE. CVL PLACED IN RIJ BY DR [**Last Name (STitle) 1358**] WITHOUT DIFFICULTY, DR [**Last Name (STitle) **] ATTENDED. CXR CONFIRMED PLACEMENT. CVP 4-5, NS 1L BOLUS GIVEN PER ORDER DR [**First Name (STitle) 26**]. FFP 2U TRANSFUSED.
+
+NEURO: PT DOZING WITH EYES CLOSED, BUT OPENS THEM WHEN NAME SPOKEN. WHEN ASKED IF HE KNEW WHERE HE WAS PT RESPONDED ""HOSPITAL"", SPEECH WAS SLIGHTLY GARBLED, HAS BEEN NON-VERBAL OTHERWISE. WEAK BUT MOVING ALL EXTREMITIES AND IS FOLLOWING COMMANDS.
+
+GI: NPO. ABDOMEN DISTENDED AND SOFT, PT GROANS WHEN [**Last Name (un) **] PALPATED FOR EXAM. BOWEL SOUNDS VERY HYPOACTIVE.  NO BM.
+
+GU: URINE OUTPUT BECOMING LESS CONCENTRATED AND HOURLY OUTPUT IMPROVED FROM 10CC TO>30CC.
+
+RESP:  BREATH SOUNDS CLEAR OVER RUL, VERY DIMINISHED OVER REMAINING LUNG FIELDS. ABSENT ON LLL.  SATS 97-99% ON 4L O2 N/PRONGS.
+
+SOCIAL: PT LIVES IN NURSING HOME. FAMILY LIVES IN [**State **] STATE. CONSENTS OBTAINED OVER PHONE BY DR [**First Name (STitle) 26**].  PT ALSO HAS CARE MANAGER.
+
+PLAN: INSERTION OF PERCUTANEOUS DRAIN TODAY.  MONITOR AND CONTROL BLOOD GLUCOSE. SUPPORT BP. MONITOR FOR SIGNS OF SEPSIS.
+
+PT MONITORED CONTINOUSLY.
+DR [**Last Name (STitle) 1358**] AND [**Doctor Last Name 26**] IN CLOSE ATTENDANCE.
+SEE CAREVUE FLOWSHEETS FOR DETAILED DATA.
+",,
+5244,,39739,0,2832-09-01 14:58:00 EST,2832-09-01 15:07:00 EST,6463,"N",1,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing Assessment:
+
+Afebrile. MAE. PERLA. Pt remains difficult to awaken at times; other times opens eyes to voice immediately. Answers ""hospital"" at times and speech remains garbled. Pt stated ""I don't know"" to date and president, often won't answer questions. Follows commands. No pain noted except for perc drain placement in Ultrasound for which pt recieved 50mcq fentanyl ivp.  110cc sludgy bile out after drain placed. HR is NSR to ST 80s-100s. Lopressor ivp to be given as bp will tolerate. SBP 90s-140s. UO adequate clear yellow; MD [**Doctor Last Name 3826**] aware of I+Os today. Lungs are clear with diminished bases-absent. Sats 96% on 4 liters nasal cannula. Abdomen is softly distended with some ascites and hypoactive bowel sounds. No BM; per pt's care manager pt had a large BM in the ED last night. CVL pulled back 2 cm by MD [**Doctor Last Name **] and confirmed by chest xray. Pt's care manager in to visit and updated by MD [**Doctor Last Name 3826**] and nursing. Pt has 3 proxy's : 2 dtrs and wife. Pt's wife lives in the area with her own caregiver and the two dtrs live in other states. One in [**State 8359**]. and the other is uninvolved. Plan: Monitor for s/s sepsis following perc drain placement. Start lopressor as tolerated. Change perc drain dressing qd; do not flush; monitor outputs q 6 hours. Monitor neuro status and transfer to floor if becomes more awake and remains stable. Emotional support for family. Pt is full code still at this time. Pt's wife and her caregiver will be in to visit tommorrow. 
+",,
+5244,,39739,0,2832-09-02 03:59:00 EST,2832-09-02 04:06:00 EST,7740,"N",1,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+PLEASE SEE CAREVUE FOR DETAILS
+PT ALERT/EASILY AROUSABLE, ORIENTED X1-2, CONT W/GARBLED SPEECH. FOLLOWS COMMANDS INCONSISTENTLY AT TIMES, MAES. NO C/O PAIN. HR 70S-90S, NSR W/FREQUENT PVC'S. SBP 90S-130S, CVP 3-7. HCT 32, INR 1.3, CREAT 1.3. O2 SATS>=93% ON 4L N/C, LUNGS CLEAR, DIMINISHED AT BASES BILAT. ABD S/NT, HYPO+BS, CONT NPO. SM FORMED STOOL OVER NOC, HUO 12-70CC, CONCENTRATED. ABD PIGTAIL INTACT W/SM AMT GRN, BILIOUS DRNG. DTR CALLED FOR PT UPDATE. CONT HEMODYNAMIC MONITORING, NEURO CHECKS, PAIN MGMT. FAMILY/EMOTIONAL SUPPORT, CONT PLAN OF CARE. 
+",,
+5244,,,,2832-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-9-24**] 10:31 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9524**]
+     Reason: place PICC                                                  
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 35**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      96M failure to thrive                                                           
+     REASON FOR THIS EXAMINATION:
+      place PICC                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A [**Age over 90 **]-year-old male with failure to thrive requiring PICC.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3781**] and [**First Name8 (NamePattern2) 3669**] [**Doctor Last Name 156**]. Dr. [**Last Name (STitle) 156**], the Attending
+     Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right brachial
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a double lumen PICC line measuring 33 cm was then placed through
+     the peel-away sheath with its tip positioned in the SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by fluoroscopic spot film of
+     the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed and the sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided double lumen
+     PICC line placement via the right brachial venous approach.  Final internal
+     length is 33 cm,  with tip positioned in the SVC.  The line is ready to use.
+
+",,
+5244,,,,2832-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-9-24**] 12:49 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9525**]
+     Reason: eval for biloma, abscess, or signs of persistent cholecystit
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      95M s/p perc choly [**9-1**] (tube since fell out), with persistent nausea & failure 
+      to thrive
+     REASON FOR THIS EXAMINATION:
+      eval for biloma, abscess, or signs of persistent cholecystitis                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post percutaneous cholecystostomy with persistent
+     nausea and failure to thrive.
+     
+     TECHNIQUE:  0.625-mm helically acquired images are obtained from the lung
+     bases to the pubic symphysis with intravenous contrast.  Multiplanar
+     reformations are provided for interpretation.
+     
+     FINDINGS:  Direct comparison is made to prior examination dated [**2832-8-31**].
+     
+     There is a large right-sided pleural effusion with areas of adjacent passive
+     atelectasis.  This is increased since the prior exam.  Minimal left-sided
+     pleural fluid is identified, again with areas of basilar atelectasis.
+     
+     The gallbladder demonstrates moderate wall thickening, but does not appear to
+     be distended.  No pericholecystic fluid collections are identified.  Overall,
+     the appearance is significantly improved since the aforementioned prior exam. 
+     Multiple calcifications are identified within the spleen consistent with prior
+     granulomatous infection.  Liver, adrenal glands appear stable.  40-mm cystic
+     lesion identified within the body of the pancreas.  Overall, this appears
+     unchanged since the prior exam.
+     
+     Bilateral renal cysts are again identified as previously noted.
+     
+     Abdominal aortic ectasia is again seen.
+     
+     Bowel appears grossly unremarkable.  Pelvic structures are grossly normal.  No
+     lytic or blastic bony lesions are identified.
+     
+     IMPRESSION:
+     1.  There is evidence of gallbladder wall thickening.  However, the
+     gallbladder does not appear to be distended and does appear significantly
+     improved since the aforementioned prior examination.  No evidence of
+     pericholecystic fluid collection.
+     2.  Increase in size in right-sided pleural effusion is noted.
+     3.  Cystic pancreatic lesion which is unchanged since prior study.
+     4.  Bilateral renal cysts as noted.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**2832-9-24**] 12:49 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9525**]
+     Reason: eval for biloma, abscess, or signs of persistent cholecystit
+     Admitting Diagnosis: ABDOMINAL PAIN
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5244,,,,2832-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2832-9-24**] 10:31 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9524**]
+     Reason: place PICC                                                  
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 35**] FLUORO GUID PLCT/REPLCT/REMOVE*
+     * 76937 US GUID FOR VAS. ACCESS                                            *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      96M failure to thrive                                                           
+     REASON FOR THIS EXAMINATION:
+      place PICC                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A [**Age over 90 **]-year-old male with failure to thrive requiring PICC.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3781**] and [**First Name8 (NamePattern2) 3669**] [**Doctor Last Name 156**]. Dr. [**Last Name (STitle) 156**], the Attending
+     Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right brachial
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a double lumen PICC line measuring 33 cm was then placed through
+     the peel-away sheath with its tip positioned in the SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by fluoroscopic spot film of
+     the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed and the sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided double lumen
+     PICC line placement via the right brachial venous approach.  Final internal
+     length is 33 cm,  with tip positioned in the SVC.  The line is ready to use.
+
+",,
+5244,,,,2833-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-11**] 11:53 AM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9526**]
+     Reason: assess placement                                            
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with new R IJ                                                   
+     REASON FOR THIS EXAMINATION:
+      assess placement                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old, check right IJ placement.
+     
+     AP PORTABLE SUPINE CHEST:  Compared to study of two hours prior.  There has
+     been interval placement of a right IJ catheter with its tip in the mid SVC. No
+     pneumothorax.  Endotracheal tube is unchanged in position.  There is a new NG
+     tube which should be advanced as its sidehole is above the GE junction. There
+     remains bibasilar opacities which may relate to atelectasis, aspiration, or
+     pneumonia.  Correlate clinically.
+     
+     IMPRESSION:
+     1) Satisfactory right IJ placement; no pneumothorax.
+     2) NG tube should be advanced.
+     3) Persisting bibasilar opacities.
+     
+
+",,
+5244,,,,2833-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-22**] 12:31 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9527**]
+     Reason: Please place a PICC                                         
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 77001 FLUORO GUID PLCT/REPLCT/REMOVE FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 76937 US GUID FOR VAS. ACCESS        FEE ADJUSTED IN SPECIFIC SITUATION  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with pneumonia, needs IV antibiotics.                           
+     REASON FOR THIS EXAMINATION:
+      Please place a PICC                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE NAME:  PICC line placement.
+     
+     INDICATION:  IV access needed for antibiotics.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 124**] performed the procedure.  Dr. [**Last Name (STitle) 156**] has reviewed the
+     study.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right basilic
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a single lumen PICC line measuring 41 cm in length was then
+     placed through the peel-away sheath with its tip positioned in the SVC under
+     fluoroscopic guidance.  Position of the catheter was confirmed by a
+     fluoroscopic spot film of the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed, and a sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single lumen PICC line placement via the right basilic venous approach.  Final
+     internal length is 41 cm, with the tip positioned in SVC.  The line is ready
+     to use.
+     
+     
+
+",,
+5244,,,,2833-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-22**] 12:31 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9527**]
+     Reason: Please place a PICC                                         
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 77001 FLUORO GUID PLCT/REPLCT/REMOVE FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 76937 US GUID FOR VAS. ACCESS        FEE ADJUSTED IN SPECIFIC SITUATION  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with pneumonia, needs IV antibiotics.                           
+     REASON FOR THIS EXAMINATION:
+      Please place a PICC                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE NAME:  PICC line placement.
+     
+     INDICATION:  IV access needed for antibiotics.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 124**] performed the procedure.  Dr. [**Last Name (STitle) 156**] has reviewed the
+     study.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right basilic
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a single lumen PICC line measuring 41 cm in length was then
+     placed through the peel-away sheath with its tip positioned in the SVC under
+     fluoroscopic guidance.  Position of the catheter was confirmed by a
+     fluoroscopic spot film of the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed, and a sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single lumen PICC line placement via the right basilic venous approach.  Final
+     internal length is 41 cm, with the tip positioned in SVC.  The line is ready
+     to use.
+     
+     
+
+",,
+5244,,,,2833-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-22**] 12:31 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9527**]
+     Reason: Please place a PICC                                         
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 77001 FLUORO GUID PLCT/REPLCT/REMOVE FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 76937 US GUID FOR VAS. ACCESS        FEE ADJUSTED IN SPECIFIC SITUATION  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with pneumonia, needs IV antibiotics.                           
+     REASON FOR THIS EXAMINATION:
+      Please place a PICC                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE NAME:  PICC line placement.
+     
+     INDICATION:  IV access needed for antibiotics.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 124**] performed the procedure.  Dr. [**Last Name (STitle) 156**] has reviewed the
+     study.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right basilic
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a single lumen PICC line measuring 41 cm in length was then
+     placed through the peel-away sheath with its tip positioned in the SVC under
+     fluoroscopic guidance.  Position of the catheter was confirmed by a
+     fluoroscopic spot film of the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed, and a sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single lumen PICC line placement via the right basilic venous approach.  Final
+     internal length is 41 cm, with the tip positioned in SVC.  The line is ready
+     to use.
+     
+     
+
+",,
+5244,,,,2833-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-22**] 12:31 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9527**]
+     Reason: Please place a PICC                                         
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 77001 FLUORO GUID PLCT/REPLCT/REMOVE FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 76937 US GUID FOR VAS. ACCESS        FEE ADJUSTED IN SPECIFIC SITUATION  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with pneumonia, needs IV antibiotics.                           
+     REASON FOR THIS EXAMINATION:
+      Please place a PICC                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE NAME:  PICC line placement.
+     
+     INDICATION:  IV access needed for antibiotics.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 124**] performed the procedure.  Dr. [**Last Name (STitle) 156**] has reviewed the
+     study.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right basilic
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a single lumen PICC line measuring 41 cm in length was then
+     placed through the peel-away sheath with its tip positioned in the SVC under
+     fluoroscopic guidance.  Position of the catheter was confirmed by a
+     fluoroscopic spot film of the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed, and a sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single lumen PICC line placement via the right basilic venous approach.  Final
+     internal length is 41 cm, with the tip positioned in SVC.  The line is ready
+     to use.
+     
+     
+
+",,
+5244,,,,2833-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2833-2-22**] 12:31 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9527**]
+     Reason: Please place a PICC                                         
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 77001 FLUORO GUID PLCT/REPLCT/REMOVE FEE ADJUSTED IN SPECIFIC SITUATION  *
+     * 76937 US GUID FOR VAS. ACCESS        FEE ADJUSTED IN SPECIFIC SITUATION  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with pneumonia, needs IV antibiotics.                           
+     REASON FOR THIS EXAMINATION:
+      Please place a PICC                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE NAME:  PICC line placement.
+     
+     INDICATION:  IV access needed for antibiotics.
+     
+     The procedure was explained to the patient. A timeout was performed.
+     
+     RADIOLOGIST:  Dr. [**First Name (STitle) 124**] performed the procedure.  Dr. [**Last Name (STitle) 156**] has reviewed the
+     study.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the right basilic
+     vein was punctured under direct ultrasound guidance using a micropuncture set.
+     Hard copies of ultrasound images were obtained before and immediately after
+     establishing intravenous access.  A peel-away sheath was then placed over a
+     guidewire and a single lumen PICC line measuring 41 cm in length was then
+     placed through the peel-away sheath with its tip positioned in the SVC under
+     fluoroscopic guidance.  Position of the catheter was confirmed by a
+     fluoroscopic spot film of the chest.
+     
+     The peel-away sheath and guidewire were then removed.  The catheter was
+     secured to the skin, flushed, and a sterile dressing applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided 4 French
+     single lumen PICC line placement via the right basilic venous approach.  Final
+     internal length is 41 cm, with the tip positioned in SVC.  The line is ready
+     to use.
+     
+     
+
+",,
+5244,,39741,0,2833-04-29 03:37:00 EST,2833-04-29 03:51:00 EST,4027,"N",54,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 2230-0700","
+NURSING ADMISSION AND PROGRESS NOTE 2230-0700
+REPORT RECEIVED FROM ED.  PT TRANSPORTED TO MICU 785 WITH NO UNTOWARD INCIDENT.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A [**Age over 90 **] Y/O DEMENTED, NURSING HOME RESIDENT WITH CHF (EF 15%), CRI, CAD, S/P STENTS AND DM WHO PRESENTED TO THE ED WITH LABORED BREATHING, HYPOTENSION, DIAPHRESIS AND CONFUSION/UNRESPONSIVENESS, SUSPECTED TO HAVE UROSEPSIS.  
+
+NEURO:  PT IS UNRESPONSIVE FOR THE MOST PART, ALTHOUGH AT TIMES WILL OPEN EYES TO VERBAL STIMULUS.  WITHDRAWS FROM PAIN.  DOES NOT FOLLOW COMMANDS.  PERRLA, 3/BRISK.  NOT NOTED TO MOVE ANY EXTREMETIES.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  CURRENTLY ON 100% NRB.  CLEAR TO ALL LUNG FIELDS- HOWEVER, WILL DESATURATE TO THE 80'S WHEN NRB IS TAKEN OFF.  BIALTERAL CHEST EXPANSION NOTED.  SP02 > OR = 95%.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR- ST, HR 90-100'S WITH NO SIGNS OF ECTOPY NOTED.  SBP HAVE BEEN PERSISTANTLY DIPPING TO THE 80'S- RECEIVED TOTAL OF 1L NS IN THE ED, 250CC NS HERE IN THE MICU AS WELL AS 750CC LR.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  PT HAS PRESEPT CATHETER IS PLACE.  
+
+GI:  ABD IS SOFT, NON-DISTENDED.  BS X 4 QUADRANTS.  PEG TUBE IS SECURE AND PATENT.  PT HAS VERY FOUL, NASTY STOOL- LIQUID AND GREEN.  NPO AT THIS TIME.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  BILATERAL HEELS ARE REDDENED.  COCCYX REDDENED.  NO OTHER SIGNS OF BREAKDOWN NOTED.
+
+SOCIAL:  DAUGHTER [**Name (NI) **] CALLED.  SHE IS THE HEALTH CARE PROXY AND WOULD LIKE TO BE INFORMED BEFORE ANY INVASIVE PROCEDURES ARE DONE- [**Telephone/Fax (1) 8360**].  
+
+PLAN:  FULL CODE AS OF THIS TIME, DISCUSS PLAN OF CARE WITH HCP.  UROSEPSIS.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+5244,,39741,0,2833-04-29 15:37:00 EST,2833-04-29 16:09:00 EST,5919,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+Please see carevue and FHP for additional data.
+Full Code
+Allergy: Atrovent
+
+Neuro: Pt noted to become increasingly responsive over coarse of day. Opening eyes to voice. Following commands. Disoriented, however, hx of Dementia, reportedly baseline is ""non-verbal"". Patient at times answering questions appropriately. MAE. 
+Resp: LS CTA. Humidified face mask, 35%. Sats 97-100%. Q4/hr nebs.
+CV: ST 103-113. Sbp 77-106. Received multiple ivf bolus' of LR today for hypotension. CVP (-)1 to 2. Hypernatremia, evening lytes pnding. EF 15%. 
+GI/GU: Abd soft, distended, +BS. Peg tube in place, patent. Mush. cath. in place with small amounts of liquid, green stool out. Spec. sent for C-diff. Foley patent, draining marginal, clear, yellow urine. Output does improve with ivf bolus', however short lived. 
+Endo: Lantus held as NPO. RISS. 
+Skin: Coccyx, and bilat. heels red, unbroken. 
+ID: afeb. Vanco given this am, Zoysn awaiting ID approval. 
+Social: Daughter, hcp, called this am, update on poc by this RN. 
+A/P: 
+Hypotension- Responsive to ivf, ~3.5L LR thus far. CVP goal ~8, plan to cont. ivf bolus'. Follow resp. status as EF 15%. F/U on pm lytes. Cont. to monitor BP. 
+Resp. Distress- Weaning O2, well tol. thus far. Cont. on nebs. Cont. to follow resp. status closely. 
+MS change- Improving. Negative head CT. Likely r/t infection. 
+Cont. providing supportive care.  
+",,
+5244,,39741,0,2833-04-30 04:26:00 EST,2833-04-30 04:36:00 EST,3714,"N",54,"Nursing/Other",,"
+
+Neuro: Pt is nonverbal moves extremities but not to command. Appears comfortable sleeping in naps.
+
+CV/resp sinus tach occ. pvcs. Bp marginal/low recieved 2 lr fluid bolus total of one liter.  Has responded nicely to fluid. CVP remains low. -3 to 2. lungs are coarse with diminshed bases. Has productive cough. Receives nebs around the clock. sats are excellent on 35% face mask.
+
+gi/gu foley to gravity marginal uop clear yellow. 
+Rectal foley with mucous golden colored stool seeping out around catheter. NPO Peg tube clamped.
+
+Integ excoriated skin perianal area. Skin barrier cream applied.
+
+Endo: Insulin ss. Gtt deferred due to glucose< 180.
+
+
+Plan: Full code. Am labs pending. F/U on labs
+Pulm toliet. ? move to floor bed if bp remains stable.
+",,
+5244,,39741,0,2833-04-30 15:50:00 EST,2833-04-30 16:24:00 EST,5919,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+Please see carevue and FHP for additional data.
+Full code
+Allergy: Atrovent
+
+Neuro: Pt reportedly with baseline unresponsive/non-communactive MS. [**First Name (Titles) **] [**Last Name (Titles) 8361**] this shift. Opens eyes to voice, occ. answering simple, yes/no questions. Intermittently following simple commands. Likely abd discomfort as wincing with palpation. 
+Resp: LS CTA. Sats 98-100% on 2L NC. No cough or sob noted. 
+CV: 99-107 NSR-ST. One short-lived, self-limiting episode of SVT noted. Sbp 79-101. Received 2L of LR bolus' for hypotension with good effect. Repleted 40 KCL and 2 grams if iv Magesium. Started SC Heparin today. EF 15%, thus ivf with caution. CVP 4-6. Hypernatremia improving with hydration.
+GI/GU: Abd soft, distended, +BS. Mush. cath. in place draining mod. amounts of golden colored, mucoid, liquid stool. C-diff spec. from [**4-29**] (+). PO Flagyl implemented. Peg patent, clamped. Foley patent, draining marginal yellow, sedimented urine. Foley changed today [**2-19**] +UTI. BUN/CRE improving. 
+Endo: Insulin gtt implemented today. Titrating [**First Name8 (NamePattern2) 17**] [**Last Name (un) 499**] scale. 
+Skin: Coccyx with small red abrasion, pink wound bed, open to air as douderm would likely be continually soiled with stool. Right and Left heel reddened, elevated off bed, open to air. 
+ID: afeb. PO Flagyl started for C-diff. GNR in urine, awaiting speciation. 
+A/P: 
+Resp. Distress- Much improved resp. status. Adeq. sats on 2L NC. 
+Sepsis- Likely urosepsis, awaiting urine speciation. Vanco/Zoysn abx. Follow cx data, and wbc. afeb. 
+Hypotension- IVF bolus' today 2L LR thus far, good response. CVP goal ~8. However, cautious with ivf [**2-19**] EF 15%. Cont. to monitor urine output. 
+Cont. providing supportive care. 
+",,
+5244,,39741,0,2833-05-01 02:08:00 EST,2833-05-01 02:32:00 EST,3902,"N",54,"Nursing/Other",,"
+
+nsg note
+         
+Neuro: pt opens eyes to voice tracks at times. no attempt to communicate but consistantly follows commands. MAE  
+Pain; no indication pt is in pain.
+CV: pt NSR with frequent ectopi pt has 2-6 beat runs of VT and had brief periods of 
+S
+VT that break on own.. pt tolerate ectopi well. pt SBp in 80's tx with Lr 1000cc x2.  with effect. pt has palp DP/PT. RIJ Line 3 lumen draws well . flushes well. CVP recording in neg number zero'd and repostitioned with out effect. 
+Lungs clear upper. decreased in bases with some rales noted. RR 30-40 at start of shift pt on 2L NC. NT suction x2 thick white sputum optained. pt placed on FM neb to  for moisture pt mouth dry . pt appears more comfortable with FM. pt rr 20-24 currently.
+GI: ABD soft BS present slightly hyperactive. G tube in place placement checked by ascultation. TF started at 0100 as order probalance start at 10 cc increase to 55.  Mushroom Cath in blace pt with liquid stool. 
+GU foley to gravity yellow urine  low this shift slight improvement with fluid boluses.
+Endo on insulin drip. FS q1. titrated according to [**Last Name (un) **]  scale. 
+skin: very thin and pale.  multi bruises from access sites or attempts. coccyx red with small area of brokedn skin. anti fungal and barrier cream used. pt turned frequently. 
+ [**Doctor Last Name **]. ICU care as indicated. 
+have skin care RN see pt 
+monitor FS titarte Insulin drip as indicated
+ resp toilet as indicated. 
+monitor I/O closely, 
+monitor hr and sbp tx as indicated. 
+",,
+5244,,39741,0,2833-05-01 15:08:00 EST,2833-05-01 15:46:00 EST,5919,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+Please see carevue and FHP for additional data.
+Full Code
+Allergy: Atrovent
+
+Neuro: Pt likely with baseline MS, hx of Dementia. Pt opens eyes to voice. Occ. answering yes/no to simple questions, other wise essentially non-communactive. Intermittently following simple commands. MAE. Sleeping most of day.
+Resp: LS CTA. Sats 93-100% on 3L NC, occ. dipping down when mouth breathing. No cough or sob noted. 
+CV: NSR 85-94. Sbp 75-105. CVP 4-7. 15% EF. 20 beat run Vtach. Implemented 6.25mg of Lopressor despite hypotension per Dr. [**Last Name (STitle) **]. [**Doctor Last Name **] for Vtach tx. Gave 3L ivf LR bolus for hypotension/ low urine output. Stable hypernatremia. On free water bolus'. Repleted 40mEq of KCL. 
+GI/GU: Abd soft, distended, grimacing with palpation. Probalance at 40cc/hr, goal 55. Well tol. thus far. Mush. cath. in place draining mod. amounts of golden, liquid/mucoid stool. C-diff +. Foley patent draining marginal amounts of sedimented, yellow urine. BUN/CRE baseline. 
+Endo: Transitioned off insulin gtt today. Gave 20units of Glargine at breakfast. Also on RISS. \
+Skin: coccyx with small abrasion, pink wound bed, antifungal barrier applied. Bilat. heels reddened, elevated off bed. 
+ID: afeb. On PO Vanco and iv Flagyl for C-diff. Also on Zoysn for UTI. 
+Social: No contact from family. Elder svc's called, updated by this RN.  Please note they wish to be notified when patient goes to floor as they are going to hire someone to sit with patient. 
+A/P:
+ Sepsis/Hypotension- Urosepsis c/b C-diff. On abx. Cont. with ivf resuscitation. Follow CVP, goal ~8. Follow urine output. Cont. to monitor resp. status [**2-19**] EF of 15%. Cont. providing supportive care.
+",,
+5244,,39741,0,2833-05-02 02:33:00 EST,2833-05-02 02:51:00 EST,3851,"N",54,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT AND UNABLE TO ASSESS MENTAL STATUS. UNABLE TO UNDERSTAND VERBAL RESPONSES. PT WILL FOLLOW SIMPLE COMMANDS. PT HAS BEEN SLEEPING INTERMITTENTLY. OPENS EYES SPON AND TO COMMAND. PEARL. 
+ABLE TO MAE. 
+
+RESP: PT ON 3LNC. MAINTAINING O2 SAT'S IN THE HIGH 90'S. LUNG SOUNDS CLEAR AND DIMINISHED AT THE BASES. NONPROD COUGH. 
+
+CV: NSR WITH OCC PVC'S. BP IN THE LOW 100'S. AFEBRILE. HR IN THE 80'S TO 90'S. CVP 8-11. 
+
+GI: PT WITH PEG AND HAS TUBE FEEDS INF AT 55CC/HR OF PROBALANCE. MINIMAL RESIDUAL. PT RECEIVED WITH MUSHROOM CATH DRAINING LIQ BROWN STOOL. CATH REMOVED D/T LRG AMT'S OF MUCOID STOOL. ABD SOFT/DISTENDED. WITH POS BOWEL SOUNDS. 
+
+GU: FOLEY CATH DRAINING SMALL AMT'S OF YELLOW URINE WITH VISIBLE SEDIMENT. 
+
+SKIN: PT WITH BROKEN DOWN AREA ON COCCYX AND GLUTEAL FOLDS. NO OTHER ISSUES AT THIS TIME. 
+
+ACCESS: PT WITH RIJ PRESEP CATH. ALL PORTS FX'ING. 
+
+ENDO: MIDNIGHT FINGERSTICK SLIGHLY ELEV AND RECEIVED SSRI. 
+
+ID: PT RECEIVING PIPERCILLIN, FLAGYL, VANCO OVERNIGHT. VANCO LEVEL SENT THIS AM. 
+
+SOCIAL: NO CONTACT WITH FAMILY OVERNIGHT. CONT WITH POC. MONITOR BP, U/O. CHECK FREQ FOR INCONT OF STOOL. FOLLOW BLD SUG. 
+",,
+5244,,39741,0,2833-05-02 14:58:00 EST,2833-05-02 15:24:00 EST,9125,"N",54,"Nursing/Other",,"
+
+[**Age over 90 **] y/o  demented NH resident with CHF-EF 15%,CRI,CAD s/p stent,DM presented to hospital on [**2833-4-28**] with SOB,hypotension and confusion,suspected to have urosepsis.
+
+*** on FULL code
+
+***Allergic to Atrovent
+
+***Access;RIJ preceptcath
+
+*** On contact precautions for C-Diff
+
+Events;Failed attempt for PICC line at bedside,Lasix 20 MG @ 1600.
+
+CVS;HR 90-120 NSR/ST frequent PVC,NBP 90-120/60-80 CVP 8-12,Positive pedal pulses.
+
+RESP;On NC 3L,diminished air entry at b/l base,O2 sats are maintianed upto 95%,weak cough suctioned for thin white secretions at AM.
+
+Nuero; AO X 2 at the beginning of  the shift,then oriented to self  only towards the evening Speech is not clear.Moves upper extrimities but not lower extrimities,able to wiggle toes.Chest PT was requested at AM,was informed to PT will see him later.
+
+Abdomen firm distended positive bowel sounds,TF @ goal,PEG site clean.Small amts of stool X 2.
+
+Foley catheter in draining 15  ml/hr,Lasix 20 mg was given @ 1600 with good effect.Foley catheter was changed on [**2833-4-30**].
+
+Afebrile,zosyn changed to Meropenem for psedomonas in urine,recieved one stat dose of meropenem, to continue Q8hr.On flagyl/IV and PO vancomycin for C-Diff.
+
+No contact from famiily at this shift
+
+plan;PICC in IR-not shceduled so far
+OOB to chair with PT
+IVF bolus for hypotension
+Continue antibiotics. 
+   
+",,
+5244,,39741,0,2833-05-02 17:33:00 EST,2833-05-02 17:38:00 EST,9125,"N",54,"Nursing/Other",,"
+
+Addendum......
+1700-1900
+Pt had coarse breath sounds,with laboured breathing,RR 30-35,weak cough,unable to claer secretions,Nasotracheal suction done for loose white secretions.Lasix 40 mg repeated,morphine 2mg/Iv given CXRay and EKG was done.metoprolol 2.5mg+2.5 mg/Iv given with good rate control. 
+",,
+5244,,39741,0,2833-05-03 02:18:00 EST,2833-05-03 03:30:00 EST,8714,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+PT IS A [**Age over 90 **] Y/O MALE WHO PRESENTED TO THE ED FROM [**Hospital3 **] [**2833-4-28**] WITH LABORED BREATHING, HYPOTENSION, DIAPHORESIS AND CONFUSION. SUSPECTED TO HAVE UROSEPSIS, SO ADMITTED TO MICU FOR FURTHER MANAGEMENT. FOUND TO HAVE GNR URINE. HOSPITAL COURSE C/B INTERMITTENT HYPOTENSION REQUIRING FLUID BOLUSES AND C-DIFF. 
+
+PMH: CRI W/ BASELINE CR 1.0-1.3, CAD, CHF-EF 15%, HTN, DEMENTIA-PER NOTES PT IS MOSTLY NONVERBAL AT BASELINE, TYPE II DM, DYSPHAGIA, MULTIPLE PNA'S.
+
+CODE STATUS: FULL CODE
+
+PRECAUTIONS: C-DIFF
+
+NEURO: PT IS ALERT AND ORIENTED TO SELF ONLY. ESSENTIALLY NON-VERBAL OTHER THAN ANSWERING YES/NO TO SIMPLE QUESTIONS AND MUMBLING HIS NAME. PERRL. MOVES BUE, LITTLE MOVEMENT OF BLE NOTED. FOLLOWS SIMPLE COMMANDS. MEDICATED WITH 650MG TYLENOL X1 WITH THERAPEUTIC EFFECT - PT WAS GRIMACING, AND WHEN ASKED IF HAVING PAIN HE NODDED YES. POINTED TO HIS ABDOMEN WHEN ASKED WHERE. PT HAS DENIED PAIN SINCE. AFEBRILE.
+
+RESP: LUNG SOUNDS AT BEGINNING OF THE SHIFT WITH EXPIRATORY WHEEZES THROUGHOUT - RESOLVED WITH ALBUTEROL NEB TX. LUNG SOUNDS HAVE SINCE BEEN CLEAR IN BILATERAL UPPER LOBES AND DIMINISHED AT THE BASES. SPO2 95% OR HIGHER ON 5L NC. PT HAS NOT REQUIRED NT SUCTIONING THIS SHIFT. RR IS IN THE 20'S WHEN ASLEEP, INCREASES TO 30'S WITH STIMULATION. OCCASIONAL NON-PRODUCTIVE COUGH, CHEST PT DONE. BILATERAL CHEST EXPANSION NOTED.
+
+CV: HR MOSTLY 80'S-90'S NSR WITH RARE SPONTANEOUS BURSTS INTO THE 130'S-THIS IS VERY BRIEF AND HAS BEEN SELF LIMITING NOT REQUIRING ANY INTERVENTION. OCCASIONAL PVC'S NOTED. BP HAS REMAINED STABLE 90'S-1TEENS WITH MAPS >60. PALPABLE RADIAL/DP PULSES. RIJ SITE WNL. 
+
+GI/GU: ABDOMEN FIRM AND DISTENDED, BOWEL SOUNDS PRESENT X4. TF STOPPED WHEN PT C/O ABDOMINAL PAIN, HAVE SINCE BEEN RESTARTED AT GOAL RATE OF 60ML/HR. PEG SITE WNL. PT HAS HAD <5ML RESIDUALS. SM AMT OF LOOSE BROWN STOOL ON PINK PAD OVERNIGHT. INDWELLING FOLEY CATHETER PATENTLY DRAINING ADEQUATE AMTS OF LIGHT YELLOW SEDIMENT URINE. 
+
+INTEG: SKIN ON BACK INTACT. COCCYX AREA WITH ABRASION-LIKE AREAS. BARRIER CREAMS APPLIED. 
+
+SOCIAL: DAUGHTER CALLED THIS SHIFT. ALL QUESTIONS ANSWERED APPROPRIATELY.
+
+PLAN: MONITOR MS. MONITOR RESP STATUS, WEAN O2 AS TOLERATED. NTS PRN. ACTIVITY AS TOLERATED-GOAL IS FOR PT TO TO GET OOB TO CHAIR. PT TO SEE. PT IS ORDERED FOR PICC LINE PLACEMENT IN IR.    
+",,
+5244,,39741,0,2833-05-03 15:38:00 EST,2833-05-03 15:53:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*Full code
+
+*Allergies: Atrovent
+
+*Access: New Rbrachial PICC placed in IR, R hand PIV, Removed RIJ TLC
+
+** Please see admit note/FHP for admit info and hx.
+
+Neuro: pt A&Ox1, difficult to understand, does not speak much or well, does follow commands and answer yes/no questions.  no c/o pain this shift. 
+
+Cardiac: NSR now w/ occasional PVC's, HR 88-95, SbP 91-119. Held Lopressor today for decreased BP and attempting diuresis, but team would like him to get doses if he falls in parameters and then deal w/ BP if necessary.  Lytes stable this AM. 100cc FWB's Q8H for ^Na.  Hct stable.  
+
+Resp: remains on 5L NC, o2sat 95-97, rr 22-37, LS clear upper/ diminished lower, now w/ slight crackles on LLL.  Pt having difficulty w/ turning; tachypnic, coughing, moaning w/ breathing, takes about 5-10minutes to settle after turns.
+
+GI/Gu:  TF (Probalance) @ goal 60cc/hr via PEG. +BS, scant stool w/ turning, abd firm/distended, tender @ times.  Urine out foley yellow/sediment, 35-70cc/hr. Recently gave 40mg IV Lasix, awaiting response, goal I&O is even for 24Hrs. FSBG 191, covered per RISS, gave standing dose lantis this AM, order changed today to increase standing dose.  
+
+ID: Temp 96.0-96.9 axillary. PICC placed today for abx (Meropenem and Flagyl and PO vanco for c.diff and UTI).  Coccyx w/ pressure sore stage I, cleaned w/ NS and placed duoderm.  IV sites wnl.  Heels elevated off bed w/ pillow.
+
+Psychosocial: Case manager notified that pt received PICC today.  May return to [**Hospital3 **] tomorrow. Case manager will call personal care service that family hires for his care while @ [**Hospital3 **] and team will contact fam.  Monitor pt one more night for BP, diuresis and additional abx treatments.
+
+Dispo: monitor BP and urine output (lasix and give Metoprolol), cont med regimen and abx, cont icu care @ this time. Pt should be able to go back to [**Hospital3 1017**] tomorrow if stable overnight.
+",,
+5244,,39741,0,2833-05-03 17:26:00 EST,2833-05-03 17:28:00 EST,7689,"N",54,"Nursing/Other","Addendum for 0700-1900 Nursing note","
+Addendum for 0700-1900 Nursing note
+pt noted to have short burst of svt to 170's and then 6 beat run of Vtach. Sent K and Mg labs, pending. Plan to replete if needed, given Metoprolol early (2000) if BP remains stable following Lasix IV.
+",,
+5244,,39741,0,2833-05-04 02:15:00 EST,2833-05-04 02:43:00 EST,8714,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+NEURO: PT CONT TO BE ALERT AND ORIENTED TO SELF ONLY, ANSWERING SIMPLE YES/NO QUESTIONS. C/O ABD DISCOMFORT X1 OVERNIGHT - RECEIVED 650MG TYLENOL WITH THERAPEUTIC EFFECT. COOPERATIVE WITH CARE, FOLLOWS COMMANDS. MAE X4. PERRL. AFEBRILE. 
+
+RESP: LUNG SOUNDS CLEAR IN BILATERAL UPPER LOBES AND DIMINISHED AT THE BASES THROUGHOUT MOST OF THE SHIFT. PT NOTED TO HAVE AUDIBLE EXPIRATORY WHEEZES AT APPROX 0100 WITH SATS HOVERING 94-95%. ALBUTEROL NEB TX GIVEN WITH THERAPEUTIC EFFECT- SATS QUICKLY CAME UP TO 96-100%. REMAINS ON NC AT 5L/MIN. RR MID 20'S WHILE AT REST, INCREASES TO AS HIGH AS 40'S WITH STIMULATION AND CARE. SATS MOSTLY 96-100%. BILATERAL CHEST EXPANSION NOTED. OCCASIONAL NON PRODUCTIVE COUGH.
+
+CV: HR 80'S-90'S WITH RARE SELF LIMITING BURSTS UP TO 100'S-110. OCCASIONAL PVC'S. SBP MOSTLY 90'S-1TEENS. SBP DIPPED TO 80'S  X1, RESOLVED SPONTANEOUSLY. MAPS HAVE REMAINED >60 THROUGHOUT THE SHIFT. PALPABLE RADIAL/DP PULSES. R PICC LINE SITE WNL. PATENT PIV IN R HAND.
+
+GI/GU: ABDOMEN FIRM AND DISTENDED. BOWEL SOUNDS PRESENT. CONT TO PASS BROWN MUCOID STOOL-MUSHROOM CATHETER PLACED. TF AT GOAL RATE OF 60ML/HR WITH <5ML RESIDUALS. INDWELLING FOLEY CATHETER PATENTLY DRAINING ADEQUATE AMTS OF YELLOW SEDIMENT URINE. PT RECEIVED 40MG LASIX IVP X1 THIS SHIFT. 
+
+INTEG: SKIN ON BACK INTACT. BUTTOCKS WITH ABRASION-LIKE AREAS. BARRIER CREAMS APPLIED. ALOE VESTA CREAM APPLIED TO BILATERAL ELBOWS AND HEELS-ELEVATED OFF BED.
+
+ENDO: FSBS COVERED WITH SS INSULIN PRN.
+
+SOCIAL: NO CONTACT FROM FAMILY THIS SHIFT.
+
+PLAN: PT HAS REMAINED STABLE THIS SHIFT, WILL MOST LIKELY BE TRANSFERRED BACK TO [**Location (un) 8362**] TODAY - CASE MANAGEMENT FOLLOWING. NEBS PRN, ENCOURAGE TO CDB. OOB TO CHAIR AS TOLERATED. PT TO START PO DOSE OF LASIX THIS AM. IF PT'S HR CONT TO HAVE BURSTS INTO 100'S, MAY NEED TO CONSIDER INCREASING METOPROLOL DOSE. FULL CODE.    
+",,

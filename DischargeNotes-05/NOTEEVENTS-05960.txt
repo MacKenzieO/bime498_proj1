@@ -1,0 +1,2403 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5960,21687,,,3259-08-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3259-8-5**]     Discharge Date:  [**3259-9-1**]
+
+Date of Birth:   [**3171-12-26**]     Sex:  F
+
+Service:
+
+DISCHARGE MEDICATIONS:  Dilantin 300 mg po q d, Aspirin 325
+mg po q d, Lipitor 20 mg po q d, Digoxin 0.125 mg po q d,
+Lopressor 12.5 mg po tid, Captopril 25 mg po tid,
+Neutra-shake po q d, Lasix 40 mg po bid, Colace 100 mg po bid
+prn, Coumadin 3 mg po q d, Protonix 40 mg po q d, Albuterol
+nebulizers q 2-4 hours prn, Atrovent nebulizers q 2-4 hours
+prn.
+
+Code status has changed.  The patient is do not resuscitate,
+do not intubate, without pressors, without PEG tube
+placement.  The patient will be discharged to [**Hospital1 7511**] on Tuesday, [**3259-9-2**].
+
+
+
+
+                        [**Last Name (LF) 7512**],[**First Name3 (LF) 7513**] 11-811
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**3259-9-2**]  15:03
+T:  [**3259-9-2**]  13:55
+JOB#:  [**Job Number 7514**]
+
+cc:[**3259-10-20**]
+
+",,
+5960,21687,,,3259-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-6**] 11:40 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 15793**]
+     Reason: CP RADIATING TO BACK, HX OF THORACIC ANEURYSM,EVAL FOR DISECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CP radiating to back, ruled in for inferior/posterior
+      MI, but w/ h/o thoracic aortic aneurysm would like to ensure that it is not
+      dissecting.
+     REASON FOR THIS EXAMINATION:
+      evaluate thoracic aortic aneurysm, last checked at [**Hospital1 15794**] 2 yrs ago, 4 cm
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chest pain radiating to the back.  History of thoracic aortic
+     aneurysm with approximate diameter of 4 cm evaluated on a CT from two years
+     ago.
+     
+     TECHNIQUE: Helical scanning of the chest and abdomen was performed after
+     administration of 150 cc optiray.  Nonionic contrast was used because of
+     the fast bolus injection.
+     
+     CHEST CT WITH CONTRAST: There are bilateral small pleural effusions, right
+     greater than left.  A tiny sub-cm calcified granuloma is present in the right
+     middle lobe (series 3, image 23).  There are no other nodules in the
+     visualized portions of the lungs.  There is no pericardial effusion.  There is
+     mild to moderate cardiomegaly.
+     
+     The thoracic and abdominal aorta are heavily calcified.  There is a suprarenal
+     thoracoabdominal aortic aneurysm with maximal diameter of 4.3 cm (series 3,
+     image 34).  There is partial thrombus within the lumen of the aneurysm.
+     There is no intimal flap or second lumen in the aorta.
+     
+     ABDOMEN CT WITH CONTRAST: A well defined low attenuation lesion in the
+     posterior right hepatic lobe (series 2, image 40) is consistent with a cyst.
+     There are no other focal liver lesions.  There is no intra or extrahepatic
+     ductal dilatation.  The patient is post cholecystectomy.  No abnormality is
+     seen in the pancreas, spleen, adrenals or right kidney.  There is a 5 cm
+     simple cyst in the mid region of the left kidney, which is otherwise
+     unremarkable.
+     
+     PELVIC CT WITH CONTRAST: There is stenosis at the origin of the left renal
+     artery (Series 3, image 49) . The kidneys show symmetric nephrograms. No gross
+     abnormality is seen in the small bowel.  There are multiple sigmoid
+     diverticula, but no evidence of diverticulitis. There is no adenopathy in the
+     abdomen.
+     The right iliac bone is enlarged and sclerotic, consistent with Paget's
+     disease. A tiny amount of free fluid in the pelvis is of uncertain
+     significance.
+     
+     IMPRESSION: 1) No aortic dissection.  2) The greatest diameter of the
+     suprarenal thoracoabdominal aortic aneurysm is 4.3 cm.  3) Bilateral small
+     pleural effusions.  4) Paget's disease of the right iliac bone.  5) Stenosis
+     at the origin of the left renal artery.
+                                                                 (Over)
+
+     DATE: [**3259-8-6**] 11:40 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 15793**]
+     Reason: CP RADIATING TO BACK, HX OF THORACIC ANEURYSM,EVAL FOR DISECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5960,21687,,,3259-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-6**] 11:40 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 15793**]
+     Reason: CP RADIATING TO BACK, HX OF THORACIC ANEURYSM,EVAL FOR DISECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CP radiating to back, ruled in for inferior/posterior
+      MI, but w/ h/o thoracic aortic aneurysm would like to ensure that it is not
+      dissecting.
+     REASON FOR THIS EXAMINATION:
+      evaluate thoracic aortic aneurysm, last checked at [**Hospital1 15794**] 2 yrs ago, 4 cm
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chest pain radiating to the back.  History of thoracic aortic
+     aneurysm with approximate diameter of 4 cm evaluated on a CT from two years
+     ago.
+     
+     TECHNIQUE: Helical scanning of the chest and abdomen was performed after
+     administration of 150 cc optiray.  Nonionic contrast was used because of
+     the fast bolus injection.
+     
+     CHEST CT WITH CONTRAST: There are bilateral small pleural effusions, right
+     greater than left.  A tiny sub-cm calcified granuloma is present in the right
+     middle lobe (series 3, image 23).  There are no other nodules in the
+     visualized portions of the lungs.  There is no pericardial effusion.  There is
+     mild to moderate cardiomegaly.
+     
+     The thoracic and abdominal aorta are heavily calcified.  There is a suprarenal
+     thoracoabdominal aortic aneurysm with maximal diameter of 4.3 cm (series 3,
+     image 34).  There is partial thrombus within the lumen of the aneurysm.
+     There is no intimal flap or second lumen in the aorta.
+     
+     ABDOMEN CT WITH CONTRAST: A well defined low attenuation lesion in the
+     posterior right hepatic lobe (series 2, image 40) is consistent with a cyst.
+     There are no other focal liver lesions.  There is no intra or extrahepatic
+     ductal dilatation.  The patient is post cholecystectomy.  No abnormality is
+     seen in the pancreas, spleen, adrenals or right kidney.  There is a 5 cm
+     simple cyst in the mid region of the left kidney, which is otherwise
+     unremarkable.
+     
+     PELVIC CT WITH CONTRAST: There is stenosis at the origin of the left renal
+     artery (Series 3, image 49) . The kidneys show symmetric nephrograms. No gross
+     abnormality is seen in the small bowel.  There are multiple sigmoid
+     diverticula, but no evidence of diverticulitis. There is no adenopathy in the
+     abdomen.
+     The right iliac bone is enlarged and sclerotic, consistent with Paget's
+     disease. A tiny amount of free fluid in the pelvis is of uncertain
+     significance.
+     
+     IMPRESSION: 1) No aortic dissection.  2) The greatest diameter of the
+     suprarenal thoracoabdominal aortic aneurysm is 4.3 cm.  3) Bilateral small
+     pleural effusions.  4) Paget's disease of the right iliac bone.  5) Stenosis
+     at the origin of the left renal artery.
+                                                                 (Over)
+
+     DATE: [**3259-8-6**] 11:40 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 15793**]
+     Reason: CP RADIATING TO BACK, HX OF THORACIC ANEURYSM,EVAL FOR DISECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 12:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15797**]
+     Reason: 87 YO F WITH RESP DISTRESS AND MENTAL STATUS CHANGES - INTUB
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with ABOVE
+     REASON FOR THIS EXAMINATION:
+      87 YO F WITH RESP DISTRESS AND MENTAL STATUS CHANGES - INTUBATED FOR AIRWAY
+      PROTECTION - PLEASE CHECK ETT PLACEMENT AND EVAL FOR INFILTRATE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Respiratory distress and mental deterioration. Check ETT
+     placement.
+     
+     FINDINGS: The patient has been intubated. The tip of the ETT reaching the
+     carina. Although not definitely obstructing either of the main bronchi it is
+     recommended to withdraw the ETT by at least 3 cm. There is no evidence of
+     pneumothorax or any other placement-related complication. As before seen on an
+     examination performed on the same day earlier marked cardiac
+     enlargement and elongation and widening of the calcified thoracic aorta
+     exists. Comparison of the pulmonary pattern suggests more advanced
+     perivascular haze than before.
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with POST CATH APHASIC, HEMIPARETIC, NOW INTUBATED...NEEDS
+      DWI AND MRA HEAD 
+     REASON FOR THIS EXAMINATION:
+      R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87 year old with postcardiac catheterization aphasia. Hemiparetic,
+     now intubated.
+     
+     COMPARISON HEAD CT WITHOUT CONTRAST: [**3259-8-8**].
+     
+     TECHNIQUE: Multiplanar T2, T1, susceptibility, FLARE, and diffusion-weighted
+     images of the brain were obtained.
+     
+     HEAD MRI WITHOUT CONTRAST: There is no intra- or extra-axial hemorrhage. There
+     is no midline shift or mass effect. There is increased signal in the
+     periventricular white matter on the T2 images consistent with prior small
+     vessel ischemic disease. There is also increased signal in the region of the
+     left thalamus and genu of the left internal capsule. Again consistent with old
+     infarct. In the left cerebellum there is decreased signal in the T1-weighted
+     images consistent with tissue loss from prior infarct. There is no restriction
+     defect noted on the diffusion-weighted images. Normal vascular flow voids are
+     present. The osseous structures and soft tissues are unremarkable. There is
+     mucosal thickening of the bilateral maxillary sinus.
+     
+     IMPRESSION: No evidence of acute intracranial pathology.
+     
+     MRA OF THE BRAIN
+     
+     INDICATION: Patient with hemiparesis and aphasia status post cardiac cath.
+     
+     TECHNIQUE: 3D time of flight images of the circle of [**Location (un) 405**] were obtained.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]: There is no stenosis, diminutive flow, or
+     aneurysms seen. The source data was reviewed.
+     
+     IMPRESSION: Normal MRA of the circle of [**Location (un) 405**].
+     
+     MRI OF THE HEAD
+     
+     INDICATION: 87-year-old woman postcath aphasic hemiparetic now intubated.
+     
+     TECHNIQUE: 3D and 2D time of flight images of the carotid and vertebral
+     arteries and 3D time of flight images of the circle of [**Location (un) 405**] were also
+     obtained.
+     
+     NECK AND CIRCLE OF [**Location (un) **] MRA: There is a dominant right vertebral artery.
+                                                                 (Over)
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is no stenosis diminutive flow or aneurysms seen. The source data was
+     reviewed.
+     
+     IMPRESSION: Dominant vertebral artery but otherwise normal MRA.
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with POST CATH APHASIC, HEMIPARETIC, NOW INTUBATED...NEEDS
+      DWI AND MRA HEAD 
+     REASON FOR THIS EXAMINATION:
+      R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87 year old with postcardiac catheterization aphasia. Hemiparetic,
+     now intubated.
+     
+     COMPARISON HEAD CT WITHOUT CONTRAST: [**3259-8-8**].
+     
+     TECHNIQUE: Multiplanar T2, T1, susceptibility, FLARE, and diffusion-weighted
+     images of the brain were obtained.
+     
+     HEAD MRI WITHOUT CONTRAST: There is no intra- or extra-axial hemorrhage. There
+     is no midline shift or mass effect. There is increased signal in the
+     periventricular white matter on the T2 images consistent with prior small
+     vessel ischemic disease. There is also increased signal in the region of the
+     left thalamus and genu of the left internal capsule. Again consistent with old
+     infarct. In the left cerebellum there is decreased signal in the T1-weighted
+     images consistent with tissue loss from prior infarct. There is no restriction
+     defect noted on the diffusion-weighted images. Normal vascular flow voids are
+     present. The osseous structures and soft tissues are unremarkable. There is
+     mucosal thickening of the bilateral maxillary sinus.
+     
+     IMPRESSION: No evidence of acute intracranial pathology.
+     
+     MRA OF THE BRAIN
+     
+     INDICATION: Patient with hemiparesis and aphasia status post cardiac cath.
+     
+     TECHNIQUE: 3D time of flight images of the circle of [**Location (un) 405**] were obtained.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]: There is no stenosis, diminutive flow, or
+     aneurysms seen. The source data was reviewed.
+     
+     IMPRESSION: Normal MRA of the circle of [**Location (un) 405**].
+     
+     MRI OF THE HEAD
+     
+     INDICATION: 87-year-old woman postcath aphasic hemiparetic now intubated.
+     
+     TECHNIQUE: 3D and 2D time of flight images of the carotid and vertebral
+     arteries and 3D time of flight images of the circle of [**Location (un) 405**] were also
+     obtained.
+     
+     NECK AND CIRCLE OF [**Location (un) **] MRA: There is a dominant right vertebral artery.
+                                                                 (Over)
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is no stenosis diminutive flow or aneurysms seen. The source data was
+     reviewed.
+     
+     IMPRESSION: Dominant vertebral artery but otherwise normal MRA.
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 9:57 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15796**]
+     Reason: r/o acute intracranial pathological process; pt with sudden 
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     Additional information has been obtained from CareWeb Clinical Lookup since
+     the approval of the original report.  Reason for exam should also state
+     lethargic.
+
+             DR. [**First Name (STitle) 208**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 209**]
+
+     DATE: [**3259-8-8**] 9:57 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15796**]
+     Reason: r/o acute intracranial pathological process; pt with sudden 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with sudden onset unrespons; s/p cath yest, on coumadin since
+      last noc 
+     REASON FOR THIS EXAMINATION:
+      r/o acute intracranial pathological process; pt with sudden onset SOB,
+      unresponsiveness
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87 YEAR OLD WOMAN WITH SUDDEN UNRESPONSIVENESS.  STATUS POST
+     CARDIAC CATH, RULE OUT INTRACRANIAL PATHOLOGICAL PROCESS.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the foramen magnum to
+     the cranial vertex.
+     
+     CT OF THE HEAD WITHOUT CONTRAST:
+     
+     There is no intra or extra-axial hemorrhage.  There is no shift of the normal
+     midline structures or mass effect.  There is mild periventricular white matter
+     disease involving the bilateral frontal horns consistent with prior
+     microvascular ischemic changes.  There is mild prominence of the ventricles
+     and sulci bilaterally consistent with mild to moderate atrophy.  There are
+     bilateral subdural hygromas of uncertain significance.  The [**Doctor Last Name 20**]-white matter
+     differentiation is normal.
+     
+     There is a mottled appearance of the skull most likely physiologic.  The soft
+     tissues and sinuses are unremarkable.  There are calcifications noted in the
+     bilateral vertebral arteries as they are entering the skull.
+     
+     IMPRESSION:  No acute intracranial pathological process noted.
+     
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 9:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15795**]
+     Reason: Called to see pt for unresponsive, hyperventilating.  Please
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Called to see pt for unresponsive, hyperventilating.  Please assess for PNA,
+      PTX, effusion, other pathology comparing with prior film if possible.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Found unresponsive, hyperventilating.
+     
+     There are no prior studies for comparison.
+     
+     PORTABLE CHEST:  The heart is enlarged.  Thoracic aorta is calcified and
+     unfolded.  The lungs are clear.  There are small bilateral pleural effusions.
+     There is no pneumothorax.  Degenerative change is seen throughout the spine
+     with thoracic scoliosis concave right.
+     
+     IMPRESSION:  Small bilateral pleural effusions without evidence of failure,
+     pneumonia or pneumothorax.
+     
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 8:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15800**]
+     Reason: 87 y/o who p/w acute coronary syndrome s/p cath.  Recently w
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 y/o who p/w acute coronary syndrome s/p cath.  Recently w/ MS changes and
+      intubated.  Evaluate for ptx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP portable chest x-ray [**3259-8-8**] at 8:42PM.
+     
+     HISTORY:  Cardiac disease, status post intubation with perforation of trachea.
+      Mental status changes.  Comparison to previous film of earlier on [**3259-8-8**].
+     
+     FINDINGS:  The endotracheal tube has been advanced, and is now low,
+     approximately 1.5 cm above the carina.  The nasogastric tube is unchanged with
+     the tip in the stomach.  There is interval improvement in subcutaneous
+     emphysema with a large amount of residual emphysema.  The heart is enlarged.
+     Dense aortic calcifications are seen.  No pneumothorax is identified.
+     Evaluation of the lungs is somewhat limited due to the overlying emphysema. No
+     significant change from the previous film.
+     
+     IMPRESSION:
+     
+     1) Endotracheal tube is slightly low.
+     
+     2) Some improvement in subcutaneous emphysema.
+     
+     3) No change in appearance of the lungs.
+     
+     
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 2:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15799**]
+     Reason: please evaluate for pneumothorz, extent of SQ emphysema
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pneumothorz, extent of SQ emphysema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD, STATUS POST CATHETERIZATION WITH POSSIBLE STROKE AND
+     SEIZURES.  ELEVATED INSPIRATORY PRESSURE ON VENTILATOR.  NOW WITH SUBCUTANEOUS
+     EMPHYSEMA.  EVALUATE FOR PNEUMOTHORAX.
+     
+     FINDINGS:  The patient is intubated.  The ETT with its tip 5 cm above the
+     level of carina.  Most striking is the presence of massive subcutaneous
+     emphysema bilaterally in the chest walls and most marked also in the soft
+     tissue of the neck.  The soft tissue air collection outlines the pattern of
+     the chest muscles.  There is no conclusive evidence for significant
+     mediastinal air collection nor is there evidence of any pneumothorax.  An NG
+     tube is in place and reaches far below the diaphragm where it appears to be
+     curled up into the stomach.  Comparison is made with the next previous chest
+     examination of [**3259-8-8**] at which time the marked cardiac enlargement
+     was noted, but no evidence of subcutaneous soft tissue emphysema existed.  It
+     is noted that on the previous examination, the tip of the ETT reach the
+     bifurcation level.  There was no evidence of acute parenchymal infiltrates at
+     that time.
+     
+     IMPRESSION:  Development of subcutaneous emphysema following high pressure
+     ventilation.  There is no evidence of pneumothorax nor of a major air
+     accumulation within the mediastinum.  The soft tissue pattern is overlying the
+     chest, but this does not reflect any new parenchymal infiltrates.
+
+",,
+5960,21687,,,3259-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with POST CATH APHASIC, HEMIPARETIC, NOW INTUBATED...NEEDS
+      DWI AND MRA HEAD 
+     REASON FOR THIS EXAMINATION:
+      R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87 year old with postcardiac catheterization aphasia. Hemiparetic,
+     now intubated.
+     
+     COMPARISON HEAD CT WITHOUT CONTRAST: [**3259-8-8**].
+     
+     TECHNIQUE: Multiplanar T2, T1, susceptibility, FLARE, and diffusion-weighted
+     images of the brain were obtained.
+     
+     HEAD MRI WITHOUT CONTRAST: There is no intra- or extra-axial hemorrhage. There
+     is no midline shift or mass effect. There is increased signal in the
+     periventricular white matter on the T2 images consistent with prior small
+     vessel ischemic disease. There is also increased signal in the region of the
+     left thalamus and genu of the left internal capsule. Again consistent with old
+     infarct. In the left cerebellum there is decreased signal in the T1-weighted
+     images consistent with tissue loss from prior infarct. There is no restriction
+     defect noted on the diffusion-weighted images. Normal vascular flow voids are
+     present. The osseous structures and soft tissues are unremarkable. There is
+     mucosal thickening of the bilateral maxillary sinus.
+     
+     IMPRESSION: No evidence of acute intracranial pathology.
+     
+     MRA OF THE BRAIN
+     
+     INDICATION: Patient with hemiparesis and aphasia status post cardiac cath.
+     
+     TECHNIQUE: 3D time of flight images of the circle of [**Location (un) 405**] were obtained.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]: There is no stenosis, diminutive flow, or
+     aneurysms seen. The source data was reviewed.
+     
+     IMPRESSION: Normal MRA of the circle of [**Location (un) 405**].
+     
+     MRI OF THE HEAD
+     
+     INDICATION: 87-year-old woman postcath aphasic hemiparetic now intubated.
+     
+     TECHNIQUE: 3D and 2D time of flight images of the carotid and vertebral
+     arteries and 3D time of flight images of the circle of [**Location (un) 405**] were also
+     obtained.
+     
+     NECK AND CIRCLE OF [**Location (un) **] MRA: There is a dominant right vertebral artery.
+                                                                 (Over)
+
+     DATE: [**3259-8-8**] 12:31 PM
+     MR HEAD NEURO; MR-ANGIO HEAD                                    Clip # [**Clip Number (Radiology) 15798**]
+     MR RECONSTRUCTION IMAGING
+     Reason: R/O cva
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is no stenosis diminutive flow or aneurysms seen. The source data was
+     reviewed.
+     
+     IMPRESSION: Dominant vertebral artery but otherwise normal MRA.
+
+",,
+5960,21687,7423,0,3259-08-08 12:56:00 EST,3259-08-08 13:06:00 EST,514,"N",1,"Nursing/Other",,"
+
+nsg admit note
+87 yo woman lives on Cape, active boating walking presented to [**Hospital 1724**] Hospital [**8-4**] after 2 day hx of nausea, cp sob.  Cardiac enzymes elevated with ST changes on EKG.  she was started on IV NTG, heparin, ASA, b blocker and transferred here for cath.  Cath showed vessel disease RCA total proximal occlusion with left to left collateral flow and and LAD total occlusion after 1st diag with left to left collateral flow recommendation medical therapy with diureses and after load reduction and nuclear study to asses myocardial viabiltiy 
+no intervention done [**8-7**].  On floor loc aphasic hemiparetic this am on left side pt awake but sleepy during event no LOC 
+PMH
+Afib, HTN, CHF, s/p ccy, descending thoraxix aortic aneurysym 4cm, sz hx last sz 20 yrs ago
+allergies Phenergan
+
+",,
+5960,21687,7423,0,3259-08-08 15:10:00 EST,3259-08-08 15:14:00 EST,75,"N",1,"Nursing/Other",,"
+
+RESP. CARE NOTE: PT BRONCHED THIS AFTERNOON, PT PLACED ON 100% PRIOR TO BRONCH AND TO 60% POST BRONCH.  PT REMAINS INTUBATED, AND MECH VENTILATED. ALL IS WELL AT THIS TIME.
+",,
+5960,21687,7423,0,3259-08-08 16:46:00 EST,3259-08-08 17:17:00 EST,514,"N",1,"Nursing/Other",,"
+
+NSG ADMIT NOTE CONTINUED
+HPI CONT NURSE NOTED AROUND 9AM THAT PT DID NOT FOLLOW COMMANDS SHE WAS NOT VERBALLY RESPONSIVE.  ON EXAM SHE WAS NOT MOVING LT SIDE.  SHE WAS ELECTIVELY INTUBATED AND BROUGHT TO HEAD CT WHICH REVEALED NO ACUTE PATHOLOGY.  
+SHE WAS ADMITTED TO CCU.  
+O. NEURO PUPILS +1 BILATERALLY REACTIVE TO LIGHT WILL GRASP RT HAND TO COMMAND (IF NOT SEDATED) MOVED OTHER EXTREMITIES TO PAINFUL STIMULI BY WITHDRAWAL.  MRI HEAD DONE NEG FOR STROKE. REQUIRING ATIVAN 1MG IV TO MAINTAIN SEDATION IN ORDER TO VENTILATE.  HX OF SZ ON DILANTIN LEVEL 6.7
+CARDIAC AFIB 100-120'S OCC PVC K+ 3.9 BP 99/120/ SKIN COOL AND DRY PP +1  INR 1.4 RECEIVED COUMADIN LAST EVE PLACED ON HEPARIN GTT
+RESP ETT 60% SIMV RR 10 TV 600 PEEP 5 ABG 91/39/7.37 NOTED IN MRI TO HAVE DEVELOPED SQ EMPHYSEMA STAT CXR TAKEN CCU NEG PNEUMOTHORAX ABG WNL BS BILATERALLY RT>LT SQ EMPHYSEMA >LT THAN RT BRONCHO DONE SHOWING SMALL TEAR IN TRACHEA ETT ADVANCED BEYOND TEAR.
+GI OGT PLACED NPO X MEDS BS+ ABD SNT
+GU BUN 42 CR 1.2 FOLEY IN URINE LYTES SENT U/O MARGINAL
+ENDOCRINE BS 130
+ACCESS 20 GAUGE HANDS BILAT. ALINE LT RADIAL
+A. ALT IN NEURO STATUS ISCHEMIA VS NEURO ? SZ
+SQ EMPHYSEMA SECONDARY TO TEAR IN TRACHEA
+P. ETT OVERNIGHT SEDATE TO KEEP COMFORTABLE ON VENT
+NEURO CONSULT DONE ?EEG ? INCREASING DILANTIN DOSE
+MONITOR RESP STATUS REPEAT CXR TONIGHT AND IN AM
+START HEPARIN
+PT FAMILY IS VERY SUPPORTIVE AND WANTS TO BE MADE AWARE OF ANY TESTS THAT ARE PERFORMED 
+",,
+5960,21687,7423,0,3259-08-08 17:25:00 EST,3259-08-08 17:37:00 EST,-1,"N",1,"Nursing/Other","RESP NOTE","
+RESP NOTE
+PT INTUBATED TODAY TO PROTECT AIRWAY S/P MENTAL STATUS CHANGES, DIFF BREATHING, AND DIM BREATHSOUNDS ON LEFT.  TUBED, PLACED ON VENT FOR HEAD CT THE TRANSPORTED TO CCU. LATER TAKEN TO MRI, WHILE THERE NOTED SUB Q EMPHYSEMIA DEVELOPING, RETURNED TO UNIT. PT BRONCHED NOTED TEAR IN [**Last Name (un) **], ET TUBE ADVANCED PAST TEAR, 23CM AT LIP. SITUATION IMPROVED. FIO2 AND PRESSURE SUPPORT LOWERED.
+",,
+5960,21687,7423,,3259-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5960,21687,7423,,3259-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-9**] 7:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15803**]
+     Reason: 87 yo woman with small pneumothorax and now increasing respi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with small pneumothorax and now increasing respiratory rate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Increasing respiratory rate.
+     
+     Portable chest: A film from 8:19 PM on [**3259-8-9**] is compared to earlier film from
+     2:46 PM the same day. The previously noted endotracheal tube and nasogastric
+     tube remain in satisfactory position. Cardiac and mediastinal contours are
+     grossly unchanged. No acute changes are seen within the lung parenchyma. The
+     previously noted left apical pneumothorax is smaller. There is still
+     subcutaneous emphysema in the right and left neck and left lower chest/abdomen
+     laterally.
+     
+     IMPRESSION: 1. ET tube and nasogastric tube in satisfactory position.
+     2. Interval decrease in size of small left apical pneumothorax; persistent
+     subcutaneous emphysema.
+     3. No acute change is identified in the lung parenchyma.
+
+",,
+5960,21687,7423,,3259-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-9**] 2:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15802**]
+     Reason: evaluate PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      evaluate PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pneumothorax follow up.
+     
+     Portable chest: Portable film from 2:46 PM on [**3259-8-9**] is compared to earlier
+     film from 8:04 AM the same day.
+     
+     The endotracheal tube tip is relatively low approximately 1 cm above the
+     carina, perhaps because the patient's chin is down. Nasogastric tube remains
+     within the stomach. Cardiac and mediastinal contours are unchanged. The
+     previously noted small left apical pneumothorax persists without change.
+     Subcutaneous emphysema on the left is present but decreasing. Aeration appears
+     improved within the lungs, with no new pleural parenchymal abnormalities
+     identified.
+     
+     IMPRESSION: 1. Endotracheal tube tip is now relatively low, approximately 1 cm
+     above the carina perhaps related to downward displacement of the patient's
+     chin.
+     2. Nasogastric tube without change.
+     3. No change small left apical pneumothorax.
+     4. Decreasing subcutaneous emphysema on the left.
+     
+
+",,
+5960,21687,7423,,3259-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-9**] 7:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15801**]
+     Reason: 87 YO F S/P ACUTE MI NOW POST PCI.  THIS A.M. MS CHANGES AND
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 YO F S/P ACUTE MI NOW POST PCI.  THIS A.M. MS CHANGES AND ETT PLACED C/B SQ
+      EMPHYSEMA DUE TO INCREASED PULM PRESS.  EVALUATE FOR PTX AND PNEUMOMEDIASTINUM.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: s/p intubation, cardiac disease, mental status changes. Comparison to
+     previous film of [**3259-8-8**].
+     
+     FINDINGS: ET tube has been pulled back slightly and is now approximately 2-2.5
+     cm above the carina. The NG tube tip remains within the stomach. There is
+     improvement in subcutaneous emphysema since the previous film. However, a
+     small left apical pneumothorax is now identified. The lungs are grossly clear.
+     Ill-defined opacity in the left costophrenic angle is seen, possibly from
+     atelectasis. The heart is enlarged. Dense aortic calcifications are seen.
+     
+     IMPRESSION: 1. New small left pneumothorax identified; the nurse caring for
+     this patient was informed.
+     2. Improving subcutaneous emphysema.
+     3. Endotracheal tube now appropriately positioned.
+
+",,
+5960,21687,7423,0,3259-08-09 04:00:00 EST,3259-08-09 04:06:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 600, Simv 10, Fio2 50%, Peep 5, and Psv 10. PAP/Plateau 31/22. Bs crackles L base with a few faint wheezes otherwise lungs clear. Combivent MDI given Q4hr. Sx'd for sm amounts of thick white sputum. Fio2 weaned to 50% maintaining adequate O2 sats. No further changes made. Continue with mechanical support and wean to Psv as tolerated.
+",,
+5960,21687,7423,0,3259-08-09 04:45:00 EST,3259-08-09 05:05:00 EST,284,"N",1,"Nursing/Other","ALT. IN NEURO STATUS","
+ALT. IN NEURO STATUS
+NEURO:  DOES NOT FOLLOW COMMANDS, DOES NOT OPEN EYES, WILL OCC. MOVE ALL EXTREMITIES ON BED.  NOT MOVING NOW.  AGITATED AT 2200- 2300,  PT. BITING ON ETT, RR 35-40.  GIVEN ATIVAN 1 MG IV X2 WITH FAIR EFFECT.  DECISION TO START PROPOFOL.  PROPOFOL GTT WORKING WELL.  GTT NOW OFF.  STILL SEDATED.  WILL  GRIMACE  AT TIMES.  NO SEIZURE ACTIVITY NOTED.  
+
+CV:  HR 115-122 A-FIB.  NO VEA NOTED.  A-LINE DAMPENING OUT.  NBP 108-110/50.  CONT ON LOPRESSOR TOL WELL.  ? INCREASING FREQ. TODAY.  
+
+RESP;  SEE FLOWSHEET FOR DATA.  SUCTIIONING FOR THICK YELLOW SPUTUM Q2-3 HR.  STILL HAS SC EMPHYSEMA NOTED ON LEFT SIDE.
+
+GU:  FOLEY TO GRAVITY.  GIVEN LASIX 40 MG IV X2.  FAIR RESPONSE TO LASIX.  URINE CLEAR YELLOW.
+
+GI:  ACTIVE BOWEL SOUNDS.  PASSING FLATUS, NO BM OVERNIGHT.  OGT CLAMPED.  GASTRIC PH2-3  GUIAC NEG.
+
+SKIN: INTACT.  NO BROKEN AREAS NOTED.        
+",,
+5960,21687,7423,0,3259-08-09 16:00:00 EST,3259-08-09 16:16:00 EST,488,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S/O:
+
+CV: HR AS HIGH AS 130'S AF, LOPRESSOR INC TO 75 MG TID WITH HR DEC TO 90'S 2H AFTER DOSE. SBP DROPS TO 90'S AT THAT TIME. WHEN HR IN 120'S, SBP 110. K 4.1. NO VEA. HEP INC TO 1200U/HR FOR PTT 57.
+
+RESP: ATTEMPTED PS WEAN, DEC TO 10 PS AND 5 PEEP BUT RR INC TO 30'S WITH TV DEC TO 150. CURRENTLY BACK ON 15 PS WITH TV IN 300'S AND RR IN TEEN'S. SUCTIONED Q4H FOR SCANT THIN WHITE SECRETIONS. LUNGS CLEAR. SQ EMPHYSEMA IMPROVING. CXR SHOWED NEW PNEUMOTHORAX ON LEFT, PLEURAL TEAM CONSULTED AND DECIDED TO FOLLOW. FI02 INC TO 100% TO PROMOTE AIR RETURN TO TRACHEA. 
+
+ID: AFEB.
+
+GI: TF STARTED AT 20CC/HR. LOW RESIDUALS, POS BS, NO STOOL.
+
+GU: U/O DROPPED OFF IN PM, 240CC FLUID GIVEN WITH MEDS. URINE CLEAR VIA FOLEY.
+
+MS: PT OPENING EYES TO NAME, SQUEEZES HAND AND MOVES FEET. OTHER TIMES PT UNRESPONSIVE. MOVING EXTREMETIES INFREQ. PERLA, 3MM. EEG DONE. DILATIN LEVEL 4.5. ATTEMPTING TO CONTACT NEURO FOR CONSULT TODAY. 
+
+SOCIAL: DAUGHTER AND GRANDAUGHTER IN TO VISIT, ABLE TO GET PT TO RESPOND BETTER TO COMMANDS. SITUATION EXPLAINED TO FAMILY WHO UNDERSTAND. 
+
+A/P: DID NOT TOL PS WEAN, MS WAXES/WANES. CONT TO FOLLOW MS CLOSELY. ATTEMPT PS WEAN AGAIN WHEN PT MORE AWAKE. INC TF AS TOL. CHECK LABS AT 1800. 
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 9:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15805**]
+     Reason: 87 yo woman with increasing respiratory demand.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with increasing respiratory demand.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increased ventilatory requirement.
+     
+     PORTABLE CHEST:  Portable supine film of the chest from 10:01AM on [**3259-8-10**] is
+     compared to earlier film from 7:35AM the same day.
+     
+     The endotracheal tube and nasogastric tube remain in satisfactory position.
+     Cardiac and mediastinal contours are grossly unchanged.  No acute change is
+     seen within the lung parenchyma, which appears relatively clear.  The
+     patient's previously noted left pneumothorax is not definitely identified (it
+     could be difficult to see on a supine film). There is decrease in subcutaneous
+     emphysema in the left neck/chest/abdomen.
+     
+     IMPRESSION:
+     
+     1) ET tube and nasogastric tube in satisfactory position.
+     
+     2) Left pneumothorax is not definitely seen on the current supine film;
+     decreasing subcutaneous emphysema.
+     
+     3) No acute process identified in the lung parenchyma.
+     
+     
+     
+
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 7:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15804**]
+     Reason: intubated with small left pneumothorax
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      intubated with small left pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pneumothorax follow up.
+     
+     Portable chest: Comparison is made to film from one day earlier. The
+     previously noted endotracheal tube and nasogastric tube are unchanged and in
+     satisfactory position. The cardiac and mediastinal contours are grossly
+     unchanged, as is the lung parenchyma, allowing for differences in technique
+     and positioning.
+     
+     The left pneumothorax is probably even smaller on today's follow up film.
+     
+     IMPRESSION: 1. ET tube and nasogastric tube in satisfactory position.
+     2. The left apical pneumothorax is probably even smaller on today's follow up
+     film.
+
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CP radiating to back, ruled in for inferior/posterior
+      MI, no increasing respiratory demand.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with increasing respiratory demand after intubation. Suspect
+      possible PE, would like CT angio to evaluate for PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Increasing respiratory demand and desaturation.
+     
+     TECHNIQUE: Helically acquired axial images were obtained from the lung bases
+     to the apices with the administration of IV contrast. Multiplanar
+     reconstructed images were created.
+     
+     CONTRAST: 150 cc of Optiray was given. Optiray was used due to the fast bolus
+     rate of injection and CAD.
+     
+     CHEST CT WITH IV CONTRAST: There is a filling defect seen within the
+     subsegmental branch of the left lower lobe pulmonary artery. In addition,
+     there is a filling defect seen within a segmental branch extending to the
+     region of the lingula. There is also a filling defect seen within a
+     subsegmental branch to the right lower lobe however this area is somewhat more
+     difficult to evaluate secondary to adjacent atelectasis. These are consistent
+     with pulmonary emboli. These emboli appear to be new since the examination
+     from 4 days prior.
+     
+     Again seen is a suprarenal thoracoabdominal aortic aneurysm measuring
+     approximately 4.4 cm in greatest diameter. The aorta is calcified. No
+     significantly enlarged nodes are seen within the axilla, hila, or mediastinum.
+     A few tiny sub cm nodes are noted in the prevascular region. There are small
+     bilateral pleural effusions. There is no evidence of a pericardial effusion.
+     
+     There is a small left pneumothorax anterior to the heart. There is evidence of
+     passive atelectasis associated with the small bilateral pleural effusions.
+     There are two small calcified granulomas one in the located in the right upper
+     lobe (series 2, image 105) and a second located in the right middle lobe
+     (series 2, image 57). There are two areas of patchy opacity seen in the right
+     upper lobe (series 2, image 119), and in the right lower lobe (series 2, image
+     82). These cannot be characterized further but could represent areas of
+     atelectasis, as they were not definitely present on the previous examination.
+     
+     There is an ET tube present terminating approximately 1.8 cm above the carina.
+     There is an NG tube within the stomach however it should be noted that the NG
+     tube is coiled within the stomach and the tip points superiorly toward the
+     fundus.
+     
+     There is subcutaneous emphysema seen in the left anterior chest wall.
+                                                                 (Over)
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     In the imaged portions of the upper abdomen, a small 7 mm low attenuation
+     lesion is seen in the left lobe of the liver which is too small to
+     characterize further, but could represent a hemangioma or a cyst. The
+     unenhanced spleen and imaged portion of the right adrenal gland are
+     unremarkable.
+     
+     Degenerative changes are seen within the osseous structures.
+     
+     CT RECONSTRUCTIONS: Multiplanar reconstructed images again demonstrate
+     evidence of a thoracoabdominal aortic aneurysm as well as a pulmonary embolus
+     to the left lower lobe although this is better demonstrated on the axial
+     images.
+     
+     IMPRESSION: 1. Filling defects within the subsegmental arteries in the region
+     of the left lower lobe and lingula and within the right lower lobe consistent
+     with pulmonary emboli.
+     
+     2. Small bilateral pleural effusions with associated bibasilar atelectasis.
+     
+     3. Left anterior pneumothorax.
+     
+     4. No change in the size of the thoracoabdominal aortic aneurysm.
+     
+     5. Endotracheal tube 1.8 cm above the carina. NG tube within the stomach,
+     although the tip is pointed superiorly toward the fundus.
+     
+     
+     
+
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CP radiating to back, ruled in for inferior/posterior
+      MI, no increasing respiratory demand.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with increasing respiratory demand after intubation. Suspect
+      possible PE, would like CT angio to evaluate for PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Increasing respiratory demand and desaturation.
+     
+     TECHNIQUE: Helically acquired axial images were obtained from the lung bases
+     to the apices with the administration of IV contrast. Multiplanar
+     reconstructed images were created.
+     
+     CONTRAST: 150 cc of Optiray was given. Optiray was used due to the fast bolus
+     rate of injection and CAD.
+     
+     CHEST CT WITH IV CONTRAST: There is a filling defect seen within the
+     subsegmental branch of the left lower lobe pulmonary artery. In addition,
+     there is a filling defect seen within a segmental branch extending to the
+     region of the lingula. There is also a filling defect seen within a
+     subsegmental branch to the right lower lobe however this area is somewhat more
+     difficult to evaluate secondary to adjacent atelectasis. These are consistent
+     with pulmonary emboli. These emboli appear to be new since the examination
+     from 4 days prior.
+     
+     Again seen is a suprarenal thoracoabdominal aortic aneurysm measuring
+     approximately 4.4 cm in greatest diameter. The aorta is calcified. No
+     significantly enlarged nodes are seen within the axilla, hila, or mediastinum.
+     A few tiny sub cm nodes are noted in the prevascular region. There are small
+     bilateral pleural effusions. There is no evidence of a pericardial effusion.
+     
+     There is a small left pneumothorax anterior to the heart. There is evidence of
+     passive atelectasis associated with the small bilateral pleural effusions.
+     There are two small calcified granulomas one in the located in the right upper
+     lobe (series 2, image 105) and a second located in the right middle lobe
+     (series 2, image 57). There are two areas of patchy opacity seen in the right
+     upper lobe (series 2, image 119), and in the right lower lobe (series 2, image
+     82). These cannot be characterized further but could represent areas of
+     atelectasis, as they were not definitely present on the previous examination.
+     
+     There is an ET tube present terminating approximately 1.8 cm above the carina.
+     There is an NG tube within the stomach however it should be noted that the NG
+     tube is coiled within the stomach and the tip points superiorly toward the
+     fundus.
+     
+     There is subcutaneous emphysema seen in the left anterior chest wall.
+                                                                 (Over)
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     In the imaged portions of the upper abdomen, a small 7 mm low attenuation
+     lesion is seen in the left lobe of the liver which is too small to
+     characterize further, but could represent a hemangioma or a cyst. The
+     unenhanced spleen and imaged portion of the right adrenal gland are
+     unremarkable.
+     
+     Degenerative changes are seen within the osseous structures.
+     
+     CT RECONSTRUCTIONS: Multiplanar reconstructed images again demonstrate
+     evidence of a thoracoabdominal aortic aneurysm as well as a pulmonary embolus
+     to the left lower lobe although this is better demonstrated on the axial
+     images.
+     
+     IMPRESSION: 1. Filling defects within the subsegmental arteries in the region
+     of the left lower lobe and lingula and within the right lower lobe consistent
+     with pulmonary emboli.
+     
+     2. Small bilateral pleural effusions with associated bibasilar atelectasis.
+     
+     3. Left anterior pneumothorax.
+     
+     4. No change in the size of the thoracoabdominal aortic aneurysm.
+     
+     5. Endotracheal tube 1.8 cm above the carina. NG tube within the stomach,
+     although the tip is pointed superiorly toward the fundus.
+     
+     
+     
+
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CP radiating to back, ruled in for inferior/posterior
+      MI, no increasing respiratory demand.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with increasing respiratory demand after intubation. Suspect
+      possible PE, would like CT angio to evaluate for PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Increasing respiratory demand and desaturation.
+     
+     TECHNIQUE: Helically acquired axial images were obtained from the lung bases
+     to the apices with the administration of IV contrast. Multiplanar
+     reconstructed images were created.
+     
+     CONTRAST: 150 cc of Optiray was given. Optiray was used due to the fast bolus
+     rate of injection and CAD.
+     
+     CHEST CT WITH IV CONTRAST: There is a filling defect seen within the
+     subsegmental branch of the left lower lobe pulmonary artery. In addition,
+     there is a filling defect seen within a segmental branch extending to the
+     region of the lingula. There is also a filling defect seen within a
+     subsegmental branch to the right lower lobe however this area is somewhat more
+     difficult to evaluate secondary to adjacent atelectasis. These are consistent
+     with pulmonary emboli. These emboli appear to be new since the examination
+     from 4 days prior.
+     
+     Again seen is a suprarenal thoracoabdominal aortic aneurysm measuring
+     approximately 4.4 cm in greatest diameter. The aorta is calcified. No
+     significantly enlarged nodes are seen within the axilla, hila, or mediastinum.
+     A few tiny sub cm nodes are noted in the prevascular region. There are small
+     bilateral pleural effusions. There is no evidence of a pericardial effusion.
+     
+     There is a small left pneumothorax anterior to the heart. There is evidence of
+     passive atelectasis associated with the small bilateral pleural effusions.
+     There are two small calcified granulomas one in the located in the right upper
+     lobe (series 2, image 105) and a second located in the right middle lobe
+     (series 2, image 57). There are two areas of patchy opacity seen in the right
+     upper lobe (series 2, image 119), and in the right lower lobe (series 2, image
+     82). These cannot be characterized further but could represent areas of
+     atelectasis, as they were not definitely present on the previous examination.
+     
+     There is an ET tube present terminating approximately 1.8 cm above the carina.
+     There is an NG tube within the stomach however it should be noted that the NG
+     tube is coiled within the stomach and the tip points superiorly toward the
+     fundus.
+     
+     There is subcutaneous emphysema seen in the left anterior chest wall.
+                                                                 (Over)
+
+     DATE: [**3259-8-10**] 11:03 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 15806**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 87 yo woman with increasing respiratory demand after intubat
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     In the imaged portions of the upper abdomen, a small 7 mm low attenuation
+     lesion is seen in the left lobe of the liver which is too small to
+     characterize further, but could represent a hemangioma or a cyst. The
+     unenhanced spleen and imaged portion of the right adrenal gland are
+     unremarkable.
+     
+     Degenerative changes are seen within the osseous structures.
+     
+     CT RECONSTRUCTIONS: Multiplanar reconstructed images again demonstrate
+     evidence of a thoracoabdominal aortic aneurysm as well as a pulmonary embolus
+     to the left lower lobe although this is better demonstrated on the axial
+     images.
+     
+     IMPRESSION: 1. Filling defects within the subsegmental arteries in the region
+     of the left lower lobe and lingula and within the right lower lobe consistent
+     with pulmonary emboli.
+     
+     2. Small bilateral pleural effusions with associated bibasilar atelectasis.
+     
+     3. Left anterior pneumothorax.
+     
+     4. No change in the size of the thoracoabdominal aortic aneurysm.
+     
+     5. Endotracheal tube 1.8 cm above the carina. NG tube within the stomach,
+     although the tip is pointed superiorly toward the fundus.
+     
+     
+     
+
+",,
+5960,21687,7423,,3259-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-10**] 11:04 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15807**]
+     Reason: 87 yo woman with decrease LOC s/p cath. cute decompensation,
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with sudden onset unresponsiveness post cath. Now with acute
+      decompensation. 
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with decrease LOC s/p cath. cute decompensation, question of PE.
+      Patient to have CT-angio today. Please also perform head CT, to examine for
+      acute intracranial pathology. Previously negative head CT/MRI.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post cath with decompensation and LOC.
+     
+     TECHNIQUE: Routine noncontrast head CT.
+     
+     COMPARISON: [**3259-8-8**].
+     
+     HEAD CT WITHOUT CONTRAST: There is no intra or extraaxial hemorrhage. There is
+     no shift of normally midline structures. The ventricles and sulci are mildly
+     prominent. No major vascular territorial infarct is seen. Again seen is
+     periventricular low attenuation consistent with chronic microvascular ischemic
+     infarcts.
+     
+     There is mucosal thickening within the ethmoid air cells. The remainder of the
+     soft tissues and osseous structures are unchanged.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage. No change sinec
+     [**3259-8-8**].
+
+",,
+5960,21687,7423,0,3259-08-10 02:54:00 EST,3259-08-10 03:05:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on Psv. Vent settings Psv 15, Cpap 5, Fio2 40%, with flowby 6/3. Spont vols 350-400's with RR 10-20's. Attempted to wean Psv to 13. Tolerated for short period of time. Vols decreasing to 200-300's with RR increasing to 40's. Psv increased  back to 15 and later to 18 to rest at noc with adequate vols. Vols improving over course of shift to 550 with RR down to 5. Psv wean to 15. Bs rhonchi bilaterally clearing with sx. Sx'd/lavaged for thick white/ thin blood tinged sputum. Combivent MDI given Q4hr. Unable to tolerate Psv wean. Increased secretions.  See Carevue for vent changes. Continue with Psv as tolerated.
+",,
+5960,21687,7423,0,3259-08-10 05:12:00 EST,3259-08-10 05:33:00 EST,284,"N",1,"Nursing/Other","ALT. IN RESP. STATUS","
+ALT. IN RESP. STATUS
+NEURO:  OPENED EYES TO VOICE.  WAS NODDING APPROPRIATELY TO SOME QUESTIONS.  MOVING RIGHT HAND AND HOLDING IT UP.  MOVING RIGHT LEG ON BED.  NO MOVEMENT OF LUE OR LLE NOTED.  NO SEIZURE ACTIVITY NOTED.  GIVEN DILANTIN400 MG PER OGT X1.  DILANTIN LEVEL PENDING THIS AM.  GIVEN 1 MG ATIVAN IV DURING NOC TO HELP WITH VENTILATION.  RR 30-40.  FAIR EFFECT FROM ATIVAN.  
+
+CV:  HEART RATE 100-130'S.  PT HAD INCREASED AMT. OF ECTOPY EARLY THIS AM.  OCC 3-4 BEAT RUN OF VT.  PT. NOT HYPOTENSIVE WITH VT.  GIVEN INCREASED DOSE OF LOPRESSOR ( 100 MG TID)  WITH LITTLE EFFECT ON HR.  GIVEN 5 MG IV LOPRESSOR WITH LITTLE EFFECT ON HR.  THEN GIVEN 5 MG OF DILTIAZEM WITH FAIR EFFECT.  BECOMING SL. HYPOTENSIVE WITH BP 84-88 SYS.  CONT IN AFIB WITH RATE IN LOW 100'S, OCC PVD NOTED.  K+3.8 AND REPLETED WITH  40 MEQ KCL VIA OGT.  
+
+RESP: SEE VENT FLOWSHEET FOR NUMEROUS SETTING CHANGES ON VENT.  PLEASE SEE ABOVE NOTE BY RESP FOR UPDATE.  VENT SETTINGS AT PRESENT CPAP+PS 15, PEEP 5  TV 600, FI02 40%ABG'S PENDING,  SUCTIONING FOR THIN WHITE SPUTUM WITH OCC PINK FROTHY SPUTUM.  
+
+GI:  PASSING FLATUS.  NO BM OVEERNIGHT.  OGT TO FEEDING  NO RESIDUALS NOTED.  RATE 30 CC/HR WHICH IS GOAL RATE.  TOL WELL
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE.  GIVEN 20 MG LASIX WITH FAIR RESPONSE.  HOURLY U/O IS 30-40 CC/HR.
+
+SKIN INTACT,  ECEPT FOR SMALL SKIN TEAR ON RIGHT LOWER ARM.    
+",,
+5960,21687,7423,0,3259-08-10 16:16:00 EST,3259-08-10 16:42:00 EST,488,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S/O: SEE CAREVUE FOR OBJECTIVE DATA
+
+CV: PT STABLE AT 8AM, REC'D 100 MG LOPRESSOR. AT 9AM, PT'S SBP DROPPED TO 70'S, DOPA STARTED WITH MAX DOSE 7 MCG, WEANED AFTER PT REC'D 1L NS. HR INC FROM 80'S TO 120'S WITH INC SBP. 
+
+RESP: SATS DOWN WITH SBP, INC TO 100% ON VENT. FI02 DEC TO 80% AT 1700. PT WITH EPISODES OF TACHYPNEA WITH RR IN 30'S AND TV DEC TO 90-180. SEEMS TO BE UNRELATED TO ANXIETY OR POSITION. TO CT ANGIO THIS AM WHICH SHOWED PE AND BILAT PLEURAL EFFUSIONS, PNEUMO STILL PRESENT. SECRETIONS INC TO THICK WHITE OF MODERATE AMOUNT. REQUIRES MORE FREQ SUCTIONING. SATS CURRENTLY 100%. 
+
+ID: AFEB, WBC NL.
+
+GI: TOL TF AT 30CC/HR. BELLY SOFT, NO STOOL.
+
+GU: U/O INC AFTER NS BOLUS. NOW 700C POS TODAY. NS AT 50CC/HR CURRENTLY. 
+
+MS: FOLLOWS COMMANDS, NODDING YES AND NO TO QUESTIONS AT TIMES, OTHER TIMES APPEARS UNRESPONSIVE TO NOXIOUS STIMULI. MOVING RIGHT HAND AND FOOT OFF/ON. PT MOST RESPONSIVE TO FAMILY.
+
+SOCIAL: DAUGHTER AND GRANDAUGHTER IN TO VISIT. PT MADE DNR BECAUSE FAMILY BELIEVES THAT PT HAS GIVEN UP AND DOES NOT WANT TO ""FIGHT"". DAUGHTER [**Name (NI) 1725**] IS DUE TO FLY IN  FROM CA AT 7AM TOMORROW, REPORTEDLY SHE IS VERY ANXIOUS PER GRAND-DAUGHTER.
+
+A/P: RESP STATUS UNSTABLE WITH EPISODE OF HYPOXIA. SBP LABILE, WILL DEC LOPRESSOR DOSE TODAY. PT APPEARS DRY, WILL FOLLOW U/O WITH INC FLUID INTAKE. CONT TO ASSESS MS CAREFULLY, PT MAY BE CHOOSING TO DISREGARD CAREGIVERS AT TIMES.  
+
+ 
+",,
+5960,21687,7423,,3259-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-11**] 1:40 PM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT) PORT                               Clip # [**Clip Number (Radiology) 15808**]
+     Reason: pulmonary embolism documented on CT chest, please evaluate f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD and mental status changes with acute respiratory
+      distress yesterday.
+     REASON FOR THIS EXAMINATION:
+      pulmonary embolism documented on CT chest, please evaluate for lower extremity
+      source
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     BILATERAL LOWER EXTREMITY ULTRASOUND [**3259-8-11**].
+     
+     INDICATION:  87 year old woman with acute respiratory distress.  Documented
+     PE.  Evaluate for DVT.
+     
+     COMPARISON:  CT from [**3259-8-2**].
+     
+     BILATERAL LOWER EXTREMITY ULTRASOUNDS:  [**Doctor Last Name **] scale and color images of both
+     common femoral, superficial femoral and popliteal veins were performed.  There
+     is normal flow, compression and augmentation in each of the aforementioned
+     vessels.  No intraluminal thrombi are identified.
+     
+     IMPRESSION:  Normal lower extremity ultrasound bilaterally.
+     
+
+",,
+5960,21687,7423,,3259-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-11**] 7:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15809**]
+     Reason: 80 yo F intubated for resp failure. Right IJ placed - please
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      80 yo F intubated for resp failure. Right IJ placed - please check line tip.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post catheterization with possible stroke with right
+     internal jugular catheter placement.
+     
+     SINGLE PORTABLE VIEW OF CHEST.  Comparison made with [**3259-8-10**].  The
+     endotracheal tube tip is 3.6 cm above the carina.  There is a right internal
+     jugular catheter with tip in the lower superior vena cava.  A nasogastric tube
+     is present within the stomach and is coiled; its tip appears to be present
+     within the upper stomach.  There are no consolidations, pleural effusions,
+     pneumothorax, or congestive heart failure.  The heart is large.  There is a
+     tortuous calcified thoracic aorta.
+     
+     IMPRESSION:
+     
+     1) No significant change from prior study.
+     
+     2) Coiled nasogastric tube in stomach.  These results were conveyed to Dr.
+     [**Last Name (STitle) 15810**] via telephone.
+
+",,
+5960,21687,7423,0,3259-08-11 05:17:00 EST,3259-08-11 05:30:00 EST,358,"N",1,"Nursing/Other","ALTERED RESPIRATORY STATUS","
+ALTERED RESPIRATORY STATUS
+O: AFEBRILE, VS ESSENTIALLY STABLE; SEE FLOW SHEET SECTION FOR CLINICAL INFORMATION; ON AC TV 600; RR SET 6; PEEP 5; FIO2 REDUCED FROM 100% TO 80%; THEN 60%; SEE SERIAL ABG'S; SUCTIONED FOR SMALL AMOUNTS TAN SPUTUM; RR CONTROLLED ADEQUATELY; RECEIVED 1 MG ATIVAN X 1 FOR TACHYPNEA; A: CONSERVATIVE WEAN FROM VENT IF POSSIBLE; NO ACUTE RESPIRATORY DECOMPENSATION OVERNIGHT. P: REMAIN VENTED- REDUCE FIO2 BASED ON ABG RESULTS.
+",,
+5960,21687,7423,0,3259-08-11 05:30:00 EST,3259-08-11 05:47:00 EST,358,"N",1,"Nursing/Other","ALTERED NEURO STATUS","
+ALTERED NEURO STATUS
+O: SOMNOLENT, BUT AWAKENS TO VOICE REQUESTS; NODDING RESPONSES TO QUESTIONS; MOVING RIGHT HAND UPON REQUEST; WIGGLING RIGHT TOES UPON REQUEST; SLIGHT SELF MOVEMENT IN BED; DID NOT MOVE LEFT LEG UPON REQUEST; DID NOT MOVE LEFT ARM OR HAND UPON REQUEST; PUPILS EQUAL ( APPROX. 2 MM) RESPONSIVE TO LIGHT. A: NO DETERIORATION IN GROSS NEUROLOGICAL FUNCTION OVERNIGHT; AWAKENING SOMEWHAT NOW WITHOUT SEDATION; REMAINS LETHARGIC, SUBDUED. P: FOR CONTINUED NEURO EVALUATION; DNR AS OF [**3259-8-10**]- ATTENDING COSIGN REQUIRED [**3259-8-11**].  
+",,
+5960,21687,7423,0,3259-08-11 13:44:00 EST,3259-08-11 14:13:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+HPI:  Pt admitted for R/I MI, recently dx with Pulm emboli, Pleural effusion, L pneumo.
+
+Neuro:  Pt initially presented with L hemiparesis.  Currently Pt is lethergic but arousable, sedation medication should be witheld.  Pt Opens eyes to voice and follows simple commands.  Pupils PEARL adn sluggish at times.  Pt able to move R arm freely, monitor ET tube and pupousful movement; pt moves R/L lower extremeties tracely, and withdrawls to pain.  Pt grimices to L arm painful stimlui, but unable to move.
+
+Cardiac:  Pt is in controlled AF.  BP Pt is very labile with medication.  Pt can be borderline hypertensive at times, and borderline hypotensive 90's-100's systolic.
+
+Resp:  Pt is intubated AC 6, 600, 5/, 50%.  Pt is having difficulty weaning off vent, FIO2 is decreased slowly and abg done post decrease. Pt has mod amt of thick yellow secretions, may need to be lavaged.  BS coarse, nonproductive cough.
+
+GI:  Pt has NGT placed for tube feed, pt is on Deliver, at goal of 30cc/hr.  Minimal residuals, +BS.  Please OB all BM's.
+
+GU:  Pts urine ouutput is minimal, pt given 40mg lasix with good response.  Pt has f/c, urine decreased to 20cc, urine lytes sent off then lasix given.  
+
+Skin:  Intact
+
+Misc:  PTT theraputic please draw with am labs.  Pt on 1200u/hr.  Dilantin changed to 150mg IV.  Echo and LE doppler study preformed.  Pt given 40 mEq K [**Doctor Last Name 1726**]. 
+
+Code status:  DNR with pressors
+",,
+5960,21687,7423,,3259-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-12**] 10:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15811**]
+     Reason: 87 y/o w/ low grade temp and  intubated c/b small ptx.  R/o 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 y/o w/ low grade temp and  intubated c/b small ptx.  R/o infiltrate and
+      evaluate PTX.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Comparison to prior study from [**3268-8-10**].
+     
+     INDICATION:  Rule out infiltrates and pneumothorax.
+     
+     FINDINGS:  The ET tube is satisfactory in position.  The line tip remains in
+     the distal SVC.  Nasogastric tube courses within the stomach, otherwise the
+     heart is unremarkable.  There is minimal pulmonary shadowing indicating
+     possibly a mild degree of pulmonary edema.
+
+",,
+5960,21687,7423,0,3259-08-12 04:30:00 EST,3259-08-12 04:33:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp Care Note
+Pt remains intubated and vented on settings as charted in carevue. Resp. alkalosis on ABG's, attempted trial on PSV but ^ RR. Sxn for thick yellow secretions. Combivent MDI Q vent check.
+",,
+5960,21687,7423,0,3259-08-12 04:47:00 EST,3259-08-12 05:04:00 EST,411,"N",1,"Nursing/Other",,"
+
+npn 7p-7a:
+ ccu nsg progress note:
+s/o: neuro--no sedation over night, pt opens eyes when name called, is able to squeeze w/r hand when asked, able to wiggle r toes when asked, does not move l side to command, does move l hand & foot to painful stimuli, perla, 3mm bilat, respond briskly, conts on dilantin, iv dilantin started last eve, dilantin level pnd this am
+
+resp--ls w/ronchi throughout, sxn'd q1-2hrs for mod to copious amts of thick tan/blood tinged sputum, conts vented, fio2 dropped to 40%, abg after that change wnl, this am abg w/resp alkalosis, w/ph 7.50, resp in w/pt & attempted different vent changes to help w/resp alkalosis but pt w/increased rr, vent left on a/c 6, tv 600, peep 5, 40%, sats 96-99%, over breathing vent by 7-10 breaths
+
+cardiac--hr conts afib w/rate 85-120's, no ectopy, bp down to 94/50 after meds, up to 142/70 w/stimulation, conts on lopressor 50mg, captopril 6.25mg started, also given 40mg iv lasix w/gd diuresis, 40meq kcl given, conts on hep gtt at 1200u/hr, am ptt pnd, r ij tlcl placed last eve, cxr confirmed placement, l groin line d/c'd, tmax 100po
+
+gi--abd soft, non tender to palpation, (+)bs, no stool, conts on tf's of deliver w/promod, tol tf's w/min residuals noted
+
+gu--foley to gravity, draining yellow cloudy urine, lg amt of urine after lasix, hrly u/o begining to drop off at 6am
+
+access--peripheral lines d/c'd, aline intact, r tlcl intact
+
+a: alt neuro status d/t ?sz
+   alt cv status d/t recent mi
+
+p: monitor/asses mental status, cont dilantin, follow level
+   follow cardiac status, cont rate control/afterload reduction
+   monitor/assess resp status, wean as tol, sxn as indicated
+",,
+5960,21687,7423,0,3259-08-12 05:22:00 EST,3259-08-12 05:26:00 EST,411,"N",1,"Nursing/Other",,"
+
+add: 
+when tlcl placed cvp tranduced, 14 initially, after given 40mg lasix down to 12. ptt this am 53.3, rate increased from 1200u/hr to 1400u/hr per protocol
+",,
+5960,21687,7423,0,3259-08-12 18:04:00 EST,3259-08-12 18:16:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA
+
+RESP: NO VENT CHANGES. SUCTIONING THICK TAN SECRETIONS Q1-2. ABG 103/33/7.49 
+
+CARDIAC: 9:45AM BP DROPPED TO 70/ THIS OCCURRED HALFWAY THROUGH DILANTIN INFUSION,GIVEN 250CC BOLUS AND BRIEFLY ON DOPA. OVER COURSE OF DAY RECEIVED 4 BOLUSES OF 250CC OF NS. CAPTOPRIL ON HOLD. UO HAS IMPROVED THOUGH ONLY 30-38CC/HR, POSITIVE BY ONLY 100CC. 
+
+NEURO: NO SIG CHANGE. ABLE TO SQUEEZE RIGHT HAND AND WIGGLE TOES ON RIGHT FOOT. NO MOVEMENT ON LEFT. OPENS EYES TO COMMAND. FAMILY IN TODAY AND FELT PT TO BE MORE AWAKE.NO SIGNS OF SEIZURE. CONT WITH DILANTIN.
+
+ID: LOW GRADE TEMP TO 100PO,CULTURED THIS AM. WITH WBC'S INCREASING ABX STARTED VANCO AND CEFTAZ.
+
+GI: TF'S AT 30CC/HR. +BS. MINIMAL ASPIRATES
+
+GU: UO NOW 30-38CC/HR,UA AND CULTURE SENT
+
+SOCIAL: DAUGHTER IN AND NURSING SPOKE WITH GRANDDAUGHTER.
+
+
+",,
+5960,21687,7423,0,3259-08-13 03:32:00 EST,3259-08-13 03:45:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  TM 99.9po.  
+HR 92-113 AF with rare to occas PVC.  BP 90's-100/50 when asleep, up to 140-150/70.  heparin increased to 1400u/hr.  PTT 62.  
+pt. much for alert and awake in eve.  opening eyes, asked to blink eyes in responce to questions and was able to do so approp.  moving right arm and leg to command and on own.  no movememt of left side.  BP much higher when awake.  during this awake time, changed to pressure support vent. of 16/40%. tolerated very well RR 12-16, Tv 400-500.  ABG 7.47/32/84.  PSV decreased to 13 during night and also tol. well.  last ABG 7.45/38/93.  sats 98-99%.  RR 20-27, Tv 370-450.  continuing to req. freq. suction of thick tan secretions. course BS throughout.  
+- u/o only 20-30/hr. despite higher BP's.  given 250cc fluid bolus without any inc. in u/o.  HO aware and will hold off any further Rx. 
+
+- TF at 30/hr.  no stool.  given colace.  
+A:  improved MS, able to change to PSV
+P:  follow u/o, VS, neuro status for change.  follow ABG's on continuing vent wean today.  continue to hold sedation.  continue TF.  
+",,
+5960,21687,7423,0,3259-08-13 05:03:00 EST,3259-08-13 05:06:00 EST,296,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support, changed from A/C to psv down to +13 fio2 .4 and +5 peep maintaining Vt 3-500 ml with Ve 5-7 L, good abg; Bs coarse, sxn copious thick tan secretions, rx with combivent q4, see carevue for details.
+",,
+5960,21687,7423,0,3259-08-13 16:55:00 EST,3259-08-13 17:11:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CARDIAC/VOLUME STATUS: UO THIS AM DECREASED TO 15-20CC/HR,BP 124/60. GIVEN 20MG IV LASIX-UO 260 THEN 200/HR. BP THEN DROPPED TO 81/40 WITH MAPS 54. THEN GIVEN 250CC NS BOLUS. BP NOW 108-119/73-82  UO NOW 60CC/HR. FLUID BALANCE NOW +260  K 3.4 NOW RECEIVING 40KCL TO RECEIVE ANOTHER 40.
+
+RESP: TOLERATED PS OF 10 FOR 5HRS AFTER WHICH RR INCREASED TO30 AND TV DECREASED TO 290. CONT TO SUCTION THICK TAN SECRETIONS Q1-2 ALL DAY. A NEW SPUTUM SPEC SENT.
+
+ID: AFEBRILE. VANCO D/CED AND CEFTAZ CONTINUES.
+
+NEURO: MUCH MORE ALERT NODDING HEADING,ATTEMPTING TO SPEAK. TODAY ABLE TO MOVE RIGHT HAND,LEG AND THE LEFT LEG A LITTLE. PUPILS EQUAL AND REACTIVE. DILANTIN CONTINUES.
+
+GI: TF'S CONTINUE AT 30/HR. PASSING FLATUS THOUGH NO STOOL. LACTULOSE HAS BEEN ADDED.
+
+HEME: HEPARIN AT 1200U WITH MOST RECENT PTT 58.5.
+
+SOCIAL: TWO DAUGHTERS IN TODAY AS WELL AS GRANDDAUGHTER.
+
+A: SECRETIONS REMAIN AN ISSUE
+   MENTAL STATUS CONTINUES TO IMPROVE
+   PSV WEAN TOLERATED WELL
+   VOLUME STATUS CONT TO BE AN ISSUE
+
+P: CONT WITH PULMONARY SUPPORT
+   ATTEMPT TO CONT PSV WEAN TOMORROW
+",,
+5960,21687,7423,0,3259-08-14 04:03:00 EST,3259-08-14 04:16:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  98.4-98.8po.  HR 84-90AF.  no VEA.  BP low 83/39 when very relaxed up to 133/53 when agitated during suctioning/care, but mostly 90's-117/40's.  captopril was held for low BP then given at 0600.  
+heparin at 1200u/hr.  
+- u/o 30-50/hr.  (+) 400cc 12am and (+) 400cc [**Location 1727**] began shift on PSV 13/.40->  RR 13-24, Tv 350-450.  stats 99% .  freq. coughing, requiring suctioning q1-2hours for thin frothy to thick tan secretions.  ~ 0200, pt. not able to settle down , RR up to 30's, Tv down to 200's.  PSV increased to 16 with improved Tv.  
+- ABG on PS13:  7.46/39/90.  
+LS course throughout.  
+
+GI:  dulcolax 10mg per OGT given and started having liquid stool in late eve.  brown, liquid to loose.  rectal bag appliance placed and intact.  continues to have loose stool.  guiac (-).  
+- deliver at 30cc (goal) .  no residuals.  
+
+no skin issues.  potential for breakdown with diahrea and bedrest.
+
+neuro:  responding to name.  opens eyes and nods/shakes head approp to questions.  trying to mouth words.  no siezure activity noted.  on dilantin IV.  moving right side purposefully.  moving left leg some.  left arm flacid.  
+
+A:  required inc. in pressure support overnight.  sats good.
+   new diahrea.
+    no neuro changes
+P:  wean PSV today again.  follow u/o, fluid status.  follow stool.  
+",,
+5960,21687,7423,0,3259-08-14 04:18:00 EST,3259-08-14 04:25:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on current settings CPAP 5 PV 13 40% with TV 400 range and RR 16-22. Episode of ^ RR and decreased TV to 200's with Pt requiring ^ PSV level to 16 to resolve. Returned to PSV 13. Cont to require freq. sxn for thick yellowish secretions. Combivent MDI Q vent check. Cont PSV wean as tolerated.
+",,
+5960,21687,7423,0,3259-08-14 17:16:00 EST,3259-08-14 17:34:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+HPI:  Pt is an 87 y.o female admitted for an LAD and RAC lesion, pt not a canidate for intervention, pt heparinized.  Pt developed small PE's and bilateral pulmonary effusions adn small R cortical ans subcorical CVA.
+
+Neuro:  Pt alert and oriented, Pt opens eyes spont.  Pt moves R arm well, LE tracely and does not move L arm at all.  Pt able to feel in all extremeties.  Pts pupils are PEARL.
+
+Cardiac:  Pt in controlled AF, captopril and Lopressor held in am due to BP.  Pt's BP varies from 70's at times of deep rest and 110's at times of extreme alertness.  Pt's MAP is between 60 and 70.  Pt recieved 250cc bolus x2 for low BP and decreased urine output.  Pts alertness much improved with increased BP.  Pt marjonally responded to the bolus's.
+
+Resp:  Pt is on CPAP .4% 5/11.  Pt's PS decreased from 13.  pt's TV's decrease from 400's to 250's intermittently with decrease of PS.  Pt may need to be increased to 13 again.  Pt's BS are rhochours and sxn moderate amt of thick frothy white sputum.  Much improved from prior.  ET tube rotated.  Pt failed wening perameters will try again tomorrow, [**8-15**].  ABG drawn on PS of 11.
+
+GI:  Pt is on tubefeeds at goal of 30 tolerating well.  Pt has fecal bag of loose golden stool.
+
+GU:  pt has f/c with poor urine output team notified multiple times.  Pt given the total of 500cc bolus of NS. Wtih no real effect.
+
+Misc:  Pt has L rad [**Doctor Last Name **].  Rt IJ TL, with Heparin at 1200 u/hr, pt 's PTT theraputic, PTT in am with labs.
+
+
+",,
+5960,21687,7423,,3259-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-15**] 3:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15813**]
+     Reason: check swan placement and r/o ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      check swan placement and r/o ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Swan-Ganz catheter placement.  Comparison is made to
+     previous study from earlier the same day.
+     
+     A Swan-Ganz catheter has been placed in the interval and terminates in the
+     distal right pulmonary artery.  No pneumothorax is identified.  An
+     endotracheal tube is in satisfactory position.  A nasogastric tube remains
+     coiled in the stomach with distal tip directed cephalad.
+     
+     The heart is enlarged.  The pulmonary vascularity is not engorged.  There is
+     persistent increased opacity at the right base likely due to a combination of
+     pleural fluid and atelectasis.  There is a small left pleural effusion
+     present.
+     
+     IMIPRESSION: 1) Swan-Ganz catheter terminates in the distal right pulmonary
+     artery with no evidence of pneumothorax.  2) Small bilateral pleural effusions
+     and probable basilar atelectasis.  3) Cardiac enlargement without evidence of
+     congestive heart failure.
+
+",,
+5960,21687,7423,,3259-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-15**] 8:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15812**]
+     Reason: EVALUATE FOR PULMONARY EDEMA AND EFFUSIONS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      EVALUATE FOR PULMONARY EDEMA AND EFFUSIONS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**3259-8-15**].
+     
+     HISTORY:  87 year old woman with elevated inspiratory pressure, difficult to
+     ventilate status post cardiac catheterization.
+     
+     Comparison to prior study from [**3259-8-12**].
+     
+     PORTABLE CHEST:  The endotracheal tube is in a somewhat low position,
+     terminating approximately 1 cm above the carina.  The right IJ line terminates
+     in the lower SVC.  The nasogastric tube is coiled in the stomach with the tip
+     in the fundus.  Heart size is slightly enlarged, stable.  Thoracic aorta is
+     calcified and unfolded.  Pulmonary vasculature appears normal.  Slight hazy
+     opacity over the left base likely due to overlying soft tissues, though small
+     effusion cannot be excluded.
+     
+     IMPRESSION:
+     1.  Endotracheal tube terminates in a low position and repositioning is
+     recommended.
+     2.  No evidence of pulmonary edema.  Question of small left-sided pleural
+     effusion versus overlying soft tissue structures accounting for hazy increased
+     opacity at the left base.
+     
+
+",,
+5960,21687,7423,0,3259-08-15 03:58:00 EST,3259-08-15 04:08:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  TM 98.5po.  
+HR 78-81 AF.  BP 106-125/50's.  heparin at 1200u/hr
+u/o only 5cc/hr x2hr.  given 500cc  IVB followed by 100cc u/o responce.  since then , u/o 20-30cc/hr.  no further action taken per team.  
+- started on PS 11/5peep but tiring by 2300 with Tv only 200's and RR up to 30.  pt. appearing uncomf. , awake, restless.  PS increased to 16 with improvement.  able to [**Doctor Last Name 5**] for a few hours, Tv improved greatly and RR 12-20.  suctioning mod to large amts of thin/thick white secretions.  LS course throughout.
+
+- TF at goal 30cc/hr.  no residuals.  small amt. of loose stool in rectal bag.  
+
+- trying to mouth words and nods approp. when spoken to.  moving right hand up toward mouth-> restrained.  
+A:  minimal responce to 500cc bolus
+    ? need for sedation at night for better rest.  
+P:  continue wean today with lower PS.  follow plan for fluid management.  
+",,
+5960,21687,7423,0,3259-08-15 17:22:00 EST,3259-08-15 17:36:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN:PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CARDIAC: SWANNED THIS AFTERNOON. RECENTLY PULLED BACK TO 58.NUMBERS SENT AT 6PM. PT HAD DIURESED 380CC TO 10MG LASIX AT 4:30PM. SWAN DOES NOT WEDGE NOW. CVP 14 PA 43/19. HR HAS BEEN 58-76 AFIB. LOPRESSOR IS NOW BEING HELD AND CONTINUING WITH CAPTOPRIL. 40 IV KCL BEING INFUSED,NEW SET OF LYTES SENT AT 6PM. BP 96-140/48-72.
+
+RESP: NP VENT CHANGES. SUCTIONING THIN TP THICK WHITE TO YELLOW SECRETIONS Q1-3. SECRETIONS HAVE DECREASED.
+
+ID: AFEBRILE,ON LEVOQUIN.
+
+GI: TF'S HAVE BEEN CHANGED TO RESPALAR WITH PROMOD STARTED AT 6:30 AT 30CC/HR TO INCREASE TO GOAL OF 50CC. ABD SOFT AND NON TENDER WITH POSITIVE BS. 
+
+GU: GIVEN LASIX 10MG IV X2 CURRENTLY NEGATIVE BY 180CC.
+
+NEURO: NO NEW CHANGES,LEFT SIDE ONLY TOES HAVE WIGGLED,NO MOVEMENT OF LEFT ARM. VERY INTERACTIVE ESP WITH FAMILY.
+
+HEME: HEPARIN OFF FOR SWAN INSERTION,JUST RESTARTED AROUND 5PM.
+",,
+5960,21687,7423,,3259-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-16**] 10:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15814**]
+     Reason: 87 yo woman with recent MI, CHF, recently positioned PA cath
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 yo woman with recent MI, CHF, recently positioned PA catheter. Please
+      evaluate position.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST: Compared to 1 day earlier.
+     
+     INDICATION: Assess pulmonary artery catheter position.
+     
+     A Swan-Ganz catheter is in satisfactory position within the right main
+     pulmonary artery. An ETT is in satisfactory position and NG tube is coiled
+     within the stomach with distal tip directed cephalad.
+     
+     The heart remains enlarged. The pulmonary vascularity is within normal limits
+     for portable technique. There is a persistent small left pleural effusion.
+     Increased opacities observed at the left retrocardiac area. There is minimal
+     opacity at the right base which appears improved.
+     
+     IMPRESSION: 1) Satisfactory placement of Swan-Ganz catheter. 2) Persistent
+     left pleural effusion and adjacent lung opacity that likely reflects
+     atelectasis. 3) Improving patchy right lower lobe opacity.
+
+",,
+5960,21687,7423,0,3259-08-16 02:59:00 EST,3259-08-16 03:05:00 EST,785,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Airway remains patent/secure.  B/S course throughout with slightly prolonged expiratory phase.  ETS for moderate amount of thick, yellow/tan secretions.  MDI's administered post SXN with good effect.  Pt. remain on ABX for pulmonary process.  ABG's well oxygenated with a respiratory alkalosis>>weaned PS level with good effect.  Pt. appears to maintaining FRC, and not losing VT's.  Per D/W team, will continue aggressive pulmonary hygiene.
+",,
+5960,21687,7423,0,3259-08-16 05:37:00 EST,3259-08-16 05:57:00 EST,284,"N",1,"Nursing/Other","PROGRESS NOTE  7P-7A","
+PROGRESS NOTE  7P-7A
+NEURO:  OPENS EYES TO VOICE.  FOLLOWING SIMPLE COMMANDS.  MOVING LEGS ON BED.  MOVING RIGHT ARM NORMALLY.  NO MOVEMENT OF LEFT ARM.  WIGGLES TOES BILAT.  NODS APPROPRIATELY TO QUESTIONS.  GIVEN ATIVAN 1 MG THIS AM FOR SLIGHT AGITATION AND HIGH RESP RATE.  WITH FAIR EFFECT.  
+
+CV:  HR 75 SR NO VEA NOTED.  BP STABLE.  SEE FLOWSHEET FOR OBJECTIVE DATA.  
+
+RESP:  ON CPAP + PS 16 FIO2 40%  PEEP 5.  STABLE ON THESE SETTINGS UNTIL THIS AM.  RR 30'S. TV 150-210.  GIVEN ATIVAN WITH FAIR EFFECT.  PS INCREASED TO 16 WITH GOOD EFFECT.  RESP RATE DOWN TO 16-20.  TV 400.  NOW MORE COMFORTABLE.  SUCTIONING FOR THICK YELLOW SPUTUM Q 2-3 HRS.  
+
+GI:  FIB INTACT.   SMALL AMT OF LIQ. BROWN STOOL DRAINING.  TOL. TF WELL. NO RESIDUALS.  RATE AT 40 CC/HR.  GOAL 50 CC/HR.
+
+GU;  FOLEY INTACT.  DRAINING CLEAR URINE.  GIVEN 10 MG IV LASIX WITH FAIR EFFECT.  
+
+STABLE NOC.  SPOKE WITH GRANDDAUGHTER THIS AM.
+
+",,
+5960,21687,7423,0,3259-08-16 16:56:00 EST,3259-08-16 17:09:00 EST,667,"N",1,"Nursing/Other","CCU NSG PROG NOTE"" AM'S","
+CCU NSG PROG NOTE"" AM'S
+Remains intubated w/ Swan Ganz catheter. Labile b/p. Tolerating PSV wean.
+
+ROS:
+
+CARDIAC: B/P drop to 70/ 2hrs post lopressor dose. REcovered spontaneously w/ stimulation and trendelenberg. U.O. also dropped off at same time. Lopressor dose decreased. Dropped b/p to 80 1.5hrs post captopril dose. REsolved w/ trendelenberg and stimulation after minute. Otherwise, b/p 92-120/45-60 today. Hr 64-78AF. No vea.Awan Catheter in place, requiring several manipulations by house staff for tip floating into wedge. currently excellent tracing w/ easy wedge w/ 1-1.2 cc air. Swan catheter was leaking serous fluid earlier today, but none since repositioning.
+
+FLUID/ELeCT: lasix gtt began 2mg/hr cont. w/ u.o. 120cc-130cc/hr. Tolerates well. Pa 42/17, pcw 12-14, cvp 12 (post several hours of lasix gtt). 
+
+GI: tolerating TF, scant stool.
+
+RESP: on 40%, PSV 12cm, 5cm peep w/ rr 20, vt 300-500. She has moments of tackynpea that resolve spont. after less than 30 seconds. REquiring sx q1-2hrs for thick tan secretions. Often requires bagging and lavage to raise secretions. Good aeration, clear b.s. Has basiliar atelectasis. ABG: 102/44/7.44/31/4
+
+NEURO: Pearl. Easily awakens and nods head appropriately to simple questions. Seems comfortable most of time. Is asleep when not stimulated. Last sedation during noc. No movement L arm. 
+
+SOCIAL: Family in to visit and spoke w/ physicians.
+
+ASSESS: stable, sensitive to lopressor and captopril. Improving volume status. Tolerating wean well.
+
+PLAN: to return to A/C mode during night to rest and to allow for alveolar recruitment.
+
+Discuss goals for diuresis tonight.
+
+Hold sedation.
+
+
+
+
+",,
+5960,21687,7423,,3259-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-17**] 2:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15815**]
+     Reason: 87 yo f with intubated for resp failure - PA catheter remove
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.  Had
+      elevated inspiratory pressures on vent now with SQ emphysema, ventilating both
+      lungs.
+     REASON FOR THIS EXAMINATION:
+      87 yo f with intubated for resp failure - PA catheter removed and triple lumen
+      placed through cordis. Pls check ETT placement and line tip positioning. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Patient intubated for respiratory failure.
+     
+     CHEST: The heart remains enlarged. The Swan-Ganz catheter has been removed. A
+     new IJ line has been placed. It is difficult to establish exactly where the
+     tip is but probably lies in the mid SVC. The ETT lies approximately 1 cm from
+     the carinal angle. The lung fields remain relatively clear.
+     
+     IMPRESSION: Tip of new line lies in SVC. No pneumothorax.
+
+",,
+5960,21687,7423,0,3259-08-17 04:35:00 EST,3259-08-17 04:40:00 EST,419,"N",1,"Nursing/Other",,"
+
+Respiratory Care Note
+Remains intubated and ventilated. Placed on a/c overnight to rest, but she had copious amount so of thick white sputum,suctioned <q1hrs. Turned back to pressure support at 5.30 am, required increase up to 15 of psv in order to maintain tidal volumes. 
+",,
+5960,21687,7423,0,3259-08-17 05:48:00 EST,3259-08-17 06:18:00 EST,284,"N",1,"Nursing/Other","CCU PROGRESS NOTE 7P-7A","
+CCU PROGRESS NOTE 7P-7A
+NEURO:  FOLLOWING SIMPLE COMMANDS.  MOVING RIGHT ARM WELL.  NO MOVEMENT OF LEFT ARM.  MOVES LOWER EXTREMITIES ON BED.  NODDING APPROPRIATELY.  OPENS EYES SPONTANEOUSLY.  GIVEN 0.5 MG ATIVAN IV FOR AGITATION WITH GOOD EFFECT.  AWAKE NOW.  
+
+CV:  BP STABLE TOL CAPTOPRIL AND LOPRESSOR WELL.  HR 70'S NO VEA NOTED IN A-FIB.  DENIES CHEST PAIN. SEE FLOWSHEET FOR HEMODYNAMICS. 
+
+RESP:  RESTED ON AC 600X10.  TOL FAIRLY WELL OVERNIGHT.  SUCTIONING FOR THICK WHITE SPUTUM Q1-2 HR.  COPIOUS ORAL SECRETIONS.  OO2 SATS 98-100%.  NOW ON CPAP+ PS 15 PEEP 5.  FIO2 40%.  LUNGS CLEAR.  ABG'S PENDING.
+
+GI;  ON RESPALOR W/ PROMOD AT 50 CC/HR.  AT GOAL RATE.  TOL. TF WELL WITH NO RESIDUALS.  FIB IN PLACE.  SMALL AMTS OF STOOL.  
+
+GU:  REMAINS ON LASIX GTT 2MG/HR.  U/O GOOD  SEE FLOWSHEET FOR DATA. 
+URINE CLEAR YELLOW.  
+
+SKIN;  INTACT, NO BREAKDOWN.
+
+
+",,
+5960,21687,7423,0,3259-08-17 17:14:00 EST,3259-08-17 17:22:00 EST,667,"N",1,"Nursing/Other","CCU NSG PROG NOTE:","
+CCU NSG PROG NOTE:
+Remains stable , tolerating weaning, to re-evaluate for extubation in am.
+
+ROS:
+
+CARDIAC: Swan d/c'd. B/P stable 90- 116/, hr 60-70 af no vea. Remains on lasix gtt @ 2mg/hr w/ good diuresis (90-120cc/hr). Replacing k+and mg. remains on heparin gtt.
+
+RESP: tolerated psv 7cm/5cm peep w/ abg: 102/44/7.44/31/4. Mod. amnt sticky white secretions. Good cough. rr 20's, vt 250-300 . REturned to increased psv to rest overnight.
+
+GI: restarted TF 50cc/hr. tol well.
+
+NEURO: awake, interactive, mouths few words, follows commands consistently, R arm nl strengh, moves R leg, moves L leg , No movement L arm but has sensation. 
+
+Skin: intact
+
+Assess: stable.
+
+PLAN: is still looks good, extubate. OOB to chair.
+
+
+
+",,
+5960,21687,7423,0,3259-08-18 04:38:00 EST,3259-08-18 04:40:00 EST,419,"N",1,"Nursing/Other",,"
+
+Respiratory Care Note
+Remained overnight on pressure support 15/ 5 of cpap/ 40%Fio2, appeared comfortable and slept much of night. Suctioned for mod. amounts of thick white sputum, given Combivent inhaler q 4 hours. Plan is to wean and hopefully extubate later today.
+",,
+5960,21687,7423,0,3259-08-18 04:43:00 EST,3259-08-18 04:59:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro:  Pt is alert and follows all commands.  Pt is anxious, pt given 10 mg serax at 2200, Pt seemed to have a restfule night, however when asked pt denied.  Pt moves RUE well, tracely moves Bilat LE, adn does not move LUE at all, pt has sensation in all 4 extremeties.
+
+Cardiac:  Pt is in controlled AF, rate 60's-80's.  Pts BP systolic ranges from 100's to 120's.
+
+Resp:  Pt remains intubated, pt currently on CPAP, .4%, [**4-15**].  Pt rested on 15 of PS overnight. Pt due to be extubated today between 8-9am.  Pt will need weining parameters/ mechanics in am.  Plan to decrease PS to 7 prior to extubation.  ABG drawn in Am.  Pts BS are ronchorus thriughout.  Pt has thick white  secretions.  Pt has a productive cough.  If pt is unable to be extubated please rotate ET tube.  
+
+GI:  Pt NPO since 0200, for extubation.  Pt previously at goal of 50cc/hr tolerating well. -BM, +BS
+
+GU:  Pt on a lasix gtt at 2mg/hr, another bag in fridge.  Pt had good urine output via f/c
+
+Skin: Intact, pt has air boots on LE
+
+Code status:  Pt is DNR with pressors, however if pt extubated and does not tolerate, pt will not be reintubated, but bipap or CPAP may be an option.
+
+Misc:  Pt on heparin gtt at 1100u/hr.  Pts last PTT theraputic at 2000, making it theraputic x2, am PTT drawn at 0530, unknown results.
+
+Psycho/social:  Grandaughter called, will be there for extubation.
+
+",,
+5960,21687,7423,0,3259-08-18 15:56:00 EST,3259-08-18 16:05:00 EST,40,"N",1,"Nursing/Other","CCU NPPN","
+CCU NPPN
+PLEASE SEEE CAREVUE FOR ALL OBJECTIVE DATA
+
+PT EXTUBATED AT NOON W/O DIFFICULTY. GOOD COUGH PRODUCTIVE FOR MOD AMTS WHITE SPUTUM. CURRENTLY ON 40% COOL NEB W/ SATS 99%. RR 28-33.
+
+HEMODYNAMICALLY STABLE, STARTED ON NTG 20 MCG/MIN WHEN EXTUBATED, BP 115-150/60-80.  HR 70'S A FIB. HEPARIN CONTINUES AT 1100U/HR. 
+
+DIURESING WELL W/ LASIX GTT. DECREASED FROM 4MG/HR->2MG/MIN. CURRENTLY ~ 1500CCNEG, W/ GOAL BEING - 1L.
+
+HAS NOT EATEN SINCE EXTUBATION.
+
+AFEBRILE.
+
+ALERT, BUT VERY DROWSEY, SLEEPING ON/OFF MOST OF AFTERNOON.
+
+FAMILY IN MOST OF DAY.
+
+PT CONSULTED, WILL BEGIN TO SEE PT [**8-19**]. 
+",,
+5960,21687,7423,0,3259-08-19 02:47:00 EST,3259-08-19 03:09:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro:  Pt is Alert and oriented x2, pt follows commands, adn verbally responds appropriately.  Pt, during coarse of hosp stay, had a small CVA, deficates from that are, an inability to move L are, pt has sensation.  Pt moves R arm well, and tracely moves her lower extremeties bilaterally. Pt has sensation in all extremeties.
+
+Cardiac:  Pt has hx of AF, pt in controlled AF rate in the 70's and 80's,  BP in 110's to low 130's systolic.  Pt is on 20mcg NTG to decrease preload, will most likely be dc'd on day of 9/18.  Pt is on 1100u/hr of heparin to prevent further clotting of small PE's and RCA/LAD occlusion.  Pt PTT theraputic, am PTT will be drawn.  Pt had doppler of lower extremeties many days ago, neg for DVT.  CCU team wants pt -1500cc for [**8-18**], plan may have changed for [**8-19**]?  Pt was neg about 1650.  To help facilitate volume status pt is on Lasix drip, currently at 1mg/hr, .5cc/hr.
+
+Resp:  Pt extubated on [**8-18**], tolerating well.  Pt is on .4% cool neb.  O2 sat in high 90's.  If pt removes mask O2 sats drop to low 90's.  Pts BS are decreased in the bases and coarse/ronchorus throughout.  Pt has a productive cough of thick pale yellow secretions, able to expectorate, but needs encouragement with suctioning.
+
+GI:  Pt placed on clr liquid diet, however has not eaten anything.  Pt can be advanced to cardiac diet if tolerated.  Pt able to swallow liquids, I con't to crush meds.  Pt has hypoactive BS, pt had very small formed BM on [**8-18**], fecal bag removed.
+
+GU:  Pt has f/c, on lasix drip.  When drip decreased to 1mg.hr urine output decreased to 40-45 cc/hr.  May need to be increased again to mailtain fluid status goal.  Pts urine is yellow and slightly cloudly.
+
+Skin:  Intact, where fecal bag was is slightly red.
+
+Misc:  Since pt was changed form po dilantin to IV dilantin, pt has been sub theraputic, pt does have a seizure hx.  I have noticed that when I hang the dilantin as a piggyback often the filter is clogged, causing the dilantin not to run properly, therefore pt not getting dose.  This has happened twice for me, but noticed it shortly after hanging the bottle.  I suspect that this has happened for others aswell, causing pts level to be decreasing and greatly subtheraputic.  Please make a mental note.  Thanks
+",,
+5960,21687,7423,0,3259-08-19 04:45:00 EST,3259-08-19 04:49:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note addendum","
+CCU Nursing Progress Note addendum
+Pts Lasix increased to 2mg/hr at 0500.  Pt becoming increasingly tachyapenic, with RR reaching in th high 40's pts ABG indicates an compensated resp acidosis.  Pt may need to be NT suctioned.  MD notified about RR in the 40's.  K may need to be replaced.
+",,
+5960,21687,7423,0,3259-08-19 16:29:00 EST,3259-08-19 16:41:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+NEURO: PT AWAKE, ALERT, NODDING APPROPRIATELY, SAYING A FEW WORDS. CAN MOVE R ARM AND LEG, BUT IS WEAK, L ARM FLACCID, CAN MOVE L LEG SLIGHTLY. 
+CV: REMAINS HEMODYNAMICALLY STABLE W/ BP 100-140/50-70, HR 70-80'S A FIB. REMAINS ON HEPARIN AT 1100U/HR W/ THERAPUTIC PTT. NTG D/C.
+RESP: LUNGS W/ COARSE BS, 4LNP W/ SATS 96-99%. COUGH PRODUCTIVE FOR YELLOW, WHITE SPUTUM. 
+GU: LASIX GTTD/C AND STARTED ON PO LASIX 20MG QD. FOLEY DRAINING CL YELLOW URINE, CURRENTLY ~ 300CC NEG.
+GI: TAKING SM AMTS SOFT FOODS W/O DIFFICULTY. SM BRN BM.
+ID: AFEBRILE
+SKIN: INTACT
+ACCESS: PT PULLED RIJ OUT THIS AM. 2 #18 PERIFERALS PLACED. LRA INTACT.
+ACTIVITY: SEEN BY PT, OOB TO CHAIR W/ 2 ASSISTS FOR ~1.5HR. TOLERATED WELL.
+DISPO: FAMILY MET W/ CASE MANAGER [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RE: REHAB OPTIONS.
+ 
+
+",,
+5960,21687,7423,,3259-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-20**] 8:59 AM
+     CHEST (PRE-OP AP ONLY) PORT                                     Clip # [**Clip Number (Radiology) 15816**]
+     Reason: Increasing plural effusion by exam, please evaluate.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.
+     REASON FOR THIS EXAMINATION:
+      Increasing plural effusion by exam, please evaluate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increasing crackles on physical exam with shortness of breath.
+     Evaluate effusions.
+     
+     COMPARISONS:  AP portable radiograph of the chest dated [**3259-8-17**].
+     
+     FINDINGS:  The heart, hilar and mediastinal contours are unchanged.  Bilateral
+     pleural effusions are noted the left side greater than the right.  There is
+     mild upper zone pulmonary vascular redistribution.  A thoracolumbar scoliosis
+     is noted.
+     
+     IMPRESSION:  Increasing bilateral pleural effusions, left greater than right.
+
+",,
+5960,21687,7423,0,3259-08-20 04:20:00 EST,3259-08-20 04:34:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" my daughter...coming...in""
+O:  pt. having some difficulty speaking, unclear if there is some aphasia from CVA.  very approp. with following commands and responding to questions.  speach thick, slightly garbled.  speaking better toward morning, putting together sentences.  
+moving right arm freely.  left arm flacid.  does not move around in bed alot.
+awake alot of night.  more comfortable on right side.  
+HR 80's AF.  BP 130's/  heparin at 1100u/hr.  AM labs pnd at 0600.
+u/o dropping off to 12-25cc/hr in eve.  given lasix 20mg po (order for BID) and u/o increasing to 40-50/hr through night.  
+
+LS course.  congested cough and able to bring small amts of white secretions to front of mouth when encouraged.  sats 95-98% on 4lNc.  
+
+taking pills not crushed in pudding at first.  able to take sips of water from cup and swallow pill well . 
+
+one small stool, soft brown, guiac neg.
+
+A:  decreased u/o off lasix gtt.  now on po BID
+    aphasia d/t CVA.  improvement seen through night.
+P:  OOB again today.  follow PTT, lytes.  follow plan for fluid status.  ? swallow study.  appears to take fluids well.  enc. cough and deep breathing, 
+",,
+5960,21687,7423,0,3259-08-20 09:41:00 EST,3259-08-20 09:44:00 EST,663,"N",1,"Nursing/Other",,"
+
+PT/RSD
+S: Nodding yes/no, laughing and smiling appropriately
+O: Pt seen to address goals set [**8-19**] at initial evaluation
+rx: Therapeutic exercises in supine bilateral upper and lower extremities.  Pt stand pivot transfered to chair with assist of 2.  Pt left up in sitting with RN present.
+A: Pt well below baseline mobility status, per daughter pt was ambulating prior to admission.
+P: Continue to follow 
+Pager #[**Pager number 1468**]
+Time Frame: 10:15-10:45am
+",,
+5960,21687,7423,0,3259-08-20 16:31:00 EST,3259-08-20 16:38:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Resp. care note:
+    Pt given albuterol/atrovent nebs x2.  Breath sounds are coarse crackles and decreased in left lower lobe.  Pt's resp rate has been 32-40.  Sats 96-100% on 4lpm nc.  No significant change with neb treatments.  For durther information please refer to carevue charting.
+",,
+5960,21687,7423,0,3259-08-20 18:06:00 EST,3259-08-20 18:11:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+NEURO: ALERT, ORIENTED X2-3, MOVEMENT AND STRENGTH IN EXTRERMETIES UNCHANGED. SPEECH CONTINUES TO BE DIFFICULT TO UNDERSTAND, SEEN BY SPEECH SPECIALIST.
+CV: HEMODYNAMICALLY STABLE W/ HR 80'S AF, BP 95-120/60-70. HEPARIN OFF 10AM -5PM D/T? PLEURAL TAP. RESTARTED 5PM AT 11OOU/HR. LISINIPRIL ^ TO 7.5MG QD. 
+RESP: ^CRACKLES AND WHEEZING. LASIX CHANGED TO 20MG IV Q8HR, BUT POOR RESPONSE TO 1ST DOSE AND ADDITIONAL 40MG GIVEN AT 5PM W/ 120CC OUT NEXT HR. ONLY ~200CC NEG AT 6PM.
+GI: APPITITE IMPROVED. TAKING FLUIDS AND SOLIDS W/O DIFFICULTY,M NEEDS TO BE FED D/T GENERAIZED WEAKNESS.
+GU: FOLEY DRAINING CL YEL URINE,. 
+ID: AFEBRILE.
+ACTIVITY: OOB TO CHAIR W/ 3 ASSISTS, SEEN BY PT.
+SOCIAL DAUGHTERS IN [**Name2 (NI) 1728**] OF DAY.
+",,
+5960,21687,7423,,3259-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-21**] 9:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15817**]
+     Reason: Please help evaluate left sided pleural effusion.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, s/p cath with possible stroke/seizure.
+     REASON FOR THIS EXAMINATION:
+      Please help evaluate left sided pleural effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**3259-8-21**].
+     
+     HISTORY:  87 year old woman status cardiac catheterization with possible
+     stroke and left-sided pleural effusion for follow-up.
+     
+     Comparison to prior study from [**3259-8-20**].
+     
+     PORTABLE CHEST:  Heart size is difficult to evaluate due to patient rotation
+     but appears stable.  Thoracic aorta is calcified.  Again noted is a small-to-
+     moderate left-sided pleural effusion, stable.  The right-sided pleural
+     effusion is less well seen on the current study.  There is a marked
+     thoracolumbar scoliosis.
+     
+     IMPRESSION:  Persistent small-to-moderate left-sided pleural effusion, not
+     significantly changed from prior study.  The right-sided pleural effusion is
+     less well seen on the current study.
+     
+
+",,
+5960,21687,7423,0,3259-08-21 04:16:00 EST,3259-08-21 04:44:00 EST,330,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+O:  87 yo female s/p MI requiring intubation, c/b cortical infarct.  now extubated, medical management.
+
+PMH:  Afib, siezure disorder, CHF, HTN, thorasic decending AA.
+
+allergic to phenergen
+
+Pt. had nausea x2-3 days and went to OSH with chest pain.  EKG with ST elevations inf. and sent to [**Hospital1 22**] for cath.  CK peak 254/19.  cath ([**8-7**]) showing LAD and RCA disease.  no intervention, med. management.  transferred to floor.  She was found unresponsive requiring intubation.  head CT neg. for bleed.  head MRI/MRA also negative.  dopa weaned [**8-11**].  made DNR.  neuro consult to eval continuing neuro changes found EEG showing slowing c/w encephaopathy.  Dx with left cortical/subcortical infarct.  
+
+- pt. weaned and extubated [**8-18**].  currently on 4lnc.  sats 95-97%.  congested cough, occas. prod. for thin secretions.  started on nebs for wheezing [**8-20**] with improvement.  
+- difficult fluid balance management during CCU course requiring IVF boluses for low u/o followed by need for diuresis.  on lasix gtt [**3175-8-16**] with good diuresis.  changed to po but with poor responce and with increase CHF.  lasix 40mg IV [**8-20**] with good responce.  given 40mg at 2200 and 0300-> neg. 300cc at 12am and currently (-) 1.3liters.  
+
+- heparin at 1100u/hr.  PTT 63.  started coumadin [**8-20**] 5mgpo.
+-HR 70-80's AFIB.  no VEA.  BP 1teens-120's/40-50's.  captopril changed to zestril [**8-18**] and currently on 7.5mg.  also on lopressor po.
+
+- neuro:  left side hemiparesis:  left arm flacid.  moves left leg in bed and occas. to command.  good strength in right arm.  also moving right leg.  speech thick and occas. aphasic.  pt. appearing frustrated in speaking sometimes and reporting that she has trouble saying what she thinks.  follows commands well and responds very approp. to questions.  not sleeping well, awake 3-4hours during night.  OOB to chair, full support of 2-3 people.  PT and speech following.
+
+- taking pills with water.  no gagging, coughing noted.  eating soft solids.  
+- incontinent of soft brown stool ~ 1-2x/day.  small amts.  guiac neg.  HCT 29-30.  
+
+GU:  foley draining yellow urine.  
+ID:  afeb.   no issues
+social:  pt. was active and living alone prior to this.  supportive daughter and grandaughter who visit freq.  case manager involved with family in discussion about rehab.  
+
+A/P:  follow diuresis, lytes.  OOB QD.  PT/speech.  ? swallow study.  D/C planning.  monitor Sats, exam.  coumadin.  heparin gtt
+",,
+5960,21687,7423,0,3259-08-21 05:05:00 EST,3259-08-21 05:11:00 EST,487,"N",1,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient being followed for albuterol/atrovent nebs. Patient treated
+Q4 for albuterol nebs. Please see respiratory section of carevue for data. 
+Plan: Continue to monitor respiratory status. Bronchodilators as ordered.
+",,
+5960,21687,7423,0,3259-08-21 13:23:00 EST,3259-08-21 13:36:00 EST,506,"N",1,"Nursing/Other","CCU D/C SUMMARY UPDATE: PNUEMONIA/ DNR","
+CCU D/C SUMMARY UPDATE: PNUEMONIA/ DNR
+REVIEW OF SYSTEMS: 
+ID: Pt remains afebrile.
+RESP: Sats dropped from hig 90s to high 80s ~8:30am with no precipating event. BG on 4L was 55/ 42/ 8.52/ 35. She has productive cough. Sat has since increased to 94-96% range. She had exp wheezes and has received nebs Q 4 by respiratory. She does not do well with MDIs.
+CV: HR stable in 60-70s AF. She was changed from lopressor to atenolol today. BP stable in 90-115 range. Zestril was increased to 10mg today. She has been both K+ and MgSo4 today. She continues on heparin at 1100u/hr with theraputic PTT, and is receiving coumadin 5mg QD.
+RENAL: Pt has foley putting out clear urine. She is receiving lasix 20mg IV tid and last got it at 10am. She is presently 1500cc neg.
+GI: Pt has very poor apetite and is baseline very pickey. She is swallowing safely, but will do best with soft diet.
+NEURO: Pt has left hemiparsis with completely flaccid L upper extremity, but some movement in L leg. She is a two person transfer to chair and Needs to have sling on L arm for transfer. She is apathetic with minimal  motivation. She is seen by both PT and OT. Family concerned and very involved. She remains DNR/DNI.
+",,
+5960,21687,,,3259-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-23**] 9:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15818**]
+     Reason: please evalaute for pneumothorax, resolution of L pleural ef
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, now s/p L thoracentesis.
+       
+      Please perform UPRIGHT!!
+     REASON FOR THIS EXAMINATION:
+      please evalaute for pneumothorax, resolution of L pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 87 year old woman with CAD, history of left pneumothorax status post
+     left sided thoracentesis.
+     
+     Comparison to prior study from [**3259-8-21**].
+     
+     PORTABLE CHEST: There has been interval decrease in size of left sided pleural
+     effusion. A tiny lucency at the left apex may represent a companion shadow of
+     the 2nd rib, though a trace apical pneumothorax cannot be excluded. There is
+     improved aeration at the left base with some residual streaky opacity likely
+     representing atelectasis. The heart size and mediastinal and hilar contours
+     are stable with an unfolded, calcified aorta. There is persistent upper zone
+     redistribution consistent with mild CHF. Tiny calcified granulomas are again
+     seen at the right base, unchanged.
+     
+     IMPRESSION:
+     
+     1. Decrease in size of left sided pleural effusion and improved atelectasis
+      status post thoracentesis. Question of tiny apical pneumothorax versus rib
+     companion shadow; followup radiograph may be helpful.
+     
+     2. Persistent mild CHF.
+     
+
+",,
+5960,21687,,,3259-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-23**] 3:43 PM
+     SHOULDER [**1-4**] VIEWS NON TRAUMA LEFT PORT                         Clip # [**Clip Number (Radiology) 15820**]
+     Reason: evaluate for dislocation, impingement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD with left UE paralysis.
+     REASON FOR THIS EXAMINATION:
+      evaluate for dislocation, impingement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     No prior films for comparison.
+     
+     CLINICAL INDICATION: Left shoulder paralysis.
+     
+     There is generalized demineralization.  No fracture is observed, but the
+     shoulder radiograph was only obtained in a single projection.  No definite
+     dislocation is identified, but supplemental axillary or traditional Y-view
+     would be helpful.
+     
+     IMPRESSION: Limited examination of the left shoulder due to single projection
+     demonstrating no definite evidence of fracture.  If dislocation is of concern
+     clinically, additional axillary or Y-view would be recommended.
+
+",,
+5960,21687,,,3259-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-23**] 3:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15819**]
+     Reason: r/o pneumothorax
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, now s/p L thoracentesis.
+      On 100% NRB since first CXR. 
+       
+      Please perform UPRIGHT!!
+       
+      Please perform at 3pm.
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post left thoracentesis.  Assess for pneumothorax.
+     
+     Comparison is made to previous radiograph from earlier the same date.
+     
+     No pneumothorax is identified.
+     
+     The heart is enlarged, but is stable in size.  The pulmonary vascularity
+     appears slightly engorged.
+     
+     There are small bilateral pleural effusions.  Patchy bibasilar parenchymal
+     opacities are evident.
+     
+     IMPRESSION:
+     1. No evidence of pneumothorax.
+     
+     2. Mild congestive heart failure.
+     
+     3. Small bilateral pleural effusions.
+     
+     4. Patchy bibasilar opacities, which may reflect patchy atelectasis or
+     pneumonia.
+
+",,
+5960,21687,,,3259-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-23**] 8:06 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15821**]
+     Reason: APHASIA, S/P STROKE, L HEMIPARESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with post cath aphasia, L UE hemiparesis and R proximal
+      muscle weakness.
+     REASON FOR THIS EXAMINATION:
+      r/o watershed infarct
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN [**3259-8-23**].
+     
+     CLINICAL INFORMATION:  Rule out stroke.
+     
+     TECHNIQUE:  FLAIR, T2, susceptibility and T1 axial, and T1 sagittal images of
+     the brain were obtained.  Comparison was made with the previous MRI of [**3259-8-8**].
+     
+     FINDINGS:  There is an area of restricted diffusion in the right
+     posteroparietal region indicative of an acute infarct.  There is no evidence
+     of hemorrhage seen on the susceptibility or T2-weighted images in this region.
+      Extensive periventricular white matter changes are again visualized without
+     evidence of midline shift, mass effect or hydrocephalus.  The FLAIR images are
+     somewhat limited by motion.
+     
+     The limited evaluation of the flow voids demonstrates no significant
+     abnormalities.
+     
+     IMPRESSION:  Acute right parietal infarct, new since the previous MRI.  No
+     evidence of midline shift or MRI evidence of hemorrhage.  Severe small vessel
+     disease in the periventricular region.
+
+",,
+5960,21687,,,3259-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-24**] 3:30 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15822**]
+     Reason: r/o reaccumulation of pleural effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with PE's, CAD, old L pneumothorax, now s/p L thoracentesis
+      and with increased resp effort
+     REASON FOR THIS EXAMINATION:
+      r/o reaccumulation of pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP & LATERAL:
+     
+     HISTORY: S/P left thoracentesis. Evaluate for re-accumulation of fluid in
+     patient with increasing respiratory effort.
+     
+     A moderate sized left pleural effusion is present, which appears partially
+     loculated and is increased in size since the recent examination.
+     
+     The heart is enlarged. There is cephalization of the pulmonary vascularity but
+     no overt evidence of pulmonary edema.
+     
+     There is increasing lung opacification of the left lung base.
+     
+     Several healed rib fractures are noted. There are also mild compression
+     deformities within the thoracic spine of indeterminate age.
+     
+     On the lateral view, there is probably a small right pleural effusion as well.
+     
+     IMPRESSION: Moderate sized partially loculated left pleural effusion which has
+     increased in size since the previous study of 1 day earlier. Adjacent
+     increased lung opacity likely represents atelectasis associated with effusion
+     but an infectious process is not excluded in the appropriate clinical setting.
+
+",,
+5960,21687,,,3259-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-25**] 3:32 PM
+     CHEST (LAT DECUB ONLY) LEFT; CHEST (SINGLE VIEW)                Clip # [**Clip Number (Radiology) 15823**]
+     Reason: evaluation of pleural effusion, evaluation of pleural effusi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with AFib, MI, L MCA stroke, L pleural effusion s/p
+      thoracentesis 2 days ago.
+     REASON FOR THIS EXAMINATION:
+      evaluation of pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87-year-old woman with atrial fibrillation, MI, and stroke.
+     Presents two days after thorocentesis of a left pleural effusion for
+     reevaluation.
+     
+     COMPARISONS: [**3259-8-24**].
+     
+     PORTABLE AP CHEST RADIOGRAPH: Increased cardiac silhouette is stable. The
+     hilar and mediastinal contours are unchanged. There is interval increase in
+     the size of a moderate left pleural effusion.
+     
+     LEFT LATERAL DECUBITIS CHEST RADIOGRAPH: This view does not include the entire
+     left lung, may providing insufficient information to evaluate the left pleural
+     effusion. The left lateral decubitis view can be repeated at no addtional
+     charge to the patient.
+     
+     IMPRESSION:
+     1) Stable cardiomegaly.
+     2) Interval increase in size of moderate left pleural effusion.
+     3) Suboptimal left lateral decubitis radiograph can be repeated at no
+     additional charge to the patient.
+
+",,
+5960,21687,,,3259-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-25**] 3:32 PM
+     CHEST (LAT DECUB ONLY) LEFT; CHEST (SINGLE VIEW)                Clip # [**Clip Number (Radiology) 15823**]
+     Reason: evaluation of pleural effusion, evaluation of pleural effusi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with AFib, MI, L MCA stroke, L pleural effusion s/p
+      thoracentesis 2 days ago.
+     REASON FOR THIS EXAMINATION:
+      evaluation of pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87-year-old woman with atrial fibrillation, MI, and stroke.
+     Presents two days after thorocentesis of a left pleural effusion for
+     reevaluation.
+     
+     COMPARISONS: [**3259-8-24**].
+     
+     PORTABLE AP CHEST RADIOGRAPH: Increased cardiac silhouette is stable. The
+     hilar and mediastinal contours are unchanged. There is interval increase in
+     the size of a moderate left pleural effusion.
+     
+     LEFT LATERAL DECUBITIS CHEST RADIOGRAPH: This view does not include the entire
+     left lung, may providing insufficient information to evaluate the left pleural
+     effusion. The left lateral decubitis view can be repeated at no addtional
+     charge to the patient.
+     
+     IMPRESSION:
+     1) Stable cardiomegaly.
+     2) Interval increase in size of moderate left pleural effusion.
+     3) Suboptimal left lateral decubitis radiograph can be repeated at no
+     additional charge to the patient.
+
+",,
+5960,21687,,,3259-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-26**] 9:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15824**]
+     Reason: r/o ptx s/p CT placement, requesting upright portable
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, now s/p L thoracentesis.
+      On 100% NRB since first CXR. 
+       
+      Please perform UPRIGHT!!
+     REASON FOR THIS EXAMINATION:
+      r/o ptx s/p CT placement, requesting upright portable
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE UPRIGHT CHEST:
+     
+     INDICATION: Chest tube placement.
+     
+     Comparison is made to [**3259-8-25**].
+     
+     Since the previous study, a left sided chest tube has been placed. It enters
+     laterally in the lower hemithorax and the distal tip projects in a caudad
+     direction in the region of the expected location of the left hemidiaphragm.
+     
+     The previously noted left pleural effusion has significantly decreased in size
+     with only a small residual effusion remaining. There is probably also a small
+     right pleural effusion.
+     
+     The heart remains enlarged. There is improving atelectasis in the left lower
+     lobe.
+     
+     No pneumothorax is identified.
+     
+     IMPRESSION: Significant improvement in left pleural effusion following chest
+     tube placement with only small residual effusion remaining. Distal tip of
+     chest tube is in close proximity to expected location of left hemidiaphragm,
+     and lateral view may be helpful to exclude infradiaphragmatic extension.
+
+",,
+5960,21687,,,3259-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-27**] 4:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15825**]
+     Reason: evaluate for pleural effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with PE's, CAD, old L pneumothorax, now s/p thoracentesis and
+      Chest tube for thoracentesis
+     REASON FOR THIS EXAMINATION:
+      evaluate for pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post thoracentesis.  Assess for pneumothorax.
+     
+     Comparison is made to previous study of one day earlier.
+     
+     A left-sided chest tube remains in place, with an inferomedial course
+     terminating in the thoracoabdominal junction area, below the left
+     hemidiaphragm contour.  A small amount of pleural fluid is present.  No
+     pneumothorax is evident.
+     
+     The heart and mediastinal contours remain enlarged.  There is slight
+     improvement in left retrocardiac opacity.
+     
+     IMPRESSION:
+     1. Persistent small left pleural effusion with single chest tube in place.  No
+     pneumothorax.  It is difficult to exclude an infradiaphragmatic location of
+     the chest tube on this single projection.
+     
+     2. Left retrocardiac opacity, slightly improved.
+
+",,
+5960,21687,,,3259-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-29**] 10:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15826**]
+     Reason: r/o ptx s/p ct
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, now s/p L thoracentesis
+      and chest tube for pleural effusion.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx s/p ct
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest single film.
+     
+     History of left thoracentesis and chest tube placement.
+     
+     Chest tube is present in the left lower hemithorax.  No pneumothorax.  There
+     is a small residual left pleural effusion/pleural thickening and atelectasis
+     at the left lung base.  There is cardiomegaly.  No definite CHF.
+     
+     IMPRESSION:  Small residual left pleural effusion.  No pneumothorax.
+     Cardiomegaly.  No CHF.
+
+",,
+5960,21687,,,3259-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-29**] 3:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15827**]
+     Reason: s/p chest tube d/c,  , now hypotensive
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, now s/p L thoracentesis
+      and chest tube for pleural effusion.
+       
+      Chest tube d/c'd today, now hypotensive.
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube d/c
+       
+      now hypotensive
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest single film.
+     
+     History of chest tube placement following left thoracentesis and subsequent
+     removal of chest tube.  Now hypotensive.
+     
+     Status post removal of left chest tube.  There is a persistent small left
+     pleural effusion.  No pneumothorax.  There is cardiomegaly as previously
+     demonstrated.  No new pulmonary edema.
+
+",,
+5960,21687,,,3259-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-8-30**] 11:45 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15828**]
+     Reason: 80 yo F with biventricular heart failure and recent CVA now 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      80 yo F with biventricular heart failure and recent CVA now with episodic
+      hypotension and increasing lethargy. Please eval for evidence of infarct
+      extension or worsening cns edema. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87-year-old woman with episodic hypotension, increasing lethargy,
+     and infarct seen on prior MR.
+     
+     CT OF THE HEAD WITHOUT CONTRAST:
+     COMPARISON: Comparison is made with prior CT of the head performed [**3259-8-10**] and
+     prior MR of the head performed [**3259-8-23**].
+     
+     TECHNIQUE: CT of the head without contrast.
+     
+     CT OF THE HEAD WITHOUT CONTRAST: There is no intra- or extra-axial hemorrhage,
+     mass lesion, or shift of the normally midline structures.  There is mild
+     prominence of the ventricles and sulci, consistent with global brain atrophy.
+     There are multiple low-attenuation foci within the periventricular white
+     matter, consistent with chronic microvascular disease, not significantly
+     changed from prior CT.  Low attenuation is seen within the superior right
+     frontal lobe, consistent with a subcortical infarct, not significantly changed
+     from prior CT of the head.  No abnormality is seen within the right parietal
+     region to correlate with the area of restricted diffusion reported on recent
+     MR. (See [**3259-8-23**].)  The orbits, visualized paranasal sinuses, and visualized
+     soft tissue and osseous structures are grossly unremarkable.
+     
+     IMPRESSION:
+     
+     No evidence of acute intracranial hemorrhage or acute major vascular
+     territorial infarct.
+     
+     2. Chronic changes (mild global brain atrophy and periventricular white matter
+     disease) and right frontal subcortical infarcts, not significantly changed
+     from prior study.  No defect within the right parietal region to correlate
+     with area of restricted diffusion on prior MR.
+     
+     The prior MRI was not available at the time of attending review.
+     
+
+",,
+5960,21687,,,3259-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3259-9-2**] 2:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15829**]
+     Reason: evaluate for re-accumulation of left pleural fluid
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with CAD, PE's, old L pneumothorax, and left pleurodesis.
+     REASON FOR THIS EXAMINATION:
+      evaluate for re-accumulation of left pleural fluid
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST RADIOGRAPH.
+     
+     HISTORY:  History of CAD, pulmonary embolisms, and old left pneumothorax and
+     left pleurodesis.  Evaluate for reaccumulation of left pleural fluid.
+     
+     Comparison is made to the prior study of [**3259-8-29**].
+     
+     FINDINGS:  Worsening of the left-sided pleural effusion is seen when compared
+     to the study of [**3259-8-29**].  There is associated collapse of the left lower lobe
+     and lingula.  The right diaphragm is not as sharp as on the prior study and
+     suggests there may be a right-sided pleural effusion which is new.  There is
+     marked underlying cardiomegaly with possible upper zone redistribution which
+     raises the possibility of ventricular heart failure.
+     
+     IMPRESSION:
+     1.  Worsening of the left-sided pleural effusion.
+     2.  Small new right-sided effusion may be present.
+     3.  Possibility of mild left ventricular heart failure.  Follow-up chest X-ray
+     is recommended after further treatment.
+     
+
+",,

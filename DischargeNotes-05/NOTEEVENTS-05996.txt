@@ -1,0 +1,576 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5996,,,,3192-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-9-29**] 4:04 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 411**]
+     Reason: acute SOB
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with history of emphysema, LE swelling, acute SOB
+     REASON FOR THIS EXAMINATION:
+      acute SOB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Emphysema, lower extremity swelling, acute shortness of
+     breath.
+     
+     COMPARISON: [**3192-5-15**]
+     
+     The heart size, mediastinal and hilar contours and the pulmonary vascularity
+     are normal. Again noted is slight prominence of the interstitium and regions
+     of bronchial wall thickening.  There is flattening of the hemidiaphragms
+     consistent with emphysematous changes.
+     
+     IMPRESSIONS:
+     1. Cardiomegaly with mild CHF.
+     2. Baseline emphysematous changes.
+
+",,
+5996,16366,,,3192-10-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3192-10-16**]       Discharge Date:  [**3192-10-22**]
+
+Date of Birth:   [**3132-1-14**]       Sex:  F
+
+Service:  MED ICU
+
+HISTORY OF PRESENT ILLNESS:  This is a 60 year old white
+female with a history of bronchospasm, chronic obstructive
+pulmonary disease, hypertension, and congestive heart failure
+(ejection fraction of 60 to 70% on [**3192-9-27**]) who
+presents with shortness of breath with productive cough and
+lower extremity edema.  The patient was recently admitted
+from [**9-29**] until [**3192-10-1**], with complaints of shortness of
+breath and bilateral lower extremity edema, and facial edema.
+Chest x-ray showed mild congestive heart failure at that
+time.  She was treated with Lasix which is new for her
+congestive heart failure, even though the ejection fraction
+was 60 to 70% by transthoracic echocardiogram.  She was also
+given a Prednisone taper for suspected chronic obstructive
+pulmonary disease flare which ended on [**3192-10-15**].
+
+Since discharge on [**3192-10-1**], the patient did fine for the
+first week, however, four days prior to admission, the
+patient called her primary care provided, Dr. [**Last Name (STitle) **], with
+increased bilateral lower extremity edema because she had
+stopped her Lasix secondary to excessive urination.  The
+patient was told to restart the Lasix.  One day prior to
+admission, the patient came in to the primary care provider's
+office with an increased lower extremity edema and mild
+productive cough.  She also complained of shortness of breath
+without fevers or chills.  She was started on two liters of
+home O2 one day prior to admission and then returned to her
+primary care provider on day of admission looking pale, off
+her oxygen.  Her saturation was 60% on room air and 88% on
+two liters of oxygen by nasal cannula.
+
+She was sent to the [**Hospital1 75**]
+Emergency Department where her blood pressure was 108/60 and
+heart rate of 90.  Her respiratory rate at that time was 32
+and she was saturating at 90% on ten liters and
+non-rebreather.  An arterial blood gas revealed a pH of 7.29,
+CO2 of 84 and pO2 of 30.  Since she was somnolent, she was
+started on [**Hospital1 381**] 5/5/35% FIO2 with oxygen saturation at 98%.
+Chemistries in the Emergency Department revealed a sodium of
+117.  CPK was 175 with MB of 25.  The troponin was less than
+0.3.
+
+The patient was started on
+
+
+
+dictation ended abruptly
+
+
+                            [**First Name4 (NamePattern1) 43**] [**Last Name (NamePattern1) 2042**], M.D.  [**MD Number 2043**]
+
+Dictated By:[**Last Name (NamePattern1) 5785**]
+MEDQUIST36
+
+D:  [**3192-10-22**]  12:52
+T:  [**3192-10-22**]  13:24
+JOB#:  [**Job Number 7579**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3192-10-29**] 8:45 AM
+(End of Report)
+
+
+",,
+5996,16366,,,3192-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-16**] 4:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 414**]
+     Reason: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with hypoxia now s/p inyubation, REPEAT CHEST
+     REASON FOR THIS EXAMINATION:
+      DYSPNEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dyspnea.
+     
+     AP CHEST: Since the prior study of 4:26 PM same day, an NG tube has been
+     passed into the stomach. The endotracheal tube is in unchanged position
+     approximately 3 cm above the carina. The heart and mediastinal contours are
+     stable. The lungs are clear and there are no pleural effusions. No
+     interstitial pulmonary edema is identified.
+     
+     IMPRESSION: New NG tube. No other changes from prior study. No pneumothoraces.
+
+",,
+5996,16366,,,3192-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-16**] 4:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 413**]
+     Reason: tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with hypoxia now s/p inyubation, please check tube placement
+     REASON FOR THIS EXAMINATION:
+      tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST AT 4:26 P.M.
+     
+     INDICATION:  Intubation and hypoxia.
+     
+     COMPARISON:  AP chest from 1:58 P.M. the same day.
+     
+     AP CHEST:  The endotracheal tube lies approximately 3-4 cm from the carina.
+     The heart size is at the upper limits of normal for this AP technique. There
+     is prominence of the pulmonary hila, probably accentuated by supine
+     positioning.  No focal opacities are seen within the lungs and there are no
+     pleural effusions.  No pneumothoraces are identified.
+
+",,
+5996,16366,,,3192-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-16**] 1:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 412**]
+     Reason: r/o chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with hypoxia
+     REASON FOR THIS EXAMINATION:
+      r/o chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypoxia.
+     
+     COMPARISON: PA and lateral chest [**3192-9-29**].
+     
+     AP CHEST: The heart is slightly enlarged with a left ventricular
+     configuration. The hilar contours are prominent and there is upper lung zone
+     pulmonary redistribution. The appearance is not significantly changed from the
+     prior study. No interstitial pulmonary edema is identified. There are no
+     pleural effusions. The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION: Cardiomegaly and mild CHF, not significantly changed from prior
+     study. No focal lung opacities or pleural effusions identified.
+
+",,
+5996,16366,7464,,3192-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-17**] 12:40 AM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 415**]
+     Reason: is there evidence of PE?                                    
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old woman with hx of smoking, chronic cough and sputum recently 
+      admitted for chf, who now returns with acute exacerbation of sob.
+     REASON FOR THIS EXAMINATION:
+      is there evidence of PE?                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chronic cough, sputum production. Acute shortness of breath.
+     
+     TECHNIQUE: CT images were acquired from the lung bases through the thoracic
+     inlet using 100 cc of  IV Optiray contrast.  Multiplanar reformatted images
+     were performed for further evaluation.
+     
+     CHEST CTA: There is no intraluminal filling defect from the level of the main
+     pulmonary artery to the subsegmental pulmonary arteries. There are coronary
+     artery calcifications.  The heart size is enlarged.  There are no pleural
+     effusions. There is slight dependent atelectasis.  There is centrilobular
+     emphysematous changes particularly at the lung apices.  Several
+     nonpathologically enlarged mediastinal nodes are present.
+     
+     There is nonspecific stranding adjacent to the upper pole of the right kidney
+     in limited images through the upper abdomen.  An NG tube is present within the
+     stomach.
+     
+     BONE WINDOWS: Osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. No evidence of pulmonary embolism.
+     2. Chronic emphysematous changes.
+     3. Cardiomegaly.
+     4. Nonspecific stranding adjacent to the upper pole of the right kidney.
+     
+
+",,
+5996,16366,7464,,3192-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-17**] 12:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 416**]
+     Reason: is there evidence of hemorrhage?                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with copd - acute episode of hypoxia, hypercarbia, 
+      hypotension and decreased ms. [**First Name (Titles) 417**] [**Last Name (Titles) 418**]. small enzyme leak - so 
+      heparinized. this am, still decreased ms, and pupils assymmetric per exam.
+     REASON FOR THIS EXAMINATION:
+      is there evidence of hemorrhage?                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Acute episode of hypoxia, heparinized, decreased mental status.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage.  There is no shift of
+     normally midline structures.  The supratentorial ventricles are mildly dilated
+     without significant dilatation of the sulci.  There is no evidence of mass
+     effect.
+     
+     There is moderate ethmoid and mild sphenoid sinus mucosal thickening within
+     the visualized portion of these sinuses. The frontal sinus appears
+     congenitally aplastic.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage, edema or mass
+     effect.  There is mild dilatation of the supratentorial ventricles without
+     significant dilatation of the sulci.  This may represent either central
+     cerebral atrophy (mild), with less likely diagnosis being normal pressure
+     hydrocephalus, as the temporal horns are normal in size.
+     
+     NOTE:  Due to PACS malfunction, this case was not available for final review
+     until [**3192-10-20**].
+
+",,
+5996,16366,7464,,3192-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-17**] 12:40 AM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 415**]
+     Reason: is there evidence of PE?                                    
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old woman with hx of smoking, chronic cough and sputum recently 
+      admitted for chf, who now returns with acute exacerbation of sob.
+     REASON FOR THIS EXAMINATION:
+      is there evidence of PE?                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Chronic cough, sputum production. Acute shortness of breath.
+     
+     TECHNIQUE: CT images were acquired from the lung bases through the thoracic
+     inlet using 100 cc of  IV Optiray contrast.  Multiplanar reformatted images
+     were performed for further evaluation.
+     
+     CHEST CTA: There is no intraluminal filling defect from the level of the main
+     pulmonary artery to the subsegmental pulmonary arteries. There are coronary
+     artery calcifications.  The heart size is enlarged.  There are no pleural
+     effusions. There is slight dependent atelectasis.  There is centrilobular
+     emphysematous changes particularly at the lung apices.  Several
+     nonpathologically enlarged mediastinal nodes are present.
+     
+     There is nonspecific stranding adjacent to the upper pole of the right kidney
+     in limited images through the upper abdomen.  An NG tube is present within the
+     stomach.
+     
+     BONE WINDOWS: Osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1. No evidence of pulmonary embolism.
+     2. Chronic emphysematous changes.
+     3. Cardiomegaly.
+     4. Nonspecific stranding adjacent to the upper pole of the right kidney.
+     
+
+",,
+5996,16366,7464,0,3192-10-17 04:20:00 EST,3192-10-17 04:33:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support. Vent settings Vt 550, Simv 12, Fio2 40%, Peep 5, Psv 5. Increasing PAP decreasing over course of shift t 30's. Bs prolonged expiratory wheezes. Auto peep [**3-30**]. Albuterol MDI given q4hr x 10 puffs with improvement. Airway pressures decreasing. Abg much improved.  No further changes made. Plan: Wean to Psv when more awake. 
+",,
+5996,16366,7464,0,3192-10-17 04:25:00 EST,3192-10-17 04:47:00 EST,-1,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS REPORT 7P-7A","
+NURSING ADMISSION AND PROGRESS REPORT 7P-7A
+REPORT RECEIVED AT 1900 FROM EW.  PT TRANSPORTED VIA STRETCHER TO MICU.  PT TRANSFERRED WITHOUT ANY UNTOWARD INCIDENCE.
+
+THIS IS A 63 YEAR OLD FEMALE WITH EXTENSIVE MEDICAL HISTORY INCLUSIVE OF COPD, CHF, ASTHMA, ANXIETY, DEPRESSION, HTN, GLAUCOMA, ETOH AND SMOKING.  PLEASE SEE ICU ADMISSION RECORD FOR COMPLETE HISTORY WHO HAD BEEN COMPLAINING OF SOB FOR THE PAST WEEK.  PT HAD PRESENTED TO HER PCP AT THE URBAN CLINIC THIS AFTERNOON.  THERE SHE WAS NOTED TO HAVE BECOME MORE HYPOXIC AS WELL AS LETHARGIC.  911 WAS CALLED AND PT TX TO [**Hospital1 22**] EW.  PT HAD 82 CO2 ON RA- WAS THEN PLACED ON BIPAP WITH NO IMPROVMENT, SUBSEQUENTLY PT WAS INTUBATED AND ADMITTED TO MICU FOR OBSERVATION AND TO STABILIZE RESPIRATORY STATUS.  REPORT RECEIVED FROM EW WAS SIGNIFICANT FOR PT HAVING HYPOTENSIVE EPISODES REQUIRING BOLUSES AS WELL AS DESATING TO THE 60'S.
+
+NEURO:  PT HAS BEEN AROUSABLE ONLY TO PAIN.  SHE WILL NOT OPEN HER EYES.  SHE HAS MOMENTS OF AGITATION DURING WHICH SHE ACTIVELY INTERFERES WITH MEDICAL EQUIPMENT- HAD PULLED OUT HER IV IN THE EW.  DUE TO THIS SHE WAS PLACED ON ATIVAN DRIP- REMAINED AT .5MG/HR AND WAS TURNED OFF AT 0400.  WILL NOT OBEY COMMANDS.  PERLA.  NO SEIZURE ACTIVITY NOTED.  PT MAE X4 AND IS QUITE STRONG- HAS HAD TO BE RESTRAINED DUE TO SAFETY CONCERNS DUE TO ATTEMPTS OF GETTING OUT OF B BED.  LOW GRADE FEVER.
+
+CV:  PT BEING RULED OUT FOR MI 2 SET OF CARDIAC ENZYMES SENT AT 0130.  PLEASE SEE RESULTS AS NEEDED ON FLOWSHEET.  S1 AND S2 AS PER AUSCULTATION.  NO MURMURS, GALLOPS OR RUBS AUSCULTATED.  PT HAS MAINTAINED NSR WITH HR OF 70-80, NO SIGNS OF ECTOPY.  SBP > OR = TO 100 WITH  NO HYPER OR HYPOTENSIVE CRISIS.  PT HAS NOT HAD ANY PRESSURE ISSUES.  RIGHT RADIAL ALINE PLACED- SECURE AND PATENT, FLUSHES AND DRAWS BACK BLOOD WITHOUT DIFFICULTY.  RECALIBRATED AND REZEROED DURING SHIFT.  PALPABLE BILATERAL RADIAL AND DORSALIS PEDIS PULSES.  PT IS CURRENTLY ON HEPARIN DRIP WITH HEPARIN PROTOCOL IN PLACE.  CURRENTLY AT 900 UNITS.  
+
+RR:  PT INTUBATED WITH 7.5 OETT THAT IS SECURE AND PATENT.  BBS =, COARSE THROUGHOUT.  CURRENT VENT SETTINGS ARE SIMV/PS- 40%FIOS, RATE OF 12, PEEP OF 5 PS OF 5 TV OF 600.  PLEASE SEE ABG RESULTS ON FLOWSHEET AS NEEDED.  PT HAS REQUIRED FREQUENT SUCTIONING FOR LARGE AMOUNTS OF CLEAR, THICK SECRETIONS FROM NOSE, THROAT AND MOUTH.  PT IS CURRENTLY ON SOLUMEDROL AND ALBUTEROL/ BROMIDE TREATMENTS.  PT HAD CTA TO RULE OUT PE.  RESULTS ARE PENDING.  
+
+GI:  PT HAS LARGE HIATAL HERNIA, OTHERWISE ABD IS SOFT, SLIGHTLY DISTENDED WITH BS X 4 QUADRANTS.  PT HAS OGT IN PROPER PLACEMENT AS VERIFIED WITH AUSCULTATION OF 30CC OF AIR.  CURRENTLY ON CLWS WITH BILIOUS SECRETIONS NOTED- OUTPUT OF 500CC FOR THE SHIFT.  PT HAS NOT HAD A BM BUT HAS BEEN PASSING FLATUS.  
+
+GU:  PT HAS HAD LARGE AMOUNTS OF CLEAR YELLOW UOP VIA INDWELLING FOLEY CATHETER.
+  
+INTEG:  PT HAS NO NOTED SKIN BREAKDOWN TO BACK OR BUTTOCKS.  
+
+ID:  PT HAD BLOOD, SPUTUM AND URINE CULTURES SENT.  PLANS TO ADMINISTER VANCOMYCIN IV.  
+
+SOCIAL:  PT HAS [**Street Address 1841**] ISLAN
+",,
+5996,16366,7464,0,3192-10-17 04:26:00 EST,3192-10-17 04:47:00 EST,-1,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS REPORT 7P-7A","
+NURSING ADMISSION AND PROGRESS REPORT 7P-7A
+(Continued)
+D.  AWARE OF PT'S CONDITION.  WILL BE VISITING IN THE AM.
+
+LINES:  2 # 20 PIV TO BILATERAL HANDS.  #18 TO LEFT AC. 
+
+PLAN:  SEDATION IS NOW OFF- PLAN TO CHANGE PT TO CPAP ASAP AND CONTINUE TO CLOSELY MONITOR RESPIRATORY STATUS.  MONITOR AND EVALUATE NEURO STATUS AS PT STARTS TO BECOME MORE ALERT.  MONITOR CULTURE RESULTS AND TREAT AS NEEDED.  MONITOR CARDIAC ENZYMES- NEXT SET IS TO BE DRAWN AT 8:30AM.  MONITOR HEPARIN THERAPY- NEXT PTT AT 9:00AM.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+",,
+5996,16366,7464,0,3192-10-17 17:19:00 EST,3192-10-17 17:39:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1900: 
+
+RESP: Remains orally intubated. SIMV 10/35%/[**5-31**]. Attempted wean to PS this am unsuccessful. Pt. at that time with periods of apnea, STV 200's, MV 3. MD notified & placed on current settings. Coarse breath sounds throughout. Suctioned q2-3 hrs for copious amounts thick white secretions. Sats 91-95%. Conitnue IV steroids with Chest PT, nebs/bronchodilator. Goal to aim for PaCO2 60-65 [**Name8 (MD) 34**] MD. [**First Name (Titles) 1842**] [**Last Name (Titles) 1297**] in am. 
+
+NEURO: CT Head completed & negative for bleed. Received pt. with sedation off. On initial exam extremely agitated, tonguing ETT, sitting up in bed. IV Ativan drip resumed at 0800 for sedation & pt. safety. Extremely agitated in CT requiring IV Propofol to complete exam. Propofol very effective. Protective reflexes intact. MAE x4. Does follow some commands when sedation off but soon after becomes extremely agitated.No seizure activity. 
+
+CV: Monitor NSR no ectopy. SBP 108-120's stable. Trace pedal edema. Peripheral pulses palpable. IV sites clear. Right radial arterial line intact with good hemodynamic waveform noted. K 3.2 & replaced per NG & IVF D5.45 NS with 40 meq KCL @ 50 cc/hr x 500 cc infusing. Questionable MI due to discrepancy between elevated CPK, negative Troponin? IV Heparin d/c'd. SQ Heparin started. 
+
+GI: NPO except meds. Need to address nutrition if not extubated in am. OG intact to LIS with small amount bilious drainage. Positive BS. No BM. Abdominal hernia noted. 
+
+GU: Sodium continues to be low. Good urinary output noted. Serum sodiums being drawn Q2 -3 hrs. 1800 pending. Next due @ 2000 & 2300. 
+
+ID: Acute bronchitis. Pending cultures. Started on IV Vancomycin & Levaquin. TMAX 99.2. WBC 6.6.
+
+INTEG: Intact skin. No open areas. 
+
+PSYCH/SOC: Daughter in from [**Doctor Last Name 1703**]. Update given & also speaks with MD. 
+
+PLAN: Continue current vent settings, steroids, bronchodilators with chest PT & frequent suctioning. Possible extubation in am. Serum NA @ 2000& 2300. AM labs will need to be ordered. Sedate to maintain current treatment & for pt. safety. 
+",,
+5996,16366,7464,,3192-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-18**] 5:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 419**]
+     Reason: ETT Placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old woman with hypoxia now s/p inyubation, REPEAT CHEST                
+     REASON FOR THIS EXAMINATION:
+      ETT Placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypoxia with intubation.
+     
+     AP CHEST:  Comparison:  [**3192-10-16**].
+     
+     An NG tube passes into the stomach.  The ET tube lies 2.5 cm from the carina.
+     The cardiac and mediastinal contours are stable.  The lungs are clear and
+     there are no pleural effusions.
+     
+     IMPRESSION:  Stable appearance of the chest without evidence of CHF or lung
+     opacities.
+
+",,
+5996,16366,7464,0,3192-10-18 04:07:00 EST,3192-10-18 04:12:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 550, Simv 10, Fio2 35%, Peep 5, Psv 5. PAP/Plateau 34/15. Bs few insp wheezes with faint expiratory wheezes. Sx'd for sm amounts of thick white sputum. Albuterol MDI given x 10 puffs Q4hr. Adequate Abg's on above settings. Slowly improving. Auto peep down to 1. Lower PAP/Plateau pressures. No further changes made. Continue with mechanical support and bronchodilators. 
+",,
+5996,16366,7464,0,3192-10-18 05:06:00 EST,3192-10-18 05:30:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+REPORT RECEIVED AT 1900.  PT'S ENVIRONMENT SECURED FOR SAFETY.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING.
+
+NEURO:  RECEIVED PT. ON ATIVAN DRIP AT 1MG/HR.  PT APPEARED COMFORTABLE AND WOULD AROUSE TO PAINFUL STIMULI.  AT APPROXIMATELY 2400 PT STARTED GETTING VERY ANXIOUS AND AGITATED- TRYING TO GET OUT OF BED, SITTING STRAIGHT UP- IN THE PROCESS BREATHING WOULD BECOME MORE LABORED, PT WOULD BITE DOWN ON TUBE AND O2 SATS WOULD DIP DOWN TO THE HIGHER 80'S.  ATIVAN DRIP DC'D AND PROPOFOL DRIP STARTED AS A RESULT.  PT REMAINED ON 5MCG/KG/MIN UNTIL APPROXIMATELY 0500 THIS AM- PT WAS BEING SUCTIONED AND BECAME EXTREMELY AGITATED PULLED OUT HER IV TO LEFT AC, ATTEMPTED TO SELF EXTUBATE.  PT GIVEN PROPOFOL BOLUS FOR SEDATION.  PT REMAINED AGITATED WITH RESPIRATORY RATES IN THE 50'S, BITING ON THE OETT, DEOCMPENSATING TO 65% SPO2.  PT DID NOT CALM DOWN UNTIL TOTAL OF 100MG BOLUS GIVEN- EVEN THEN PT STILL VERY AROUSABLE AND SENSITIVE TO THE SLIGHTEST STIMULI.  THIS WAS DISCUSSED AT LENGTH WITH DR. [**Last Name (STitle) 1843**].  PT CURRENTLY RESTING AT PREVIOUS SETTING OF 5MCG/KG/MIN OF PROPOFOL.  PT HAS BEEN CLOSELY MONITORED IN ORDER TO ALEVE AGITATION AS NEEDED.  DURING THE 2400 EPISODE, PT DID INTERACT BY SHAKING HER HEAD WHEN ASKED IF SHE WAS IN PAIN AS WELL AS SQUEEZING MY HANDS AT COMMAND.  SHE DID THE SAME AT 0400 EPISODE.  REORIENTATION AND REASSURANCE WAS NOT ENOUGH TO ALLEVIATE HER AGITATION THEREFORE REQUIRING MEDICATION.  PT REMAINS RESTRAINED TO BILATERAL UPPER EXTREMETIES.     
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NO RUBS, MURMURS OR GALLOPS AUSCULTATED.  PT DENIED ANY CHEST PAIN.  SBP > OR = TO 90 WITH NO SYMPTOMATIC HYPO OR HYPERTENSIVE CRISIS.  PT'S BP HAVE BEEN STABLE DESPITE PROPOFOL DRIP.  NO SIGNS OF JVD NOTED.  PALPABLE PULSES TO BILATERAL RADIALS AND DORSALIS PEDIS.  RIGHT RADIAL ALINE IS SECURE AND PATENT- FLUSHES AND HAS GOOD BLOOD DRAW BACK.  RECALIBRATED AND REZEROED AT BEGINNING OF SHIFT.  PT HAS BILATERAL #20 PIV'S INTACT TO LEFT AND RIGHT HANDS.  BOTH ARE SECURE AND PATENT WITH GOOD FLUSH AND BLOOD DRAWBACK.
+
+RR:  PT REMAINS ON VENT SIMV, RATE OF 10, 5 PS, 5 PEEP WITH 35% OF FI02.  PLEASE SEE FLOW SHEET AS NEEDED FOR ABG RESULTS.  BBS WITH COARSE RHONCHI WITH OCCASSIONAL INSPIRATORY WHEEZING NOTED BILATERALLY.  PCXR TAKEN TO VERIFY PLACEMENT OF ETT DUE TO PT'S ATTEMPTS TO SELF EXTUBATE.  SPO2 93-96%.  PTHAS BEEN AGRESSIVELY SUCTIONED FOR LARGE AMOUNTS OF CLEAR TO WHITE THICK SECRETIONS.  
+
+GI:  ABD SOFT AND SLIGHTLY DISTENDED.  OGT IS SECURE AND IN PROPER PLACEMENT AS VERIFIED WITH AUSCULTATION OF 30CC OF AIR.  BILIOUS DRAINAGE NOTED WITH LWCS.  PT HAS BEEN PASSING FLATUS BUT HAS NOT HAD A BM THIS SHIFT.
+
+GU:  SECURE AND PATENT INDWELLING FOLEY CATHETER IN PLACE.  CLAER AMBER URINE NOTED.  ADEQUATE UOP > OR = 60CC/HR.  
+
+PLAN:  ATTEMPTS TO WEAN FROM VENT AND CONTROL ANXIETY AND AGITATION.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION AS NEEDED.  THANK [**Doctor First Name **].
+",,
+5996,16366,7464,0,3192-10-18 18:17:00 EST,3192-10-18 18:26:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN NOTE 0700-1900:
+NEURO: SEDATE WITH PROPOFOL DRIP. PERIODS OF EXTREME AGITATION NOTED WITH ATTEMPTS TO WEAN SEDATION. DOES NOT FOLLOW COMMANDS. PERRL. MAE X4. PROTECTIVE REFLEXES INTACT. HALDOL X2 FOR AGITAION WITH MODERATE EFFECT. 
+
+RESP: WEAN ATTEMPTED X2 WITH SEDATION OFF. PT. EXTREMELY AGITATED, BITING ETT, DECREASED SATS 70-80% STV 120-300. PLACED BACK ON CURRENT SETTINGS. V10/5/5 35% MODERATE TO COPIOUS AMOUNTS OF WHITE SECRETIONS PER ETT. SATS 91-94%
+
+CV: MONITOR SB 49-NSR 70 NO ECTOPY. SBP 95-120'S. NO EDEMA. RIGHT RADIAL ARTERIAL LINE INTACT SITE CLEAR. PIV X3 INTACT. SITES CLEAR. SKIN INTACT NO OPEN AREAS. 
+
+GI: NPO. OG TO LCWS WITH MODERATE BILIOUS MAROON HUE. IV REGLAN STARTED & ON IV PROTONIX. 
+
+GU: FOLEY WITH MARGINAL OUTPUT NOTED. SODIUM 135. 
+
+ID: WBC 7. TMAX 99. VANCO & LEVAQUIN CONTINUED.
+
+SOC: DAUGHTER CALLED. UPDATE GIVEN.
+
+PLAN: CONTINUE SEDATION TO MAINTAIN PT. SAFETY & CURRENT TREATMENT. POSSIBLE EXTUBATION IN AM.
+",,
+5996,16366,7464,,3192-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3192-10-19**] 3:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 420**]
+     Reason: eval chf vs infection                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old woman with hypoxia now s/p inyubation, REPEAT CHEST               
+       
+     REASON FOR THIS EXAMINATION:
+      eval chf vs infection                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia.
+     
+     FINDINGS:  AP portable chest radiograph.  Comparison to portable chest
+     radiograph of [**3192-10-18**].  ET tube in satisfactory position.  NG tube terminates
+     in the stomach. The right costophrenic angle is not visualized on the film.
+     No pneumothorax is identified.  No infiltrates or CHF.
+     
+     IMPRESSION:  ET tube in satisfactory position.  No CHF.  No pneumothorax.
+
+",,
+5996,16366,7464,0,3192-10-19 03:48:00 EST,3192-10-19 03:52:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 550, Simv 10, Fio2 40%, Peep 5, Psv 5. Worsening metabolic alkalosis. PaO2 decreasing 58. Fio2 increased to 40%. O2 sats 96-97%. Bs few insp wheezes bilaterally. Albuterol MDI given x 10 puffs Q4hr. Wheezes resolved over course of shift. Decreased bronchospasm from yesterday. Auto peep 0-1.  Pt. sedated and appears comfortable. No further changes made. Continue with mechanical support. 
+",,
+5996,16366,7464,0,3192-10-19 04:47:00 EST,3192-10-19 05:13:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+REPORT RECEIVED AT 1900.  PT'S ENVIRONMENT SECURED FOR SAFETY.  RECEIVED PT IN FOUR POINT RESTRAINTS AND ON PROPOFOL DRIP AT 10MCG/KG/MIN.
+
+NEURO:  AFEBRILE.  PT WILL RESPOND TO VERBAL AND PAINFUL STIMULI.  GETS VERY AGITATED WHEN BEING CARED FOR- I.E. BATH AND PM CARE- REQUIRES MAINTAINANCE OF PROPOFOL DRIP- PT APPEARS TO BE COMFORTABLE AT 10MCG/KG/MIN BUT AT TIMES REQUIRES UP TO 20MCG/KG/MIN DUE TO HER AGITIATION.  PT IS AT RISK FOR INTERFERENCE WITH MEDICAL DEVICES- HAS TRIED TO SELF EXTUBATE IN THE PAST.  WILL OPEN HER EYES AND NOD APPROPRIATELY ON OCCASSION TO YES/NO QUESTIONS BUT DOES NOT FOLLOW COMMANDS.  PUPILS ARE REACTIVE- THE RIGHT PUPIL IS SLIGHTY BIGGER DUE TO PREVIOUS CATARACT SURGERY. NO SEIZURE ACTIVITY NOTED.  MAE X 4- EXTREMETIES HAVE EQUAL STRENGTH.  
+
+CV:  PT NOTED TO BE TRENDING TOWARDS A SINUS BRADY WITH NO SIGNS OF ECTOPY- THIS IS NEW EVENT FROM PREVIOUS 48 HOURS.  PT HAS BEEN DIPPING DOWN TO RATE OF 40 BUT HAS NOT HAD ANY DECREASES IN BP.  SBP > OR = TO 95 WITH MEANS > OR= TO 60.  ECG DONE, REMARKABLE FOR QTI BEING PROLONGED AND POSSIBLE T WAVE INVERSION- PRN ORDER FOR HALDOL DC'D- PT DID NOT RECEIVE ANY HALDOL ON THIS SHIFT.  CARDIAC ENZYMES SENT DOWN.  TROPONIN WAS NEGATIVE.  PLEASE SEE FLOW SHEET AS NEEDED FOR COMPREHENSIVE RESULTS.  POTASSIUM REPLETED FOR A 3.3 LEVEL WITH 40MEQ PO AND 10MEQ PIV.  AM LABS SHOW LEVEL OF 3.9.  S1 ADN S2 AS PER AUSCULTATION.  NO RUBS, MURMURS OR GALLOPS AUSCULTATED.  NO SIGNS OF JVD NOTED.  PALPABLE PULSES NNOTED TO BILATERAL RADIAL AND DORSALIS PEDIS.  SECURE AND PATENT LEFT RADIAL A LINE- RECALIBRATED AND REZEROED DURING THE SHIFT, GOOD FLUSH AND DRAWBACK NOTED.  
+
+RR:  PT'S ABG'S ARE SIGNIFICANT FOR METABOLIC ACIDOSIS.  OETT IS SECURED AT 23CM TO THE LIP.  BBS= COARSE BREATH SOUNDS AT TIMES BUT RESOLVES WITH FREQUENT SUCTIONING AND CHEST PT.  VENT CHANGE OF INCREASE IN FI02 FROM 35% TO 40% DUE TO PT'S PO2 BEING IN THE 50'S.  REMAINS ON IMV, RATE OF 10, PEEP OF 5 WITH 5 OF PS.  SECRETIONS HAVE DECREASED TO SMALL TO SCANT AND APPEAR TO BE WHITE AND THICK.  BILATERAL CHEST EXPANSION NOTED.  5AM ABG'S SHOW IMPROVEMENT OF PA02 BUT PT REMAINS IN METABOLIC ALKALOSIS.  PLEASE SEE FLOW SHEET FOR COMPREHENSIVE ABG RESULTS.  SP02 REMAIN > OR = TO 90%.
+
+GI:  OGT IN PROPER PLACEMENT AS VERIFIED WITH AUSCULTATION OF 30CC OF AIR.  OGT IS ON LCWS.  LARGE AMOUNTS OF BILIOUS SECRETIONS ARE NOTED- GUIAC POSITIVE BUT CRITS ARE STABLE IN THE 40'S.  TOTAL GASTRIC OUTPUT OF 850 OVER THE PAST 24 HOURS.  ABD IS SOFT AND SLIGHTLY DISTENDED WITH LARGE HIATAL HERNIA.  PT IS PASSING POSITIVE FLATUS BUT HAS NOT HAD A BM.  
+
+GU:  PT HAS SECURE AND PATENT INDWELLING URETHRAL FOLEY CATHETER.  PT HAS HAD ADEQUATE URINE OUTPUT > OR = TO 60CC/HR.  URINE IS NOTED TO BE CLEAR BUT GREENISH IN HUE- THIS MAY BE DUE TO PROPOFOL DRIP.  TEAM IS AWARE.  
+
+INTEG:  PT HAS NO NOTED SKIN BREAKDOWN TO BACK OR BUTTOCKS.
+
+ENDO:  CONTINUE WITH FINGER STICKS- NO ISSUES WITH LEVELS THIS PM.
+
+PLAN:  CONTINUE TO MONITOR PT'S CARDIAC STATUS- Q
+",,
+5996,16366,7464,0,3192-10-19 04:48:00 EST,3192-10-19 05:13:00 EST,-1,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+(Continued)
+UESTIONABLE HEAD STUDY TO RULE OUT BLEED, POSSIBLE WEANING OF VENTILATOR, REMEDY METABOLIC ACIDOSIS AND TREAT ELECTROLYTES AS NEEDED.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+",,
+5996,16366,7464,0,3192-10-19 16:40:00 EST,3192-10-19 17:18:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress Note- 7a-7p-- MICU Orange Team
+Pt had stable day. Controlling aggitation, secretion maintainance, attempting to correct met alkalosis w/ ^ pco2, dec ph, ^ Na, and changed to PSV. 
+Neuro-
+Mildly aggitated this am on Prop @20m/k/m, w/ episodes of trying to sit up, reaching for ET and OG tubes, sliding legs OOB wh/ were controlled w/ Ativan prn 1-2 mg. Later in day p change to PSV, pt more alert, able to FC consistantly, mouthing answers to questions, but w/ mild aggitation, maintained on Prop @20.
+Pt has hx anxiety at baseline, chain smoker
+REsp- Initially on IMV, tol dec'd rate to 8, therefore changed to PSV start @ 20 w/ Vt >1L, dec'd PS to 12 w/ Vt 700-750, RR 8-13, calm and comfortable; abg>7.49/63/68/47/20. Sx q2h for mod - large amt sec.  Probable tracheal bronchitis, no infiltrate on CXRY. On Levoflox day #3; vanco d/c today. Prednisone course cont, dec from tid>qd.  Afebrile
+Metabolic/renal/GI- PH 7.52 this am prob from large amt OG output-500 overnight, 700 day, OB+; recently on prednisone for COPD exacerbation and now getting another course of prednisone IV qd. Hypo BS, ND, no stool, 
+PSV allowed PCo2 to increase to 63, dec pH 7.49, Na 135 now 137. Pt is dry w/ U/O low @20-30/hr> NS @ 80/hr x500cc. Bun 19/ cr.5. 250 of 500 cc bolus planned to finish @7-8pm.  RE-assess @ that time.
+Cardiac- Very stable- 60-80 nsr w/ rare pvc; BP114-130/55-70.Probable NQWMI [**1-29**] d ago.  EKG in am.
+Social-
+Daughter from RI visiting pt this afternoon.  Status and plan explained to her in detail.  She is appropriate and appreciative of care and information.
+
+",,
+5996,16366,7464,0,3192-10-20 05:40:00 EST,3192-10-20 05:45:00 EST,2052,"N",69,"Nursing/Other",,"
+
+attempted wean @ 0600.0 peep-10 ips-40%. tol.well enough for about 10"". increased rr to 37, decreased vt to 170. pt. then put back on 5cpap. could not tol.cpap wean without peep.
+",,
+5996,16366,7464,0,3192-10-20 05:54:00 EST,3192-10-20 06:17:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN 7p-7a:
+     RESP: pt vented psv 10/5/.40.. tv's 350-400 x teens.. RR increased to high 20's low 30's when aggitated, or when in need of repositioning.. pt had episode of O2 desaturation to low 90's..  at that time, po2 56... team aware.. pt sx'd with no improvement... pt repositioned in bed with sats up to mid to high 90's.. abg this am shows po2 70's, sat mid 90's. sx q 3 hrs for white thick secretions. 
+pt with rr up to 35 and tv's down to 200 with weaning trial this am.. RT placed pt back on psv 10/5.
+    CV: pt with 11 beat episode svt with rate up to 150.. team aware.. ekg down, showing ? new ischemic changes.. cpk's being cycled.. otherwise HR 60's-80's nsr. bp stable.. 100-110/50. no cp.
+     Neuro: pt opening eyes to voice, following commands.. cont with periods of aggitation, trying to pull out ett.. propofol increased to 30mcg/kg/min o/n, and ativan given 2mg x 1 and 1mg x 1 with transient effect.. proporol decreased at 5am to yesterday's dose.. maE.
+      FE: pt cont on ivf o/n.. received 40meq kcl.. repeat K during k infusion 3.5 (K 3.0 last eve).. am labs reflect K repletion o/n. fsbs wnl.. ivf at kvo since 5am when last ivf ordered completed.. please check with team r/e next order.. received thiamine/folate iv and b12 IM injection. UO 15-60cc's/hr. team aware.  
+     GI: cont with coffee ground output via ngt, with dark red tinge, ob +.. unchanged per ho, no furhther orders no stool.
+      A/P: pt cont with periods aggitation, lightly sedated on psv... did not tolerate weaning trial this am.. reeval today. ? caridiac process... check results am labs.. follow K+, hemodynamics, follow cpk's, ekg this am.. follow hct, gi output. cont propofol for now.
+",,
+5996,16366,7464,0,3192-10-20 12:51:00 EST,3192-10-20 13:12:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress 7a-3p
+review of systems:
+CV-vs have been stable with hr in the 50's-60's sb/nsr, with rare pvcs. bp 100-120/.on iv lopressor as ordered. CK 86 this am-3rd one to be drawn at 2 pm.
+ID-afebrile. on iv levo.wbc=6.6.
+GI-abd is soft with hypoactive bowel sounds.no stool today. OGT has been to low intermittent sx-draining red-brown liquid, ob+.placement checked.currently ogt is clamped following meds.on protonix bid.
+F/E/N- ivf of NS with 40 KCl infusing at 80/hr x 1 litre.has had a mediocre urinary output, amber clear urine. has a large insensible loss via copious oral secretions.no peripheral edema noted. tx with additional 40 po Kcl down ogt. no insulin given as per sliding scale.to start on tube feeds as per nutrition recommendations.
+NEURO-despite propofol infusing at 20 mcgs/kg/min, pt has been easily arousable, restless, trying to extubate self and climb out of bed.is mouthing words.was tx with 2-3 ccs boluses of propofol for ekg,sx.she became quite agitated with rr 30 and sat down to 88% while weaning-was tx with 2 mgs ivp ativan as per HO-now dozing.hands restrained.
+RESP-was tried on 5+5 PSV but pt did not tolerate- TVs 200 and RR 30.later in the morning she was tried on 8+5, did better for short time-then required the sedation above.once she was snoozing was briefly on 5+5, then returned to 8+5 as per RT. has been sx several times for thick-thin white sputum, also copious oral secretions. Sats have been 88-92% even while pt sitting bolt upright and awake.occasionally she bites on tube.lungs sound pretty clear, few upper airway rhonchi.cxr unchanged as per team.prednisone decreased to 60 mgs/qd.
+a-stable, agitation is an issue
+p-will recheck cardiac enzymes 2 pm.start tube feeds as per nutrition-will need to hold them after 3am for hopeful extubation in the am.pm labs to be drawn at 7pm.will leave on 8+5 overnight as she tolerates.maintain good pulm toilet.will continue with propofol as we have been.
+",,
+5996,16366,7464,0,3192-10-20 13:39:00 EST,3192-10-20 13:40:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress addendum
+pt is NOT on iv lopressor as stated in above note.
+",,
+5996,16366,7464,0,3192-10-21 03:25:00 EST,3192-10-21 03:45:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Review of systems:
+
+Neuro:  At start of shift pt was on 20 mcg/kg/min.  pt was extremely aggitated and made several attempt to pull ETT out.  Pt was in restraints, but was also succesfull in grabbing ETT.  Dr [**Last Name (STitle) 1844**] was called and pt Propofol gtt was to be increased untill desired level of sedation was reached.  Gtt was increased to 40 mcg/kg/min and worked well for pt.  Sedation now being weaned for possible extubation in AM.  Even when well sedted pt is able to follow simple commands and answer some questions.  at times pt was slightly confused, but was easily reoriented.
+
+CV:  Pt BP has remaind stable throughout shift 120-140/60-70.  pt BP increases with aggitation.  While pt in at reat pt's HR dropped down in to lower 50's. Pt was asymptomatic with the droped in HR.
+
+Resp:  Pt remains on vent PS [**6-5**] overnight, plan is to attempt to extubate in the AM.  pt has required q 2-3 hour suctioning for a mod amount of semi-thick yellow secreations.  Pt sao2 is > 94 on current settings.  pt was unable to wean effectivly yesterday.  will asses pt ability to decrease PS this AM.
+
+GI/GU:  Pt had one small brown BM.  Pt I > O last night.  pt given a STAT dose of lasix 20 mg given wih great results.  Pt put out over 1 liter in 3 hours after lasix dose.  UO starting to decrease. will continue to monitor.
+
+Lines:  Pt has 2 PIV first is R AC # 20 with sluggish BR and + Flush. second is L arm with good BR and Flush.  Pt has a R rad ART line wich is funtioning WNL.
+
+Plan:  try to extubate pt today.  Keep an Eye on I and O.
+",,
+5996,16366,7464,0,3192-10-21 16:51:00 EST,3192-10-21 17:12:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-B NPN:
+
+Neuro:  Propofol gtt off @ 9:00 a.m.  Pt. not oriented to place this a.m. after extubation but remained A&O x3 throughout rest of shift.  Remained calm/cooperative/appropriate throughout shift. 
+
+Resp:  Pt. extubated @ 9:30 a.m.  Breath sounds coarse throughout, productive cough with sputum changing from mod. amnts. thick yellow to sm. amnts. thick white throughout shift.  Pt. refusing MDI's- states they ""give her the shakes inside and out"".  Pt. amenable to incentive spirometer teaching.  Supplemental O2 alternating between 40% CN- 2.5 l NC with  O2Sat 90%-97%.  Pt. does de-Sat to 85%-86% while off O2.  
+
+CV:  HR 70's-90's with very rare PVC's, SBP 90's-120.  No edema. Proph. Heparin SQ.
+
+GI:  BS active after Propofol gtt off/po's  started.  Pt.  takes excellent po's.  No c/o nausea.  No BM this shift.  Bedside commode in room.  Consuming house diet at this time.
+
+Derm: D&I.
+
+Activity:  OOB to chair x 3 hrs. today.  Wt. bearing but unsteady on feet.  PT/OT consult planned for tomorrow.
+
+Social:  Dgtr. visiting, updated and agreeable to plan.
+
+Dispo:  Called out for bed to floor.  Poss. d/c from here to rehab.-message left with case management.  Otherwise d/c to home if safe.  Transfer note updated.
+",,
+5996,,7464,0,3192-10-22 04:08:00 EST,3192-10-22 04:17:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT ALERT AND ORIENTED, BUT IS NOT COMPLYING WITH TREATMENT. NICOTINE PATCH REPLACED AT 2200, SHORTLY AFTER THAT PATCH WAS FOUND ON FLOOR. PT STATED SHE TOOK IT OFF. PT TAKING OFF OTHER MONITORING DEVICES THROUGHOUT THE NIGHT. ATTEMPTING TO GET OOB WITHOUT ASSISTANCE. PT C/O UNABLE TO [**Doctor Last Name **] AND TIRED OF STAYING IN BED. 
+WITHOUT O2 PTS O2 SAT'S DROP QUICKLY TO THE LOW 80'S. PT'S LUNG SOUNDS ARE COARSE AND WHEEZY. REFUSES INHALERS BUT WILL DO THE IS WITH ENCOURAGEMENT. 
+FOLEY CATH PATENT DRAINING AMBER/PINK URINE WITH CLOTS.  
+PT TAKING PO'S WITHOUT DIFF. NO DIFF SWALLOWING. 
+PT WILL MOST LIKELY BE CALLED OUT TODAY. PT IS FULL CODE.
+",,

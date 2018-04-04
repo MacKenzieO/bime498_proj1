@@ -1,0 +1,1763 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5197,14844,,,2512-10-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2512-10-7**]              Discharge Date:   [**2512-11-8**]
+ 
+Date of Birth:  [**2457-3-10**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 474**] 
+Chief Complaint:
+dyspnea/hypoxia
+ 
+Major Surgical or Invasive Procedure:
+chest tube insertion
+ 
+History of Present Illness:
+55 yo male with h/o cirrhosis (hep C v. autoimmune) transferred 
+from [**Hospital1 250**] with SOB x 1 week, pneumonia on CXR, elevated 
+lactate and hypoxia. He notes worsening SOB for past week with 
+pleuritic chest pain in R side. He also complains of fatigue and 
+dysuria. He has some cough but only occasionally brings up 
+sputum. He went to [**Hospital3 **] and was given ceftriaxone, 
+azithro and solumedrol. He was also found to be in acute renal 
+failure with Cr 4.9, K 5.7. Tox screen positive for opiates. He 
+was transferred to [**Hospital1 83**] on NRB bc they did not have any ICU 
+beds available. he denies fevers, chills. He does complain of 
+itchy skin. 
+.
+On arrival to [**Hospital1 83**] ED, his vital signs were T97.6 P104 BP105/57 
+R28 94% on NRB. He was given zosyn, vitamin K 10 mg SQ, 
+kayexalate
+ 
+Past Medical History:
+Cirrhosis: autoimmune v. Hep C  with possibility of alcoholic 
+hepatitis(s/p tx with interferon and ribiviron 18 mos ago with 
+recurrence). Seen by Dr. [**Last Name (STitle) 5986**].
+chronic hepatitis C diagnosed on routine blood work (genotype 3 
+and had a liver biopsy on [**2512-5-6**] noting grade [**8-10**] and stage 
+[**4-4**])
+Alcohol excess, quit 20 years ago 
+Pancreatitis 
+Hard of hearing, wears a hearing aid 
+Splenic rupture secondary to a fall off a roof 
+Bilateral lower leg edema 
+Diverticulosis by history 
+Left femur fx with ORIF 
+Appendectomy
+ 
+Social History:
+He is single, has a 29 year old son, is on disability, used to 
+work as a roofer X 30 years 
+He stopped smoking 20 years ago. 
+No alcohol in 24 years. 
+ 
+Family History:
+Mother is living, age 77, macular degeneration 
+Father is living, age 80, has glaucoma and DJD 
+He has 4 brothers, 3 living, one deceased in [**2510**] from AIDS 
+No sisters 
+ 
+Physical Exam:
+VS: Tc 97.9 Tm 98.4 RR 62-75 BP 105-140/61-84 RR 14-31 O2Sat 95% 
+on 5L  
+Gen: WDWN man sitting in bed crying  
+HEENT: Head-excoriations on head from scratching, PERRLA, EOMI, 
+OP clear  
+Neck: no JVD  
+CV: RRR, nl s1, s2, no m/g/r  
+Lungs: decreased R base breath sounds, crackles bilaterally 
+midway up back  
+Abd: BS+, soft, NT, ND, no hepatomegaly  
+Ext: Bilateral 1+ pedal edema, + asterixis  
+Pulses: 2+ radial and DP  
+A/P 55 yo Male admitted with pneumonia on CXR w/ complicated 
+effusion s/p chest tube placement on Vancomycin/Daptomycin.
+ 
+Pertinent Results:
+RADIOLOGY
+.
+US ABD LIMIT, SINGLE ORGAN  [**2512-10-7**] 
+1. Slightly and coarse liver consistent with patient's known 
+history of cirrhosis.
+2. No intra- or extra-hepatic bile duct dilatation.
+3. The gallbladder is not distended but the wall is edematous. 
+These are most likely secondary to periportal hypertension. 
+Clinical correlation is recommended.
+4. Moderate-sized right pleural effusion.
+5. No evidence of ascites.
+CHEST (PORTABLE AP)  [**2512-10-7**]
+IMPRESSION: Moderate right pleural effusion. Right middle and 
+lower lobe consolidation may represent pneumonia or compressive 
+atelectasis. Left basilar atelectasis versus pneumonia.
+RENAL U.S.  [**2512-10-10**] 3:09 PM
+Reason: MRSA BACTEREMIA ,EVAL FOR ABSCESS
+IMPRESSION: Normal-sized kidneys. Splenomegaly. No evidence of 
+perirenal abscess.
+************
+CT PELVIS W/CONTRAST  [**2512-10-12**] 4:15 PM
+1. Interval placement of a right-sided chest tube. There is a 
+small associated right pneumothorax. There has been interval 
+decrease in the degree of atelectasis in the right lung. No 
+definite empyema is identified.
+2. Findings consistent with cirrhosis, including nodular liver, 
+and ascites. No enhancing fluid collections within the liver or 
+within the abdomen, to suggest the presence of an 
+intra-abdominal source of infection.
+*****************
+BONE SCAN  [**2512-10-17**] 
+Reason: 55 YR OLD MAN W/ HEP C CIRRHOSIS W/ MRSA PNEUMONIA W/ 
+EMPYMA PLEASE EVAL FOR OSTEO L HIP
+IMPRESSION: No evidence for osteomyelitis. Small amount of 
+increased uptake in the right anterior lower ribs suggests prior 
+trauma. 
+.
+CARDIOLOGY
+.
+ECHO Study Date of [**2512-10-11**]
+1. The left atrium is moderately dilated.  
+2. The left ventricular cavity size is normal. Overall left 
+ventricular  
+systolic function cannot be reliably assessed.  
+3. The aortic valve leaflets are mildly thickened. The aortic 
+valve is not well seen. Mild (1+) aortic regurgitation is seen.  
+
+4. No obvious evidence of endocarditis seen.  
+.
+ECHO Study Date of [**2512-10-17**]      
+Conclusions:  
+The left atrium is dilated. No spontaneous echo contrast is seen 
+in the body of the left atrium. No atrial septal defect is seen 
+by 2D or color Doppler. Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. The ascending, transverse and 
+descending thoracic aorta are normal in diameter and free of 
+atherosclerotic plaque. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion. No masses or 
+vegetations are seen on the aortic valve. Mild (1+) aortic 
+regurgitation is seen. The mitral valve leaflets are 
+structurally normal. No mass or vegetation is seen on the mitral 
+valve. Mild (1+) mitral regurgitation is seen. No 
+vegetation/mass is seen on the pulmonic valve.  
+IMPRESSION: No valvular vegetations seen.  
+
+CYTOLOGY
+.
+Cytology Report PLEURAL FLUID Procedure Date of [**2512-10-8**] 
+NEGATIVE FOR MALIGNANT CELLS. 
+Numerous neutrophils, scant reactive mesothelial cells and 
+inflammatory cells. 
+.
+Cytology Report PERITONEAL FLUID Procedure Date of [**2512-10-20**] 
+NEGATIVE FOR MALIGNANT CELLS. 
+Macrophages, mesothelial cells and blood. 
+
+ 
+Brief Hospital Course:
+55 yo male with h/o cirrhosis (hep C v. autoimmune) transferred 
+from [**Hospital1 250**] with SOB x 3 week and R sided chest pain, pneumonia 
+on CXR, elevated lactate and hypoxia. He notes worsening SOB for 
+past week with pleuritic chest pain in R side. He also complains 
+of fatigue and dysuria. He has some cough but only occasionally 
+brings up sputum. He went to [**Hospital3 **] and was given 
+ceftriaxone, azithro and solumedrol. He was also found to be in 
+acute renal failure with Cr 4.9, K 5.7. Tox screen positive for 
+opiates. He was transferred to [**Hospital1 83**] on NRB bc they did not have 
+any ICU beds available. He denied fevers, chills, but complained 
+of itchy skin.  In the MICU, he was started on Vanc, Levo and 
+Ceftriaxone, which was eventually broadened to include flagyl.  
+A noncontrast CT showed a RLL consolidation and R pleural 
+effusion without evidence of loculation.  Thoracic surgery was 
+consulted and they placed a chest tube [**10-8**] with development of 
+small basilar PTX --> small R lateral PTX [**10-10**], with drainage 
+of ~1.2 L.  Pleural fluid showed 51,500 WBC, 74% PMNs, 2% Bands, 
+23% monos, 16,900 RBC, TP 4.4, LDH 5108, Glucose 6, Amylase 21, 
+Albumin 2.1 and grew out MRSA.  Blood cultures and Urine 
+cultures also grew out MRSA.  Serial cultures have since been 
+NGTD from [**10-9**] and [**10-10**].  His Abx regimen was changed to Vanc 
+and Levo.  His ARF was thought to be prerenal and he was gently 
+hydrated with IVF with a CVP between [**10-12**] to keep CVP > 12.  
+Urine eos were negative.  A renal ultrasound was also ordered 
+given MRSA in his urine to assess for renal abscess and was 
+negative, revealing only trace ascites and an enlarged spleen.  
+His BUN/Cr eventually improved from 85/4.2 to 65/1.2  Hepatology 
+was called because of his hx of Hep C hepatitis vs. Autoimmune 
+hepatitis with AST 79, ALT 71, Alk Phos 151, Bili 7.1 and 
+believed that it was more likely an HCV flare with hepatic 
+encephalopathy and cholestasis.  They recommended lactulose TID 
+to QID, volume resuscitation, holding aldactone until after IVF 
+resuscitation and stress dose steroids as well as variceal 
+screening once his respiratory status had improved (MELD 31).  
+His Liver panel improved to AST 89, ALT 58, Alk Phos 130, Bili 
+4.6.  He was started on labetalol and his aldactone was 
+restarted.  On [**10-10**], he was d/c'ed to the floor.
+
+55yo man with history of cirrhosis likely secondary to hepatitis 
+C
+presented with RML/RLL pneumonia, complicated parapneumonic 
+effusion, and
+high grade MRSA bacteremia. 
+
+# MRSA pneumonia
+
+This was heralded by progressive dyspnea, fever, pleuritic 
+symptoms, and hypoxia. He was found to have RML and RLL 
+pneumonia. Sputum cultures grew out MRSA. Additionally,
+he had a complicated parapneumonic effusion, which required the 
+placement of a chest tube for drainage. Pleural fluid grew out 
+MRSA as well.  He was initially treated with 
+vancomycin/levaquin/flagyl, which was tapered down to 
+vanco/levaquin. He made progressive improvement and was weaned 
+from NRB to 5L nasal canula.
+.
+# High grade MRSA bacteremia
+Initial blood cultures were significant for 4/4 bottles with 
+MRSA. He was continued on vancomycin. TEE did not show any 
+vegetations. He also had a renal US to rule out
+a perinephric abscess, as he had MRSA in the urine as well which 
+is not uncommon with MRSA bacteremia. He was also started on 
+Gentamycin and Daptomycin as his bacteremia did not clear with 
+Vancomycin. Subsequently his Vanc was D/C'ed as patient 
+responded to Daptomycin. Gentamycin was D/C'ed as patient 
+developed acute renal failure most likely related to gentamycin 
+toxicity. Daptomycin to be continued for 4 weeks after its 
+initiation on [**2512-10-19**]. 
+.
+# Acute renal failure: most likely ATN [**2-3**] Gent toxicity; urine 
+sed showed brown muddy casts. FeNa intially did improve with 
+hydration and so was thought to be prenal most likely 
+Hepato-renal. However given the brown muddy casts and improving 
+FeNa, most likely ATN. negative urine eos consistently. 25 g IV 
+albumin given [**2512-10-20**]. Peak Creatinine was 6.6 which started 
+trending down at the time of discharge. He did not have any 
+signs of uremia or severe volume overload and so was not started 
+on HD. Will need to check Creatinine every 3-4 days.
+.
+# Cirrhosis
+Medical regimen was optimized with beta blocker for variceal 
+bleeding prophylaxis, aldactone for diuresis, and lactulose 
+titrated upward for encephalopathy. Liver team was following. 
+Bilirubin peaked at 8.9. EGD negative for varices, but showed 
+some gastritis - was on PPI.  U/S [**10-10**] showed small amount of 
+ascites --> CT [**10-12**] showed large amount of ascites --> 
+diagnostic/therapeutic paracentesis removed 2 L with SAAG of 
+-0.2. Hepatology of opinion that this was not unusual for bad 
+cirrhosis.  Vit K 10 mg SC x 3 days finished without improvement 
+in INR.
+.
+# Hyponatremia: Sodium of 132 on admission, was likely [**2-3**] to 
+portal hypertension from cirrhosis.  Low albumin can cause 
+dilutional effect . He was on free water fluid restriction at 
+1.5 L. 
+.
+# Thrombocytopenia - Plt ct of 97 on admission. likely due to 
+cirrhosis with secondary hypersplenism (large spleen on U/S). 
+Was not on heparin gtt during this course of hospital admission.
+.
+# Anemia - HCT of 36.3 on admission, macrocytic anemia. Likely 
+secondary to cirrhosis and anemia of chronic disease. Hemolysis 
+labs [**10-14**] showed Indirect bili 4.2, Retic % 2.6% (RI 1.6 - 
+inadequate), LDH 283 (slightly high), but Haptoglobin 110. Given 
+splenomegaly - believe this to be hemolysis in spleen from 
+cirrhosis. He was Guaiac negative. He was being transfused for 
+hct < 24.
+.  
+# COPD: continued on nebs
+.  
+# Psych: He was occasionally agitated (likely component of 
+hepatic encephalopathy) with labile mood and expressed feelings 
+of hopelessness, depression. No active suicidal ideation, though 
+expressed thoughts of ""if only I just didn't wake up"". No HI.  
+Was continued on sertraline.
+.  
+# Pruritus - Derm was consulted. Most likely from 
+Hyperbilirubinemia, Uremia. Recommended sarna, hydroxyzine, 
+(hydrocortisone tried for pruritus without much effect). Also 
+had herpes II positive (back lesion) -> holding on Acyclovir as 
+pt in renal failure. Did not consider increasing doxepine to 50 
+mg QHS (as recommended by derm) because of renal/hepatic 
+toxicity.
+. 
+# RLE slight warmth and swelling - mostly pitting edema.  RLE 
+U/S negative for DVT. Not on heparin because of 
+thrombocytopenia.  Continued on pneumoboots, heparin sq  
+.  
+# Diarrhea - likely from all of his lactulose, but given recent 
+low grade fever and multiple Abx, a c diff was negative.  
+. 
+# PPX: PPI, pneumoboots, heparin sq  
+ 
+Medications on Admission:
+Meds
+Spironolactone 50 mg (for leg swelling) 
+Lactulose (for constipation) 
+Zyrtec 
+Zoloft 200 mg 
+Protonix 40 mg daily 
+Prednisone 10 mg daily 
+Ibuprofen prn 
+Vicodin prn 
+ 
+Discharge Medications:
+1. Albuterol Sulfate 0.083 % Solution Sig: [**1-3**]  Inhalation Q6H 
+(every 6 hours) as needed.  
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+4. Sertraline 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+5. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for agitation.  
+6. Lactulose (for Encephalopathy) 10 g/15 mL Solution Sig: Three 
+Hundred (300) ML PO Q3-4H (Every 3 to 4 Hours) as needed.  
+7. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical  
+QID (4 times a day).  
+8. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed for pain.  
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+
+11. Outpatient Lab Work
+Please check your Creatinine every 5 days and report it to your 
+primary care physician or your kidney doctor.
+12. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed.  
+14. Hydrocortisone 0.5 % Ointment Sig: One (1) Appl Topical  TID 
+(3 times a day) as needed.  
+15. Prochlorperazine 5 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed.  
+16. Doxepin 25 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+17. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl 
+Topical  BID (2 times a day).  
+18. Terbinafine 1 % Cream Sig: One (1) Appl Topical  BID (2 
+times a day) for 4 weeks.  
+19. Pramoxine-Mineral Oil-Zinc 1-12.5 % Ointment Sig: One (1) 
+Appl Rectal BID (2 times a day): Please apply to itching area.  
+20. Cholestyramine-Sucrose 4 g Packet Sig: One (1) Packet PO BID 
+(2 times a day).  
+21. Ketoconazole 2 % Shampoo Sig: One (1) Appl Topical  ASDIR 
+(AS DIRECTED).  
+22. Clotrimazole 1 % Cream Sig: One (1) Appl Topical  BID (2 
+times a day).  
+23. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+24. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed.  
+25. Clobetasol 0.05 % Cream Sig: One (1) Appl Topical  TID (3 
+times a day).  
+26. Lactulose 10 g/15 mL Syrup Sig: Fifteen (15) ML PO BID (2 
+times a day).  
+27. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+28. Fluocinolone 0.01 % Solution Sig: One (1) Appl Topical  TID 
+(3 times a day) as needed for scalp itching.  
+29. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-3**] Sprays Nasal 
+BID (2 times a day) as needed.  
+30. Pramoxine 1 % Lotion Sig: One (1)  Topical  QID (4 times a 
+day).  
+31. Pramoxine-Hydrocortisone [**1-2**] % Cream Sig: One (1)  Topical  
+QID (4 times a day) as needed for pruritis.  
+32. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+33. Daptomycin 500 mg Recon Soln Sig: One (1)  Intravenous  once 
+a day for 12 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) **] healthcare center
+ 
+Discharge Diagnosis:
+1. cirrhosis
+2. MRSA pneumonia, complicated parapneumonic effusion
+3. high grade MRSA bacteremia
+4. hepatic encephalopathy
+5. acute renal failure
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+1. Continue to take your medications as prescribed
+2. Call your doctor or return to the emergency room for any 
+fever/chills/chest pain/cough/trouble breathing/ or any other 
+concerning symptoms.
+3. [**Doctor First Name 10**] should take your antibiotic for 4 weeks from [**10-19**].
+4. Please check your Creatinine every 5 days to monitor its 
+trend and report it to your PCP or your kidney doctor.
+ 
+Followup Instructions:
+Please make an appointment to see your Primary Care physician [**Last Name (NamePattern4) **] 
+2-3 weeks.
+.
+For your chest tube drainage and collection: Provider: [**Last Name (NamePattern4) **]. 
+[**Last Name (STitle) 224**],[**First Name3 (LF) 4191**] [**Doctor First Name 5987**] MULTI-SPECIALTY THORACIC 
+UNIT-CC9 Phone:[**Telephone/Fax (1) 2824**] Date/Time:[**2512-11-22**] 1:30
+.
+Infectious Disease Specialist: Provider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] TAN 
+Phone:[**Telephone/Fax (1) 2296**] Date/Time:[**2512-12-2**] 10:00
+.
+Kidney Disease Specialist: Provider: [**First Name8 (NamePattern2) 2845**] [**Name11 (NameIs) 2846**], [**Name Initial (NameIs) **].D., PH.D. 
+Date/Time:[**2512-12-22**] 3:00
+.
+If [**Doctor First Name **] wish to see the Dermatologist, [**Doctor First Name **] can call [**Telephone/Fax (1) 108**] 
+to make an appointment with Dr. [**First Name8 (NamePattern2) 5988**] [**Name (STitle) 5989**] who saw [**Doctor First Name **] as an 
+inpatient.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 490**] MD [**MD Number 491**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) 3387**] MD [**MD Number 3388**] [**2512-11-8**] @ 1305
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**2512-11-23**] 11:42 AM
+(End of Report)
+
+
+",,
+5197,14844,,,2512-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-7**] 5:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9075**]
+     Reason: Please evaluate PNA and effusion                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with known cirrhosis and PNA with worsening SOB                 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate PNA and effusion                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  55-year-old man with known cirrhosis and pneumonia with worsening
+     shortness of breath.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The heart size is normal.  There is a moderate right pleural
+     effusion with consolidation of the right middle and lower lobes.  No definite
+     left pleural effusion is identified.  There is left basilar opacification,
+     which partially obscures the left heart border and hemidiaphragm.  Linear
+     atelectasis is noted in the mid left lung field.  Osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  Moderate right pleural effusion.  Right middle and lower lobe
+     consolidation may represent pneumonia or compressive atelectasis.  Left
+     basilar atelectasis versus pneumonia.
+                                                                           
+
+",,
+5197,14844,,,2512-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-7**] 8:23 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 9076**]
+     Reason: ? mark for tap, ? obstruction                               
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with cirrhosis.                                                 
+     REASON FOR THIS EXAMINATION:
+      ? mark for tap, ? obstruction                                                   
+     ______________________________________________________________________________
+     WET READ: FKh FRI [**2512-10-7**] 8:50 PM
+      moderate right pleural effusion. no ascitis.
+      echogenic liver suggesting inexpecific liver disease. No intra or
+      extrahepatic bile duct dilatation. CBD 5mm. 
+      Not particularly distended GB. It contains sludge and has wall thickening.
+      The wall thickening could be secondary to liver disease, but clinical
+      correlation recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increased LFTs.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  There is a moderate-sized right pleural
+     effusion.  The liver is slightly echogenic, there are no focal lesions.  There
+     is no intra- or extra-hepatic bile duct dilatation.  The common bile duct
+     measures 5 mm and is normal.
+     The gallbladder is not distended.  However, it contains sludge and gallbladder
+     wall edema.  The edema could be secondary to liver disease.  Clinical
+     correlation recommended.  There is no evidence of ascites.
+     
+     IMPRESSION:
+     1.  Slightly and coarse liver consistent with patient's known history of
+     cirrhosis.
+     2.  No intra- or extra-hepatic bile duct dilatation.
+     3.  The gallbladder is not distended but the wall is edematous.  These are
+     most likely secondary to periportal hypertension. Clinical correlation is
+     recommended.
+     4.  Moderate-sized right pleural effusion.
+     5.  No evidence of ascites.
+     
+
+",,
+5197,14844,6454,,2512-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-8**] 1:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9077**]
+     Reason: s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of R side, rule out ptx, assess remaining pleural 
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        55 year old man with known cirrhosis and PNA with worsening SOB               
+         
+     REASON FOR THIS EXAMINATION:
+      s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of R side, rule out ptx, assess remaining pleural fluid               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2512-10-8**], AT 01:48 HOURS
+     
+     INDICATION:  55-year-old male with known cirrhosis and pneumonia.  Worsening
+     shortness of breath.
+     
+     FINDINGS:  Since [**2512-10-7**], there has been interval increase in
+     underlying pulmonary edema.  Bilateral pleural effusions are again seen, right
+     side greater than left.  There is also bibasilar atelectasis. 
+     Cardiomediastinal silhouette remains enlarged.  There is no evidence of
+     pneumothorax.  The osseous structures are unchanged.
+     
+     IMPRESSION:  Interval increase in underlying pulmonary edema.
+                                                                           
+
+",,
+5197,14844,6454,,2512-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-8**] 3:00 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9080**]
+     Reason: Please check Chest tube placement                           
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          55 year old man with known cirrhosis and PNA with worsening SOB  , s/p R 
+      sub  clav placement                 
+     REASON FOR THIS EXAMINATION:
+      Please check Chest tube placement                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE
+     
+     INDICATION:  55-year-old man with cirrhosis.  Chest tube placement.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed and compared
+     with the previous study of 3:49 a.m.
+     
+     There is a new right chest tube overlying the right mid lung.  The sidehole of
+     the chest tube is at the chest wall.  There is small right lateral, medial and
+     basilar pneumothorax (15%).  There is associated mild subcutaneous emphysema
+     in the right chest wall.
+     
+     There is continued mild congestive heart failure with cardiomegaly.  The
+     previously identified right pleural effusion has been decreased in size.  The
+     right subclavian IV catheter terminates in the superior vena cava.
+                                                                           
+
+",,
+5197,14844,6454,,2512-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-8**] 10:31 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 9079**]
+     Reason: evaluate effusion                                           
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with PNA and effusion w/ pH 6.68                                
+     REASON FOR THIS EXAMINATION:
+      evaluate effusion                                                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and pleural effusion.  Please do non-contrast chest CT.
+     
+     TECHNIQUE:  Non-contrast axial images through the chest.
+     
+     NON-CONTRAST CHEST CT:  There is right lower lobe collapse/atelectasis and
+     scattered bilateral atelectasis. There is a small right pleural effusion.
+     There is pleural thickening on the right. There is left lower lobe
+     atelectasis. There is minimal calcification of the aorta and the coronary
+     arteries.  There is no definite loculated component of the pleural fluid on
+     this noncontrast scan. The airways are patent to the level of the subsegmental
+     bronchi bilaterally. There is no pericardial effusion. Limited views of the
+     upper abdomen on this non- contrast CT scan are unremarkable.
+     
+     There are no pathologically enlarged axillary, hilar, or mediastinal lymph
+     nodes.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     
+     IMPRESSION:  Findings consistent with right lower lobe consolidation such as
+     pneumonia and a small right pleural effusion, without appreciable loculated
+     component on this limited noncontrast scan.
+
+",,
+5197,14844,6454,,2512-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-8**] 3:23 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9078**]
+     Reason: assess placement of R sub clav, r/o ptx                     
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         55 year old man with known cirrhosis and PNA with worsening SOB  , s/p R sub 
+      clav placement                 
+     REASON FOR THIS EXAMINATION:
+      assess placement of R sub clav, r/o ptx                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST [**2512-10-8**] AT 0349 HOURS
+     
+     INDICATION:  55-year-old male with known cirrhosis and pneumonia.  Worsening
+     shortness of breath.
+     
+     FINDINGS:  Since study performed earlier on this day at 0148 hours, there is a
+     new right subclavian central venous catheter, tip projecting at the level of
+     the right atrial/superior vena cava junction.  No evidence of pneumothorax is
+     seen.  There is persistent pulmonary edema, and bilateral pleural effusions. 
+     Atelectasis is seen within the right lung base.  Cardiomediastinal silhouette
+     is stable.
+     
+     IMPRESSION:  No pneumothorax.  Persistent pulmonary edema.
+                                                                           
+
+",,
+5197,14844,6454,0,2512-10-08 05:19:00 EST,2512-10-08 05:49:00 EST,2783,"N",69,"Nursing/Other","Nursing Admit/Progress Note 2130-0700","
+Nursing Admit/Progress Note 2130-0700
+This 55yo presented to [**Hospital **] Hosp with C/O SOB, wheezing and R chest/back pain X 1wk. CXR showed R-sided PNA, and pt was tx'd with antibiotics and steroid. He also had elevated creat and K+, bilat LE +3 edema. He was transferred to [**Hospital1 2**] as there were no ICU beds available @ [**Hospital **] Hosp. PMH includes cirrhosis/Hep C.
+
+Review of systems:
+
+Neuro: Pt cooperative but occas has difficulty answering questions promptly. MAEE. Turning STS with minimal assist. Multiple scars/scabs on fingers, arms, forehead. Pt C/O R back/chest pain, as well as bilat leg discomfort that he has at baseline. Pt rec'd MSO4 2mg @ 0230 for distress assic with line placement with HOB flat. Pt able to [**Doctor Last Name 65**] since ~ 0400. 
+
+Resp: Pt rec'd on non-rebreather mask with sat ~90%. NC @ 5liters added with O2 sats 92-96%. RR initially tachypnic to rate 30, now rate 16 and regular. Lung snds coarse on L, coarse RUL with occas Exp wheezes and diminished RLL. Non-productive cough. Thoracentesis done to R side, producing ~800ml reddish/brown purulent fluid. Spec hand-carried to lab. Pt tol procedue well. [**Name8 (MD) **] MD consulted and chest tube deferred @ this time.
+
+CV: HR 95-114Sr without ectopy. BP 90/54-115/63. CVP 9-11. Pt rec'd FFP X 2 before procedures, and had rec'd Vit K in ED. Latest INR 1.8.
+Calcium repleted with CaGluconate 3gm, not totally infused before repeat ionized calcium 1.05. AM K+ 4.6(5.7).
+
+GI: Pt has remained NPO, but requesting food several times. Abd soft, distended/obese with hypoactive bowel snds. No stool since admit. 
+
+GU: Foley inserted, draining yellow urine with sed in adequate amts per carevue. Pt rec'd NS 1 liter over 2hrs, and latest BUN/Creat 81/3.2. 
+
+ID: Afebrile. Pt rec'd Ceftriaxone, Vanco. AM lactate 2.1(3.9), WBC 22.1(26.8). 
+
+Access: RSC TLC, L radial art line inserted. Pt arrived with 2 periph lines from OSH. 
+
+Social: Mother called and spoke with MD re pt status, POC.
+
+Plan: Attempt to wean pt from non-rebreather mask, adding humidity to mobilize secretions. Pt to [**Last Name (un) 505**] NPO @ this time for ? chest tube insertion, tenuous resp status.
+",,
+5197,14844,6454,0,2512-10-08 16:32:00 EST,2512-10-08 16:50:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN0700-1900
+
+Events: Pt remains on non-rebreather. Rt Chest tube placed. 
+
+Neuro: Pt AA&O2-3.  Occasionally, pt has difficulty remembering the year but easily reorientable.  Pt has chronic pain ""all over"" in which he has been receiving oxycodone.  Pt reports that it is not easing the pain much but he has been able to doze throughout the day. Pt received a total of 150mcg fentanyl and .5mg versed during chest tube line placement with no adverse affects.  CIWA scale in place. Pt has past h/o alcohol use and questionable current use. He was + for opiotes upon arrival to EW but pt does report taking narcotic pain medication at home (pt reports 1 pill 3xday).
+
+Resp: Received pt on non rebreather and nasal cannula 5.0L. ABG: 7.38/36/103/22. Sats 94-96%.  Pt went for Chest CT which showed rt lower lobe collapse, small rt pleural effusion and LLL ateletacis.  Rt chest tube placed for small rt pleural effusion.  DSD placed. No bleeding noted. No crepitus noted. CT draining serosangunious fluid (210cc thus far).  Post CXR done.  
+
+CV: Hemodynamically stable.  HR, NSR 87-92. No ectopy noted.  BP 92-130/55-73.  CVP 6-10.  Pt received 1 liter fluid x 1 during the day.  Pt received 2 units FFP prior to line placement. 
+
+GI: NPO. Pt may have sips of water per Dr. [**Last Name (STitle) 652**].  Pt c/o being thirsty and hungry. Abdomen soft/non tender.  Pt receiving lactulose TID.  No stool output thus far. 
+
+gu: adequate u/o via foley. Pt +2182cc today. ~ +2400cc LOS.  BUN81/Creat2.5 (creat trending down). 
+
+ID: afebrile.  Pt receiving levofloxacin, ceftriaxone, flagyl.  BLood cultures from EW both growing Gram +cocci from aerobic and anaerobic bottles.
+
+Skin: Pt has multiple scabbed areas on legs and hands.  Forehead has scabbed area. Pt reports being scheduled to see a dermatologist about site.  Pt has multiple bruised areas on limbs due to liver disease.
+
+Social: Pt's mother called to check in.
+
+Dispo: remain in MICU.  full Code.
+",,
+5197,14844,6454,,2512-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-9**] 2:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9081**]
+     Reason: s/p chest tube for complicated effusion                     
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           55 year old man with known cirrhosis and PNA with worsening SOB  , s/p R  
+      sub  clav placement                 
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube for complicated effusion                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath.  A single upright portable chest radiograph
+     demonstrates improvement of the small right-sided pneumothorax seen on
+     [**2512-10-8**].  There is right-sided basilar atelectasis and effusion.  A
+     right-sided subclavian venous catheter is present with its tip at the atrial
+     caval junction.  The cardiomediastinal silhouette is unchanged.  There is no
+     left-sided pleural effusion.  The aorta is tortuous.  Left mid lung and
+     basilar atelectasis is unchanged.
+     
+     IMPRESSION:
+     
+     Improving right-sided pneumothorax.
+     
+     Right-sided chest tube and subclavian central venous catheter, unchanged.
+     
+     Left-sided atelectasis, unchanged.
+                                                                           
+
+",,
+5197,14844,6454,0,2512-10-09 05:42:00 EST,2512-10-09 06:03:00 EST,7271,"N",69,"Nursing/Other","MICU A NPN 7p-7a","
+MICU A NPN 7p-7a
+Neuro: Pt has slept t/o most of shift, easy to waken. He is oriented x2-3, but does not make sense at times. Pt is cooperative, follows commands, but frequently states his frustration with being in his current situation. It seems the pt does not have an understanding of why he is in the hospital despite ongoing reorientation and teaching. Pt stated to have pain, but unable to communicate where the pain was located. Was given oxycodone x1 with good effect. Pt has left hearing aid in, but states the battery is dead and is having a difficult time communicating with the staff d/t HOH. Pt cont to receive lactulose. Pt remains on CIWA protocol, but has not required any ativan.
+
+Pulm: ABG done at 8pm with PO2 of 122, was taken off NRB and placed on 100% cold steam neb mask. Pt saturating in low to mid 90's with that, but was found to be taking mask off often. NC added and pts O2 sats have been 90-96. Most recent abg on those parameters 7.42/33/66/22. Pt has nonproductive cough. CT to 20cm LWS, no crepitus or airleak, drained ~250cc serosanguinous material. LS with occasional wheezing, pt getting neb rx atc with good effect. 
+
+CV: HR 80-90's SR, rare PACs noted. BP stable, SBP ranging 100-140's. Abebrile, WBC down to 19.6 today. INR down to 1.7. Calcium gluconate 2gms given for low ical last pm with good result. K is 3.5 this am. 
+
+GI: Pt cont to receive lactulose atc, but no BM. Pt states his frustration with not being able to go the bathroom ""in the bed"" (using the bedpan). Diet was changed from NPO to solid food, but pt must be sitting completely upright in bed. Pt has been asking for drinks constantly overnight, no aspiration noted while drinking. Abd softly distended, +BS.
+
+GU: F/C intact, draining clear, amber urine 75-150cc/hr. Crea down to 1.9 this am.
+
+Plan: Cont to monitor pt on CIWA protocol, medicate as indicated. Vanco trough to be drawn prior to 0800 dose this am. ?K repletion with pts ARF on admission. Cont lactulose. 
+",,
+5197,14844,6454,0,2512-10-09 16:46:00 EST,2512-10-09 17:07:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1900
+
+Events: Successful results of lactulose!  Pt OOB-chair.
+
+Neuro: AA&Ox3.  Pt requires multiple explanation of disease process and plan of care. Pt has been cooperative of care throughout the day although he becomes frustrated at times.  CIWA scale negative at this time.  Pt reports chronic pain in which he is receiving oxycodone which gives him minimal pain relief. Pt got new batteries for hearing aid but still having difficulty hearing.
+
+REsp: Oxygen requirements weaned to NC 3L. Sats 92-97%.  RT chest tube draining 200cc pus like serosanguinous fluid.  No crepitus noted.  LS diminished @ bases. PT encourage to CDB and use IS. 
+
+CV: HR 70-95,NSR. NO ectopy noted.  BP 109-168/64-88.  Pt started on labatelol po for hypertension.  CVP 5-8.  
+
+GI: pt tolerating house diet and fluids without any evidence of aspiration.  Pt had large stool output today so 1600 lactulose held (per liver, 3-6stools/day to help clear encepholpathy).  Pt is extrememly thirsty.
+
+GU: u/o 50-270cc/hr.  Pt is + 1825cc today.  Overall, pt is ~ 4L positive LOS.  
+
+ID: survaillance BC sent today.  Urine culture sent. afebrile. REmains on vanco and levoquin. Ceftriaxone d/ced.
+
+Endo: started on Sliding scale for increased BS.
+
+Dispo: remain in MICU. Full Code
+
+",,
+5197,14844,6454,,2512-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-10**] 4:39 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9084**]
+     Reason: s/p chest tube placed to water seal                         
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with known cirrhosis and PNA with worsening SOB  , s/p chest  
+      tube and PTX                
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube placed to water seal                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2512-10-10**] at 16:41.
+     
+     COMPARISON:  Previous study of earlier the same date at 4:35 a.m.
+     
+     INDICATION:  Chest tube placed to waterseal.
+     
+     A right-sided chest tube remains in place.  There has been development of a
+     very small lateral right pneumothorax.  Cardiac and mediastinal contours are
+     stable.  There are improving atelectatic changes in the right lower lobe.
+     
+     IMPRESSION:  Small lateral right pneumothorax.
+                                                                           
+
+",,
+5197,14844,6454,,2512-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-10**] 3:09 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 9083**]
+     Reason: MRSA BACTEREMIA ,EVAL FOR ABSCESS
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  MRSA bacteremia.  Assess for abscess.
+     
+     COMPARISON:  [**2512-10-7**].
+     
+     FINDINGS:  The right kidney measures 13.6 cm in length.  The left kidney
+     measures 14.1 cm in length.  Both kidneys are free of stone, mass, and
+     hydronephrosis.  There is trace ascites.  The spleen is enlarged.  No
+     perinephric collections or abscess is visible.  The bladder is small and
+     contains a Foley catheter, but is otherwise unremarkable.
+     
+     IMPRESSION:  Normal-sized kidneys.  Splenomegaly.  No evidence of perirenal
+     abscess.
+                                                                           
+
+",,
+5197,14844,6454,,2512-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-10**] 4:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9082**]
+     Reason: interval change in PTX                                      
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with known cirrhosis and PNA with worsening SOB  , s/p chest 
+      tube and PTX                
+     REASON FOR THIS EXAMINATION:
+      interval change in PTX                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SEMI-UPRIGHT CHEST OF [**2512-10-10**]
+     
+     COMPARISON:  [**10-9**].
+     
+     INDICATION:  Pneumothorax.
+     
+     There is no evidence of pneumothorax.  A right subclavian vascular catheter
+     remains in satisfactory position.  The heart is enlarged.  There is vascular
+     engorgement, perihilar haziness, and peribronchial cuffing, not significantly
+     changed.  More confluent opacities in the retrocardiac regions, right greater
+     than left, also appear stable, as well as a right pleural effusion.  A
+     right-sided chest tube remains in place, terminating in the mid portion of the
+     right chest medially.
+     
+     IMPRESSION:  Overall no significant change.  Right chest tube remains in place
+     with no pneumothorax.
+                                                                           
+
+",,
+5197,14844,6454,0,2512-10-10 04:38:00 EST,2512-10-10 05:18:00 EST,7271,"N",69,"Nursing/Other","MICU A NPN 7p-7a","
+MICU A NPN 7p-7a
+Neuro: Pt a/ox3, but makes statements that are not appropriate to situation at times. Pt frequently voices his frustration with being in the hospital but has been cooperative with care. Pt has h/o ETOH x10 yrs ago, on CIWA protocol but negative x 3 days. Pt needs frequent teaching and reinforcement about why he is in his current condition in the hospital, also does not seem to understand some aspects of his care. Pt is HOH and has hearing aid in the left ear that got a new battery yesterday, however pt still seems to have difficulty with hearing. Pt is slow to respond to questions, unclear if that is d/t hearing or neurological deficit. Pt c/o pain, but is vague about severity and location. Received oxycodone x1 with fair effect. Ammonia level this am pending.
+
+Pulm: On 5L NC with O2 sats in low to mid 90's. Most recent abg from this am: 7.41/37/87/24. Rt CT intact, on -20cm LCWS and draining serosang. material. No airleak or crepitus, + fluctuation. Pt has audible wheezing at times with exertion, gets INH atc.
+
+CV: HR 60-80's SR, rare ectopy. SBP 100-150's, pt on labetolol to keep SBP <120. K 3.6, ical 1.08 this am. 
+
+ID: WBC down to 15.5 this am. Pt has [**4-4**] blood cx from admission that are + for staph aureus, pt has been placed on precautions. Surveillance blood and urine cx sent yesterday, and surveillance blood cx x2 sent this am. Afebrile, pt remains on triple antibx coverage at this time. 
+
+Endo: Liver enzymes trending down slightly. BS checks done AC & HS, pt did require coverage earlier. Pt is on steroid taper.
+
+GI: Good appetite, c/o thirst often. Na down to 132 this am from 137 yesterday. Pt will probably need fluid restriction. Pt did have 1 lg loose BM overnight, 12am lacutlose held. 
+
+GU: U/O 50-125cc/hr of clear amber urine. 
+
+Social: Pts son and friend in to visit around 1945. These visitors behaved as if they were intoxicated and smelled of alcohol as well. During their visit, the pt asked for his wallet to be withdrawn from the safe so he could give some money to them. The belongings were retrieved from safe and pt gave $60.00 to his son, then placed everything else back into secure envelope (which was brought back to security). Security present in the MICU while transaction of money happened. Visitors left immediately after this.
+
+Plan: F/U with blood and urine cx, cont on antibx. ? gentle K and calcium repletion considering pts initial ARF on admission. Pts condition improved, ? if he can be called out today? TEE in future to r/o seeding.
+
+
+",,
+5197,14844,6454,0,2512-10-10 15:22:00 EST,2512-10-10 15:55:00 EST,6442,"N",69,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:30
+
+
+Neuro.
+Pt on CIWA scale, score 0-2 this shift.  given 5mg of Oxycodone for agitation and pain so that investigations could take place.  pt with innapropriate comments at times, appears that this may be baseline behaviour.  Pt with background pain in both legs from past GSW anf previous falls.
+
+
+Resp.
+pt remains on 5l NC with clear to coarse LS, diminished on R side.  pt with minimal cough effort, no sputum expectorated, pt encouraged with cough & deep breath, incentive spirometry also.
+CT draining serous fluid, now to water seal, CXR needed.
+
+CVS.
+HR 60's NSR with no ectopy seen, K+ and Calc repleated.
+BP 130's/70's stable.
+Pt for TTE, unable to perform study yet as pt would not remain still.
+
+ID.
+Levofloxacin increased to 500mg, flagyl DC'd.  repeat blood cultures due with am labs.
+
+GI/GU.
+Pt tollerating diet well, +BS with 1x loose stool passed.  lactulose increased to Q4hrs for BM x3-4 per day.
+Good UOP via foley of amber clear urine.
+
+Endo.
+FSG covered with RISS.
+
+Skin.
+Pt with chronic skin dissorder, usually uses hydracortisone ointment, will ask medics to Rx.
+All poressure areas intact.
+
+Social.
+No visits from relatives this shift, has recieved calls to room, no contact with nursing as yet.
+
+Dispo.
+pt is called out to floor, awaiting bed.
+",,
+5197,14844,,,2512-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-11**] 10:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9085**]
+     Reason: eval for right PTX                                          
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        55 year old man with known cirrhosis and PNA with worsening SOB  , s/p chest  
+       tube and PTX                
+     REASON FOR THIS EXAMINATION:
+      eval for right PTX                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  55-year-old man with known cirrhosis and worsening shortness of
+     breath status post chest tube for pneumothorax.  Please evaluate for right
+     pneumothorax.
+     
+     TECHNIQUE:  A single portable semi upright AP chest radiograph was obtained.
+     
+     COMPARISON:  Portable AP chest radiographs from [**10-8**], 9, and 10, 2005.
+     
+     FINDINGS:  There remains a right-sided chest tube in place.  No pneumothorax
+     is identified.  There is stable appearance of the cardiac and mediastinal
+     contours.  Again noted is atelectatic changes at the right base with
+     associated elevation of the right hemidiaphragm.
+     
+     IMPRESSION:  No pneumothorax identified.
+
+",,
+5197,14844,,,2512-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with cirrhosis who presents with MRSA bacteremia, MRSA PNA and 
+      empyema s/p CT placement on rihgt with peristent high [**Last Name (un) 9087**] MRSA bacteremia 
+      despite IV vanco. evaluate for abscess                               
+     REASON FOR THIS EXAMINATION:
+      ? lung abscess, ? intradominal abscess, ? septic embolic, endovascular source 
+      of persistent bacteremia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of MRSA bacteremia, pneumonia, and empyema, status post
+     CT placement with persistent high-grade bacteremia despite vancomycin.
+     Evaluate for lung abscess or intra-abdominal process.
+     
+     COMPARISON:  [**2512-10-8**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the
+     thoracic inlet to the pubic symphysis.
+     
+     CONTRAST:  150 cc of IV Optiray contrast was administered with oral contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A chest tube is seen within the pleural
+     space posterior to the right lung.  There is a small pneumothorax anterior to
+     the right lung.  There is small atelectasis at the lung base, smaller in
+     comparison to prior study.  No pleural fluid is noted on the left.
+     Pathologically enlarged intrathoracic lymphadenopathy is identified.  The
+     heart and great vessels are stable in appearance.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Large amount of ascitic fluid can be
+     seen.  The liver appears cirrhotic, with a nodular appearance.  The portal
+     vein, splenic vein, and SMV are patent.  The spleen is unchanged in
+     appearance.  The kidneys and adrenal glands are normal in appearance.  The
+     pancreas is normal in appearance.  The small bowel demonstrates no abnormal
+     bowel wall thickening or dilatation.  No significant retroperitoneal or
+     mesenteric lymphadenopathy is identified.  No free air is identified.  The
+     gallbladder is not distended, and there is no intrahepatic or extrahepatic
+     biliary dilatation.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Free fluid is seen within the pelvis.  No
+     pelvic lymphadenopathy is identified.  The bladder and rectum are normal in
+     appearance.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     IMPRESSION: 
+     1.  Interval placement of a right-sided chest tube.  There is a small
+                                                                 (Over)
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     associated right pneumothorax.  There has been interval decrease in the degree
+     of atelectasis in the right lung.  No definite empyema is identified.
+     
+     2.  Findings consistent with cirrhosis, including nodular liver, and ascites.
+     No enhancing fluid collections within the liver or within the abdomen, to
+     suggest the presence of an intra-abdominal source of infection.
+
+",,
+5197,14844,,,2512-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with cirrhosis who presents with MRSA bacteremia, MRSA PNA and 
+      empyema s/p CT placement on rihgt with peristent high [**Last Name (un) 9087**] MRSA bacteremia 
+      despite IV vanco. evaluate for abscess                               
+     REASON FOR THIS EXAMINATION:
+      ? lung abscess, ? intradominal abscess, ? septic embolic, endovascular source 
+      of persistent bacteremia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of MRSA bacteremia, pneumonia, and empyema, status post
+     CT placement with persistent high-grade bacteremia despite vancomycin.
+     Evaluate for lung abscess or intra-abdominal process.
+     
+     COMPARISON:  [**2512-10-8**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the
+     thoracic inlet to the pubic symphysis.
+     
+     CONTRAST:  150 cc of IV Optiray contrast was administered with oral contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A chest tube is seen within the pleural
+     space posterior to the right lung.  There is a small pneumothorax anterior to
+     the right lung.  There is small atelectasis at the lung base, smaller in
+     comparison to prior study.  No pleural fluid is noted on the left.
+     Pathologically enlarged intrathoracic lymphadenopathy is identified.  The
+     heart and great vessels are stable in appearance.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Large amount of ascitic fluid can be
+     seen.  The liver appears cirrhotic, with a nodular appearance.  The portal
+     vein, splenic vein, and SMV are patent.  The spleen is unchanged in
+     appearance.  The kidneys and adrenal glands are normal in appearance.  The
+     pancreas is normal in appearance.  The small bowel demonstrates no abnormal
+     bowel wall thickening or dilatation.  No significant retroperitoneal or
+     mesenteric lymphadenopathy is identified.  No free air is identified.  The
+     gallbladder is not distended, and there is no intrahepatic or extrahepatic
+     biliary dilatation.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Free fluid is seen within the pelvis.  No
+     pelvic lymphadenopathy is identified.  The bladder and rectum are normal in
+     appearance.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     IMPRESSION: 
+     1.  Interval placement of a right-sided chest tube.  There is a small
+                                                                 (Over)
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     associated right pneumothorax.  There has been interval decrease in the degree
+     of atelectasis in the right lung.  No definite empyema is identified.
+     
+     2.  Findings consistent with cirrhosis, including nodular liver, and ascites.
+     No enhancing fluid collections within the liver or within the abdomen, to
+     suggest the presence of an intra-abdominal source of infection.
+
+",,
+5197,14844,,,2512-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with cirrhosis who presents with MRSA bacteremia, MRSA PNA and 
+      empyema s/p CT placement on rihgt with peristent high [**Last Name (un) 9087**] MRSA bacteremia 
+      despite IV vanco. evaluate for abscess                               
+     REASON FOR THIS EXAMINATION:
+      ? lung abscess, ? intradominal abscess, ? septic embolic, endovascular source 
+      of persistent bacteremia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of MRSA bacteremia, pneumonia, and empyema, status post
+     CT placement with persistent high-grade bacteremia despite vancomycin.
+     Evaluate for lung abscess or intra-abdominal process.
+     
+     COMPARISON:  [**2512-10-8**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the
+     thoracic inlet to the pubic symphysis.
+     
+     CONTRAST:  150 cc of IV Optiray contrast was administered with oral contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A chest tube is seen within the pleural
+     space posterior to the right lung.  There is a small pneumothorax anterior to
+     the right lung.  There is small atelectasis at the lung base, smaller in
+     comparison to prior study.  No pleural fluid is noted on the left.
+     Pathologically enlarged intrathoracic lymphadenopathy is identified.  The
+     heart and great vessels are stable in appearance.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Large amount of ascitic fluid can be
+     seen.  The liver appears cirrhotic, with a nodular appearance.  The portal
+     vein, splenic vein, and SMV are patent.  The spleen is unchanged in
+     appearance.  The kidneys and adrenal glands are normal in appearance.  The
+     pancreas is normal in appearance.  The small bowel demonstrates no abnormal
+     bowel wall thickening or dilatation.  No significant retroperitoneal or
+     mesenteric lymphadenopathy is identified.  No free air is identified.  The
+     gallbladder is not distended, and there is no intrahepatic or extrahepatic
+     biliary dilatation.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Free fluid is seen within the pelvis.  No
+     pelvic lymphadenopathy is identified.  The bladder and rectum are normal in
+     appearance.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     
+     IMPRESSION: 
+     1.  Interval placement of a right-sided chest tube.  There is a small
+                                                                 (Over)
+
+     DATE: [**2512-10-12**] 4:15 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9086**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? lung abscess, ? intradominal abscess, ? septic embolic, en
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     associated right pneumothorax.  There has been interval decrease in the degree
+     of atelectasis in the right lung.  No definite empyema is identified.
+     
+     2.  Findings consistent with cirrhosis, including nodular liver, and ascites.
+     No enhancing fluid collections within the liver or within the abdomen, to
+     suggest the presence of an intra-abdominal source of infection.
+
+",,
+5197,14844,,,2512-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-14**] 3:07 PM
+     UNILAT LOWER EXT VEINS                                          Clip # [**Clip Number (Radiology) 9088**]
+     Reason: SWELLING IN RT LEG
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with hep C cirrhosis and MRSA bacteremia, pneumonia with 
+      empyema, UTI p/w RLE warmth, swelling.  Evaluate for DVT
+     REASON FOR THIS EXAMINATION:
+      evaluate for DVT.  Patient going down for MRI late this afternoon.  Please do 
+      U/S at same time.  Thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  55-year-old man with right lower extremity warmth and swelling.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  Grayscale and color Doppler examination of the deep veins of the
+     right thigh and posterior knee demonstrate normal compressibility, color flow,
+     respiratory variation, and augmentation.  There is no sign of intraluminal
+     thrombus.
+     
+     IMPRESSION:  No DVT.
+
+",,
+5197,14844,,,2512-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-15**] 4:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9089**]
+     Reason: please evaluate and compare cxr with prior film             
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with right lung pneumonia                                       
+     REASON FOR THIS EXAMINATION:
+      please evaluate and compare cxr with prior film                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right pneumonia. 
+     
+     FINDINGS:  Frontal and lateral radiographs of the chest reveal right lower
+     lobe hazy opacity likely pneumonia which is more prominent on today's study
+     compared to [**2512-10-11**].  The right chest tube sideport appears to be out
+     of the chest wall.  There is also fluid tracking along the right chest wall
+     which is new compared to before. New elevation of the right hemidiaphragm.
+     Left CP angle is not included on the present study.  
+     
+     IMPRESSION:  Worsening right pneumonia and increasing right pleural effusion.
+     
+     The right-sided chest tube has been partially withdrawn and the sideport is
+     outside the thoracic cavity.  Subsequent radiographs demonstrate
+     repositioning.
+
+",,
+5197,14844,,,2512-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5197,14844,,,2512-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-16**] 9:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9090**]
+     Reason: assess lung expansion, chest tube placement, for ptx, effusi
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         55 year old man with known cirrhosis and PNA with worsening SOB, parapneum 
+      effusion, now with R. chest tube placed and superior chest tube dc'ed.
+     REASON FOR THIS EXAMINATION:
+      assess lung expansion, chest tube placement, for ptx, effusions                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Cirrhosis, pneumonia, worsening SOB.  Right chest tube
+     placed.
+     
+     Comparison is made with the prior film of [**10-15**].  Since the previous
+     film, the right chest tube has been advanced, the tip now lies in _____ the
+     lower zone.  The right pleural effusion has resolved.  Some atelectasis is
+     present on the right side.  There is no pneumothorax present.
+     
+     The left lung remains clear.
+     
+     IMPRESSION:  Resolution of right effusion.  No pneumothorax.
+                                                                           
+
+",,
+5197,14844,,,2512-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5197,14844,,,2512-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-17**] 7:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9092**]
+     Reason: please evaluate for lung expansion and change of right pleur
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with right lung pneumonia now with new chest tube right side 
+      to suction.                                     
+     REASON FOR THIS EXAMINATION:
+      please evaluate for lung expansion and change of right pleural effusion at 
+      0800.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Pneumonia, chest tube placed, check position.
+     
+     The right chest tube is present.  A small basal pneumothorax is present. 
+     Atelectasis in the right middle and lower zones is seen, but no evidence of
+     pneumonia is currently present.
+     
+     The left lung appears clear.
+     
+     There is cardiomegaly still present.
+     
+     IMPRESSION:  Very small basal right pneumothorax.  Atelectasis.  No pneumonia.
+                                                                           
+
+",,
+5197,14844,,,2512-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 9091**]
+     Reason: 55 YR OLD MAN W/ HEP C CIRRHOSIS W/ MRSA PNEUMONIA W/ EMPYMA PLEASE EVAL FOR OSTEO L HIP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left hip pain 
+      
+     INTERPRETATION:   
+      
+     Whole body images of the skeleton, dedicated views of the hips, and early and  
+     delayed blood pool images were obtained in anterior and posterior projections. 
+     No abnormality is detected in the region of the patient's pain.  There is
+     symmetric, normal uptake in the hips bilaterally.  A small amount of increased
+     uptake is identified in the right anterior lower ribs which is suggestive of
+     prior trauma. 
+      
+     The above described findings are consistent with no evidence for osteomyelitis. 
+      
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion. 
+      
+     IMPRESSION:  No evidence for osteomyelitis.  Small amount of increased uptake in
+     the right anterior lower ribs suggests prior trauma. 
+      
+                                                                           
+
+             [**First Name4 (NamePattern1) 2121**] [**Last Name (NamePattern1) 2122**], M.D.
+             [**First Name11 (Name Pattern1) 8**] [**Last Name (NamePattern1) 9**], M.D.        Approved: TUE [**2512-10-18**] 3:50 PM
+
+
+             Date Mailed: [**2512-10-19**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5197,14844,,,2512-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-18**] 2:10 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9094**]
+     Reason: Please evaluate pneumonia,empyema and chest tube placement. 
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         55 year old man with right lung pneumonia now with new chest tube right side 
+      to suction.                                     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate pneumonia,empyema and chest tube placement.                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lower lobe pneumonia and new chest tube placement.
+     
+     PA AND LATERAL CHEST:  Comparison is made to study performed six hours prior. 
+     A right-sided chest tube remains in unchanged position with the side port in
+     close proximity to the chest wall.  Small loculated right basilar pneumothorax
+     appears slightly smaller in the interval.  There is elevation of the right
+     hemidiaphragm and residual linear airspace opacities within the right lung,
+     likely atelectasis.  Linear atelectasis is present within the left mid lung
+     zone.  Left lung is otherwise clear.  There are no pleural effusions. 
+     Multiple left-sided inferior rib fractures are noted.
+     
+     IMPRESSION:  Interval decrease in size of small loculated right basilar
+     pneumothorax.
+                                                                           
+
+",,
+5197,14844,,,2512-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-18**] 7:51 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 9093**]
+     Reason: Please evaluate pneumonia/empyema/chest tube placement      
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        55 year old man with right lung pneumonia now with new chest tube right side  
+      to suction.                                     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate pneumonia/empyema/chest tube placement                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST X-RAY FROM [**10-18**].
+     
+     HISTORY:  Right-sided pneumonia.  New chest tube to suction.
+     
+     An AP portable upright chest radiograph is lordotic in projection.  A
+     right-sided chest tube placed via the fourth intercostal space remains in
+     unchanged position.  The little streak of pneumothorax seen on yesterday's
+     study has increased to what appears to be two areas of loculated air along the
+     right lower chest wall below the entrance site of the thoracic catheter. 
+     Plate-like atelectasis is seen above and below the catheter and there may be
+     some fluid in the minor fissure.  The left lung remains clear.  The heart is
+     large with suggestion of left ventricular hypertrophy.
+     
+     CONCLUSION:  Increase in the small, apparently loculated pneumothorax at the
+     right base laterally below the entrance site of thoracic catheter.  Recommend
+     clinical evaluation of tube positioning and lateral chest radiograph when the
+     patient is clinically able.
+                                                                           
+
+",,
+5197,14844,,,2512-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-19**] 12:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9095**]
+     Reason: ASSESS CHEST TUBE PLACEMENT, PTX AND PNEUMONIA
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         55 year old man with right lung pneumonia now with new chest tube right side 
+        to suction.                                     
+     REASON FOR THIS EXAMINATION:
+      assess chest tube placement, PTX and pneumonia                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumonia and new chest tube.
+     
+     PORTABLE AP CHEST:  Comparison is made to the study performed 1 day prior. 
+     Right-sided chest tube has been advanced.  Loculated right basilar
+     pneumothorax has increased in size in the interval but remains small.  Linear
+     opacities at the right lung base persist and are consistent with atelectasis. 
+     The left lung is grossly clear.  Small foci of subcutaneous emphysema are
+     present adjacent to chest tube insertion site.
+     
+     IMPRESSION:  Slight interval increase in size of small loculated right basilar
+     pneumothorax.
+                                                                           
+
+",,
+5197,14844,,,2512-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-19**] 2:44 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 9096**]
+     Reason: Please do paracentesis, or mark site for tap, will order all
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with hep C cirrhosis and ascites seen on CT [**2512-10-12**], but 
+      without significant distension presenting with persistent bacteremia despite 
+      adequate Vanc/Gent/Dapto coverage.
+     REASON FOR THIS EXAMINATION:
+      Please do paracentesis, or mark site for tap, will order all necessary labs     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  55-year-old man with hep C cirrhosis and ascites.  Persistent
+     bacteremia.  Please mark spot for paracentesis.
+     
+     FINDINGS:  Limited ultrasound of the abdomen was performed.  A large pocket of
+     fluid is visible in the right lower quadrant.  A spot was marked for
+     paracentesis by the primary team.
+     
+     IMPRESSION:  Right lower quadrant marked for paracentesis by primary team.
+
+",,
+5197,14844,,,2512-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     IN-111 WHITE BLOOD CELL STUDY                                   Clip # [**Clip Number (Radiology) 9097**]
+     Reason: ? SOURCE OF INFECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History: 55 year old man with Hepatitis C cirrhosis, MRSA pneumonia with  
+     empyema, UTI and persistent bacteremia. 
+      
+     REPORT: 
+     Following the injection of autologous white blood cells labeled with In-111,
+     images of the whole body in the anterior and posterior projections were obtained
+     at approximately 24 hours post-injection.  These images show marked
+     splenomegaly.  There is medial displacement of the liver with respect to the
+     thoracic cage, consistent with ascites.  Relative [**Name (NI) 9098**] in the left femoral
+     diaphysis is likely related to orthopedic hardware.  No other focal abnormality
+     is seen. 
+      
+     IMPRESSION: 1) Marked splenomegaly. 2) Ascites. 3) No infectious focus
+     identified.
+                                                                           
+
+             [**First Name8 (NamePattern2) 3091**] [**Last Name (NamePattern1) 2350**], M.D.
+             [**Last Name (NamePattern5) 267**], M.D.          Approved: TUE [**2512-10-25**] 8:50 AM
+
+
+             Date Mailed: [**2512-10-26**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5197,14844,,,2512-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-20**] 8:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9099**]
+     Reason: evaluate pneumonia, chest tube placement, pneumothorax      
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          55 year old man with right lung pneumonia now with new chest tube right 
+      side    to suction.                                     
+     REASON FOR THIS EXAMINATION:
+      evaluate pneumonia, chest tube placement, pneumothorax                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumonia and chest tube.
+     
+     PORTABLE AP CHEST:  Comparison is made, study performed one day prior.  Right
+     basilar chest tube is unchanged in position.  Small loculated right basilar
+     pneumothorax remains stable in size and extent.  There are persistent linear
+     opacities at the right lung base, consistent with atelectasis.  The left lung
+     appears grossly clear.  Cardiac and mediastinal contours are unchanged.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+5197,14844,,,2512-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-21**] 10:34 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9100**]
+     Reason: evaluate PTX, chest tube placement, pneumonia, empyema      
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          55 year old man with right lung pneumonia s/p right chest tube d/c.         
+     REASON FOR THIS EXAMINATION:
+      evaluate PTX, pneumonia, empyema, pleural effusion.                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and empyema.  Right chest tube removal.
+     
+     PA and lateral chest.  There is a small right posterolateral hydropneumothorax
+     with associated volume loss and stranding in the right lower lobe.  Heart
+     normal size without vascular congestion or consolidations and left lung clear.
+     Since exam one day previous, the right chest tube has been removed with little
+     other change allowing for more satisfactory current exam.
+     
+     IMPRESSION:  Interval removal right chest tube. No change hydropneumothorax.
+
+",,
+5197,14844,,,2512-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-22**] 3:10 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9101**]
+     Reason: please evaluate for plueral effusion and lung expansion. tha
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           55 year old man with right lung pneumonia now s/p chesttube, d/c10/21      
+                                     
+     REASON FOR THIS EXAMINATION:
+      please evaluate for plueral effusion and lung expansion. thank [**Doctor First Name 659**].             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Followup chest tube removal, patient with pneumonia.
+     
+     The small hydropneumothorax at the right base and lateral aspect of the right
+     hemithorax is again noted.  The overall appearance of the chest is not
+     significantly different than it had been in the prior chest x-ray at 10:00
+     a.m. on [**2512-10-21**].  The left lung is clear.
+     
+     IMPRESSION:  No significant change in the chest with a small inferolateral
+     hydropneumothorax at the right base.
+                                                                           
+
+",,
+5197,14844,,,2512-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-25**] 10:06 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 9102**]
+     Reason: CIRRHOSIS, RENAL FAILURE, INTERVAL CHANGES
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       55 year old man with cirrhosis admitted for MRSA empyema and acute renal 
+      failure. Please compare to prior study.                                         
+           
+     REASON FOR THIS EXAMINATION:
+      interval changes                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  55-year-old man with cirrhosis and acute renal failure with MRSA
+     empyema.
+     
+     COMPARISON:  [**2507-10-20**].
+     
+     FINDINGS:  The liver echotexture is coarse and nodular, but no focal lesions
+     are visible.  There is a moderate amount of ascites.  There is no intrahepatic
+     biliary ductal dilatation.  The common duct measures 5 mm.  No gallstones are
+     seen.  There is edema within the gallbladder wall, consistent with chronic
+     disease state.  The portal vein is open, and flow is hepatopetal.  The spleen
+     is markedly enlarged, measuring 21 cm.  The right kidney measures 13 cm in
+     length.  The left kidney measures 14 cm in length.  Both kidneys are free of
+     stone, mass, and hydronephrosis.  The pancreas is not seen due to overlying
+     bowel gas.
+     
+     IMPRESSION:  Cirrhosis and ascites with splenomegaly, without significant
+     change since [**2512-10-12**] CT.
+
+",,
+5197,14844,,,2512-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-25**] 2:41 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9103**]
+     Reason: ?reaccumulation of pleural fluid                            
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with right lung pneumonia and empyema now s/p chesttube; 
+      looking for reaccumulation of pleural fluid.
+     REASON FOR THIS EXAMINATION:
+      ?reaccumulation of pleural fluid                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lung pneumonia and empyema.
+     
+     COMPARISON:  Radiograph dated [**2512-10-22**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  A right-sided loculated hydropneumothorax
+     is unchanged.  Cardiac and mediastinal contours are stable, allowing for
+     technical differences.  Multiple areas of atelectasis in the right lung are
+     unchanged.  Left lung is grossly clear.
+     
+     IMPRESSION:  Stable appearance of the chest compared to exam of [**2512-10-22**].
+                                                                           
+
+",,
+5197,14844,,,2512-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-26**] 8:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9104**]
+     Reason: PICC placement under IR guidance; tried multiple times by PI
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with MRSA bacteremia on Daptomycin and s/p empyema drainage     
+     REASON FOR THIS EXAMINATION:
+      PICC placement under IR guidance; tried multiple times by PICC nurse but failed 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Infection requiring IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**Last Name (STitle) 355**], with Dr. [**Last Name (STitle) 156**], the
+     attending radiologist, present and supervising.  The left upper arm was
+     prepped and draped in sterile fashion.  Since no suitable superficial veins
+     were visible, ultrasound was used for localization of suitable vein.  The left
+     brachial vein was patent and compressible.  After local anesthesia with 2 cc
+     of 1% lidocaine, the left brachial vein was entered under ultrasonographic
+     guidance with a 21-gauge needle.  The 0.018 guidewire was advanced under
+     fluoroscopy into the superior vena cava.  Based on the markers on the
+     guidewire it was determined that a length of 37 cm would be suitable.  The
+     PICC line was trimmed to length and advanced over a 4-French introducer sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic spot image of the
+     chest demonstrates the tip to be in the superior vena cava.  The line is ready
+     for use.  The StatLock was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 37 cm total length 4-French single
+     lumen PICC line with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+5197,14844,,,2512-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-26**] 8:55 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9104**]
+     Reason: PICC placement under IR guidance; tried multiple times by PI
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with MRSA bacteremia on Daptomycin and s/p empyema drainage     
+     REASON FOR THIS EXAMINATION:
+      PICC placement under IR guidance; tried multiple times by PICC nurse but failed 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Infection requiring IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Dr. [**Last Name (STitle) 355**], with Dr. [**Last Name (STitle) 156**], the
+     attending radiologist, present and supervising.  The left upper arm was
+     prepped and draped in sterile fashion.  Since no suitable superficial veins
+     were visible, ultrasound was used for localization of suitable vein.  The left
+     brachial vein was patent and compressible.  After local anesthesia with 2 cc
+     of 1% lidocaine, the left brachial vein was entered under ultrasonographic
+     guidance with a 21-gauge needle.  The 0.018 guidewire was advanced under
+     fluoroscopy into the superior vena cava.  Based on the markers on the
+     guidewire it was determined that a length of 37 cm would be suitable.  The
+     PICC line was trimmed to length and advanced over a 4-French introducer sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic spot image of the
+     chest demonstrates the tip to be in the superior vena cava.  The line is ready
+     for use.  The StatLock was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 37 cm total length 4-French single
+     lumen PICC line with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+5197,14844,,,2512-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-10-27**] 2:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9105**]
+     Reason: looking for pulm edema worsening vs atelectesis             
+     Admitting Diagnosis: PNEUMONIA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with right lung pneumonia and empyema now s/p chesttube;        
+     REASON FOR THIS EXAMINATION:
+      looking for pulm edema worsening vs atelectesis                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     INDICATION:  Follow up pneumonia.
+     
+     Comparison to prior chest x-ray of [**2512-10-25**] shows interval insertion of a
+     left-sided PICC line terminating in the mid SVC.  There is mild subsegmental
+     atelectasis at the left mid lung zone, and linear opacities are present in the
+     right mid and lower lung zones.  The right-sided hydropneumothorax is faintly
+     visualized.
+     
+     IMPRESSION: The overall appearance of the chest other than insertion of the
+     PICC line does not appear to be significantly changed since the prior chest x-
+     ray.
+
+",,
+5197,,,,2512-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-11-22**] 9:52 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9106**]
+     Reason: follow up right empyema
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man with right lung pneumonia and empyema now s/p chesttube;       
+     REASON FOR THIS EXAMINATION:
+      follow up right empyema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA & LATERAL CHEST FROM [**11-22**]
+     
+     HISTORY:  Right pneumonia and empyema.
+     
+     IMPRESSION:  PA and lateral chest compared to [**2512-10-27**]:
+     
+     Small right pleural effusion persists including a fissural component in the
+     right major fissure, without appreciable change.  Atelectasis or residual
+     consolidation in the right lower lung has improved slightly.  Linear
+     atelectasis or scarring is stable in the left lower lung.  Heart size is top
+     normal.  No pneumothorax.
+                                                                           
+
+",,

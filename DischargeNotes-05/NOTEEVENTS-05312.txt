@@ -1,0 +1,881 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5312,,,,3248-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-16**] 10:33 AM
+     MR [**Name13 (STitle) 190**] W & W/O CONTRAST; MR CONTRAST GADOLIN                Clip # [**Clip Number (Radiology) 10145**]
+     Reason: OSTEO
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with pott's disease                                           
+     REASON FOR THIS EXAMINATION:
+      evaluate L4/L5                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Pott's disease.
+     
+     TECHNIQUE:  Axial and sagittal T1- and T2-weighted imaging of the spine
+     including axial and sagittal post-gadolinium sequences.
+     
+     COMPARISONS:  MRI of the lumbar spine from [**3248-9-9**].
+     
+     NOTE:  This study was performed on [**3248-9-16**], but is being interpreted
+     on [**9-22**] due to PACS malfunction resulting in temporary loss of the
+     study.
+     
+     MR OF THE LUMBAR SPINE WITHOUT AND WITH GADOLINIUM:  High T2 signal within the
+     L4/5 intervertebral disc is unchanged.  There is no change in the amount of
+     vertebral body enhancement. Again, the enhancing epidural tissue abuts the
+     ventral surface of the thecal sac, but there is no frank epidural abscess.  No
+     paraspinal abscess is identified.  No new abnormal disc spaces are identified.
+     Degenerative changes, including the degree of spinal stenosis, are unchanged.
+     
+     IMPRESSION:  No change in appearance of L4/5 discitis, consistent with known
+     Pott's disease.
+
+",,
+5312,,,,3248-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-16**] 10:33 AM
+     MR [**Name13 (STitle) 190**] W & W/O CONTRAST; MR CONTRAST GADOLIN                Clip # [**Clip Number (Radiology) 10145**]
+     Reason: OSTEO
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with pott's disease                                           
+     REASON FOR THIS EXAMINATION:
+      evaluate L4/L5                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Pott's disease.
+     
+     TECHNIQUE:  Axial and sagittal T1- and T2-weighted imaging of the spine
+     including axial and sagittal post-gadolinium sequences.
+     
+     COMPARISONS:  MRI of the lumbar spine from [**3248-9-9**].
+     
+     NOTE:  This study was performed on [**3248-9-16**], but is being interpreted
+     on [**9-22**] due to PACS malfunction resulting in temporary loss of the
+     study.
+     
+     MR OF THE LUMBAR SPINE WITHOUT AND WITH GADOLINIUM:  High T2 signal within the
+     L4/5 intervertebral disc is unchanged.  There is no change in the amount of
+     vertebral body enhancement. Again, the enhancing epidural tissue abuts the
+     ventral surface of the thecal sac, but there is no frank epidural abscess.  No
+     paraspinal abscess is identified.  No new abnormal disc spaces are identified.
+     Degenerative changes, including the degree of spinal stenosis, are unchanged.
+     
+     IMPRESSION:  No change in appearance of L4/5 discitis, consistent with known
+     Pott's disease.
+
+",,
+5312,,,,3248-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-17**] 1:09 PM
+     LUMBAR PUNCTURE                                                 Clip # [**Clip Number (Radiology) 10146**]
+     Reason: please do LP to send spinal fluid for AFB smear/culture     
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+     ********************************* CPT Codes ********************************
+     * 62270 LUMBAR SPINAL PUNCTURE         76005 FLUOR GUID FOR SPINE INJ      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with spinal TB, pachymeningeal enhancement over calavarium on 
+      MRI
+     REASON FOR THIS EXAMINATION:
+      please do LP to send spinal fluid for AFB smear/culture                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FLUOROSCOPIC GUIDED LUMBAR PUNCTURE:
+     
+     CLINICAL INFORMATION:  86-year-old woman with spinal TB, packing meningeal
+     enhancement over calvarium on MR.  Spinal fluid for AFB smear/culture.
+     
+     The patient is referred for fluoroscopic-guided lumbar puncture.  
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 10147**] and [**Name5 (PTitle) **], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     Informed consent was obtained after explaining the risks, indications, and
+     alternative management. 
+     
+     The patient was brought to the fluoroscopic suite and placed on the
+     fluoroscopic table in prone position.  Access to the lumbar subarachnoid space
+     was obtained with a 22 gauge spinal needle under local anesthesia using 1%
+     lidocaine and with aseptic precautions.  Access was obtained at the level of
+     L2/3.  The opening pressure was measured at 5 cm CSF.  14 ml of CSF was
+     obtained and sent for various microbiological tests, as requested.  The
+     patient tolerated the procedure well without any complications.  Patient was
+     sent to the floor with postprocedure orders. 
+     
+     IMPRESSION:  Successful fluoroscopic-guided lumbar puncture.  The samples were
+     sent for routine laboratory analysis as was requested by the referring
+     physician.
+
+",,
+5312,,,,3248-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-17**] 1:09 PM
+     LUMBAR PUNCTURE                                                 Clip # [**Clip Number (Radiology) 10146**]
+     Reason: please do LP to send spinal fluid for AFB smear/culture     
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+     ********************************* CPT Codes ********************************
+     * 62270 LUMBAR SPINAL PUNCTURE         76005 FLUOR GUID FOR SPINE INJ      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with spinal TB, pachymeningeal enhancement over calavarium on 
+      MRI
+     REASON FOR THIS EXAMINATION:
+      please do LP to send spinal fluid for AFB smear/culture                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FLUOROSCOPIC GUIDED LUMBAR PUNCTURE:
+     
+     CLINICAL INFORMATION:  86-year-old woman with spinal TB, packing meningeal
+     enhancement over calvarium on MR.  Spinal fluid for AFB smear/culture.
+     
+     The patient is referred for fluoroscopic-guided lumbar puncture.  
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 10147**] and [**Name5 (PTitle) **], the Attending Radiologist, present and
+     supervising the entire procedure.
+     
+     Informed consent was obtained after explaining the risks, indications, and
+     alternative management. 
+     
+     The patient was brought to the fluoroscopic suite and placed on the
+     fluoroscopic table in prone position.  Access to the lumbar subarachnoid space
+     was obtained with a 22 gauge spinal needle under local anesthesia using 1%
+     lidocaine and with aseptic precautions.  Access was obtained at the level of
+     L2/3.  The opening pressure was measured at 5 cm CSF.  14 ml of CSF was
+     obtained and sent for various microbiological tests, as requested.  The
+     patient tolerated the procedure well without any complications.  Patient was
+     sent to the floor with postprocedure orders. 
+     
+     IMPRESSION:  Successful fluoroscopic-guided lumbar puncture.  The samples were
+     sent for routine laboratory analysis as was requested by the referring
+     physician.
+
+",,
+5312,,,,3248-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5312,,,,3248-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5312,,,,3248-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-22**] 11:04 AM
+     DUPLEX DOPP ABD/PEL                                             Clip # [**Clip Number (Radiology) 10148**]
+     Reason: ELEVATED LFT'S, COMPROMISED VASCULARITY, R/O BUDD CHIARI
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with spinal TB, new onset elevated LFTs and vomiting          
+     REASON FOR THIS EXAMINATION:
+      pls eval for cholelithiasis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LIVER GALLBLADDER ULTRASOUND
+     
+     INDICATION:  Spinal TB with new onset of elevated LFTs and vomiting.
+     
+     Comparison is made to the prior CT scan dated [**3248-9-4**].
+     
+     FINDINGS:  The liver demonstrates no focal or textural abnormalities.  There
+     is no biliary ductal dilatation.  The gallbladder is not identified.  There is
+     no perihepatic ascites.
+     
+     Color flow and Doppler examination of the hepatic vasculature was performed
+     given elevated LFTs.  The main portal vein and its branches are patent with
+     the appropriate direction of flow.  The hepatic veins are patent with normal
+     waveforms.  The left and right hepatic arteries are patent with normal
+     waveforms.
+     
+     IMPRESSION:  Patent hepatic vasculature with no abnormalities detected.
+                                                                           
+
+",,
+5312,,,,3248-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-9-30**] 5:07 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10149**]
+     Reason: r/o bleed                                                   
+     Admitting Diagnosis: FALL;MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman s/p unwitnessed fall, delirious                               
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post fall with delirium.
+     
+     COMPARISON:  Head CT of [**3248-9-1**] and brain MRI of [**3248-9-9**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no acute intracranial hemorrhage, mass effect, or shift of
+     normally midline structures.  There is a small area of low density in the left
+     lenticular nucleus, which is not identified on the preceding CT scan, and
+     which does not have imaging correlates on the preceding MRI.  This may
+     represent a new lacunar infarction.  Other areas of low density in the
+     periventricular and subcortical white matter of both cerebral hemispheres
+     appear unchanged compared to the previous CT scan.  There is no CT evidence of
+     an acute major territorial infarction.  The ventricles are stable in size.
+     There are no fractures.  Degenerative changes are noted in the left C2/3 facet
+     joint.  Bilateral lens implants are present.  The visualized paranasal sinuses
+     are normally aerated.
+     
+     IMPRESSION:
+     1.  No acute intracranial hemorrhage.
+     2.  Likely new lacunar infarction in the left lentiform nucleus.
+     
+     NOTE ADDED AT ATTENDING REVIEW: It is always difficult to age lacunar
+     infarctions.  The lesion was not visible on the most recent prior brain
+     imaging of [**3248-9-9**], so it is likely new since that time, but not necessarily
+     acute now.
+                                                                           DFDkq
+
+",,
+5312,27103,,,3248-10-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3248-10-12**]              Discharge Date:   [**3248-11-11**]
+ 
+Date of Birth:  [**3161-10-3**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 864**] 
+Addendum:
+Patient unable to be discharged to rehab given issues regarding 
+her disposition. On [**10-16**] - HCP, PCP and [**Name9 (PRE) 6214**] decided to 
+discharge to rehab so d/c'ed NG tube, R IJ. Health care proxy 
+then decided she did want PEG tube, pressors were OK, however, 
+she remained DNR/DNI. An ethics consult was called because of 
+the nature of the situation. The family was conflicted about how 
+to proceed with her care.  Staff from FICU and then the floor 
+concerned about the goals of care for this patient.  Family 
+meeting with neice on [**10-21**] about goals of care, however, unable 
+to make a decision about PEG placement and continued aggressive 
+intervention. Discussion with neice on on [**10-23**]  - she decided 
+to remove the NGT and not place a PEG so that pt will be more 
+comfortable and encourage the pt to eat as little or as much as 
+she wants. The patient had very poor po intake. TB meds were not 
+restarted given her waxing/[**Doctor Last Name 36**] ability to take pos.  
+Unfortunately, as she could not be ruled out for pulmonary TB 
+(induced sputums were unsuccessful and family refused BAL) and 
+so placement was very difficult.  We contacted the DPH regarding 
+this issue but we still could not find a facility in the state 
+that was willing to take over her care.  We did not feel that it 
+was appropriate to place a PEG solely so she could receive her 
+TB meds and be transferred to rehab.  Her dementia was end-stage 
+and it was not in keeping with her family's goals for 
+end-of-life care.  We then transitioned to comfort care.  The 
+patient's pain was treated with morphine.  On [**3248-11-11**] the 
+patient became extremely dyspneic.  Her morphine dose was 
+increased to help control her symptoms.  The paient expired on 
+[**3248-11-11**] from apparent respiratory failure.
+.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Roscommon
+ 
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 869**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1365**] MD [**MD Number 1366**] [**3248-12-3**] @ 1536
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 442**] [**3248-12-8**] 11:00 PM
+(End of Report)
+
+
+",,
+5312,27103,,,3248-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-12**] 7:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10151**]
+     Reason: eval for pna                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old woman with altered mental status                                   
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86-year-old with mental status changes.
+     
+     PORTABLE SEMI-UPRIGHT FRONTAL RADIOGRAPH:
+     
+     COMPARISON:  [**3248-9-7**].
+     
+     Cardiac and mediastinal contours are normal.  The lungs are clear.  There has
+     been interval placement of a right-sided internal jugular central venous
+     catheter with its tip in the mid SVC.  There is no pneumothorax.  Osseous
+     structures are unremarkable.  Calcified granulomas in the right upper lung
+     field are stable in appearance.
+     
+     IMPRESSION:
+     
+     No radiographic evidence of acute cardiopulmonary process.  Interval placement
+     of right IJ central venous catheter.
+                                                                           
+
+",,
+5312,27103,,,3248-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-12**] 6:37 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10150**]
+     Reason: eval for ich                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with altered mental status                                    
+     REASON FOR THIS EXAMINATION:
+      eval for ich                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe MON [**3248-10-12**] 11:20 PM
+      no evidence for acute intracranial pathology including hemorrhage, mass
+      effect, or infarction.  MRI is more sensitive in the detection of acute
+      infarction.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status.
+     
+     COMPARISON:  [**3248-9-30**].
+     
+     FINDINGS:  There is no evidence for hemorrhage, mass effect, shift of normally
+     midline structures, hydrocephalus, or acute major vascular territorial
+     infarction.  The ventricles and sulci are normal and stable in size.  There
+     are unchanged hypodensities in the subcortical white matter suggesting chronic
+     microvascular ischemic change.  The surrounding osseous and soft tissue
+     structures are unremarkable.  The visualized paranasal sinuses are well
+     aerated.
+     
+     IMPRESSION:  No evidence for acute intracranial hemorrhage or infarction.
+     Please note that MRI is more sensitive in the detection of acute infarction.
+                                                                           DFDgf
+
+",,
+5312,27103,,,3248-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-12**] 9:37 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 10152**]
+     Reason: please eval for hydroneph                                   
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with ARF                                                      
+     REASON FOR THIS EXAMINATION:
+      please eval for hydroneph                                                       
+     ______________________________________________________________________________
+     WET READ: MMBn TUE [**3248-10-13**] 12:55 AM
+      1) No hydronephrosis,
+      2) Stable marked atrophy and diffuse hypoechoic left kidney. This is consitent
+      with prior CT findings from [**3248-9-4**].
+     WET READ AUDIT #1 MMBn MON [**3248-10-12**] 10:10 PM
+      1) No hydronephrosis,
+      2) Stable marked atrophy and cystic replacement of left kidney.
+     WET READ AUDIT #2 MMBn TUE [**3248-10-13**] 12:15 AM
+      1) No hydronephrosis,
+      2) Stable marked atrophy and diffuse hypoechoic left kidney. This is consitent
+      with prior CT findings from [**3248-9-4**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old female with acute renal failure.  Evaluate for
+     hydronephrosis.
+     
+     COMPARISON:  CT abdomen and pelvis dated [**3248-9-4**].
+     
+     RENAL ULTRASOUND:  The right kidney measures 9.6 cm.  No cysts, stones, or
+     masses are seen within the right kidney.  The left kidney is markedly
+     atrophic, measuring 7 cm, and is almost entirely replaced by cysts.  No
+     hydronephrosis is seen bilaterally.
+     
+     IMPRESSION:
+     
+     1.  No hydronephrosis bilaterally.
+     
+     2.  Stable marked atrophy and cystic replacement of the left kidney.
+                                                                           
+
+",,
+5312,27103,6594,,3248-10-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-13**] 5:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10153**]
+     Reason: Please evaluate for chf or pna.                             
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         86 year old woman with altered mental status and sepsis.                     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for chf or pna.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Altered mental status and sepsis.
+     
+     IMPRESSION:  AP chest compared to [**10-12**]:
+     
+     Mild pulmonary edema is new, although heart size remains normal and there is
+     little if any vascular distention in the mediastinum or indication of pleural
+     effusion.  Right internal jugular line tip projects over the SVC.  No
+     mediastinal widening, pleural effusion, or pneumothorax.
+                                                                           
+
+",,
+5312,27103,6594,,3248-10-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-13**] 2:49 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 10154**]
+     Reason: check NGT placement                                         
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          86 year old woman with altered mental status and sepsis.                    
+       
+     REASON FOR THIS EXAMINATION:
+      check NGT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE
+     
+     INDICATION:  86-year-old woman with altered mental status and sepsis.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study at 7:09 a.m.
+     
+     The right jugular IV catheter terminates in the superior vena cava.  A
+     nasogastric tube terminates in the gastric antrum.
+     
+     The lung volume is small.  Patchy atelectasis is seen at the lung bases.  The
+     lungs are clear otherwise.  The heart is normal in size.  There is continued
+     mild tortuosity of the thoracic aorta.
+                                                                           
+
+",,
+5312,27103,6594,,3248-10-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-13**] 2:49 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 10154**]
+     Reason: check NGT placement                                         
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          86 year old woman with altered mental status and sepsis.                    
+       
+     REASON FOR THIS EXAMINATION:
+      check NGT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE
+     
+     INDICATION:  86-year-old woman with altered mental status and sepsis.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study at 7:09 a.m.
+     
+     The right jugular IV catheter terminates in the superior vena cava.  A
+     nasogastric tube terminates in the gastric antrum.
+     
+     The lung volume is small.  Patchy atelectasis is seen at the lung bases.  The
+     lungs are clear otherwise.  The heart is normal in size.  There is continued
+     mild tortuosity of the thoracic aorta.
+                                                                           
+
+",,
+5312,27103,6594,0,3248-10-13 05:05:00 EST,3248-10-13 05:49:00 EST,976,"N",69,"Nursing/Other",,"
+
+MICU East 2300-0700 RN Note
+ Admission Note
+
+Pt 86yo Russian speaking female with dementia brought to ED from NH with ? aspiration and unresposiveness hypotensive SBP 60's. reported that pt had poor intake over the past few days. Recent Discharge from [**Hospital1 2**]  [**10-6**] for fever confusion and s/p fall dx Potts disease degenerative spinal osteomyolitis. MRI epidural abscess. Discharged to NH. [**10-12**] presented to ED BP 70's, ^WBC, afebrile,Lactate 5.4 Sepsis line placed CVP 2-4, SVO2 80 Fluid resusitated NS 2L with improved BP to 120's. Change MS [**First Name (Titles) **] [**Last Name (Titles) **] pending results. Adm to MICU for sepsis protocol and monitoring. 
+
+Neuro:  Pt confused and moaning thrashing arms slept short naps, Pupils 2-3mm equal react brisk, Not following commands conbative / resistent /pulling  at IV and O2. Soft wrist restrains applied for safety. 
+
+CV:  HR 100-122 ST no ectopy. BP labile 90/37-132/60 Maps >60 Goal MAPS>60, EKG no acute changes , + tropinin, neg cardiac enzymes. RIJ line inplace CVP 2-7 Goal CVP>8. Sepsis protocol Agressive Fluid resusitation with LR 4L. Hypernatremia Na+ 162 now 158, lactate 5.4 trending down to 1.6 then ^2.2
+Heme: 34.3 down to 25.7
+
+resp:  Arrived on NRB 100%, Sats 98-100% weaned O2 to NC 2L/Min Sats 98-100%. Lungs coarse dim @ bases. Congested weak cough thisk secretions sx orally for thick yellow secretions. Cont SVO2 80-77. 
+
+ID:  sepsis due to UTI ? aspiration PNAafebrile hypothermic upon arrival T-93 ax Bear hugger on T^95. WBC 20-17.5. Abx vanco x1 dose , cefriaxone, levofloxin.
+
+GU/Renal: Foley oliguric U/o 0-20cc/hr Goal u/o >30cc/hr , BUN/creat 109/3.3. ARF Hypovolemis plan agressive Hydration.
+
+GI:  abd soft + BS no BM NPO
+
+Social:  full code status> No family contact. Great niece listed As next of [**Doctor First Name 34**].     
+",,
+5312,27103,6594,0,3248-10-13 17:35:00 EST,3248-10-13 18:01:00 EST,679,"N",69,"Nursing/Other",,"
+
+MICU EAST Nursing Progress Note (0700-1900)
+
+Please see carevue for all objective data. Pt. well known to [**Hospital1 2**]...treated here recently for spinal TB (levo/INH/Streptomycin/ethambutol). Currently residing in NH where she has been noted to be hypernatremic and dehydrated several days PTA. In EW, she was noted to hypotensive with elevated lactate/BUN/CR. UTI+ yeast and bacteria. Sepsis protocol initiated. Zosyn started for presumed UTI. 
+
+SEPSIS: Pt has required a total of 9L IVF since MICU admission in attempt to treat sepsis and maintain UOP of >30/hr, CVP of >8. She has been bolused a total of 4250cc today. UOP is just at 30/hr, B/P of 85-100/syst. CVP waveform unreliable despite troubleshooting and ranges [**3-9**]. Currently normothermic and bair hugger has been removed. Being treated with zosyn and levofloxacin. 
+
+RESP: Volume overload present on CXR. Diminished breath sounds throughout...difficult to get good lung exam. She is satting at 100% on 2lnc however. Weak, congested cough. 
+
+GI: Abdomen soft and distended  with active BS throughout. Passing small amounts of soft, brown stool q2hr. NGT placed in order to administer meds. Nutritional issues will need to be addressed.
+
+HEME: Currently recieving one unit PRBC's for Hct of 25. 
+
+CNS: Pt. extremely agitated and combative with care. Moaning and crying out...seemingly in pain. Russian interpreter in, but pt not able to communicate with her, either. Bilateral soft wrist restraints applied, along with mitts in order to maintain pt. and staff safety. 
+
+SOCIAL: Niece from [**State 3533**] called for update...spoke with nursing and housestaff. She was told that pt. was extremely uncomfortable, agitated and seemingly in a great deal of pain with any type of care. Pt's niece requests that we continue with all aggressive therapy at this time. She plans to visit over [**Holiday **]...will continue to keep in contact daily. 
+",,
+5312,27103,6594,0,3248-10-13 18:03:00 EST,3248-10-13 18:05:00 EST,679,"N",69,"Nursing/Other",,"
+
+ADDENDUM: Rash, some breakdown noted in perianal area. Cleansed frequently due to several stools and double [**Last Name (un) **] cream applied liberally. ?yeast. 
+",,
+5312,27103,6594,0,3248-10-13 18:16:00 EST,3248-10-13 18:17:00 EST,679,"N",69,"Nursing/Other",,"
+
+Addendum: Most recent labs show K+ of 3.3, Cl down to 120, glucose of 66, BUN/CR soen to 58/1.5, Ca 7.6 and PO4 of 2. HO notified...will replace as indicated. 
+",,
+5312,27103,6594,,3248-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-14**] 8:47 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 10156**]
+     Reason: eval R IJ placement                                         
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            86 year old woman with altered mental status and sepsis.  now with IJ 
+      displaced                     
+     REASON FOR THIS EXAMINATION:
+      eval R IJ placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP CHEST, 9:54 A.M. ON [**10-7**]:
+     
+     HISTORY:  Altered mental status.  IJ line placement.
+     
+     IMPRESSION:  AP chest compared to [**10-14**] at 7:27 a.m.
+     
+     Pulmonary edema has cleared.  Right internal jugular line tip projects over
+     the SVC, without evidence of complication.  Small right pleural effusion
+     persists.  Heart size normal.  No pneumothorax.  Nasogastric tube ends in the
+     stomach.
+                                                                           
+
+",,
+5312,27103,6594,,3248-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-14**] 8:47 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 10156**]
+     Reason: eval R IJ placement                                         
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            86 year old woman with altered mental status and sepsis.  now with IJ 
+      displaced                     
+     REASON FOR THIS EXAMINATION:
+      eval R IJ placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP CHEST, 9:54 A.M. ON [**10-7**]:
+     
+     HISTORY:  Altered mental status.  IJ line placement.
+     
+     IMPRESSION:  AP chest compared to [**10-14**] at 7:27 a.m.
+     
+     Pulmonary edema has cleared.  Right internal jugular line tip projects over
+     the SVC, without evidence of complication.  Small right pleural effusion
+     persists.  Heart size normal.  No pneumothorax.  Nasogastric tube ends in the
+     stomach.
+                                                                           
+
+",,
+5312,27103,6594,,3248-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-14**] 5:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10155**]
+     Reason: please eval for infiltrate or edema                         
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           86 year old woman with altered mental status and sepsis.                   
+         
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate or edema                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:27 A.M [**10-14**]
+     
+     HISTORY:  Altered mental status.  Rule out pulmonary edema.
+     
+     IMPRESSION:  AP chest compared to [**10-13**].
+     
+     Mild-to-moderate pulmonary edema has developed since [**10-13**] accompanied by
+     increasing opacification at the base of the left lung, which could be
+     atelectasis and pleural effusion.  Heart is normal size.  Mediastinal
+     vasculature is engorged.  Right internal jugular line tip projects over the
+     SVC.  Nasogastric tube ends in the distal stomach.  No pneumothorax.
+                                                                           
+
+",,
+5312,27103,6594,0,3248-10-14 04:53:00 EST,3248-10-14 05:25:00 EST,976,"N",69,"Nursing/Other",,"
+
+MICU East 1900-0700 RN Note
+
+Neuro:  86yo Russian speaking female with Dementia, confused and agitated, moans and cries out incoherenly. thrashes arms pulling at tubes and wires Hands restrained for safety. Opens eyes spont tracks surrounding not following commands. MAE random nonpurposefull withdraws to tactile stimulation. Pain Management: grimaces with turning and movement cries out ? Back pain (Potts Disease) recieved MS04 1mg IVP x2 with minimal seditive effect. 
+
+CV:  HR 72-112 SR-ST no ectopy. NBP labile 83/48-115/45 MAPS>60 with transient Hypotensive episoded to SBP 70's increased with stimulation Recieved FB 500cc LR x3 with responding ^BP. RIJ sepsis cath inplace CVP 6-9 Goal CVP>8, IV LR 10cc/hr. Hypernatremia Na+ 148 down [**Last Name (un) 203**] 158
+Ca+7.6 mag 1.7 Phos 1.5, Plan repletion. 
+Heme:  Completed Blood transfussion Post Hct 31.7
+
+Resp:  RR 18-24 shallow resp O2 2L/min NC Sats 92-100%, Occassional congested cough sx back orally for sm amt yellow secretions/tends to swallow secretions, BS coarse fine crackles @ bases.
+
+ID:  T-max 98.4. WBC 15 +UTI, abx Zosyn, Funguria plan Diflucans renal dosing. 
+
+GI: Abd soft distended +BS inc lg liq brown stool (-) guiac. Mushroom cath placed dr [**Last Name (STitle) **] [**Name (STitle) 917**] stool. OGT inplace recieved Freee H2) bolus 300ccx2 then d/c started TF Promote with fiber 10cc/hr Goal 50cc/hr sm residual. 
+
+Endo: FSBS @ 12mn 58 recieved D50 [**12-1**] amp BS^ 90. 
+
+GU/renal:  Bun/creat trending down 48/1.4 Foley u/o 20-60cc/hr, Goal u/o >30 
+
+derm:  Skin dry, Coccyx reddened Double guard appied. 
+
+Social:  Full code status, No family contact this shift.  
+",,
+5312,27103,6594,0,3248-10-14 17:29:00 EST,3248-10-14 17:40:00 EST,6155,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neruo: Disoriented per Russian interpreter, agitated when touched followed by moaning and crying. Opens eyes to painful stimuli, withdraws to tactile stimuli. Bilat. wrist restraints intact, bilat. mitts intact as pt is thrashing in bed and pulling on IV lines and foley cath.
+
+CV: HR 74-112 SR-ST, SBP 88-109/30-60's goal is for MAP>55 or UOP 20cc/hr, SVO2 70-75% dc'd at 1800 per HO.  +2 edema to lower extremities. CVL intact, central placement verified by CXR.
+
+Resp: Lungs coarse bilat., RR 16-23, resp. shallow, O2 at 2L NC intact, O2 sats 94-100%.
+
+ID: T max 97.4, continues on zosyn for UTI, started on Fluconazole for yeast and foley cath changed. Urine Cx's pending, Bld. Cx's pending.
+
+GI: BS (+), liquid brown stool per mushroom cath.
+
+GU: Foley cath intact draining clear yellow urine 20-40cc/hr. Urine sent for cx after insertion of new cath. today.
+
+SOcial: Neice [**Name (NI) 4584**] called, will call back to speak with HO.
+
+Plan: Continue to monitor VS, MAP55 or UO>20cc/hr, adm abx as ordered.
+",,
+5312,27103,6594,,3248-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-15**] 5:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10157**]
+     Reason: please eval for edema                                       
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             86 year old woman with altered mental status and sepsis.                 
+     REASON FOR THIS EXAMINATION:
+      please eval for edema                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  86-year-old woman with altered mental status and sepsis.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed, and
+     compared with the previous study of yesterday.
+     
+     There is slight increase in diffuse pulmonary edema compared with the previous
+     study.  There is increase in left lower lobe opacity indicating pneumonia
+     versus atelectasis.  The heart and mediastinum are within normal limits.  The
+     right jugular IV catheter and nasogastric tube remain in place.  No
+     pneumothorax is identified.  There is small bilateral pleural effusion.
+                                                                           
+
+",,
+5312,27103,6594,0,3248-10-15 06:12:00 EST,3248-10-15 06:33:00 EST,7314,"N",69,"Nursing/Other","NPN 1900-0700:","
+NPN 1900-0700:
+Neuro: pt is alert, disoriented, confused, screaming and yelling most of the night in spite of Morphine IVP, opens eyes to verbal stimuli, localizes pain and clings to the person without releasing her tight hand for a while, trying to remove the central line, NG tube, and managed successfully to remove the Foley catheter at 0600 after being bathed, though she's restrained with soft wrist restraints blaterally for safety. The resident MD informed, recommended not to re-insert the Foley cath, diaper was applied instead.
+
+Resp: Beathing irregularly via nasa,l canula 2 L/min, coughing with minimal expectoration of yellowish sputum, LS coarse, RR 15-28, SPO2 96-100 %, breathing pattern improved to regular pattern.
+
+CV: SR-ST with frequent PVCs, had a short run of V-Tach, Dr. [**Last Name (STitle) 3382**], no interventions done, with Rt IJ presep cath, on Zocin IV, peripheral pulses weak to palpate, BP 83-115/44-65, HR 69-109.
+
+GI/GU: With NG tube in place, receiving promote with fiber at a goal rate of 50 cc/hr, not to be advanced further acc. to [**Last Name (NamePattern4) 27**] order clarification, abdomen soft, BS present, with mushroom catheter with minimal brownish liquid stool, was voiding 15-35 cc/hr clear yellowish u/o per hour till 0600, then voided in diaper.
+
+Int: with redness at the sacral area, T max 97.6, she's DNI/DNR code.  
+",,
+5312,27103,6594,0,3248-10-15 18:43:00 EST,3248-10-15 18:45:00 EST,6155,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Transfer note written.  Pt remains confused with bilat. wrist restraints, Resp shallow, unlabored, O2 sats 96-100% on RA, HR 70-110 SR-ST, MAPs>50. Incontinent to urine, diaper intact. Mushroom cath intact, draining liquid brown stool. 
+",,
+5312,27103,,,3248-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-16**] 4:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10158**]
+     Reason: please confirm NG TUBE PLACEMENT                            
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               86 year old woman with altered mental status and no with nre NG tube 
+      placement                 
+     REASON FOR THIS EXAMINATION:
+      please confirm NG TUBE PLACEMENT                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:37 P.M [**10-16**] 
+     
+     HISTORY:  Altered mental status.  New nasogastric tube placement.
+     
+     IMPRESSION:  AP chest compared to [**10-14**] and 17.
+     
+     Left lower lobe atelectasis has improved.  Mild right basal atelectasis is
+     unchanged.  Upper lungs are clear.  The heart is normal in size and there is
+     no pleural effusion or indication of pneumothorax.  Nasogastric tube passes as
+     far as the body of the stomach which is not dilated.
+                                                                           
+
+",,
+5312,27103,,,3248-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5312,27103,,,3248-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-20**] 10:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10160**]
+     Reason: please check placement of NGT                               
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with altered mental status, s/p NGT placement                 
+     REASON FOR THIS EXAMINATION:
+      please check placement of NGT                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 11:10 A.M. [**10-20**]
+     
+     HISTORY:  Altered mental status.  Check NG tube placement.
+     
+     IMPRESSION:  AP chest compared to [**10-16**]:
+     
+     Tip of the nasogastric tube as before projects over the proximal duodenum.  A
+     mild degree of opacification at the left lung base persists, probably
+     atelectasis.  There is a small right pleural effusion.  Heart size is top
+     normal, increased since [**10-16**], but there is no pulmonary edema.  No
+     pneumothorax.
+                                                                           
+
+",,
+5312,27103,,,3248-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-20**] 9:26 AM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 10159**]
+     Reason: please r/o DVT                                              
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with RUE edema                                                
+     REASON FOR THIS EXAMINATION:
+      please r/o DVT                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right upper extremity swelling.
+     
+     RIGHT UPPER EXTREMITY ULTRASOUND:  [**Doctor Last Name **] scale and Doppler ultrasound of the
+     right internal jugular, subclavian, axillary, brachial, basilic, and cephalic
+     veins was performed.  There was normal flow, augmentation, compressibility,
+     and waveforms.  No intraluminal thrombus identified.
+     
+     IMPRESSION:  No right upper extremity DVT.
+                                                                           
+
+",,
+5312,27103,,,3248-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-10-21**] 8:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10161**]
+     Reason: please eval for infiltrate, ? aspiration event              
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old woman with altered mental status, getting tube feeds, with new 
+      cough
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate, ? aspiration event                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP VIEW PORTABLE
+     
+     INDICATION:  86-year-old woman with altered mental status aspiration.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed and
+     compared with the previous study of yesterday.
+     
+     The lung volume is small.  There is continued opacity within both lower lobes
+     indicating aspiration versus atelectasis.  The lungs are clear otherwise.  The
+     heart and mediastinum are within normal limits.  The nasogastric tube remains
+     in place.
+                                                                           
+
+",,
+5312,27103,,,3248-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3248-11-11**] 11:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10162**]
+     Reason: ? pna                                                       
+     Admitting Diagnosis: SEPSIS;ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with altered mental status, h/o TB with sob                   
+     REASON FOR THIS EXAMINATION:
+      ? pna                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  86-year-old woman with altered mental status, history of
+     tuberculosis.  Shortness of breath.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed, and
+     compared with previous study dated [**3248-10-21**].
+     
+     A calcified granuloma is seen in the right upper lobe indicating previous
+     granulomatous infection such as TB, which is mentioned in history.
+     
+     There is no focal opacity indicating pneumonia is identified.  The heart and
+     mediastinum are within normal limits.  There is continued tortuosity of the
+     thoracic aorta.
+     
+     There is overlapping soft tissue opacity along the right heart border, which
+     is probably the prominent breast tissue.
+     
+     IMPRESSION:  No evidence of pneumonia.
+                                                                           
+
+",,

@@ -1,0 +1,438 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5074,28475,,,2680-12-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2680-12-2**]              Discharge Date:   [**2680-12-6**]
+ 
+Date of Birth:  [**2598-2-8**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2122**] 
+Chief Complaint:
+chest pain, shortness of breath.
+ 
+Major Surgical or Invasive Procedure:
+endotracheal intubation.
+ 
+History of Present Illness:
+82 F with PMH CAD, DVT, CHF(recently hospitalized [**11-16**] for CHF 
+exacerbation) presented to ED this am with chest pain and SOB 
+that developed while walking to radiolgy for outpatient 
+ultrasound of her liver ordered by PCP. [**Name10 (NameIs) **] was seen in PCP's 
+office [**11-30**] for follow up of recent CHF exacerbation and found 
+to have SBP 140/70 and clear lung exam.  Today per husband pt 
+was walking and complained of sudden onset, sharp chest 
+tightness lasting minutes associated with SOB which resolved 
+with oxygen. Per husband, she has not had any recent fevers, 
+chills, cough or symptoms. Normal appetite and slept well last 
+night. 
+.
+On arrival to ED, VS HR 82 BP 62/54 RR 20 O2 86% on 2 L nasal 
+canula. Pt given 2 L IVF with minimal improvement in SBP 70s and 
+shortly developed increasing respiratory distress. Per ED notes, 
+she was intubated for hypoxic respiratory distress. Resident who 
+intubated pt reports normal intubation without evidence of 
+aspiration. Pt started on Dopamine without improvement in SBP, 
+so Levophed added as well. 
+.
+ED concerned for PE with acute onset SOB, hypotension, and h/o 
+DVT. Discussion of lytics, but pt sent for CTA which did not 
+show PE. CTA showed B/L pleural effusions/ consolidations/ ? air 
+bronchograms.
+
+ 
+Past Medical History:
+PCP: [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5773**]
+hepatic cyst
+CAD
+CHF, diastolic
+MR/TR
+DVT (subclavian vein thrombosis)1983
+HTN
+Glaucoma
+Hypothyroid
+SVT, paroxysmal
+urinary incontinence
+breast ca [**2666**](s/p lumpectomy and xrt)
+colonic adenoma
+hip fracture
+Raynaud's phenomenon
+myeolpathy
+skull fracture from fall
+lung granuloma
+flu shot given [**2680-11-10**]
+ 
+Physical Exam:
+gen: elderly F intubated, sedated. opening eyes to voice.
+HEENT: PERRL. MM dry
+neck: jvp flt
+CV: RRR. Nl S1, S2. no gallops.
+Lungs: coarse breath sounds throughout. no wheeze. + bronchial 
+breath sounds.
+Abd: active BS. soft. ND. no palpable masses.
+Extr: 1+ edema R ankle sl > L. DP 2+ b/l.
+Neuro: sedated; unable to examine well
+
+ 
+Pertinent Results:
+EKG([**12-2**]): NSR 75 nl axis. nl intervals. ? atrial abnormality 
+old. good R wave progression. new ST depression I,II, aVF,mild 
+depressiosn lateral V4-V6. no S1. small Q3, no TWI III. peaked 
+Ts (also on old EKG). RSR V2. 
+.
+Echo([**4-3**]): LAE.[**Last Name (un) **]. mild symmetric LVH, normal systolic 
+function. [**2-1**]+MR. [**2-1**]+TR. E/A ratio 0.80. mod pulm art htn. 
+anterior fat pad. 
+.
+CXR on admission: + increased interstitial markings, sl blurring 
+heart border consistent with CHF.
+.
+Repeat CXR post intubation: increased R sided interstitial 
+markings consistent with dramatically worsening CHF.
+.
+CTA chest: read with radiologist in ED. + air bronchograms, 
+dependent infiltrates and small effusions. some mild ground 
+glass opacities. increased septal markings.No PE.
+.
+RLE US ([**12-2**]): no clot
+
+ 
+Brief Hospital Course:
+Briefly, this is an 82yo F with recent admission for flash 
+pulmonary edema admitted for acute onset of chest pain and 
+shortness of breath requiring intubation.  The pt was found to 
+have CHF likely due to transient ischemia in the setting of 
+diastolic heart dysfunction.
+.
+#. CHF- unclear etiology.  The pt was found to go into afib with 
+RVR while in the MICU, but this was likely stress induced (pt in 
+NSR on admission).  Perhaps pt had brief episode of ischemia 
+leading to decreased LV complaince and worsening of her 
+diastolic dysfunction.  The pts  TTE on [**12-3**] was c/w with some 
+diastolic dysfunction.  She ruled out for MI with 3 sets of 
+negative cardiac enzymes.  The pt was diuresed while in the 
+MICU.  The pt was restarted on metoprolol and verapamil to 
+increase her LV filling time.  Her metoprolol was titrated up to 
+37.5 mg po bid and she was discharged on Toprol XL 75 mg po qd.  
+The pt was discharged on verapamil 80 mg po bid.  She will need 
+an outpt stress test.  Once on the floor, the pt was satting at 
+92%RA while walking.  She did not require diuresis.  The pt was 
+not started on ACE-inhibitor as we will defer to her outpt 
+cardiologist to start this (per OMR notes, it seems pt had been 
+on ACE in the past and it was stopped for some reason).  
+.
+#. Hypoxic respiratory distress: The pts initial presentation 
+(CP, SOB, hypoxia, hypotension) was extremely concerning for PE 
+and the patient was started on heparin drip but CTA was negative 
+for clot. The pt was extubated on [**12-3**].  Cxr initially thought 
+to be [**3-3**] aspiration but the pts clinical status had rapid 
+resolution w/ diuresis.  PNA felt to be unlikely as pt had no 
+fever/cough. It is felt the pt likely had transient ischemia 
+leading to hypoxia/flash pulm edema. The pt r/o for MI with 3 
+sets of cardiac enzymes.  The pt was often wheezing on exam, and 
+her SOB near time of discharge seemed out of proportion to her 
+lung exam.  Consideration may be given to outpatient PFTs.
+.
+#  Episode of Atrial Fibrillation--While the pt was in the MICU 
+she had an episode of Afib with RVR (HR 120s).  Given EKG on 
+admission was NSR and the A fib was noted the following day, her 
+Afib was likely stress induced (from LV/LA volume overload in 
+setting of stiff LV).  Per OMR notes, the pt has been followed 
+for an irregular heart rhythm in the past, and there has been 
+concern for anticoagulation given fall risk.  The pt remained in 
+NSR for the rest of her stay, and she was not started on 
+anticoagulation.  Her need for anticoagulation can be further 
+evaluated on an outpt basis.
+.
+#. Hypotension: The pt was hypotensive on arrival even after 2L 
+IVF, then requiring 2 pressors in ED. This was initially 
+concerning for sepsis although afebrile and lactate 1.4. Likely 
+cardiogenic, although no signs of massive PE or MI; perhaps had 
+ischemia which transiently worsened baseline diastolic 
+dysfunction. Pts BP was stable at discharge.
+.
+#. Hypothyroid: Continued levothyroxine
+.
+# Drop in hematocrit: Pt had Hct drop from 43 on admission [**12-2**], 
+to 32 on [**12-4**].  The pt was guaiac negative.  There was no clear 
+source of bleed. The pts hct was up to 35 prior to discharge.  
+It is possible the one lab value on [**12-4**] was spurious
+.
+#CAD:  The pt has a ? h/o CAD.  She was maintained on aspirin, 
+metoprolol.  The pt was not initially on a statin, so her 
+cholesterol levels were ordered for risk stratification.  She 
+was found to have an LDL of 127 on [**12-3**].  The pt was started on 
+low dose atorvastatin 20 mg po qd.  The pt was also not on an 
+ACE inhibitor on admission, but again, we will defer to her 
+outpt cardiologist to start this medication (OMR notes are 
+unclear if pt was on an ACE inhibitor before and it was stopped 
+for some reason).  Given the pts likely episode of transient 
+ischemia inducing her flash pulmonary edema, stress test would 
+be warranted in the near future.  
+.  
+#  Episode of Atrial Fibrillation--Unclear if CHF exacerbation 
+induced atrial stretch/afib or if afib led to CHF exacerbation.  
+Given EKG on admission NSR and A fib noted the following day, 
+Afib likely stress induced.  Concern for anticoagulation given 
+fall risk
+--will discuss with outpt cardiologist re anticoagulation
+.
+#Dispo: The pt was discharged with home PT and a walker.  She 
+may need outpt PFTs and stress test. 
+ 
+Medications on Admission:
+ASA 81 daily
+Detrol SR 4 mg daily
+Levoxyl 88 mcg
+oxybutinin 5 mg BID
+toprol XL 25 mg daily
+verapamil 80 mg bid
+xalatan 0.005%
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 88 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Verapamil 80 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+4. Brinzolamide 1 % Drops, Suspension Sig: One (1) drop 
+Ophthalmic  BID (2 times a day).  
+5. Betimol 0.25 % Drops Sig: One (1) drop Ophthalmic  QD ().  
+6. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic  HS 
+(at bedtime).  
+7. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Detrol LA 4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO once a day.  
+9. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: 1.5 Tablet 
+Sustained Release 24HRs PO once a day.
+Disp:*45 Tablet Sustained Release 24HR(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1. Diastolic CHF
+2. Coronary artery disease
+
+ 
+Discharge Condition:
+Stable, sats 94%RA
+
+ 
+Discharge Instructions:
+Please continue to take all medications as [**Doctor First Name **] were previously 
+taking.  We have started [**Doctor First Name **] on a new medication called Lipitor 
+and we have increased your dose of Toprol XL to 75 mg daily. 
+
+[**Doctor First Name 10**] should return to the ED or call your PCP if [**Doctor First Name **] experience 
+any worsening shortness of breath, chest pain, or palpitations 
+or any other concerning symptoms.  
+ 
+Followup Instructions:
+Follow-up with your cardiologist:
+Provider: [**Name10 (NameIs) 738**] [**Name8 (MD) 1189**], M.D. [**MD Number 150**]:[**Telephone/Fax (1) 2891**] 
+Date/Time:[**2680-12-13**] 12:00
+
+[**Doctor First Name 10**] have also had [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of hearts monitor placed and these 
+results will be followed by Dr. [**Last Name (STitle) **], your cardiologist.
+
+Follow-up with your PCP:
+[**Name Initial (NameIs) 152**]: [**Name10 (NameIs) **],[**Name11 (NameIs) 1134**] ([**Doctor Last Name **] PRACTICE) THE DOCTORS [**Name5 (PTitle) 5774**] 
+([**Doctor Last Name **] PRACTICE) Date/Time:[**2681-1-3**] 11:10
+
+ 
+                             [**First Name11 (Name Pattern1) 1715**] [**Last Name (NamePattern1) 1716**] MD [**MD Number 1717**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1440**] [**Last Name (NamePattern1) 1488**] MD [**MD Number 1489**] [**2680-12-6**] @ 1955
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: WED [**2680-12-15**] 6:24 PM
+(End of Report)
+
+
+",,
+5074,28475,6303,0,2680-12-03 05:46:00 EST,2680-12-03 06:06:00 EST,2784,"N",69,"Nursing/Other",,"
+
+Nsg Admit Note 2000-0700
+
+82 yo female admitted with resp distress.  Pt was recently admitted to [**Hospital1 2**] [**11-16**] for CHF.  This morning, pt was walking to appt at radiology for an ultrasound of her liver when she became SOB and developed CP.  On arrival to ED - BP 62/54 and O2 sat 86%.  She was given IVF for the hypotension and since she has a history of DVT's they started her on a heparin gtt until she r/o for a PE.  She was intubated without problem and her CXR showed bilat pleural effusions.
+
+She has a PMH of hepatic cysts, CAD, CHF, MR/TR, DVT, HTN,glaucoma,hypothyroidism, SVT, breast Ca [**2666**], raynaud's, and a skull fx from a fall.
+
+She was transferred to MICU for further evaluation and tratment.
+CV - Pt is afebrile.  IVF at KVO via Left femoral triple lumen catheter.  Pt also has left and right EJ iv's which are both heplocked at this point.  HR has been NSR with no ectopy.  BP has been stable depending on level of sedation she is on.  If she becomes agitated and is given a bolus of propofol - her BP will drop to the 80's sysolic.  Plan to get cardiac echo today to evaluate cardiac status.
+
+Resp - BS course bilat.  Suctioned q1 1.2 to 3 hours for mod amt thin creamy secretions.  Sometimes it is blood tinged but that seems to be decreasing.  Continues on CMV 50% 500x14 with PEEP 10.
+
+GI - OGT clamped.  Abd soft -min BS.  No stools noted.
+
+GU - Foley cath draining marginal amt cl yellow urine.  
+
+Neuro - When lightened from the propofol - pt will nod head and answer questions appropriately.  She will follow some commands.
+
+Social - Husband and daughter came to visit last night.  They are planning to come in this morning.  Updated on status and asked appropriate questions.  They appeared comfortable with situation.
+
+Continue to support. Plan to get cardiac echo and reevaluate after that what the plan will be.  
+",,
+5074,28475,6303,0,2680-12-03 08:12:00 EST,2680-12-03 08:17:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt transfered to MICU from ED orally intubated on A/C 500X14 10 peep. CC CP, resp. distress. was ruled out for PE, pmh CHF. BS coarse rhonchi on admit with diminished bases. BS improved after frequent sx and diuretics, Able to wean vent settings to PSV 15/8 and .4. Plan: wean as tolerated, extubated when conditions warrant.
+",,
+5074,28475,6303,0,2680-12-03 16:26:00 EST,2680-12-03 16:36:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 7AM-7PM:","
+MICU NPN 7AM-7PM:
+Neuro: Pt awake and alert, off sedation and extubated at 10AM. Very pleasant and cooperative and appreciative of our care. Family visited today. Pt assisted with her care, brushed her own teeth. Denies chest pain and asking appropriate questions. Turns with assist.
+
+CV: Pt is NSR 80's with few APC's, one episode of a-fib, rate 116-120, lasting about 2minutes noted. Pt restarted on her lopressor as ordered. EKG done but pt was back in NSR at the time of EKG. Given 12.5mg PO at 1630. BP 120-150/50-60. Denies chest pain but c/o palpitations during brief episode of a-fib. She ruled out for MI. Problems in ER felt to be related to possible cardiac arrhythmia so will watch her closely overnight. Echo done results pnd. Labs sent at 5PM. Magnesium repletion given this AM.
+
+Resp: Weaned and extubated this AM at 1000. Weaned to cool neb 50% with good sat. Unable to wean to nasal canula as pt dropped her sat to 90% with 4L N/C. Lungs clear w/deminished sounds at bases. RR 20's on 50% CN.
+
+GI: Has been NPO since extubation except for meds. Will address nutrition with team.
+
+GU: UO improved after extubation.
+
+ID: afebrile with WBC 11.0. Antibiotics stopped.
+
+Access: Pt has been seen by IVT for access since she has groin line. Two peripherals were able to be inserted and I plan to take groin line out after 5PM labs obtained. She still has two EJ lines in place which can stay in until pt transfers to floor tomorrow.
+
+Social: Pt has husband and daughter here to visit. Both updated by the team and aware of plan for transfer to floor tomorrow if she is stable.
+
+
+",,
+5074,28475,6303,0,2680-12-03 18:14:00 EST,2680-12-03 18:16:00 EST,1640,"N",69,"Nursing/Other","Brief Update to NPN:","
+Brief Update to NPN:
+Pt has gone into a-fib again at 1800. EKG obtained. BP stable with HR 90-110 a-fib. Seen by team and ordered for verapamil 40mg PO BID as well as 30meq Kcl for K+ 3.7 on evening labs. Will follow closely. So far pt's sat is good on the 50% cool neb. UO is adequate so no diuresis planned at this time.
+",,
+5074,28475,6303,0,2680-12-04 06:05:00 EST,2680-12-04 06:11:00 EST,2789,"N",69,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+Neuro: Pt. alert and oriented.  Moving all extremities, responds appropriately to questions.
+
+CV: HR initially 110-120's A fib.  Given diltiazem and lopressor for rate control and HR has come down to 80's.  Pt. is asymptomatic with HR in 120's.  BP 100-110/60's.  AM labs pnd.
+
+Resp: Able to tolerate change from 50% cool face mask to 2L NC with sats 93-97%.  No cough or sputum.  Breath sounds clear.
+
+GI: Has tolerated sips of clears during the night.  Should have diet advanced this am-pt. states she is hungry. Fingerstick this am 86-asymptomatic-given apple juice.  No stool.
+
+GU: foley intact draining clear yellow, urine.
+
+ID: afebrile.  Antibiotics d/c'd
+
+Social: daughter and husband in to visit in the evening.  They are aware of plans to transfer pt. to floor today.
+
+A/P
+-? transfer to floor-transfer note written.
+- advance diet
+
+",,
+5074,28475,6303,0,2680-12-04 06:35:00 EST,2680-12-04 06:36:00 EST,2789,"N",69,"Nursing/Other","addendum","
+addendum
+Pt. was started on verapamil and lopressor-not diltiazem- for A fib. 
+",,
+5074,28475,6303,0,2680-12-04 17:44:00 EST,2680-12-04 18:08:00 EST,7271,"N",69,"Nursing/Other","MICU A NPN 7a-7p","
+MICU A NPN 7a-7p
+Neuro: A/O x3, dozing intermittently t/o day. MAE, denies pain. Pt up to chair with minimal assist, stayed up for 6 hrs before returning to bed. 
+
+CV: HR 70-80's afib/NSR, no ectopy noted. SBP 110-140's, pt tolerating lopressor and verapamil. Afebrile. HCT this am noted to be low at 31.9, recheck done at 1500 and now 37.1.
+
+Skin: Intact.
+
+Pulm: O2 sat 92-96% on RA. Pt denies SOB. LS with faint bibasilar crackles. 
+
+GI: Tolerating regular diet, swallows without difficulty. Pt had lg guiac negative stool. Abd soft, NT, +BS.
+
+GU: F/C d/c'd at 3pm, pt dtv at 11pm tonite. Had been previously been draining clear yellow urine. 
+
+Social: Pts husband, [**Male First Name (un) **], and dtr updated by MICU team.
+
+Plan: Pt is called out to CC7, awaiting transfer orders. 
+
+
+",,
+5074,14078,6304,0,2681-02-28 17:59:00 EST,2681-02-28 18:03:00 EST,6691,"N",69,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt transported to FICU from ER intubated. Pt is s/p cardiac arrest. Pt is has a #6.0ETT in place. BS are equal. Pt placed on AC as noted. Pt hypotensive. Plan to remain on current settings at this time.
+",,
+5074,14078,6304,0,2681-03-01 04:49:00 EST,2681-03-01 05:51:00 EST,248,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+   the pt is an unfortunate 83yow woman in her usoh yesterday now s/p a prolonged cardiac arrest who is exhibiting signs of anoxic brain injury. events overnoc include difficulty ventilating the pt until she received ativan for generalized myoclonic activity. serial chemitries also seem to indicate multisystem organ failure including arf and 'shock' liver.
+
+pmh: af; dvt; pe; breast ca; chf; hypothyroidism; htn; cad; hip fracture; raynauds dz.
+
+nkda
+
+review of systems
+
+respiratory-> multiple vent changes made overnoc d/t difficulty ventilating the pt with significant acidosis. currently, the pt is on imv 26x600 w/psv26, peep10, and o2 100%. last abg on these settings: 7.20/27/131/11/-15. o2 reduced to 80% @0500. sx x2 only for scant amts of thin, yellow sputum. 
+
+cardiac-> pressor support reduced to only the levophed qtt. goal is to maintain maps >65. currently actively weaning the levophed as well. hr 60-70's, sr with occat pvc's and pac's. icu team has ordered a tee d/t a worsening cxr suggestive of a possible pericardial effusion. 
+
+neuro-> episodic, generalized myoclonic activity suggestive of seizures. myoclonus alleviated w/iv ativan. the pt remains on dilantin with a therapeutic level this morning. the pt exhibits no purposeful movement; no gag, cough, or corneal reflexes. pupils remains fixed and dilated @6mm. 
+
+gi-> lft's rising likely d/t shock liver. abd is soft, distended w/+bs. continues to be npo. ogt clamped w/5-10cc of coffee ground drainage. no bm overnoc. 
+
+gu-> arf s/p cardiac arrest. rising bun/creat/potassium levels this morning. uop 0-15cc/hr. 
+
+id-> afebrile although wbc rising to 14.8 (from 11.3) this morning. ?asp/pleural effusions on cxr. receiving abx as ordered.
+
+access-> #16&20g angios in either ej. right femerol tlcl is patent and intact. right radial a-line is patent and intact but continues to bleed from the insertion site despite use of gelfoam. fingers are cyanotic bilaterally, right hand >left. weak ulner and brachial pulses noted on the right arm. 
+
+social-> pt's other dtr arrived from [**Location **] ~mn. pt's husband and [**Name2 (NI) 2633**] were updated by the icu resident and spent the noc in the waiting area. anticipate a family meeting later today to discuss the goals of care for this pt. she remains a full code at the present time.
+",,
+5074,14078,6304,0,2681-03-01 06:31:00 EST,2681-03-01 06:34:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues with marginal oxygenation/ metabolic acidosis despite multiple vent changes, improving with sedation maintaining Ve 14 lpm with pip 40's, plat 32-38, autopeep 8; bs coarse crackles, sxn yel blood tinged secretions, will cont full support.
+",,
+5074,14078,6304,0,2681-03-01 16:10:00 EST,2681-03-01 16:12:00 EST,6644,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt continues on full ventilatory support. Pt now on A/C as documented with PIP's 24-34 and Ppl 20-28 B/S ess clear no secretions. Will continue to follow closely.
+",,
+5074,14078,6304,0,2681-03-01 17:15:00 EST,2681-03-01 17:43:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #2","
+MICU/SICU NPN HD #2
+Events: pt successfully weaned from pressors this AM, seizure activity has increased in frequency, Dr. [**Last Name (STitle) **] came to evaluate pt and meet with family, family meeting this afternoon with Dr. [**Last Name (STitle) **] in which pt's husband and daughters decided to shift emphasis of care to comfort, pt is now DNR with a plan to extubate in AM with family at the bedside
+
+Ros:
+
+Neuro: pt remains unresponsive to all stimuli, pupils are fixed and dilated ~5mm, pt continues to have continuous myoclonic jerking and increasing seizure activity, seizures are generalized tonic/clonic activity lasting ~15 seconds
+
+Pulm: pt remains intubated on AC 22x600x0.8/+5, Last ABG 7.17/27/154, LS are coarse, suctioned x2 for scant secretions
+
+CV: pt has maintained a MAP >65 off pressors, HR has been rising slightly over the course of the day (now high 90's, low 100's), please see flowsheet for data
+
+Integ: right hand remains cyanotic and cold, left hand and bilateral lower extremities are cool and mottled, skin is cool and mottled but intact
+
+GI/GU: abd remains softly distended, BS are hypoactive, NPO, Foley is patent for very small amts urine
+
+Access: right femoral TLCL day #2, angios in bilateral EJ's
+
+Plan: shift emphasis of care to comfort, DNR, plan to extubate pt in AM with family at bedside
+",,
+5074,,6304,0,2681-03-02 02:53:00 EST,2681-03-02 03:03:00 EST,585,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+pt remains a dnr w/plans for family to come in tomorrow to extubate pt and make her comfort care
+
+overnight pt spiked temp to 102.5, not responding too much to tylenol. bp dropping in setting of this to 50-60systolic w/increase in hr to 170's, in svt appearing to be afib. family called by ho in regard to apparent change in status. 1l fluid bolus given while family was on their way in. family came in and pt stablilized w/bp staying >100, hr 150-160 range. they made the decision to go back home, get some rest and dome back in the morning as planned. We will call family if pt does have another dramatic change in vitals.
+
+pt conts to have sm episodes of seizure like activity, given mult doses of ativan and valium, she does not appear to have any response to them.  Cont to give dilantin rtc, also does not appear to be stopping sz activity.
+
+cont to support pt, attmpt to make as comfortable as possible. await family to come back in the am for w/d of care
+
+",,
+5074,,6304,0,2681-03-02 04:24:00 EST,2681-03-02 04:27:00 EST,650,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated and sedated on ventilatory support. No vent changes done. We are sxtn for scant clear in ETT. PT has experienced seizure like activity all night. Plan: Confort measure as possible and awaiting family in AM for withdrawl. WIll follow.
+",,
+5074,,6304,0,2681-03-02 10:43:00 EST,2681-03-02 10:49:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+between 7:15a and 9a pt rec'd a total of 20mg of valium iv and 2mg of ativan iv.  family arrived at approx 8a, and it was decided to withdraw the vent and provide pt with comfort measures.  prior to extubating mrs. [**Known patient lastname 8190**], a vaproate sodium bolus (250mg) iv, was started as was an ativan drip and morphine drip.  the ativan drip infused at 8mg/hr and the ativan drip was infusing at 3mg/hr.  pt was extubated at approx 9:15a, pt was extubated and the family, after extubation, was at pt's bedside.  pt pronouced by dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at 9:30a.
+",,

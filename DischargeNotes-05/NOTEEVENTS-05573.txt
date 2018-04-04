@@ -1,0 +1,946 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5573,15506,,,2889-02-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2889-2-6**]              Discharge Date:   [**2889-2-19**]
+ 
+Date of Birth:  [**2816-3-4**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin
+ 
+Attending:[**First Name3 (LF) 1247**] 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Left IJ hemodialysis catheter placement
+Right IJ central line placement
+ 
+History of Present Illness:
+The patient is a 72 year old male with a history of CAD s/p CABG 
+x 2, CHF EF 20%, AFIB, DM2 who presented on [**2889-2-6**] with 
+worsening DOE x 4 weeks, cough, and increased LE edema. Pt 
+reports that 4 weeks prior to presentation, he would be able to 
+climb 10 steps and walk [**12-1**] mile w/o dyspnea - DOE has slowly 
+progressed such that today not able to walk 20 feet w/o dyspnea. 
+Denies dyspnea at rest. Pt also states that he had noticed 
+increased LE edema over past 4 weeks before admission. Finally, 
+he states he has had a cough productive of white sputum x 4 
+weeks; worse at night and interferes w/ his ability to [**Doctor Last Name 314**].  
+On presentation, the patient denied any CP, but stated that one 
+week prior he felt non-radiating sharp substernal CP after 
+climbing 1 flight of stairs. +dyspnea -diaphoresis, -N/V. He has 
+been prescribed SL NTG in past, but never has needed it - during 
+this episode, however, he wished he had it at the time. CP 
+dissipated after resting for 10 minutes and did not recur.  
+
+Does not actively monitor salt intake. Has increased fluid 
+intake (2-3 L/day now) b/c of sensation of dry mouth when wakes 
+up. General malaise has resulted in missing some medication 
+doses. Pt's PCP was going to start him on digoxin for his AF but 
+the prescription has not been filled b/c of dosing error 
+(prescribed 0.1 mg every other day). Has been taking tylenol (2 
+tabs 2-3 times daily) for generally unwell feeling. Has been 
+seen multiple times by PCP for worsening DOE. Work-up included 
+CXR ([**2-1**] - no evidence CHF, no infiltrate), echo (EF 20%) and 
+blood cx to r/o endocarditis (pending).  
+
+ROS: + rhinorrhea, decreased appetite. +wt gain, but not sure 
+how much. Denies orthopnea, PND (but sleeps w/ two pillows for 
+GERD), fevers, chills, night sweats, change in bowel or bladder 
+habits, BRBPR, melena, hematuria, visual changes, weakness in 
+arms or legs. pain in L shoulder w/ movement (longstanding 
+problem)  
+ 
+Past Medical History:
+CAD (CABG [**2858**] AND 1987)  
+CHF w/ EF 20%, diastolic dysfx  
+AF (dating back to 2001)  
+DM (HBA1c 2005 = 7.5)  
+CRI  
+GERD  
+PUD  
+gout  
+claudication  
+s/p CCY  
+s/p cataract [**Doctor First Name 668**] [**12-3**]  
+s/p back surgery  
+
+ 
+Social History:
+Pt is a retired engineer. Lives w/ wife, daughter and 
+granddaughter. Quit tobacco >15 years ago; 50 pk-yr history. 
+Social EtOH (2 drinks/week), no illicits. Wife is HCP. Daughter 
+is cardiac nurse.
+ 
+Family History:
+Noncontributory.
+ 
+Physical Exam:
+T 97.3, BP 103-119/53-70, 87-102, 15-16, 100% RA.  
+Gen: comfortable appearing man, in bed at 40 degrees, speaking 
+in complete sentences without dyspnea, NAD  
+Skin: no rashes, numerous ecchymoses, particularly L forearm, 
+stasis changes LLE  
+HEENT: NCAT, PEERLA (3-->2), EOMI, OP clear w/o erythema, neck 
+supple, no LAD.  
+CV: JVD above ear @90 degrees, 1+ carotid pulses bilaterally w/o 
+bruits, irregular rhythm, rate 75-90, III/VI 
+crescendo-decrescendo murmurSEM, ?gallop, no heave  
+Resp: decreased BS bilaterally in lower [**11-30**] of lung, bibasilar 
+crackles in lower [**11-29**] of lungs
+Abd: obese, well healed midline incision w/ hernia, + 
+distention/mildly tense, non-tender.  
+Ext: 3+ edema LLE, 2+ edema RLL, non-tender to palpation. 
+Extremities warm. 2+ radial pulses bilaterally. L shoulder: pain 
+on passive forward flexion; non-tender to palpation.  
+
+ 
+Pertinent Results:
+Admission Labs:
+WBC-9.1 RBC-3.10* Hgb-10.6* Hct-31.0* Plt Ct-208 Neuts-86.4* 
+Bands-0 Lymphs-7.6* Monos-4.7 Eos-0.7 Baso-0.5
+PT-20.6* PTT-39.0* INR(PT)-2.0*
+Glucose-258* UreaN-84* Creat-2.2* Na-132* K-3.4 Cl-92* HCO3-25 
+AnGap-18
+ALT-32 AST-35 AlkPhos-217* Amylase-50 TotBili-1.5 Lipase-34
+proBNP-7947*
+Cardiac Enzymes:
+[**2889-2-6**] 02:00PM CK(CPK)-85 CK-MB-NotDone cTropnT-0.07* 
+proBNP-7947*
+[**2889-2-6**] 08:10PM CK(CPK)-81 cTropnT-0.07*
+[**2889-2-6**] 09:43PM CK(CPK)-81 CK-MB-3 cTropnT-0.08*
+[**2889-2-7**] 06:20AM CK(CPK)-78 CK-MB-NotDone cTropnT-0.06*
+***
+Admission Studies: 
+ECG Study Date of [**2889-2-6**]  1:14:06 PM 
+Atrial fibrillation Ventricular premature complexes Consider 
+prior inferior myocardial infarction Prior anteroseptal 
+myocardial infarction 
+Diffuse nonspecific ST-T wave abnormalities Since previous 
+tracing of [**2886-4-16**], ventricular ectopy and further ST-T wave 
+changes present 
+ 
+CHEST (PORTABLE AP)  [**2889-2-6**] 1:28 PM
+SEMI-UPRIGHT AP VIEW OF THE CHEST: Patient is status post median 
+sternotomy and CABG. The heart is at the upper limits of normal 
+size. In the interval, there has been upper zone vascular 
+redistribution, vascular engorgement, and perihilar haziness, 
+findings all consistent with mild congestive heart failure. The 
+costophrenic angle is excluded from this study. Small left 
+pleural effusion is likely present. There is no pneumothorax. 
+Osseous structures are unchanged.
+IMPRESSION: Mild congestive heart failure. Probable small left 
+pleural effusion.
+
+UNILAT LOWER EXT VEINS LEFT  [**2889-2-6**] IMPRESSION: No evidence of 
+DVT.
+***
+Other Labs:
+[**2889-2-14**] 05:25AM BLOOD ALT-22 AST-35 LD(LDH)-302* AlkPhos-206* 
+TotBili-1.5
+GGT-318*
+[**2889-2-6**] 02:00PM BLOOD calTIBC-270 VitB12-595 Ferritn-622* 
+TRF-208
+[**2889-2-11**] 06:20AM BLOOD Folate-12.2 Ferritn-600*
+[**2889-2-10**] 06:30AM BLOOD Triglyc-58 HDL-36 CHOL/HD-2.2 LDLcalc-32
+[**2889-2-10**] 06:30AM BLOOD Digoxin-0.5*
+***
+Other Studies:
+CHEST (PORTABLE AP)  [**2889-2-14**] 7:10 AM
+1. Slightly improving interstitial pulmonary edema.
+2. Swan-Ganz catheter terminates in the right upper lobar 
+artery.
+
+RENAL U.S.  [**2889-2-10**] 9:55 AM
+IMPRESSION: Diminished intrarenal arterial diastolic flow 
+suggesting chronic small vessel disease. Otherwise, normal renal 
+ultrasound with no hydronephrosis or evidence for renal artery 
+stenosis.
+
+ESOPHAGUS  [**2889-2-17**] 3:08 PM
+D[**MD Number 1142**] the initial swallows, there was no evidence of 
+aspiration. However, after consecutive sips of thick dye and the 
+patient aspirated a small amount. The cough was partially 
+effective in clearing the aspirated barium.
+The motility of the esophagus appears satisfactory. In the 
+anterior aspect of the distal third of the esophagus there is 
+some irregularity which was incompletely evaluated in this 
+study. This should be further evaluated when the patient comes 
+down tomorrow for a video swallow.
+IMPRESSION:
+1. Mild aspiration during the study. Recommend evaluation by the 
+speech and swallow therapist with a video swallow fluoroscopy.
+REPEAT BARIUM SWALLOW [**2-18**]:
+IMPRESSION: Extrinsic compression upon anterior distal 
+esophagus. If there 
+is further clinical concern recommend followup CT exam. 
+
+VIDEO SWALLOW: mildly reduced oral control and mild pharyngeal 
+residue in the valleculae with all consistencies. Pt also had 
+trace penetration before the swallow with both thin and nectar 
+thick liquids, but he completely cleared the penetration and no 
+aspiration was seen during this study. Based on this study, pt 
+is safe for thin liquids and regular consistency solids. Pt will 
+need to perform repeat swallows as needed to clear the 
+pharyngeal residue which he is sensate to, and often coughs in 
+response to. Spontaneous coughs during this evaluation were 
+never due to 
+aspiration.  
+RECOMMENDATIONS: 
+1. suggest pt continue with a PO diet of thin liquids and 
+regular 
+consistency solids.  
+2. Pills whole with thin liquids.  
+3. Continue with esophageal work- up, especially for reflux, as 
+many of the pt's symptoms may coincide with reflux.  
+
+CT CHEST W/O CONTRAST  [**2889-2-18**] 9:04 PM:
+CT OF THE CHEST WITHOUT IV CONTRAST: There is a left internal 
+jugular line terminating in the distal SVC. There are extensive 
+vascular calcifications. There are multiple small mediastinal 
+lymph[**MD Number 65**]. There are multifocal patchy areas of consolidation 
+in the right upper lobe, left upper lobe, right middle lobe, and 
+bilateral lower lobes. There is a focal area of calcification at 
+the dome of the liver. There is an axial type hiatal hernia. No 
+abnormal masses producing extrinsic compression of the esophagus 
+are identified. There is no definite esophageal wall thickening 
+with areas of the mid esophagus that are underfilled and thus 
+difficult to evaluate for wall thickening.
+Bone windows reveal no suspicious lytic or sclerotic lesions.
+IMPRESSION:
+1. No abnormal masses producing extrinsic compression of the 
+esophagus are identified. There is no definite wall thickening, 
+with evaluation of the mid esophagus limited due to under 
+filling.
+2. Small axial type hiatal hernia.
+3. Extensive vascular calcifications including dense coronary 
+artery calcifications in this patient that appears to be status 
+post CABG.
+4. Multiple patchy opacities in the lungs concerning for 
+multifocal pneumonia. Given this patient's documented aspiration 
+on the recent barium swallow, this is likely contributory.
+
+  
+ 
+
+ 
+Brief Hospital Course:
+[**Hospital3 **] Course:
+Pt was admitted on [**2889-2-6**] on the [**Hospital1 **] APG service. He was 
+fluid overloaded with CHF and was diuresed to be negative 3L, 
+however in the setting of decompenstated HF, aggressive 
+diuresis, and initiation of an ACEI, he developed acute renal 
+failure. Despite discontinuation of all diuretics and 
+renal-toxic medications, his creatinine continued to rise over 
+the next two days to 4.2.  Additionally, his blood pressures 
+remained very low (80s-100s SBP), though he was asymptomatic and 
+not orthostatic.  Accordingly, he was transferred to the CCU for 
+CHF decompensation on [**2889-2-10**].
+
+In the CCU, a central line and swan were placed and the patient 
+was initially maintained on dopamine and vasopressin. His 
+initial numbers were : PCW 33 on admission to CCU , PAP 63/29, 
+CO 4.4, CI 2.07, SVR 855, SVO2 58% --> CO 5.2, CI 2.44 SVR 877, 
+SvO2 61% off milrinone.  
+
+In addition, he had been on milrinone until [**2889-2-14**]. In the CCU, 
+renal was consulted and CCVH was initiated with HD through a 
+left IJ line. At the end of his CCU course, the patient was a 
+total of 3.8 liters negative. On [**2889-2-15**], the day of transfer to 
+the floor, the patient had diuresed 1 liter the day before on 
+CVVH and was 200 cc+ until noon with little urine output prior 
+to transfer on metalazone and lasix 80 mg PO QD. 
+
+He was transferred back to the medicine service on [**2-14**].  
+Diuresis was resumed with lasix and metalozone, with good urine 
+output and stable creatinine at his baseline.  
+
+From a respiratory stand point, Mr. [**Known patient lastname 6718**] improved 
+substantially with diuresis; he was able to ambulate without 
+dyspnea, limited only by deconditioning.  His significant lower 
+extremity edema, however, persisted.
+
+Hospital Course By Issues: 
+ 
+Cardiac:  
+CHF Exacerbation: The etiology of this exacerbation is not 
+clear, however might be in part due to increasing fluid intake 
+and salt indiscretion.  While he was ruled out for MI during 
+this hospitalization, it is possible he previously had an 
+ischemic event which contributed to this exacerbation
+
+On admission, Mr. [**Known patient lastname 6718**]' CHF regimen included: furosemide 80 mg 
+daily, metolazone 5 mg daily, and spironolactone/HCTZ 25/25 mg 
+daily.  He had previously been on a BB but it was discontinued 
+as he is believed to have pulmonary disease, which was 
+exacerbated the BB.  It could not be determined whether he had 
+previously been on an ACEI.  His outpatient diuretics were 
+continued, though lasix was change to IV and administered BID, 
+and an ACEI was started.  In this setting he developed ARF and 
+was transferred as detailed above to the CCU for tailored 
+therapy.  Furthermore, he was hypotensive (80s-100s SBP), though 
+he was asymptomatic from this.
+
+His regimen on discharge is lasix and metalozone BID and he was 
+diuresing well to this regimen with stable creatinine.  He was 
+also started on digoxin 0.125 mg daily.  As Mr. [**Known patient lastname 6718**] has an 
+appointment with the Heart Failure clinic, further modification 
+of his CHF regimen was deferred.  He was not restarted on a BB 
+given his history of exacerbation of respiratory dyspnea with 
+atenolol and onset of ARF inconjunction with starting an ACEI 
+during this hospitalization. 
+
+He should have a repeat echocardiogram when he is euvolemic to 
+assess his actual EF and to guide decisions regarding the need 
+for AICD.
+
+CAD: 
+- Mr. [**Known patient lastname 6718**] has a history of CABG x 2, 1976 and 1987 and was 
+ruled out for MI. In [**2880**], cath showed 3VD and occlusion of 3/6 
+grafts.
+- He was continued on ASA and lipitor 80.  BB was felt to be 
+contraindicated given his history of pulmonary exacerbation and 
+his relative hypotension.
+-[**Name2 (NI) **] should follow-up with his cardiologist as an outpatient to 
+discuss the role for cardiac catheterization when he is 
+euvolemic for hemodynamic assessment and to evaluate for 
+ischemic contribution to his worsening CHF.
+  
+# Rhythm: AFIB since [**2883**].  
+-Mr. [**Known patient lastname 6718**] was monitored on telemetry during his stay - he was 
+in afib but HR was routinely in the 70s-90s
+-he was started on digoxin 0.125 mg daily; it was felt a 
+beta-blocker was contraindicated as detailed previously. 
+- He was anticoagulated with heparin gtt while in the CCU then 
+transitioned to coumadin with a goal INR [**12-31**] 
+
+# Acute on chronic renal failure:  
+- Mr. [**Known patient lastname 6718**]' Cr rose from his baseline of 2.0 to a peak of 4.1, 
+but returned to his baseline after CVVH in the CCU.  His ARF was 
+likely multifactorial (low-flow state in the setting of 
+decompensated CHF, aggressive diuresis, ACEI).  Renal US showed 
+no hydro or renal a stenosis and urine lytes showed a prerenal 
+state.
+- Many of his medications were discontinued in the setting of 
+ARF and were not restarted at discharge given his CRF.  These 
+include glyburide, metformin, and colchicine.
+ 
+#. Cough: likely multifactorial - secondary to pulmonary 
+congestion, related to pneumonia. 
+-Pneumonia - Sputum culture + for H. influenzae, placed on levo 
+7 day course (renally adjusted). 
+-given the history of exacerbation of cough after drinking 
+fluids, a video swallow was performed which did not demonstrate 
+aspiration.
+
+#. Elevated alk phos - has had cholecystectomy in past. Likely 
+related to CHF, especially as level as increased as CHF has 
+worsened.  Unlikely cholestasis or congestion given normal LFTs, 
+normal bili, and ******normal GGT.  
+ 
+# DM2:  discontinued glyburide and metformin given a creatinine 
+clearance of 35. Started on glargine 8, and RISS. At discharge, 
+the pt's creatinine had improved and he was restarted on 
+glargine per Dr.[**Last Name (STitle) 6719**] recs.
+
+# Anemia:  
+- Baseline Hct 39-40, this month has ranged 28-30. 
+- Iron studies show chronic disease. 
+-Started epogen qM,W,F and continued iron supplementation.
+.
+# Hematuria/UTI  
+-Urine: no longer grossly bloody after removal of foley, only 
+[**1-30**] RBCs on microscopic eval of urine --> hematuria resolved. Pt 
+with UTI treated with levofloxacin.
+
+# Esophageal motility
+- Pt was evaluated for possible aspiration and found to not be 
+aspirating. Additionally, there was a question of something 
+compressing the anterior distal esophagus. This was further 
+evaluated with a CT scan which was normal.
+
+# FEN: Placed on low Na, cardiac/DM diet, 1L IVF restriction. 
+Electrolytes were carefully monitored and repleted prn.  Patient 
+was placed on standing Mg 800 mg BID.
+
+ 
+Medications on Admission:
+Warfarin 5 mg M-F, 2.5 mg Sat,Sun  
+Dipyrimidole 25 mg TID  
+Glyburide 1.5 mg daily  
+metformin 1000 BID  
+furosemide 80 mg daily  
+metolazone 5 mg daily  
+spironolactone/HCTZ 25/25 mg daily  
+colchincine 0.6 mg daily  
+nexium 20 mg daily  
+vitamin E 400 IU daily  
+Lipitor 20 mg daily  
+
+Medications on transfer from CCU:
+ASA 325 mg
+Atorvastatin 20 mg PO QD
+Heparin gtt
+SSI 
+Lantus 6 units QHS
+Levofloxacin 250 mg PO Q24
+Metalazone 5 mg PO QD
+Lasix 80 mg PO QD
+Coumadin 5 mg M-Fri. 2.5 mg Sat-Sun
+PPI
+Senna
+Epo 4000 units MWF
+Iron 325 mg PO QD
+
+ 
+Discharge Medications:
+1. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+4. Epoetin Alfa 4,000 unit/mL Solution Sig: One (1) mL Injection 
+QMOWEFR (Monday -Wednesday-Friday).
+Disp:*15 mL* Refills:*2*
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+6. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Metolazone 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Outpatient Lab Work
+[**2889-2-21**]
+
+Serum Digoxin Level, PT, PTT, INR, Chem10, CBC
+
+cc Dr. [**First Name8 (NamePattern2) 70**] [**Last Name (NamePattern1) 1776**]
+10. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+11. Enoxaparin 80 mg/0.8 mL Syringe Sig: 0.7 mL  Subcutaneous 
+Q12H (every 12 hours): Your dose is 70 mg every 12 hours.  On 
+syringe is 80 mg in 0.8 mL. Please administer 0.7 mL.
+Disp:*10 syringes* Refills:*2*
+12. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+13. Magnesium Oxide 400 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+14. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+15. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Decompensated Congestive Heart Failure
+Acute Renal Failure
+
+Secondary Diagnoses:
+Coronary Artery Disease
+Atrial Fibrillation
+Diabetes Mellitus
+Chronic Renal Insufficiency
+Anemia
+
+ 
+Discharge Condition:
+Stable, with less dyspnea and clearer lungs, with renal function 
+at baseline, but with persistent lower extremity edema.
+
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] were hospitalized at [**Hospital1 83**] for exacerbation of your 
+congestive heart failure.  The cause of this exacerbation is not 
+certain, but may be related to increased fluid intake and 
+excessive salt intake.  After trying to remove some of the 
+excessive fluid with lasix, your kidney function worsened.  
+Accordingly, [**Doctor First Name **] were transferred to the ICU for tailored 
+therapy including a form of dialysis, to help remove excess 
+fluid without injurying your kidneys.
+
+During the course of your hospital stay, approximately 
+****XXXX**** liters of excess fluid was removed.  Your weight at 
+the time of discharge from the hospital was ******.
+
+1. Take all medications as prescribed.  Some of your medications 
+were discontinued (including metformin and colchicine) given 
+your worsened kidney function. At the moment, your diuretic 
+regimen (water pills) includes lasix and metalazone; [**Doctor First Name **] should 
+take both medications twice daily. [**Doctor First Name 10**] were started on Epogen 
+for anemia (low red blood cell counts), digoxin for your heart 
+failure and atrial fibrillation, and a short course of 
+levofloxacin for pneumonia.  Your coumadin was subtherapeutic at 
+the time of discharge, so [**Doctor First Name **] are receiving lovenox shots until 
+your coumadin is therapeutic.
+
+2. Keep all appointments with your medical care providers (see 
+below).
+
+3. [**Doctor First Name 10**] should contact your doctor or return to the hospital if 
+[**Doctor First Name **]:
+-notice an increase in your weight of more than 2 lbs ([**Doctor First Name **] 
+should weigh yourself daily)
+-notice an increase in leg swelling, or increased shortness of 
+breath, worsened cough, become short of breat when lying flat, 
+or frequent awaken in the night short of breath
+-chest pain/tightness, palpitations, shortness of breath, 
+nausea/vomiting, decreased exercise tolerance (becoming short of 
+breath with less exertion than previously)
+-fevers, uncontrollable shaking chills
+-lightheadedness, particularly on standing
+-coughing up blood, blood in your urine or stools
+-any other symptoms that are concerning to [**Doctor First Name **].
+ 
+Followup Instructions:
+1. Heart Failure Clinic:  [**Doctor First Name 10**] have an appointment with [**First Name8 (NamePattern2) **] 
+[**Last Name (NamePattern1) **], NP, on [**2889-3-2**] @ 10:00AM.  Located in [**Hospital Ward Name **] Clincial 
+Center. Phone:[**Telephone/Fax (1) 375**]
+
+2. Primary Care Physician: [**Name10 (NameIs) 10**] have a follow up appointment with 
+your primary care physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 70**] [**Last Name (NamePattern1) 1776**] on Tuesday [**2894-2-22**]:30 AM (arrive 15 minutes early) at [**Location (un) 6720**]. [**Location (un) 500**], 
+[**Telephone/Fax (1) 6721**] .
+-[**Doctor First Name **] were started on digoxin while in the hospital.  The blood 
+levels of digoxin should be periodically monitored.  [**Doctor First Name 10**] have 
+been given a prescription to have your digoxin level measured on 
+[**2-21**]. Additionally, laboratory work will be done to assess 
+your kidney function, electrolytes, and PT/PTT/INR. Dr. [**Last Name (STitle) 1776**] 
+will follow-up on these results.
+
+3. Cardiology: [**Doctor First Name **] have a follow-up appointment with Dr. [**First Name4 (NamePattern1) **] 
+[**Last Name (NamePattern1) 1010**] on Tuesday [**3-29**] at 8:30 AM in [**Location (un) 500**], [**Telephone/Fax (1) 6722**] 
+
+
+4. Dr. [**Last Name (STitle) 1776**], Dr. [**Last Name (STitle) 1010**], or the staff at the Heart Failure 
+clinic may wish to repeat an echocardiogram (ultrasound) of your 
+heart when it is felt that your CHF medication regimen has been 
+optimized to get a better sense of the actual function of your 
+heart.  Additionally, Dr. [**Last Name (STitle) 1010**] may wish to order a cardiac 
+catheterization as an outpatient to evaluate your coronary 
+artery disease.
+
+5. Other follow-up appointments currently scheduled:
+Provider: [**Name10 (NameIs) **],[**First Name3 (LF) **] [**Location (un) **] CARDIOLOGY-PRIVATE 
+Date/Time:[**2889-6-7**] 11:00
+
+Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5305**], O.D. Phone:[**Telephone/Fax (1) 1344**] 
+Date/Time:[**2889-7-26**] 10:30
+
+ 
+                             [**First Name11 (Name Pattern1) 133**] [**Last Name (NamePattern4) 1253**] MD [**MD Number 135**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 6723**] MD [**MD Number 6724**] [**2889-2-21**] @ 0908
+Signed electronically by: DR. [**First Name8 (NamePattern2) 133**] [**Doctor Last Name 134**]
+ on: SAT [**2889-4-23**] 2:16 PM
+(End of Report)
+
+
+",,
+5573,15506,6920,0,2889-02-11 18:40:00 EST,2889-02-11 19:03:00 EST,1563,"N",1,"Nursing/Other","CCU NSG ADMIT","
+CCU NSG ADMIT
+Please see FHPA for all information prior to CCU admit.
+
+Pt arrived to CCU ~ 0900.
+
+neuro:alert, oriented x3, pleasant, cooperative w/ care
+cv:hr 81-87 afib w/ occ pvc's. bp 97-109/57-64. Cordis placed in IR, swan floated in CCU. PAP 63-70/51-68 (38-45). pcwp 30.  CO/CI 4.4 svr 855. prior to starting milrinone. One hr after milrinone at .26 mcg/kg/min co 5.5/2.58/727. +4 RLE,+3 LLE
+resp:lungs w/ bibasilar rales. SATS 95-100% on RA. No c/o sob.
+gu: cr [**3-1**] today, dialysis catheter placed in LIJ. vdg total 320cc since admit.
+gi: good appitite
+id: afebrile
+end: bs ;94-173 covered per RISS
+skin: intact. left trunk area w/ non itchy, red area. Seen by HO.
+social: lives w/ wife, has son, daughter, all supportive.
+A: CHF, acute renal fx, admitted to CCU for swan and tailored therapy
+P: monitor CO/CI in response to milrinone. No plans for dialysis at this time.
+
+
+",,
+5573,15506,6920,0,2889-02-12 03:07:00 EST,2889-02-12 03:44:00 EST,7374,"N",1,"Nursing/Other","CCU Nursing note.","
+CCU Nursing note.
+S-""I have restless legs. I'm just so uncomfortable.""
+O-See flowsheet/admit note for additional details. 
+
+72y.o male c CHF exacerbation. To CCU [**2-11**] for tailored therapy and possible CVVH. 
+
+CV-A-fib 90s-110. Milrinone continues at .260mcg/kg (not tolerating any increases as BP dropped.) Dopamine added at 0015 after SBP 70s MAP 40s. Gradually increased as HR allowed to 8.5mcg/kg c SBP 90s and MAPs 55-60. Last #'s 6.5, 3.05, 640. AM #'s/labs pending. PAP 62-67/22-28, CVP 12-16. LLE edema > Right. VIP PA line RIJ. 1 PIV rt arm. {Of note INR continues to be increased @ 3.3-DDAP dosed x1}. 
+
+Resp-LS clear c faint crackles in bases. Requiring 2-3L O2 overnight to keep sat >95. Dry/productive cough (yellow mucus/blood tinged-prn suppresents as ordered. 
+
+Neuro-A/Ox3. no deficits. 
+
+GI/GU-decreased UO. BUN 119, Crt 4.2 (up from 2.2 baseline). Foley placed @ 2200. Clear urine initally now blood tinged. Lasix dosed 40mg @ 2200, and 80mg @ 0200-both p results. Dialysis cath placed [**2-11**] in Lt IJ in anticipation of pt requiring CVVH today. Currently on 500cc-1L fluid restriction. No BM this shift. Tolerating diet. +BS. 
+
+Endo/ID/pain-SSI as ordered c Regular coverage. Afebrile. Tylenol dosed x1 for left shoulder pain. Restless legs/ cramps. Takes Quininine at home-unable to dose due to CV S/E. Pt OOB to chair as requested-aleveated cramps. Restless night. 
+
+A/P-CHF exacerbation. Admitted to CCU for tailored therapy. PA line/Dialysis cath placed in IR [**2-11**]. Worsening RF c  Unsuccessful diuresis attempts-most likely CVVH today. Continue to tailor therapy as ordered. 
+
+",,
+5573,15506,6920,0,2889-02-12 18:09:00 EST,2889-02-12 18:38:00 EST,2029,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/ALT IN RENAL","
+CCU NSG NOTE: ALT IN CV/ALT IN RENAL
+S: ""I don't feel better yet.""
+O: For complete VS see CCU flow sheet.
+THis 72 y old male with hx of 2 CABG, AODM and CRI came to [**Hospital1 22**] with heart failure and acute on chronic renal failure. He failed diuretic therapy and received swan ganz catheter and quentin cath [**2-11**] for tailored therapy and CVVHAD. He started milrinone [**2-11**]. BP dropped and he had dopamine added. He was hemodynamically stable with improved CO and index, but continued oliguric and increasingly uremic.
+RENAL: For dialysis details see flow sheet.Pt started CVVHD at 1245 today. He started having 50cc ultrafiltrated out and is now up to 100cc actual output an hour. He was ~300cc pos for the day when he started and is now 200cc neg. He conts to have small amt bloody, dark urine out thru foley. 1800 lytes are pending. His site looks good. 
+CV: Pt has tolerated dialysis hemdynamically, in fact dopamine has been weaned to 5mic/kilo from 9.5, while milrinone remains at .26mic/kilo. Last CO is ---. HR remains mid 80s-mid90s afib with frequent PVCs. BP initally was in mid 90s to low 100s but in now in 1-teens. PAP qas 60-70-s/25-35 but is decreasing to 60s/low 20s. RA is now [**7-7**] down from 15-19. His wedge is now 33 down from 38. He has big V-waves. He was started on heparin at 900u/hr at 1030. PTT was 114 and he was decreased to 700u with PTT due at 12am. He has minimal amt of K+ and Ca++ replacement with dialysis. A-line was inseted in R radial. It is oozing and has been redressed.
+RESP: Pt now off 02 and is sating 97-100% on RA. Lungs cont to have rales up ~[**11-29**] bilaterally. He has strong productive cough of thick yellow sputum. Last gas was 7.44/ 76/ 35/25. 
+GI: Pt has no apetite and has eaten little today. He vomited mod amt undigested food at ~1500. He feels better has not eaten anything else.
+ENDO: Pt conts to require ss reg insulin. He will start glargine tonight. 
+MS: Pt Sleeps when left alone, but is easily awakened and A & O X 3. He is aware he is not as sharp as usual. FAmily in to visit
+A: Started CCCHD/Dopa being decreased
+P: Cont on dialysis with goal UF of 100cc/hr. Check results of lytes. Next labs due 12am. Assist pt with position changes.
+
+
+",,
+5573,15506,6920,0,2889-02-13 06:39:00 EST,2889-02-13 07:09:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:""I'M STILL COUGHING""
+O:PT IS A 72YOM W/ STAGE 1V, HF, EF 20%, AND ACUTE ON CHRONIC RENAL FAILURE NOW ON CVVHDF. PT BECAME HYPOTENSIVE AFTER MN W/ SBP 70S, NEG. DOPA INCREASED TO 7MCG/KG/MIN TO GET MAP>60. PT BECAME TACHY W/ INCREASE ECTOPY. DR. [**First Name (STitle) 490**] NOTIFIED. STOPPED PULLING FLUID AT THIS TIME. VASOPRESSIN WAS ADDED, AND ABLE TO DECREASE DOPA BACK TO 5MCG/KG/MIN. MN CI 2.5, SVR 600'S. MILRINONE OFF RECHECK CI 2.44/ SVR 800S THIS AM. CURRENTLY ON VASOPRESSIN 2.4U/HR. DOPA AT 5, HEPARIN AT 700UX/HR. W/ THERAPUTIC PTT. NOW THAT BP HAS STABLIZED, PULLING FLUID OFF AGAIN. SEE CARE VUE FOR CRRT INFO. RECEIVING CA++GLUC AND KCL REPLACEMENT AS ORDERED. 
+
+CV:MHR AFIB 80-100, W/ FREQ PVCS. HS DISTANT. DP AUDIBLE W/ [**Last Name (un) **]. EXTREMITIES COOL AND PALE. PAD 24-28, UNABLE TO WEDGE SWAN. 
+CORE TEMP 97.3. 
+RESP:LUNG CLR AND DIM AT BASES. CONGESTED AND PRODUCTIVE COUGH OF YELLOWISH TAN SECRETIONS. SPEC SENT FOR C+S. SATS 98-100% ON 3LNC. 
+RECEIVED CODEINE FOR COUGH W/ MIN EFFECT. 
+
+GI:ABD OBESE, +BS, +FLATUS, NO STOOL. 
+GU:TEA COLORED URINE W/ SEDIMENT AND BLD TINGED. 
+ENDO:STARTED ON GLARGINE, AND COV'D AS PER SS. 
+NEURO:ALERT AND ORIENTED PT WAS UNABLE TO [**Doctor Last Name **], GIVEN AMBIEN W/ GOOD EFFECT, TYLENOL FOR TOE DISCOMFORT. 
+
+A/P:CONTINUE CRRT AS TOL, CONTINUE TO MONITOR LYTES. TURN FOR COMFORT. 
+ENC PULM TOILETING. REPLACE ELECTROLYTES. 
+",,
+5573,15506,6920,0,2889-02-13 18:10:00 EST,2889-02-13 18:24:00 EST,2029,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/RESP","
+CCU NSG NOTE: ALT IN CV/RESP
+S: ""I dont't feel worse, I just don't feel much better.""
+O: For complete VS see CCU flow sheet. THis 73y old male with know EF of 20% and hx of CABG X 2, came to [**Hospital1 22**] with uncompensated heart failure and acute on chronic renal failure. He failed attempts at diuresis and is now swaned on pressurs and CVVHD.
+RENAL: Pt conts to tol CVVHD with >1100cc off since midnight. Last BUN creat 72/2.0. Labs are monitored Q6 and pt stable.
+CV: Dopamine decreased to 4mic/kilo, but CO/CI decreased. Last numbers on Dopa at 5mic/kilo and vasopressin 2.4 u/hr was 4.7/2.2 953. He conts on heparin at 700u/hr with PTT pending. HR is in 80-90s afib with freqeuent PVCs. PAP numbers remain elevated at 60-70/28-35 wnd wedge of 33 with lg V-waves. RA is 16-20. He was mag replaced and cont to receive supplimental Ca++ and K+.
+ID: Pt remains afebrile with flat WBCs, but sputum + for H-flu. He was started on levofloxacin PO today.
+RESP: Pt conts to have cough productive of thich white to yellow sputum. He received codeine and cough medicine. BS are decreased with some rales, rhonchi and area on L of brochial BS. Last gas on 2L NP was 7.46/ 35/ 81/ 26.
+ENDO: Pt required reg insulin for sugars in 160s at 8am and noon, but was down to 130s at 1800. He will receive glargine this evening.
+MS: Pt more alert today, but does take frequent naps. He is oriented X 3 and cooperative with care.
+SKIN: Area on R buttock reddened, but no breakdown. A-line conts to ooze despite frequent dsg changes.
+A: Renal status improving/no decrease in need for pressurs
+P: Check results of pending labs. Monitor for change in hemodynamics. Cont with goal of ~100cc neg/hr. Assist pt with position changes.
+GI: His apetite is improved and he had no vomiting today.
+",,
+5573,15506,6920,1,2889-02-13 18:10:00 EST,2889-02-13 18:35:00 EST,2029,"Y",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/RESP","
+CCU NSG NOTE: ALT IN CV/RESP
+ADDENDUM: PTT came back slightly subtheraputic and heparin increased to 800u at 1830. With corrected hemaglobin CO/CI decreased to 4.5/2.11 and SVR 996. Crit is stable.
+",,
+5573,15506,6920,0,2889-02-14 03:53:00 EST,2889-02-14 05:14:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:""I DIDN'T FEEL THAT GOOD TODAY ""
+O:PT IS 72YROM W/ DECOMPENSATED END STAGE HEART FAILURE (POSSIBLY ISCHEMIC HF) W/ SYSTOLIC AND DIASTOLIC [**Last Name (LF) 491**], [**First Name3 (LF) 492**] 20%.  COMPLICATED W/ ACUTE ON CHRONIC RENAL FAILURE. PT WAS 15L OVERLOADED ON ADMIT TO CCU.  NOW ON CVVHDF SINCE [**2-12**] ~1300. 
+RENAL: AS OF 2300 LAST NOC, PT NEG 2.9L FOR THE LAST 24HRS. CRRT DIALYSATE AND REPLACEMENT FLUID PRISMASATE. PT RECEIVING POTASSIUM AND CALCIUM GLUCONATE REPLACEMENT AS PER SS. PT TO START ON EPOETIN MONDAY. 
+
+CV: CONTINUING DOPAMINE AT 5MCG/KG/MIN FOR INOTROPY, CI MARGINAL AT 2.07. VASOPRESSIN TO MAINTAIN MAP >60. SEE CARE VUE FOR VS.         PAD TRENDING LOWER SINCE 0100, W/ PCWP 21, AND VERY LARGE V-WAVES. PT THERAPUTIC ON HEPARIN GTT. MHR AFIB 80-90S, W/ FREQ PVCS. +SYS MUR.    DP PULSES WEAK BUT PALP BILAT. ACESS: R-RADIAL A-LINE, RIF SWAN, 
+L-SC HD CATH. PT HAVING MUCH LESS OOZING FOR FROM INVASIVE LINE SITES.
+
+RESP:O2 AT 2L, LS DIMINISHED AT BASES, W/ DEPENDANT CRACKLES ON RIGHT LUNG FIELD. ABG AT MN 7.47/35/85/90%. PT CONTINUES TO HAVE 2+EDEMA IN LE, LEFT LEG LARGER. SKIN PINK WARM AND DRY. CONTINUES TO HAVE FREG CONGESTED AND PRODUCTIVE COUGH OF LARGE AMTS OF YELL THICK SPUTUM. PT RECEIVED CODEINE, BENZONATATE AND GUAIFENESIN THROUGH THE NOC FOR PERSISTANT COUGH. 
+
+NEURO:INTACT, FALLS ASLEEP BUT IS AWAKEN W/ VIGOROUS COUGHING WHICH SET OF PRESSURE ALARMS ON CRRT PUMP. PT C/O FEELING RESTLESS AND AGITATED DURING THE DAY. PT HAD A VISITOR UNTIL ~2000 WHICH HELPED W/ PT SPIRITS. RECEIVED AMBIEN FOR [**Doctor Last Name **] W/ FAIR RESULTS. 
+
+ENDO:GLU COVERED W/ 4UXREG AS PER SS. PM GLARGINE GIVEN. PT REMAINS HYPONATREMIC. LIMITING FREE WATER INTAKE. 
+
+GI:ABD OBESE DISTENDED. +BS, +FLATUS. NO BM SINCE THURS, REFUSED SENNA THIS EVENING. 
+
+GU:REMAINS OLIGURIC W/ RED/TEA COLOR URINE, W/ SEDIMENT. BUN/CR 58/1.8  CONTINUES TO TREND DOWN. 
+
+ID:T MAX 99.3 CORE, ON RENAL DOSE LEVOFLOXACIN FOR BACTERIAL H-FLU. WBC PENDING.
+ 
+A/P: CON'T CRRT W/ GOAL OF 1-2L/ DAY, ELECTROLYTE REPLACEMENT AS PER RENAL ORDERS.  CORRECT HYPONATREMIA. CONTINUE DOPA AND VASOPRESSIN FOR HEMODYNAMIC SUPPORT. CONSIDER MILRINONE IF CI CONTINUES TO DECREASE. SEE FLOW SHEET FOR ADDITIONAL INFORMATION. 
+",,
+5573,15506,6920,0,2889-02-14 15:23:00 EST,2889-02-14 15:43:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S:"" My nose bleed makes it difficult to breath sometimes.""
+
+O: Please see flow sheet for objective data. Tele remains in AF with PVC's. Swan dc'd by house staff. Dopa weaned to off. Vasopressin conts at 1.2units/hr. MAP's > 60. Beta blockers and ace remain on hold. Heparin dose decreased to 700u/hr. PTT pending.
+
+Resp: Lungs with rales [**11-29**] ^ bilaterally. O2 sats > 93 off O2. Pt with nose bleed today. House staff aware. Coughing and raising thick yellow sputum. Conts to have significant cough. Given codeine and robitusin with some effect. Conts on Levo for pneumonia.
+
+Neuro; Pt is alert and oriented. Able to MAE. Conts to have LE edema with L leg being > than R. Maintained on bedrest. Moving with minimal assitance.
+
+GU/GI: Appettite is fair. No BM since thursday. Given senekot today.
+Conts on CRRT via L subclavian line. Please see flow sheet for settings and changes. Conts on Ca and K drips continuously as per SS. I&O negative 1 liter so far today and  negative 4 liters LOS. Foley draining tea colored urine with sediment 12-40/hr. Creat 1.5.
+
+Endo: Lantis dose ^ for this pm d/t need for RISS coverage.
+
+Social: Pt has spoken to family members by phone today.
+
+A&P: Pt able to tolerate wean of dopamine today with MAP's > 60 and negative 1 liter.  Cont with CRRT as ordered. Goal neg 1-2 liters overnight. Check lytes Q 6hrs with PTT. cont with POC.
+
+
+
+
+",,
+5573,15506,6920,0,2889-02-15 03:50:00 EST,2889-02-15 05:56:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+S: ""I can't wait to get up in the chair.""
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. MAE. PEARL. Pt denies any pain. Requesting Ambien to assist with [**Doctor Last Name 5**]. Tolerated well. Slept with minimal interruption.
+
+Renal: Received pt on CVVHDF. Pt cont on Primisate. After renal team rounded decision made to terminate treatment d/t pt's successful fluid removal. Treatment completed at 2050. At that time fluid removal at goal for 24 hrs and pt was -4L since admission. PFR was 100-150cc/hr. 
+
+CV: Hemodynamically stable. Afib. HR 70-80s. Heparin infusion cont at 700U/hr. PM Ptt therapeutic at 65.8. Goal 60-100. Rare- occassionally occurring PVCs. Electrolytes wnl last pm. K+ 4.0/ Mg 2.0 and Ion Ca 1.18. Received pt on Vasopressin at 1.2U/hr. After completion of CRRT able to wean off w/o difficulty. Vasopression off remainder of night. ABP via right radial aline 94-124/40-50. MAPs> 60. (Maps slightly lower following Vasopressin wean). Pt denies CP. Distal pulses dopplerable. AM labs still pending. Remains off BB b/c CHF and Ace-I for hypotsn. 
+
+Resp: LS clr in apexes. Diminished bases w/ bibasilar rales. Pt denies SOB/ difficulty breathing. Pt remains off all supplemental O2. RR 15-23. O2 sats 94-100%. Pt cont to expectorate yellow thick sputum. Blood tinged at times d/t epistaxis that occurred earlier today. Encouraged pt to utilized cool neb for humidification purposes but pt declined. Pt started I/S exercises. Vt 1000-1250. Cont to receive Robitussin, Codeine and Benzonatate prn w/ some effect. ABG 7.48/38/97.
+
+GI/GU: Cont low NA/ heart healthy/ Diabetic diet w/ 1000 cc fluid restriction. Abd obese. Distended. +BS. Last BM day pta. Cont OBMR of Colace/Senna without effect. F/C draining to gravity. UOP 40-80cc q 2-3 hrs. Hematuric w/ sediment all noc. CRRT treatment completed as mentioned above. Fluid removal at goal prior to termination of treatment. Pt -1L for 24hrs. And remains -3.8L LOS. BUN/Cr 43/1.6.
+
+ID: Afebrile. Tmax 98.9 po. Pt cont on Levofloxacin for mgmt of RUL pna. 
+
+Endo: BS 211-191. Fixed dose Lantus increased to 6 units at bedtime. Also covered w/ 5 units per RISS. Pt on oral agents at baseline.       
+
+Skin: Intact. No breakdown. Bilateral peripheral edema in extremeties particularly L>R. OOB to chair for 1 1/2 hrs. Pt tolerated well. Pivot to chair w/ 2 assist. Pt tolerated well.
+
+Social: No calls or visitors [**Name (NI) 493**].
+
+Dispo: Full code.
+
+A/P: 72 yo male w/ significant h/o CAD including s/p CABG and redo, CHF, AF and DM2 admitted w/ worstening DOE, cough and ^ LE edema  x4 wks. Course c/b cont CHF decompensation, poor response to diuretics and acute CRF. Pt completed CRRT last pm after achieving fluid removal goal. Heparin remains stable. Start transition to at home Coumadin regimen. Cont to follow strict I/O. Pt remains on fluid restriction. Cont Lantus and  RISS. Cont to advance diet and activity as tolerated. Cont supportive care. Keep updated in POC.
+",,
+5573,8691,6921,0,2889-06-16 17:31:00 EST,2889-06-16 18:02:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 1600-1900","
+Nursing Progress Note 1600-1900
+S: ""I feel like I can't breathe""
+
+O: Please see Carevue and FHP for complete PMH and objective data.
+
+Resp: Pt c/o of difficulty breathing c 4L nc. Cont increased O2 supply, to hi flow neb, to 100% NRB. Sats improved from high 80's to 100. CXR done. ABG 7.47/40/74, sats in 95. Pt began to feel better and O2 was weaned to 6L nc c sats in 95-98. Pt lying flat c no complaints. Lungs sound clr c dim bases. Coughed up quarter-sized bright red clot. Team aware. 
+
+CV: Started Dopamine @ 10mcg/kg/min upon arrival to CCU for MAP's in 40's. Finished rec'ing last 150cc of 2nd unit of PRBC's for crit 25. HCT-29.6 at end of 2nd unit. Need to recheck. ACT-173 @ 1700. Fellow came to pull sheath and noticed a small hematoma prior to removal, softened slightly after pressure was held. CPK's peaked @ 218, Trop peaked @ 1.48, MB's still rising @ 28. See flowsheet for lytes. MAP's remaining stable @ 60, weaned off Dopamine. 
+
+H/o chronic A-fib c slow vent response. Pt had a biventricular pacing ICD placed in May. 100% Vpaced @ 70. 
+
+GI/GU/ENDO: NPO, became nauseous upon arrival, dry heaving. Gave Anzemet 12.5 IV c good effect. No complaints since. BS present, Abd soft, no stool. Unable to void via condom cath. Inserted foley and got out 720cc CYU. About 1L positive for day. FS 151, gave 2 units per ss. 
+
+SKIN/ACCESS/ID: No impairment issues. R radial a-line, R PIV. L PIV, L fem venous sheath. Afebrile, WBC-8.7. 
+
+Neuro/Social: A&O x 3, pleasant and cooperative. C/o of HA, but pt seems to have relief without intervention. Pt sleeping soundly. Lives c wife, and works @ [**Hospital1 494**] as an [**Doctor Last Name 495**]. 
+
+P: Check HCT @ 2000, assess angio site. Start levo for MAP's <55. Monitor hemodynamics, wean O2 as tol. Follow up c labs. Emotionally support pt and family.  
+",,
+5573,8691,6921,0,2889-06-17 03:13:00 EST,2889-06-17 03:39:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+S:  c/o pain in left great toe, similar to location he gets gout, but the pain feels different.
+
+O:  see CCU flow sheet for complete objective data
+
+CV:  HR 70, 100% V-paced, (2) 4 beat runs of VT.  SBP 90-100 with MAP 58-65 until ~ 0130 when he received 1 mg IV Morphine, pt. fell asleep and SBP dropped down to 70's with MAP 48-50.  IV Levo begun @ 0.02mcg/kg/min and titrated up to 0.08 mcg/kg/min with goal MAP >55 ([**Last Name (un) 496**] as per Dr. [**Last Name (STitle) 366**]). Hct @ 2100 31.1 (29.6).  Left groin without bleeding/hematoma.  Distal pulses dopplerable.  Feet warm with good movement.  Left toe assessed with c/o pain, does not appear reddened nor warmer than surrounding tissue.  Dr. [**Last Name (STitle) 366**] in to examine.  Pt. given 650 mg po and 1 mg IV Morphine, with relief of pain.
+
+Resp:  O2 titrated down from 6L NP down to 2L NP, with sats 97-100%.  Pt. removed O2, with sats 91-95%, therefore, remains on 2L NP.  Lungs initially with crackles [**Date range (1) 497**] ^ bilaterally, now with L basilar crackles.  Cough productive of scant clear sputum. 
+
+Neuro:  alert and oriented X3.  Difficulty falling asleep.  Given 25 mg Trazadone with little effect. Slept fairly well after morphine. 
+
+GU:  u/o 40-70 cc q 2 hours.  ~ 900 cc positve at midnight.  BUN/Cr PND.  Urine lytes sent.  Receiving mucomyst.
+
+GI:  No nausea/vomitting.  Abdomen flat with + bowel sounds, no stool over night.  Good appetite.  BS 293 at midnight, given 6 units regular insulin.
+
+ID:  t max 99.1 ax.
+
+Skin:  intact
+
+Access: Left and right PIV , Left femoral venous sheath and right radial a-line.  All sites clean.  
+
+Social:  wife and daughter [**Name (NI) 498**] in to visit.  [**Doctor Last Name 498**] is [**Name8 (MD) **] RN.
+
+A:  hypotension related to administration of Morphine (? d/t drop in preload vs. effects of [**Doctor Last Name 5**]).  Hct stable post transfusion.  ? etio of left great toe pain.
+
+P:  continue to monitor BP, titrate Levo to Map >55.  Continue to assess for toe pain.  Monitor I/O.
+",,
+5573,8691,6921,0,2889-06-17 17:44:00 EST,2889-06-17 17:55:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s: i don't know but i just don't feel so well
+o: id: afeb. wbc nml.
+cv: hr 70s paced. bp hi 80s to 100/50-60 via r rad aline. levo weaned off this am. to start carvedilol this eve. 
+resp: ra sat 96-98%. rr low 20s. occ c/o mild sob but nonlabored. basilar cxs. 
+gi: tol diet, no n/v. no bm. abd distended.
+gu: foley, uop 20-40cc/hr. cr 3.4.
+heme: hct stable after transfusion yest. has had nose bleed today. rec'd afrin spray x1 which seems to have lessened it.
+l fem sheath dc'd at 12n. mod ecchymosis. pulses by doppler. dangled at bedside. 
+ms: alert, cooperative. nonspecific complaints. sleeping on and off. son visited in am, wife and dtr to visit tomorrow.
+a: s/p pci to ramus. off levo. 
+p: follow for ischemia, chf, hypotension. monitor volume status. ^activity as tol. support to pt.
+",,
+5573,8691,6921,0,2889-06-18 05:18:00 EST,2889-06-18 05:55:00 EST,1807,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""I FEEL LIKE I CAN'T PEE""
+
+O:  NEURO:  PT. ALERT AND ORIENTED X3, PLEASANT AND COOPERATIVE.  MOVING ALL EXTREMITIES,  ABLE TO TURN SELF IN BED.  
+
+CV:   HR 70 V-PACED.  BP 80/43-109/55, STARTED ON COREG LAST EVE, BP DOWN TO 77 SYSTOLIC.  DENIES C/O CP.  LEFT GROIN C&D, PALP PEDAL PULSES.  FOOT WARM TO TOUCH.  
+
+RESP:  LUNGS CLEAR, O2 SAT ON RA 98%.  
+
+GU:  C/O FEELING UNABLE TO PASS URINE VIA FOLEY.  C/O BURNING SENSATION AND DISCOMFORT.  LIDOCAINE JELLY UROJET INSTILLED INTO TIP OF MEATUS.  NO RELIEF FELT.  URINE AMBER.  ABD SOFT, NO BLADDER DISTENTION APPRECIATED.  FOLEY D/C'D AT 0200 AND VOIDED 50 CC BLOODY URINE IMMEDIATELY.  PT. FELT RELIEF AFTER FOLEY REMOVED. 
+
+GI:  ABD SOFT, + BOWEL SOUNDS.  NO BM OVERNIGHT.  APPETITE GOOD.  
+
+ENDO:  COVERING ELEVATED WITH SSRI SEE FLOWSHEET FOR DATA.
+
+A:  S/P STENT PLACEMENT TO RAMUS
+
+P:  MONITOR LYTES, BLOOD SUGAR, I/O.  UPDATE PT. AND FAMILY ON PLAN OF CARE PER CCU TEAM. 
+",,
+5573,8691,6921,0,2889-06-18 15:17:00 EST,2889-06-18 16:04:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+S: ""No I'm not dizzy, just tired""
+
+O: Please see carevue for complete objective data
+
+CV: 100% Vpaced, rate in 70's. BP ranged 75-117/25-59. MAP trending down in AM to 40's. Pt mentating and asymptomatic. Started on Dopa 10mcg/kg/min @ 1100 and weaned off by 1630. MAP's remain > 60. Held carvedilol for low BP. L groin site C&D, covered c bandaid, area ecchymotic. Pulses palp. 
+
+Resp: Pt c/o of having diff breathing. Notified team, no intervention made. Placed O2 on for Sat in low 90's, 2L nc, sats 97-100, lungs CTA. Rate 10-20.  
+
+GI/GU/Endo: Cardiac healthy diet, BS present, no stool. C/o bladder pressure and pain. Bladder scan showed 450cc, gave Lasix 60mg IV, c mod response. Renal consulted today. Voiding cloudy/sedimeted reddish/amber urine. Sent UA. Covered noon FS c 2 units Reg ins. 
+
+Neuro/Social: A&O x 3, MAE, sits at side of bed. Dozed intermittently through day. No c/o pain. Family visited in afternoon. 
+
+A/P: 73 y omale c extensive cardiac history, low EF, admitted for CP lasting 5 days, cathed for restenosis of ramus, stented and monitored in CCU.
+
+Continue to monitor UO. Cont to diurese, goal ~ -500cc.  Restart dopa for hypotension if needed. Maintain MAP >55. Emotionally support pt and family.
+",,
+5573,8691,6921,0,2889-06-19 05:29:00 EST,2889-06-19 06:06:00 EST,1807,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""THEY WANT TO DO DIALYSIS AGAIN""
+
+O:  NEURO:  PT. ALERT AND ORIENTED, MOVING ALL EXTREMITIES.  OOB TO CHAIR WITH MINIMAL ASSISTANCE.  C/O PAIN WITH URINATION, GIVEN PERCOCET 1 TAB WITH SOME RELIEF FROM DISCOMFORT.  ABLE TO [**Doctor Last Name **] IN SHORT NAPS AFTER RECEIVING TRAZADONE.
+
+CV:   DENIES C/O CP. HR 70 V-PACED.  NO VEA NOTED.  BP 132/58-85/43 (SLEEPING).  RECEIVED COREG WITH NO HYPOTENSIVE EPISODES.  RIGHT GROIN C&D, SMALL ECCHYMOTIC AREA NOTED.  PALP PEDAL PULSES.  REPEAT HCT AT MIDNIGHT 29. 
+
+RESP:  LUNGS CLEAR, HAD ONE EPISODE OF FEELING SOB, RESOLVED ON OWN.  O2 SAT AT THAT TIME 98%.  CONT ON RA.  ONE EPISODE OF EPISTAXIS, AFRIN SPRAY INSTILLED INTO EACH NOSTRIL WITH CESSATION OF BLEEDING.  
+
+GI:  APPETITE GOOD, + BOWEL SOUNDS.  NO BM.  
+
+GU:  VOIDING YELLOW-AMBER COLORED URINE, STRONG ODOR.  I/O (-) 600 CC X 24 HRS.  CONT TO C/O BURNING WITH URINATION, RELIEF WITH PERCOCET.
+
+ENDO:  COVERING ELEVATED BLOOD SUGARS WITH SSRI.  
+
+A:  S/P STENT TO RAMUS
+
+P:  MONITOR LYTES, CBC, ASSESS GROIN.  UPDATE PT. AND FAMILY ON PLAN OF CARE PER CCU TEAM.
+",,
+5573,8691,6921,0,2889-06-19 15:33:00 EST,2889-06-19 15:34:00 EST,7371,"N",1,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+S: ""I've got that headache again!""
+
+O: Please see carevue for complete objective data.
+
+Neuro: A&O x 3, OOB to chair. C/o HA after starting dopamine. Stopped infusion when BP stabilized and gave tylenol 650mg c desired effect. Evident by affect and statements that pt is frustrated c outcome and ""tired of being sick"". Cooperative c care and pleasant.   
+
+CV: 100% Vpaced, ABP 123-77/67-37, NIBP differs 10-20mmHg from ABP. MAP's 46-82. When MAP's dropped below 50, Dopmaine started @ 2.5mcg/kg/min. Stopped 2 hours later, and MAP's remain in 50's. L fem site CD&I, slightly eccymotic. Pulses weakly palp. 
+
+Resp: Lungs clr, no rales. Sats 95-100 on RA. No c/o of SOB this shift, (typical complaint when anxious) Has nosebleeds constantly. Pt has Afrin at bedside.
+
+GI: Cardiac healthy diet,  Pos guaiacs on floor prior to admission, no stool since coming to CCU. BS present, abd soft, no c/o constipation. 
+
+GU: Voiding, using urinal. Amber, cloudy urine c strong odor. Pt c/o of burning when urinating and urine is blood tinged. ? trauma from foley. urine cx pending. BUN 151, Creat 3.5. Rec'd lasix this AM, goal reached and @ -1.3L for day. Renal consulted pt, no dialysis at this time. 
+
+Endo: FS remain consistently high about 200 and above. Gave 6 units @ noon for 294. Spoke with team about suagrs, awaiting new sliding scale c tighter control of BS. 
+
+Skin/Access: No skin impairments, small abrasion on L shin, washed c soap and water and left open to air. Has one right PIV and R radial Aline. 
+
+A: 73 yo male with h/o A-fib, and extensive cardiac history, s/p CABG x 2, NSTEMI c stents to RI and LAD, has bivent pacing ICD. Admitted for 5day history of CP and cathed for restenosis of the ramus. Becomes hypotensive at times to 70's, MAP's in 40's, req'ing dopamine. Pt asymptomatic and now off pressors. Advancing activity. Called out prior to hypotensive episode.
+
+P: Cont to monitor hemodynamics and resp status. Start dopamine if needed to maintain MAP's >50. Start bowel regimen and guaiac stools. Cont to diurese if goal of 1L neg is not met. Emotionally support pt and family and keep updated c plan of care.
+
+ 
+",,
+5573,8691,6921,0,2889-06-20 06:41:00 EST,2889-06-20 06:53:00 EST,1628,"N",1,"Nursing/Other",,"
+
+CCU
+NURSING PROGRESS NOTE
+11 PM - 7 AM
+S/P CABG x 2
+NSTEMI WITH STENTS TO RI/LAD
+3+MR
+[**First Name (Titles) 499**] [**Last Name (Titles) 500**] 
+BIV/ICD
+RETURNS WITH CP AND CATH SHOWED RE-STENOSIS OF RAMUS >> STENTED
+
+CV HEMODYNAMICALLY STABLE ..TOLERATING CARVEDILOL..SBP 90-110/40-50'S..DENIES CP/SOB..CONTINUES WITH LOWER EXTREMITY EDEMA L>R
+RESP RR 24.. NON-LABORED
+GI/GU VOID TIMES ONE ..URINE FOUL SMELLING ..>100K ECOLI
+LABS PNDG
+ABX TO BE ORDERED FOR UTI
+ANTICIPATE CALL OUT TO FLR
+",,
+5573,8691,6921,0,2889-06-20 13:56:00 EST,2889-06-20 14:05:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: i feel sick...i have no interest in anything to eat
+o: pls see carevue flowsheet for complete vs/data/events
+ms: lethargic today, sleeping when left alone. declining any meals or activity. arousable and able to interact but quickly off to [**Doctor Last Name 5**]. ox3. 
+id: t max 100.7po. urine c+s +for ecoli and started cipro this am.
+cv: vpaced 70. occ pvcs. bp trending down approx 2hrs after carvedilol dose given. nbp approx 10-15pts lower than aline reading. did not resume dopa and bp trended up later in afternoon.
+resp: basilar cxs. no sob. ra sat 95-98%.
+gi: poor appetite. no stool. endo: bs 170-200, covered per ss.
+gu: voiding via urinal. no diiuresis. cr 3.3(3.4). bun 154.
+a: hypotension, ms [**First Name (Titles) 501**] [**Last Name (Titles) **] r/t uremia and uti.
+p: follow temp, ms. [**First Name (Titles) 502**] [**Last Name (Titles) 503**], volume status. enc po intake, activity. support to pt and family.
+",,
+5573,8691,6921,0,2889-06-20 17:03:00 EST,2889-06-20 17:08:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note 1500-1900","
+CCU Nursing Progress Note 1500-1900
+S:  c/o bloody nose, initially refusing Afrin nose spray, later agreed to use it.
+
+O:  BP 94-116/40-44, MAP 57-63. Repeat Hct @ 1600 28 (29.1).  Blood slowly dripping from Right nares.  HO informed.  Pt. enc to use Afrin spray and hold pressure over site. Lungs clear with O2 sat 95% on RA. BS 88, without insulin prior to dinner.
+
+A:  BP more stable this afternoon.  Nosebleed continues
+
+P:  continue to assess BP.  Assess effects of Afrin and Pressure.  
+",,
+5573,8691,6921,0,2889-06-21 02:38:00 EST,2889-06-21 03:16:00 EST,7859,"N",1,"Nursing/Other",,"
+
+NPN 7PM- 7AM
+
+s: ""Can I have something to eat?""
+
+O: please see careview for vitals and other objective data
+
+Pt is SP [**Name Prefix (Prefixes) 504**] [**Last Name (Prefixes) 505**] to l main ramus on [**6-16**] and has been complicated by Hypotension, now off dopamine/ levophed and tolerating  a decreased dose of carvedolol. PT also has a UTI, and Cipro was started yesterday. 
+He has also been lethargic with decreased appetite, attributed to his UTI, and is  more awake today,  and is eating. Has been experiencing Epitaxis since earlier today, HCT 28. will recheck in am, using afrin and seems to be decreased bleeding. 
+
+Neuro: pt is alert and OX3, talking about his illness and the redsox,
+moves all extrem, OOB to chair with supervision, [**Last Name (un) 506**] equal hand and arm strenth.
+
+Cardiac: pt V paced, has hx of a fib, has ICD/pacer from earlier this year. BP was low after carvedolol dose, and dose wa decreased. Early in shift, BP was 88-96 systolic, carvedolol was held at 2000 pm however after bath and snack, pt more alert and BP low 100 systolic.
+carvedolol was given at 2300. BP holding post dose,  101/47-111/52
+PT denies any chest pressure, distal pulses by doppler. LLE edema > Right, pt states this is baseline since open heart surgery.
+
+Respiratory: lungs clear, pt denies sob and able to go bed to chair.
+sat up for 2 hours, when pt keeps o2 sat probe on, RA sats 96-100 percent.
+
+GU/RENAL: pt has acute renal failure in the seting of chronic renal  
+insufficiency with baseline creat of 1.9. Creat now 3.3 pt is making 
+urine 650 cc this shift. labs to be sent this am. 
+
+endocrine: on SS insulin, FS at 2200 was 294 8 units given. 
+
+social: wife called, adult children visited. 
+
+A: pt is sp non STEMI, restenosis of former stent site which was re opened [**6-16**], complicated by hypotension, UTI, ARF, nosebleed, pt has been lethargic but is likely due to UTI, appears more awake and is requesting food. glucose is high, we are to start glipizide pre note in chart, currently on SS insulin
+
+P: follow labs, renal FX, HCT, lytes, Follow CV status, rhythm, BP,  evaluate tolerance of meds, continue teaching and support, PT will be sent to floor today, keeppt and family updated on POC as discussed in 
+multidiciplanary rounds, 
+
+
+",,

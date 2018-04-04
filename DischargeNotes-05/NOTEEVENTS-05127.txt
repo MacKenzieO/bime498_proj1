@@ -1,0 +1,429 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5127,9418,,,2513-02-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2513-2-15**]              Discharge Date:   [**2513-2-20**]
+ 
+Date of Birth:  [**2438-11-7**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3996**] 
+Chief Complaint:
+hypoglycemia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 5868**] is a 74M w/DM on glyburide, renal xplant in [**2499**] [**3-3**] 
+hereditary nephritis, lymphoma 9ya s/p RCHOP, SCC scalp excised 
+in [**2513-7-30**], afib on flecainide, MS, circumcision last week who 
+presented to the ED w/2 days of hypoglycemia, also found to have 
+low BP.
+.
+Mr. [**Known patient lastname 5868**] is not aware of why he is in the hospital.  He is able 
+to describe frequent falls [**3-3**] MS which increased over [**Holiday 1726**] 
+and New Years.  He denies vertigo with the falls, but does 
+report decreased streadiness when his blood sugars are low.  He 
+takes his own medications and his list is extensive as below.
+. 
+He presented to [**Hospital 1922**] hospital yesterday with mental status 
+changes, BG18 and hyopthermia.  His urinalysis was negative at 
+that time and he was sent home.  He returned w/hypoglycemia and 
+was thus transferred to BDIMC.  In our ED, his VS were 100.6  
+104/58  80  98RA w/next BP 86/50.  He was given 1L NS, 1/2A D50, 
+D10 drip and levofloxacin.  At the time of transfer to the CCU 
+under MICU service, his BP was 89/63 and FS142.
+.
+His ROS is notable for the falls, dysphagia to solid foods for 
+years, mild dysphagia, and recent GI ilness (upper and lower) of 
+his wife for a few weeks; he had similar symptoms for several 
+days two weeks ago.  While he gives some detailed history, his 
+answers to many questions are tangential and circumstantial, and 
+in response to being asked why he is here, he describes a 
+vacation that he took with his wife to [**Name2 (NI) **] five years ago, 
+and her diarrheal ilness.  His PCP reports that this is baseline 
+for him.  His wife reports that he takes all of his own 
+medications, and does not typically make mistakes.
+
+ 
+Social History:
+Lives w/his wife; performs own ADLs, never smoked.  Never IVDA.  
+<2 glasses wine per day.
+ 
+Family History:
+Mother, sister, and father died of CVAs in 60s, 60s, 78 years 
+old, respectively.  Two children w/ESRD [**3-3**] hereditary 
+nephritis.
+ 
+Physical Exam:
+VS: 97.6  100/78  76  12  98RA
+Gen: NAD
+M/O: MMD w/small thrush in posterior oropharynx
+Lungs: CTAB
+CV: Nl S1/S2
+Abd: Soft, nt, nd, +BS
+Ext: WWP X 4 w/o c/c/e
+Skin: Diffuse bruising, wounds on scalp, erythema of penis, open 
+R shoulder wound per pt clearly assoc w/a fall
+GU: penis head is edematous/erythematous w/ plaque like 
+ulceration. No discharge seen. 
+Neuro: CN2-12 intact, 5/5 strength R side and 4/5 strength on L, 
+sensation intact and symetric to soft touch, reflexes 1+ 
+throughout, toes upgoing bil, responds to year as 2007, date as 
+[**2-16**], time of day as morning.  Responds to reason for being in 
+hospital explaining first his wife's diarrhea ilness, then a 
+trip to [**Location (un) **] 5 years ago.  Says that five [**Last Name (un) 5869**] and a dime 
+make 35c and that if he found a stamped adressed envelope on the 
+street, he would mail it.
+Lymph: No LAD in ant/post cervical chains, submental, 
+pre-auricular, supraclav, axillary, femoral nodes
+ 
+Pertinent Results:
+ECG: SR w/LAD @ 80 w/LAFB, borderline QT, no ischemic changes
+.
+CXR: There is a dual lead left subclavian AV pacemaker.  The 
+heart, mediastinum, and hilar regions are otherwise within 
+normal limits.  The lungs are clear. 
+.
+[**2513-2-15**] 05:15AM   DIGOXIN-0.5*
+.
+ 
+Brief Hospital Course:
+.
+74M w/MMP as above admitted w/hyoglycemia, hypotension, and 
+low-grade fever 13d s/p circumcision.  It is not clear if his 
+glyburide was recently increased--this could be a primary 
+contributor to his presentation.  He has an evident ballantitis 
+which could also be contributing.
+.
+1) Hypoglycemia- Thought to be most likely [**3-3**] glyburide in the 
+context of recent illness and polypharmacy.  On the evening 
+following admission, his blood glucose levels were maintained at 
+normal levels with D51/2NS gtt titrated to q1 hour fingersticks. 
+ Glyburide's half life is 24 hours, and in keeping with this, 
+hypoglycemic effect wore out within 24 hours of admission.  
+Subsequently blood glucose levels were >200 and the dextrose 
+support was discontinued.  With the resolution of hypoglycemia, 
+sliding scale insulin was initiated.  After transfer from the 
+MICU, the patient had blood sugars > 250.  He was started on low 
+dose glipizide prior to discharge.  Although Glipizide still has 
+some interaction with voriconazole, it has less interaction that 
+Glyburide.  The patient had been on Glyburide and Voriconazole 
+for many years prior to this episode of hypoglycemia and it was 
+not clear why the patient had hypoglycemia.  The Glipizide was 
+started back after the patient was found to have blood sugars in 
+the 250 range.  He will be seen by his primary care doctor 
+shortly after discharge for further titration of meds. 
+.
+2) UTI- The patient was started on IV ceftriaxone which would 
+cover both his UTI and balantitis.  Culture results were 
+negative.  The patient was discharged on PO Augmentin.
+.
+3) Balantitis- Patient was found to have balanitis after recent 
+circumcision approximately 2 weeks prior to this admission.  A 
+swab gram stain negative.  The wound culture was found to grown 
+Diptheroids (Corynebacterium) and Coag Negative Staph consistent 
+with skin floral.  The patient was continued on a topical 
+antifungal as well as IV Ceftriaxone.  Additionally, a DFA was 
+negative for HSV.  The patient was discharged on PO Augmentin 
+and will followup with his [**Hospital1 84**] Urologist. 
+.
+4) Thrombocytopenia:  Thought to be [**3-3**] drug effect of 
+voriconazole vs. ranitidine; however, per PCP at [**Name9 (PRE) 84**], he has had 
+baseline thrombocytopenia.  Thrombocytopenia has been mentioned 
+as a rare side effect of vori, but per ID's assessment of risks 
+vs. benefits, would not stop Voriconazole.  At [**Hospital1 83**], patient's 
+ranitidine was stopped to see what effect it would have on 
+platelets.  Patient's platelets rose from 60s-80s at baseline to 
+112, making Ranitidine a possible cause of the patient's 
+thrombocytopenia.  The patient was instructed not to take 
+Ranitidine anymore.  He will followup at [**Hospital1 84**] for further 
+monitoring of his thrombocytopenia.
+.
+5) Pulmunary aspergillosis- The patient was continued on 
+lifelong voriconazole therapy for history of pulmonary 
+aspergillosis.
+.
+6) Thrush- Patient was thought to have evidence of oral thrush 
+upon admission to the MICU.  He was continued on voriconazole 
+and nystatin S&S was added to his regimen.  He had no further 
+evidence of thrush upon transfer to the floor from the MICU.  
+.
+7) Afib/SSS- Has PPM but currently native sinus driven.  The 
+patient was anticoagulated with warfarin.  Flecainide was 
+continued as per his outpatient regimen.  
+.
+8) S/P renal xplant- Patient was continued on his 
+immunosupressives, Tacrolimus.  He was continued on Bactrim for 
+PCP [**Name Initial (PRE) 3362**].  He will followup with his renal doctor at [**Hospital3 1909**] upon discharge. 
+.
+
+ 
+Medications on Admission:
+Glyburide 5mg QD
+Warfarin 5mg QD
+Azathioprine 50mg QD
+Digoxin .125mg QD
+Vfend 200mg bid
+Niaspan ER 500 QD
+Toprol 25mg QD
+Flecainide 100mg qHS
+Ranitidine 150mg bid
+Docuasate
+Clonazepam .5mg QHS
+ 
+Discharge Medications:
+1. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Flecainide 50 mg Tablet Sig: Two (2) Tablet PO QPM (once a 
+day (in the evening)).  
+4. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO M,WED,FRI ().
+Disp:*30 Tablet(s)* Refills:*0*
+5. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. Clonazepam 0.5 mg Tablet Sig: 0.5 Tablet PO QHS (once a day 
+(at bedtime)).  
+8. Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours).  
+9. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical BID (2 
+times a day).
+Disp:*1 * Refills:*2*
+10. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection 
+QMOWEFR (Monday -Wednesday-Friday).  
+11. Niacin 500 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO QD ().  
+12. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) 
+Tablet PO Q8H (every 8 hours) for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+13. Flomax 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO once a day.
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*0*
+14. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Balantitis
+Hypoglycemia
+Aspergillosis
+Thrush
+UTI
+Atrial fibrillation
+ 
+Discharge Condition:
+Stable:
+- Balanitis improving
+- No further hypotension
+- No further episodes of hypoglycemia.
+
+ 
+Discharge Instructions:
+.
+Please take all medications as prescribed.  
+- Please do not take your Coumadin until Wednesday, [**2-22**] 
+at which time [**Doctor First Name **] should see your primary care doctor for an INR 
+check.  Your primary care doctor should tell [**Doctor First Name **] when to restart 
+taking your Coumadin.
+- Please do not take your Toprol until [**Doctor First Name **] see your primary care 
+doctor [**First Name (Titles) **] [**Last Name (Titles) 5870**].  Your blood pressure has been low in the 
+hospital and [**Doctor First Name **] should not restart this medicine until your 
+blood pressure is rechecked by your primary care doctor.
+- Please stop taking your Glyburide as it interacts with 
+Voriconazole and was making your hypoglycemia.  Please start 
+Glipizide 2.5mg PO daily (Glipizide has less interaction with 
+Voriconazole).
+- Please stop taking your Ranitidine.  It may have been causing 
+low platelets.  Your ranitidine was stopped and your platelets 
+have risen to > 100 while at [**Hospital1 83**]. 
+.
+Please call your doctor if [**Doctor First Name **] experience dizziness, confusion, 
+fevers, chills, nausea or vomiting.
+.
+Please attend all followup visits as listed below.
+.
+ 
+Followup Instructions:
+.
+Please followup with your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) 5870**], 
+[**2-22**].  Please do not take your Coumadin until [**Doctor First Name **] see 
+your primary care doctor and get your INR check (your INR upon 
+discharge was high, 3.9).  Your primary care doctor should tell 
+[**Doctor First Name **] when to restart taking your Coumadin.  
+.
+Please followup with your urologist at [**Hospital1 84**], Dr. [**Last Name (STitle) 5109**], for your 
+BPH and to have your balanitis followed.  If [**Doctor First Name **] are unable to 
+followup with your urologist at [**Last Name (LF) 84**], [**First Name3 (LF) **] may set up an 
+appointment with the [**Hospital1 83**] urologists, Dr. [**First Name (STitle) 5871**], for followup 
+at [**Telephone/Fax (1) 5872**].
+.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD [**MD Number 4009**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number 3647**] [**2513-3-1**] @ 1218
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: [**Doctor First Name 46**] [**2513-3-2**] 9:46 AM
+(End of Report)
+
+
+",,
+5127,9418,,,2513-02-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-2-15**] 1:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8486**]
+     Reason: evaluate for cardiopulm process                             
+     Admitting Diagnosis: HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with hypoglycemia                                               
+     REASON FOR THIS EXAMINATION:
+      evaluate for cardiopulm process                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST 1:22 p.m. on [**2-15**]
+     
+     INDICATION:  Hypoglycemia.
+     
+     FINDINGS:  No prior comparisons.
+     
+     There is a dual lead left subclavian AV pacemaker.  The heart, mediastinum,
+     and hilar regions are otherwise within normal limits.  The lungs are clear.
+     
+     IMPRESSION:  No acute process.
+                                                                           
+
+",,
+5127,9418,6365,0,2513-02-15 15:11:00 EST,2513-02-15 15:42:00 EST,1710,"N",1,"Nursing/Other",,"
+
+74 YR OLD DIABETIC ON GLYBURIDE ADMITTED TO OSH C HYPOGLYCEMIA {BS 18},HYPOTENSION,SENT HOME AND READMITTED WITH SAME SYMPTOMS ,
+TRANFERED [**Hospital1 2**] STARTED ON D10W ,SENT TO CCU AS MICU BOARDER. 
+
+HX DM,RENAL TX 93 FOR HEREDITARY NEPHRITIS,MULTIPLE SCLEROSIS.CICUMCISION 1 WEEK AGO WHICH NOW LOOKS INFECTED ,LYMPHOMA 9 YRS AGO,SQUAMOUS CELL EXCISED FROM SCALP [**8-4**] LESIONS CRUSTED AND DRAINING ,ATRIAL FIB ,ON COUMADIN,HAS PACE MAKER FOR SSS,PULMONARY ASPERIGILLOSIS ,HX DYSPHAGIA .
+
+ADMITTED IN AFIB.HR 70S_80S .BP 90 TO 110 SYS.K,MG REPLETED.
+
+BS CLEAR ,SAT 98 RM AIR 
+
+GOOD APPETITE ,EATING WELL .ON D101/S 100CC HR TO MAINTAIN BS 150 TO 200.LARGE QUIAC NEG STOOL. 
+
+VOIDING LG AMT CL YELLOW URINE ,FREQUNTLY INC .
+
+PT COOPERATIVE,KNOWS HE IS IN THE HOSPITAL,APPROPRIATE C FAMILY BUT NOT SURE OF DATE,FORGETS INSTRUCTIONS AND TRIES TO GET OOB S HELP,HAS HX OF FALLS .
+
+OPEN AREA LEFT SHOUDER FROM FALL.TEGADERM APPLIED.ANTIFX CREAM APPLIED TO INFAMED PENIS .
+
+NOTE TO BE CONTINUED
+",,
+5127,9418,6365,0,2513-02-15 17:23:00 EST,2513-02-15 17:40:00 EST,1710,"N",1,"Nursing/Other",,"
+
+CORRECTION PT HAS HX AFIB ,IS IN NSR AT PRESENT.BP 89 SYS WHEN OOB ,2L FLUID TO BE GIVEN .PT ON FLECANIDE ,MONITOR QT
+
+BLOOD SUGAR 150 TO 200 THIS PM,KEPT ON D101/2 S 100 TO 150CC/HR  AND EATING WELL.GLYBURIDE DOSE INCREASED BY PCP RECENTLY  AND OTHER MEDS MAY BE POTENTIATING IT.MENTAL STAUS IS A LITTLE CLEARER THIS PM .
+
+T MAX 99.8 RECTALY .ON CEFTRIAXONE FOR UTI.PENIS CX SENT. 
+
+WIFE AND DAUGHTER IN,UPDATED BY HO.
+
+PT C HYPOGLYCEMIA,HYPOTENSION,MS CHANGES ,UTI,CHANGE IN MEDICATION SLOWLY STABLIZING ON D101/2S GTT,FLUID REPLACEMENT AND ANTIBX
+
+SKIN CARE ADAPTIC DSD TO R SHOULDER WOUND AND SKIN TEARS.MICONOZOLE OINTMENT TO PENIS
+HOURLY BS ,FOLLOW LYTES 
+FALL PRECAUTIONS 
+MONITOR FLUID BALANCE
+
+
+
+
+",,
+5127,9418,6365,0,2513-02-16 03:59:00 EST,2513-02-16 04:42:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7p-7a","
+CCU NPN 7p-7a
+74 yr old with DM transferred from OSH [**2-15**], presented to [**Hospital1 399**] with hypoglycemia, MS changes, hypotension 80's/. PT has had circumcision 1 week ago, being treated for balantitis and UTI. In CCU for freq BS, monitoring of BP.
+
+CV: HR 70-80's NSR, has h/o a.fib and SSS, has pacer, no paced beats noted. BP 106-129/60's. Toprol on hold. Pt ordered for Flecainide bid, he insists he takes it only in the pm and takes Toprol in AM, Flecainide given late in day yesterday and not repeated. Need to clarify dosing. Finished NS boluses last eve, BP has been stable. 
+
+Endo: cont on d10 1/2 NS at 100cc/hr, BS 190-170's, following hourly, then q 2 hrs overnight. 
+
+Neuro: A&Ox3 last eve, after awaking from [**Doctor Last Name 65**] at 2am was confused to time and place, only oriented to self, clearing some with conversation and reorientation, could repeat year after 5 min, but still thought it was [**Holiday 1341**] eve, thought he was in a museum. Pt remained cooperative, did dose off to [**Doctor Last Name 65**] again. All 4 side rails up for safety and bed alarm on.
+
+Resp: LS clear, sat 99-100% on RA.
+
+GI: swallowing meds and liqs without difficulty. no stool, on colace.
+
+Skin: dressing to R shoulder intact(freq falls at home), tegaderm on 1 cm skin tear on r elbo. Antifungal cream applied to penis, area reddened. multiple scabs on head.
+
+GU: urology in last eve, recommended foley cath as pt continually inc, voiding in sm freq amts, retention was a problem previously and suspected at this time, pt had 380cc urine that drained when foley placed. 
+
+Soc: pt lives with wife, has 6 children. Given freq falls, pt MS, ? confusion at home need SS involved to evaluate home situation and need for services at home or supervised living situation. Discuss with family if they come in today.
+
+A/P; frail 74 yr old adm with hypotension(improved with hydration), hypoglycemia, uti/balantits, s/p circumcision 1 week ago. Question if pt taking medications correctly. Cont to monitor BP, BS, maintain pt safety given confusion, reorient freq. Discuss home needs with family. Cont to inform and support family/pt re: condition and plan of care.
+",,
+5127,9418,6365,0,2513-02-16 17:19:00 EST,2513-02-16 17:45:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""I fell about six months and then it scabbed...I just need a walker to get around.""
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 73-91 NSR (HR up to 107 with ambulating OOB to chair, settles to baseline upon cessation of activity), no ectopy noted, NBP 88-115/58-75 MAPs 68-90.  Per pt, pt takes fleccainide at night (pt did not receive am dose) and toprol in the am (toprolol on hold d/t BP per MDs)-MICU MD's aware. Bilateral pedal pulses palp.
+
+Resp: Pt LS CTA, RR 12-20, O2 sats 96-100% on room air.
+
+Neuro: Pt alert and oriented x3, cooperative with care, asking appropriate questions regarding care. Pt OOB to chair with 2 assist, somewhat unsteady on feet, pt in chair for approx 3 hours this afternoon. Pt seen by physical therapist this afternoon, pt able to ambulate around bed with walker per PT, see note in chart.
+
+GI/GU: Pt abd soft, +BS x 4, no stool this shift, pt eating approx 80-100% of meals. Foley cath draining adequate amounts clr yellow u/o, see flowsheet. Pt s/p renal transplant in [**2499**],  pt to start epogen this eve (as per home regimen).
+
+ENDO:Pt FS 190's to 300's, pt to start ss insulin this eve.
+
+ID: T max 99.4, pt continues on IV ceftriaxone, urine cx to be sent this eve.
+
+Skin: Pt with multiple scabbed areas on scalp/head, [**Name8 (MD) 17**] MD's SCC. Pt also noted for multiple brusises throughout, sm abrasion on RUE/elbow. Pt also noted for abraision on shoulder, see flowsheet for details, consulted wound care nurse, see note in chart.
+
+Social: Pt wife and daughter in to visit at bedside this am/afternoon. Daughter spoke with RN regarding pt condition and POC. Family members spoke with pt via portable phone.
+
+A/P: 74 y/o male s/p hypoglcemia and hypotension-both now resolved, pt to start ss insulin and c/o to floor when bed available.  Cont to monitor pt hemodynamics, start toprolol as ordered and as pt tol. Cont to monitor FS, insulin ss scale. Cont to monitor skin, labs. Cont to provide emotional support to pt and family. Awaiting further POC per MICU Team.  
+",,
+5127,9418,6365,0,2513-02-17 06:32:00 EST,2513-02-17 07:00:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S:""Nurse, where's my car?"".
+O: See careview for complete obj data.
+Neuro- Pt A+Ox1-2, confused & calling out w/ attempts to stand once awoke. Easily reoriented, spoke w/ daughter on phone.
+CV- Tele SR rare vea, no paced beats. HR 70s, NBPs 96-110/50s-60s.
+Resp- LSC, 02sats >95% r/a.
+GI/GU- Abd soft +bs, +flatus no bm. Foley conts to drain lg amts of cyu. 24hr -950, [**Location 653**]75.
+Endo- Sugars 184, 81 gave 4 oz juice-> 111. Conts on RISS.
+ID- Afeb, conts on ceftriaxone. Urine cx sent.
+Skin- Antfungal cream applied to penis, all dsgs intact. Forehead scabs unbroken.
+A/P: 74yo male admitted for Hypoglycemia/Hypotension, tx w/fluids & D10. Mult abrasions d/t falls @ home. Pt stable, cont plan of care. Call out when bed opens up.
+
+",,
+5127,9418,6365,0,2513-02-17 19:00:00 EST,2513-02-17 19:15:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""It was great to walk and move my legs around.""
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 72-94 NSR, no ectopy noted, NBP 87-112/50-65 MAPS>65. Pt flecainide am dose not given as pt takes at night only per pt, home am toprolol dose cont to be held, Dr. [**Last Name (STitle) **] aware.
+
+Resp: Pt LS CTA, RR 15-25, O2 sats 97-100%. No c/o SOB.
+
+Neuro: Pt A&O x3, cooperative with care, asking appropriate questions regarding POC and meds. Pt OOB to chair and to commode with walker and [**1-31**] assist throughout day, pt OOB to ambulate in [**Doctor Last Name **] with physical therapy. Pt MAE, moves legs around in bed frequently, per pt, pt has restless leg syndrome and takes clonazepam at home at night for symptoms.
+
+GI/GU/ENDO: pt abd soft, + BS x4, pt with 1 sm and 1 lg formed brown guiac negative stool. pt eating approx 100% of meals. Foley cath draining clr yellow u/o , see flowsheet. FS 127-272, ss insulin given as ordered. 
+
+Skin/ID: Pt tip of penis continues to be reddened, miconazole cream applied, pt cont on voriconazole and nystatin. Multiple SCC noted on scalp and head, wound on shoulder-dsg not yet changed, d/t be changed this eve, see skin care RN note in chart.
+
+A/P: 74 y/o male s/p hypoglycemia and hypotension-now resolved. Cont to monitor hemodynamics, resp status, u/o, skin-dsg changes. Advance activty as tol, cont to monitor glucose. Awaiting bed on floor. Awaiting further POC per MICU team.
+",,

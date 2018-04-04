@@ -1,0 +1,664 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5606,3716,,,2566-07-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2566-7-13**]       Discharge Date:  [**2566-7-24**]
+
+Date of Birth:   [**2490-6-17**]       Sex:  M
+
+Service:  Cardiothoracic Service
+
+CHIEF COMPLAINT:  The patient was admitted for shortness of
+breath and atrial fibrillation.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient firstname **] [**Known patient lastname 6807**] is a
+76-year-old gentleman who presented to an outside hospital
+with shortness of breath in the setting of bronchitis treated
+with Bactrim.
+
+However, on admission, the patient was acutely short of
+breath with a creatinine of 2.6.  While at the outside
+hospital he experienced a self-limited run of ventricular
+tachycardia was chest pain.  He has never complained of chest
+pain but does have increasing dyspnea on exertion.  The
+patient denied dizziness, nausea, vomiting, fevers, chills,
+or chest pain at that time.  Also at the outside hospital,
+the patient was noted to be in atrial fibrillation.  His
+troponin at that time showed a peak of 0.28.
+
+He was transferred to [**Hospital1 75**]
+for further cardiac workup.
+
+PAST MEDICAL HISTORY:  (His past medical history is
+significant for)
+1.  Coronary artery disease; status post catheterization in
+[**2566-3-15**] in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1356**] hospital.
+2.  Congestive heart failure, mild to moderate mitral
+regurgitation.
+3.  Chronic obstructive pulmonary disease.
+4.  Diabetes mellitus.
+5.  Chronic renal insufficiency.
+6.  Gastroesophageal reflux disease.
+7.  Chronic atrial fibrillation.
+8.  Hypertension.
+
+MEDICATIONS ON TRANSFER:  (His medications on transfer were)
+ 1.  Potassium chloride 20 mEq p.o. once per day
+ 2.  Lasix 80 mg p.o. once per day.
+ 3.  Zaroxolyn 5 mg p.o. once per day.
+ 4.  Glipizide 10 mg p.o. twice per day.
+ 5.  Metformin 1000 mg p.o. twice per day.
+ 6.  Metoprolol 25 mg p.o. twice per day.
+ 7.  Aspirin 81 mg p.o. once per day.
+ 8.  Isosorbide 10 mg p.o. once per day.
+ 9.  Lipitor 10 mg p.o. once per day.
+10.  Ferrous sulfate 325 mg p.o. once per day.
+11.  Aciphex 20 mg p.o. once per day.
+12.  Restoril.
+
+ALLERGIES:  He states allergies to COUMADIN (which gives him
+a headache) and ZOCOR (which causes muscle pain).
+
+SOCIAL HISTORY:  The patient is a retired owner of a printing
+company.  The patient has been married.  60 plus years of
+past smoking.  Past ethanol use which was stopped one year
+ago.  Occupational exposures to benzine.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   The patient's
+physical examination on admission revealed vital signs with a
+blood pressure of 115/53, heart rate was 88, temperature was
+98.1 degrees Fahrenheit, respiratory rate was 20, and oxygen
+saturation was 94% on room air. In general, an elderly male
+in mild distress.  Shortness of breath with speech.  Head,
+eyes, ears, nose, and throat examination revealed mucous
+membranes were moist.  Bleeding at the right corner of his
+mouth.  Extraocular movements were intact.  The oropharynx
+was clear with poor dentition.  The neck was difficult to
+assess given size.  No lymphadenopathy.  Cardiovascular
+examination revealed irregularly irregular.  A soft 2/6
+systolic murmur at the apex.  Lung examination revealed
+crackles up to one half of the way with expiratory wheezes.
+Extremity examination revealed compression stockings and 2+
+bilateral edema.  Faint pulses.
+
+PERTINENT RADIOLOGY/IMAGING:  Past catheterization done in
+[**State 1356**] in March of this years showed 40% left main, 80%
+diagonal, and 70% mid left anterior descending artery, 40%
+distal left anterior descending artery, 90% mid circumflex,
+70% sequential ramus, and 40% to 50% right coronary artery
+lesion.
+
+Most recent echocardiogram showed an ejection fraction of
+50%.  At that time, the patient was recommended to have
+coronary artery bypass graft and an automatic internal
+cardioverter-defibrillator placed because of his ventricular
+tachycardia.  He refused at that time as he preferred to come
+to [**State **].
+
+A chest x-ray showed prominence of pulmonary vasculature with
+cardiomegaly, atelectasis at the left base, and congestive
+heart failure.
+
+HOSPITAL COURSE BY ISSUE/SYSTEM:   The Cardiology Service was
+consulted, and the patient was ruled out for a myocardial
+infarction.
+
+On [**7-15**], the patient was brought to the Cardiac
+Catheterization Laboratory.  Please see the catheterization
+report for full details.  In summary, the catheterization
+showed left main 50%, left anterior descending artery 95%,
+left circumflex 90%, right coronary artery 100%, and ramus
+90%.  Additionally, the patient had 2+ mitral regurgitation
+and an ejection fraction of 38%.
+
+Following catheterization, Cardiothoracic Surgery was
+consulted.  The patient was seen and accepted for coronary
+artery bypass grafting.
+
+The following morning, the patient was brought to the
+operating room.  Please see the Operative Report for full
+details.  In summary, the patient had coronary artery bypass
+grafting times four with a left internal mammary artery to
+the left anterior descending artery, saphenous vein graft to
+diagonal, saphenous vein graft to ramus, and saphenous vein
+graft to the posterior descending artery.  His bypass time
+was 73 minutes with a cross-clamp time of 61 minutes.
+
+He was transferred from the operating room to the
+Cardiothoracic Intensive Care Unit.  At the time of transfer,
+the patient's mean arterial pressure was 82.  He was in
+atrial fibrillation at 92 beats per minute.  At that time, he
+had no milrinone at 0.25 mcg/kg per minute, Neo-Synephrine at
+1.25 mcg/kg per minute, and aprotinin at 50 mcg/kg.
+
+Upon arrival to the Cardiothoracic Intensive Care Unit the
+patient was noted to have elevated pulmonary artery pressures
+to 70/30.  An emergent transesophageal echocardiogram which
+showed moderate mitral regurgitation and an
+ejection fraction of 33%.  He was treated with intravenous
+Lasix.  His milrinone was increased to 0.6 mcg/kg per minute.
+His Neo-Synephrine drip was titrated up for systolic blood
+pressures of 100.  He was also noted to have frequent
+premature ventricular contractions with multiple 3 to 6 beat
+runs of ventricular tachycardia.  A lidocaine drip was
+started at that time with resolution of ventricular
+tachycardia.
+
+The patient remained hemodynamically stable over the next
+several hours.  However, his urine output was noted to be
+drifting off.  At that time, a dopamine infusion was begun.
+With the addition of the dopamine, the patient's heart rate
+increased up to the 140 to 150 range, and the dopamine
+infusion was discontinued.  The patient was additionally
+loaded with digoxin to help control his heart rate which at
+baseline was 100 to 110 with atrial fibrillation.
+
+On postoperative day one, the patient's milrinone dose began
+to be tapered. His lidocaine was decreased to 1 mg per
+minute.  His Neo-Synephrine was weaned to keep a mean
+arterial pressure of 70.  He was started on a Natrecor drip
+to support his renal status.
+
+On postoperative day two, the lidocaine infusion was
+discontinued.  The patient remained on Natrecor and
+Neo-Synephrine.  His sedation was discontinued.  He was
+weaned from the ventilator and successfully extubated.
+
+On postoperative day three, the patient remained
+hemodynamically stable.  However, he continued to require
+Neo-Synephrine to maintain and adequate blood pressure.  His
+chest tubes were discontinued.  From a renal standpoint, the
+patient continued to make adequate amounts of urine, and his
+Natrecor infusion was also discontinued.
+
+On postoperative day four, the patient was weaned from his
+Neo-Synephrine drip.  Following that wean, he remained in
+atrial fibrillation with an adequate blood pressure.  The
+plans were made to transfer the patient to the floor on the
+following day.
+
+On postoperative day five, the patient looked well and was
+transferred to the floor for continued postoperative care and
+cardiac rehabilitation.  Over the next several days with the
+assistance of the nursing staff and Physical Therapy, the
+patient's activity level was increased.  It was felt by the
+team that he would need a short stay in rehabilitation.
+
+On postoperative day eight, it was decided that the patient
+was stable and ready to be transferred to rehabilitation.
+
+PHYSICAL EXAMINATION ON DISCHARGE:  At the time of transfer,
+the patient's physical examination was as follows.  Vital
+signs revealed temperature was 97.2, heart rate was 86 in
+atrial fibrillation, blood pressure was 118/61, respiratory
+rate was 20, and oxygen saturation was 99% on one liter.
+Weight preoperatively was 102 kilograms.  On discharge his
+weight was 108.2 kilograms.  Neurologic examination revealed
+the patient alert and oriented times three.  He moved all
+four extremities and followed commands.  Respiratory
+examination revealed bilateral rhonchi with no rales.
+Cardiovascular examination revealed a regular rate and
+rhythm.  Normal first heart sounds and second heart sounds.
+A 3/6 systolic ejection murmur.  The sternum was stable.  The
+incision with staples, open to air, clean and dry.  The
+abdomen was soft and nontender.  Positive bowel sounds.
+Extremity examination revealed warm and well perfused.  Edema
+of 1+ bilaterally.  Right lower extremity saphenous vein
+graft site incision with Steri-Strips open to air, clean and
+dry.
+
+PERTINENT LABORATORY VALUES ON DISCHARGE:  Laboratory data
+revealed white blood cell count was 9.1, hematocrit was 28.9,
+and platelets were 360.  Prothrombin time was 14.5 and INR
+was 1.4.  Sodium was 138, potassium was 4.2, chloride was 95,
+bicarbonate was 30, blood urea nitrogen was 57, creatinine
+was 1.7, and blood glucose was 162.
+
+MEDICATIONS ON DISCHARGE:  (Medications on discharged
+included)
+ 1.  Metolazone 5 mg p.o. once per day.
+ 2.  Furosemide 80 mg p.o. once per day.
+ 3.  Potassium chloride 20 mEq p.o. once per day
+ 4.  Aspirin 81 mg p.o. once per day.
+ 5.  Metformin 1000 mg p.o. twice per day.
+ 6.  Glipizide 10 mg p.o. twice per day.
+ 7.  Atorvastatin 10 mg p.o. once per day.
+ 8.  Ferrous sulfate 325 mg p.o. once per day.
+ 9.  Warfarin 5 mg p.o. once per day (for the past two days);
+also to receive 5 mg p.o. on [**7-24**].  Target INR would be 1.5
+to 2.5.
+10.  Metoprolol 75 mg p.o. twice per day.
+11.  Ranitidine 150 mg p.o. twice per day.
+12.  Colace 100 mg p.o. twice per day
+13.  Percocet 5/325 one to two tablets p.o. q.6h. as needed.
+
+CONDITION AT DISCHARGE:  The patient's condition on discharge
+was good.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease; status post coronary artery
+bypass grafting times four with left internal mammary artery
+to the left anterior descending artery, saphenous vein graft
+to the diagonal, saphenous vein graft to ramus, and saphenous
+vein graft to posterior descending artery.
+2.  Chronic obstructive pulmonary disease.
+3.  Diabetes mellitus.
+4.  Chronic renal insufficiency.
+5.  Gastroesophageal reflux disease.
+6.  Atrial fibrillation.
+7.  Hypertension.
+8.  Moderate mitral insufficiency.
+DISCHARGE DISPOSITION:  The patient was to be discharged to
+rehabilitation.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient was to follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in
+four weeks.
+2.  The patient was to follow up with Dr. [**Last Name (STitle) 6808**] and Dr.
+[**Last Name (STitle) 3570**] also in three to four weeks.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1106**], M.D.  [**MD Number 1107**]
+
+Dictated By:[**Name8 (MD) 1165**]
+MEDQUIST36
+
+D:  [**2566-7-24**]  10:20
+T:  [**2566-7-24**]  10:24
+JOB#:  [**Job Number 6809**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**2566-7-24**] 2:39 PM
+(End of Report)
+
+
+",,
+5606,3716,,,2566-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2566-7-13**] 5:49 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12600**]
+     Reason: eval for pna, chf                                           
+     Admitting Diagnosis: CORONARY ARTERY DISEASE/CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with cad, copd admitted with sob                                
+     REASON FOR THIS EXAMINATION:
+      eval for pna, chf                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, TWO VIEWS.
+     
+     INDICATION: Pneumonia and congestive heart failure.
+     
+     COMMENTS:  Pa and lateral chest radiographs are reviewed.  No previous study
+     is available for comparison.  There is prominence of the pulmonary vasculature
+     with cardiomegaly indicating congestive heart failure.  Plate-like atelectasis
+     is seen in the left lung base.  Healed fractures are seen in the
+     posterolateral aspect of the left 5th and 6th ribs.  No pneumothorax is
+     identified.
+     
+     IMPRESSION:  Congestive heart failure with cardiomegaly.
+     
+     
+
+",,
+5606,3716,,,2566-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2566-7-16**] 1:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12601**]
+     Reason: post-op CSRU film                                           
+     Admitting Diagnosis: CORONARY ARTERY DISEASE/CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with s/p cabg x4                                                
+     REASON FOR THIS EXAMINATION:
+      post-op CSRU film                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post CABG.
+     
+     CHEST AP PORTABLE:  The ET tube is in place.  Also noted is a Swan-Ganz
+     catheter, with the tip at the main pulmonary artery.  The heart is moderately
+     enlarged.  There is evidence of moderate bilateral pulmonary edema.  Also
+     noted is retrocardiac opacity, consistent with left lower lobe
+     collapse/consolidation.  There is minimal atelectasis noted at the right base,
+     as well.  Cannot exclude a small left pleural effusion.  The visualized
+     osseous structures appear unremarkable.
+     
+     IMPRESSION:  Moderate cardiomegaly with CHF.  Persistent left lower lobe
+     collapse/consolidation.
+
+",,
+5606,3716,6965,0,2566-07-16 17:25:00 EST,2566-07-16 17:49:00 EST,4013,"N",54,"Nursing/Other",,"
+
+NEURO:  sedated on propofol gtt. reversal agents given.  Morphine x 1.
+
+Pulmonary.  intubated/ventilated.  lungs clear upper lobes, diminished in bases.  FI02 down to 50% with good PO2. Recent Bronchitis PTA.  
+
+CV:  Upon arrival to CSRU PA pressures elevated 70/38. Stat TEE done showing MR, AS and EF 33% on arrival to CSRU Rx with IV lasix, Milrinone Gtt increased to .6 mcg/kg,  Neo titrated up for labile BP.  Rhythm Atrial Fib(chronic) with frequent PVC's and 3 beat runs of VT RX with Lido bolus and Gtt and Magnesium 2 GMs. Pt rewarmed. Chest tubes with minimal sanguinous output.  D/T MR and potential for CHF minimal fluids given.
+
+GI:  abodmen obese, soft.  No bowel sounds. 
+
+GU:  Foley to CD draining QS amts clear yellow urine.
+
+Social:  wife and son visited x 2.  valuables (ring) sent home with pt's wife.  
+
+Plan:  wake, wean vent.  maintain comfort.  Titrate Neo for SBP > 95 or MAP > 65.  Leave Milrinone at .3 mcg/kg/min until AM. Replete lytes PRN for ectopy.
+",,
+5606,3716,6965,,2566-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2566-7-17**] 8:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12602**]
+     Reason: r/o effusion                                                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE/CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with s/p cabg x4                                               
+       
+     REASON FOR THIS EXAMINATION:
+      r/o effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG.
+     
+     PORTABLE AP VIEW OF THE CHEST:  Comparison [**2566-7-16**].  Median sternotomy clips
+     and wires, as well as staples are again noted.  A SG catheter terminates in
+     the right main PA.  There are bilateral chest tubes, unchanged.  An ET tube is
+     present in satisfactory position. There is cardiac enlargement, stable.  There
+     are low lung volumes. A left-sided pleural effusion and left basilar
+     atelectasis and/or consolidation is again noted.  There are bilateral perhilar
+     patchy opacities.
+     
+     IMPRESSION:  Allowing for differences in technique, no change in the
+     cardiomegaly with mild failure or the left basilar effusion with atelectasis
+     and/or consolidation.
+
+",,
+5606,3716,6965,0,2566-07-17 03:22:00 EST,2566-07-17 03:37:00 EST,3760,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+CV:  Afib with rate 98-115 with frequent PVCs.  Neo gtt increased throught night for hypotension and low SVR.  CI by fick method, >2 consistently.  SVO2 >60% all night.  Dopamine gtt started at renal dose to help improve renal blood flow, but HR up to 140-150s so dopa stopped.  LR given for low UOP.  Albumin given for hypotension.  Dr. [**Last Name (STitle) **] aware of increasing neo gtt needs. PAP remain at 30/20 to 40/20s range, no pulmonary hypertension seen compared to arrival to unit.
+
+PULM:  On IMV, rate decreased once for low PaCO2. Slight metabolic alkalosis now.  Sxning moderat amounts white thick sputum. CTs draining serosanginous fluid, no airleak.
+
+NEURO:  Propofol gtt infusing.  Gtt was decreased and pt did not his head to questions and follow commands every time asked to do so.  Every time patient woke, shivering began.  Treated with demerol routinely first time.  Second time patient did this, Dr. [**Last Name (STitle) 637**] called to bedside and oberved pt.  Pt did follow commands and MAE, nod head to questions again.  Demerol given with good effect.  Pt woke later in night, shivering again.  Dr. [**Last Name (STitle) **] called to bedside and observed patient, once again patient MAE, nods head to questions.  Propofol gtt increased.  Morphine given for pain control.
+
+GU:  Lasix given early in evening for low UOP.  LR given for low UOP later.  UOP did improve.  Foley.
+
+GI:  OG tube to LCWS, no bowel sounds.
+
+SKIN:  Sternal dsg has serosanginous fluid but unchanged since start of shift.  SVG has ACE wrap.
+
+PLAN:  Monitor hemodynamics.
+",,
+5606,3716,6965,0,2566-07-17 05:13:00 EST,2566-07-17 05:14:00 EST,3760,"N",54,"Nursing/Other",,"
+
+New femoral aline placed in left groin, SBP 112 by this line.  Weaning neo gtt quickly according to new  aline.
+",,
+5606,3716,6965,0,2566-07-17 16:17:00 EST,2566-07-17 16:34:00 EST,4013,"N",54,"Nursing/Other",,"
+
+NEURO:  Propofol off.  alert, follows commands but tremulous with stimulation.  Less pronounced since 1600.
+
+PULM:  lungs clear.  propofol off since around 1500 for plan to extubate.
+
+CV:  rhythm remains atrial fib, rate up to 135 at beginning of shift with low BP and frequent MFPVC's with couplets and triplets.  Lido gtt off then rebolused and GTT resumed at 1mg. Digoxin 0.25 IV at 0930 and 1530  with HR down 90's, Dig 0.25 QD started.  Lopressor 25mg via OGT started and to be BID.  Milrinone DC'd, Natrecor started at .01mcg/kg, lasix 20mg IV in AM and 40mg IV in PM.  PAP 40's/20's, CVP 14-18.  Received 1 unit PRBC  Propofol weaned down and off. Neo being titrated for MAP control >60.  chest tubes draining scant amts serosanguinous. Insulin Gtt titrated, currently at 2 units/hr. 
+
+GI:  OGT to LCS.  scant amts clear out.  Abdomen obese, soft with hypoactive BS.
+
+GU:  foley to CD draining QS amts clear yellow urine.  UO marginal, received Lasix x 2 with only fair response.
+
+SOCIAL:  Priest in.  Wife called in x 2 and talked with MD.
+
+PLAN:  wean Neo as able keeping MAP > 60.  Continue Natrecor. wean and extubate if able.  ? neuro consult if tremulousness doesn't subside.  ? wean off Lido.
+
+",,
+5606,3716,6965,0,2566-07-17 17:30:00 EST,2566-07-17 17:41:00 EST,4013,"N",54,"Nursing/Other",,"
+
+Update:  Still with periods of tremulousness, unable to lift head off pillow but alert and follows commands. weaned to PSV 5/5 40% with good gases  Leave Natrecor at .01 mcg, lido at 1mg.  Less ectopy but remains in atrial fib with VR 90's-105. Neo weaned to 1.0 mcg/kg with MAP 65-70. PAP 38/24, CVP 13.
+",,
+5606,3716,6965,,2566-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2566-7-18**] 10:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12603**]
+     Reason: s/p chest tube removal                                      
+     Admitting Diagnosis: CORONARY ARTERY DISEASE/CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        76 year old man with s/p cabg x4                                              
+         
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube removal                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG.
+     
+     PORTABLE SEMI-UPRIGHT CHEST:  The exam is compared to the study of [**2566-7-17**].
+     NG tube and ET tube have been removed.  IJ SG catheter appears to have been
+     pulled  back slightly with tip in the region of the right ventricle.  It is
+     not well seen.  Lung volumes are stable.  Pulmonary vascularity is within
+     normal limits.  There is some minimal fluid now seen along the minor fissure.
+     No other change is noted.
+     
+     
+
+",,
+5606,3716,6965,0,2566-07-18 03:03:00 EST,2566-07-18 03:12:00 EST,3431,"N",54,"Nursing/Other","NSG PROGRESS NOTE","
+NSG PROGRESS NOTE
+O- awake, responds to commands appropriately, nods head to questions, mae. anxious with tremors when startled awake, med with mso4 for pain and versed prn anxiety with good effect
+
+wheezey after suctioning, pt questioned on use of inhalers, started on combivent with improved BS and increased sputum.  acceptable abg on psv-5 cpap-5, psv increased to 10 with plan to give vigorous pulmonary hygiene during the night in anticipation of extubation in am, chest tube with small amount serosang drng
+
+continues in atrial fibrillation with rare to frequent PVC's, occ couplets and triplets, ectopy seems to increase when pt is lying on right side, continues on lido drip, natrecor and neo titrated to bp, see flow sheet for full hemodynamic parameters.  SVO2 62%
+
+ogt to suction, on ranitidine abd soft, obese and quiet
+
+u/o adequate, slight increase seen with sbp >100
+
+back and buttock intact, redness in skin folds of chest, axilla and groin
+
+insulin drip titrated to maintain glucose 80-120 as per protocol
+
+A- stable overnight on support of neo, natrecor and mechanical ventilation
+
+P- pulm hygiene
+extubate early in am
+monitor renal function
+monitor ectopy
+
+
+
+",,
+5606,3716,6965,0,2566-07-18 04:31:00 EST,2566-07-18 04:33:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated currently on IPS 5/.4/5peep. IPS increased to 10 overnoc, 5am back to IPS5. Vt 700's, RR 12 RSBI this am 22. Started on Combivent for wheezes, BS improved. Plan to extubate this am. 
+",,
+5606,3716,6965,0,2566-07-18 05:31:00 EST,2566-07-18 05:33:00 EST,3431,"N",54,"Nursing/Other","NSG UPDATE","
+NSG UPDATE
+pt extubated at 0600, placed in 100% cool neb
+lasix 80mg iv at 0630
+0600 vancomycin held due to rising creatinine, vanco level sent
+",,
+5606,3716,6965,0,2566-07-18 15:37:00 EST,2566-07-18 15:40:00 EST,3975,"N",54,"Nursing/Other",,"
+
+Respiratory Care Note:
+     Patient weaned and extubated this am with marked improvement in pulmonary status throughout the day. BS with increased aeration. He has been receiving combivent MDI Q4 f/w CPT and coughing. Productive for small to med amounts of thick pale yellow sputum. BS with exp wheezing at times which clears post tx and post exertion. He remains on a 5 lpm nasal cannula. ABG with mild metabolic acidosis, PaCO2=40, see Carevue flowsheet. Plan: to continue with Q4 MDIs and aggressive pulmonary hygiene.
+
+",,
+5606,3716,6965,0,2566-07-18 17:25:00 EST,2566-07-18 17:41:00 EST,4013,"N",54,"Nursing/Other",,"
+
+NEURO:  alert but not oriented to time or place this am.  Oriented X 3 with prompting this PM. Follows commands. MAE.  High anxiety level.  Versed with effect.
+
+PAIN:  c/o mild pain.  Rx with percocet 2 po x 2 and 2mg IV Morphine x 4.  Increased anxiety and pain with movement.
+
+PULM:  weaned down from 80% FM to 5L n/p through-out day.  PO2 and PCO2 stable but ph 7.30 d/t metabolic process.  Lungs clear except some exp wheezing with increased anxiety/movement, responsive to inhalers.  Chest tubes at 10am.  Occlusive dsgs on. Sats >95% on 5L.
+
+CV:  remains in atrial fib but rate more controlled at 80-100, still with frequent MFPVC's and some couplets/triplets.  Lido continues at 1mg.  PAP 40's-50's/20's.  CVP 8-12. Natrecor dc'd at 0800.  Attempting to wean NEO to keep MAP >60.  Neo at 1 mcg.  Insulin Gtt titrated for q1h FSBS.  ph 7.3. Zaroxylyn 5mg po BID started at 1030.  Creatinine > 2.0.
+
+GI:  hypoactive bowel sounds present.  Taking small amts clear fluids.  refused diet. 
+
+GU:  foley to CD  with QS amts clear yellow urine.  Lasix changed to
+ 80 po BID. 
+
+SOCIAL:  wife and son visited.
+
+ASSess:  Metabolic acidosis.  ? needs small fluid bolus.
+
+PLAN:  Dr [**Last Name (STitle) **] [**Last Name (STitle) 638**] of hourly assessments, ABG's.  ? needs small fluid bolus. Continue aggressive pulm hygiene. small doses of Morphine and Versed for pain and anxiety.  Perocet q4-6h.
+",,
+5606,3716,6965,0,2566-07-19 04:23:00 EST,2566-07-19 04:32:00 EST,3431,"N",54,"Nursing/Other","NSG PROGRESS NOTE","
+NSG PROGRESS NOTE
+O-  slept most of night after percocet and 1mg midazolam for anxiety.  more cooperative this am, forgetful at times, easily reoriented
+
+in 4 liters nasal cannula with good oxygenation, slightly worsening acidosis with hypoventilation during [**Doctor Last Name 5**], bs mostly clear, becomes wheezy with movement, refused combivent stating that ""stuff is no good"", when questioned if he uses combivent at home, pt said ""yes"", cough occasionally is productive but pt does not expectorate
+
+remains in AF with rare to freq PVC's, occ couplet/triplet
+BP drifted down during night, neo titrated to keep MAP >60.  SVO2 down to 51% with rising CVP and PA pressures, no response earlier to po lasix, given 80mg IV lasix with good response and decrease in filling pressures  see flow sheet for complete hemodynamic parameters
+
+taking po fluids and meds
+
+u/o decreased to 12cc, no response to po lasix, good diuresis with IV lasix
+
+back intact, no redness, chest and leg incisions clean and dry, open to air
+
+A- persistant acidosis, continues to require pressor support
+
+P- cont pulm hygiene
+diurese
+monitor hemodynamics
+begin [**Hospital 639**] rehab- oob to chair today
+",,
+5606,3716,6965,0,2566-07-19 16:23:00 EST,2566-07-19 16:41:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: pt s/p cabg-
+neuro: pt lethargic, yet easily arousable-mae, slowly, approp conversation yet drifts off at times- reoriented easily-pupils equal and rx to light.
+cardiac: pt remain in afib-post lopressor to rates of 80's once leads changed appears to be aflutter. note post lopressor- sbp dipped- requiring neo to be inc to 2.5 mcq- then titrated back down to .75 mcq. pt cont on lido iv 1 mg- min pvc's noted. palp pedal pulses- weak bilat.
+resp: pt on 4l np with sat 96-98%, bs expir wheezes bilat- clears yet still bs dim in bases, pt receiving inhalers atc-c&r yellow secretions with encouragement.
+gi: pt tol small amt po's, still somewhat lethargic thus did not push po's ??aspiration, abd- obese- soft, hypoactive bs. positive flatus.
+gu: u/o excellent with diuresis- creat down slightly today with sl inc in bun- will watch.
+activity: turning in bed -- assists with all care. due to fem aline not oob- team want aline in another day.
+inc: intact.
+",,
+5606,3716,6965,0,2566-07-19 23:13:00 EST,2566-07-19 23:14:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT SLEEPING COMFORTABLE AFTER TURNING .CPT, RAISING THICK YELLOW TO TAN SPUTUM.. GREAT FICK SVO2 WITH IMPROVED HCT AFTER TRANSFUSIONS IN LATE AFTERNOON. K REPLACED AS NEEDED.
+",,
+5606,3716,6965,0,2566-07-20 05:48:00 EST,2566-07-20 05:52:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT WITH C/O PAIN AFTER TURNING GIVEN 2 PERCOCET SLEEPING SOUNDLY NOW. EARLY IN SHIFT PLEASANTLY CONFUSED EASY TO REORIENT TO TIME/PLCE, MISSING HIS WIFE TALKING ABOUT THE FACT HE DRANK TO MUCH BEFORE.. REMAINS IN AFIB WITH OCCASIONAL MULTIFOCAL PVC, K REPLACED THRU THE NIGHT. RESP: RAISING THICK YELLOW TO TAN SPUTUM ON OWN. ON 4LNP WITH SATS IN THE 95 OR BETTER. GU: GOOD RESPONSE FROM LASIX AT 2000. ENDO: BS TREATED WITH SSINSULIN. STERNAL WOUND CLEAN/INTACT. RCL LEAKING SEROUS FLUID NEW DSD PLACED SUBSIDED.
+",,
+5606,3716,6965,0,2566-07-20 05:52:00 EST,2566-07-20 05:52:00 EST,3444,"N",54,"Nursing/Other",,"
+
+ADDENUM PLAN TO D/C LIDO D/C FEM ALINE D/C SWAN...
+",,
+5606,3716,6965,0,2566-07-20 18:33:00 EST,2566-07-20 18:41:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: pt s/p cabg- lido to off this am, swan d/c, fem aline d/c- periph iv placed and cordis d/c (kinking).
+neuro: pt lethargic-easily [**Last Name (LF) 640**], [**First Name3 (LF) **], pupils equal and rx to light.
+resp: on 3l np with sat >97%, bs dim in bases, intermittent crackles noted and rhonchi- cl with coughing- inhaler cont, [**Location (un) **] care cont with assist.
+cardiac: pt remians in afib with occas pvc's- same amt noted with lido on and lido off. palp pedal pulses, sbp- wnl.lopressor 12.5 mg cont.
+gi: tol po's well, due to lethargy controled po intact- pt fed- difficulty holding spoon due to edema in hands and arms. abd soft, positive flatus.
+gu: diuresing well with lasix 80mh po- k being replaced as needed.
+activity; once fem aline d/c- pt oob to chair with max assist of 2, able to stand and support wt.
+glu: following slifding scale for elevated glu-
+plan: ??transfer to floor in am
+",,
+5606,3716,6965,0,2566-07-21 02:00:00 EST,2566-07-21 02:04:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT SLEEPING AFTER 2 PERCOCET GIVEN, OOB IN CHAIR FOR APPROX. 1HR. BACK TO BED AT 2130 WITH C/O STERNAL PAIN, PERCOCET GIVEN SLEEPING SINCE APPROX. 22000. AWAKENED X1 GIVEN TOTAL OF 40MEQ KCL PO D/T K 3.5. PATIENT WITH COUPLETS /MULTIFOCAL PVCS. RESP:RAISING THICK TAN/YELLOW SPTUM, ON 4LNP WITH SATS 96%. GU: GOOD RESPONSE FROM LASIX/ZAROXYLN.. GI: NO BM AS OF YET BOWEL SOUNDS PRESENT.. ENDO: NO TREATMENT OF BS WNL.. PATIENT IN GOOD SPIRITS , JOKING PRIOR TO BACK TO BED...PLAN TO TRANSFER TO [**Hospital Ward Name **] 2 IN AM. WIRES SECURED, NEEDS ALINE OUT . NEW HL PLACED ON DAYS..
+",,
+5606,3716,6965,0,2566-07-21 04:01:00 EST,2566-07-21 04:02:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PLAN TO GIVE 2GMS MAGSO4. ALSO PLAN TO RECHECK K WITH BS..
+",,
+5606,3716,6965,0,2566-07-21 12:55:00 EST,2566-07-21 12:56:00 EST,3209,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+PLS REFER TO NURSING TRANSFER NOTE IN ""NURSING TRANSFER NOTE "" SECTION OF CAREVIEW. THANKS.
+",,
+5606,3716,6965,0,2566-07-22 04:46:00 EST,2566-07-22 05:05:00 EST,4002,"N",54,"Nursing/Other",,"
+
+NPN: 
+
+Neuro: Alert and oriented X3, MAE with equal strength  and follows commands. 
+CV: 70-90's afib with PVC's -rare 3 beat run. Increased HR 100's with activity. K 3.5 treated with 40 po Micro-K. Palp DP pulses. 
+Resp: Lungs diminished in the bases. Cough strong and productive of sm amts thick yellow sputum. O2 sats 88 on RA, Increase to 94-96% on 2l nc O2. 
+GU: Foley to gd with good diuresis on po lasix 80 bid. wt 108.4 kg. Cr decreasing at 1.5. 
+GI: Abd obese,sl distended with +BS, + flatus per pt. Tol reg [**Doctor First Name 83**] diet. + belching. No N/V. 
+Endo: Pt started on oral antidiabetic- covered per ss.
+Activity: Turned side to side in bed with 2 assists.
+Comfort: Medicated with percocet X2 for pain with effect.
+Incisions: Per carevue.
+A: Stable.
+P: Transfer to [**Hospital Ward Name 3**] 2 to continue cardiac rehab.
+
+",,
+5606,3716,6965,0,2566-07-22 12:48:00 EST,2566-07-22 12:53:00 EST,3209,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+PLS REFER TO NURSES TRANSFER NOTE FROM [**2566-7-21**].
+
+CARDIAC--BP STABLE. REMAINS IN A-FIB WITH RATE 80'S. OCCASIONAL PVC'S. 
+
+RESP--SAO2 ON 2L 97%. LUNGS CLEAR. USING IS TO 1250. STRONG PRODUCTIVE COUGH. 
+
+GI--APPETITE GOOD. PASSING FLATUS. NO STOOL THIS SHIFT.
+
+GU-FOLEY CATH PATENT. GOOD RESPONSE TO LASIX PO. C/O BURNING IN PENIS.
+
+ENDO--BS 206. COVERED WITH SSRI. ALSO GIVEN ORAL ANTIDIABETIC AGENTS.
+
+SKIN--INTACT. ALL INCISIONS CLEAN AND DRY. AMBULATED TO RM 9 AND BACK. DID WELL. 
+
+NEURO--A&O X3. PLEASANT AND COOPERATIVE. MAE SPONT AND TO COMMAND. GAIT AND BALANCE MORE STABLE THAN YESTERDAY.
+
+COPING--WIFE PHONED . SHE HAS BEEN UPDATED AND WILL BE IN LATER THIS WEEK.
+
+A--STABLE AWAITING BED TO TX.
+
+P--TX TO FLOOR WHEN BED AVAIL.
+",,
+5606,3716,6965,0,2566-07-22 12:58:00 EST,2566-07-22 12:58:00 EST,3209,"N",54,"Nursing/Other","ADDENDUM TO NOTE.","
+ADDENDUM TO NOTE.
+PTT 34.1. HEPARIN GTT INCREASED TO 1300 AT 1100. RECHECK PTT AT 1900.
+",,
+5606,3716,,,2566-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2566-7-23**] 11:04 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12604**]
+     Reason: r/o chf                                                     
+     Admitting Diagnosis: CORONARY ARTERY DISEASE/CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with cad, copd admitted with sob                               
+       
+     REASON FOR THIS EXAMINATION:
+      r/o chf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  Coronary artery disease, COPD.  Shortness of breath.  Rule out
+     CHF.
+     
+     FINDINGS:  Standard PA and left lateral views.  Comparison study dated [**2566-7-18**].  There is evidence of fairly marked left ventricular enlargement of the
+     heart.  S/P CABG surgery is noted with sternal sutures and a central row of
+     skin staples as well as cardiovascular clips.  The pulmonary vessels show
+     minimal if any cardiac failure at this time.  There has been marked
+     improvement of lung inflation since the previous study.  A small effusion is
+     noted on the left side and a trace effusion is present on the right side but
+     the effusions have decreased dramatically since the prior study.  Some
+     residual left lower lobe collapse/consolidation is noted.
+     
+     IMPRESSION:
+     1)  Marked improvement in cardiac failure changes noted previously.  Lungs now
+     well inflated.  Residual atelectasis at left base with a small effusion on
+     this side.
+
+",,

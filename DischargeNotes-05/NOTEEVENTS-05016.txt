@@ -1,0 +1,1225 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5016,23492,,,2648-12-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2648-12-24**]              Discharge Date:   [**2648-12-29**]
+ 
+Date of Birth:  [**2566-4-1**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending:[**Last Name (NamePattern1) 4555**] 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization w/ DES in SVG -> RCA, RPDA and RPL 
+branch vessels
+Cardiac catheterization w/ DES to LAD 
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 5636**] is an 82yo M w/ PMH of CAD s/p 2 MIs and CABG in [**2638**] 
+who presented to OSH today after developing ""shakes"" at home 
+while getting dressed. Denies overt chest pain, but states he 
+had chest discomfort [**4-28**], starting in his chest and radiating 
+to his shoulders bilaterally. + diaphoresis, but no jaw pain or 
+SOB. Has not had any prior episodes of angina since his CABG. No 
+n/v. Called his daughter after onset of sx, then called EMS. Was 
+taken by EMS to NWH where he had an EKG performed which showed 
+profound ST elevations in II, III, avF, V3-V6 with reciprocal ST 
+depressions in aVL, aVR, V1, and V2. He received atropine x1 for 
+bradycardia and was then started on integrillin, heparin gtt, 
+plavix and IVF. He was then tx to [**Hospital1 83**] cath lab where he 
+underwent emergent cardiac cath.  
+.  
+ROS: denies f/c/HA/dizziness/lightheadedness/URI 
+sx/cough/GERD/chest 
+pain/palpitations/SOB/n/v/d/constipation/dysuria. + frequent 
+urination. Denies any prior episodes of angina since CABG. Able 
+to do daily activities. States he was walking 1 mi/day prior to 
+weather getting colder.  
+
+ 
+Past Medical History:
+PMH:
+-CAD
+---MI ([**12/2638**], [**1-/2639**])
+---CABG ([**1-/2639**])
+-HTN
+-Hypothyroid
+-Prostate CA
+-Asthma
+-Arthritis
+-colonoscopy [**9-/2643**]
+.
+PSH:
+-thoracic hiatal hernia repair 1980
+-torn left rotator cuff [**6-/2636**]
+-CABG [**1-/2639**]
+-TURP, radiation [**4-/2640**]
+-right iliac artery aneurysm [**6-/2640**]
+-left knee cartilage repair [**12/2641**]
+-right groin exploration, lymph node disection (benign) [**3-/2643**]
+-hemmoroidectomy [**9-/2643**]
+-left total knee replacement [**9-20**]
+-left inguinal hernia repair
+-bilateral carpal tunnel repair
+-right bicep repair
+-gallbladder removal
+-torn right knee cartilage repair
+-right thumb repair
+-bilateral trigger finger repair
+
+ 
+Social History:
+Lives alone in [**Location (un) 1766**]. Is widowed. Has one daugther, no 
+grandchildren. Worked as a plumber for 45 yrs. No tob, EtOH 
+currently. States he quit smoking when he was in school. Was in 
+the Army, spent time overseas in [**Country 974**] in [**2586**]. Has one tattoo 
+from his time in the service. 
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VS - T 98.4, BP 124/75, HR 75, RR 14, sats 100% on 2L O2 by nc  
+Gen: WDWN elderly male, lying flat s/p sheath removal, in NAD.  
+HEENT: Sclera anicteric, MM dry.  
+CV: RR, normal S1, S2. No m/r/g.  
+Lungs: Faint crackles at bases bilaterally, no wheezing/rhonchi. 
+ 
+Abd: Soft, NTND. + BS. No masses, no HSM.  
+Ext: No c/c/e. Cool, dry. PT/DP 2+ on L, dopplerable on R. 
+Sheath/PA cath are in place in R groin. Dsg c/d/i.  
+Skin: No rashes.  
+Neuro: CN II-XII grossly intact.  
+
+ 
+Pertinent Results:
+Labs on admission:
+WBC 8.2, Hgb 10.7*, Hct 31.3*, MCV 89, Plt 196
+PT 13.3*, PTT 35.6*, INR(PT) 1.2*
+Na 139, K 4.6, Cl 104, HCO3 22, BUN 39, Cr 1.9, Glu 108, Mg 1.9
+ABG: pO2-62* pCO2-48* pH-7.36 calHCO3-28 Base XS-0 
+.
+Cardiac enzymes:
+[**2648-12-24**] 01:10PM BLOOD CK(CPK)-225, CK-MB-13*, MB Indx-5.8, 
+TropT-0.09*
+[**2648-12-24**] 05:28PM BLOOD CK(CPK)-5712*, CK-MB->500, TropT->25.00
+[**2648-12-24**] 10:18PM BLOOD CK(CPK)-5145*, CK-MB-438*, MBI-8.5*, 
+TropT->25.00
+[**2648-12-25**] 03:51AM BLOOD CK(CPK)-3906*, CK-MB-263*, MBI-6.7*, 
+TropT->25.00 
+[**2648-12-25**] 06:20PM BLOOD CK(CPK)-2196*, CK-MB-91*, MBI-4.1, 
+TropT-22.6*
+[**2648-12-26**] 06:25AM BLOOD CK(CPK)-1335*, CK-MB-37*, MBI-2.8, 
+TropT-19.25*
+.
+Labs on discharge:
+WBC 5.8, Hct 27.1, MCV 90, Plt 197
+Na 142, K 4.4, Cl 104, HCO3 28, BUN 36, Cr 2.0, Glu 102
+Ca 8.5, Mg 2.1, Ph 3.3
+.
+Imaging:
+ECG [**2648-12-24**]: 
+Sinus rhythm, first degree A-V block, marked left axis deviation 
+
+Acute inferolateral myocardial infarct, possible posterior 
+myocardial infarct 
+ Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+73 218 92 368/393.57 50 -46 86 
+.
+CATH [**2648-12-24**]: 
+1. Three vessel coronary artery disease. 
+2. Patent SVG--> LAD and SVG--> D1. 
+3. Occluded SVG--> RCA. 
+4. Elevated left sided filling pressures. 
+5. Preserved cardiac index/output. 
+6. Acute inferior myocardial infarction, managed by acute ptca. 
+ PTCA of SVG--> RCA, RPDA adn RPL branch vessels. 
+.
+ECHO [**2648-12-25**]: 
+The left atrium is normal in size. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Overall left 
+ventricular systolic function is moderately to severely 
+depressed with global hypokinesis and akinesis of the inferior 
+and infero-lateral walls. No masses or thrombi are seen in the 
+left ventricle. Right ventricular chamber size is normal. There 
+is moderate global right ventricular free wall hypokinesis. The 
+aortic root is mildly dilated. The ascending aorta is mildly 
+dilated. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. Trace aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Trivial mitral regurgitation is seen. 
+The left ventricular inflow pattern suggests impaired 
+relaxation. The tricuspid valve leaflets are mildly thickened. 
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion.  
+.
+CATH [**2648-12-27**]:  
+1. Limited selective coronary angiography demonstrated single 
+vein  
+graft disease. The SVG-RCA demonstrated no angiographically 
+apparent,  
+flow-limiting disease including the native vessel distal to the  
+
+touchdown which was involved with the STEMI. The SVG-diagonal 
+was  
+without angiographically apparent, flow-limiting disease. The 
+SVG-LAD  
+had an ostial 70% lesion.  
+2. Limited resting hemodynamics revealed central hypertension 
+with  
+blood pressure of 182/93 mmHg.  
+3. Successful placement of 3.0 x 18 mm Cypher drug-eluting stent 
+in  
+the ostial SVG-LAD. Final angiography demonstrated no residual 
+stenosis, no angiographically apparent dissection, and normal 
+flow (See PTCA Comments).  
+.  
+FINAL DIAGNOSIS:  
+1. Single vein graft stenosis.  
+2. Central hypertension.  
+3. Successful placement of drug-eluting stent in SVG-LAD.  
+.
+
+ 
+Brief Hospital Course:
+82yo M w/ STEMI now s/p cath with DES to R RCA/PDA. Plan is to 
+go back to cath for stent to LAD today.  
+.  
+# ISCHEMIA: Mr. [**Known patient lastname 5636**] already had elevated cardiac enzymes on 
+presentation to the CCU, with inferior and lateral ST elevations 
+on his EKG. On catheterization, it was found that one of his 
+grafts, the SVG -> distal RCA, had 100% occlusion at distal 
+anastomosis involving both PDA and PL branch bifurcation. A DES 
+was placed in the r-PDA and the r-PL had a balloon angioplasty, 
+with restoration of TIMI 3 flow. He was on intregrillin for 18 
+hours post-cath. Post-cath, he had residual ST elevations in the 
+inferior and lateral leads and persistent chest pain, though it 
+was much improved from the pain he had on admission. His cardiac 
+enzymes peaked on [**2648-12-24**], with CK of 5712, CKMB >500, MBI 8.5, 
+and troponins of >25. He was initially on a nitro gtt, but that 
+was weaned off as his blood pressure was low. He had no change 
+in his pain off the nitro gtt. His chest pain resolved on its 
+own on HD #[**Street Address 5637**] elevations still persisted. He was 
+started on ASA, plavix, bblocker, ACE-i, and a statin. Based on 
+the results of his first catheterization, it was decided to 
+repeat a catheterization on [**2648-12-27**] and to stent his LAD graft 
+(which had a 70% ostial stenosis). He received mucomyst and 
+bicarb prior to his second catheterization for his chronic renal 
+insufficiency (Cr was 2.2). He tolerated the second 
+catheterization well. There were no groin complications from 
+either cath and he was able to be discharged home, with close 
+follow-up with his cardiologist, Dr. [**Last Name (STitle) 5638**]. 
+.  
+# PUMP: Mr. [**Known patient lastname 5636**] had an ECHO on [**2648-12-25**] which showed his EF to be 
+30%, down from LVEF of >55% in 4/05 (on an ECHO from his PCP's 
+office). The ECHO showed that he has akinetic inferior and 
+inferolateral walls and global LV and RV hypokinesis. 
+Immediately after his MI, he had a lot of ectopy, including 
+multiple runs of NSVT (as long 20 beats) and AIVR. However, the 
+ectopy improved over time and he remained mostly in NSR 
+throughout the remainder of his hospital stay. A discussion 
+about an AICD was deferred as his ectopy improved and it was 
+felt that his EF may improve with resolution of his acute event. 
+He received IVF post-catheterization and tolerated it well, 
+without any evidence of volume overload. His BUN and Cr actually 
+rose slightly, to 40/2.2, which may have been prerenal as he was 
+not taking in good PO's. He was again given post-cath hydration 
+after his second catheterization and his Cr improved to 2.0. He 
+was started on an ACE-inhibitor and bblocker for his ACS as well 
+as his heart failure and tolerated them both well, without any 
+side effects. They were changed to once-daily dosing prior to 
+discharge. 
+.  
+# RHYTHM: He was monitored on telemetry throughout his entire 
+hospital course. Immediately after his first catheterization 
+(which was peri-MI), he had a significant amount of ectopy, with 
+up to 20 beats of VT and multiple episodes of AIVR, but the 
+ectopy improved over time. He remained in NSR for the remainder 
+of his hospital course.   
+.  
+# DELIRIUM: Mr. [**Known patient lastname 5636**] [**Last Name (NamePattern1) 5639**] at night. He was given zydis SL, 
+ativan and ambien in attempts to help him [**Doctor Last Name 314**], but none 
+worked. He was eventually given seroquel 25mg PO QHS which 
+helped him [**Doctor Last Name 314**] and prevented him from sundowning. 
+.  
+# ASTHMA: Mr. [**Known patient lastname 5636**] was diagnosed w/ asthma several years ago and 
+states that he uses albuterol INH q6 at home. He was continued 
+on that regimen here, despite the fact that he had no wheezing 
+or shortness of breath. He was able to maintain stable O2 sats 
+on RA at rest and while ambulating prior to discharge. 
+.  
+# CRI: Mr. [**Known patient lastname 5636**] has chronic renal insufficiency, with a baseline 
+Cr of 1.8 to 2.2. His Cr on admission was 1.9 and remained 
+within his normal range throughout his hospital stay. He was 
+given post-cath hydration after both procedures as well as 
+mucomyst and IVF with bicarb prior to his second 
+catheterization. His Cr on discharge was 2.0. 
+.  
+# BLOOD in STOOL: He was seen to have stool streaked w/ blood on 
+HD #1. His Hct was monitored and remained stable despite 
+receiving IVF. It was felt that the blood-streaked stools were 
+likely due to hemorrhoids in the setting of anti-platelet 
+therapy. He had no further episodes throughout his stay. 
+.  
+# FEN: He was given a cardiac, heart healthy diet. He received 
+IVF after both catheterizations, as well as IVF with bicarb 
+prior to his 2nd procedure. His electrolytes were checked daily 
+and were repleted prn to keep K >4 and Mg >2.  
+.  
+# ACCESS: Peripheral IV x2 
+.  
+# PPX: Heparin SC. PPI. Bowel regimen.  
+.  
+# CODE: FULL  
+.  
+# DISPO: To home.
+.  
+# F/U: PCP is [**First Name8 (NamePattern2) 2545**] [**Last Name (NamePattern1) 5638**]  
+
+ 
+Medications on Admission:
+-synthroid 75 mcg daily  
+-metoprolol tartrate 25 mg twice daily  
+-aspirin 325 mg daily  
+-norvasc 5 mg daily  
+-nitro-dur 7.5 mg patch/24 hr  
+-astelin nasal spray 2 sprays/nostril twice daily  
+-prilosec 20 mg daily  
+-albuterol 2 puffs 4x daily  
+-ditropan 1 tab PO QD  
+-citracel TID  
+-nitro tabs prn  
+-HCTZ 12.5mg PO QD
+-lipitor 10mg PO QD  
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*90 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+4. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*2*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+6. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours).  
+7. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Azelastine 137 mcg Aerosol, Spray Sig: [**11-20**] sprays Nasal BID 
+(2 times a day).  
+9. Ditropan 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Acute inferior STEMI 
+.
+Secondary diagnosis:
+Chronic renal insufficiency
+HTN
+Hypothyroid
+h/o prostate CA
+Asthma
+Arthritis
+
+ 
+Discharge Condition:
+Good. Patient is afebrile, hemodynamically stable with o2 sats > 
+95% on room air.
+
+ 
+Discharge Instructions:
+1. Please call your PCP or go to the nearest ER if [**Doctor First Name **] develop 
+any of the following symptoms: fever, chills, chest pain, 
+pressure or discomfort, shortness of breath, difficulty 
+breathing, nausea, vomiting, leg swelling or numbness, or any 
+other worrisome symptoms.
+. 
+2. Please take all your medications. It is very important that 
+[**Doctor First Name **] take your aspirin and plavix EVERY DAY. If [**Doctor First Name **] find [**Doctor First Name **] can 
+not take these medications for any reason, [**Doctor First Name **] must call your 
+doctor immediately. These medications help keep your stents 
+open. 
+.
+3. [**Doctor First Name 10**] will no longer be taking the following medications: 
+nitro-dur, norvasc, and hydrochlorothiazide. 
+.
+4. Please follow-up with Dr. [**Last Name (STitle) 5638**] as directed below. 
+.
+5. [**Doctor First Name 10**] will have [**Hospital1 1090**] VNA services visit [**Doctor First Name **] at your house to 
+help see what additional needs may be needed during your 
+recovery from your heart attack.
+ 
+Followup Instructions:
+1. Please follow up with Dr. [**Last Name (STitle) 5638**] on [**2649-1-15**] at 
+1:45pm. Please call his office if [**Doctor First Name **] have any questions or 
+concerns. His number is [**Telephone/Fax (1) 5640**]. 
+.
+2. Please follow up with your primary care doctor within one to 
+two weeks for follow up. 
+
+ 
+                             [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 846**] [**Name8 (MD) **] MD [**MD Number 1080**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5641**] MD [**MD Number 5642**] [**2648-12-29**] @ 2120
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: FRI [**2649-1-5**] 7:05 PM
+(End of Report)
+
+
+",,
+5016,23492,6221,0,2648-12-24 17:47:00 EST,2648-12-24 18:15:00 EST,2396,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+see FHP    Pt allergic to morphine!
+
+S- "" I had terrible chest pain this morning!""
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR with one 8 beat run VT- HR 74-75- B/P 112-136/75-88- MAPs 91-96- started on lopressor 25mg @ 1630- Pt to receive captopril if B/P tolerates, then to start on Ntg gtt- con't to have chest pain post cath [**1-26**]- states he feels so much better now than this morning- PA line R groin- PAS 32-36- PAD 14-16- R arterial sheath D/C'd- no hematoma or oozing noted- (+) DP & PT pulses by doppler- repeat labs pending- integrelin gtt infusing @ 1mcq/kg/min. 
+
+resp- In O2 4L via NC- ABG on 2L O2 7.36-48-62-28-90%, so O2 increased to 4L- lung sounds diminished @ the bases- SpO2 96-99%.
+
+gi- abd soft (+) bowel sounds- taking sips of clear liquids without incident- last BM was this am.
+
+gu- voiding clear yellow colored urine qs via condom cath- BUN 39 Crea 1.9- hydrating IV 1/2NS @ 100cc/hr X 2500cc- 1st liter up@ 1515.
+
+neuro- A&O X3- moving all extremities- pleasant & cooperative- follows command.
+
+A- (+) I/L MI S/P cardiac cath stent to R distal PDA
+
+P- monitor vs, lung sounds, I&O and labs- con't integrelin gtt @ 1mcq/kg/min- give ACE & if B/P tolerates, start NTG gtt- follow U/O- offer emotional support to Pt & daughter- keep them updated on plan of care.
+
+
+
+
+",,
+5016,23492,6221,0,2648-12-25 03:31:00 EST,2648-12-25 03:54:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: REMAINS IN NSR WITH HR 64-82. HAS SHORT RUNS VT/ AIVR. HOUSE STAFF AWARE. PT IS ASYMPTOMATIC WITH RUNS. ONCE K+ AND MAG REPLETED RUNS DECREASED IN FREQ. K+ REPLETED X2. GIVEN MAG SULFATE 2GM. REPEAT MAG 2.5. CON'T TO C/O [**1-26**] RESIDUAL PAIN. STATES PAIN IS MUCH BETTER THAN THIS AM PRIOR TO ADM. REMAINS ON NTG 0.63MCG/KG/MIN. INTEGRILIN INFUSING @ 1 MCG/KG/MIN INTEGRILIN TO D/C @ 0700. CK 5712,5145. MB > 500,438 PAD 13-16.  MAPS' 80-90 CON'T ON LOPRESSOR AS ORDERED. PT HAS ALLERGY TO MS04. TAKES DEMEROL FOR PAIN
+
+RESP: COMFORTABLE ON O2 @ 4L. DENIES SOB. BS CL/CRACKLES AT BASES. CON'T ON ALBUTEROL INHALERS. PT WITH HX ASTHMA. RR-16-20
+
+GI: TOL MEDS WITH SIPS OF CL LIQ. ABD SOFT NON TENDER. C/O UNABLE TO MOVE BOWELS. SENNA GIVEN. HAD BM X1 BROWN FORMED WITH RED BLOOD STREAKS AND 1 SM CLOTT NOTED. DR [**Last Name (STitle) **] [**Name (STitle) 714**].
+
+GU: RECEIVED LASIX 20 MG X1 WITH ADEQUATE RESPONCE. GOAL IS 500 NEG. INITIALLY HAD CONDOM CATH, BUT PT FEELING UNCOMFORTABLE, UNABLE TO EMPTY BLADDER COMPLETLY. FOLEY INSERTED WITH RELIEF.
+
+SKIN: R GROIN WITH SM OOZ, NO HEMATOMA NOTED. BILAT FT WARM. PULSES INITIALLY BY DOPPLER NOW 2+ .
+
+NEURO; A/O X3 FOLLOWS COMMANDS, ANXIOUS AT TIMES. MAE. GIVEN ATIVAN 0.5MG IV ( PT'S FAMILY STATES HE TAKLES THIS AT HOME) AFTER ATIVAN PT RESTLESS UNABLE TO FALL ASLEEP, PICKING AT BED SHEETS AND LINES. ATTEMPTED X1 TO GET OOB. HE REMAINS A/O X3. AMBIEN ALSO GIVEN WITH NO EFFECT. MD [**First Name (Titles) **] [**Last Name (Titles) **]. ? [**Doctor Last Name **] DEPRIVATION ? ICU PSYCHOSIS.
+
+ID: TEMP MAX 100.1
+
+IVF: 1/2 NS @ 100CC/HR X2.5 L INFUSING
+
+SOCIAL: DAUGHTER CALLED FOR UPDATE POC REVIEWED WITH DAUGHTER
+
+A/P; 82 YR OLD WITH INVOLVED PMH INCLUDING MI'S X2 CABG X3V 1996. [**12-24**] DEVELOPED CP RAD TO BOTH SHOULDERS. S/P INF LAT MI [**12-24**] CATH PTCA/ STENT RCA DISTAL PDA. S/P PA LINE FOR CHF. WEDGE IN LAB 21. FOLLOW LYTES. INTEGRILIN TO D/C 0700. CON'T PER NSG JUDGEMENT
+",,
+5016,23492,6221,0,2648-12-25 10:33:00 EST,2648-12-25 10:40:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: ""When can I  get up.""
+
+O: Please see flow sheet for objective data. Tele sinus 50's-60's. Given 25mg lopressor early this am. Captopril held d/t SBP in 90's after lasix overnight. ECG with persistent ST ^ since PCI. Pt is painfree. Inegrilin dc'd at 7am.
+
+Resp: Lungs rales R base. O2 sats 98- 95%. Denies shortness of breath.
+
+Neuro: Pt is alert and oriented. Some short term memory deficit. Pt does live alone but daughter lives nearby.
+
+GU/GI: Pt tolerating diet well this am. Abd is soft with bowel sounds present. Several BM's this am after senekot overnight. Daughter states that pt takes metamucil at home since XRT to prostate. Creat 1.9 this am. cath fluid stopped after 2 lters. Foley draining CYU.
+
+A&P: 82 yo s/p IL MI with DES to VG to RCA. Titrate meds as tolerated. Monitor creat. Increase activity as tolerated. PCI to LAD prior to discharge. Transferr to floor when bed available.
+
+A&P
+",,
+5016,,,,2649-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-1-4**] 8:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7565**]
+     Reason: evidence pulm edema? consolidation?                         
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with rales RLL and DOE                                          
+     REASON FOR THIS EXAMINATION:
+      evidence pulm edema? consolidation?                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right lower lobe rales and dyspnea on exertion.
+     
+     COMPARISON:  No previous studies.
+     
+     CHEST:  PA and lateral views.  The heart has a left ventricular configuration.
+     Evidence of CABG is noted.  The aorta is tortuous.  There is no pulmonary
+     edema.  The left hemidiaphragm is elevated.  There is no pleural effusion. The
+     lungs are clear.  The imaged bones appear unremarkable.  Surgical clips are
+     noted at the gastroesophageal junction, in the right upper quadrant of the
+     abdomen, and in the central mid/lower abdomen.
+     
+     IMPRESSION:  Elevation of the left hemidiaphragm of uncertain significance.
+                                                                           DFDkq
+
+",,
+5016,,,,2649-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-1-20**] 8:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7566**]
+     Reason: please eval for acute cardiopulm process                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with CP, SOB                                                    
+     REASON FOR THIS EXAMINATION:
+      please eval for acute cardiopulm process                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old man with chest pain, shortness of breath.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     COMPARISON:  Chest radiograph dated [**2649-1-4**].
+     
+     FINDINGS:  The patient is status post CABG with median sternotomy.  The
+     cardiac and mediastinal contours are unchanged.  There is no consolidation or
+     effusion.
+     
+     IMPRESSION:  Unchanged appearance of the chest with CABG and calcified
+     tortuous aorta.  No new consolidation is seen.
+                                                                           
+
+",,
+5016,,,,2649-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-1-23**] 3:46 PM
+     FEMORAL VASCULAR US RIGHT                                       Clip # [**Clip Number (Radiology) 7567**]
+     Reason: BRUIT ? R/O THROMBUS
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with +bruit post-cath                                           
+     REASON FOR THIS EXAMINATION:
+      ? r/o thrombus                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     DUPLEX ULTRASOUND OF GROIN
+     
+     INDICATION:  Patient is status post catheterization.  Rule out thrombus or
+     other abnormality.
+     
+     TECHNIQUE:  Grayscale, color flow, and pulsed-wave Doppler insonation of the
+     groin was performed.
+     
+     COMPARISON:  No examination available for comparison.
+     
+     REPORT:
+     
+     No focal abnormality is identified within the groin.  There is normal color
+     flow and pulsed-wave Doppler return from both femoral arteries and veins
+     without evidence of pseudoaneurysm, without evidence of hematoma, and without
+     evidence of AV fistula.  Note is made of significant arteriosclerosis within
+     the common femoral artery.
+     
+     CONCLUSION:  Arteriosclerosis.  No other abnormality is seen.
+     
+
+",,
+5016,,,,2649-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-1-31**] 4:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7568**]
+     Reason: assess for failure, infiltrate                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with CP, SOB                                                   
+       
+     REASON FOR THIS EXAMINATION:
+      assess for failure, infiltrate                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain and shortness of breath.
+     
+     COMPARISON:  Radiograph dated [**2649-1-20**].
+     
+     AP PORTABLE UPRIGHT VIEW OF THE CHEST:  Patient is status post CABG.  The view
+     is lordotic.  Right costophrenic angle is not imaged.  Cardiac silhouette
+     appears slightly larger compared to the previous study, perhaps at least in
+     part due to technique.  Aorto is tortuous and partially calcified.  Left
+     costophrenic angle is sharp.  Lungs are grossly clear.  No evidence of
+     pneumothorax.  Severe degenerative change of the left humeral joint is again
+     demonstrated.
+     
+     IMPRESSION:  Cardiac silhouette appears slightly larger compared to the
+     previous exam, at least perhaps in part due to technique.  No overt CHF or
+     consolidation. Note is made of a second contour near the ascending aortic
+     contour that may represent overlying mediastinal fat.
+
+",,
+5016,,,,2649-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-1-31**] 7:19 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7569**]
+     Reason: bleed, infarct                                              
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with CP, ?sync vs seizure                                       
+     REASON FOR THIS EXAMINATION:
+      bleed, infarct                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain with possible syncope versus seizure.  Evaluate for
+     hemorrhage.
+     
+     No prior exams are available for comparison.
+     
+     NON-CONTRAST HEAD CT SCAN:  There is no evidence of acute intracranial
+     hemorrhage or shift of the normally midline structures.  The ventricles and
+     sulci are prominent, consistent with involutional change.  There is
+     hypodensity and encephalomalacia of the right cerebellar hemisphere,
+     consistent with old infarction.  There is hypodensity within the white matter
+     of the right parietal lobe, which may represent chronic microvascular
+     infarction.  The visualized paranasal sinuses and mastoid air cells are clear.
+     Osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:
+     1.  No evidence of acute intracranial hemorrhage.
+     2.  Chronic infarct of the right cerebellar hemisphere and evidence of chronic
+     microvascular infarction.
+     
+     MRI has already been obtained.
+
+",,
+5016,,,,2649-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-2-1**] 1:22 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 7573**]
+     MR CONTRAST GADOLIN
+     Reason: Please evaluate for solid lesion, ? CVA or seizure focus.   
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: MAGNEVIST Amt: 12
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o prostate cancer p/w LUE shaking and syncopal episode.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for solid lesion, ? CVA or seizure focus.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  History of prostate cancer, presenting with left upper extremity
+     shaking and syncopal episode.  Evaluate for solid lesion, infarct, or seizure
+     focus.
+     
+     COMPARISON:  Non-contrast head CT of one day previous.  No more remote
+     examinations are available for comparison.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were
+     performed, with diffusion-weighted images.  Post-contrast T1 axial and coronal
+     images were obtained.
+     
+     MRI OF THE BRAIN WITHOUT AND WITH CONTRAST:  There is elevated T2 and FLAIR
+     signal within the right cerebellum and encephalomalacia, consistent with an
+     old infarction. There is elevated T2 and FLAIR signal within the right
+     parietal lobe as well, involving cortical and white matter tissue. There is
+     minimally restricted diffusion at this locale.  There is a small somewhat ill-
+     defined area of gadolinium enhancement within the right parietal white matter
+     at the medial aspect of increased T2 and FLAIR signal. These findings in sum
+     suggest subacute infarction within the right parietal lobe, though underlying
+     neoplasm cannot be entirely excluded.
+        There is no hydrocephalus. There are no areas of abnormal susceptibility
+     within the brain.
+     
+     MR ANGIOGRAPHY OF THE CIRCLE OF [**Location (un) **]
+     
+     TECHNIQUE:  3D time-of-flight imaging of the circle of [**Location (un) 405**] with multiplanar
+     reconstructions.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]:  There is diminished signal in the distal few cm
+     of the right vertebral artery, just before this vessel joins with the left
+     vertebral to form the basilar artery.  Flow is depicted within the right
+     vertebral artery at approximately the C2 level.  Diminished signal more
+     distally may represent slow flow versus occlusion, as 3D time-of-flight
+     imaging can be insensitive to slow flow.  Otherwise, the major tributaries of
+     the circle of [**Location (un) 405**] are patent, without areas of significant stenosis or
+     aneurysmal dilation.  No sign of arteriovenous malformation is apparent.
+     
+     IMPRESSION:
+     1. Probable subacute infarction within the right parietal lobe as described
+     above. Given a small region of gadolinium enhancement, neoplasm cannot be
+                                                                 (Over)
+
+     DATE: [**2649-2-1**] 1:22 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 7573**]
+     MR CONTRAST GADOLIN
+     Reason: Please evaluate for solid lesion, ? CVA or seizure focus.   
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: MAGNEVIST Amt: 12
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     entirely excluded, though this would be a less likely consideration, given
+     that brain metastases from prostate cancer are extremely unusual.
+     2. Old infarction within the right cerebellar hemisphere.
+     3. Diminished signal within the distal few cm of the right vertebral artery,
+     suggesting slow flow versus occlusion at this locale.  Please see the above
+     notes.
+     
+     Preliminary findings were discussed with Dr. [**First Name (STitle) 7574**] on the morning of [**2649-2-1**].
+     The revised findings regarding right parietal lobe pathology were discussed
+     with Dr. [**Last Name (STitle) **]. [**Doctor Last Name 7574**] on the morning of [**2649-2-2**].
+
+",,
+5016,,,,2649-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-2-1**] 7:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7575**]
+     Reason: rule out acute pathology                                    
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old man with CP, SOB with asymmetic breath soundsz                    
+                                      
+     REASON FOR THIS EXAMINATION:
+      rule out acute pathology                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain and shortness of breath with asymmetric breath sounds.
+     
+     COMPARISON:  [**2649-1-31**].
+     
+     FINDINGS:  The patient is status post sternotomy.  Surgical clips are also
+     seen within the abdomen and at the hiatus.  The heart size and mediastinal
+     contours are unchanged.  Healing left posterior rib fractures are again noted.
+     The lungs are grossly clear.  The extreme left lung base has been excluded
+     from the exam.  Lumbar scoliosis convex to the left is again seen.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+5016,,,,2649-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     LUNG SCAN                                                       Clip # [**Clip Number (Radiology) 7570**]
+     Reason: 82 Y/O MAN W/ CHEST PAIN, CATH 7 DAYS AGO, SYNCOPE R/O PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Chest pain, and syncope, evaluate for pulmonary embolism. 
+      
+     DECISION:   
+      
+     INTERPRETATION: 
+     Ventilation images obtained with Tc-99m aerosol in 8 views demonstrate central 
+     areas of aerosol clumping consistent with underlying COPD. 
+      
+     Perfusion images in the same 8 views show tracer distribution similar to 
+     ventilation images.  No mismatches identified. 
+      
+     Chest x-ray shows no consolidation. 
+      
+     The above findings are consistent with a low probability of pulmonary embolism. 
+      
+     IMPRESSION: Low probability of pulmonary embolism.  Findings suggestive of
+     underlying COPD. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 7571**] [**Name8 (MD) 1278**], M.D.
+             [**First Name11 (Name Pattern1) 8**] [**Last Name (NamePattern1) 9**], M.D.        Approved: MON [**2649-2-5**] 3:45 PM
+
+
+             Date Mailed: [**2649-2-6**]                     West [**Medical Record Number 7572**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5016,,,,2649-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-2-1**] 1:22 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 7573**]
+     MR CONTRAST GADOLIN
+     Reason: Please evaluate for solid lesion, ? CVA or seizure focus.   
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: MAGNEVIST Amt: 12
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o prostate cancer p/w LUE shaking and syncopal episode.  
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for solid lesion, ? CVA or seizure focus.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  History of prostate cancer, presenting with left upper extremity
+     shaking and syncopal episode.  Evaluate for solid lesion, infarct, or seizure
+     focus.
+     
+     COMPARISON:  Non-contrast head CT of one day previous.  No more remote
+     examinations are available for comparison.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were
+     performed, with diffusion-weighted images.  Post-contrast T1 axial and coronal
+     images were obtained.
+     
+     MRI OF THE BRAIN WITHOUT AND WITH CONTRAST:  There is elevated T2 and FLAIR
+     signal within the right cerebellum and encephalomalacia, consistent with an
+     old infarction. There is elevated T2 and FLAIR signal within the right
+     parietal lobe as well, involving cortical and white matter tissue. There is
+     minimally restricted diffusion at this locale.  There is a small somewhat ill-
+     defined area of gadolinium enhancement within the right parietal white matter
+     at the medial aspect of increased T2 and FLAIR signal. These findings in sum
+     suggest subacute infarction within the right parietal lobe, though underlying
+     neoplasm cannot be entirely excluded.
+        There is no hydrocephalus. There are no areas of abnormal susceptibility
+     within the brain.
+     
+     MR ANGIOGRAPHY OF THE CIRCLE OF [**Location (un) **]
+     
+     TECHNIQUE:  3D time-of-flight imaging of the circle of [**Location (un) 405**] with multiplanar
+     reconstructions.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]:  There is diminished signal in the distal few cm
+     of the right vertebral artery, just before this vessel joins with the left
+     vertebral to form the basilar artery.  Flow is depicted within the right
+     vertebral artery at approximately the C2 level.  Diminished signal more
+     distally may represent slow flow versus occlusion, as 3D time-of-flight
+     imaging can be insensitive to slow flow.  Otherwise, the major tributaries of
+     the circle of [**Location (un) 405**] are patent, without areas of significant stenosis or
+     aneurysmal dilation.  No sign of arteriovenous malformation is apparent.
+     
+     IMPRESSION:
+     1. Probable subacute infarction within the right parietal lobe as described
+     above. Given a small region of gadolinium enhancement, neoplasm cannot be
+                                                                 (Over)
+
+     DATE: [**2649-2-1**] 1:22 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 7573**]
+     MR CONTRAST GADOLIN
+     Reason: Please evaluate for solid lesion, ? CVA or seizure focus.   
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: MAGNEVIST Amt: 12
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     entirely excluded, though this would be a less likely consideration, given
+     that brain metastases from prostate cancer are extremely unusual.
+     2. Old infarction within the right cerebellar hemisphere.
+     3. Diminished signal within the distal few cm of the right vertebral artery,
+     suggesting slow flow versus occlusion at this locale.  Please see the above
+     notes.
+     
+     Preliminary findings were discussed with Dr. [**First Name (STitle) 7574**] on the morning of [**2649-2-1**].
+     The revised findings regarding right parietal lobe pathology were discussed
+     with Dr. [**Last Name (STitle) **]. [**Doctor Last Name 7574**] on the morning of [**2649-2-2**].
+
+",,
+5016,,,,2649-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Patient Name: [**Known patient firstname 7577**] [**Known patient lastname 7578**]
+     
+     MR#: [**Medical Record Number 7579**]
+     Study Date: [**2649-2-27**]
+     Indication: 82-year-old man with know coronary artery disease, referred for
+     evaluation of left ventricular function and possible LV scar.
+     Requesting Physician: [**Last Name (NamePattern4) 337**]. [**First Name8 (NamePattern2) 3743**] [**Name (STitle) 5375**]
+     Height (in): 64
+     Weight (lbs): 126
+     Body Surface Area (m2): 1.61
+     
+     Hemodynamic Measurements
+     Measurement                                       Result
+     Systemic Blood Pressure (mmHg)                    154/73
+     Heart Rate (bpm)                                    68
+     
+     
+     CMR Measurements
+     Measurement                                       Result         Male Normal
+                                                                         Range
+     LV End-Diastolic Dimension (mm)                     49
+     LV End-Diastolic Dimension Index (mm/m2)            30              <31
+     LV End-Systolic Dimension (mm)                      40
+     LV End-Diastolic Volume (ml)                       135
+     LV End-Diastolic Volume Index (ml/m2)              *84              <81
+     LV End-Systolic Volume (ml)                         76
+     LV Stroke Volume (ml)                               59
+     LV Ejection Fraction (%)                          **44              >59
+     LV Anteroseptal Wall Thickness (mm)                *13              <12
+     LV Inferolateral Wall Thickness (mm)                 9              <12
+     LV Mass (g)                                        140
+     LV infarct mass (g)                                 30.2              0
+     % LV mass that is infarct (%)                     **17                0
+     LV Mass Index (g/m2)                                87               <96
+     LV Cardiac Output (l/min)                            4.1
+     LV Cardiac Index (l/min/m2)                          2.5            >2.0
+     
+     RV End-Diastolic Volume (ml)                       95
+     RV End-Diastolic Volume Index (ml/m2)              59               <114
+     RV End-Systolic Volume (ml)                        51
+     RV Stroke Volume (ml)                              44
+     RV Ejection Fraction (%)                          *46               >46
+     
+     QFlow Total Forward Left Sided Stroke Volume (QS, ml)
+                                                        69
+     QFlow Net Forward Left Sided Stroke Volume (QS net, ml)
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+                                                        67
+     QFlow Total Forward Right Sided Stroke Volume (QP, ml)
+                                                        64
+     QFlow Net Forward Right Sided Stroke Volume (Qp net, ml)
+                                                        62
+     QP/QS                                               1.0          0.8 - 1.2
+     QFlow Cardiac Output (l/min)                        4.6
+     QFlow Cardiac Index (l/min/m2)                      2.8            >2.0
+     QFlow Aortic Valve Regurgitant Volume (ml)          2
+     QFlow Aortic Valve Regurgitant Fraction (%)         3              <5
+     Mitral Valve Regurgitant Volume (ml)                0
+     Mitral Valve Regurgitant Fraction (%)               0              <5
+     Effective Forward LVEF (%)                       **44              >59
+     Pulmonic Valve Regurgitant Volume (ml)              2
+     Pulmonic Valve Regurgitant Fraction (%)             3               <5
+     Tricuspid Valve Regurgitant Volume (ml)             0
+     Tricuspid Valve Regurgitant Fraction (%)            0               <5
+     
+     Aortic Valve Area (2-D) (cm2)                       3.8            >2.0
+     Aortic Valve Area Index (cm2/m2)                    2.4
+     
+     Ascending Aorta diameter (mm)                     *39               <35
+     Transverse Aorta diameter (mm)                     25               <31
+     Descending Aorta diameter (mm)                     29               <25
+     Main Pulmonary Artery diameter (mm)                27               <30
+     Left Atrium (Parasternal Long Axis) (mm)          *44               <40
+     Pericardial Thickness (mm)                          2.0             <4
+     Coronary Sinus diameter (mm)                       10               <15
+     
+     * = Mildly abnormal, ** =moderately abnormal, *** = severely abnormal
+     CMR Technical Information:
+     1) Structure: Axial dual-inversion T1-weighted images of the myocardium were
+     obtained without spectral fat saturation pre-pulses.
+     2) Function: Breath-hold cine SSFP images were acquired in the left
+     ventricular 2-chamber, 4-chamber, horizontal long axis, contiguous short axis
+     orientations, sagittal and coronal orientations of the left ventricular
+     outflow tract, and aortic valve short axis orientations. Flow: Phase-contrast
+     cine images were obtained transverse to the aorta (axial plane) and main
+     pulmonary artery (oblique plane).
+     3) Viability/Fibrosis: Delayed enhancement (DE) images were obtained using a
+     segmented inversion-recovery TFE acquisition. Short-axis, four chamber and
+     two-chamber long-axis images were obtained 15 minutes after injection of a
+     total of 0.2 mmol/kg gadopentetate dimeglumine (23 ml Magnevist  solution)
+     with spectral fat saturation pre-pulses.
+     
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Findings:
+     Structure and Function
+     There was normal epicardial fat distribution. The myocardium appeared to have
+     homogenous signal intensity without evidence of myocardial fatty infiltration.
+      The pericardium appeared normal in thickness.  There were no pericardial or
+     pleural effusions. The origins of the left main and right coronary arteries
+     were identified in their customary positions.  Image quality was inadequate to
+     accurately assess bypass graft patency.  There was diffuse atheroma noted in
+     the aorta.  The diameters of the aortic arch and descending thoracic aorta
+     were normal.  The diameter of the ascending aorta was mildly dilated. The main
+     pulmonary artery diameter was normal.  The left atrial AP dimension was mildly
+     dilated.   The coronary sinus diameter was normal.
+     The left ventricular end-diastolic dimension index was normal.  The end-
+     diastolic volume index was mildly dilated.  The calculated left ventricular
+     ejection fraction was moderately depressed at 44% with abnormal regional
+     function.  Regional wall motion abnormalities included akinesis of the
+     inferior and inferolateral LV walls. The left ventricular mass index was
+     normal.  The right ventricular end-diastolic volume index was normal.  The
+     calculated right ventricular ejection fraction was mildly depressed at 46%,
+     with mild global hypokinesis.
+     The aortic valve was trileaflet with normal valve area.
+     The pericardial thickness was normal.
+     Quantitative Flow
+     There was no significant intra-cardiac shunt.  Aortic flow demonstrated no
+     significant aortic regurgitation.  The calculated mitral valve regurgitant
+     fraction was consistent with no significant mitral regurgitation.   The
+     resultant effective forward LVEF was moderately depressed at 44%. The right
+     ventricular stroke volume and pulmonic flow demonstrated no significant
+     pulmonic or tricuspid regurgitation.
+     
+     Viability
+      The inferior and inferolateral walls showed complete, transmural delayed
+     hyperenhancement, consistent with the presence of prior myocardial
+     scarring/infarction.  The hyperenhanced area was calculated to weigh
+     approximately 30 grams.  This represents 17% of the LV myocardial mass, which
+     corresponds to a moderate sized infarction. Given the transmural
+     hyperenhancement in these walls, there is a very low likelihood of functional
+     recovery after revascularization of these segments (no viability).
+     
+     Impression:
+     1. Mildly dilated left ventricular cavity size with normal regional left
+     ventricular systolic function.  The LVEF was moderately depressed at 44%. MR
+     evidence of prior inferior and infero-lateral myocardial scarring/infarction,
+     without viability. The infarct size was moderate at 17% of the total LV mass.
+     2. Normal right ventricular cavity size. The RVEF was mildly depressed at 46%.
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3. No significant aortic, mitral, pulmonic or tricuspid regurgitation
+     4. The diameters of the aortic arch and descending thoracic aorta were normal.
+      The diameter of the ascending aorta was mildly dilated.  The main pulmonary
+     artery diameter was normal.
+     5. Mild left atrial enlargement
+     6. Normal coronary artery origins with no evidence of anomalous coronary
+     arteries.  Image quality was inadequate to accurately assess bypass graft
+     patency.
+     The images were reviewed by Drs. [**First Name4 (NamePattern1) 3097**] [**Last Name (NamePattern1) 3098**], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2947**], [**First Name8 (NamePattern2) 3095**] [**Last Name (LF) 3096**], [**First Name4 (NamePattern1) 3099**]
+     [**Last Name (NamePattern1) 3100**], and [**First Name8 (NamePattern2) 5756**] [**Last Name (NamePattern1) 3918**].
+     
+
+",,
+5016,,,,2649-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Patient Name: [**Known patient firstname 7577**] [**Known patient lastname 7578**]
+     
+     MR#: [**Medical Record Number 7579**]
+     Study Date: [**2649-2-27**]
+     Indication: 82-year-old man with know coronary artery disease, referred for
+     evaluation of left ventricular function and possible LV scar.
+     Requesting Physician: [**Last Name (NamePattern4) 337**]. [**First Name8 (NamePattern2) 3743**] [**Name (STitle) 5375**]
+     Height (in): 64
+     Weight (lbs): 126
+     Body Surface Area (m2): 1.61
+     
+     Hemodynamic Measurements
+     Measurement                                       Result
+     Systemic Blood Pressure (mmHg)                    154/73
+     Heart Rate (bpm)                                    68
+     
+     
+     CMR Measurements
+     Measurement                                       Result         Male Normal
+                                                                         Range
+     LV End-Diastolic Dimension (mm)                     49
+     LV End-Diastolic Dimension Index (mm/m2)            30              <31
+     LV End-Systolic Dimension (mm)                      40
+     LV End-Diastolic Volume (ml)                       135
+     LV End-Diastolic Volume Index (ml/m2)              *84              <81
+     LV End-Systolic Volume (ml)                         76
+     LV Stroke Volume (ml)                               59
+     LV Ejection Fraction (%)                          **44              >59
+     LV Anteroseptal Wall Thickness (mm)                *13              <12
+     LV Inferolateral Wall Thickness (mm)                 9              <12
+     LV Mass (g)                                        140
+     LV infarct mass (g)                                 30.2              0
+     % LV mass that is infarct (%)                     **17                0
+     LV Mass Index (g/m2)                                87               <96
+     LV Cardiac Output (l/min)                            4.1
+     LV Cardiac Index (l/min/m2)                          2.5            >2.0
+     
+     RV End-Diastolic Volume (ml)                       95
+     RV End-Diastolic Volume Index (ml/m2)              59               <114
+     RV End-Systolic Volume (ml)                        51
+     RV Stroke Volume (ml)                              44
+     RV Ejection Fraction (%)                          *46               >46
+     
+     QFlow Total Forward Left Sided Stroke Volume (QS, ml)
+                                                        69
+     QFlow Net Forward Left Sided Stroke Volume (QS net, ml)
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+                                                        67
+     QFlow Total Forward Right Sided Stroke Volume (QP, ml)
+                                                        64
+     QFlow Net Forward Right Sided Stroke Volume (Qp net, ml)
+                                                        62
+     QP/QS                                               1.0          0.8 - 1.2
+     QFlow Cardiac Output (l/min)                        4.6
+     QFlow Cardiac Index (l/min/m2)                      2.8            >2.0
+     QFlow Aortic Valve Regurgitant Volume (ml)          2
+     QFlow Aortic Valve Regurgitant Fraction (%)         3              <5
+     Mitral Valve Regurgitant Volume (ml)                0
+     Mitral Valve Regurgitant Fraction (%)               0              <5
+     Effective Forward LVEF (%)                       **44              >59
+     Pulmonic Valve Regurgitant Volume (ml)              2
+     Pulmonic Valve Regurgitant Fraction (%)             3               <5
+     Tricuspid Valve Regurgitant Volume (ml)             0
+     Tricuspid Valve Regurgitant Fraction (%)            0               <5
+     
+     Aortic Valve Area (2-D) (cm2)                       3.8            >2.0
+     Aortic Valve Area Index (cm2/m2)                    2.4
+     
+     Ascending Aorta diameter (mm)                     *39               <35
+     Transverse Aorta diameter (mm)                     25               <31
+     Descending Aorta diameter (mm)                     29               <25
+     Main Pulmonary Artery diameter (mm)                27               <30
+     Left Atrium (Parasternal Long Axis) (mm)          *44               <40
+     Pericardial Thickness (mm)                          2.0             <4
+     Coronary Sinus diameter (mm)                       10               <15
+     
+     * = Mildly abnormal, ** =moderately abnormal, *** = severely abnormal
+     CMR Technical Information:
+     1) Structure: Axial dual-inversion T1-weighted images of the myocardium were
+     obtained without spectral fat saturation pre-pulses.
+     2) Function: Breath-hold cine SSFP images were acquired in the left
+     ventricular 2-chamber, 4-chamber, horizontal long axis, contiguous short axis
+     orientations, sagittal and coronal orientations of the left ventricular
+     outflow tract, and aortic valve short axis orientations. Flow: Phase-contrast
+     cine images were obtained transverse to the aorta (axial plane) and main
+     pulmonary artery (oblique plane).
+     3) Viability/Fibrosis: Delayed enhancement (DE) images were obtained using a
+     segmented inversion-recovery TFE acquisition. Short-axis, four chamber and
+     two-chamber long-axis images were obtained 15 minutes after injection of a
+     total of 0.2 mmol/kg gadopentetate dimeglumine (23 ml Magnevist  solution)
+     with spectral fat saturation pre-pulses.
+     
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Findings:
+     Structure and Function
+     There was normal epicardial fat distribution. The myocardium appeared to have
+     homogenous signal intensity without evidence of myocardial fatty infiltration.
+      The pericardium appeared normal in thickness.  There were no pericardial or
+     pleural effusions. The origins of the left main and right coronary arteries
+     were identified in their customary positions.  Image quality was inadequate to
+     accurately assess bypass graft patency.  There was diffuse atheroma noted in
+     the aorta.  The diameters of the aortic arch and descending thoracic aorta
+     were normal.  The diameter of the ascending aorta was mildly dilated. The main
+     pulmonary artery diameter was normal.  The left atrial AP dimension was mildly
+     dilated.   The coronary sinus diameter was normal.
+     The left ventricular end-diastolic dimension index was normal.  The end-
+     diastolic volume index was mildly dilated.  The calculated left ventricular
+     ejection fraction was moderately depressed at 44% with abnormal regional
+     function.  Regional wall motion abnormalities included akinesis of the
+     inferior and inferolateral LV walls. The left ventricular mass index was
+     normal.  The right ventricular end-diastolic volume index was normal.  The
+     calculated right ventricular ejection fraction was mildly depressed at 46%,
+     with mild global hypokinesis.
+     The aortic valve was trileaflet with normal valve area.
+     The pericardial thickness was normal.
+     Quantitative Flow
+     There was no significant intra-cardiac shunt.  Aortic flow demonstrated no
+     significant aortic regurgitation.  The calculated mitral valve regurgitant
+     fraction was consistent with no significant mitral regurgitation.   The
+     resultant effective forward LVEF was moderately depressed at 44%. The right
+     ventricular stroke volume and pulmonic flow demonstrated no significant
+     pulmonic or tricuspid regurgitation.
+     
+     Viability
+      The inferior and inferolateral walls showed complete, transmural delayed
+     hyperenhancement, consistent with the presence of prior myocardial
+     scarring/infarction.  The hyperenhanced area was calculated to weigh
+     approximately 30 grams.  This represents 17% of the LV myocardial mass, which
+     corresponds to a moderate sized infarction. Given the transmural
+     hyperenhancement in these walls, there is a very low likelihood of functional
+     recovery after revascularization of these segments (no viability).
+     
+     Impression:
+     1. Mildly dilated left ventricular cavity size with normal regional left
+     ventricular systolic function.  The LVEF was moderately depressed at 44%. MR
+     evidence of prior inferior and infero-lateral myocardial scarring/infarction,
+     without viability. The infarct size was moderate at 17% of the total LV mass.
+     2. Normal right ventricular cavity size. The RVEF was mildly depressed at 46%.
+                                                                 (Over)
+
+     DATE: [**2649-2-26**] 3:09 PM
+     MR CARDIAC MORPHOLOGY W/CONTRAST; MR [**First Name (Titles) 2941**] [**Last Name (Titles) 2942**] FLOW MAP  Clip # [**Clip Number (Radiology) 7576**]
+     MR CONTRAST GADOLIN
+     Reason: AF,CHF,CAD
+      Contrast: MAGNEVIST Amt: 23
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3. No significant aortic, mitral, pulmonic or tricuspid regurgitation
+     4. The diameters of the aortic arch and descending thoracic aorta were normal.
+      The diameter of the ascending aorta was mildly dilated.  The main pulmonary
+     artery diameter was normal.
+     5. Mild left atrial enlargement
+     6. Normal coronary artery origins with no evidence of anomalous coronary
+     arteries.  Image quality was inadequate to accurately assess bypass graft
+     patency.
+     The images were reviewed by Drs. [**First Name4 (NamePattern1) 3097**] [**Last Name (NamePattern1) 3098**], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2947**], [**First Name8 (NamePattern2) 3095**] [**Last Name (LF) 3096**], [**First Name4 (NamePattern1) 3099**]
+     [**Last Name (NamePattern1) 3100**], and [**First Name8 (NamePattern2) 5756**] [**Last Name (NamePattern1) 3918**].
+     
+
+",,

@@ -1,0 +1,434 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5907,7876,,,3154-11-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3154-11-5**]              Discharge Date:   [**3154-11-8**]
+ 
+Date of Birth:  [**3063-3-2**]             Sex:   M
+ 
+Service: NMED
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 1304**] 
+Chief Complaint:
+Gait disturbance, weakness
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+[**Age over 90 **] year old male with a history of stroke nine months ago, and 
+atrial fibrillation on coumadin, who presented with one day 
+history of gait disturbance.  Patient initially presented to an 
+outside hospital and was transferred to [**Hospital1 83**] following head CT 
+which revealed a left subacute infarct with small amount of 
+hemmorrhage.  Of note, at outside hospital, patient's INR was 
+found to be subtherapeutic at 1.3.  
+
+Following his first stroke in January of this year, the patient 
+granddaughter's stated that he had weakness (his granddaughter 
+cannot recall which side), word-finding difficulties, and 
+problems with simple calculations. She stated that he used to 
+balance his checkbook prior to the stroke, but cannot do that 
+any longer.
+
+Mr.[**Known patient lastname 7406**] himself stated that he had no numbness or weakness on 
+the day of admission, no trouble speaking or understanding 
+anyone, no problems with slurred speech, and no chest pain or 
+shortness of breath. He says that his only problem was ""not 
+being able to walk."" He also says that on day prior to admission 
+he was in his usual state of health.
+ 
+Past Medical History:
+1. Stroke, [**3154-2-11**]
+2. Transient Ischemic attacks
+3. Atrial fibrillation 
+4. Status post pacer placement
+5. Hypertension
+6. Diabetes Mellitus
+7. Status post colon surgery/Colon cancer
+
+ 
+Social History:
+Lives with granddaughter. Used to work for the police 
+department, now retired. Physical therapy comes to work with him 
+at his house Distant 5 pack year tobacco history. Denies alcohol 
+or intravenous drug use.
+ 
+Family History:
+No history of strokes; otherwise non-contributory.
+ 
+Physical Exam:
+Physical Exam:  T98.2 ;  BP 130/62 ; HR 62 ; RR 18 ; O2 sat 
+98%/RA
+General: No acute distress. Appears comfortable.
+HEENT: Mucous membranes moist. Oropharynx clear. No scleral 
+icterus orinjection.
+Neck: Supple. Cannot appreciate carotid bruits.
+Lungs: Clear to ausculatation bilaterally.
+Heart: Regular rate and rhythm. Normal s1/s2 heart sounds. 
++Systolic murmur. 
+Abdomen: Soft, non-tender, nondistended.
+Extremities: Warm and well perfused.  No clubbing, cyanosis or 
+edema.
+
+Neurologic:
+Mental status: Alert and Oriented x3. Cooperative with exam. 
+Able to say months of year backwards except skips May. 
+Registration intact to [**3-16**] objects
+and cannot recall the 3rd with a hint. Recall intact to [**3-16**] 
+objects at 5 minutes but cannot recall 3rd with hint. Repetition 
+somewhat impaired. Skips words in sentences, makes paraphasic 
+substitutions at times. Naming intact except again, paraphasic 
+substitutions at times. Speech fluent. Is slightly 
+perseverative, but follows commands well. No right/left agnosia. 
+Does have
+difficulty with calculations. No finger agnosia. +grasp reflexes 
+bilaterally. +snout. Able to answer questions appropriately, but 
+has difficulty telling logical story from beginning to end when 
+asked open-ended questions. 
+
+Cranial nerves: Pupils equal round reactive to light. 
+Extraocular eye movements intact without nystagmus. Fundi 
+difficult to see because pupils small even in dark, but disc 
+margins appear sharp. Visual fields seem full to confrontation 
+but there is some difficulty following commands, and sometimes 
+seems to have some neglect to right. Facial sensation intact. 
+Right eyelid droop, and appears to have flattening of left 
+nasolabial fold, but excursion is symmetric. Tongue protrudes 
+midline without fasiculations. Sternocleidomastoids intact 
+bilaterally. Shoulder shrug intact bilaterally.
+
+Motor: Normal bulk and tone throughout. No fasiculations. No 
+pronator drift.
+   B  T   D   WE   WF   FF   FE   IP   Hams  Quad   AT   G  [**Last Name (un) **]
+R  5  5   5   5    5    5    5    5    5      5      5   5   5 
+L  5  5   5   5    5    5    5    5    5      5      5   5   5
+
+Reflexes: Quite brisk throughout, but symmetric. Toes downgoing 
+bilaterally.
+
+Sensation: Intact bilaterally to light touch, temperature, 
+pinprick and vibration in all extremities. Probably has 
+stocking/glove distribution decrease to all modalities, but is 
+not consistent with reporting this. Proprioception somewhat 
+impaired at great toes bilaterally.
+
+Coordination: Finger to nose slightly ataxic on left.  Rapid 
+alternating movements and fine finger movements intact 
+bilaterally. Heel to shin also slightly ataxic on left.
+
+Gait: Physical Exam:  T98.2 ;  BP 130/62 ; HR 62 ; RR 18 ; O2 
+sat 98%
+RA
+gen - no acute distress. appears comfortable.
+heent - mmm. o/p clear. no scleral icterus or injection.
+neck - supple. cannot appreciate carotid bruits
+lungs - cta bilaterally
+heart - rrr, nl s1/s2, +sm 
+abd - soft, nt/nd, nabs. +hernia.
+ext - warm, no edema.
+
+neurologic:
+MS: Alert and Oriented x3. Cooperative with exam. Able to say 
+[**Doctor Last Name 2226**]
+backwards except skips May. Registration intact to [**3-16**] objects
+and cannot recall the 3rd with a hint. Recall intact to [**3-16**]
+objects at 5 minutes but cannot recall 3rd with hint. Repitition
+somewhat impaired - skips words in sentences, makes paraphasic
+substitutions at times. Naming intact except again, paraphasic
+substitutions at times. Speech fluent. Is slightly 
+perseverative,
+but follows commands well. No right/left agnosia. Does have
+difficulty with calculations. No finger agnosia. +grasp reflexes
+bilaterally. +snout. Able to answer questions appropriately, but
+has difficulty telling logical story from beginning to end when
+asked open-ended questions. 
+
+CN: PERRL. EOMs intact without nystagmus. Fundi difficult to see
+because pupils small even in dark, but disc margins appear 
+sharp.
+Visual fields seem full to confrontation but there is some
+difficulty following commands, and sometimes seems to have some
+neglect to right. Facial sensation intact. +right eyelid droop,
+and appears to have flattening of left NLF, but excursion is
+symmetric. Tongue protrudes midline without fasiculations.
+Sternocleidomastoids intact bilaterally. Shoulder shrug intact
+bilaterally.
+
+Motor: Normal bulk and tone throughout. No fasiculations. No
+pronator drift.
+   B  T   D   WE   WF   FF   FE   IP   Hams.  Quad   AT  G  [**Last Name (un) **]
+R  5  5   5   5    5    5    5    5    5      5      5   5   5 
+
+L  5  5   5   5    5    5    5    5    5      5      5   5   5
+
+Reflexes: quite brisk throughout, but symmetric. toes downgoing
+bilaterally.
+
+Sensation: 
+Intact bilaterally to light touch, temperature, pinprick and
+vibration in all extremities. Probably has stocking/glove
+distribution decrease to all modalities, but is not consistent
+with reporting this.
+Proprioception somewhat impaired at great toes bilaterally.
+
+Coordination:
+FTN slightly ataxic on left, [**Doctor First Name **], and FFM intact bilaterally
+HTS also slightly ataxic on left.
+
+Gait: very wide-based, cautious. not falling to one side in
+particular.
+ 
+Pertinent Results:
+[**3154-11-5**] 08:45PM   PT-14.4* PTT-31.0 INR(PT)-1.3
+[**3154-11-5**] 08:13PM   GLUCOSE-154* UREA N-23* CREAT-1.1 SODIUM-141 
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-31* ANION GAP-15
+[**3154-11-5**] 08:13PM   ALT(SGPT)-18 AST(SGOT)-24 LD(LDH)-190 
+CK(CPK)-163 ALK PHOS-89 AMYLASE-28 TOT BILI-0.6
+[**3154-11-5**] 08:13PM   CK-MB-3 cTropnT-<0.01
+[**3154-11-5**] 08:13PM   ALBUMIN-4.2 CALCIUM-9.9 PHOSPHATE-3.1 
+MAGNESIUM-2.1
+[**3154-11-5**] 08:13PM   TSH-1.4
+[**3154-11-5**] 08:13PM   WBC-8.1 HCT-40.6
+[**3154-11-5**] 08:13PM   PLT COUNT-266
+
+[**3154-11-6**] HEAD CT w/o CONTRAST: There are blood products of 
+undetermined age in right cerebellar hemisphere which is stable 
+in the interval. Minimal surrounding low attenuation changes are 
+present due to encephalomalacia. No new areas of hemorrhage are 
+present. Stable low attenuation changes in the periventricular 
+white matter are noted. There is an old infarct in the left 
+hemisphere adjacent to the left lateral ventricle and within the 
+right thalamus. There is no mass effect, and no shift of 
+normally midline structures. No hydrocephalus is present. The 
+osseous structures are unchanged. There is a small amount of 
+fluid within the right maxillary sinus.
+
+ 
+Brief Hospital Course:
+[**Age over 90 **] year old male with a history of atrial fibrillation, 
+anticoagulated on coumadin, now with subacute left cerebellar 
+infarct with small amount of hemorrhage in setting of 
+subtherapeutic INR.
+
+1) Cerebellar infarct:  Given the fact that patient's INR was 
+1.3 at an outside hospital at the time of presentation, it was 
+felt that the patient most likely had an embolic event to the 
+left cerebellar hemisphere prior to presentation.  Patient's 
+coumadin was held during hospitalization given the small amount 
+of hemorrhage within the infarct.  However, given the likely 
+embolic nature of the infarct, it was felt that patient should 
+restart coumadin therapy a week following discharge to prevent 
+any further thromboembolic events. His primary care physician 
+will follow his INR in the outpatient setting.
+
+2) Atrial Fibrillation: As stated above, patient's 
+anticoagulation was held during hospitalization.  However, 
+patient was rate controlled on metoprolol with good effect, and 
+patient was in normal sinus rhythm at the time of discharge.  An 
+echocardiogram was performed on the day of discharge to 
+determine whether or not a mural thrombus was present within the 
+left atrium.  Echocardiogram with left atrium is moderately 
+dilated and elongated. The right atrium is markedly dilated. The 
+left ventricular cavity size is normal. Overall left ventricular 
+systolic function is mildly depressed (ejection fraction 50%). 
+Right ventricular systolic function is normal. The aortic root 
+is mildly dilated. The ascending aorta is moderately dilated. 
+The number of aortic valve leaflets cannot be determined. The 
+aortic valve leaflets are mildly thickened. There is a minimally 
+increased gradient consistent with minimal aortic valve 
+stenosis. Trace aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is 
+seen. There is mild pulmonary artery systolic hypertension. 
+There is no pericardial effusion.  
+
+3) Diabetes mellitus:  Patient was managed with outpatient 
+glyburide throughout hospitalization with regular insulin 
+sliding scale for additional hyperglycemic coverage.  Patient 
+was normoglycemic both at presentation as well as throughout 
+hospitalization on this regimen.
+
+4) Nutrition: Patient was started on B12, Folate, and 
+multivitamin at the time of admission for concern of a 
+nutritional deficit as a possible etiology of symptoms.
+
+At the time of discharge, it was felt that patient was nearing 
+his baseline functional status. Patient's daughter had made the 
+decision to quit her job and care for the patient in her home. 
+In addition, patient was to continue physical therapy at home.  
+Patient was counseled to restart coumadin in late October and to 
+followup with his primary care physician, [**Name10 (NameIs) **] monitoring of his 
+INR.  The patient's course and follow-up plan was discussed with 
+Dr. [**Last Name (STitle) 7407**] on the day of discharge.
+ 
+Medications on Admission:
+1. Vitamin B12
+2. Coumadin 2.5 mg po qod alternating with 5 mg po qod
+3. Aspirin 81 mg po qod
+4. Lasix 20 mg po qod
+5. Lopressor 50 mg po bid
+6. Norvasc 2.5 mg po qd
+7. Glyburide 5 mg po qd
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. Amlodipine Besylate 5 mg Tablet Sig: 0.5 Tablet PO QD (once a 
+day).  
+3. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO QD (once 
+a day).  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Glyburide 5 mg Tablet Sig: One (1) Tablet PO QD (once a day). 
+ 
+6. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Equipment: Hospital bed. Dispense #1 (one) No refills.
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1. Cerebellar hemorrhage
+2. Cerebellar infarct, subacute to chronic
+3. History of stroke 9 months ago
+4. History of transient ischemic attack
+5. Atrial fibrillation
+6. Status post pacemaker placement
+7. Hypertension
+8. Diabetes mellitus
+9. Status post colon surgery
+
+ 
+Discharge Condition:
+Good. Gait wide-based with positive Romberg sign and mild 
+incoordination on finger-nose-finger testing bilaterally. 
+Cleared by physical therapy for discharge to home with home 
+physical therapy services.
+ 
+Discharge Instructions:
+1) Please call your primary care physician or return to a local 
+emergency room if new neurologic symptoms arise like increased 
+difficulty walking, headache, speech problems, incoordination, 
+bowel/bladder incontinence, numbness, tingling, or weakness.
+
+2) Do not restart taking your coumadin at your regular dose 
+until the end of October; Dr. [**Last Name (STitle) 7407**] will advise [**Doctor First Name **] as to 
+when to restart coumadin and he will follow your blood tests on 
+a regular basis in order to determine the best coumadin dose for 
+[**Doctor First Name **]. 
+
+3) Discontinue taking aspirin.
+
+4)Continue taking your other medications as previously directed.
+
+3) Follow up with your primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7407**], 
+for within 10-14 days of discharge for followup of your coumadin 
+and INR level.
+ 
+Followup Instructions:
+Please call your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7407**] at 
+[**Telephone/Fax (1) 7408**] to schedule a follow up appointment within the next 
+1-2 weeks.
+ 
+As previously agreed upon, Dr. [**Last Name (STitle) 7407**] will resume patient's 
+anticoagulation with Coumadin in October and Dr. [**Last Name (STitle) 7407**] 
+will be responsible for following the INR.
+ 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1309**] MD [**MD Number 1310**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1910**] MD [**Last Name (un) 1911**] [**3154-11-10**] @ 1430
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3154-11-15**] 7:14 AM
+(End of Report)
+
+
+",,
+5907,7876,,,3154-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3154-11-5**] 8:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15234**]
+     Reason: Please evaluate cerebellar bleeds                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man tx from [**Hospital3 15235**]with report of cerebellar bleeds, no 
+      mass effect
+     REASON FOR THIS EXAMINATION:
+      Please evaluate cerebellar bleeds                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm FRI [**3154-11-5**] 9:32 PM
+      Right cerebellar hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Evaluate for hemorrhage.
+     
+     TECHNIQUE:  Heat CT without contrast.
+     
+     FINDINGS:    There is an area of increased attenuation seen in the right
+     cerebellar hemisphere measuring about 1 cm x 2.4 cm. There is also an area of
+     low attenuation around the hyperdense area which most likely represent
+     encephalomalacia. The hyperdense area could represent old blood products
+     or a small area of acute hemorrhage. Correlation with prior films recommended.
+     There are areas of low attenuation around the periventricular white matter
+     representing chronic ischemic changes. There is an area of low attenuation
+     adjacent to the left lateral ventricle representing an old infarction.
+     Hypodensity adjacent to right side of third ventricle indicates a
+     thalamic infarct of undetermined age. There is no mass effect, hydrocephalus,
+     shift of normally midline structures or major vascular territorial infarction.
+     A small amount of fluid is visualized in the right maxillary sinus.  The
+     surrounding osseous structures are unremarkable.
+     
+     IMPRESSION:  Right cerebellar encephalomalacia with evidence of blodd
+     products of undetermines age. Consider correlation with prior films if any.
+     If no prior films available, consider MRI.
+
+",,
+5907,7876,,,3154-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3154-11-6**] 9:36 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15236**]
+     Reason: please evaluate for progression of right cerebellar hemorrha
+     Admitting Diagnosis: CEREBELLAR BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with cerebellar hemorrhage                                     
+     REASON FOR THIS EXAMINATION:
+      please evaluate for progression of right cerebellar hemorrhage.                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cerebellar hemorrhage, evaluate for progression.
+     
+     TECHNIQUE:  Axial images of the head were obtained from the occiput to the
+     vertex without intravenous contrast.
+     
+     COMPARISON:  [**3154-11-5**] Head CT.
+     
+     HEAD CT w/o CONTRAST:  There are blood products of undetermined age in right
+     cerebellar hemisphere which is stable in the interval.  Minimal surrounding
+     low attenuation changes are present due to encephalomalacia.  No new areas of
+     hemorrhage are present. Stable low attenuation changes in the periventricular
+     white matter are noted. There is an old infarct in the left hemisphere
+     adjacent to the left lateral ventricle and within the right thalamus.  There
+     is no mass effect, and no shift of normally midline structures.  No
+     hydrocephalus is present.  The osseous structures are unchanged.  There is a
+     small amount of fluid within the right maxillary sinus.
+     
+     IMPRESSION:  Stable right cerebellar abnormality.
+     
+     
+     
+
+",,

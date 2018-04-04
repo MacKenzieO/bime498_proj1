@@ -1,0 +1,1824 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5054,20459,,,3112-09-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3112-9-3**]              Discharge Date:   [**3112-9-24**]
+ 
+Date of Birth:  [**3031-12-29**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1736**] 
+Chief Complaint:
+Transferred for stenting of right mainstem bronchus
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+Bronchoscopy with bronchial stent removal.
+ 
+History of Present Illness:
+80 yo man w/ h/o Stage 3B lung cancer (s/p chemo, XRT, and stent 
+placement [**7-14**]), COPD on home O2, CAD (multivessel disease and 
+80% LM stenosis), A fib, and LLE DVT who presents from OSH with 
+obstructed right sided bronchus with post-obstructive pneumonia 
+for possible stenting.  On [**8-30**] the patient underwent 
+bronchoscopy which showed tumor occluding the stent which was 
+partially removed.  After this procedure, the patient went into 
+respiratory distress in the PACU and required intubation.  He 
+was also noted to have ST elevations on EKG in leads V2 and V3.  
+STAT echo revealed EF of 25%, decreased from 60% in [**3112-7-10**].  
+The patient was admitted to the MICU at the OSH for further 
+management. 
+.
+On transfer to the MICU, the patient was hypotensive to the 70's 
+systolic which responded to IV fluid bolus.  Cardiology was 
+consulted regarding his ST elevations and recommended medical 
+management with addition of plavix for his left main disease.  
+Eventually, the patient was also started on low dose metoprolol 
+and captopril after his blood pressure stabilized.  The 
+following morning, his ST elevations had normalized.   
+Cardiology felt that his previous changes were due to myocardial 
+stunning.  During his OSH MICU course, he was also found to have 
+focal neuro deficits (left ptosis, left facial droop) so a head 
+CT was done.  This study revealed an old right parietal infarct 
+with moderate chronic small vessel infarcts without evidence of 
+enhancing lesions. 
+.
+The patient was transferred to [**Hospital1 83**] for possible stenting of 
+his right sided bronchial occlusion.  He was hemodynamically 
+stable on arrival, and denied CP, SOB, abdominal pain, headache, 
+or dizziness.
+
+CXR was done showing complete whiteout of the right lung [**3-13**] to 
+post-obstructive pneumonia.  He was started on Vanco and Zosyn 
+for treatment of pneumonia.  Chest CT the following day revealed 
+bilateral pleural effusions (R>L), complete RUL/RML/RLL collapse 
+with apparent obstruction of the bronchial stent within the 
+right main stem bronchus.  
+ 
+Past Medical History:
+- Stage 3B Lung Cancer: dx [**3111-12-11**]; s/p 8 courses of 
+chemo; s/p XRT; s/p stent in right bronchus [**7-14**]; s/p 5 
+therapeutic bronchoscopies (for reocclusion of stent)
+- COPD on home O2
+- CAD: s/p cath [**3112-1-25**] showing multivessel disease, LM 80%
+- A FIB: started on digoxin 3 weeks prior to admission
+- s/p LLE DVT: 2000 and [**3112-2-10**] (s/p hernia repair); 
+treated with coumadin and plavix in the past
+- s/p CVA x 2 
+- s/p hernia repair
+- s/p left eye surgery for ptosis (3.5 yrs ago)
+- s/p cataract surgery
+ 
+Social History:
+Lives at home with his wife.  Good social support.  60 pack year 
+smoking history.  
+ 
+Family History:
+CAD
+CVA - sister and father
+[**Name (NI) 5730**] cancer - brother (smoker)
+
+ 
+Physical Exam:
+98.4 - 112 - 95/44 - 13 - 99% (AC: 500/14/5/0.35); 79 kg  
+Gen: Elderly man, intubated, awake and alert, appears 
+comfortable
+HEENT: ETT in place, PERRL, anicteric, bilateral corneal arcus, 
++left ptosis, MMM  
+Neck: right IJ in place, supple, no LAD, no JVD  
+Lungs: course breath sounds, CTA on the left, decreased breath 
+sounds on the right, no w/r/r  
+Heart: irreg irreg, distant HS, no M/R/G  
+Abd: NABS, soft, NT, ND, no palpable masses  
+Ext: warm, dry, [**2-11**]+ pitting edema  
+Neuro: CN II-XII intact with exception of mild left facial droop
+Rectal: guaiac negative brown stool
+
+ 
+Pertinent Results:
+OSH LABS:
+WBC=5.0; Hct=23.8; plts=154
+Na=135; K=4.0; Cl=110; CO2=22; BUN=9; Cr=0.8; glucose=163
+INR=1.0
+ABG = 7.44/31/87
+CK = 30-->26-->25; CKMB = 4.3-->4.6-->3.9; Trop 
+0.45-->0.88-->0.64
+.
+PORTABLE CXR @ OSH ([**9-3**]): improvement in vascular congestion 
+and slight alveolar fluid from yesterday.  Persistent 
+opacification of the right hemithorax.
+.
+CT CHEST @ OSH ([**8-31**]): 
+1) Large right sided pleural effusion and moderate size left 
+sided pleural effusion. 
+2) Complete collapse of the RUL, RLL, and RML with apparent 
+obstruction of bronchial stent within the right main stem 
+bronchus and soft tissue mass in the azygoesophageal recess 
+likely representing patient's known lung cancer.
+3) Emphysematous changes throughout the LUL w/ septal thickening 
+which may be due to scarring, atelectasis although no 
+lymphangitic spread of disease cannot be entirely excluded. 
+4) Areas of compressive atelectasis within the LLL. Incidental 
+note is made of infrarenal AAA (2.9 x 2.4 cm).
+.
+LABS ON ADMISSION TO [**Hospital1 83**]: 
+[**3112-9-3**] 11:09PM   WBC-6.4 RBC-3.33*# HGB-9.7*# HCT-29.3*# 
+MCV-88 MCH-29.3 MCHC-33.2 RDW-16.9*
+[**3112-9-3**] 11:09PM   PLT COUNT-164
+[**3112-9-3**] 11:09PM   PT-13.0 PTT-30.2 INR(PT)-1.1
+[**3112-9-3**] 11:09PM   GLUCOSE-94 UREA N-9 CREAT-0.8 SODIUM-139 
+POTASSIUM-3.9 CHLORIDE-109* TOTAL CO2-22 ANION GAP-12
+[**3112-9-3**] 11:09PM   ALT(SGPT)-9 AST(SGOT)-15 ALK PHOS-52 TOT 
+BILI-0.4
+[**3112-9-3**] 11:09PM   CALCIUM-7.7* PHOSPHATE-2.5* MAGNESIUM-1.9
+ 
+Brief Hospital Course:
+Pt bronched [**9-4**], showing right main bronchus stent frayed at 
+distal end, blocking RUL and with thick secretions distally. 
+Left bronchus was patent. Overnight [**9-4**], patient was was 
+hypotensive; did not respond to IVF bolus and PRBCs.  Low dose 
+Dopamine started with improvement of BP.  ~20 min after dopamine 
+started, patient went into RVR.  Dopamine stopped.  Amiodarone 
+started, patient still tachycardic and hypotensive.  At this 
+point, patient underwent synchronized cardioversion (200 and 
+then 300 joules), did not convert to NSR, but rate became more 
+controlled in low 100's.  Levophed started for BP control, 
+subsequently weaned off [**9-5**], converted to NS on amiodarone 
+drip.
+
+Pt never weaned off mechanical ventilation through his hospital 
+course.  Spontaneous breathing trials were poorly tolerated.  In 
+addition, his cardiovascular function was tenuous.  He had acute 
+drop in blood pressure with cardiac enzyme leak on [**9-12**] and 
+throughout his course remained intermittently hypotensive and 
+also bradycardic at times.  Per family request pressor were not 
+given.  It became clear given the patients invasive lung cancer 
+and severe coronary artery disease that the prognosis was 
+extremely poor.   On [**3112-9-13**] a family meeting was held.  The 
+outcome of this was that pt would remain intubated but would 
+also still be DNR and would be given no escalation in care 
+including pressors or antiarrhythmics.  The family asked whether 
+it would be possible to send pt home on ventilator so that he 
+may spend his last days at home.  Such arrangements were made 
+but required that the patient undergo tracheostomy.  
+Unfortunately the patient was never sufficiently hemodynamically 
+stable that this procedure could safely be performed.
+
+On [**3112-9-20**] another family meeting was held.  It was explained 
+that tracheostomy was not possible to perform safely and that 
+the patient would probably spend the remainder of his days in 
+the hospital.  The daughters decided that care should move 
+toward comfort measures only.  Efforts were made to pursue care 
+such that the patient would remain alive over the weekend so 
+that he may have visitors.  Of note the patient was noted to 
+disseminated multi-drug resistant Klebsiella infection by blood 
+culture, sputum culture, and urine culture.  No antibiotics wore 
+started.  Comfort measure only care was instituted in full on 
+[**9-23**] with the goal of making the patient comfortable.  The 
+patient went into respiratory failure on  the evening of 8/16 
+and expired that night.  Attending was duly notified.  The 
+family was notified.  Autopsy was declined.
+
+In summary Mr [**Known patient lastname 5731**], is an 80 year-old gentleman with a 
+history of stage 3b terminal lung cancer, atrial fibrillation 
+and severe coronary artery disease who presented with hypoxic 
+respiratory failure requring intubation that was secondary to 
+total R bronchial obstruction and post-obstructive pneumonia.  
+It became clear that efforts to treat his disease proved futile 
+in the setting of his terminal disease, and eventually the 
+patient placed in comfort measure only care and passed away.
+
+ 
+Medications on Admission:
+ASA 325 po daily
+Plavix 75 mg PO daily
+Digoxin 0.125 mg PO daily
+Lopressor 12.5 mg PO BID
+Captopril 3.125 mg PO TID
+Lipitor 20 mg PO daily
+Combivent MDI 2-4 puffs q4h
+Nexium 40 mg PO daily
+Colace 100 mg PO BID
+Heparin 5000 units SC daily
+Zosyn 2.25 grams IV TID
+Vancomycin 1 gm IV Q24H
+Ativan 0.5mg IV/PO Q4-6 prn
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Stage IIIb lung cancer
+Post-obstructive pneumonia
+Hypoxic respiratory failure
+Severe coronary artery disease with 95% occlusion of L Main 
+artery and 3 vessel disease.
+Clostridium difficile colitis.
+Extended spectrum beta-lactamase resistant Klebsiella Pneumonia 
+bacteremia
+Atrial fibrillation.
+ 
+Discharge Condition:
+Expired.
+ 
+Followup Instructions:
+Autopsy declined.
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1739**]
+ 
+Completed by: [**Name6 (MD) 2943**] [**Last Name (NamePattern4) 2944**] MD [**MD Number 2945**] [**3112-10-5**] @ 2322
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**3112-10-11**] 4:32 PM
+(End of Report)
+
+
+",,
+5054,20459,,,3112-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-3**] 10:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7894**]
+     Reason: please evaluate for pneumonia, also evaluate ETT and line pl
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation, who 
+      presents with possible post-obstructive pneumonia for possible stenting of 
+      right bronchus.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pneumonia, also evaluate ETT and line placement             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with history of lung cancer and occluded bronchus
+     status post intubation with possible post-obstructive pneumonia due to tumor
+     of the right bronchus.  To evaluate for ET tube placement.
+     
+     No comparison.
+     
+     CHEST X-RAY AP PORTABLE VIEW:
+     
+     FINDINGS:  There is complete opacification of the right hemithorax with slight
+     shift of the trachea to the right.  A stent is seen in the right main
+     bronchus.  The ET tube is 3.6 cm from the carina.  A right IJ catheter tip is
+     seen overlying the SVC.  The left lung shows interstitial abnormality,
+     probably secondary to edema.
+     
+     IMPRESSION:
+     1.  Complete collapse of the right lung and probable right pleural effusion.
+     
+     2.  Interstitial pulmonary edema, less likely lymphangitic spread of tumor, in
+     the left lung.
+     
+     3.  ET tube and right IJ catheter tip in good position.
+
+",,
+5054,20459,6267,,3112-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-4**] 5:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7895**]
+     Reason: please re-assess for changes                                
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation, who 
+      presents with possible post-obstructive pneumonia for possible stenting of 
+      right bronchus.
+     REASON FOR THIS EXAMINATION:
+      please re-assess for changes                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of lung cancer with occluded bronchus, status post
+     intubation.  Patient presents with post-obstructive pneumonia for possible
+     stenting of right bronchus.
+     
+     X-RAY CHEST, AP PORTABLE VIEW.
+     
+     COMPARISON:  [**3112-9-3**].
+     
+     FINDINGS:  There is complete opacification of the right hemithorax without
+     significant shift of the mediastinum.  A stent is seen, probably in the right
+     main bronchus.  The ET tube is 3.8 cm from the carina.  Left lung shows
+     pulmonary venous engorgement and insterstitial abnormality  due to
+     mild pulmonary edema or, less likely, lymphangitic spread of tumor.
+     
+     IMPRESSION:  
+     1. Complete collapse of the right lung and right pleural effusion.
+     
+     2. Mild pulmonary edema, left lung, or, less likely, lymphangitic tumor.
+
+",,
+5054,20459,6267,,3112-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-4**] 4:31 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 7896**]
+     Reason: Please perform upright. ? pneumothorax s/p procedure.       
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation, 
+      who   presents with possible post-obstructive pneumonia for possible stenting 
+      of   right bronchus. Now s/p thoracentesis on right.
+     REASON FOR THIS EXAMINATION:
+      Please perform upright. ? pneumothorax s/p procedure.                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with history of lung cancer and occluded right
+     bronchus status post intubation.  The patient presents with post-obstructive
+     pneumonia, now status post thoracentesis of right lung.  Evaluate for
+     pneumothorax.
+     
+     COMPARISON:  AP supine portable chest x-ray dated [**3112-8-5**] at 5:51.
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  Status post thoracentesis, there is improved
+     aeration of the right lung, revealing stents within the right main stem
+     bronchus and a large stippled mass in the mid lung. There is no pneumothorax.
+     There is persistent near complete opacification of the right lung apex and a
+     small pleural effusion in the right lung base. The appearance of the left lung
+     is grossly unchanged.  An endotracheal tube remains 4.5 cm superior to the
+     carina.  A right internal jugular central venous catheter terminates within
+     the mid superior vena cava. A nasogastric tube terminates within the stomach
+     antrum. The surrounding soft tissue and osseous structures demonstrate
+     degenerative changes and osteopenia.
+     
+     IMPRESSION:  Improved aeration of right lung following thoracentesis,
+     revealing stents in the right main stem bronchus and a right lung mass.  No
+     pneumothorax identified.
+
+",,
+5054,20459,6267,,3112-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-4**] 10:22 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 7897**]
+     Reason: r/o evolving pneumothorax                                   
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation,  
+      who   presents with possible post-obstructive pneumonia for possible stenting  
+      of   right bronchus. Now s/p thoracentesis on right.  
+     REASON FOR THIS EXAMINATION:
+      r/o evolving pneumothorax                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Rule out pneumothorax.
+     
+     TECHNIQUE:  AP supine chest radiograph from [**3112-9-4**] is compared to six hours
+     prior.
+     
+     This patient is status post stent placement in the right mainstem bronchus.
+     These stents are unchanged.  The right moderately sized pleural effusion has
+     decreased in size with associated increase in aeration of the right lung.
+     There is an unchanged small left pleural effusion.  There is also a moderate
+     right shift of the mediastinum and heart.  There is no pneumothorax.
+     
+     Endotracheal tube, right IJ line, and NG tube are in place and unchanged.
+     
+     IMPRESSION:
+     1.  Improved aeration of the right lung.
+     2.  Improved right pleural effusion.
+     3.  Stable small left pleural effusion.
+     4.  No pneumothorax.
+
+",,
+5054,20459,6267,0,3112-09-04 02:32:00 EST,3112-09-04 02:50:00 EST,2216,"N",69,"Nursing/Other",,"
+
+ADMISSION NOTE:
+Neuro:Pt. arrived from [**Hospital3 5974**] Hosp.stage 3 lung ca dx 2004 S/p bronchoscopy for bronch stent placement.[**8-30**].for collapsed rll. stent has occluded and pt. not able to be extubated. To [**Hospital1 **] to have bronch and be restented. hopefully extubated.   Intubated but awake and alert. Following all commands. Watching the baseball game with interest. denies pain. Equal and strong hand grasps. 
+cv/resp afib fast rate requiring lopressor. Bp low but responded to a liter total of ns fluid bolus's. goal to keep map>65. eventually converted to nsr after fluid bolus's. on AC ventilation. at tv800 rate14 5cm peep and 35%fio2. o2 sats 98%. lungs are coarse but very diminished on the rll. has frequent coughing episodes requiring suctioning for thin white secretions. Albuterol mdi initiated. Pt. put on low dose versed and fentanyl gtts w good effect in controlling coughing and gagging. ETT retaped on arrival to micu. #8 ett at 22cm.left lip. 
+gi/gu pt also has ogt to low cont sx. aprox 200cc out  has had small bm's guiac neg. foley to gravity. u/a and c+s of urine sent. uop marginal. npo +bowel sounds
+integ skin warm dry and intact. 
+no boot machine avail.in hosp.  pt. placed on heparin for dvt prophallaxis and hx of afib.
+k and mag repleted. bc sent. ck's sent to r/o mi. unable to obtain ekg due to artifact. 
+plan: bronch today ? aline insertion. has rij tlc from [**8-30**] at osh. 
+
+",,
+5054,20459,6267,0,3112-09-04 04:30:00 EST,3112-09-04 04:38:00 EST,5241,"N",69,"Nursing/Other",,"
+
+RESP CARE
+
+PT TRANSFERRED FROM OSH TO BE RESTENTED AND BRONCHED FOR MULTIPLE OCCLUSIONS OF STENT PLACEMENTS. CURRENTLY VENTED ON A/C WITH NO CHANGES MADE TO PARAMETER SETTINGS. BS DIM ON RIGHT AND COURSE ANTERIORLY SXING FREQUENTLY FOR SMALL TO MOD AMTS OF THIN WHITE SECRETIONS. PT CONTINUES TO HAVE GOOD STRONG COUGH MOBILIZING SECRETIONS WELL ON OWN. ETT RETAPED AND SECURED AT 22 CM AT THE LIP. PT ON LOW DOSE SEDATION FOR CONTINUED COUGHING AND GAGGING OF ETT. COMBIVENT ORDERED Q4 WITH GOOD EFFECT. ABG PENDING ON PRESENT SETTINGS. RSBI THIS AM 128 ON PEEP 0 PS 5. WILL CONT WITH VENT SUPPORT.
+",,
+5054,20459,6267,0,3112-09-04 16:41:00 EST,3112-09-04 16:43:00 EST,2070,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings as per resp flowsheet. No vent changes made so far this shift. Bronch performed at bedside and R effusion tapped for 2100cc's.Receiving Combivent MDI Q vent check. Cont current support.
+",,
+5054,20459,6267,0,3112-09-04 17:55:00 EST,3112-09-04 18:13:00 EST,2423,"N",69,"Nursing/Other",,"
+
+npn 0700-1900;
+EVENTS; BRONCH SHOWEDE SOME AREAS OF TRACHEAL MALASIIA , SOME BLOCKAGE AROUND LARGE STENT SOME AIRWAYS OPEN BEYOND STENT.
+
+THOREOCENTISIS FOR 2100 STRWAW CLOURED FLUID. CXR DONE AWAITING READING.TEAM AWARE.
+
+HEPARIN OFF SINCE [**19**] 20 FOR PROCEDURES ? RESTART 4HOURS AFTER PROCEDURE. 
+
+
+NEURO; SEDATED WITH LOW DOSE VERSED AND FENTANYL PT OPENS EYES TO VOICE AND FOLLOWS SIMPLE COMMANDS.MAE TO COMMAND GRASPS EQAUL. STILL WITH SLIGHT RT FACIAL DROOP
+
+RESP; NO VENT CHANGES REAMINS ON 35 % CMV 500X14 WITH ABG PENDING.SATS 98-100%. SUCTIONED FOR MOD AMOUNTS THICK YELLOW SECRETIONS WITH TURNING AND REPOSITIONING. SMALL AMOUNT OFBLOOD TINGED SECRETIONS SINCE THOROCENTISIS.
+
+CVS; TMAX 99.1 PO NSR TO AFIB WITH FREQUENT PAC'S RATE 88-102.
+TEAM AWARE.BP ALINE POSITIONALRECIVED 500 MLS FLUID BOLUS THIS AM FO BP IN 70""S WITH GOOD EFFECT CVP 8-10BP 97-120/53.  TOLERATING CAPTOPRIL 3.125 BUT LOPRESSOR HELD AS BP BELOW 90 AT 10 AM.
+
+GU; MIN U/O CURRENTLY 25 MLS/HR.FOLLOWING LYTES.
+
+GI; OGT INPLACE NPO CURRENTLY  BELLY SOFT NON TENDERED, SMEARING OFF STOOL WITH COUGHING.
+
+HEME TO RECIEVE PRBCX1 T+ C SENT.
+
+ENDO BS  WNL.
+
+ID ; ZOSYN Q8 AND VANCO Q12 FOR PRESUMED POST OBSTRUCTION INFECTION.
+
+SOC; SUPPORTIVE FAMILY DAUGHTERS INTO VISIT THIS AFTERNOON AND SPOKE WITH DR [**Last Name (STitle) **] [**Name (STitle) **].AND UPDATED WITH CUREENT PLANOF V=CARE.
+
+
+A/P STABLE SUPPORT BP AND URINE OUTPUT WITH FLUIDS. FOLLOW LYTES AND HCT REATART HEPARIN AT 800 UNITS 4 HOURS AFTER THOROCENTISIS.OFFER EMOTIONAL SUPPORT TO PT AND FAMILY.
+
+
+",,
+5054,20459,6267,,3112-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-5**] 5:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7898**]
+     Reason: s/p bronch stent, interval change in exam?                  
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation, who 
+       presents with possible post-obstructive pneumonia for possible stenting of  
+      right bronchus.
+     REASON FOR THIS EXAMINATION:
+      s/p bronch stent, interval change in exam?                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bronchial stent placed.  Lung cancer.
+     
+     PORTABLE AP CHEST AT 05:31:  Comparison is made to [**3112-9-4**] at 22:40. 
+     The right main stem bronchus stent remains in unchanged position.  There is no
+     change in the degree of aeration of the right lung.  Right IJ central venous
+     line, endotracheal tube, and NG tube are unchanged in position.  Stable
+     moderately large right effusion.  Unchanged pulmonary edema in the left lung.
+                                                                           
+
+",,
+5054,20459,6267,0,3112-09-05 04:17:00 EST,3112-09-05 04:21:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt on [**Last Name (un) 30**] a/c 14/500/35%.+5. Alarms on and functioning. Ambu/syringe @ hob. BS auscultated reveal coarse sounds. Suctioned for small amounts of bloody tinged secretions. MDI's administered Q4 combivent with no adverse reactions. ABG's (see careview) fio2 ^ to 50% with abg pending. Pt cardioverted tonight and stable. Will continue full vent support.
+",,
+5054,20459,6267,0,3112-09-05 04:23:00 EST,3112-09-05 05:04:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-700","
+Shift Note 1900-700
+Events: Pt hypotensive throughout evening...ABP 78-90/40-60's with MAP 50-60's. 500cc NS bolus given with an increase in CVP, but little effect to BP. MICU team decided to start dopamine for hypotension...? cardiogenic shock and the need to increase preload. Dopamine started, but only infusing for 1/2half before patient became tachycardic upto 150's. BP stable at first, and when BP started to be effected levophed started and patient bolused with amiodarone and gtt started. Pt still symptomatic with BP in 60's and cardioverted once at 200, then 300. Bp currently in controlled afib 90's. Digoxin dose increased. Heparin gtt stopped yesterday afternoon for procedures (bronch and thoracentesis). PTT 130 prior to heparin gtt being stopped and infusing at 1100units/hr. Restarted last evening around 2130 at 800units. Am coags pending. 
+
+CV: HR 80-90's, controlled afib with no ectopy prior to initiation of dopamine gtt. HR 1/2hr after dopamine 105-150, requiring amio bolus and cardioversion. Dopamine d/c and pt currently on levophed at 0.08mcg/kg. Pt hypotensive throughout night as described above, but since levo 110-120/60's with MAP 68-80. Pt received total of 750cc NS fluid bolus and 1unit PRBC for Hct 26.9 (goal >30 d/t presence of cardiac disease).
+
+Resp: Pt received on AC 14/500/.35/5. Pt breathing above vent settings. Sats >98% until tachycardic episode when sats decreased to 92%. ABG 7.40/34/52. FiO2 increased to 50%. BBS with worsening rhonci throughout. Snx moderate amounts of bloody thick secretions...team aware. 
+
+Neuro: Pt sedated on fentanyl 25mcg and versed 0.5mg...easily arousable by verbal stimulus. Following commands and shaking head no to being in pain. Strengths equal in upper extremities, moving lower extremities on bed. 
+
+GI/GU: Abdomen soft, BS present. OGT clamped with no gastric residual. Foley cath intact draining marginal urine at times...team aware. UO responds to fluid bolus...20-60cc/hr clear yellow urine. No BM this shift. 
+
+ID: Pt on vanco, ceftriaxone. WBC 5. Afebrile. 
+
+Social: Daughter to visit at bedside last evening. Pt full code. 
+
+Plan: Continue amiodarone gtt at 1mg/hr for next 6hrs and then decrease to 0.5mg/hr. Continue levophed for MAP >60. Monitor Hct for goal >30.  
+
+Access: RIJ triple lumen intact with PIV x1 right forearm.     
+",,
+5054,20459,6267,0,3112-09-05 16:22:00 EST,3112-09-05 16:46:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events-  Pt. converted to NSR this am, levophed was weaned off, now back in A-fib.  Pt. received 250cc FB for CVP of 8 and decreasing u/o X 1.  U/o maintained at 30cc/hr, now dropping off again.  Fio2 again decreased back down to 40% with stable ABG.  Cardiology consulted recommending Amiodorone bolusing (150mg) if Afib persists w/ RVR. Family met with Attending Dr. [**Last Name (STitle) 91**] and [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **]-[**Doctor Last Name **]. To OR tom'row for rigid bronch.  Hospice consult placed to pallative care team ([**First Name8 (NamePattern2) 92**] [**Last Name (NamePattern1) 93**] and case mgmt.)as a heads up for when pt. is awake and appropriate. 
+
+Review of Systems-
+
+Neuro-  Pt. remains on low dose fentanyl and versed and is interactive to voice, follows commands.  Family expressing interest in having him more awake after rigid bronch to talk plan of care with him.  Would decrease sedation if/ if does not go to OR tom'row to aide in family's need for his participation in decision making if appropriate.
+
+Resp-  Increased sx'ing requirements, pt. with strong highly productive cough.  Stable sats, tolerating decrease in fio2, stable ABG.  LS- coarse throughout.  To OR tom'row for rigid bronch and removal of stent- explained that pt. is high risk for this procedure by Dr. [**Last Name (STitle) **] [**Name (STitle) **].  
+
+CV-  HR 80's-100's currently Afib, previously converted to NSR this am with 12 lead EKG taken at the time.  Pt. received on 0.08mcg/kg/min of levophed which was weaned to off this am.  Pt. remains on heparin gtt with therapeutic PTT and amiodorone gtt which was decreased to 0.05mg/min at 10a, to infuse through 4a and start PO.  However, now that pt. back in Afib, team may elect to keep pt. on IV gtt for longer than 24 hours.  CVP 8-12.  Bolused X 1 250cc/hr for low CVP and u/o.  Team feels that pt. has significant diastolic dysfunction with normal EF so fluid balance is a difficult to manage.  SVO2 was attempted however distal port of CVC not functioning, sample sent from medial port and came back as 39- thought to be venous.  So fick was not achieved.  Skin with red area on coccyx- pt. kept off back, heels elevated off bed.  
+
+GI-  TF started at 20cc/hr and increased to 40cc towards goal of 50cc/hr of Promote with fiber.  ABD Soft.  No stool.
+
+GU- U/o marginal at 20-30cc/hr, team aware that it has dropped off the past few hours, but CVP >10 so we have not bolused w/ IVF.  
+
+ID-  Conts on vanco and ceftaz, afebrile.  
+
+Social-  2 dtrs in today, met with team as mentioned, and SW.  Talkign of hospice level care after pt. is d/c'd from hospital.  Pallative team notified of pt. and family's request. 
+
+
+",,
+5054,20459,6267,0,3112-09-05 17:05:00 EST,3112-09-05 17:06:00 EST,2503,"N",69,"Nursing/Other","resp. care","
+resp. care
+pt. remains intubated/vented. sx'd large amts. white
+secretions. fi02 decreased to 40%. tolerating well.
+mdi's given. to o.r. tomorrow for stent.
+",,
+5054,20459,6267,,3112-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-6**] 5:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7899**]
+     Reason: please evaluate for post-op changes, progression of infiltra
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           80 year old man with h/o lung cancer c/b occluded bronchus s/p intubation, 
+         who   presents with possible post-obstructive pneumonia s/p rigid 
+      bronchoscopy and removal of old stent 
+     REASON FOR THIS EXAMINATION:
+      please evaluate for post-op changes, progression of infiltrate                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with recent removal of old bronchial stent.
+     
+     COMPARISON:  Chest radiograph, [**3112-8-28**], [**3112-9-4**].
+     
+     AP PORTABLE ERECT CHEST:  Again seen is a large right pleural effusion.  There
+     is little aeration of the right lung.  A single right bronchial stent is still
+     visualized (previously there were two).  There is mild improvement in the
+     aeration of the left lung, which may be related to technique.  A small left
+     pleural effusion is still seen.  Right internal jugular line, endotracheal
+     tube, nasogastric tube are unchanged in position.  There is stable pulmonary
+     edema in the left lung.
+     
+     IMPRESSION:  Interval removal of one right bronchial stent.  Otherwise, no
+     significant change in the appearance of the chest.
+
+",,
+5054,20459,6267,0,3112-09-06 04:12:00 EST,3112-09-06 04:29:00 EST,7282,"N",69,"Nursing/Other","Progress Note 7p-7a","
+Progress Note 7p-7a
+Neuro: Pt. remains sedated with Versed 0.5mg/hr and Fentanyl 25mcg/hr. Pt. easily arousable. When aroused, a+ox3. 
+
+CV: Pt. remained in A-Fib for most of the night with rate controlled 60's to 80's. Pt. was on Amiodarone gtt at 0.5mg/min. The drip was DC'd at 0400 and pt. was started on PO Amiodarone 400mg. Left radial a-line in. Dressing changed [**9-6**] at 0100. Pt's blood pressure remained in the low 90's to low 100's/ 40's to 50's. CVP monitoring continued ranging from [**1-22**]. Pt. remains with pitting edema of all extremities. All pulses palpable. Pt remains on heparin gtt at 950u/hr. Last PTT drawn at 2100: 63.5  Remains therapeutic.
+
+Resp: Pt. remains intubated and on ventilator with assist control settings: 40%/500/14/5. Rhonchi noted bilaterally. Minimal tan secretions noted. Pt to go to OR today for rigid bronch.
+
+GI: Bowel sounds hypoactive. OGT in place. Pt. was started on Promote tube feeding [**9-5**] at 40cc/hr. with a goal of 50cc/hr. Pt was made NPO after midnight d/t OR procedure today. Pt. had no BM tonight.
+
+GU: Foley in place with minimal clear yellow urine. MD's aware. Averaging an output of 30cc/hr.
+
+Skin: Reddened area noted on coccyx. Otherwise intact.
+
+Access: R triple lumen IJ, R LA 20g.
+
+Plan: To OR for Rigid bronch today. Continue to monitor UO closely.   
+",,
+5054,20459,6267,0,3112-09-06 04:43:00 EST,3112-09-06 04:46:00 EST,1813,"N",69,"Nursing/Other",,"
+
+resp care
+Pt remained on a/c 500x14 40% 5peep with peak/plat 26/17. BS coarse bil. Suct for sml amts of thick tan sput. Combivent mdi given as ordered.RSBI done on 0peep and 5psv=89. Will cont to monitor resp status.
+",,
+5054,20459,6267,0,3112-09-06 17:22:00 EST,3112-09-06 17:44:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: Pt is now s/p trip to OR for rigid bronch c old stent replaced by a new stent c no significant untoward events.  Otherwise pt remains intubated on MV and remains a Full Code.
+
+RESP: Pt received on AC-14-40-500-5.0 c nl sats, RR and resp effort.  Pt sxn'ed Q1 hr today for small amounts of thick off-tan sec c tiny specks of blood via ETT today. LS are diffusely rhoncerous, diminished in RLL and slightly bronchial in nature on L side.  LS now slightly less diminished on R side s/p new stent placement in OR.  Survailance ABG drawn/sent @ 17:55 c the following values; 7.30-41-67, metabolic acidosis noted, HO notified and will follow trend @ this time.  Pt has denied and cont to deny dyspnea or SOB when asked.  
+
+CV: Pt received in Afib c rare PVC's noted.  SBP values in the 80-120 range (much higher values when awake as compared to when pt is sleeping) c MAP goal >65 per team.  Pt c approx 40-50ml hourly urinary output today, UO noticably improved by decreasing pt sedation earlier. L radial a-line in place c dampened waveform noted.  RISS instituted today c a FS value of 51 s/p OR, pt med c one amp D50 c repeat FS value of 122 noted 30 minutes later.  Magnesium repleted today (AM lyte value of 1.7) c 2 gm Magnesium Sulfate.  Team currently discussing whether pt should be cardioverted out of afib (for third time) c pts dtr @ this time.  Will draw/send a Vanco trough prior to [**9-7**] 02:00 dose per team request.  AM EKG performed @ BS c slow resolution of old ST segment depression per HO.  Pt c oral temp of 94.8 on return from OR, bare hugger now in place c most recent oral temp of 96.2 -- will cont to monitor oral temp closely.  +2 Anasarca noted.  The pt is net input 800ml today and is net positive 4.3 liters LOS.    
+
+GI: Pt c approx 100ml emesis this AM and 50ml residauls per OGT this AM (2nd IV Fentanyl), IV Reglan subsequently initiated and pt now appears to be tol PO meds.  Pts OGT d/c'ed in OR and replaced @ BS @ 17:30, currently awaiting CXR confirmation before this device can be utilized.  Tube feed goal per nutrition is Promote c Fiber @ 80ml/hr and will start @ 40ml/hr per nutrition recs.  
+
+MS: Pt received lightly sedated on 25mcg/hr IV Fentanyl & 0.5mg/hr IV Versed c no pt c/o pain/discomfort/agitation all shift and IV Fentanyl gtt rate subsequently dropped to 15mcg/hr c no change in pt reported comfort level.  Pt is cooperative, MAE, follows commands, appears stated age, able to nod head appropriately to simple yes/no questions and in NAD.  No restraints in place all day.
+
+DERM: Erythema on buttocks and back noted [**Initials (NamePattern5) **] [**Last Name (NamePattern5) **] scale of 12, pt subsequently placed on a Kinair mattress.  Multipodus boots also applied to LE's to protect heals/maintain correct anatomical position of feet.  Pt positioned side to side all day (off back) to minimize additional pressure to back/buttocks.  
+
+SOC: The pts three dtrs have called/visited for much of the day and all kept up-to-date c POC/pt status.  Dtrs currently discussing pt care/goals c attend
+",,
+5054,20459,6267,0,3112-09-06 17:23:00 EST,3112-09-06 17:44:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+(Continued)
+ing MD.  The pt remains a Full Code.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions in place. 
+",,
+5054,20459,6267,0,3112-09-07 03:00:00 EST,3112-09-07 03:22:00 EST,7282,"N",69,"Nursing/Other","Progress Note 7p-7a","
+Progress Note 7p-7a
+Neuro: Pt. remains sedated with Fentanyl 25/Versed 5. Sedation shut off from 0100 to 0230 to see if it is the sedation causing hypotension. Because sedation off did not have any effect on pt's BP, turned back on at 0230 d/t pt. gaging and coughing from ETT. Pt. easily arousable to voice. Follows commands consistently. No pain issues at this time.
+
+CV: Pt. remained in A-Fib with occassional PVC's throughout night. Rate remained 60's to 80's. SBP remained 70's to 90's. 250cc NS bolus x4 given with no response. Neosynephrine 0.5mcg/kg/min started at 0100 with good effect. Order written to titrate to effect to keep MAP above 65. Map has remained above 65 after neo started. Pt. remains very edematous. pulses positive. CVP varied from [**11-23**] throughout night. Heparin gtt restarted at 2000. Ptt drawn at 0100 with result of 28.7. Gtt turned up from 950U/hr to 1250U at 0200. Pt. bolused with 3200U at this time. Ptt to be rechecked [**Company 8160**]-Max 98.9  Bear hugger removed at midnight d/t consistent stable temps.
+
+Resp: Pt. remains intubated on ventilator with CMV settings: 40%/500/14/5. Breath sounds remain rhoncherous bilat. Increase in blood-tinged thick secretions noted. 
+
+GI: Pt. remains with OGT in place. Tube feed (Promote with fiber) restarted at 2000 at 20cc/hr. Residual checked at 2200. Rate increased to 40cc/hr because only 5cc's of residual noted. When checking residual at 0000, 110 received. Tube feed stopped at that time. Bowel sounds positive. No emesis during shift. No BM noted.
+
+GU: Foley remains in place. Urine output averaging 15-30cc's/hr. However, after each bolus, UO increased to around 50cc's yet dropped back down shortly after.
+
+Skin: Redness notes on back, coccyx and bilat heels. Small golf-ball sized area of fluid noted on coccyx. Barrier cream applied to all areas after bath. Multipodus boots remain on.
+
+Access: R TL IJ. Dressing changed [**9-6**]. RFA 20g 
+
+ID: 0200 Vanco dose held d/t vanco trough of 19.9
+
+Plan: Attempt to wean neo./sedation.  Possible extubation ? Pt. made DNR after change of shift. Families goal is transport pt. home to palliative/hospice care.  
+",,
+5054,20459,6267,0,3112-09-07 05:13:00 EST,3112-09-07 05:16:00 EST,2742,"N",69,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated with 8.0 OETT/22 lip/om vent all noc on AC mode. SEE CAREVUE FOR SPECIFICS. Breathing one breath over vent. PIP/ PLat 22/20. Lungs coarse rhonchi throughout. Sxd lg amts thick bld. tinged sputum. RSBI-77. Cuff pressure 18cmH20. 
+",,
+5054,20459,6267,0,3112-09-07 05:22:00 EST,3112-09-07 05:24:00 EST,7282,"N",69,"Nursing/Other","Addendum to Progress Note 7p-7a","
+Addendum to Progress Note 7p-7a
+At 0615 pt.'s heart rhythm changed from A-Fib to first degree heart block with pr interval 0.22. Neosynephrin increased to 0.8 mcg/kg/min to keep MAP>65.
+",,
+5054,20459,6267,0,3112-09-07 14:50:00 EST,3112-09-07 15:12:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: Pt did poorly during SBT this AM and now returned to AC resting setting.  
+
+RESP: Pt received on AC-14-40-500-5 c nl sats, RR of 14-16 c pt denying dyspnea/SOB when questioned.  Pt c coarse/rhoncherous BS in all lobes all shift, slightly diminished in RLL and slight clearing s/p successful sxn'ing.  Pt sxn'ed Q1 hr today for small amounts of thick tan/blood-tinged sputum.  Pt c weak cough noted.  AM RSBI value of 77.2 this AM.  As mentioned above, the pt did not tol a SBT this AM c increased WOB, sats dropping to the low 90's and pt c/o dyspnea & feeling scared.  Pt then placed on CPAP/PS and cont to c/o dyspnea until the settings of 15/5 were placed.  Approx two hours into this ""trial"" the following ABG values were obtained; 7.37-37-95.  Pt subsequently returned to resting AC mode.  
+
+CV: Afib EKG waveform noted today c rare PVC's.  Pt received on IV Neo gtt infusing @ 0.8mcg/kg/min c MAP's >65 all shift.  Neo gtt weaned down c good tol and d/c'ed @ 15:15 -- currently assessing pt tol off Neo c goal to keep MAP>65 & hourly urinary output >30ml/hr.  +2 Ansarca unchanged today.  AM Magnesium value of 1.7 repleted c 2 gm IV Magnesium Sulfate today.  14:00 random Vanco level of 14.9 noted and will re-dose shortly per HO.  CVP values in the low/mid teens all shift.  14:00 HCT value stable @ 31.0.  AM EKG performed @ BS, results furnished to HO.  Repeat AM PTT c a value of 28.9 (despite rate of 1250U/hr(pt had been therapeutic c a rate of 950U/hr on [**9-6**])) via a RUE PIV that appeared infiltrated (and subsequently d/c'ed).  IV Heparin gtt restarted @ 950U/hr via RIJ TLC and will check PTT shortly.
+
+MS: Pt received on IV Fentanyl gtt @ 25mcg/hr & IV Midazolam gtt @ 0.5mg/hr.  Pt c c/o anxiousness and therefore IV Versed slowly titrated up today and currently infusing @ 1mg/hr.  Pt s c/o pain and therefore IV Fentanyl weaned down to 20mcg/hr.  Asside from pt discomfort during SBP trial the pt has consistently reported feeling comfortable and pain free.  Pt re-oriented to person/place/time freq today to assist c nl cognition.  No restraints in use @ this time.
+
+GU: The pt c approx 65ml/hr urine output today c over 1.1 liters of urine output thus far today.  Urine is a clear yellow liquid.  
+
+GI: Pt restarted on full strength Promote c Fiber @ 14:45 s/p failed weaning trial this AM and will titrate up as tol to goal of 80ml/hr as tol.  Abd is soft, distended c +BS appreciated in all quads.  No BM thus far today, PO Lactulose started.  IV Reglan also in place to optimize GI motility.  
+
+DERM: Pt c stage 1 pressure ulcer on coccyx, KinAir mattress in place and pt positioned on side to minimize pressure.  Venodyne & multipodus boots in place.  
+
+SOC: Multiple family members have visited today and all kept up to date c POC/pt status.  Code status of DNR/DNI now being re-addressed c team/family.  
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions in place.  
+",,
+5054,20459,6267,,3112-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-8**] 3:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7900**]
+     Reason: intervasl change pulm infiltrate                            
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            80 year old man with h/o lung cancer c/b occluded bronchus s/p 
+      intubation,     who   presents with possible post-obstructive pneumonia s/p 
+      rigid  bronchoscopy and removal of old stent 
+     REASON FOR THIS EXAMINATION:
+      intervasl change pulm infiltrate                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Possible post-obstructive pneumonia.  Evaluate pulmonary infiltrate.
+     
+     chest, single ap vw
+     
+     An ET tube is present, tip at the upper level of the clavicles, somewhat high.
+     An NG tube is present, tip extending beneath diaphragm off film.  Again seen
+     is a right bronchial stent.
+     
+     There is considerable opacification of the right lung, with only a small
+     residual portion of aerated lung centrally, extending from upper to lower
+     zones. On the left, there is diffuse vascular blurring and more confluent
+     opacity at left base, including left lower lobe collapse and/or consolidation
+     and probable small-to-moderate left effusion.
+     
+     Direct comparison to [**3112-9-6**] chest x-ray is somewhat difficult given marked
+     differences in patient positioning and motion and respiratory motion on the
+     current study. However, overall, there is negligible interval change in the
+     cardiopulmonary findings. There may be some increased aeration on the right.
+     Of note, the tip of the ET tube appears to be higher on today's exam, though
+     this in part relates to marked differences in positioning.
+     
+
+",,
+5054,20459,6267,0,3112-09-08 03:51:00 EST,3112-09-08 04:20:00 EST,2747,"N",69,"Nursing/Other","NPN  1900-0700","
+NPN  1900-0700
+CV:  Pt restarted on Neo for map <65 at 0300.  Currently on .4 mcg/kg/min c BP 118/54.  HR mostly 80s, A-fib, converted to sinus ~0430 at rate of 88-92.  PTT 78.9, cont on 950 u/hr.  Hct stable at 32.1, Am chems pending.  Tmax 99.3 po.  Cont 2+ edema arms and legs.
+
+Resp:  LS rhonchorus t/o, pt coughs freq, sx ~q1hr for sm - mod amt thick, tan sputum.  ABG result pao2 79, fio2 increased from 40 - 50, repeat ABG at 0330 7.34/40/118.  Other vent settings unchanged.  Cxr obtained this am.  
+
+Neuro:  Pt alert, follows all commands, nods appropriately, mae.  Maintained on Fent 20mcg and Versed 1.0mg with no c/o pain or anxiety.
+
+GI:  +BS, abd firm, had 3 brown, loose BMs, OB neg.  Held 4am dose of Lactulose.  TF d/c'd due to high residual of 150mls.  50mls at 0300, will recheck and restart at slow rate.  
+
+Gu:  u/o 15-40mls/hr, improved with Neo.  Urine clear yellow. 
+
+Skin:  Barrier cr applied to coccyx x2, stage 2 pressure sore.  
+
+Social:  Family left ~2200.  Very caring and supportive.  
+
+Plan:  Pt remains DNR.  Neo to maintain map >65.  Monitor ABGs, resp status, f/u on cxr.  Good skin care.   
+",,
+5054,20459,6267,0,3112-09-08 05:38:00 EST,3112-09-08 05:42:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains trached on full ventilatory support. Bs coarse rhonchi on rt, fine rhonchi on rt, Sx frequently for sml to mod slightly thick light tan secretions accompanied by strong productive cough. MDI's as ordered. RSBI this AM on 5/0 93.
+",,
+5054,20459,6267,0,3112-09-08 14:23:00 EST,3112-09-08 14:40:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: Pt c poor tol of SBT this AM and returned to resting MV AC mode.  Neo gtt remains in place, unable to titrate down/off today 2nd borderline MAP's & hourly urinary output.  
+
+RESP: Pt received on AC-14-50-500-5 c nl sats, nl RR and nl WOB.  Pt c AM RSBI value of 136 noted.  Pt cont to have diffusely rhoncerous BS in all lobes c minimal clearing in responce to sxn'ing.  Sxn'ing provided Q1-2 hrs for thick tan sec today.  Pt c good cough.  ETT in good position s/p AM CXR per HO.  
+
+CV: Pt received/maintained on IV Neo gtt infusing@ 0.4mcg/kg/min via RIJ TLC.  Unable to titrate Neo gtt down/off 2nd borderline MAP's >65 and hourly urinary output > 30ml/hr.  Will titrate Neo gtt to ensure MAP's > 65 & urinary output > 30ml/hr and hope to titrate down/off if able.  NSR/first degree heart block all shift, 400mg PO Amiodarone dosing changed from BID to QD dosing.  AM EKG obtained this AM and provided to team.  Random AM Vanco level of 14.9 noted, 1gm QD IV Vanco dosing now in place.  AM Potassium & Magnesium lyte values of 3.6 and 1.9 respectively, coorespondingly repleted c 40MEQ KCL IV & 2gm IV Magnesium Sulfate. L Radial a-line became disconnected during pt turn, team notified c no plan to replace @ this time.  Pt remains afebrile.  IV Heparin gtt infusion rate of 950 units/hr remains therapeutic c an AM PTT value of 78.9.
+
+MS: Pt received on IV Verced gtt & IV Fentanyl gtt infusing @ 1mg/hr & 20mcg/hr respectively.  Pt noted to be more lethargic this AM, IV Verced gtt titrated down to 0.5mg/hr and IV Fentanyl gtt d/c'ed (no c/o pain per pt) and remains off.  Pt follows all commands consistently, MAE (lifts/holds all extremities to command).  
+GU: Pt c approx 35ml hourly urinary output today on Neo gtt.  The pt has voided a total of 500ml urine output thus far today via foley cath.  The pt is net input 500ml thus far today and is net positive nearly 7 liters input LOS.  +2 Generalized anasarca slightly diminished today.  
+
+GI: Pt cont to have persistently high residuals via OGT today and therefore Promote c Fiber TF's have remained off.  Pt c large loose stool this afternoon following 12:00 PO Lactulose/IV Reglan, will hold next pro GI motility agents for rest of shift.  Abd is soft, mildly distended c good BS appreciated.  
+
+DERM: KinAir mattress, Multi-podus boots and Venodyne boots all in place.  Pt kept on side to minimize pressure to stage I-II pressure ulcer on coccxy.  
+
+SOC: Family vigil maintained by multiple family members today, all kept up-to-date c POC/pt status.  The pt is a DNR but not a DNI (should the pt become extubated).  
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions remain in place.  
+",,
+5054,20459,6267,0,3112-09-08 17:44:00 EST,3112-09-08 17:45:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full mechanical support.  Trial on PSV today, did not tolerate well w/ ^RR decreased Vt.  See resp flowsheet for specific vent settings/data/changes.
+
+Plan: maintain support
+",,
+5054,20459,6267,,3112-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-9**] 4:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7901**]
+     Reason: evaluate post-obstructive PNA                               
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             80 year old man with h/o lung cancer c/b occluded bronchus s/p  
+      intubation,     who   presents with possible post-obstructive pneumonia s/p  
+      rigid  bronchoscopy and removal of old stent 
+     REASON FOR THIS EXAMINATION:
+      evaluate post-obstructive PNA                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 4:53 HOURS:
+     
+     HISTORY: 80-year-old man with obstructing lung cancer.  Following
+     bronchoscopic removal of stent.
+     
+     IMPRESSION:  AP chest compared to a series of chest radiographs since [**9-3**],
+     most recently [**9-7**] at 4:35.
+     
+     Of 2 right bronchial stents present on [**9-5**] one remains, projecting over
+     the anticipated location of the bronchus intermedius.  Right upper lobe
+     aeration has improved since revision of the stents, but the right lung is
+     surrounded by large pleural effusion, and the lung volume is quite small.
+     Left lung demonstrates worsening pulmonary edema. Heart is top normal in size,
+     but the mediastinum and has now moved to the midline.  ET tube is in standard
+     placement.  A right jugular line tip projects over the SVC and a nasogastric
+     tube loops in the stomach.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6693**]
+",,
+5054,20459,6267,0,3112-09-09 04:54:00 EST,3112-09-09 05:14:00 EST,2747,"N",69,"Nursing/Other","NPN  1900-0700","
+NPN  1900-0700
+Resp:  Pt cont on vent since adm on [**9-3**], and after attempt to open blocked area of bronchial stent.  Last two days, pt was trialed on SBT and PS trial, but failed & returned to AC shortly.  Settings 500x14/5/50%.  RR 16024, sats 98-100.  No abg this am as a-line came out yest.  LS remain extremely rhonchorus c occ wheezing.  Sx q 1-2 hrs for sm-mod amt white/tan frothy secretions.  
+
+Neuro:  Pt A&O, responds appro c nodding and mouthing words, espec. with daughters.  No c/o pain, fentanyl gtt was d/c'd yest.  Receiving Midaz, incr from .5mg/hr to 1.0 last even when pt felt anxious.  Mae.
+
+CV:  On Neo to keep map >65, received on .4mcg, now on .7mcg.  CVP stable at 11-12, HR 68-89, 1st deg AV block.  Was in A-fib yest and last few days.  On Amiodorone qd, metoprolol held.  Hct stable at 29.4.  
+
+GI:  +BS, abd firm, distended.  TF stopped yest due to cont high residuals - 45mls last check only from PO meds.  On reglan.  Pt had been started on Lactulose tid - had many lge loose stools, now has mushroom cath, putting out sm amt liq stool.  
+\
+GU:  U/o > 30mls/hr, I&O fairly even yest and today, but up 6.4L los, pt has 2+edema arms, trace legs.
+
+Skin:  Pt has stage 1 ulcers on coccyx, tx c barrier cr.  Has rash in perineum, and sl reddened under arms.  Radiation rash on upper back.  Kinair bed.  Heels sl reddened, multipodus boots.
+
+ID:  On vanco, zosyn for Pna.  Tmax 98.4.    
+
+Plan:  f/u on am labs.  Titrate Neo gtt to map >65.  ? PS trial today.  f/u on am cxr.  
+",,
+5054,20459,6267,0,3112-09-09 05:55:00 EST,3112-09-09 05:57:00 EST,2427,"N",69,"Nursing/Other",,"
+
+pt remained on A/C throughout PM and was regularly sx'd for thick secretions.RSBI this AM was poor at 200 and he appeared very uncomfortable. Pt will be reevaluated for weaning during AM shift.
+",,
+5054,20459,6267,0,3112-09-09 16:40:00 EST,3112-09-09 17:06:00 EST,5600,"N",69,"Nursing/Other","Shift Note 0700-1900","
+Shift Note 0700-1900
+CV: HR 60-70's, A-fib with no ectopy (one brief episode of bradycardia this am into 40's). BP hypotensive at beginning of shift requiring levophed gtt to be increased up to 0.8mcq. Left radial art line placed reflecting more accurate BP ranging 98-122/50's with MAP 63-75. Levophed successfully weaned off. 2+edema noted to upper/lower extremities. Pt continues on heparin gtt at 950units/hr..PTT 72.8. On amio and dig for rate control. PO lopressor held d/t hypotension. Goal MAP >60.
+
+Access: RIJ lumen intact with CVP transduced to distal port ranging [**10-22**]. 
+
+Resp: Pt continues on AC 14/500/.[**6-13**]. RSBI this am 200 and patient unable to wean from vent. Increase secretions requiring Q1-2hr snx for moderate amounts of creamy thick secretions with dark tan [**Doctor Last Name **]. Occasionally snx blood-tinged secretions. Minimal oral secretions. Pt on abx coverage for pna. 
+
+Neuro: Pt continues on versed gtt at 1mg/hr for comfort...without slight sedation, patient coughs/gags on ET tube and mildly anxious. Opens eyes spontaneously, following commands and attempting to mouth words for communication. 
+
+GI/GU: Abdomen soft, BS present (occasionally hyperactive). OG tube remains clamped. Reglan started, but patient still not tolerating tube feeds at low rate, therefore stopped yesterday. Family meeting this afternoon and if patient not placed comfort care, will need to re-address nutrition. Mushroom cath in place draining liquid brown stool, occasionally oozing around cath. Foley intact draining >30cc/hr clear yellow. 
+
+ID: Pt on abx coverage for pna...zosyn, vanco(trough level drawn prior to 1400, 12.8. Dose given. Afebrile. 
+
+Social: Family meeting held to update family on patient's current medical status. Family aware that patient has made little progress over the last 72hours and status to be discussed with patient to obtain his wishes as far as continuing medical treatment or placing CMO. 
+
+
+",,
+5054,20459,6267,0,3112-09-09 17:56:00 EST,3112-09-09 17:58:00 EST,2477,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+   Patient remains on full vent support. Attempt to change over to PSV for comfort was not tolerated. BS diminished t/o right lung. Suctioned for blood tinged thick yellow sputum this afternoon. Plan to maintain supportive care. See Carevue flowsheet for specifics.
+",,
+5054,20459,6267,,3112-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-10**] 3:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7902**]
+     Reason: New infiltrates or effusions                                
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with CAD, R bronchus obstruction. lung CA                       
+     REASON FOR THIS EXAMINATION:
+      New infiltrates or effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3112-9-10**].
+     
+     COMPARISON:  [**3112-9-9**].
+     
+     INDICATION:  Lung cancer.  Right bronchus obstruction.
+     
+     Endotracheal tube, nasogastric tube and central venous catheter are in
+     satisfactory position.  Cardiac and mediastinal contours are stable.  There
+     are worsening bilateral alveolar opacities.  Large right and moderate left
+     layering pleural effusions are noted, with interval worsening of the left
+     pleural effusion.
+     
+     A right bronchial stent is noted.  The overall volume of the right lung
+     remains reduced but overall improved compared to earlier radiographs of [**9-4**] and [**3112-9-3**].
+     
+     IMPRESSION:  Worsening pulmonary edema and enlarging left pleural effusion. 
+     Stable, large, right pleural effusion and volume loss in the right hemithorax.
+                                                                           
+
+",,
+5054,20459,6267,,3112-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-10**] 10:22 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 7903**]
+     Reason: please r/o pna or chf                                       
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              80 year old man with h/o lung cancer c/b occluded bronchus s/p 
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      please r/o pna or chf                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old man with lung cancer, occluded bronchus, difficult to
+     oxygenate.
+     
+     IMPRESSION:  AP chest compared to a series of chest radiographs since [**9-8**],
+     most recently [**9-10**] at 0412 hours:
+     
+     Endotracheal tube is in standard placement.  Nasogastric tube passes into the
+     stomach distended with air, and out of view.  Severe pulmonary edema in the
+     left lung is worsened over the past 24 hours.  The right lung is encased by
+     large right pleural effusion with aeration probably limited to the upper lobe.
+     Heart is normal size.  Right jugular line tip projects over the SVC.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6693**]
+",,
+5054,20459,6267,0,3112-09-10 05:43:00 EST,3112-09-10 05:50:00 EST,7285,"N",69,"Nursing/Other","7pm-7am","
+7pm-7am
+neuro: pt opens eyes and follows simple commands. mae. 
+resp: pt remains on vent support: cmv rate 14/fio2 50%/tv 500/peep 5
+breaths above the vent. abg wnl. moderate amt of thick tan-yellow sputum sx'd 
+cv: heart rate is 70-80 in afib. sbp >90. off neo gtt. skin warm and dry
+gu/gi: tf restarted at 10 with goal of 40 ml/hr. tolerating well. foley to bsd with minimal huo 20-45 ml per hour. minimal response to 250 ml of ns.
+skin intact.
+",,
+5054,20459,6267,0,3112-09-10 14:40:00 EST,3112-09-10 15:13:00 EST,5600,"N",69,"Nursing/Other","Shift Note 0700-1900","
+Shift Note 0700-1900
+CV: HR 60-80's A-fib with rare PVC's; Pt having occasional episodes of unsustained/asymptomatic bradycardia into 30's. PT DNR; atropine for symptomatic brady not indicated as per family and MICU team. ABP via left radial art line 130-140/60-70's this am. Given dose of scheduled PO lopressor 12.5mg...later became hypotensive. PO amio and lopressor d/c. Trop leak 0.3. Hct 27.5 from 29.4...given unit PRBC. Post-transfusion Hct to be sent. Pt on heparin gtt d/t afib and continues to be within therapeutic range (goal 60-100)with am PTT 87.6
+
+Resp: Pt appearing uncomfortable with difficulty breathing on vent this am. Appeared to be ""panting"" between vent breaths. Sedation increased to 2mg versed gtt. Although patient better sedated and relaxed, breathing pattern still continued. Pt snx/lavage for minimal secretions and sats remained 93-95%. ABG sent 7.27/51/79/24 from am ABG 7.39/39/123/24. Stat CXR ordered, EKG obtained. RR and peep increased on vent. Settings currently AC 16/500/.50/8 with correlating ABG 7.38/40/109/25. Venous O2 sat 65%, lactic acid 1.6. BBS rhonorous, snx moderate amounts of tan thick secretions with an increase in oral clear secretions. 
+
+Neuro: Pt more sedated this afternoon and when became hypotensive gtt stopped briefly until BP stable and patient more awake. Opens eyes to verbal stimulus, following commands consistently, but lethargic. Denies pain. 
+
+GI/GU: Abdomen softly distended, BS hypoactive. Promote with fiber infusing at 30cc/hr with minimal residual. On reglan for prior tube feed intolerance and high residual. To increase slowly to goal 50cc/hr. Pt on lactulose and held this afternoon d/t increase stooling with large amounts draining around mushroom cath. Heme (-). Foley draining minimal amounts of UO...5-30cc/hr. Little response in UO when given volume by blood. Team aware, but unable to fluid bolus at this time d/t fluid overload on CXR. ?Restarting vasopressors if UO continues low and MAP <60. 
+
+ID: Afebrile. Cont on abx coverage for pna. Vanco trough drawn prior to yesterday's dose, 12.8. On zosyn. 
+
+Social: Meeting held with family (patient's 4 daughters), RN and residents. Aware of episode of bradycardia and need for increase vent requirement. Family does not want patient to have ""cardiac resuscitation"" in any form including medication. Continue supportive treatment. 
+",,
+5054,20459,6267,0,3112-09-10 16:42:00 EST,3112-09-10 16:44:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally inutbated on full mechanical support; had episode of desaturation/dysynchrony on vent, increased sedation, PEEP, and RR to good effect.  ABG acceptable.  See resp flowsheet for specific vent settings/data/changes.  MDIs given as ordered to good effect.  BLBS coarse rhonchi, suctioned for moderate amounts of thick tan sputum.  
+
+Plan: maintain support
+",,
+5054,20459,6267,,3112-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-11**] 10:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7904**]
+     Reason: Evaluate pleural effusions, pulmonary edema                 
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old man with h/o lung cancer c/b occluded bronchus s/p  
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      Evaluate pleural effusions, pulmonary edema                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE.
+     
+     INDICATION:  80-year-old man with history of lung cancer.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed, and
+     compared with the previous study of yesterday.
+     
+     The tip of the endotracheal tube is identified 3 cm above the carina.  A
+     nasogastric tube terminates in the gastric fundus.  Right jugular IV catheter
+     terminates in the superior vena cava.
+     
+     Again note is made of stent in the bronchus intermedius, which is related to
+     the patient's known lung cancer.
+     
+     The previously identified pulmonary edema has been improving.  There is
+     continued moderate sized right pleural effusion and atelectasis in the right
+     lower lobe.
+                                                                           
+
+",,
+5054,20459,6267,0,3112-09-11 03:28:00 EST,3112-09-11 03:29:00 EST,2742,"N",69,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated/on vent per carevue. No changes in settings. Lungs coarse rhonchi/wheezes bilat. SXd thick tan/sputum No RSBI this am [**Name8 (MD) 17**] MD
+",,
+5054,20459,6267,0,3112-09-11 03:45:00 EST,3112-09-11 03:58:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7p-7a","
+nursing note: 7p-7a
+neuro- pt arouses to voice, follows simple commands. nods head yes and no, and mouths words. remains on versed gtt at 1mg/h. denies pain. 
+
+resp- remains intubated, no vent changes. am abg 7.42/38/89. ls rhoncherous. suctioned for moderate amounts of thick tan blood tinged sputum at times plugs. sats 94-99%. ett rotated and retaped at 22cm at lip.
+
+cv- pt had periods of bradycardia ? junctional rhythm to high 30's with slight drop in bp. periods are short and resolve on their own and seem to occur when pt converts from afib to sr. pt in/out of afib/sr overnight 70-80's occasional pvc's. heparin gtt maintained at 950u/h.
+
+gi- abd soft distended + bs. mushroom catheter in place for liquid green stool, guiac negative. tf promote with fiber advanced to goal of 50cc/h. 0-5cc residuals. iv reglan held overnight due to stooling and no residuals.
+
+gu- folay patent for approx 20cc/h of clear yellow urine. team aware of marginal output.
+
+access- left radialaline, rij tlcl intact.
+
+social- two daughters visited briefly last evening, minimal interaction with this rn
+
+dispo/plan- remains in micu, DNR after yesterday's family meeting. pt has asked when he is going home. plan of care discussion needs to be re-addressed with patient and family. continue to monitor. 
+",,
+5054,20459,6267,0,3112-09-11 12:53:00 EST,3112-09-11 13:09:00 EST,5514,"N",69,"Nursing/Other",,"
+
+CV:  SR 70's-80's with 1st degree AVB, short period of slow AF this am that was tol well; no VEA noted; faintly palpable bil pedal pulses; generalized 2+ edema; K+/Mag repleated; heparin gtt cont. at 1100u/h with PTT of 67.9
+
+Resp:  Pt remains orally entubated (see flowsheet for vent settings) with sats generally high 90's-100; adequate ABGs; LS with rhonchi throughout but RLL diminished; attempted CPAP with PS this am but pt only tol for <2 min before TV dropped to <200, replaced on CMV; frequently suctioned for generally thick, tan secretions
+
+GI:  Abd softly distended with normoactive bowel sounds; TF of full-strength Promote with fiber at goal of 50cc/h with min residuals per OGT, placement checked; sm amts liq green stool per mushroom catheter
+
+GU:  Adequate clear yellow HUO per foley catheter to gravity
+
+Neuro:  Pt lethargic but rouses to voice, mildly sedated with Versed gtt, MAE, PERLA, nods appropriately to questions, follows commands consistently
+
+Endo:  BS covered by SS (see flowsheet for details)
+
+ID:  TMax 98.8, cont course ABX
+
+Social:  Daughters at bedside this pm
+
+Skin:  Coccyx reddened but skin unbroken, pt on KinAir bed 
+
+Plan:  Cont present plan of care, emotional support for family, ?another family meeting today 
+",,
+5054,20459,6267,0,3112-09-11 17:18:00 EST,3112-09-11 17:21:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full mechanical support. RSBI = 420. Trial on +20PSV/+8PEEP this AM; trial lasted <5mins w/ Vt dropping to 150cc, RR increasing to low 40s, and SpO2 drop to 90%.  Returned to previous A/[**Name Initial (MD) **] settings, MD [**First Name (Titles) 14**] [**Last Name (Titles) **] aware.  BLBS rhonchi, suctioned for copious amounts of thick tan sputum.  MDIs given as ordered.  See resp flowsheet for specific vent setting/data/changes.
+
+Plan: maintain current support
+",,
+5054,20459,6267,0,3112-09-11 18:42:00 EST,3112-09-11 18:57:00 EST,2056,"N",69,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Addendum:
+Family meeting done with House staff,Nsg and x2 daughters.Update was given and cont poor prognosis was presented to the family. The discussion was around future options that need to be  addressed with pt and family. They include ? trach,CMO, goal of care  in the future . The family wanted to know if going home was possible as this is what the pt really wants. The family was told that we could look into this options with the help of Social Services, Hospice/Palliative care and case management. [**First Name8 (NamePattern2) 4085**] [**Last Name (un) 7977**] to see pt in the am as well as a Catholic priest to help pt &  the family) come to grips with these discussions. The family will begin to speak with pt his wishes.
+",,
+5054,20459,6267,0,3112-09-12 03:23:00 EST,3112-09-12 03:37:00 EST,2437,"N",69,"Nursing/Other","nursing note:7p-7a","
+nursing note:7p-7a
+neuro- pt appears comfortable on versed gtt at 1mg/h. arouses to voice easily and follows commands. nods head yes and no to communicate. mae.
+
+resp- remains intubated on ac mode. no vent changes made overnight. suctioned for moderate amounts of thick tan secretions. ls rhoncherous. sats maintained high 90's.
+
+cv- hr 70-80's 1st degree av block with frequent pac's and a few episopes of brief bradycardia to 40's. bp stable overnight. remains on heparin gtt at 1100 u/h. 
+
+gi- abd soft + bs. small amount of liquid stool via mushroom catheter. tf promote with fiber at goal 50cc/h. 0-5cc residuals. reglan held overnight.
+
+gu- foley patent for marginal u/o 20-75cc/h. 
+
+social- daughters in to visit yesterday. ethics involved for assistance with plan and goals of care. pt wishes to go home, it is unclear if he realizes his terminal status, daughters clearly do. they plan on bringing in his small dog today, arrangements made yesterday. pt unaware just in case the dog doesn't come in. 
+
+dispo/plan- pt is dnr with clear plans not to escalate level of care. dr [**Last Name (STitle) **] from ethics plans on consulting palliative care and case management for assistance with possible hospice care. family meeting planned for Friday.
+
+
+",,
+5054,20459,6267,0,3112-09-12 03:51:00 EST,3112-09-12 03:52:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and on A/C 16/500/.50/+8 tolerating fairly well. Breath sounds coarse throughout, suctioning moderate amount yellow sputum. Will try RSBI. Continue.
+",,
+5054,20459,6267,0,3112-09-12 04:50:00 EST,3112-09-12 04:51:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE ADDENDUM: RSBI tried after 30 seconds HR decreased to 60 BP increased 160/74 SPO2 decreased to 84%. Placed back on original vent settings.
+",,
+5054,20459,6267,0,3112-09-12 15:22:00 EST,3112-09-12 15:24:00 EST,2788,"N",69,"Nursing/Other",,"
+
+the pt remainedc stable and without any vent changes.bs:ronchoreous,
+suctionned moderate amount of tan secretions.mdi administered as ordered.spo2 remained 100% at all times.
+",,
+5054,20459,6267,0,3112-09-12 16:45:00 EST,3112-09-12 17:08:00 EST,5600,"N",69,"Nursing/Other","Shift Note 0700-1900","
+Shift Note 0700-1900
+CV: HR 60-80's A-fib with rare PVC's. Pt has been flipping rhythm from A-fib to 1st degree heart block, however this afternoon difficult to distinguish b/w a-fib and WAP since appearing to have P waves of different morphology and PR intervals differing in length. ABP via left radial art line ranging 90-120/40-50's. Heparin gtt at 1100units/hr with daily PTT being followed...PTT this am 64.0. Pt + approx. 1L since MN; +10L LOS. CVP 11-15. 
+
+Resp: Pt continues on AC 16/500/.[**6-16**]; breathing over vent with RR 16-22...sats >97%, but decrease when patient requires snx. Pt with strong cough, but minimal gag reflex. BBS rhonorous thoroughout. Snx moderate-large amount of tan thick secretions. 
+
+Neuro: Pt on 1mg/hr versed. This am more lethargic and aroused to repeated verbal stimulus. Later this afternoon more aware, opening eyes spontaneously and interacting minimally with family. Follows commands; strengths weak. Nods head ""yes/no"" to answer questions. OOB to chair by [**Doctor Last Name 173**] lift...up for 1.5hrs before returning to bed. Denies pain, but occasionally uncomfortable in airbed. 
+
+GI/GU: Abdomen soft, BS present-hypoactive. Promote with fiber infusing at goal 50cc/hr with 5-10cc residual. Large loose brown BM x2. Reglan and bowel meds held. Foley draining 35-170cc/hr clear/yellow urine. 
+
+Endo: Pt on SSC. BS 140-150's. 
+
+ID: Pt afebrile...tmax 97.3. Continues on Vanco and Zosyn. Vanco trough last drawn [**9-9**]; level 12.8. Spoke with team about drawing trough prior to tomorrow's dose. 
+
+Social: Patient's daughters and family at bedside this afternoon. Spoke with Dr.[**Last Name (STitle) **] and [**First Name5 (NamePattern1) 92**] [**Last Name (NamePattern1) 4021**] from palliative care. Case management involved. Pt wishes to go home and family meeting to be held tomorrow with team to discuss possibilities of how to get patient home with hospice or possibly comfort measures at hospital. Pt currently DNR/DNI with plans not to escalate care per family. 
+",,
+5054,20459,6267,0,3112-09-13 03:39:00 EST,3112-09-13 03:41:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Patient remains intubated and ventilated on A/C 16/500/.50/+8 tolerating fairly well. Breath sounds coarse throughout suctioning moderate amount yellow sputum. No RSBI done as patient CMO and there is a family conference scheduled for today. Continue.
+",,
+5054,20459,6267,0,3112-09-13 04:13:00 EST,3112-09-13 04:31:00 EST,6825,"N",69,"Nursing/Other","MICU Nursing Note 1900-0700","
+MICU Nursing Note 1900-0700
+Events:  Uneventful night...remains intubated without any changes to vent settings.  Lightly sedated on Versed at 1mg/hr.  PTT therapeutic on IV Heparin at 1100 units/hr.  Comfortable night.
+
+Neuro:  Resting in naps.  Arouses easily to voice.  Follows commands.  Mouthing words and answering simple questions with head nods.  PERLA. Remains on IV versed at 1 mg/hr.  Moving upper extremities towards ETTube with all coughing episodes and at other times...bilat soft wrist restraints reapplied loosely during the night to remind pt not to pull at ETtube.
+
+Cardiac:  HR 60-70's Afib with occasional PVC's and occasional self-limiting brief episodes of bradycardia to 40's--resolves without intervention.  BP 92-134/40-60 via Aline...occasionally sBP dips to 80's while asleep and comes back up with stimulation.  Left radial Aline with good waveform and correlation to NBP.  Right IJ Mulilumen cental line site C/D/I and all ports patent.  IV Heparin infusing at 1100 units/hr with PTT= 63 this am.
+
+Resp:  Bilat breath sounds coarse throughout and pt with freq coughing episodes....bronchospastic with all suctioning and Sats dip to 88-90's after suctioning but return to 97-99% quickly.  Remains intubated on current Vent settings of TV=500/FI02=50%/AC=16/Peep=8.  RR=16-19 with spontaneous breaths [**3-14**] above vent.  Pips 30-40, MV= [**9-18**].  Suctioned for large amts thick yellow sputum and orally suctioned for large amts of thick whitish/clear sputum.  ETtube repositioned to right side.  Occasional cuff leak noted....? positional?
+
+GI:  OGtube with FS Promote with fiber infusing at 50 ml/hr.  0-5 ml residuals.  OGtube position checked by auscultation.  Abd softly distended with + bowel sounds all quads.  Small loose brown stool X3.  Colace and Lactulose changed to PRN. 
+
+GU:  Foley to CD draining clear yellow urine...25-50 ml/hr.
+
+Skin:  as previously noted...no changes.  3+ pitting edema LE and scrotum.  Freq skin care provided.
+
+Social:  Pt's daughter in last eve to visit....family meeting to take place today to further determine pt's status and potential D/C plan as pt wishes to go home.  Pt's dog did visit yesterday without incident.  Support offered to pt and family member.
+",,
+5054,20459,6267,0,3112-09-13 16:48:00 EST,3112-09-13 17:22:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Events:  Meeting with patient, Dr [**Last Name (STitle) **], ICU fellow and resident asking patient if he wanted a trach and he said ""YES"" 
+
+Cardiac:  B/P 100-140/60's, HR 72-80 Afib with rare PVC's.  Heparin being maintained at 1100u/hr for his afib.
+
+Resp:  vent settings unchanged, A/C 500 x 16, Peep 5, FiO2 50%. His sats have been 88-98%.  He has been suctioned q2-3h for thick white secretions.  Following suctioning he becomes very bronchospastic and drops his sats to the upper 80's, taking 30-45min to recover.  He was asked by the above group if he wanted to be trached and after much disscusion he said that he did despite knowing that he had very little time to live.  (See Dr.[**Doctor Last Name 4984**] note).
+
+GI:  tube feeding of promote with fiber @ goal of 50cc/hr.  Reglan was stopped due to low residuals.  He has a large formed stool.
+
+Endo:  Blood sugars were 173 and 159, covered by 2u regular insulin each time.
+
+GU:  Foley draining clear amber urine, U/O 20-30cc/hr.  
+
+Neuro:  Pt has been awake and alert.  He answers questions appropriately with nodding Yes and No.  His wrist restraints were removed this am and left off.  He also mouths words but he is difficult to understand due to the tube.  Following the above meeting the group felt that he was compentent, he wanted to live and that he did want a trach.  He remains lightly sedated on versed 1mg/hr.  
+
+Social:  3 of 4 daughters in to visit.  Dr [**Last Name (STitle) **] in and talked with one of his daughters that had difficulty with her fathers decision.  [**Name2 (NI) **] continue to assess Pt over the weekend.
+
+Plan:  ?trach on monday, watch resp status-suction PRN.
+",,
+5054,20459,6267,0,3112-09-13 17:40:00 EST,3112-09-13 17:40:00 EST,7040,"N",69,"Nursing/Other",,"
+
+Resp Care, pt remains intubated with no resp changes.  Plan to wait for family meeting outcome.
+",,
+5054,20459,6267,,3112-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-14**] 10:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7905**]
+     Reason: eval for pneumonia, edema, worsening infiltrate             
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                80 year old man with h/o lung cancer c/b occluded bronchus s/p   
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia, edema, worsening infiltrate                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE.
+     
+     INDICATION:  80-year-old man with history of lung cancer.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed, and
+     compared with the previous study of [**3112-9-11**].
+     
+     The tip of the endotracheal tube is identified 4 cm above the carina.  A
+     nasogastric tube courses towards the stomach.  The right jugular IV catheter
+     remains in place.
+     
+     Again note is made of a stent overlying the bronchus intermedius.  There is
+     worsening of diffuse pulmonary edema compared with the previous study.  Again
+     note is made of large right pleural effusion, which appears increased in size.
+     There is continued left lower lobe consolidation indicating pneumonia versus
+     atelectasis.
+                                                                           
+
+",,
+5054,20459,6267,0,3112-09-14 02:32:00 EST,3112-09-14 02:48:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: Fairly uneventful shift c pt maintained on MV c AC mode in place.
+
+RESP: Pt received and maintained on MV c the following AC mode: 16-50%-500-5 c nl sats, RR and resp effort.  Pt c mod amounts of off-white, frothy sec per ETT.  Pt also noted to copious clear frothy oral sec.  LS are diffusely coarse/rhoncherous thru-out lung fields and consistently diminished in RLL.  Pt denied SOB/dyspnea when asked @ BS.  Trach candidate evaluation to take place Monday(?).  
+
+CV: Hemodynamically stable and afebrile.  Afib EKG waveform noted c rare PVC's.  CVP transducer revealed values in the 9-14 range.  Transient episodes ([**6-23**] sec) of bradycardia(HR30-60) c hypotension (SBP 70-80's) begin/resolve spontaneously without intervention.  +[**3-14**] Generalized anasarca persists.  Hourly urinary output approx 30ml/hr.  The pt was net positive 1.2 liters input @ MN, he is approx equal thus far today and is nearly 12 liters positive LOS.  Will draw/sent AM labs shortly.  Heparin gtt received and maintained @ 1100units/hr for afib/DVT history.  Currently the pt is not receiving any IV antibiotic therapy (IV Vanco & Zosyn therapy d/c'ed on [**9-13**].  
+
+MS: Pt received/maintained on IV Verced infusing @ 1mg/hr via RIJ TLC. Pt sleeping much of shift but arouses easily and follows all commands and able to nod head yes/no appropriately to simple questions.  Soft wrist restraints loosely applied @ MN to ensure placement of ETT/invasive lines.  Pt freq re-oriented to person, time & place to assist c nl cognition.  Pt consistently denied pain, hunger, thirst, cold/hot, anxiety or other symptoms of discomfort.
+
+GI: Pt received/maintained on full strength Promote c Fiber @ target rate of 50ml/hr c scant residuals noted via OGT.  Sm loose BM passed @ MN, barrier cream applied to coccyx.  As noted above, the pt denies hunger or thirst when asked.  
+
+DERM: [**Doctor First Name **]-Air mattress and Venodyne boots in place.  Pt turned side to side to protect coccyx erythema.  
+
+SOC: Dtr and son-in-law @ BS @ beginning of shift and kept up-to-date c POC/pt status.  The pt is a DNR but not a DNI.  
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions in place.
+",,
+5054,20459,6267,0,3112-09-14 03:14:00 EST,3112-09-14 03:15:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and ventilated on A/C 16/500/.50/+8 tolerating fairly well. Breath sounds coarse throughout, suctioned moderate amount yellow sputum. No RSBI done. Continue with plans for trach on Monday.
+",,
+5054,20459,6267,0,3112-09-14 14:36:00 EST,3112-09-14 14:53:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+NURSING NOTE 0700HRS 1600HRS
+
+
+EVENTS...INCRSSAING EPISODES OF BRADYCARDIA THEREFORE AMIODARONE D/C...HEPARIN THERAPEUTIC BUT REPEAT CHECK PTT PM AS PREVIUOS SLIGHT HAEMATURIA
+
+
+
+
+NEURO..RECEIVED ON VERESD @ 1MG....APPEARS VERY COMFORATBLE...INTERMITANTLY SLEEPING ,EASILY ROUSABLE, FOLLOWS COMMANDS DENIES ANY PAIN...MOVEMENT OF UPPER LIMBS
+
+
+
+RESP ... CONTINUES AC, SATS MAINTAINED 98-100%, LUNGS CONTINUE TO SOUND VERY COURSE/ RHONCHUS, SUCTIONED APPROX EVERY HOUR FOR LOOSE WHITE SECRETIONS, RR 16-20....NO ACUTE EPISODES OF RESP DISTRESS/DENIES SOB...FOR TRACH ON MONDAY
+
+
+CVS...INCREASING EPISODES OF BRADYCARDIA THIS AM, ESPECIALLY WHEN ASLEEP TO A RATE OF 30 WITH COMPROMISED B/P TO SYSTOLC OF 70...EPISODES SHORT IN DURATION , USUALLY SELF TERMINATING OTHERWISE REQUIRING PATIENT STIMULATION TO INCREASE RATE...REVIWED BY TEAM AND AMIODARONE D/C....OTHERWISE HR 60-80BPM IN AF, B/P 90-120 SYSTOLIC, MAPS >65....
+AFEBRILE, B/S STABLE
+HEPARIN CONTINUES FOR AF/CAD/DVT...PTT RE-CHECK THIS AM SENT EARLY AS SLIGHT HEAMATURIA NOTED,  THERAPEAUTIC ...HAEMATURIA CLEARED BUT RE-CHECK SENT PM , PRESENTLY AWAITING RESULT
+
+
+
+GI....BOWEL MOTION X2 APPEARS TO BE TOLLERATING FEED AS NO RESIDUALS
+
+
+GU....OUTPUT SLIGHTLY PINK THIS AM BUT NOW CLEAR...TO OBSERVE...OUTPUT PER HOUR 20-60CC/....
+
+
+SKIN...INTACT, BARRIER CREAM APPLIED TO ABRASION ON SACRUM
+
+LINES..PATENT
+
+SOCIAL..LOTS OF FAMILY VISISTORS TODAY
+
+
+
+PLAN.... CONTINUE TO MONITOR PTT, OBSERVE FOR FURTHER HAEMATURIA, MONITOR HR...TRACH MONDAY
+",,
+5054,20459,6267,0,3112-09-14 15:55:00 EST,3112-09-14 16:00:00 EST,2755,"N",69,"Nursing/Other",,"
+
+ADDENDUM...
+
+
+CHECK PTT THERAPEUTIC RANGE THIS PM, CHECK HCT <28 @27.6, DID HAVE HAEMATURIA THIS AM BUT NOW RESSOLVED BUT WHAT WAS EVIDENT UPON RE-POSTIONING THIS PM WAS A  SMEAR OF FRESH BLOOD PR..TEAM AWARE OF THE ABOVE.. X1 UNIT PRBC'S ORDERED AND AT PRESENT TO CONTINUE HEPARIN AS PRESENT RATE.....AWAITING BLOOD PRODUCTS
+",,
+5054,20459,6267,0,3112-09-14 17:05:00 EST,3112-09-14 17:06:00 EST,7040,"N",69,"Nursing/Other",,"
+
+Resp Care, pt remains on settings as noted. Stable shift with no change in resp status. Plan for trach early next week.
+",,
+5054,20459,6267,,3112-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-15**] 3:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7906**]
+     Reason: eval pneum, ptx, effusion, edema, lung cancer               
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 80 year old man with h/o lung cancer c/b occluded bronchus s/p    
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      eval pneum, ptx, effusion, edema, lung cancer                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE
+     
+     INDICATION:  80-year-old man with history of lung cancer.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed, and
+     compared with the previous study of yesterday.
+     
+     There is marked increase in right pleural effusion with near complete collapse
+     of the right lung.  The patient is known to have the lung cancer with stent in
+     the bronchus intermedius.
+     
+     There is also increased pulmonary edema in the left lung.  There is small left
+     pleural effusion.
+     
+     The endotracheal tube, nasogastric tube, and right jugular IV catheter remain
+     in place.  No pneumothorax is seen.
+                                                                           
+
+",,
+5054,20459,6267,0,3112-09-15 03:40:00 EST,3112-09-15 03:41:00 EST,6508,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. No changes made. Suctioned mod amt of white secretions. Mdis gieven with good effect: decreased vent press. Will contniue to monitor.
+",,
+5054,20459,6267,1,3112-09-15 03:40:00 EST,3112-09-15 05:43:00 EST,6508,"Y",69,"Nursing/Other","Resp Care","
+Resp Care
+Abgs resulted in poor Pao2. Fio2 increased. Repeat abg showed small improvement and increased Paco2. X-ray also showed right sided white-out. Peep was increased and rr was increased.
+",,
+5054,20459,6267,0,3112-09-15 04:19:00 EST,3112-09-15 04:55:00 EST,6193,"N",69,"Nursing/Other","Nursing progress notes 1900-0700","
+Nursing progress notes 1900-0700
+REVIEW OF SYSTEMS
+
+NEURO: PT ALERT AND ABLE TO FOLLOW COMMANDS. RIGHT PUPIL 4MM AND REACTS BRISKLY, LEFT EYE CLOUDY. PT ABLE TO SQUEEZE HANDS AND PEDAL PUSHE BILAT EQUALLY. AFEBRILE
+
+RESP: PT VENTED ON AC/16/500/PEEP 8 FIO2 50% ABG THIS AM 7.42/45/68/30/94% FIO2 INCREASED TO 60% AT 0525. WILL RECHECK ABG IN 1/2HR. LS RHONCHI UPPER LOBES W/ DIMINISHED BASES. SUCTIONING SMALL AMOUNTS OF FROTHY WHITE SECRETIONS ORALLY AND THROUGH ETT. 
+
+CV: TELE AFIB 38-70S BP STABLE. PEDAL PULSES +2 W/ UPPER AND LOWER EXTREMITY EDEMA. PT RECEIVED 1 UNIT OF PRBC FOR HCT 27.2. THIS AM HCT 32.7. REST OF MORNING LABS PENDING.  PTT 73.4. 
+
+GI: ABD SOFT BS +, TUBE FEEDING AT 50CC/HR. PT HAD 2 SMALL BROWN LOOSE  BOWEL MOVEMENTS GUIAC NEG. 
+
+GU: PT FOLEY DRAINING YELLOW URINE.
+
+SKIN: BUTTOCKS SLIGHTLY PINK FROM LOOSE BMS PT ON KINAIR MATTRESS.
+
+CODE: DNR BUT IF EXTUBATED HE CAN BE REINTUBATED.
+
+PLAN:
+1. LYTES PENDING
+2. ABG PENDING ON 60% FIO2
+3. TRACH ON MONDAY ?PEG
+
+",,
+5054,20459,6267,0,3112-09-15 05:43:00 EST,3112-09-15 05:49:00 EST,6193,"N",69,"Nursing/Other","NURSING PROGRESS  NOTE ADDENDUM:","
+NURSING PROGRESS  NOTE ADDENDUM:
+PT ON VERSED 1MG IV/HR. PT INDICATES HE IS COMFORTABLE AND IN NO PAIN BY NODING/SHAKING HIS HEAD. ABG RESULTS ON 60% POOR: 7.33/61/70/34/92% MICU INTERN AND RESP THERAPIST AWARE AND IN ROOM TO ASSESS PT. PCXR FROM 0400 SHOWS WHITE OUT ON RIGHT SIDE. WORSE THAN YESTURDAYS PCXR. MICU INTERN AWARE AND NO ORDERS GIVEN. SUCTIONED FOR TAN TO WHITE FROTHY SECRETIONS. VENT SETTINGS CHANGED TO AC 18/TV 500/PEEP 10 FIO2 60% @0640. ABG WILL BE REPEATED. LS RHOCHI/COARSE BS W/ DIMINISHED BASES. 
+   
+",,
+5054,20459,6267,0,3112-09-15 15:54:00 EST,3112-09-15 15:55:00 EST,7040,"N",69,"Nursing/Other",,"
+
+Resp Care, pt remains intubated settings as noted, stable shift. Plan for trach this week.
+",,
+5054,20459,6267,0,3112-09-15 16:24:00 EST,3112-09-15 16:40:00 EST,1623,"N",69,"Nursing/Other","MICU NPN 0700-1900","
+MICU NPN 0700-1900
+
+80 yo male with h/o stage 3B lung CA, s/p chemo, XRT, stent placement [**7-14**], COPD O2 dependent, CAD with mult vessel disease, AF, LLE DVT, transfer from OSH with obsrtucted R bronchus, post-obstruc pneumonia, bronch tumor occluding stent which was partially removed, post procedure resp distress requiring intubation 
+
+Awaiting trach and ? peg
+
+REVIEW OF SYSTEMS:
+neuro: arouse to voice, opens eyes, making eye contact, following simple commands, +mae, versed gtt cont increased to 2mg for several hours, derceased to 1mg for somnolence, denies pain
+
+cv: HR 50-80 AF, BP 90-110/, freq episodes of bradycardia to 30's BP dropping to 60-70/sytolic with bradycardia, extrem grossly edematous, fingers cool
+
+resp: remains intubated and vented with A/C 18/500/60%/10 peep, sat 95-100, breath sounds with rhonchi upper lobes, suctioning freq for thick white secretions blood tinged secretions this am has since resolved, am cxr with white out on right, increased right sided pleural effusion, left side with increase pulmonary edema and small pleural effusion
+
+gi: abd obese soft ntnd +bs, small stool loose golden x3, ob-, cont tube feeds promte with fiber at goal
+
+gu: urine cloudy  blood tinged this am, UA cx sent, urine output 25-60 cc/hr, current TFB 600cc +
+
+skin: buttocks pink from freq inc stools, no open areas, barrier cream applied, cont kinair bed
+
+social: numerous family members here throughout the day
+
+PLAN: NPO after MN for trach in am, hold heparin at MN for trach in am, ? need for lasix this eve given positive fluid status, versed for comfort, pulm toilet
+",,
+5054,20459,6267,0,3112-09-16 02:20:00 EST,3112-09-16 02:35:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: IV Heparin gtt and tube feeds d/c'ed @ MN in prep for trach placement later today.  
+
+RESP: Pt received/maintained on AC-18-60-500-10 c nl sats, RR and resp effort.  Sxn'ing ETT Q2 hrs for mod amounts of frothy off-white sec.  Sputum C&S obtained @ BS and sent for analysis in setting of Tmax of 99.3 and moderate quantities of sputum production per team request.  No antibiotic therapy in place @ this time, team aware(last dose of Zosyn admin on [**9-13**]).  Pt denies dyspnea/SOB on current MV settings.  ETT rotated and tape changed @ BS s diff.  Trach teaching given to pt and family.
+
+CV: Hemodynamically stable and afebrile c tmax of 99.4.  Afib waveform noted c rarer episodes of bradycardia compared c previous evening.   RSC TLC dsg changed, site is C/D/I.  Will draw/send AM labs shortly.  Normoglycemic FS values noted thus far tonight.  
+
+GU: Pt med c 20mg IVP Furosemide @ 21:00 c approx 900ml output of sedimentated clear yellow urine.  Foley cath changed c a fresh 16# gauge Foley cath placed @ BS s diff.  The pt was net input 300ml @ MN for [**9-15**].  Currently the pt is net output 100ml thus far today and he is net positive 13 liters LOS.  
+
+MS: Pt received and maintained on 1mg IV Verced gtt c good pt comfort per pt self report.  Soft wrist restraints in place @ MN to minimize risk of self extubation when asleep.  Pt appropriately nods head yes/no to simple questions.  
+
+GI: Full strength Promote c fiber d/c'ed shortly after MN in prep for tracheostomy later today.  Question whether pt will also need a PEG to continue c enteral tube feeds.  One small soft, golden loose stool output thus far tonight.  Pt c postive BS in all quadrants.
+
+SOC: Two dtrs visited pt during evening shift and kept up-to-date c POC/pt status.  The pt is a DNR but not a DNI.
+
+OTHER: Please see CareVue for additional pt care/data.  
+",,
+5054,20459,6267,0,3112-09-16 03:26:00 EST,3112-09-16 03:29:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and sedated on A/C 18/500/.60/+10 tolerating fairly well. Breath sounds coarse throughout, suctioned small to moderate amount tan with slight bloody sputum. MDI given as ordered. No RSBI done as pt on 60% and peep 10. Patient possibly going for trach later today. Continue.
+",,
+5054,20459,6267,0,3112-09-16 13:51:00 EST,3112-09-16 14:03:00 EST,6156,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Events: To have Trach and Peg placement tomorrow at the earliest d/t drop in HR into 40's and waiting time placement with surgery.
+
+Neuro: Continues lightly sedated on Midaz. at 1mg/hr, pt able to mouth responses to questions, pt nods no to pain, moves upper exremities well, moves toes to lower extremities, wrist restraints intact for safety.
+
+Resp: Lungs coarse bilat., audible wheezes this am resolved after albuterol tx and sx'ing. Sx'ing small amts of whitish to bld.stained secretions, lrg amt of clear secretions sx'd from mouth. Continues on CMV 18-60-500 10 with O2 sats 90-100%.
+
+CV: HR 40-90's mostly afib, but pt noted to be in and out of SR at times. Brady episodes resolve spontaneosly pt otherwise asymptomatic. SBP's 70-110 with map's 50-100, team aware. Continues with general edema, pedal pulses +1 bilat. Heparin infusing at 1250u/hr.
+
+GI: BS (+), TF restarted at 50cc/hr and to be turned off at MN for possible trach placement, x 2 golden brown soft bm's.
+
+GU: Foley cath intact draining dark yellow urine with sediments 25-45cc/hr, team aware. 
+
+Skin: Scrotal edema noted, redness to coccyx pt turned q2hrs., small skin tear from ABP transducer, gauze applied over site and transducer taped to [**Last Name (un) 2135**].
+
+Social: Daughter [**Name (NI) 381**] and [**Name2 (NI) **] in to visit pt., aware of plan of care.
+
+Plan: Continue to monitor vs, NPO after MN for trach and peg, Heparin off after MN for procedure.
+",,
+5054,20459,6267,0,3112-09-16 17:46:00 EST,3112-09-16 17:48:00 EST,6862,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+Pt remains intubated and on the ventilator. Pt remains on AC, overbreathing the vent slightly. Pt required infrequent suctioning of scant white secretions. Mdi's given as ordered. No vent changes made this shift. Plan: continue current settings and wean as tolerated. See careview for vent settings and additional info.
+",,
+5054,20459,6267,0,3112-09-16 17:47:00 EST,3112-09-16 17:50:00 EST,6156,"N",69,"Nursing/Other","Addendum 1845","
+Addendum 1845
+Pt appears to have L sided facial droop which according to family is not new, also family states that they have more difficulty today u/s the words that pt is trying to mouth.
+Heparin increased at 1800 to 1450u/hr, next PTT is at 2100.
+
+",,
+5054,20459,6267,,3112-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-17**] 3:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7907**]
+     Reason: eval for pna, ptx, effusion, edema                          
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                  80 year old man with h/o lung cancer c/b occluded bronchus s/p     
+      intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      eval for pna, ptx, effusion, edema                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3112-9-17**].
+     
+     COMPARISON:  [**3112-9-15**].
+     
+     INDICATION:  Difficulty oxygenating.  History of lung cancer.
+     
+     The examination is somewhat limited due to exclusion of the extreme lateral
+     aspect of the right lung, but the technologist reports that the patient was
+     difficult to position for the radiograph and that the submitted image was the
+     best possible under the circumstances.
+     
+     An endotracheal tube, central venous catheter, and right bronchial stent
+     remain in place.  There remains volume loss in the right hemithorax.  There is
+     collapse of the majority of the right lung with only a small amount of aerated
+     lung centrally.  A large right pleural effusion persists.  There is worsening
+     confluent alveolar opacification within the left lung, and there has been
+     interval increase in a left pleural effusion, now moderate in size.
+     
+     IMPRESSION:
+     1.  Worsening diffuse alveolar opacities in the left lung, which may be due to
+     either pulmonary edema or diffuse pneumonia.
+     
+     2.  Persistent near complete collapse of right lung, likely postobstructive.
+     
+     3.  Stable large right and increasing moderate left pleural effusions.
+
+",,
+5054,20459,6267,0,3112-09-17 03:38:00 EST,3112-09-17 03:40:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and ventilated on A/C 18/500/.60/+10 tolerating fairly well. Breath sounds remain coarse throughout, suctioning small amount yellow/tan sputum. MDI given. No RSBI done as pt on peep 10 and 60%. Pt possible going for trach/peg today..Continue.
+",,
+5054,20459,6267,0,3112-09-17 03:49:00 EST,3112-09-17 04:05:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+Pt scheduled for trach/peg yesterday, which was postponed d/t frequent bradycardic episodes. Tube feedings and heparin gtt stopped at MN for possible trach/peg procedure today. Pt had approx. 15-20 episodes last night with HR alarm in 40's, but slowed for 3-4beats mostly before returning back to baseline HR (non-sustained/asymptomatic). Pt on heparin gtt at 1450units/hr. PTT therapuetic at 65.5. Heparin stopped at MN in anticipation of trach/peg today. 
+
+CV: HR 80-90's, a-fib with no ectopy. As mentioned above, had multiple episodes of HR in 40's for 3-4beats. ABP via left radial art line 90-120/50-60's (art line very positional). 
+
+Resp: AC 18/500/.[**7-19**]. RSBI not performed d/t 10peep. BBS rhonorous, snx small-moderate amounts of thick yellow/tan secretions that will occasionally have blood-tinge. Pt coughing occasionally, but has impaired gag reflex. 
+
+Neuro: Continues on 1mg/hr versed gtt, opens eyes spontaneously. Following commands and will shake head ""yes/no"" to answer questions. Attempts to mouth words for communication. Denies pain/discomfort. 
+
+GI/GU: Abdomen softly distended, BS present. Pt receiving promote with fiber at goal 50cc/hr with minimal residual. TF's stopped at MN for possible procedure today. Foley cath intact draining yellow urine with sediment. UO decreased to 5-10cc/hr and patient received 250cc NS bolus resulting in 35-45cc/hr in response x few hours. Loose gel-like stool x2, heme (-). 
+
+ID: Afebrile, off abx. 
+
+Social: Daugther at bedside last evening. Pt DNR. 
+",,
+5054,20459,6267,0,3112-09-17 14:46:00 EST,3112-09-17 15:02:00 EST,2747,"N",69,"Nursing/Other","NPN  0700-1900","
+NPN  0700-1900
+Pt unable to receive trach and peg today due to hemodynamic instability.  Bronch done by Drs [**First Name (STitle) **] and [**Name5 (PTitle) **] at 1300, pt med with Fentanyl 50mcg.  Stent remains open, but unable to perform any further intervention to improve pt's breathing status.  Further plans not yet discussed with pt and family.
+
+CV:  BP very labile, when pt sleeps, drops to 70s/40, map freq in low 50s.  Fld boluses given and 1 unit pc for hct of 29.  BP up to 110/66.  HR mostly 80s-90s, but drops to 40s occ for few beats, then back up.  CVP 10-12.  Restarted heparin gtt at 1500 c a bolus of 1450 units and gtt at 1450 units/hr.
+
+Resp:  Remains on AC at 500x18, 60% and 10 peep.  Sats 93-99.  LS rhonchorous t/o, diminished at R base.  Secretions scant, tan, fairly thin, sometimes blood tinged.
+
+GI:  TF restarted at 1500 at 40mls/hr c no residual.  +BS, 2 golden brown stools, mod amt, loose, sent for c-diff.  Swabs taken.
+
+GU:  u/o poor, 10-25mls/hr, amber urine c sediment.  u/o improves slightly c boluses and higher bp.  Pt is 1.1L up so far today, 14L up los.  Pt has 2+ edema arms and legs.
+
+Skin:  Barrier cr applied to reddened coccyx and peri area.  
+
+Access:  CVP port of TL became clotted, used TPA to declot.  Running c slightly high pressures.
+
+Social:  Daughters and aunt in, [**Name2 (NI) 381**] will return this eve.
+
+Plan:  PT will be due at 2100.  Increase TF to goal of 50 at 1900 if tol.  Monitor BP and HR, fld boluses as needed.  ? if will try for trach tomorrow.  Support pt and family. 
+",,
+5054,20459,6267,0,3112-09-17 15:29:00 EST,3112-09-17 15:32:00 EST,2931,"N",69,"Nursing/Other","resp Care","
+resp Care
+Pt remains on mech vent-parameters noted.  No wean this shift. Coarse breath sounds bilat, more diminished on rt. Pt bronched by pulm with their own equip due to unavailability of bronch cart.  [**Name8 (MD) **] RN-visiulized size of mass and effectiveness of stents. Stents open, but mass compressing airways. Suction for small thick tan. Combivent MDI x 3.  Plan is for trach tomorrow.
+",,
+5054,20459,6267,0,3112-09-18 03:56:00 EST,3112-09-18 03:58:00 EST,6842,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and ventilated on A/C 18/500/.60/+10 tolerating fairly well. Breath sounds coarse throughout suctioning small to moderate tan thick sputum. MDI given. No RSBI as pt on +10peep and 60%. Pt possible going for trach and peg today. Continue.
+",,
+5054,20459,6267,0,3112-09-18 04:27:00 EST,3112-09-18 04:44:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+CV: HR 80-90's, A-fib with no ectopy. BP 90-120/50-70's with MAP 50-60's. Pt transfused yesterday with 1unit PRBC's for Hct 29.1 (goal >30). Am Hct 30.6. Heparin gtt was infusing at 1450units/hr...PTT sent 2230 and subtherapeutic at 53.9, however drip not increased since shut off at MN for possible trach procedure today. RIJ lumen...distal port clotted off. TPA instilled and withdrew 1hour later, but port still very difficult to flush. 
+
+Resp: AC 18/500/.60/5, RR 19-23. BBS rhoncorous with occasional expiratory wheezing. Snx moderate amounts of thick tan-blood tinged secretions Q2hrs. Large amount of clear oral secretions.  
+
+Neuro: Pt slightly more lethargic, dozing intermittently. On 1mg/hr versed gtt. Opens eyes spontaneously, following commands. Weak in upper extremities, moving lower extremities on bed. Denies pain/discomfort.
+
+GI/GU: Abdomen softly distended, BS present. Promote with fiber infusing at goal 50cc/hr with no residual. TF's stopped at MN for possible trach procedure today. Foley cath draining marginal UO approx. 20cc/hr. Pt given 20mg IV lasix with good response (~700cc). Golden loose stool x2. Specimen sent for c-diff yesterday.  
+
+ID: Afebrile, wbc 7. Off abx. 
+
+Endo: RISS, has received no coverage, BS 115.
+
+Social: Daughter, [**Location (un) 381**], present at bedside for visit last evening. 
+",,
+5054,20459,6267,0,3112-09-18 16:37:00 EST,3112-09-18 16:41:00 EST,2931,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on mech vent-parameters noted.  Attempted to wean peep to 5. Per team: peep needs to be 5 in order to go to OR for trach.  weaned to 8 and PaO2 decreased from 73 to 70, but pt soon began to desat into the 80s.  Able to raise SpO2 with 100% and peep of 10.
+Breath sounds are faint rhonchi bilat.  Suction for thick tan secretions.  Will continue to wean and plan for trach tomorrow.
+",,
+5054,20459,6267,0,3112-09-18 17:35:00 EST,3112-09-18 17:59:00 EST,2747,"N",69,"Nursing/Other","NPN  0800-1900","
+NPN  0800-1900
+Pt became C-diff positive - now on contact precautions.
+
+Pt's Heparin and Tube feeding were d/c'd at midnoc again for pt to go to OR for trach and peg.  Cancelled again.  Told by team that pt could not go to OR unless peep was reduced below 10.  Pt's peep was reduced to 8 at 1300.  ABG after few hours was 7.44/42/70.  pao2 dropped from 73 to 70.  When pt was turned to L side, he desatted to 84, did not recover in 10mins, so we increased peep back to 10.  Still did not recover, we turned pt supine and sat up 45 deg, sat up to 96.  Heparin and TF turned back on ~ 1700.
+
+Neuro:  A&O x3 but lethargic.  mae, follows commands consistently. No c/o pain.  Maintained on Versed 1.0mg/hr.
+
+CV:  No episodes of bradycardia with red alarm, however, HR very irreg in afib with slowing periods.  HR 83-97, no ectopy.  SBP 80s to 90s c map >50, rare quick episodes of BP in 70s, one 250ml bolus early this am.  Repleted mag and K.
+
+Resp:  As above,remains on AC,500x18,peep10.  Overbreathing vent by [**4-12**].  sats mostly 92-97.  Sx sm-mod amts thick, tan secretions.  LS rhonchorus with diminished R base.
+
+GI: +BS, Abd soft, distended.  2nd spec sent for c-diff.  Rectal bag placed after another episode of diarrhea.  some stool in bag.  TF back at goal.
+
+GU:  Cont poor unine output, 10-25mls/hr.  Team aware.  Amber urine c sediment.
+
+Skin:  Groin and coccyx reddened, rx c barrier cr.  Heels reddened, rx c multipodus boots.
+
+Social:  Family in most of day.
+
+Plan:  Make pt NPO again after midnoc for ? trach.  Stop Heparin at midnoc as well.  Monitor resp status, sats, Contact precautions.  DNR.
+
+  
+",,
+5054,20459,6267,,3112-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-19**] 11:04 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 7909**]
+     Reason: eval for edema, pna, effusion, ptx                          
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                     80 year old man with h/o lung cancer c/b occluded bronchus s/p   
+           intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      eval for edema, pna, effusion, ptx                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Difficulty oxygenating.
+     
+     PORTABLE SUPINE AP CHEST AT 11:09:  Comparison is made to 1:41.  Right IJ
+     central venous line, endotracheal tube, and nasogastric tube are unchanged in
+     position.  A right lower lobe bronchial stent is present.  The heart remains
+     normal in size.  There is no change in bilateral lung opacities.
+     
+
+",,
+5054,20459,6267,,3112-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5054,20459,6267,,3112-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3112-9-19**] 1:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7908**]
+     Reason: evaluate for infiltrate, obstuction                         
+     Admitting Diagnosis: TRACHEAL STENOSIS;NON SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                    80 year old man with h/o lung cancer c/b occluded bronchus s/p    
+         intubation, difficult to oxygenate on vent.
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate, obstuction                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old man with history of lung cancer.  Evaluate for
+     infiltrate and obstruction.
+     
+     TECHNIQUE:  AP semi erect chest radiograph from [**3112-9-19**] is compared
+     with AP supine chest radiograph from [**3112-9-17**].
+     
+     Compared to prior radiograph as well as radiographs from the prior several
+     days, there is a decrease in the moderate-sized right pleural effusion, with
+     associated reexpansion of the right lung.  Of note, now the left lung has
+     developed an area of increased consolidation, consistent with worsening
+     pneumonia.
+     
+     The endotracheal tube and the right internal jugular catheter tip are in
+     standard positions.  The nasogastric tube is in the stomach, however, the tip
+     cannot be visualized.
+     
+     IMPRESSION:
+     1.  Decreased moderate-size right pleural effusion with associated reexpansion
+     of the right lung.
+     2.  Worsening consolidation in the left lung consistent with pneumonia.
+     
+     
+
+",,
+5054,20459,6267,0,3112-09-19 03:35:00 EST,3112-09-19 04:01:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+CV: HR 70-90's, a-fib with rare PVC's. ABP via left radial art line 95-120/50-60's (art line very positional). RIJ triple lumen...distal port clotted (TPA instilled on [**9-18**] without success). Hct 34.4. Heparin gtt infusing at 1450units/hr. PTT 56.3, pt given 1600unit bolus and gtt increased to 1600units/hr. Next PTT due 0800. Pt with 2+ upper/lower extremity and scrotal edema. 
+
+Resp: Pt received on AC 18/500/.60/10. Trach was to be placed yesterday, however IP felt peep needed to be weaned below 10 prior to procedure. Pt tried on 8peep yesterday afternoon and again last night with failed attempt. After 2hrs sats dropped to 84-87%. Peep increased back to 10, but sats difficult to recover. Pt deep snx/lavaged for very minimal secretions. Pt noted around 0100 to have quick shallow breaths b/w assisted breaths. Sedation increased from 1mg to 2mg versed. ABG sent and in the meantime FiO2 ^ to 70%. ABG 7.34/53/60...RR ^ 20. Repeat ABG 7.39/46/63. Resident aware, but no vent adjustments made at that time. AM ABG 7.39/48/69/30. BBS rhoncorous with expiratory wheezing. Resp tx per RT. Snx small amount of thick yellow secretions. Considering trach placement on Friday.  
+
+Neuro: Pt currently on 2mg versed. More lethargic and sleeping through night, but still arousable to verbal stimulus and following commands. Denies pain/discomfort. Generalized weakness. 
+
+GI/GU: Abdomen softly distended, BS present. Promote with fiber infusing at goal 50cc/hr with minimal residual. Foley cath draining marginal UO 10-45cc/hr (team aware and will bolus for UO<10cc/hr). +15L LOS. Fecal bag intact draining golden liquid stool. 
+
+ID: Afebrile, WBC 6.7. Off abx. Contact precautions for + C-Diff.  
+
+Endo: RISS, given 2units at 0000 for BS 151. 
+
+Skin: Coccyx reddened, barrier cream applied. Red excoriation noted in armpits and red rash in groin. 
+
+Social: Patient's 2daughters to visit last evening. DNR. 
+",,
+5054,20459,6267,0,3112-09-19 04:56:00 EST,3112-09-19 05:03:00 EST,2173,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+ 
+Pt received on ventilatory support A/C 500/18/10P/60%. We attempted to wean PEEp to 8 cmH20, because IP needs PEEP below 10 to do Trach, but he desats and was difficult to recover. ABG was poor and required adjustment, presently on A?C 600/20/10P and 70% FIO2. AM ABG is satisfactory. BS is rhonchorous and LPEW. Will follow.
+
+",,
+5054,20459,6267,0,3112-09-19 16:14:00 EST,3112-09-19 16:21:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: Uneventful day for Mr [**Known patient lastname **]. 
+
+Neuro: Pt quite sleepy and lethargic. Arousable to verbal and shaking much of shift. intermittently following commands. More alert later in shift. Easier to arouse. [**Last Name (LF) **], [**First Name3 (LF) **], no pain. 
+
+Resp: Vent settings unchanged this shift. ABG at noon improved from previous gases (see carevue). Lung sounds coarse throughout with moderate amts of thin clear secretions. ?trach placement tomorrow. 
+
+Cardiac: Hypotension continues.B/P rises when stimulated.  Aline positional. Afib with no ectopy on monitor. 
+
+GI: Tolerating TF at goal rate of 50 well. No BM this shift. Abd soft/distended with hypoactive bowel sounds. Blood sugars unremarkable. 
+
+GU: Voiding approx 10-15cc/hr of amber urine via foley. MD aware. 
+
+Derm: Aline site with some redness, TLC site benign, skin grossly intact peripheral pulses palpable. 
+
+Social: Family in to visit much of shift.
+
+ID: Tmax 100.6 pan cultured. 
+
+Plan: Continue to monitor resp and hemodynamic status, possible trach placement tomorrow. wean vent if tolerated. full code. 
+
+
+",,
+5054,20459,6267,0,3112-09-19 16:55:00 EST,3112-09-19 16:56:00 EST,2931,"N",69,"Nursing/Other","resp care","
+resp care
+Pt remains on a/c- no wean this shist.  Suction thick tan secretions.
+Combivent x 3.  Coarse breath sounds bilat.  Plan is for trach in OR tomorrow.
+",,
+5054,20459,6267,0,3112-09-20 05:05:00 EST,3112-09-20 05:16:00 EST,2929,"N",69,"Nursing/Other",,"
+
+Neuro: Pt appears lethargic but orientated. When asked if he is in pain he shakes his head no, asked to squeeze my fingers or wiggle his toes he does so. Slept well and wakes easily. Versed turned down to .5mg/hr as BP has been a problem all night.
+
+Resp: A/C 20/Peep 5 vT.500 100%. Peep decreased to 8 and tolerated well. Now down to 5 with ABG's pending. FIO2 increased to 100% when peep decreased. Pt scheduled to go to the OR today for trach placement if peep remains under 10. Copious thin white secreations sx orally and thick white from ETT. Lungs are coarse throughout. Sats have been upper 90's. Pt is afebrile.
+
+C/V: MAP's have been mostly 50's to 60's but have dipped down into the 40's at times. Given a total of 1L in fluid bolus's with little effect on BP. Pt was in NSR for the 1st half of shift but is now back in A Fib. HR in the 80's to 90's. Anticoagulation d/c'd at 2000.
+
+GU/GI: Foley draining ~20cc/hr until MN. Now has stopped making urine despite boluses. MD aware. Abd is soft with +BS. Tube feed off since MN for trach placement. Passing liq yellow stool. Spec sent for c-diff.
+
+Endo: BS's 133 at MN and 125 at 0600.
+
+Social: Mult family members in last evening. Consent's signed for trach placement.
+
+Plan: Keep NPO for trach placement today. Monitor BP and give boluses as necessary. It is my understanding that pressors will not be used. Pt is DNR/DNI. Blood sugar Q6hr with SS coverage. 
+",,
+5054,20459,6267,0,3112-09-20 15:37:00 EST,3112-09-20 15:39:00 EST,6645,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt continues on full ventilatory support. B/S rhonchourous throughout. sx'ing sm/mod thick yellow. Trip to O.R. cxl today. ? family meeting tomorrow. Will continue to follow closely.
+",,
+5054,20459,6267,0,3112-09-20 17:43:00 EST,3112-09-20 17:53:00 EST,1623,"N",69,"Nursing/Other","micu npn 0700-1900","
+micu npn 0700-1900
+
+EVENTS: Not candidate for trach placement given increasing oxygenation requirements, per [**Doctor First Name 8161**] [**Doctor Last Name **] medically futile. Team meeting with ethics and palliative care to discuss options and formulate plan.
+
+REVIEW OF SYSTEMS:
+
+neuro: cont versed gtt at 0.5mg/hr, arouse to vice follow simple commands, nod yes/no to simple questions, on rounds told he was not able to have trach placed due to deteriorating resp status, ? ability to conprehend info provided.
+
+resp: remains intubated and vented with fio2 100% wean to 80%, peep increased to 10, O2 sat 91-95%, breath sounds coarse/rhonchi, copious secretions, suctioned for yellow, occas bloody, black tissue fragment x1,
+
+cv: labile hypotension BP 70-90/, HR 90-130 AF, DNR, no treatment for hypotesion
+
+gi: abd soft +bs, large amt loose stool, new rectal bag applied
+
+gu: uo dropping, none for several hours, team aware, no additional fluid boluses
+
+social: dtrs and sister at [**Name2 (NI) 8162**] all day, family meeting, decision made to make Mr [**Known patient lastname **] [**Last Name (Titles) 738**], cont current level of vent support, no additional aggressive treatments, will have family members coming Saturday to see him, them will alert team when they want to make him CMO
+
+PLAN: cont current level of support, comfort is new goal of care
+",,
+5054,20459,6267,0,3112-09-21 05:06:00 EST,3112-09-21 05:28:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   the pt continued to be intermittently hypotensive overnoc, but as per discussion w/the icu team, he did not receive any additional fluid boluses. family to visit later today w/possible transition of care to cmo. 
+
+review of systems
+
+respiratory-> pt remains intubated and vented on ac 20x500 w/peep10 and fio2 now back to 80%. pt spent a couple of hours with the fio2 increased to 100% d/t ^wob/use of accessory muscles. he was suctioned frequently for large amts of thick, yellow sputum.
+
+cardiac-> hr 80-100's, afib with rare pvc's noted. sbp labile depending on the level of stimulation. no fluid boluses overnoc. therapeutic ptt on a heparin qtt.
+
+neuro-> although somewhat more somulent, the pt is easily arousable and following simple commands. moving ue's >le's. 
+
+gi-> abd is soft, nontender w/+bs. fic bag is intact and draining small amts of loose, brown stool. npo except for meds.
+
+gu-> creat level wnl although uop continues to be poor @5-10cc/hr.
+
+access-> right ij tlcl and a right radial a-line are both patent and intact.
+
+social-> family expected later today ?change in status to cmo.
+",,
+5054,20459,6267,0,3112-09-21 14:54:00 EST,3112-09-21 14:57:00 EST,6645,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt remains on full ventilatory support. B/S sl coarse. No changes in ventilation. MDI as ordered. Will continue to follow closely. 
+",,
+5054,20459,6267,0,3112-09-21 16:35:00 EST,3112-09-21 17:18:00 EST,6193,"N",69,"Nursing/Other","NURSING PROGRESS NOTES 0700-1900","
+NURSING PROGRESS NOTES 0700-1900
+EVENTS: DAUGHTERS AND DR [**Last Name (STitle) 2969**] DISCUSSED PLAN- PT IS DNR/DNI PT IS TO BE MADE COMFORTABLE CONT CURRENT TX AND MEDS, DO NOT ESCALATE CARE NO PRESSORS/NO FLUID BOLUSES/IVP/RESUSCITATION/REINTUBATION. FAMILY IS GOING TO MAKE PT [**First Name9 (NamePattern2) 738**] [**Doctor First Name **]. OR MONDAY, AFTER ALL HIS FAMILY AND FRIENDS HAVE COME TO VISIT. 
+
+NEURO: PT IN AND OUT OF ALERTNESS. HE IS EASILY AROUSABLE WHEN HE IS SLEEPING. AFEBRILE. PT ON VERSED GTT .5MG IV/HR
+
+RESP: PT INTUBATED VENT SETTINGS CONT. W/O CHANGE AC 20/500/PEEP 10/80% SATS 98% LS COARSE UPPER LOBES W/ DIMINISHED BASES. SUCTIONING THICK TAN SECRETIONS. 
+
+CV: TELE: AFIB 80S W/ HYPOTENSION SBP 40-90S TX AS ABOVE CODE STATUS DICTATES. HEPARIN GTT 1600 UNITS/HR PTT 69.0 WNL. 
+
+GI: PT WAS STARTED BACK ON HIS TUBE FEEDS HOWEVER D/T HIS SBP 40-50S TUBE FEEDING SHUT OFF. PT POS FOR CDIFF ON [**9-15**] FLAGYL 500MG VIA OGT STARTED. PT HAS FIC BAG DRAINED 50CC THICK LIQUID BROWN STOOL. 
+
+GU: UOP POOR. 5-10CC/HR
+
+SKIN: COCCYX HAS A SM ABRASION STAGE 1, BARRIER CREAM APPLIED AND PT ON KINAIR BED
+
+SOCIAL: FAMILY IN TO VISIT. DAUGHTERS AT BEDSIDE ALL QUESTIONS ANSWERED. 
+
+CODE: DNR/DNI- AS STATED ABOVE NO FURTHER ESCALATE OF TX FOR TACHYCARDIA, BRADYCARDIA, HYPOTENSION. 
+
+ACCESS: RIJ TLCL, LALINE.
+
+PLAN: 
+CONT TO KEEP PT COMFORTABLE, IF PT LOOKS LIKE HE IS IN PAIN PLEASE CALL DR [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2969**] TO ADD MS IVP
+
+?CMO W/ MS GTT AND DECREASE IN VENT SETTINGS OR REMOVAL OF ETT EITHER [**Doctor First Name **] OR MONDAY. SOCIAL SERVICE ORDERED FOR FAMILY SUPPORT. 
+
+LABS IN AM.     
+",,
+5054,20459,6267,0,3112-09-22 03:26:00 EST,3112-09-22 03:28:00 EST,2063,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned for lrg amts thick yellow secretions. MDI'S given. RSBI not done to to ^ FI02. Sedated with versed. HE-AFib. Will cont to monitor resp status.
+",,
+5054,20459,6267,0,3112-09-22 04:38:00 EST,3112-09-22 04:53:00 EST,2929,"N",69,"Nursing/Other",,"
+
+Neuro: Pt is alert. Responds appropriatly to questions. MAE in bed. Versed increased to 1mg/hr as pt was not sleeping. Did finally dose off and on. Appears withdrawn.
+
+Resp: No vent changes. Continues on A/C 20 peep 10 vT.500 80%. Sats are low 90's. Sx occasionally for thick white secreations. Pt is afebrile. 
+
+C/V: HR 90's all shift, now low 100's. A Fib with occasional SR. MAPs have been in the 50's with sys 70's to 90's. Pt denies pain. Pt is comfort measures with no additional meds and may be made CMO tomorrow after all have had a chance to visit this weekend. Pt withdrawn. 
+
+GU/GI: Foley patent with poor output of dark amber urine. Abd soft. Tube feeds held as GI motility with MAP's in the 50's poor. Passing soft to liq stool via FIB. 
+
+Social: Daughters here until early evening visiting. Friends and family have been encouraged to visit today.
+
+Plan: Comfort is main concern of family. For now pt will continue on present vent settings and heparin and Versed gtts. No fluids or pressors will be used for low BP's. If pt becomes uncomfortable a morphine gtt or push can be provided. 
+
+
+",,
+5054,20459,6267,0,3112-09-22 17:10:00 EST,3112-09-22 17:25:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: No significant changes have occurred thus far today.  The pt remains a DNR/DNI.
+
+RESP: Pt received/maintained on AC-20-80-500-10 c sats in the 90's, RR in the 20-30 range and no episodes of overt SOB/dyspnea.  Weak cough noted, sxn'ed out mod amounts of thick dark tan sec per ETT.  LS are coarse and rhoncherous thoughout lung fields c exp wheezing appreciated @ times & diminished BS in LLL.  Freq oral care provided.
+
+CV: Pt c L radial a-line in place c BP values in the 73-92/57-67 (MAP's 57-67) today.  Afib EKG waveform noted c occ/freq PVC's.  Heparin gtt cont to infuse @ 1600units/hr c a therapeutic AM PTT value of 67.7.  The pt is afebrile.  Poor hourly urinary output varying from 5 to 30ml per hour.  The pt is currently net positive 600ml input for today and is positive 18 liters LOS.  Urine is amber in coloration.
+
+MS: Pt fairly lethargic this AM but responsive to verbal stimuli and following simple commands consistently.  Pt IV Verced gtt received @ 1mg/hr which was subsequently weaned off to lighten sedation during family visit @ 15:00.  Pt remains comfortable and arousable, IV Verced gtt restarted @ 0.5mg/hr @ 18:00.  MAE to command.  Pt able to nod head yes/no appropriately to simple yes/no questions.  Pt freq re-oriented to person/time/place to assist c nl cognition.
+
+GI: Pt full strength tube feeds (Promote c Fiber) re-started today and currently infusing @ 30ml/hr c low residuals noted per OGT.  Tube feed goal of 50ml/hr noted.  FIC tore aware from peri-rectal area, mushroom cath now in place draining small amounts of liquid golden stool.  Abd is soft c hypoactive BS appreciated.
+
+SOC: Multiple visitors cont to visit throughout most of day, all kept up-to-date c POC/pt status.  The pt is a DNR/DNI and may be made CMO tomorrow ([**9-23**]).  
+
+OTHER: Please see CareVue for additional pt care data/comments.  Contact Isolation precautions in place.  
+",,
+5054,20459,6267,0,3112-09-23 03:59:00 EST,3112-09-23 04:03:00 EST,2063,"N",69,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned for lrg amts thick white secretions. MDI'S given more bronchospastic. Sedated with versed.No spont resp. Will cont to monitor resp status.
+",,
+5054,20459,6267,0,3112-09-23 04:50:00 EST,3112-09-23 05:09:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: Pt has remained on Versed @ 0.5mg/hr. He appears comfortable and was able to [**Doctor Last Name 65**] most of night. He moves all extremeties on bed, and follows commands. 
+
+Resp: Vent settings unchanged from AC 80%/20 X 500/+10 with rare overbreathing. O2 sat 96-100%(pleth freq not registering). Lung sounds intermit rhonchorous, coarse, or with I/E wheezes. Pt suctionned for large amts thick/white secretions. ETT rotated, and very difficult to tape in place S/T dentures not in place. 
+
+CV: HR 91-110AFib with rare PVC's. BP 79/56-103/53. Heparin remains @ 1600u/hr. AM labs deferred [**Name8 (MD) 17**] MD.
+
+GI: TF of Promote with fiber @ goal of 50ml/hr. Minimal residuals. Abd soft with bowel snds present. Pt with mod amt gelatinous, clear discharge per rectum which intermit clogs mushroom cath. 
+
+GU: Urine amber/clear, draining via [**Last Name (un) **] @ 0-15ml/hr. 24hr fluid balance @ MN +958ml. Pt with anasarca, notable swelling of penis/scrotum.
+
+Plan: ? PTT. Family to discuss possible change of status today to comfort measures, withdrawing other medical care.
+",,
+5054,20459,6267,0,3112-09-23 16:18:00 EST,3112-09-23 16:50:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: Pt made CMO after a family conference this afternoon c the goal of care to make the pt as comfortable as possible.  In addition, pt care therapies intended to extend life will not be added.  However, the family is not ready to extubate @ this time.  The pt remains a DNR/DNI.
+
+SOC: Family meeting held c three of the pts dtrs today including [**Doctor First Name **] the HCP.  Family decided that the pt was confused and therefore incompetent to make informed medical decisions.  Family indicated that the pt would not have wanted to be kept alive if he could not live without MV support and therefore the goals now are to make the pt CMO. Additionally the family does not wish to  elevate support @ this time or in the future.  Subsequently most of the pts meds were d/c'ed (accept IV Verced gtt).  Family declined a pastoral consult.  Verbal & non-verbal support provided to family.  
+
+MS: Pt received on IV Verced gtt infusing @ 0.5mg/hr c pt diff to arouse via verbal stimuli this AM.  Family felt pt was more lethergic today and therefore his Verced gtt was weaned down to 0.4mg/hr c no appearant change in pt comfort evident per family.  Pt now more awake, able to nod head yes/no to simple questions and indicates that he is not in pain/discomfort/anxious.  Verbal/non-verbal support provided to pt.  Will utilize IV Fentanyl when/if pt becomes dyspneic c less MV support now in place. 
+
+RESP: Pt received on MV c the following settings; AC-20-80-500-10 c a RR in the 20-30 range c no evidence of acute SOB/dyspnea.  Pt requires Q1-2 hr sxn'ing in AM for thick/frothy off-tan sec per ETT c less freq sxn'ing required in afternoon.  Freq oral care provided today.  MV rate dropped to 10 today and will provide IV Fentanyl when/if pt becomes dyspneic.  No other MV setting changes planned for today, family not ready to extubate @ this time.  
+
+CV: Pt remains hemodynamically unstable @ times c SBP values in the 73-120 range today and marginal hourly urinary output (5-60ml/hr).  Afib EKG waveform noted c occ/freq PVC's/pauses noted.  +2 Anasarca unchanged in nature.  IV Heparin gtt d/c'ed per revised pt care goal of CMO.  RISS canceled as well as future blood lab work.
+
+GI: Tube feeds and OGT both d/c'ed today in light of CMO status.  Mushroom cath d/c'ed 2nd formed stool output.  
+
+DERM: No significant changes in skin care/status.  Venodyne boots d/c'ed for pt comfort.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Contact isolation precautions in place.  
+",,
+5054,20459,6267,0,3112-09-24 05:26:00 EST,3112-09-24 05:49:00 EST,7271,"N",69,"Nursing/Other","MICU A NPN 7p-7a","
+MICU A NPN 7p-7a
+Pt remains on comfort measures. Care and support overnight to make pt as comfortable as possible. Bathed, turned q4hrs. A-line d/c'd and NIBP cuff placed on pt. Pt rec'd fentanyl 12.5mcg ivp x3 for pain. Remains on versed gtt at 0.4mg/hr for comfort. Was given bolus of versed at 0.2cc x3 with turns. Pt generally lethargic and will open eyes when name is called. Not following commands or nodding to questions asked. 
+
+Pts family with questions about comfort measures overnight, quesions were answered by RN and family given verbal and nonverbal support. 
+
+Continue comfort measures, pt is DNR/DNI. Cont to provide support to family as needed. 
+",,
+5054,20459,6267,0,3112-09-24 13:35:00 EST,3112-09-24 13:53:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS: No significant events thus far today.  Pt remains CMO & is a DNR/DNI.
+
+MS: Pt slightly more lethargic today but arouses to voice and follows simple commands consistently.  Pt able to nod head yes/no appropriately to simple questions.  Pt received/maintained on 0.4mg IV Verced gtt, no supplemental IV Fentanyl required thus far today.  Pt re-oriented to person/place/time to assist c nl cognition.  Verbal & non-verbal support provided.  Pt turned side/side Q4 hrs for comfort.  Pts family reports that pt appears comfortable and is in NAD.
+
+RESP: Pt received on AC-10-500-80%-10 c RR in the teens and unable to transduce a sat c no evidence of acute SOB/dyspnea.  Pt sxn'ed Q 2 hrs today for small to moderate amounts of frothy off-tan sec.  Pt cont to require freq oral care for clear mucoid sec.  PEEP dropped to 5 today per team request.  Pt not able to tol PSV MV c increased RR/dyspnea and low minute volume.  No other MV mode setting changes made today.  Paradoxical resp pattern noted this AM.  
+
+CV: Pt c SNBP's in the 70-80 range today c HR in the 100-120 range.  Hourly urinary output dropping a bit today c approx 5ml voided per hour via foley cath.  Pt remains afebrile.    
+
+SOC: Spoke c pts dtr about MV support and goals of pt care this afternoon.  Currently the family is unsure of how to proceed.  Family advised to discuss pt care c as many family members as possible (ie family conference) to help to build a consensus c the focus of what the pt would want before making pt decisions.  Verbal support provided.
+
+OTHER: Please see CareVue for additional pt care data/comments.  C.diff positive contact isolation precautions in place.  
+",,
+5054,20459,6267,0,3112-09-24 17:07:00 EST,3112-09-24 17:08:00 EST,2503,"N",69,"Nursing/Other","resp. care","
+resp. care
+pt. remains intubated/cmo. attempted ps however resp. rate
+was in the 40's. changed back to a/c. peep to 5. tolerating
+well. see flowsheet for more.
+",,
+5054,,6267,0,3112-09-25 00:11:00 EST,3112-09-25 00:14:00 EST,2929,"N",69,"Nursing/Other",,"
+
+At ~2330 pt without VS's. Intern in to pronounce death. Family arrived about 5 min later and took pictures in the room with them. Pt did not have any other personal items. Central line and foley cath removed. Body bagged and will go to the morgue. Pts family does not wand a post. Organ bank notifed of pts death.
+",,

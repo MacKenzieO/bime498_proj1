@@ -1,0 +1,314 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5873,16794,,,2728-02-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2728-2-25**]       Discharge Date:  [**2728-2-28**]
+
+Date of Birth:   [**2641-7-1**]       Sex:  F
+
+Service:  TRAUMA SURGICAL
+
+The patient is an 86 year old female transferred from [**First Name8 (NamePattern2) **]
+[**Doctor First Name **] status post a fall.  CT at that institution
+revealed splenic hematoma and question of a splenic
+pseudoaneurysm.  The patient with past medical history
+significant for congestive heart failure, atrial fibrillation
+inactive currently, degenerative joint disease, osteoporosis,
+hypertension, Paget's disease of bone, depression, blindness,
+chronic obstructive pulmonary disease and a previous
+fractured clavicle.  The patient has had a cholecystectomy [**46**]
+years ago, total abdominal hysterectomy and bilateral
+salpingo-oophorectomy 40 years ago and a left hip fracture.
+The patient's work-up in the Trauma Bay revealed a splenic
+hematoma and an enhancing lesion with densities, same as
+aorta in the area of the hilum of the spleen.  Also noted
+were left lower rib fractures and dilated intra and
+extrahepatic bile duct.  The patient was admitted to the
+Trauma Surgical Service where evaluation of these findings
+were undertaken.  The MRA and MRCP of the abdomen, M-D of the
+spleen revealed that the splenic lesion was in fact not a
+pseudoaneurysm and was just a collection of blood from her
+previous fall trauma which has resolved.  MRCP revealed
+chronic obstruction of her biliary tree but in the past two
+years, based on these findings she remained hemodynamically
+stable and will be discharged back to the nursing home.
+
+The patient's discharge is status.  The patient is discharged
+to home.
+
+DISCHARGE MEDICATIONS:
+[**Last Name (un) **] 500 mg p.o. q. h.s.
+Trazodone 12.5 mg p.o. q.6h. p.r.n.
+Ativan 0.5 mg p.o. q. h.s. p.r.n.
+Tylenol 650 mg p.o. q.6h.
+Norpace 100 mg p.o. b.i.d.
+Zestril 40 mg p.o. q.d.
+Lipitor 10 mg p.o. q.d.
+Diltiazem XL 180 mg p.o. q.d.
+Digoxin 0.125 mg p.o. q.d.
+Zantac 150 mg p.o. q.d.
+
+DIET:  Regular.
+
+The patient should have meetings with Physical Therapy.  No
+Trauma Surgery follow-up is necessary.
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2010**], M.D.  [**MD Number **]
+
+Dictated By:[**Last Name (NamePattern1) 2463**]
+MEDQUIST36
+
+D:  [**2728-2-28**]  08:26
+T:  [**2728-2-28**]  08:34
+JOB#:  [**Job Number 7317**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2728-3-13**] 6:47 AM
+(End of Report)
+
+
+",,
+5873,16794,,,2728-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2728-2-25**] 7:41 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 14854**]
+     Reason: r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman s/p fall 3 days ago
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     PELVIS, SINGLE VIEW:  There is increased trabeculation and expansion of the
+     right hemipelvis, consistent with Paget's disease.  There is a dynamic screw
+     within the proximal left femur with an additional screw in the left femoral
+     neck.  There is marked bilateral joint space narrowing and degenerative
+     changes.  There is osteopenia seen within the remainder of the osseous
+     structures.  There is an approximately 1-cm density overlying the region of
+     the left SI joint of uncertain significance and etiology.  Contrast material
+     is seen within the bladder.
+     
+     IMPRESSION:  Paget's disease of the right hemipelvis.  No acute fracture.
+
+",,
+5873,16794,,,2728-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2728-2-25**] 7:41 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14853**]
+     Reason: assess rib fx and effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with rib fx and pleural effusion by report from outside
+      hospital CT Abd
+     REASON FOR THIS EXAMINATION:
+      assess rib fx and effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for rib fractures and effusion.
+     
+     CHEST, PA AND LATERAL:  There is moderate cardiomegaly.  The aorta is
+     tortuous.  There is no evidence of vascular congestion.  There is a small left
+     pleural effusion with associated atelectasis at the left base.  No definite
+     rib fracture is appreciated.  There is some irregularity involving one of the
+     left lower ribs, however, it is difficult to determine if there is cortical
+     disruption.  There is diffuse osteopenia.  There is kyphosis of the thoracic
+     spine.  There is an old healed fracture involving the proximal left humerus.
+     
+     IMPRESSION:  Small left pleural effusion.  Possible fracture involving one of
+     the lower left ribs.
+
+",,
+5873,16794,,,2728-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2728-2-25**] 6:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14852**]
+     Reason: r/o head bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with dementia s/p fall
+     REASON FOR THIS EXAMINATION:
+      r/o head bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dementia, status post fall.
+     
+     COMPARISON:  [**2727-4-22**].
+     
+     TECHNIQUE:  CT of head without IV contrast.
+     
+     FINDINGS:  There is no intra- or extraaxial hemorrhage, edema, or shift of
+     normal midline structures.  There is extensive involutional change involving
+     both the cerebrum and cerebellum with periventricular low attenuation
+     consistent with chronic microvascular infarction.  The ventricles are
+     symmetric and do not appear significantly dilated when extensive involutional
+     change is taken into consideration.  Compared with the prior study, there has
+     not been a significant interval change.
+     
+     BONE WINDOWS:  There are no fractures seen.
+     
+     IMPRESSION:
+     
+     1) No evidence of acute intracranial pathology.
+     
+     2) Extensive atrophy, as above.
+
+",,
+5873,16794,7313,0,2728-02-26 05:47:00 EST,2728-02-26 06:05:00 EST,3840,"N",53,"Nursing/Other",,"
+
+CTIC Nursing Admission Note
+
+Pt is 86 year old admitted to CTIC/SICU #7 @ 2:45am from CC6. Pt was transferred from [**Hospital3 1486**] ER to [**Hospital1 22**] ER s/p fall in her Nursing Home x2 in the past week. Pt has pseudoaneurysm in the spleen, left pleural effusion, left rib fx, left flank bruise, stone in CBD with increased LFTs.
+
+PMHx: CAD, CHF, AFib in past, DJD, Depression, HOH, cardiomegaly, Paget's Disease, macular degeneration.
+
+Allergy to Codiene.
+
+Meds: Celebrex, ASA, Lipitor, Digoxin, Colace, Zesril, Trazadone, Diltiazem.
+
+Pt is alert and oriented, unhappy with noise and lights, c/o pain in left flank.
+
+NSR 70s. BP 167/77 up to 190/100 with agitation. HCT pending. Pt is afebrile. 2L NP with RR 20, sats 100%, lungs clear. Pt is voiding on bedpan in large amts. IVF @ 80cc/hr. Pt is NPO. Abd. is soft, positive bowel sounds, no stool, denies N/V. Skin intact.
+
+Plan: Continue to monitor.
+",,
+5873,16794,7313,0,2728-02-26 17:52:00 EST,2728-02-26 18:13:00 EST,3063,"N",53,"Nursing/Other","SICU Nsg Note","
+SICU Nsg Note
+     Pt lives at [**Hospital3 1487**] (Nsg Home), and is active, walking with a cane, conversant, usually oriented, occ confused per daughter.  Pt is very HOH and has poor eyesight.  Pt fell at Nsg Home about [**2-18**], to [**Hospital3 1488**] for evaluation, was not admitted.  Fell again on [**2-23**].  Pt has rib fx, bruised L flank, also intermittent abd pain.  Pt to [**Hospital3 1488**] again [**2-25**],CT scan revealed a splenic hematoma, and pseudoanyursem in the spleen.  Pt transfered to [**Hospital1 22**] for interventional radiology - coil embolization of pseudoanyuresm. Pt also has a gall stone in the common bile duct with dilation of duct.  Possible ERCP.
+     Pt is 86yo, & daughter does not want pt to have surgery, daughter says that pt would not want surgery either.  Plan is for MRI to further evaluate Pseudoanyuresm of spleen and dilated bowel duct.  Then IR for possible coil embolization will be discussed with pt & daughter based on MRI findings.
+A: Hct stable - 37.2 up from 37.0 this am. Rarely c/o abd pain.  Ready to transfer out of ICU.
+P: Transfer to CC6, plan for MRI when MRI avialable.  
+",,
+5873,16794,,,2728-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2728-2-27**] 11:56 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 14855**]
+     Reason: Please evaluate for biliary obstruction
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with intra and extrahepatic bile duct dilatation on CT scan
+      and splenic vascular lesion, elevated LFT's
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for biliary obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Status post trauma with possible splenic vascular lesion. Evaluate spleen.
+     Evaluate for biliary obstruction.
+     
+     TECHNIQUE:
+     Multiplanar, multisequence MR imaging of the abdomen was performed including
+     HAZE, T1 turboflash, nonbreathhold out-of-phase, STIR HASTE, T1 turboflash
+     postgadolinium. Multiplanar reconstructions were evaluated on the workstation.
+     Correlation is made to a CT scan of the chest dated [**2727-4-19**].
+     
+     FINDINGS:
+     There has been a slight interval progression in intrahepatic biliary ductal
+     dilatation. The common duct is dilated to 1.1 cm and slightly tapers in the
+     duodenum with no periampullary mass or filling defect. The patient is status
+     post cholecystectomy with dilatation of the cystic duct remnant. There is a
+     tiny 2 mm pancreatic cyst. The pancreatic duct is not dilated. There are no
+     focal hepatic or pancreatic lesions. The adrenals and kidneys are normal in
+     appearance. In the inferior aspect of the spleen, there are two peripheral
+     hypointense lesions on the T1 turboflash sequence which may actually connect.
+     Postgadolinium sequences demonstrate peripheral enhancement of these lesions
+     with no evidence for active extravasation. On the previous CT, a small 5 mm
+     lesion was seen. Although the spleen was not imaged in its entirety on the
+     previous CT, these lesions are likely new and represent hematomas. There is no
+     evidence of vascular injury. No adenopathy or ascites. There is a small left
+     pleural effusion with adjacent compressive atelectasis.
+     
+     IMPRESSION:
+     
+     1) New lesions in the interior aspect of the spleen which are compatible with
+     hematomas in a patient with a history of trauma. There is no evidence of
+     active extravasation or arterial injury.
+     
+     2) Slight interval increase in intrahepatic biliary dilatation with no
+     evidence of a stone or periampullary mass. The etiology of the biliary ductal
+     dilatation is not identified on this study. The patient is status post
+     cholecystectomy.
+     
+                                                                 (Over)
+
+     DATE: [**2728-2-27**] 11:56 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 14855**]
+     Reason: Please evaluate for biliary obstruction
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5873,16794,,,2728-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2728-2-27**] 11:56 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 14855**]
+     Reason: Please evaluate for biliary obstruction
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with intra and extrahepatic bile duct dilatation on CT scan
+      and splenic vascular lesion, elevated LFT's
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for biliary obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Status post trauma with possible splenic vascular lesion. Evaluate spleen.
+     Evaluate for biliary obstruction.
+     
+     TECHNIQUE:
+     Multiplanar, multisequence MR imaging of the abdomen was performed including
+     HAZE, T1 turboflash, nonbreathhold out-of-phase, STIR HASTE, T1 turboflash
+     postgadolinium. Multiplanar reconstructions were evaluated on the workstation.
+     Correlation is made to a CT scan of the chest dated [**2727-4-19**].
+     
+     FINDINGS:
+     There has been a slight interval progression in intrahepatic biliary ductal
+     dilatation. The common duct is dilated to 1.1 cm and slightly tapers in the
+     duodenum with no periampullary mass or filling defect. The patient is status
+     post cholecystectomy with dilatation of the cystic duct remnant. There is a
+     tiny 2 mm pancreatic cyst. The pancreatic duct is not dilated. There are no
+     focal hepatic or pancreatic lesions. The adrenals and kidneys are normal in
+     appearance. In the inferior aspect of the spleen, there are two peripheral
+     hypointense lesions on the T1 turboflash sequence which may actually connect.
+     Postgadolinium sequences demonstrate peripheral enhancement of these lesions
+     with no evidence for active extravasation. On the previous CT, a small 5 mm
+     lesion was seen. Although the spleen was not imaged in its entirety on the
+     previous CT, these lesions are likely new and represent hematomas. There is no
+     evidence of vascular injury. No adenopathy or ascites. There is a small left
+     pleural effusion with adjacent compressive atelectasis.
+     
+     IMPRESSION:
+     
+     1) New lesions in the interior aspect of the spleen which are compatible with
+     hematomas in a patient with a history of trauma. There is no evidence of
+     active extravasation or arterial injury.
+     
+     2) Slight interval increase in intrahepatic biliary dilatation with no
+     evidence of a stone or periampullary mass. The etiology of the biliary ductal
+     dilatation is not identified on this study. The patient is status post
+     cholecystectomy.
+     
+                                                                 (Over)
+
+     DATE: [**2728-2-27**] 11:56 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 14855**]
+     Reason: Please evaluate for biliary obstruction
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

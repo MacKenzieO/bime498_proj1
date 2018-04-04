@@ -1,0 +1,286 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5888,7942,,,2935-05-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2935-5-4**]       Discharge Date:  [**2935-5-6**]
+
+Date of Birth:   [**2856-10-17**]       Sex:  F
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 78-year-old
+female who presented initially to [**Hospital1 **]-[**Last Name (un) 1863**] with the
+complaint of ""not feeling well"" for the last 24 hours.  She
+was taken to the ED via EMS and found to be in third degree
+complete heart block with a rate of 37-40, but stable vital
+signs.  She was admitted briefly to the ICU with no response
+in the ICU to atropine or isoproterenol drip.  Heart rate
+remained in the 50s.  At 6:00 am, she had an episode of
+polymorphic ventricular tachycardia for about 20 beats, which
+broke spontaneously.  She was transferred to [**Hospital1 83**] ICU via
+MedFlight.  She received a sedative en route for prophylactic
+transcutaneous pacing.
+
+EXAMINATION:  Temp afebrile, heart rate 47, blood pressure
+148/50, respirations 22.  Mucous membranes are dry.
+HEENT:  Presence of [**Doctor Last Name 1364**] A waves.
+PULMONARY:  Clear to auscultation bilaterally.
+CARDIOVASCULAR:  Regular rate, rhythm.  A III/VI holosystolic
+murmur at the apex.
+ABDOMEN:  Soft, nontender, nondistended, normoactive bowel
+sounds.
+EXTREMITIES:  Without edema.
+
+LABORATORY:  Chemistries were 142, 4.6, 109, 24.  BUN 86,
+creatinine 2.6, glucose 117, INR 2.5, digoxin level 2.05.
+After Digibind administered, digoxin level was 0.32.
+
+EKG:  Showed ventricular escape rhythm at a rate of 48 with
+third degree AV block.
+CHEST X-RAY:  Showed atherosclerotic changes in the aorta.
+Clear lungs.
+
+HOSPITAL COURSE - 1) CARDIOVASCULAR - A) ISCHEMIA:  The
+patient with no clear anginal symptoms.  She is now status
+post a pacemaker placement on [**5-4**] with normal placement of
+leads confirmed by chest x-ray, PA and lateral.  The patient
+had a slight bump in her cardiac enzymes from a CK of 194-293
+after placement of her pacemaker, which again came down the
+next morning.  Her pacemaker appears to be functioning
+normally.
+
+B) PUMP:  Her ejection fraction is 30-40% with extensive
+anterior apical kinesis, 1+ MR, and 2+ TR.
+
+C) RHYTHM:  Patient initially with complete heart block, now
+status post pacemaker functioning normally.
+
+2) ALTERED MENTAL STATUS:  When the patient initially came,
+she was unable to fully communicate.  Her mental status
+improved slightly by hospital day #2.  She was able to
+communicate and was oriented x 2, but still had some
+occasional hallucinations of seeing puppies, or multiple
+boxes in the room.  Otherwise, the patient is not agitated.
+Her altered mental status may likely be due to a source of
+infection, as her white count has increased to 20.
+
+She was also noted to be aspirating at the outside hospital.
+Her chest x-ray initially showed some opacities at bilateral
+bases, which may be consistent with aspiration.  She was
+started on levofloxacin q 48 h, renally adjusted, to be
+continued for 7 days for presumed aspiration pneumonia.
+
+3) HYPERTENSION:  The patient noted to be extremely
+hypertensive at the outside hospital.  Her blood pressure is
+now well-controlled on Lopressor 50 bid, captopril 6.25 tid.
+She should have these medications continued to be titrated up
+as she tolerates.
+
+4) ACUTE RENAL FAILURE:  The patient with fractional
+secretion of sodium of 0.5 likely secondary to hypotension
+and dehydration.  She was cleared by speech and swallow for
+nectar thickened liquids and pureed solids.  Although her PO
+intake may be decreased due to her altered mental status, we
+will continue her on gentle IV fluid hydration.
+
+5) HEMATOLOGIC:  The patient was initially on Coumadin on
+admission for atrial fibrillation with an elevated INR.  Her
+Coumadin was held, and she was given Vitamin K initially for
+pacemaker placement, and her Coumadin was continued to be
+followed for 24 hours postpacemaker placement, and will be
+restarted today.
+
+6) DIABETES:  She was continued on qid fingersticks and
+sliding scale insulin.
+
+DISCHARGE DISPOSITION:  Stable.
+
+DISCHARGE STATUS:  The patient will be transferred to
+[**Hospital3 7362**].
+
+DISCHARGE MEDICATIONS:
+1. Enteric-coated aspirin 325 mg po qd.
+2. Lipitor 80 mg po qd.
+3. Lopressor 50 mg po bid.
+4. Captopril 6.25 mg po tid.
+5. Pantoprazole 40 mg po qd.
+6. Levofloxacin 250 mg po q 48 h x 7 days.
+7. Sliding scale insulin, regular.
+8. Senna.
+9. Colace.
+10.Tylenol prn.
+
+FOLLOW-UP PLANS:  The patient is to follow-up with her
+primary care provider [**Name Initial (PRE) 1252**] 1-2 weeks after discharge from
+[**Hospital1 **]-[**Location (un) 579**].
+
+
+
+
+                            [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 112**], M.D.  [**MD Number 113**]
+
+Dictated By:[**Last Name (NamePattern1) 6448**]
+MEDQUIST36
+
+D:  [**2935-5-6**]  12:00
+T:  [**2935-5-6**]  12:09
+JOB#:  [**Job Number 7363**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Last Name (NamePattern1) **]
+ on: WED [**2935-5-11**] 2:54 PM
+(End of Report)
+
+
+",,
+5888,7942,7331,1,2935-05-04 13:36:00 EST,2935-05-04 16:36:00 EST,2148,"Y",69,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Pt returned from EP lab with left shoulder permanent pacer, a dual chambered pacer.  Vital signs stable B/P 160's/40, HR 80-82 atrial sensed with ventricular paced, no C/O pain.  Mental status much clearer, able to answer questions appropriately.  Isuprel gtt D/C'ed in EP lab.
+",,
+5888,7942,7331,0,2935-05-04 13:36:00 EST,2935-05-04 14:10:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+78 year old female admitted from [**Hospital3 1524**] in CHB.  Transfered to [**Hospital1 22**] for pacemaker.
+
+Past Medical History:  IDDM; HTN; Glaucona; DVT's; SVT.
+
+Allergies:  codeine
+
+Pt was feeling poorly for a few days until today she pushed her panic button.  She was transported to [**Hospital1 1525**] where she was found to be in CHB.  Her Dig level was 2.05 so she was given digibind 38mg, repeat dig level was .32 but her heart rhythm remained CHB.  She was given atropine with no response so she was started on isuprel to increase her HR from 30's to 40-50's.  She was transfered to [**Hospital1 22**] for a permant pacemaker.
+
+Review of systems:  Cardiac- pt had been on Isuprel at 2mcg/min but was having long (10-15beats) runs of VT so the ACLS crew dropped the isuprel rate to 1.5 mcg/min.  The amount of PVC decreased but did not affect her HR.  In the MICU her HR was 38-48 CHB with frequent PVC's and runs of VT -up to 4 beats.  B/P 132-141/30's.  She was taken down to the EP lab at 1430 for a pacemaker.
+
+Resp:  RR 16-20 on 4l NC her O2 sats were 98-99.  Breath sounds clear but decreased in the bases.
+
+Neuro:  She is awake but oriented x2.  She was difficult to understand because of slurring of her words but she did appear confused.  Her base line is alert and oriented, living on her own in a retirement facility.  
+
+GI:  Abd soft and non tender, hypoactive bowel sounds.  She remains NPO for the pacer insertion.
+
+GU:  Foley in place draining small amounts of yellow urine.
+
+ID:  temp on admission 100.8 with WBC's 15.3.
+
+Social: She has 3 neices and a sister.  Her Neice [**Name (NI) 1526**] [**Name2 (NI) 67**] was contacted for consent.  [**Doctor First Name 243**] and the patient's sister came in to sign the consent.  [**Doctor First Name 1526**]'s home phone # [**Telephone/Fax (3) 1527**]; work [**Telephone/Fax (1) 1528**].
+",,
+5888,7942,7331,,2935-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2935-5-5**] 3:47 PM
+     UNILAT LOWER EXT VEINS LEFT                                     Clip # [**Clip Number (Radiology) 15080**]
+     Reason: PT WITH L>R,HEART BLOCKAGE, EVALUATE FOR DVT
+     Admitting Diagnosis: COMPLETE HEART BLOCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with afib, htn, DM p/w complete heart block, now with 
+      edematous LLE.
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left lower extremity swelling.
+     
+     [**Doctor Last Name **]-scale and color Doppler images of the left common femoral, greater
+     saphenous, superficial femoral, deep femoral, and popliteal veins, as well as
+     the right common femoral vein were performed.  There is normal color flow,
+     compressibility, waveforms, and augmentation.
+     
+     IMPRESSION:  No DVT in the left leg.
+
+",,
+5888,7942,7331,,2935-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2935-5-5**] 5:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15079**]
+     Reason: lead placement, r/o PTX                                     
+     Admitting Diagnosis: COMPLETE HEART BLOCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with newly placed PPM for CHB                                 
+     REASON FOR THIS EXAMINATION:
+      lead placement, r/o PTX                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Newly placed pacemaker.
+     
+     COMPARISON: NONE.
+     
+     AP PORTABLE,SEMI-URIGHT VIEW: There is a dual lead pacemaker in the left chest
+     wall with one lead terminating in the right atrium and another lead
+     terminating at the apex of the right ventricle.  No definite ptx is
+     identified.  There is no evidence of chf.  There is vague increased lucency
+     over the right lung base which may be secondary to hypoventilation.  Follow-up
+     pa and lateral views are suggested.  There is no pleural effusion.  The
+     visualized osseous structures are grossly unremarkable.
+     
+     IMPRESSION:
+     1)  Satisfactory position of pacemaker leads.  No definite pneumothorax.
+     
+     2)  Vague increased opacity over the right lung base.  F/U pa and lateral
+     radiographs are suggested.
+     
+     
+
+",,
+5888,7942,7331,0,2935-05-05 04:29:00 EST,2935-05-05 04:42:00 EST,1545,"N",69,"Nursing/Other",,"
+
+Micu Nursing Progress Note: 
+
+neuro: alert and oriented most of shift until ~2am when became confused and found trying to get oob. Easily reoriented. Now back to last night's baseline-> a&o x [**2-8**]. No c/o pain. Less than compliant with keeping arm/shoulder immobile. 
+
+CV/RESP: sbp 128-170. HR av paced 80-98. Started on lopressor po.L radial and [**Last Name (un) 52**] pulses good. +bilat pp. L pacemaker dsg d&i. Sling on but pt not keeping arm/shoulder immobile despite many prompts.   Productive cough, congested upper airways. O2 sats on RA 90-94%, added 3L nc and now with increased O2 sats to 98-100%. 
+slightly elevated troponin and ck. 
+Tmax 100.9. ^^WBC to 17.9.
+
+GI/GU:  Diet advanced to [**Doctor First Name **], cardiac. Started on ns at 75cc/h. BS covered via ssi. Bun/Creat increased (?baseline creatine). u/o fair 35-75cc/h. urine sent for u/a & cx.
+
+Social: both nieces called last night x 2. updated on aunt's status. aware that pt may go to regular floor today. 
+
+
+",,
+5888,7942,7331,0,2935-05-05 14:53:00 EST,2935-05-05 15:01:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt called out and awaiting bed placement. taken to US for LE u/s, pending. weaned off o2 w/ o2 sats >95%. strong productive cough. pneumonia vs bronchitis. witnessed aspiration this am w/ morning meds. swallow eval done, again aspirated fluids. placed on purreed/ thickened diet. hemodynamicaaly stable. pacemaker functioning well
+
+ROS-
+
+CV- AV paced HR 80's. Lopressor increased to 50 and Captopril started, resulting BP's 120-130systolic. hct stable. 
+
+RESP- lungs coarse. good cough. still need sputum sample. 
+
+NEURO- ?hallucinating. taking about bugs and puppies and children climbing the buildings. oriented to person/ time but no to place. trying to climb oob several times today. per family- pt's baseline is A&O, no neuro defecits. ?need for CT or MRI head if s/s do not improve. denies pain.
+
+GI/GU- abd soft, NT/ND. stool X2. diet changes as above. meds in applesauce/ thickens. urine output 40-50cc/hr. 
+
+SKIN- intact except for L shoulder pacemaker insertion site, CD&I. L arm IV infiltration site erythemic. 
+
+ID- started on levo for ?pna and remains on ceftz. pan cultured.
+
+PLAN- awaiting bed. continue to monitor cardiac status. f/u on LE u/s and CXR. provide frequent reorientation nd safety monitoring. 
+
+ 
+",,
+5888,7942,,,2935-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2935-5-6**] 10:08 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15081**]
+     Reason: eval pacer leads and r/o PNA                                
+     Admitting Diagnosis: COMPLETE HEART BLOCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old woman with newly placed PPM for CHB, now with delirium and sputum 
+      production.                                 
+     REASON FOR THIS EXAMINATION:
+      eval pacer leads and r/o PNA                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate pacer leads delirium sputum projection.
+     
+     PA AND LATERAL VIEWS OF THE CHEST DATED [**2935-5-6**] IS COMPARED WITH THE PA
+     AND LATERAL CHEST DATED [**2935-5-5**]:  The dual lead cardiac pacer leads are
+     unchanged in position.  There are new small bilateral pleural effusions.  The
+     lungs are clear.  The cardiomediastinal silhouette is unchanged.  There are no
+     suspicious osseous lesions.
+     
+     IMPRESSION:  New bilateral small pleural effusions.  No parenchymal
+     consolidations identified to suggest pneumonia.
+
+",,

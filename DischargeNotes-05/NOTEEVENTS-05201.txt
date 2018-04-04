@@ -1,0 +1,479 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5201,8383,,,2991-01-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2991-1-21**]       Discharge Date:  [**2991-1-31**]
+
+Date of Birth:   [**2921-12-20**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 69-year-old
+female with a history of coronary artery disease, status post
+MI in [**2987**] with stent to LAD and RCA at the same time.  The
+patient reports no angina until [**9-30**].  She has been
+medically managed.  She presented to [**Hospital3 **] on [**1-19**]
+with complaints of progressive paroxysmal nocturnal dyspnea
+primarily one week prior to admission.  By [**1-19**] had severe
+shortness of breath, wheezing and cough.  EKG was positive
+for anterior and lateral ST depression, troponin 1.7.  The
+patient was treated with Lasix, Nitroglycerin, Lovenox and
+Aspirin.
+
+PAST MEDICAL HISTORY:  Includes coronary artery disease,
+status post MI in [**2987**] and status post stent to the LAD and
+RCA.  Type 2 diabetes mellitus on insulin, DJD, hypertension.
+
+ALLERGIES:  Artificial sweeteners.
+
+MEDICATIONS:  Diovan 160 mg po q d, Atenolol 25 mg po q d,
+Aspirin 81 mg po q d, NPH 30 units subcu bid, Trilisate 500
+mg po bid, Lipitor.
+
+PHYSICAL EXAMINATION:  The patient appears comfortable,
+states pain since admission.  Vital signs, 158/80 blood
+pressure, heart rate in the 60's, breathing 16.  Lungs
+decreased at the bases with fine crackles [**12-2**] of the way up.
+Room air sat 98%, distant heart sounds, regular rate and
+rhythm with normal S1 and S2.  Abdomen is soft, nontender
+with bowel sounds present.  DP and PT pulses are palpable
+bilaterally.
+
+LABORATORY DATA:  White count 7.8, hematocrit 43, platelet
+count 262,000, potassium 4.3, creatinine 0.9.  Cardiac
+catheterization showed a three vessel disease with an EF of
+20%.
+
+HOSPITAL COURSE:  The patient was stabilized on the C-Med
+service and was taken to the operating room on [**2991-1-25**] for
+three vessel CABG with LIMA to the LAD, saphenous vein graft
+to RCA and to OM1.  The patient tolerated the procedure well
+and was transferred to the Intensive Care Unit immediately
+post-operatively.  On postoperative day #1 the patient's Swan
+Ganz catheter was removed and the patient was weaned off the
+Neo-Synephrine.  On postoperative day #2 the patient noted
+some visual disturbances.  Carotid ultrasound studies showed
+mild plaque in the left ICA of no hemodynamic significance
+and normal antegrade flow in the vertebral artery.  The right
+carotid was unable to be seen due to line placement.
+Neurology saw the patient and diagnosed her with balance
+syndrome.  Physical therapy saw the patient on [**2991-1-28**] and
+noted that the patient could probably benefit from short term
+rehab stay.  On [**2991-1-29**], postoperative day #4, the patient's
+Foley was removed and the patient was out of bed ambulating.
+The patient was transferred to the floor on postoperative day
+#4, [**2991-1-29**].  On postoperative day #5 the patient's wires were
+removed.  The patient continued to do well.  Physical therapy
+saw the patient again on [**2991-1-30**] and thought that she was
+still very deconditioned and limited with activity and so
+would benefit from short term rehab stay.  The patient was
+discharged to rehab on [**2991-1-31**] on the following medications:
+Metoprolol 12.5 mg po bid, Lasix 20 mg po bid times 7 days,
+KCL 40 mEq po q d times 7 days, Colace 100 mg po bid, Zantac
+150 mg po bid, Aspirin 325 mg po q d, NPH insulin 30 units
+subcu bid, sliding scale regular insulin and Percocet 5/325
+1-2 tabs po  4-6 hours prn.
+
+DISCHARGE CONDITION:  Good.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post CABG times three vessels.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 14**]
+
+Dictated By:[**Last Name (NamePattern1) 1043**]
+MEDQUIST36
+
+D:  [**2991-1-30**]  18:24
+T:  [**2991-1-30**]  18:48
+JOB#:  [**Job Number 5999**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2991-2-1**] 3:36 PM
+(End of Report)
+
+
+",,
+5201,8383,,,2991-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-23**] 12:25 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9156**]
+     Reason: S/P NQMI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with CAD, CHF
+       
+      \
+     REASON FOR THIS EXAMINATION:
+      pre-op for CABG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Preop for CABG.
+     
+     There are no prior studies for comparison.
+     
+     PA AND LATERAL CHEST: There is enlargement of the cardiac silhouette.  The
+     aorta is slightly unfolded.  The mediastinal and hilar contours are otherwise
+     unremarkable.  The pulmonary vascularity appears prominent.  There are some
+     vague linear opacities in the region of the lingula that may represnt
+     atelectasis or scarring.  There is prominence of the interstitum of the lungs.
+     There are no pleural effusions.
+     
+     IMPRESSION: Mild cardiac failure.
+
+",,
+5201,8383,,,2991-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-25**] 4:21 PM
+     CHEST (PORTABLE AP) IN O.R.                                     Clip # [**Clip Number (Radiology) 9157**]
+     Reason: CABG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preop.  CABG.
+     
+     COMPARISON:  None.
+     
+     CHEST:  A single AP chest radiograph is provided.  A right-sided chest tube is
+     identified in position.  The position of a left-sided chest tube is obscured.
+     Endoscopic device is in place with tip within the stomach.
+     
+     Low lung volumes are present.  The cardiac silhoutte is enlarged with LV
+     prominence.  There are no consolidations or evidence of failure.
+
+",,
+5201,8383,6458,0,2991-01-25 22:44:00 EST,2991-01-25 22:54:00 EST,3202,"N",54,"Nursing/Other","S/P CABG","
+S/P CABG
+NSR 70S. A PACED @84 WITH 100% CAPTURE. NO ECTOPICS. MILNIRONE WEANING. NEOSYNEPHRINE CONTINUES. 1 LITER LR GIVEN. UNABLE TO LOCATE DP OR PT PULSES WITH DOPPER. FEET EQUALLY WARM. FOOT COLOR NORMAL. H/O OF PVD REPORTED. PLAN TO RETRY FINDING PULSES. +PULSES NOTED BY NSG IN NOTE FROM PRIOR SHIFT. 
+
+BREATHSOUNDS CLEAR. EXTUBATED @ 2230. DEEP BREATHING INSTRUCTIONS GIVEN.
+
+URINE OUTPUT DROPPING. LR 1000CC JUST GIVEN. PLAN TO CHECK RESPONSE.
+
+BLOOD SUGAR ELEVATED. PT TAKES 30U NPH @ 0800 AND 2000/HR. INSULIN GTT STARTED @ 3U/HR. PLAN TO CHECK GLUCOSE.
+
+OGT REMOVED PRIOR TO EXTUBATION FROM VENT. PT SWALLOWING AIR WITH ETT IN. OGT DRAINING LIGHT BROWN DRAINAGE JUST PRIOR TO OGT REMOVAL. ABSENT BOWEL SOUNDS.
+
+STERNAL AND CT DSG D&I. UPPER R LEG ACE WRAP BANDAGE PARTIALLY STAINED WITH BLOODY DRAINAGE. PLAN TO MONITOR.
+
+PT C/O STERNAL AREA DISCOMFORT. TORADOL LOAD GIVEN EARLIER. PLAN TO GIVE MSO4.
+
+WILL CONTINUE WITH FREQUENT GLUCOSE CHECKS, WEANING MILNIRONE AND OBTAIN DISTAL PULSES. 
+",,
+5201,8383,6458,,2991-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-26**] 12:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9158**]
+     Reason: s/p chest tube removal-R/O PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with s/p CABG
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube removal-R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for pneumothorax in patient who is status post CABG and
+     status post chest tube removal.
+     
+     COMPARISON:  [**2991-1-23**] preop film.
+     
+     FRONTAL CHEST RADIOGRAPH:  Suboptimal technique as right costophrenic angle in
+     not included in the study.  There is moderate cardiomegaly and prominence of
+     the pulmonary vasculature with slight upper zone redistribution suggesting
+     some degree of heart failure without pulmonary edema or effusions.  There is a
+     new opacification in a retrocardiac location in the left lower lobe consistent
+     with collapse and consolidation.  In addition, there is minor linear
+     atelectasis in the left midlung.  There are no pleural effusions, although the
+     study is limited as the right costophrenic angle is clipped.  There is no
+     evidence of pneumothorax.
+     
+     In the interval since the prior study median sternotomy wires and surgical
+     clips overlying the heart are consistent with known CABG.  In addition, there
+     is a central line sheath entering via right internal jugular access.
+     
+     IMPRESSION:
+     1.  No evidence of pneumothorax.
+     2.  Enlarged heart with prominence of the pulmonary vasculature suggestive of
+     mild heart failure.
+     3.  Collapse and consolidation of the left lower lobe.
+     4.  Interval placement of right IJ central line sheath and clips and wires
+     associated with CABG.
+     
+
+",,
+5201,8383,6458,0,2991-01-26 02:11:00 EST,2991-01-26 02:24:00 EST,3799,"N",54,"Nursing/Other",,"
+
+Pt. s/p cabg x3 extubated late in the evening. 3l nasal prongs with sao2 >95%. Breath sounds clear. C&R small amount tan secretons. Pt. had one episode of brief nausea that was relieved with reglan 10 mg iv. She is still somewhat labile. unable to actively wean neo. Pt. has ci> 2; Milrinone weaned to off. Huo drifting to < 30cc/hr. LR 800 cc given. Will plan to monitor huo . 
+",,
+5201,8383,6458,0,2991-01-26 18:07:00 EST,2991-01-26 18:17:00 EST,3424,"N",54,"Nursing/Other",,"
+
+[**2991-1-26**], ""A""
+Neuro: Awake, appropriate. MAE. 
+
+CV:  HR 60-70, NSR w/o ectopy. Neo weaned to 0.2mcg/kg. BP stable. CT d/c'd Epicardial wires intact/ V-demand at 60, sensing.
+
+Resp: RR 10-24, non-labored. Distant lungs sounds otherwise CTA. Non-productive cough. Instructed in use of incentive spirometer but pt not motivated to initiate use independently; needs encouragement.
+
+GI: Abd. soft, non-distended. Faint bowel sounds. Tol full liquids
+
+GU: Foley to BSD w/ output 20-40cc/hr clear urine. 
+
+Integ: Sternal drsng changed w/ CT removal. Incision intact. DSD on. 
+Left leg ace wrap intact. RIJ trauma introducer intact. Right radial A-line intact. Right fem line d/c'd. Periph angio #16 RAC patent. 
+C/O generalized discomfort w/ specific attention to left ankle (no obvious signs of injury/trauma) Medicated w/ Percocet prn with fair relief. 
+
+Labs: Insulin gtt weaned off. NPH sc restarted. Glucose 130-180. Hct 34. K 5.5
+
+",,
+5201,8383,6458,,2991-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-27**] 9:03 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 9159**]
+     Reason: S/P POSSBILE Tia after open heart
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      S/P POSSBILE Tia after open heart
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  TIA AFTER OPEN HEART SURGERY.
+     
+     FINDINGS:  Doppler evaluation of the right carotid system could not be
+     performed due to adjacent indwelling catheter causing artifact and
+     inaccessibility to the area of interest.
+     
+     There is minimal calcified plaque involving the left ICA.  The peak systolic
+     velocities on the left are within normal limits as is the ICA/CCA ratio.
+     There is normal antegrade flow in the left vertebral artery, and the right
+     vertebral artery again was not interrogated due to right-sided central line.
+     
+     IMPRESSION:  Minimal left ICA plaque without any appreciable associated
+     stenosis.  Right carotid system not evaluated due to right-sided central line.
+
+",,
+5201,8383,6458,0,2991-01-27 06:25:00 EST,2991-01-27 06:38:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU NPN
+
+Neuro:  Alert, oriented.  Takes a long time before responding to questions and then usually w/ only 1 word answers.  Daughter called RN into room last night after pt stated that she ""couldn't see"".  Evaluated patient who was able to correctly identify and see several items placed in front of her.  She then stated that she couldn't see the flowers her dtr sent her, which were not in the room at this time. No further c/o of vision during night.  MD aware of c/o.
+
+CV:  HR 60-70's NSR, no ectopy.  Neo gtt titrated to maintain MAP's 60 or more.  Up to 0.6 mcg/kg/min during night.  Weaned to off at 0600.  Skin warm, dry.
+
+Resp:  O2 sats down to 90% on 2l NP this am.  Poor inspiratory effort.  Faint rales at left base.
+
+GI/GU:  Abd obese.  Tol sips w/ meds.  u/o ave 20-40's much of night with occasional increases to 70's.  MD aware-instructed to call if u/o <30cc/hr x 2 hours.  
+
+Skin:  Intact.  Sternal incision OTA this am.
+
+Comfort:  Med w/ percocet.  c/o generalized discomfort and difficulty finding a comfortable position in bed.  Insisted in getting oob to chair during noc.  Did [**Doctor Last Name 65**] there for several hours.  
+
+A:  Increased Neo during noc.  Currently off.  Stable otherwise.
+
+P:  Assess BP off neo.  Pulmonary hygiene.  Pain med for comfort.  ? transfer to [**Hospital Ward Name **] 6 today if BP ok.
+",,
+5201,8383,6458,0,2991-01-27 08:48:00 EST,2991-01-27 08:57:00 EST,3233,"N",54,"Nursing/Other","CSRU TRANSFER NOTE","
+CSRU TRANSFER NOTE
+PT IS A 69 YR OLD FEMALE S/P CABG X 3 ON [**1-25**] REQUIRING MILRINONE INITIALLY POST-OP THEN WEANED OFF.  PT ALSO REQUIRING NEO POST-OP AND WEANED OFF AT 5AM ON [**1-27**]. POST-OP COURSE ALSO COMPLICATED BY VISION CHANGES, NO OTHER NEURO DEFICITS, PT TO UNDERGO A CAROTID STUDY AT 9AM THIS MORNING.
+
+ALLERGIES: ARTIFICIAL SWEETER: ORAL SWELLING
+
+NEURO: A/A/O X 3 C/O HEADACHE THIS AM TREATED WITH TYLENOL 650MG PO X 1 WITH GOOD EFFECT, DOES NOT C/O VISION DISTURBANCES THIS MORNING, MAE AND FC'S CONSISTENTLY.
+
+CV: TELE NSR 70'S, PACER ATTACHED AT A RATE OF 60 WITH V.PACING FOR BACKUP, A WIRES CAPTURE WITH AN MA OF 20. EXTREMITIES ARE WARM AND DRY, PULSES PRESENT WITH DOPPLER.
+
+RESP: NC 3L, LS DECREASED AT BASES, NO C/O SOB, RR 20/MIN EVEN AND UNLABORED. CT DRESSING SITE CDI.
+
+GI: OBESE, BS'S PRESENT, NEGATIVE FLATUS, NO BM, PT TAKING IN SOFT SOLIDS. 
+
+GU: FOLEY PATENT FOR CLEAR, YELLOW URINE.
+
+ENDO: GLUCOSE 194 TREATED WITH 4UNITS OF REGULAR INSULIN, PT TO RECEIVE NPH AT 10 AM UPON RETURN FROM CAROTID STUDIES.
+
+HEME: HCT 27.0 THIS AM
+
+ID: TEMP 98.1, WBC 18.0
+
+SKIN: MS [**First Name (Titles) 2157**] [**Last Name (Titles) **] CDI, L LEG INCISION WITH ACE WRAP CDI.
+
+A. STABLE
+P. OOB-CHAIR, PULMONARY TOILET, ENCOURAGE PO'S, FOLLOW GLUCOSE LEVELS, TRANSFER TO CCU AS A CSRU BORDER.
+",,
+5201,8383,6458,0,2991-01-27 20:29:00 EST,2991-01-27 21:04:00 EST,96,"N",1,"Nursing/Other","s/p cabg","
+s/p cabg
+[** 2690**] npn (now in ccu)- see csru admit sheet and note above also
+to ccu [**1-27**] am after carotid us. ?new cva/tia [**1-26**] pm with visual disturbance briefly. 
+neuro/ms- a+ox3. acting angry at times and forgetful as to recent events in csru, asking why can't she go home etc. discussed recent events with her, clarified -current status, lines, ?new tia/cva, why she can't go home today, etc over the day. seems to understand, forgot some after woke up from nap and thought it was [**1-28**]. ?some short term memory loss. dtr says personality is quite changed today (more angry, complaining than usual), neuro team made aware. good equal strength bilat, nl sensation, mae, follows commands and no obvious confusion in conversation. pupils small, but equal and react to light. s/b neuro team. plan- ct tomorrow. 
+id- afebrile. finished vancomycin today.
+cv- hr 60-70s sr, no vea, no pacing. has atrial and vent pacing wires in and hooked to temp. box (VVI) at rate 60, vent ma 2. bp 108-130s/, up to 140s, rarely 160 this pm. k- repeated this 5.1, creat 1.3 today. hct repeated, was 22.8 from 27.2 in am. hct repeated with larger discard to verify drop. repeat 24.7. resident to be notified.
+resp- sats low in am in bed, o2 up to 5l. up in chair, however able to wean to 2l with sats higher 90s and still up to 94-95 when back in bed. coughing after oob to chair, and after back to bed, good effort, productive of light beige colored sputum. splinting incision with pillow. u/o 22-35cc/hr via foley.
+gi- refusing food most day. asked for cereal this pm, took few bites only. taking few sips liquid, meds ok, refuses further liquids. no bm. 
+abd soft with b. sounds. 
+skin- c/o coccyx pain, back care given repos side to side while in bed. no breakdown noted. chest dsg d+i with steri strips, pacing wires intact. leg dsg d+i with ace wrap, may change dsg. pneumoboots on both legs, ok with [**Name8 (MD) 2690**] NP. 
+pain- c/o coccyx pain, relief with repos on side, in chair sitting on pillow. c/o chest incisional pain, percocet x1 with some relief, able to rest in naps. 
+activity- oob to chair with assist of 2, tol well, up for about 4hrs. pt will try to ambulate tomorrow am. 
+social- dtr visited, supportive to pt. has 5 children in area. 
+
+
+
+
+",,
+5201,8383,6458,0,2991-01-27 21:05:00 EST,2991-01-27 21:11:00 EST,96,"N",1,"Nursing/Other","addendum to above note","
+addendum to above note
+skin- also with open areas l groin ?from cath site, oozing scant amt, cleaned and redressed with no further bleeding noted. several ecchymotic areas on arms and on r groin. r ij line and r #14 iv patent, cordis to kvo. also with r rad. aline. unable to obtain another smaller peripheral iv. iv team unwilling to restart today with adeq. access in place. retry smaller iv or ask iv again and d/c other lines on the day that she will be transferred to [**Hospital Ward Name **] 6.  
+",,
+5201,8383,6458,,2991-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-28**] 5:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9161**]
+     Reason: suspect CVA
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     Additional information has been obtained from CareWeb Clinical Lookup since
+     the approval of the original report.  Reason for exam should also state visual
+     disturbances.
+
+
+     DATE: [**2991-1-28**] 5:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9161**]
+     Reason: suspect CVA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with CVA
+     REASON FOR THIS EXAMINATION:
+      suspect CVA
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     CT SCAN OF THE BRAIN WITHOUT IV CONTRAST:
+     
+     HISTORY:  CVA suspected.
+     
+     TECHNIQUE:  Noncontrast head CT scan was obtained.
+     
+     FINDINGS:  There is a moderately large, probably subacute infarct within the
+     right temporal lobe.  There is no associated hemorrhage.  The acuity of this
+     lesion could be confirmed with more specific clinical history regarding the
+     observed neurologic deficit.  The scan is also notable for smaller, more
+     disseminated areas of low density within the white matter of both cerebral
+     hemispheres, likely representing chronic microvascular infarction.  A probable
+     chronic lacunar infarct is seen, one each within the genu of the right
+     internal capsule as well as the left lentiform nucleus.  There is no
+     hydrocephalus or shift of normally midline structures.  The surrounding
+     osseous and soft tissue structures appear within normal limits.
+     
+     CONCLUSION:  Probable subacute, moderate-sized right temporal lobe infarct.
+
+",,
+5201,8383,6458,,2991-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-1-28**] 1:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9160**]
+     Reason: central vennous cordis changed over a wire to triple lumen- 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with s/p CABG, POD #3, cordis changed over wire to triple
+      lumen catheter
+     REASON FOR THIS EXAMINATION:
+      central vennous cordis changed over a wire to triple lumen- please check
+      catheter placement and r/o pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69 year old woman with status post CABG  Postop day 3 venous
+     central line change, evaluate for pneumothorax.
+     
+     COMPARISON:   AP, portable [**2991-1-26**].
+     
+     AP PORTABLE CHEST:  The cardiomediastinal and hilar contours are stable in
+     appearance in a patient status post CABG.  There is persistent opacification
+     in the left retrocardiac space with a probable left small pleural effusion.
+     Discoid atelectasis is noted in the lingular region.  A new right IJ catheter
+     is seen with tip in the distal SVC.  No pneumothorax is identified.  The soft
+     tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1. Satisfactory positioning of new right IJ line without evidence of
+     pneumothorax.
+     2. Persistent dense opacification of left lower lobe a small left pleural
+     effusion.
+
+",,
+5201,8383,6458,0,2991-01-28 05:47:00 EST,2991-01-28 06:02:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I hurt all over ""
+O:  TM 99.2po.  WC 11.3.
+HR 73-83SR. no vEA  BP 120-150/50-60.  right radial aline.  
+pacing wires attached to pacer box and sensing approp.  no pacing req. 
+sternal incision steri strips intact.  left leg dsg intact.  distal pulses palp.
+
+c/o generalized discomfort of back, neck, leg.  also c/o slight stomach upset relieved with droperidol .625IV.  given one percocet with good relief of discomfort and able to [**Doctor Last Name 65**].  easily aroused.
+
+neuro:  pt. able to state place, date and time.  some short term mem. prob. noted.  did not remember daughter visiting during day.  pt. spoke to daughter on phone in eve.  no vision problems noted.  
+moving all extrem.  pupils equal and reactive.  
+
+heme:  repeat HCT in eve 24.7.  no rx per resident.  AM HCT 22.9.  recheck pnd.  no stool.  taking small amts of soft solids.
+
+resp:  LS diminished bases.  sat 95% on 2lnc.  c/o feeling stuffy nose.  RA sat 94-95%.  O2 left off.  
+
+GU:  u/o 70-100/hr.  currently 300cc (-).
+endo:  FS 148.  
+
+A:   recheck HCT pnd. follow for neuro change.  plan to d/c lines and send to floor if stable today. OOB to chair.  enc. po's
+",,
+5201,8383,6458,0,2991-01-28 18:17:00 EST,2991-01-28 18:28:00 EST,40,"N",1,"Nursing/Other","7a-7p NPN","
+7a-7p NPN
+s: I hurt everywhere
+o: see carevue for all objective data
+neuro: pt c/o no visual disturbances, MAE, strength =, pt w/ some short term deficits. Family states pt at baseline is very cooperative, sweet, now at times angry, but is cooperative. Neuro here for consult. Head CT done. 
+cv: hemodynamically stable w/ hr 70-80's sr, pacing wires attached. bp 130-160/50-70.
+resp: sats 92-95 on RA, lungs w/ crackles at bases.
+id: tm 99.0 po
+heme: hct 23.4 this am, HO aware.
+end: bs 130-234, covered per riss.
+gu: foley draining cl yel urine ~ 100cc/hr
+gi: taking sm amts soft food, no stool today.
+skin: chest and leg incisions d/i
+pain: c/o general discomfort and incisional pain, given tylenol and percocet w/ relief.
+activity: oob to chair w/ 2 assista, walked ~ 30' w/ PT using wheeling walker, around rm w/ rn. 
+social: 3 daughters in to visit, met w/ social worker [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], case manager [**First Name4 (NamePattern1) 267**] [**Last Name (NamePattern1) **], Dr [**Last Name (STitle) 7667**] in to speak w/ family and pt.
+A: neuro changes s/p CABG
+P: Monitor neuro status, goal keep sbp >130. Continue cardiac rehab.
+",,
+5201,8383,6458,0,2991-01-29 07:05:00 EST,2991-01-29 07:23:00 EST,284,"N",1,"Nursing/Other","S/P CABG","
+S/P CABG
+NEURO:  CONFUSED AT TIMES TO TIME AND PLACE.  ASKING "" WHAT IS THIS PLACE?""  "" THIS DOES NOT LOOK LIKE AN ICU""  SLEPT POORLY.  GIVEN ATIVAN WITH NO EFFECT.  TRYING TO GET OOB.  DAUGHTER SPENT THE NIGHT IN ROOM WITH PT.  PT. STATES SHE FEELS FRIGHTENED AND ANXIOUS.
+
+CV:  VSS.  HR 80'S  PACER WIRES INTACT.  DENIES CP.  BP STABLE.
+
+RESP:  LUNGS SOUNDS DIMINSHED.  O2 SAT ON RA 95%.  COUGHING AND RAISING WHITE TO BLOOD TINGED SPUTUM.  WEAK COUGH EARLIER IN EVE.  USING SPLINT PILLOW.  BETTER COUGH THIS AM.  
+
+GI:  APPETITE FAIR.  TAKING SMALL SIPS OF JUICE AND WATER.  ABD SOFT, LARGE.  PASSING GAS AND BELCHING.
+
+GU:  URINE CLEAR YELLOW IN GOOD AMTS.  
+
+MIDLINE INCISION C&D, STERI-STRIPS INTACT.  RIGHT LEG INCISION INTACT.  C&D.  MED FOR INCISIONAL DISCOMFORT WITH TYLENOL  ( PERCOCET MAKES PT. NAUSEATED)  WITH FAIR EFFECT.  
+",,
+5201,8383,6458,0,2991-01-29 12:31:00 EST,2991-01-29 12:40:00 EST,40,"N",1,"Nursing/Other","NPN","
+NPN
+S: ""Everything is uncomfortable...""
+O: see carevie for all objective data.
+cv: hemodynamically stable w/ hr 80's sr, bp 140-160/50-70, epicardial wires in place. chest and leg incisions d/i.
+resp: sats 92-95% on ra
+neuro:a&o x3, many complaints about being uncomfortable (in spite of pain meds, repositioning, etc) no visual disturbances, MAE
+gi: fair appitite, no stool
+gu: good u/o, foley D/C 12 n, DTV
+id: afebrile
+heme: hct 25.2
+activity: oob to chair. walking w/ rolling walker 30-40' w/ minimal assist once standing.
+A: s/p cabg [**1-25**], c/b ms changes
+P: monitor neuro status, sitters at noc, continue cardiac rehab.
+
+",,

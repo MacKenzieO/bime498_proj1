@@ -1,0 +1,794 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5158,8768,,,3216-06-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3216-6-18**]              Discharge Date:   [**3216-6-27**]
+ 
+Date of Birth:  [**3126-9-7**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 4822**] 
+Chief Complaint:
+SOB, fever
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mrs. [**Known patient lastname 5922**] is an 89 yo F w/ h/o diastolic CHF, afib s/p PPM, 
+h/o PNAs and bronchiectasis from [**Hospital 67**] Rehab found to have sats 
+80% 7/22 AM and lethargic. Pt was unable to answer lengthy 
+questions due to somnolence, but pt's son reports pt c/o cough, 
+unclear if changed in quality recently, x 1d. In ED T 103.4 
+rectal, SBP 130, O2 sat 92% on 100% NRB. During course in ED, 
+SBP decreased to 70s. She was treated with IVF without good 
+effect. Because her son refused a CVL, she was started on 
+peripheral dopamine with an increase in SBP to 85. CXR showed 
+RLL PNA and U/A + 21-50 wbc. Lactate was 3.7. Per discussion w/ 
+son in the ED, pt is DNR/DNI. She was given ceftaz 2g x 1, Vanc 
+1g, and tylenol.
+..
+FICU course: She was treated initially with ceftriaxone and 
+vancomycin, and required dopamine for pressor support.  Blood 
+cultures grew Streptococcus pneumoniae, for which she was 
+changed to vanco/gent for possible prosthetic valve 
+endocarditis.  TTE [**6-20**] showed well-seated aortic and mitral 
+prosthetic valves without evidence of vegetation, in addition to 
+preserved EF 55%, 3+ TR, and severe pulmonary HTN.  Urine cx 
+revealed pansensitive Klebsiella. She was changed to Vanco alone 
+with surveillance cultures and sent to the floor [**6-20**] PM, 
+although still slightly labored breathing.  PICC was placed 
+[**6-19**].
+
+ 
+Past Medical History:
+-CRI, baseline Cr: 1.5-1.8
+-h/o chronic cough [**12-31**] bronchiectasis
+-Atrial fibrillation, h/o cardioversion, on warfarin
+-s/p VVI pacemaker in [**3204**] [**12-31**] CHF/AF
+-type 2 Diabetes Mellitus
+-hyperlipidemia
+-s/p MVR x 3 ('[**93**], '[**99**], '[**09**])- porcine
+-h/o ruptured cholecystectomy, s/p cholecystectomy
+-s/p appendectomy
+-h/o rheumatic fever
+-h/o cataracts
+-h/o TAH
+-glaucoma, L eye
+-Legionairre's disease, 1977
+-multinodular goiter
+-h/o UGIB [**12-31**] AVM
+-h/o colonic bleed, s/p partial colectomy
+-L parotid mass
+-s/p AVR in '[**10**] [**12-31**] AS
+-anemia, ?MDS
+-pulmonary HTN
+ 
+Social History:
+Lives alone in assisted living, has 1 son and 1 daughter nearby
+[**Name2 (NI) **] EtOH/Tob/Drug history
+Retired Accountant
+
+ 
+Family History:
+Father: TB at age 52, Mother: CHF at 69, Sibilings: several have 
+HD   
+ 
+Physical Exam:
+VS: T 97.0 ax, BP 99/31 on 5mcg dopa, P 63, RR 20, O2 sat 98% 
+NRB  
+Gen: Elderly F sitting up in bed with nasal cannula, slightly 
+labored breathing but able to speak without difficultly
+HEENT: PERRL, anicteric  
+Neck: Supple, JVP distended to jaw
+CV: RRR II/VI crescendo/decrescendo systolic murmur URSB  
+Lungs: Diffuse ronchi bilaterally with basilar rales and wheezes
+Abd: Protuberant, NABS, soft, NT  
+Ext: Trace to 1+ edema BLE. 
+Neuro: Fully awake and answers questions readily and 
+appropriately.
+*  
+
+ 
+Pertinent Results:
+[**3216-6-18**] 11:39PM   GLUCOSE-197* UREA N-71* CREAT-2.0* SODIUM-138 
+POTASSIUM-4.7 CHLORIDE-107 TOTAL CO2-20* ANION GAP-16
+[**3216-6-18**] 11:39PM   CALCIUM-8.5 PHOSPHATE-4.3# MAGNESIUM-1.7
+[**3216-6-18**] 07:50PM   TYPE-MIX TEMP-38.0 PO2-43* PCO2-44 PH-7.30* 
+TOTAL CO2-23 BASE XS--4 INTUBATED-NOT INTUBA
+[**3216-6-18**] 07:50PM   LACTATE-2.7*
+[**3216-6-18**] 06:28PM   CORTISOL-60.1*
+[**3216-6-18**] 05:17PM   TYPE-[**Last Name (un) **] TEMP-38.0
+[**3216-6-18**] 05:17PM   LACTATE-3.5*
+[**3216-6-18**] 04:46PM   GLUCOSE-264* SODIUM-144 POTASSIUM-4.4 
+CHLORIDE-110* TOTAL CO2-20* ANION GAP-18
+[**3216-6-18**] 04:46PM   ALT(SGPT)-17 AST(SGOT)-18 LD(LDH)-239 ALK 
+PHOS-74 TOT BILI-0.7
+[**3216-6-18**] 04:46PM   ALBUMIN-3.4 CALCIUM-9.6 PHOSPHATE-2.6* 
+MAGNESIUM-1.7
+[**3216-6-18**] 04:46PM   CORTISOL-53.3*
+[**3216-6-18**] 04:46PM   HCT-37.8
+[**3216-6-18**] 04:46PM   PT-23.2* PTT-40.7* INR(PT)-2.3*
+[**3216-6-18**] 11:25AM URINE  COLOR-Straw APPEAR-Hazy SP [**Last Name (un) **]-1.014
+[**3216-6-18**] 11:25AM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-MOD
+[**3216-6-18**] 11:25AM URINE  RBC-0 WBC-21-50* BACTERIA-MOD YEAST-NONE 
+EPI-0
+[**3216-6-18**] 11:24AM   GLUCOSE-235* UREA N-65* CREAT-1.8* SODIUM-136 
+POTASSIUM-4.5 CHLORIDE-104 TOTAL CO2-17* ANION GAP-20
+[**3216-6-18**] 11:24AM   CK(CPK)-24*
+[**3216-6-18**] 11:24AM   CK-MB-NotDone cTropnT-0.04* proBNP-7507*
+[**3216-6-18**] 11:24AM   WBC-14.5*# RBC-4.27# HGB-13.5# HCT-40.5# 
+MCV-95 MCH-31.6# MCHC-33.3 RDW-14.0
+[**3216-6-18**] 11:24AM   NEUTS-85* BANDS-10* LYMPHS-3* MONOS-2 EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**3216-6-18**] 11:24AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+[**3216-6-18**] 11:24AM   PLT SMR-NORMAL PLT COUNT-210
+[**3216-6-18**] 11:01AM   LACTATE-3.7*
+..
+CT chest without:
+1. Multilobar pneumonia, predominantly involving the right 
+middle and right lower lobes with minimal involvement in the 
+left lower lobe.
+2. Septal thickening and scattered ground-glass opacities, 
+likely due to superimposed hydrostatic pulmonary edema, although 
+hemorrhage is also possible in the setting of hemoptysis.
+3. Moderate right and small left pleural effusions.
+4. As the patient has had multiple recurrent pneumonias in the 
+left lower lobe, it would be helpful to peform CT when the 
+patient is not experiencing an acute infection in order to 
+evaluate for areas of underlying bronchiectasis.
+5. Pulmonary arterial hypertension.
+6. Evidence of previous granulomatous exposure.
+7. Enlarged heterogeneous right thyroid gland enlargement, 
+previously reported as multinodular goiter on thyroid ultrasound 
+of [**3209-9-8**].
+..
+CXR:
+1. Worsening right lower lobe pneumonia and increasing small 
+right pleural effusion.
+2. Increasing patchy opacity within the left lower lobe could 
+represent atelectasis or infection.
+..
+TTE:
+1.The left atrium is moderately dilated. The left atrium is 
+markedly dilated.  
+2.There is moderate symmetric left ventricular hypertrophy. The 
+left  
+ventricular cavity size is normal. Regional left ventricular 
+wall motion is  
+normal. Overall left ventricular systolic function is normal 
+(LVEF>55%).  
+3. Right ventricular chamber size is normal. Right ventricular 
+systolic  
+function is normal.  
+4. A bioprosthetic aortic valve prosthesis is present. The 
+aortic prosthesis  
+appears well seated, with normal leaflet/disc motion and 
+transvalvular  
+gradients. The transaortic gradient is higher than expected for 
+this type of  
+prosthesis. No masses or vegetations are seen on the aortic 
+valve. Trace  
+aortic regurgitation is seen.  
+5. A bioprosthetic mitral valve prosthesis is present. The 
+mitral prosthesis  
+appears well seated, with normal leaflet/disc motion and 
+transvalvular  
+gradients. No mass or vegetation is seen on the mitral valve.  
+6. Moderate to severe [3+] tricuspid regurgitation is seen.  
+7. There is severe pulmonary artery systolic hypertension.  
+8. Significant pulmonic regurgitation is seen.  
+9. There is no pericardial effusion.  
+10.There is a small pleural effusion present.  
+  
+Compared with the findings of the prior study (images reviewed) 
+of [**3216-1-12**]  
+no change. No clear evidence of endocarditis. If clinically 
+indicated, a  
+transesophageal echocardiographic examination is recommended. 
+
+ 
+Brief Hospital Course:
+1.) Pneumococcal pneumonia/ bacteremia: pansensitive Strep 
+pneumo in BCx, clear surveillance cx, plan for 2 weeks IV PCN, 
+TTE negative for any signs of endocarditis, remained afebrile 
+with stable WBC. Will need f/u BCx when course complete to 
+document clearance.
+..
+2) R great toe pain: seen by rheumatology, felt c/w podagra, 
+unsuccessful attempt to tap, tx for gout, unlikely septic as pt. 
+afebrile, WBC stable, and BCx neg. Improved with empiric 3 days 
+of colcicine. 
+
+3) hemoptysis: likely due to combination of bronchiectasis and 
+PNA, small volume occurred on floor after leaving FICU, 
+consulted pulm, checked CT chest which just revealed her PNA, 
+now resolving on coumadin holiday (as discussed with her 
+cardiologist Dr. [**Last Name (STitle) **]) until [**7-1**], then her coumadin can be 
+restarted with goal INR [**1-1**].
+..
+2.) UTI: Treated with Cipro for Klebsiella coverage for a total 
+of 10 days.
+..
+3.) COPD/bronchiectasis: Treated with bronchodilator nebs and 
+chest PT. 
+.. 
+4.) CHF: Diastolic per history, normal EF on TTE in past few 
+months.  
+- re-start metoprolol, euvolemic, follow weights and I's/O's  
+-consulted pt's cardiologist Dr. [**Last Name (STitle) **]
+..
+5.) AF: Stable, continue coumadin
+..
+6.) DM: Fsbg qid with HISS
+..  
+7.) CRI: Cr is at baseline
+..  
+8.) F/E/N/proph: regular diet, sQ hep, PPI  
+9.) Code Status: DNR/DN
+10.) Dispo: acute rehab at [**Hospital1 67**] Rehab
+ 
+Medications on Admission:
+Albuterol neb, Ipratropium nebs, Fluticasone, Lansoprazole 30 
+mg, Metoprolol Tartrate 25 mg BID, Latanoprost 0.005 % Drops HS, 
+Simvastatin 10 mg qd, Quinine Sulfate 325 mg HS, Trazodone HCl 
+25 mg hs, Dorzolamide HCl 2 % Drops, Warfarin 
+ 
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours) as needed.  
+4. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: Five 
+(5) ML PO Q6H (every 6 hours) as needed.  
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+6. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic  HS 
+(at bedtime).  
+7. Dorzolamide 2 % Drops Sig: One (1) Drop Ophthalmic  BID (2 
+times a day).  
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Insulin Lispro (Human) 100 unit/mL Solution Sig: per sliding 
+scale sliding scale Subcutaneous ASDIR (AS DIRECTED).  
+11. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+12. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed for pain.  
+13. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+14. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 3 days.  
+15. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day) as needed for COPD.  
+16. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) for 3 days.  
+17. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two 
+(2) ML Intravenous  DAILY (Daily) as needed.  
+18. Penicillin G Pot in Dextrose 2,000,000 unit/50 mL Piggyback 
+Sig: Two (2) MU Intravenous  Q6H (every 6 hours) for 10 days.
+Disp:*qs 10 days* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 437**] for the Aged - MACU
+ 
+Discharge Diagnosis:
+Primary: 
+Pneumococcal Pneumonia
+Sepsis
+Secondary: 
+Urinary Tract Infection
+Hemoptysis
+Gout
+Congestive Heart Failure
+Atrial Fibrillation
+Hypertension
+Diabetes Type 2
+Pacemaker
+AVR/MVR (porcine)
+
+ 
+Discharge Condition:
+stable, on 1.5L O2
+
+ 
+Discharge Instructions:
+Please continue your regular medications except please hold your 
+coumadin for 5 more days (for coughing up blood [**Doctor First Name **] had in the 
+hospital), restart [**3216-7-1**]. Please also continue your IV 
+Penacillin for your pneumonia for 10 more days. Please continue 
+your ciprofloxacin for your urinary infection for 3 more days. 
+Please follow up with Dr. [**Last Name (STitle) 2425**] at [**Hospital 5923**] Rehab. Please also 
+follow up with Dr. [**Last Name (STitle) **] in 1-2 weeks. 
+ 
+Followup Instructions:
+1. Please follow up with Dr. [**Last Name (STitle) 2425**] at [**Hospital 67**] Rehab in the 
+next week.
+
+2. Please follow up with your cardiologist Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] in 
+the next 2 weeks.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 4826**] MD [**MD Number 4827**]
+ 
+Completed by: [**Name6 (MD) **] [**Last Name (NamePattern4) 4826**] MD [**MD Number 4827**] [**3216-6-27**] @ 1624
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: SAT [**3216-8-27**] 4:07 PM
+(End of Report)
+
+
+",,
+5158,8768,,,3216-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-18**] 7:21 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8651**]
+     Reason: eval for line placement                                     
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old woman w/ RML/RLL PNA, R IJ placed                                 
+     REASON FOR THIS EXAMINATION:
+      eval for line placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Right-sided pneumonia, right IJ line placed.  Check for
+     placement.
+     
+     CHEST:  The tip of the right IJ line lies in the right atrium.
+     
+     There has been no other significant change since the prior chest x-ray. 
+     Pneumonia and some failure persist.
+     
+     IMPRESSION:  Right IJ line in right atrium.
+                                                                           
+
+",,
+5158,8768,,,3216-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-18**] 7:21 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8651**]
+     Reason: eval for line placement                                     
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old woman w/ RML/RLL PNA, R IJ placed                                 
+     REASON FOR THIS EXAMINATION:
+      eval for line placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Right-sided pneumonia, right IJ line placed.  Check for
+     placement.
+     
+     CHEST:  The tip of the right IJ line lies in the right atrium.
+     
+     There has been no other significant change since the prior chest x-ray. 
+     Pneumonia and some failure persist.
+     
+     IMPRESSION:  Right IJ line in right atrium.
+                                                                           
+
+",,
+5158,8768,,,3216-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-18**] 10:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8650**]
+     Reason: please eval                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with sob                                                      
+     REASON FOR THIS EXAMINATION:
+      please eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  [**3215-4-24**].
+     
+     AP PORTABLE CHEST:  The patient is status post sternotomy and valve
+     replacement.  A single lead pacemaker is unchanged in position.  The
+     mediastinal contours are unchanged.  There is new air space opacity at the
+     right lung base, which obscures the right heart border and is likely within
+     the right middle lobe.  There is a small right pleural effusion and probable
+     small left pleural effusion. There is no pneumothorax. Osseous and soft tissue
+     structures are unchanged.
+     
+     IMPRESSION:  Right middle lobe pneumonia and small bilateral pleural
+     effusions.
+
+",,
+5158,8768,6405,0,3216-06-18 18:04:00 EST,3216-06-18 18:32:00 EST,66,"N",69,"Nursing/Other","M/SICU Nursing Progress Note 14:15-19:00","
+M/SICU Nursing Progress Note 14:15-19:00
+See Careview for Additional Objective Data
+
+89 YOF from [**Hospital6 5026**] admitted via EW with fever, somnulance, hypoxia and hypotension from R sided pneumonia and probable UTI.
+
+See FHPA for Allergies, PMH, PSH
+
+Dispo:DNR/DNI
+
+ROS
+Resp:Fio2 weaned down to .7 CN with RR:20's with SpO2:94-97% BS:crackles up 2/3 with coarse rhonchi in upper lung fields. productive cough, not expectorating. CXR:R middle lobe pnx small R pleural effusion
+
+CV:BP:83-105/40's HR:65 V paced, no VEA noted. BP supported with 5 mcg/kg/min of Dopamine. received 1 250cc IVB of NS late pm for SBP in 80's/
+
+ID:T max:103.4 in EW treated with tylenol, afebrile in FICU. Pan cx in EW. Treated with one dose of Vanco and Ceftazadime
+
+GU:BUN/Cr:65/1.8 U/O:15-20cc/hr. I/O's:approx +2L
+
+GI:Abd soft, non-tender to palpation +BS. Small stool o admission OB-. NPO at present
+
+Heme:Hct:37 PT:23 PTT:40.2 INR:2.3 No overt s&sx of bleeding 
+
+Endo:BS:247-264 
+
+Skin:Intact
+
+Access:2 #18 PIV in R wrist. Central line being placed
+
+A:#1:Sepsis r/t pneumonia and possible UTI
+P:Place central line this evening, change Dopamine to levophed titrate to MAP>60, monitor volume status via U/O and CVP, IVF boluses for CVP<8,monitor lactate with am labs,antibx per order, titrate FiO2 as tolerated, encourage DB&C, send sputum spec, SSinsulin per order,anticoagulation (? heparin)for MV, update family as needed, supportive care
+
+",,
+5158,8768,6405,,3216-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-19**] 1:11 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8652**]
+     Reason: Please read for left PICC line. Thanks![**Doctor First Name 7040**] #37600      
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         89 year old woman w/ RML/RLL PNA, R IJ placed  Has right pacer. Needs abx 
+      for rehab                               
+     REASON FOR THIS EXAMINATION:
+      Please read for left PICC line. Thanks![**Doctor First Name 7040**] #37600                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  PICC line placed, check position.  
+     
+     A left PICC line has been placed, the tip lies in the lower SVC.
+     
+     There has been no other significant change since the prior chest x-ray. 
+     Failure and a right-sided pneumonia persists.  The position of the other lines
+     is unchanged.
+     
+     IMPRESSION:  PICC line in lower SVC.
+                                                                           
+
+",,
+5158,8768,6405,0,3216-06-19 02:36:00 EST,3216-06-19 02:55:00 EST,1499,"N",69,"Nursing/Other",,"
+
+Pt. is 89 y.o. NH resident. Presented with rt. sided PNA, diastolic CHF, hypoxia, fever, lethargy.
+Neuro: Pt. sleeping through the night, arouses to verbal stimulation, appropriate when awake. Denies pain or discomfort, states ""just not feeling well"".
+
+Resp: From cool neb mask weaned to NC 4L. RR 19-30s, sats 94-98%. No resp. distress noted while sleeping. Congested nonproductive cough noted. LS rhonchi with bibasilar crackles. 
+
+CV: HR 60s, V-paced, no ectopy. NBP 90s-110s/30s-40s. CVP 9-14, goal >12. Dopa discontinued. Levo @ .03 mcg/kg/min. Receiving 1L NS bolus over 150min. Mg repleted per orders. UO 20-50cc/hr. 
+
+GI/GU: Tolerating sips of H2O with meds. Abd. soft, nontender, +BS, had soft BM. Urine with sediment. BUN/CR 40/2.0, team aware.
+
+Skin intact.
+
+ID: Afebrile. Cont. Ceftaz IV, ID approval pending.
+
+Coag: Coumadin restarted last night. Hep prophylaxis initiated. Will sent AM INR.
+
+Social: Family visited, communicated with pt., called for update. 
+DNR/DNI  
+",,
+5158,8768,6405,0,3216-06-19 15:28:00 EST,3216-06-19 15:38:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+Please see flowsheet for further details...
+
+A&O. C/O feeling weak. Dozing when undisturbed. Son says this is her baseline although she is pretty independent at nsg home with her walker but needs help with washing.
+
+Afebrile. [**12-31**] BC + GPC. Started on Vanco and Gent. [**Name8 (MD) **] MD orders for levels. Plan for TTE to r/o endocarditis as pt has h/o MVR. 
+Repeat BC x2 sent.
+
+BP stable off vasopressors. HR 60 PMR. CVP 16.
+
+U.O. ~ 30-40cc/hr. Oozing sm amts soft brown stool. PO intake poor at this time. Diet advanced to regular.
+
+OOB-chair w/gd wt bearing. Son and [**Name2 (NI) **] in to visit. Spoke with MD. Tol chair well.
+",,
+5158,8768,6405,0,3216-06-20 06:18:00 EST,3216-06-20 06:25:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+89 f pt admitted for [**Hospital **] rehab  for ? sepsis and pna, 
+neuro: aox3, very pleasant
+pain; denies
+cad hr 60's, nbp 120 -130's/50's no issues, pt has extensive cardiac hx.
+resp: ls corase bases with crakles in upper lobes, pt has productive cough, received neb tx and cough syrup . secretions thick brown tinged ( old blood). sats 94-97% on 3l nc. late night pt has small epsiode of resp ditress / if pt had fallen asleep and secretions had accumalated and was not able to clear easily on her own. pt was placed on humidified fm which helped pt clear secretions more easily
+
+gi: abd soft distended, bs+ 
+
+gu: uo 25cc/hr pt is 1500 + for los. bun/creat 1.6/60 which is within admitted baseline.
+
+id: wbc 12.3 afebrile, am random vanco level 17.5
+
+plan: transfer to floor for cont of care. increase acitivty as tolerated.
+
+
+",,
+5158,8768,6405,0,3216-06-20 15:49:00 EST,3216-06-20 15:57:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt is alert, oriented to name and place, knows that it is 2006, not sure of the month.  OOB to the chair with minimal assist.
+
+CV:  BP 130s/40s, HR 60s afib and V paced, she was started on lopressor today 12.5 BID which she has tolerated well so far.  She had a TEE done today looking for vegitation on her valves.  She remains on coumadin, an INR will be sent tomorrow.
+
+Resp:  LS coarse/rales in the bases, she has an effusion on the R, the team has decided not to tap it.  She has a productive cough, she is bringing up dark tan/red sputum.  She conts on 3 L NC with SATs in the mid 90s.
+
+GI:  Fair appitite, able to feed herself.
+
+GU:  U/O 30-50cc/hr, yellow with sedement, urine spec from [**6-18**] had >100,000 gram neg rods.  She conts on vanco and gent.
+
+ID:  She has been afebrile, WBC 12.3, she conts on vanco and gent, a gent level was sent today at 3 pm.  Sevalance blood clx were sent.
+
+Soc:  Her son and daughter were in, they brought her dentures
+
+Dispo:  To be called out to the floor.
+",,
+5158,8768,,,3216-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-22**] 9:22 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8653**]
+     Reason: eval R pleural eff/PNA                                      
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with pneumococcal PNA and sepsis, still requiring O2, please 
+      eval R effusion.
+     REASON FOR THIS EXAMINATION:
+      eval R pleural eff/PNA                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumococcal pneumonia and sepsis with oxygen requirement.
+     
+     COMPARISON:  [**3216-6-19**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  Left PICC tip terminates in the SVC.
+     Right-sided pacemaker device with lead terminating in the right ventricle is
+     unchanged.  Patient is status post median sternotomy and mechanical aortic and
+     mitral valve replacement.  Cardiac and mediastinal contours are stable.  There
+     is worsening consolidation within the right lower lobe and increasing small
+     right pleural effusion.  Worsening air space opacity is also seen within the
+     left lower lobe.  There is no pneumothorax.
+     
+     IMPRESSION:
+     1.  Worsening right lower lobe pneumonia and increasing small right pleural
+     effusion.
+     2.  Increasing patchy opacity within the left lower lobe could represent
+     atelectasis or infection.
+                                                                           DFDdp
+
+",,
+5158,8768,,,3216-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-23**] 2:36 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8654**]
+     Reason: please evaluate for hemoptysis, progression of PNA, size of 
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     Field of view: 30
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with h/o bronchiectasis, on coumadin for MVR/AVR, here with 
+      pneumococcal PNA/sepsis, now having small vol hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for hemoptysis, progression of PNA, size of pleural eff         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITHOUT CONTRAST DATED [**3216-6-23**]
+     
+     INDICATION:  Pneumococcal pneumonia and sepsis.  Small volume hemoptysis.
+     
+     Multidetector CT of the chest was performed without intravenous or oral
+     contrast administration.  Images are presented for display in the axial plane
+     at 5 mm and 1.25 mm collimation.
+     
+     COMPARISON:  CT torso of [**3214-9-25**] and multiple comparison chest
+     radiographs dating between [**3215-4-24**] and [**3216-6-22**].
+     
+     The examination is somewhat limited due to expiratory phase of respiration and
+     motion artifact.
+     
+     There are areas of consolidation involving the right middle and right lower
+     lobes, consistent with pneumonia.  Additionally, there are asymmetrically
+     distributed areas of septal thickening, most pronounced in the right upper
+     lobe and left lower lobe as well as scattered multifocal areas of ground-glass
+     attenuation.  These findings may be due to a combination of hydrostatic edema
+     and additional sites of infection.  There is also a suggestion of chronic
+     scarring in the left lower lobe corresponding to an area that was previously
+     attributed to an acute bronchopneumonia.  No centrally obstructing
+     endobronchial lesions are identified.  There is apparent plugging of the
+     distal right lower lobe bronchi within areas of consolidation.  There is
+     extensive thickening of the bronchovascular bundles in the left lower lobe.  A
+     few scattered calcified granulomas are seen in both lungs.
+     
+     There is asymmetrical enlargement of the right lobe of the thyroid gland,
+     which appears heterogeneous with calcifications and areas of low attenuation,
+     grossly unchanged allowing for artifact in this area on the prior CT.  There
+     are numerous bilateral mediastinal lymph nodes, some of which are calcified
+     and are unchanged.  Several noncalcified nodes have slightly increased in size
+     in the interval and are presumably hyperplastic in the setting of acute
+     pneumonia.  The main pulmonary artery remains enlarged measuring over 3.7 cm
+     in diameter.  The heart is enlarged but stable.  Focal calcifications are seen
+     along the right pericardial surface, and there is also calcification present
+     within the left atrium without change.  There is a new moderate-sized
+     partially loculated right pleural effusion as well as a new small dependent
+     left pleural effusion.
+                                                                 (Over)
+
+     DATE: [**3216-6-23**] 2:36 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8654**]
+     Reason: please evaluate for hemoptysis, progression of PNA, size of 
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     Field of view: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     In the imaged portion of the upper abdomen, a small hyperdense lesion in the
+     mid pole portion of the left kidney as well as several incompletely imaged
+     cysts are without change from the prior CT.  There is also a small hyperdense
+     lesion in the right kidney mid pole portion anteriorly which cannot be
+     accurately compared to the previous study due to presence of contrast at that
+     time.  Diffuse calcifications are seen in the abdominal aorta, renal arteries
+     and other branches.  There has been prior median sternotomy.  Degenerative
+     changes are present within the spine.  There has been prior aortic and mitral
+     valve replacement.
+     
+     IMPRESSION:
+     1.  Multilobar pneumonia, predominantly involving the right middle and right
+     lower lobes with minimal involvement in the left lower lobe.
+     2.  Septal thickening and scattered ground-glass opacities, likely due to
+     superimposed hydrostatic pulmonary edema, although hemorrhage is also
+     possible in the setting of hemoptysis.
+     3.  Moderate right and small left pleural effusions.
+     4.  As the patient has had multiple recurrent pneumonias in the left lower
+     lobe, it would be helpful to peform CT when the patient is not experiencing an
+     acute infection in order to evaluate for areas of underlying bronchiectasis.
+     5.  Pulmonary arterial hypertension.
+     6.  Evidence of previous granulomatous exposure.
+     7.  Enlarged heterogeneous right thyroid gland enlargement, previously
+     reported as multinodular goiter on thyroid ultrasound of [**3209-9-8**].
+     
+     FINAL IMPRESSION:  Although the areas of consolidation are likely infectious
+     and the septal thickening and ground glass is likely due to edema, a component
+     of pulmonary hemorrhage is also possible given the history of hemoptysis.
+
+",,
+5158,8768,,,3216-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-6-26**] 1:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8655**]
+     Reason: please eval PNA, effusions, r/o superimposed CHF            
+     Admitting Diagnosis: PNEUMONIA/URINARY TRACT INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman with pneumococcal PNA and sepsis, still requiring O2, please 
+       eval PNA, effusions, r/o CHF.
+     REASON FOR THIS EXAMINATION:
+      please eval PNA, effusions, r/o superimposed CHF                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS ON [**6-26**]
+     
+     HISTORY:  Sepsis.
+     
+     REFERENCE EXAM:  [**6-22**].  There has been no significant interval change in the
+     left PICC line or single lead pacemaker.  The patient is status post
+     sternotomy with aortic and mitral valve replacement.  Cardiac and mediastinal
+     contours are unchanged.  There has been interval decrease in the right pleural
+     effusion.  However, there continues to be increased opacity in the right lower
+     lung and it is unclear if this represents some of the effusion layering
+     posteriorly or an infiltrate.  There is volume loss in the left lower lobe and
+     an underlying infectious infiltrate cannot be excluded.  There is biapical
+     thickening; this is also unchanged.
+     
+     IMPRESSION:  Decreased right effusion and infiltrate in either lower lobe
+     cannot be excluded.
+                                                                           
+
+",,
+5158,,,,3216-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3216-8-2**] 12:11 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8656**]
+     Reason: high resolution r/o bronchiatis  f/u pulmonary nodule
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with h/o bronchiectasis, on coumadin for MVR/AVR, here with 
+      pneumococcal PNA/sepsis, now having small vol hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      high resolution r/o bronchiatis  f/u pulmonary nodule
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST
+     
+     HISTORY:  Hemoptysis and followup pulmonary nodules.
+     
+     Comparison is made with prior study dated [**3216-6-23**] and [**3214-9-23**].
+     
+     TECHNIQUE:  High-resolution CT images through the chest were acquired in end-
+     inspiration and end-expiration.  2.5 mm collimation images, sagittal and
+     coronal reformations were reviewed.
+     
+     FINDINGS:  Retained secretions are found in the trachea.  Soft tissue
+     bronchial material within the bronchus intermedius and right middle lobe
+     bronchus is uniform, being the latter new. In the setting of hemoptisis is
+     most likely fluid/blood, we doubt be soft tissue lesion; bronchoscopy is
+     advised . A peripheral area of ground- glass opacity in the right upper lobe
+     (3:83) and small focal consolidation deep in the lower right lobe (3:45) are
+     due to residual edema or hemorrhage or atelectasis, otherwise the lungs are
+     grossly clear.
+     
+     Multiple nonenlarged calcified and noncalcified lymph nodes in the
+     prevascular, pretracheal regions are stable.  Right pleural effusion is small.
+     There is no left pleural effusion or pericardial effusion.  Mild cardiomegaly
+     is stable. Patient is post MVR, AVR.  There are coarse calcifications adjacent
+     to the right pulmonary veins along the pericardial surface, and there is also
+     calcification present within the left atrium without change.  The LAD, left
+     circumflex and right coronary artery are mildly calcified.
+     
+     The main pulmonary artery is enlarged, stable at 27 to 30 mm AP diameter,
+     indicative of pulmonary hypertension.
+     
+     Asymmetrical enlargement of the right lobe of the thyroid gland, which is
+     heterogeneous and has multiple calcifications within it is unchanged. Several
+     unchanged hypodense cortical lesions in the kidneys are incompletely imaged. A
+     focal cortical calcification is in the interpolar region of the left kidney
+     (2:5).
+     
+     There are no bone findings of malignancy.
+     
+     IMPRESSION:
+     Endobronchial soft tissue material could be blood, we doubt be tumor,
+                                                                 (Over)
+
+     DATE: [**3216-8-2**] 12:11 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8656**]
+     Reason: high resolution r/o bronchiatis  f/u pulmonary nodule
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bronchoscopy is advised
+     
+     Bleeding source was not identified
+     
+     Minimal residual areas of atelectasis, or hemorrhage or edema.
+     
+     Pulmonary arterial hypertension.
+     
+     Stable enlarged thyroid gland.
+
+",,

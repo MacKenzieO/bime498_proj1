@@ -1,0 +1,499 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5004,,,,3421-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-6**] 3:26 PM
+     RIB UNILAT, W/ AP CHEST RIGHT; HEB REB PRO FEE ONLY             Clip # [**Clip Number (Radiology) 7496**]
+     Reason: SOB RT CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital3 7497**] PATIENT - ROOM 337 WEST/#H31668.
+     
+     INDICATION:  86-year-old female short of breath with right chest pain. Rule
+     out rib fracture or pneumothorax.
+     
+     COMPARISON FILM:  [**3421-4-13**].
+     
+     A single AP view of the chest, as well as right rib films were obtained.
+     Diffuse interstitial opacities are present, unchanged relative to the prior
+     study and most likely representing chronic interstitial lung disease.  A right
+     hilar mass-like density is again present and appears slightly larger than the
+     previous study.  If there is clinical concern for malignancy, dedicated PA and
+     lateral views of the chest would be helpful in further evaluation.  Calcified
+     costochondral cartilages are present, but I see no discrete rib fracture.
+     
+     IMPRESSION:  Findings most likely related to chronic interstitial lung
+     disease.  Right hilar mass-like density, as described.  No acute rib fractures
+     identified. 
+
+",,
+5004,,,,3421-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-6**] 3:26 PM
+     RIB UNILAT, W/ AP CHEST RIGHT; HEB REB PRO FEE ONLY             Clip # [**Clip Number (Radiology) 7496**]
+     Reason: SOB RT CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital3 7497**] PATIENT - ROOM 337 WEST/#H31668.
+     
+     INDICATION:  86-year-old female short of breath with right chest pain. Rule
+     out rib fracture or pneumothorax.
+     
+     COMPARISON FILM:  [**3421-4-13**].
+     
+     A single AP view of the chest, as well as right rib films were obtained.
+     Diffuse interstitial opacities are present, unchanged relative to the prior
+     study and most likely representing chronic interstitial lung disease.  A right
+     hilar mass-like density is again present and appears slightly larger than the
+     previous study.  If there is clinical concern for malignancy, dedicated PA and
+     lateral views of the chest would be helpful in further evaluation.  Calcified
+     costochondral cartilages are present, but I see no discrete rib fracture.
+     
+     IMPRESSION:  Findings most likely related to chronic interstitial lung
+     disease.  Right hilar mass-like density, as described.  No acute rib fractures
+     identified. 
+
+",,
+5004,,,,3421-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-8**] 2:35 PM
+     SHOULDER [**1-16**] VIEWS NON TRAUMA RIGHT; HEB REB PRO FEE ONLY       Clip # [**Clip Number (Radiology) 7498**]
+     Reason: PAIN, LIMITED MOTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT # [**Telephone/Fax (1) 7499**]
+     PATIENT ON 337 WEST
+     
+     RIGHT SHOULDER
+     
+     HISTORY: Pain.
+     There are degenerative changes in the AC joint.  There are no apparent
+     fractures.
+     
+     IMPRESSION: Degenerative changes.
+
+",,
+5004,,,,3421-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-8**] 2:35 PM
+     SHOULDER [**1-16**] VIEWS NON TRAUMA RIGHT; HEB REB PRO FEE ONLY       Clip # [**Clip Number (Radiology) 7498**]
+     Reason: PAIN, LIMITED MOTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT # [**Telephone/Fax (1) 7499**]
+     PATIENT ON 337 WEST
+     
+     RIGHT SHOULDER
+     
+     HISTORY: Pain.
+     There are degenerative changes in the AC joint.  There are no apparent
+     fractures.
+     
+     IMPRESSION: Degenerative changes.
+
+",,
+5004,7836,,,3421-06-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3421-6-10**]              Discharge Date:   [**3421-6-14**]
+ 
+Date of Birth:  [**3334-12-3**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3274**] 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+86 yo WF with CHF, IPF, CAD, COPD who presents with increasing 
+dyspnea and dropping O2 sats. Pt. lives at [**Hospital 67**] Rehab which 
+reports that pt has been increasingly short of breath. She also 
+has a nonproductive cough that has been gradually worsening. 
+Denies CP, N/V, F/C. Pt has indwelling catheter but denies 
+pelvic pain. Her daughter states she has only one kidney. She 
+reports no MS changes. Pt had chinese food for dinner last night 
+and has not been watching salt intake. CXR terrible with fluffy 
+infiltrates. U/A shows UTI. O2 sats were 99% on 4L in ED. After 
+being transferred to floor pt began to become tachycardic with 
+HR=150's. O2 sats began to drop and pt required face mask to 
+keep sats up. ABG was 7.27/48/167/23.   
+
+ 
+Past Medical History:
+CHF (EF 55% 12/03)  
+CAD  
+IPF  
+COPD  
+CRI  
+Freq UTI  
+urinary incontinence  
+hypercholesterolemia  
+depression  
+
+ 
+Social History:
+Widowed for 30 years. 4 children. Smoked for many years but quit 
+""a long time ago""
+ 
+Family History:
+CVA's
+ 
+Physical Exam:
+In ED:
+T: 97.9 HR 73 BP 106/53 RR: 28 O2 sat: 93%4L
+Gen: breathing heavily but in NAD
+HEENT: PERRL
+Neck: no masses, no bruits, could not appreciate JVP.
+CV: difficult to auscultate, regular rate, ?S3/S4
+Abd: obese, S/NT/
+Lungs: rales, crackles, dec BS mid-bases bilaterally
+Ext: 1+ B LE edema
+Neuro: A&Ox3. Strength 5/5 throughout.
+ 
+Pertinent Results:
+[**3421-6-10**] 03:42PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) **]-1.018
+[**3421-6-10**] 03:42PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-500 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-MOD
+[**3421-6-10**] 03:42PM URINE  RBC-0-2 WBC-[**2-16**] BACTERIA-MANY YEAST-NONE 
+EPI-0-2 TRANS EPI-0-2
+[**3421-6-10**] 03:42PM URINE  HYALINE-[**2-16**]*
+[**3421-6-10**] 03:22PM   GLUCOSE-228* UREA N-60* CREAT-2.6* SODIUM-139 
+POTASSIUM-5.5* CHLORIDE-105 TOTAL CO2-21* ANION GAP-19
+[**3421-6-10**] 03:22PM   CK(CPK)-55
+[**3421-6-10**] 03:22PM   CK-MB-NotDone cTropnT-0.05*
+[**3421-6-10**] 03:22PM   WBC-19.2* RBC-4.25 HGB-10.6* HCT-37.1 MCV-87 
+MCH-24.9* MCHC-28.5* RDW-17.4*
+[**3421-6-10**] 03:22PM   NEUTS-87* BANDS-6* LYMPHS-4* MONOS-1* EOS-0 
+BASOS-0 ATYPS-1* METAS-0 MYELOS-1*
+[**3421-6-10**] 03:22PM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-1+ 
+MACROCYT-1+ MICROCYT-1+ POLYCHROM-NORMAL SPHEROCYT-1+ 
+OVALOCYT-1+
+[**3421-6-10**] 03:22PM   PLT COUNT-342
+[**3421-6-10**] 03:22PM   PT-12.6 PTT-27.3 INR(PT)-1.0
+
+ 
+Brief Hospital Course:
+The patient was admitted [**3421-6-10**] with increasing dyspnea and 
+decreased oxygen saturation with a worsening nonproductive 
+cough. The respiratory symptoms were thought be secondary to CHF 
+and COPD exacerbations with possible pneumonia. She was started 
+on ceftrixone & vancomycin for consideration of nosocomia 
+pneumonia and given supplemental oxygen.
+On HD2 she became increasingly dyspneic and tachycardic. She was 
+given Lasix and her steroid dose was increased to 40mg. Her 
+rapid afib was controlled with parenteral diltiazem, and then 
+with digoxin.
+On HD3 a family meeting was held to discuss the prognosis and 
+goals of care. It was decided to provide comfort measures and 
+keep them informed of her progression. Over the course of HD 4 
+the patient had increased work of breathing and falling urine 
+output. Housestaff was called to the bedside on 7/0/04 when the 
+patient was noted to be apneic and pulseless. She was pronounced 
+dead and the family was notified.
+ 
+Medications on Admission:
+Cardizem 180 qd
+Lasix 20 qd
+MVI
+Prednisone 10 qd
+Advair bid
+Zocor 20 qd
+Glyburide 2.5
+Atrovent nebs q8
+Ativan prn
+Humibid DM
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+hypoxic respiratory failure
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+deceased
+ 
+Followup Instructions:
+deceased
+ 
+                             [**Doctor First Name 1956**] [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 3276**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 5609**] MD [**MD Number 5610**] [**3422-12-3**] @ 1304
+Signed electronically by: DR. [**First Name8 (NamePattern2) 1956**] [**Name (STitle) **]
+ on: SUN [**3423-11-30**] 6:32 PM
+(End of Report)
+
+
+",,
+5004,7836,,,3421-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-10**] 4:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7500**]
+     Reason: r/o chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with chf, copd, cad p/w desat and rales bilat.  
+     REASON FOR THIS EXAMINATION:
+      r/o chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   CHF, COPD, Desaturation and rales.
+     
+     PORTABLE AP CHEST:  There are no images for comparison, but comparison was
+     made to the report from [**3421-1-5**].  This current study is limited due to
+     respiratory motion and low lung volumes. Note specifically that cardiac and
+     mediastinal/hilar contours are not well evaluated. No definite pleural
+     effusions. Diffuse demineralization. Diffuse increase in interstitial
+     markings, of unknown chronicity. As mentioned previously, a dedicated PA and
+     lateral view would be helpful for further evaluation.
+     
+     IMPRESSION: Significantly limited study. The reported right hilar mass
+     described previously is not well evaluated on today's study.
+     
+     Diffuse increase in interstial markings, of unknown chronicity.  A repeat PA
+     and lateral view without respiratory motion are recommended for better
+     evaluation. 
+
+",,
+5004,7836,,,3421-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3421-6-11**] 1:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7501**]
+     Reason: eval worsened CHF, infiltrates.                             
+     Admitting Diagnosis: CHF EXACERBATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old woman with chf, copd, cad p/w desat and rales bilat.               
+     REASON FOR THIS EXAMINATION:
+      eval worsened CHF, infiltrates.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     COMPARISON: [**3421-6-10**].
+     
+     CHEST AP:  Again noted are bilateral basilar interstitial and pulmonary
+     infiltrates.  There is upper zone redistribution of the pulmonary vasculature.
+      In the interval there is improvement of the upper zone interstitial markings,
+     and the interstitial markings at the bases appear slightly more prominent.
+     There is no change in the infrahilar mass on the right side.  A large hiatal
+     hernia is also noted.
+     
+     IMPRESSION:  Redistribution of pulmonary edema.  An infectious process in this
+     region cannot be ruled out.
+     
+     Allowing for technical differencess, the right infrahilar mass is unchanged in
+     appearance.
+
+",,
+5004,7836,6207,0,3421-06-11 05:04:00 EST,3421-06-11 05:26:00 EST,2387,"N",69,"Nursing/Other",,"
+
+MICU NPN ADMIT NOTE
+
+PT TRANSFERRED FROM [**Hospital Ward Name 53**] 7 FOR CHF EXACERBATION.  PT WAS ADMITTED EARLIER TODAY.  PER [**Hospital Ward Name 53**] 7 REPORT, PT'S HR INCREASED FROM 70'S-150'S, AFLUTTER/AFIB.  O2 SATS CONTINUED TO DROP REQUIRING NON REBREATHER.  PT DENIED SOB OR CP AT THAT TIME. PT TRANSFERRED TO MICU FOR FURTHER MANAGEMENT.
+
+PMH: INTERSTITIAL LUNG DISEASE,  PAF/FLUTTER BUT NOT ANTICOAGULATED, CHF C EF 55%, CRI (BASELINE CR 2.5), COPD, FREQUENT UTI, URINARY INCONTINENCE, HYPERCHOL, DEPRESSION, HH, CAD
+
+NKDA
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA.
+
+NEURO:  AA&OX3. PT FOLLOWING COMMANDS CONSISTANTLY.  DENIES PAIN.
+
+RESP:  LS CRACKLES @ BASES OTHERWISE RHONCHORUS.  PT ON NON REBREATHER WITH SATS 95%.  PT DOES DESAT WHEN SHE TAKES OFF THE MASK.  CXR SHOWS INFILTRATES. PT TO BE COVERED FOR PNA. 
+
+CV: INITIALLY HR AFLUTTER IN 130'S BUT WITH INCREASE TO 150'S HR APPEARS TO BE ST. NO INTERVENTIONS FOR ^HR SINCE ARRIVAL TO MICU AS PT IS ASYMPTOMATIC. PT STARTED ON HEPARIN GTT @ 1200U/HR.  PTT TO BE CHECKED 10:30AM.  EKG/ECHO IN AM.  REFUSING CARDIOVERSION
+
+GI: ABD. OBESE. BS PRESENT. PT HAS HIATAL HERNIA.  SMALL STOOL X1.  GUIAC NEGATIVE.  PT ON DIABETIC DIET.  1500CC FLUID RESTRICTION/DAY
+
+GU:  PT GIVEN LASIX ON FLOOR.  U/O OK SINCE ARRIVAL TO MICU. H/O CRI
+
+ENDO: GLYBURIDE BID AND RISS
+
+DISPO:  DNR/DNI.  REMAIN IN MICU 
+",,
+5004,7836,6207,0,3421-06-11 12:19:00 EST,3421-06-11 12:38:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+RESP--VERY TENIOUS. RR 28-36. LUNGS WITH RHONCHI BILATERALLY AND CRACKLES IN BASES. NTS X3 FOR COPIOUS AMTS OF TENACIOUS THICK TAN SPUTUM. SPECIMEN SENT. WEARING O2 VIA NRB. OCCASIONALLY PULLS MASK OFF AND DESATS TO 80'S. SAO2 90-96%. PT IS WITH LABORED BREATHING BUT DENIES FEELING SOB. CXR DONE.
+
+CARDIAC--REMAINS ON  HEPARIN GTT AT 1200U HR.  HR A-FLUTTER TO 160'S. SBP DECREASED TO 80/30. PT RECEIVED 250 CC NS WITH A SLIGHT INCREASE IN SBP. AT ONSET OF SHIFT PT RECEIVED 5MG IV DILTIZEM X2 WITHOUT ANY CHANGE IN HR. RECEIVED .375  MG PO DIGOXIN. HR REMAINS >120.
+
+GI--ATTEMPTED TO EAT BREAKFAST BUT VERY  OBVIOUS THAT PT ASPIRATES WITH FOOD AT THIS TIME. SAO2 DECREASED TO 88 FOR A FEW MINUTES WITH COUGHING. PT DOES NOT TOLERATE LIQUIDS AT THIS TIME. -STOOL. VERY LGR HEMORRHOID.
+
+GU--FOLEY CATH PATENT DRAINING >20 CC HR. RECEIVED 20 MG IV LASIX  WITHOUT DIURESIS.
+
+ENDO--BS 156. PT RECEIVED ORAL ANTIDIABETIC [**Doctor Last Name 414**] AT 1130 AND WAS NOT COVERED WITH SQ INSULIN FOR THIS NUMBER.
+
+SKIN--THIN FRAGILE SKIN. BRUISES EASILY. BUTTOCKS WITHOUT BREAKDOWN. OBESE AND NEEDS ALOT OF ASSISTANCE MOVING.
+
+PAIN--DENIES PAIN, SOB.
+
+ID--RECEIVED VANCO AND IS ON CEFTRIAXONE(SHE RECEIVED THIS). VANCO LEVEL TO BE DRAWN TOMORROW AM (24 HRS AFTER [**6-11**]  DOSE). AFEBRILE.
+
+COPING--DAUGHTER , [**Name (NI) **] IN TO VISIT. SHE HAS LEFT HER PHONE NUMBERS ON WHITE BOARD IN PT'S ROOM. PT STATES THAT SHE WANT TO GO HOME.
+
+NEURO--ALERT AND ORIENTED X2. SHE GETS CONFUSED ON WHERE SHE IS, THE YEAR BUT KNOWS PRESIDENT, RED SOX, CAN COUNT. ABLE TO HAVE CONVERSATION. FOLLOWS COMMANDS CONSISTENTLY. 
+
+A--NOT RATE CONTROLLED YET. INFECTED APPEARING SPUTUM. SLIGHTLY CONFUSED BUT REDIRECTS AND REORIENTS EASILY.
+
+P--CON'T TO MONITOR.  PULM TOILET AND NTS PRN. CON'T ABX . REDIRECT AND REORIENT AS NEEDED. PROVIDE SAFETY.
+",,
+5004,7836,6207,0,3421-06-11 16:49:00 EST,3421-06-11 17:06:00 EST,5283,"N",69,"Nursing/Other","MICU Nursing Progress Note 1500-1900","
+MICU Nursing Progress Note 1500-1900
+Currently sleeping.  A&O x2 when awake.
+
+NRB continues and sats 95-97, when takes off sats down to 80's, rr low 20's when sleeping, up to 30's when awake. 
+
+Continues in Aflutter with rate of 100-150's. Refusing cardioversion.  BP 80's-100's/50's-70's. PO dig at 1800 and then next dose due at 0000 ([**6-12**]).
+
+Aspirates when eating, esp on thin liquids, NPO for now except meds.
+
+Heparin gtt at 1300 next PTT due at 2000.
+
+Vancomycin level due tomorrow am ([**6-12**]) at 0800.  This level is 24 hours after dose at 0800 today ([**6-11**]).
+",,
+5004,7836,6207,0,3421-06-12 05:18:00 EST,3421-06-12 05:40:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress note 7p-7a COPD, pneumonia
+Condition Stable, DNR, DNI
+
+Neuro:  Was lethargic most of the shift but arousable. Orientated to person only.  Still thinks that she is in her nursing home. 
+
+CV:  Remains in A flutter, rates 95-145. Received her loading doses of Digoxin with decrease in hr to 80's.  BP remained above 100 systolic throughout shift.  Heparin continues at 1300 unit/hour with 2 therapeutic ptt's
+
+Resp:  Lung sounds are coarse crackles.  has ++ upperairway congestion that she is unable to clear.  Denies pain, remains on NRB 15L with sp02 95-100.  Takes mask off frequently and desaturates to mid 80's
+
+GU:  Remains NPO secondary to aspiration yesterday. BS present.  took po Digoxin with pudding. Has [**Last Name (un) 8124**] hypoglycemic overnight requiring Dextrose 50% and eventually started on infusion of D51/2ns at 50 ml/hr
+
+GI:  Urine output on average 30ml/hr.  Team does not want to overdiurese her since they feel she is dry. Is in small + balance since midnight.
+
+Skin:  Coccyx is reddened. Skin care given. Bruises easily with heparin ongoing.
+
+  Family very supportive
+
+Plan:  Antibiotics
+       Fluids.
+       Oxygen
+
+Written by [**Name6 (MD) 715**] [**Name8 (MD) 514**], RN
+",,
+5004,7836,6207,0,3421-06-12 15:52:00 EST,3421-06-12 16:01:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG NOTE","
+MICU A NSG NOTE
+RESP--PT CONTS ON NRB AT 15L/MIN.  RR 15-40 AND LABORED.  SX'D X2 FOR COPIOUS AMOUNTS THICK YELLOW SECRETIONS.  
+NEURO--PT LETHARGIC AND MOANING, AT TIMES SPEAKING IN UNINTELLIGABLE SPEECH.  PT YELLING AND MAKING STATMENTS THAT SHE ""WANTS TO DIE"".  ABLE TO MAE AND RESISTS CARE. PT APPEARS IN SIGNIFICANT DISTRESS, BUT ANSWERS ""NO"" WHEN ASKED IF SHE IS IN PAIN OR SOB.  MED WITH MORPHINE 2MG IV X1 WITH GOOD EFFECT.
+CV--REMAINS IN AFIB 80-130'S WITH RARE PVC'S.  BP 85-130'S/.  TRACE EDEMA IN EXTREMITES NOTED.  CONTS ON HEPARIN GTT 10AM PTT 124.4, GTT HELD X1HOURS AND RESTARTED AT 1000U/HR, NEXT PTT DUE AT 6PM.  IV ACCESS POOR, MIDLINE PLACED BY IV TEAM IN LEFT ANTECUB.  
+GI--REMAINS NPO, ALL PO MEDS ON HOLD DUE TO ASPIRATION RISK.  ABD SOFT OBESE, SM FORMED BROWN OB NEG BM THIS SHIFT.  FREQ FS DONE, 12PM BS 49, PT RECEIVED 1 AMP D50 IV.  
+GU--U/O 15-60CC/HR, REMAINS ON IVF D51/2 AT 50CC/HR.
+SOCIAL--FAMILY MEETING HELD WITH 3 OF PT'S CHILDREN.  PT DISCUSSING GOALS OF CARE, AND WHETHER OR NOT THESE SHOULD BE COMFORT ORIENTED VS MORE AGRESSIVE.  PT REMAINS DNR/DNI.
+",,
+5004,7836,6207,0,3421-06-13 04:27:00 EST,3421-06-13 04:51:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress  Note for 7a-7p
+Condition: Fair
+Dx: Pneumonia, COPD flareup
+
+Neuro: Patient lethargic, arousable to voice only, will not answer       questions or follow commands. Has detoriated since previous shift.
+
+CV: Remains in Afib rate uncontrolled, is currently getting small dose of iv digoxin qday but does not make a difference in HR.  BP had been stable overnight. IV heparin at 1000units/hr.
+
+Resp'; Changed to 100% humidity mask to moisten secretions.Attempted to suction but could not advance catheter despite several trys. Maintained saturations of 98% overnight. Lungs congested.
+
+GI:  Remains NPO, not taking any meds po. has refused NG tube before she had detoriated. No BM
+
+GU:  Urine  output has diminished overnight.   Received  2 boluses of NS with minimal improvement.
+
+Skin: Intact but has numerous hematomas from iv attempts yesterday. Has PICC line in left ACF, Has prolapsed rectum or large hemorriod.
+
+Received Morphine at bedtime for pain. Family meeting did not yield any direction with any decision to withdraw care/comfort measures right now. 
+
+[**Name6 (MD) 715**] [**Name8 (MD) 514**], RN 
+",,
+5004,7836,6207,0,3421-06-13 15:24:00 EST,3421-06-13 15:34:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+
+NURSING NOTE 0700-1600HRS
+
+
+
+NUERO - REMAINS ONLY SLIGHTLY RESPOINSIVE TO PAINFUL STIMULI AS IN EYE OPENING NO SPONTANEOUS MOVEMENTS ARM/LEGS - PEARL - PRN MORPHINE REQUIRED TWICE AS APPEARED UNCOMFORTABLE - OTHERWISE LOOKING PRETTY COMFORTABLE
+
+
+RESP - LUNGS SOUND COURSE/CONGESTED SATS >95% ON 100% COOL NEB RR AT 15-20 SUCTIONED VIA NT X1 FOR THICK/TAN SECRETIONS
+
+CVS - B/P STABLE 100-120 SYSTOLIC HR 100-120 DID BRADY DOWN TO 40""S WHEN SUCTIONED - HEPARIN CONTINUES - BLOOD SUGARS CONTINUE Q1, NO DEXTROSE BOLUS REQUIRED THUS FAR - AFEBRILE AB'S CONTINUE
+
+
+GI - NO BOWEL MOTION , NO FEED COMMENECED
+
+G/U - MINUIMAL URINE OUTPUT X1 BOLUS WITH NO EFFECT
+
+SKIN - INTACT
+
+LINES - PICC PATENT
+
+SOCIAL - FAMILY MEETING WITH DAUGHTERS AND SON WITH TEAM - TO CONTINUE PRESENT CARE, PRIEST TO VISIT THIS PM AS REQUESTED BY FAMILY
+
+
+PLAN - IV AB'S DIG,STERIODS HEPARIN FLUIDS AND B/S CHECKS TO CONTINUE, NO FURTHER ADVANCE WITH CARE, NO FURTHER NT SUCTIONING, BOLUSES OF FLUIDS AND P/O MEDS D/C - SUPPORTIVE COMFORT CARE AT PRESENT
+",,
+5004,7836,6207,0,3421-06-13 16:23:00 EST,3421-06-13 16:24:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM - FAMILY HAVE REQUESTED THAT WHEN [**Known patient firstname 120**] DOES PAS THAT THE X2 RINGS THAT ARE ON HER FINGERS STAY INSITU - PRIEST [**Name (NI) 3889**] PM/FAMILY IN ATTENDANCE
+",,
+5004,7836,6207,0,3421-06-13 16:38:00 EST,3421-06-13 16:41:00 EST,2931,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt on 100% aerosol mask.  SpO2 is is 98%-99%.  Required albuterol and atrovent neb tx x 2.  Breath sounds are wheezy and rhonchial bilat. NT suction for large amt of thick yellow sputum.  Pt is no longer to be suction [**Doctor Last Name **] to CMO.
+",,
+5004,,6207,0,3421-06-14 04:53:00 EST,3421-06-14 04:59:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress Note, 7a-7p
+Pneumonia
+
+Patient unconcious and has no response to painfull stimuli over this shift. Had converted to Sinus rhythm at 2000 and HR has been dropping slowly overnight to now 40's at 0600.  Very congested and remains on 100% fi02 at request of family. Sp02 dropping as well overnight.  Received morphine q4h as ordered. Patient aneuric, mottled lower legs and hands. Son and son in law remained at bedside all night. Support and reassurance given
+
+[**Doctor First Name 715**] Foley
+",,
+5004,,6207,0,3421-06-14 08:11:00 EST,3421-06-14 08:17:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+09.15hrs 
+NURSING NOTE
+
+
+CONTINUED TO SLOWLY DECLINE, NON-RESPONSIVE TO STIMULI, BRADYING DOWN TO THE 30-40""S NON URINE OUTPUT, LABOURED BREATHING - MORPHINE 2MGS GIVEN IV @ 07.20HRS - SETTLED, APPEARED COMFORTABLE, SON AND SON-IN-LAW IN ATTENDANCE
+
+PASSED @ 08.45HRS WITH FAMILY IN ATTENDANCE, TEAM INFORMED WAIT CERTIFICATION, CHAPLAIN REQUESTED TO BLESS
+RIP
+
+",,
+5004,,6207,0,3421-06-14 08:49:00 EST,3421-06-14 08:52:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM - AT THE REQUEST OF THE FAMILY - X2 YELLOW RINGS REMAIN INSITU ON LEFT HAND SECOND FINGER AND TAPED IN PLACE - WITNESSED BY [**First Name8 (NamePattern2) 8125**] [**Location (un) **] [RN]
+",,

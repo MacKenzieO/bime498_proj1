@@ -1,0 +1,664 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5494,,,,3266-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-17**] 7:42 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 11598**]
+     Reason: abd pain, r/o obstruction or hernia....pleas do lateral supi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with  unk pmh
+     REASON FOR THIS EXAMINATION:
+      abd pain, r/o obstruction or hernia....pleas do lateral supine for question of
+      hernia if possible
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Abdominal pain.
+     
+     COMPARISON:  None.
+     
+     AP AND LEFT LATERAL DECUBITUS ABDOMEN:  Note that imaging is suboptimal as
+     left aspect of abdomen is cut-off the supine view.  There is no evidence of
+     free intraperitoneal air.  Two to three air-fluid levels are seen in the mid-
+     abdomen but there are no distended bowel loops.  Air and stool are identified
+     within the transverse colon and descending colon, as well as the rectum. There
+     are no abnormal calcifications.  Degenerative changes are noted in the lumbar
+     spine with levo-convex scoliosis.
+     
+     IMPRESSION:  Mildly abnormal ileal loops with air-fluid levels, but no
+     evidence of perforation or obstruction.
+
+",,
+5494,,,,3266-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-17**] 8:59 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 11599**]
+     Reason: cholecystitis, gallstones, biliary obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with N/V, RUQ pain and jaundice
+     REASON FOR THIS EXAMINATION:
+      cholecystitis, gallstones, biliary obstruction
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 11600**] [**Doctor First Name 70**] [**3266-6-17**] 9:21 PM
+      distended gallbladder with stones and sludge
+      no ductal dilatation
+      no GB wall edema/pericholecystic fluid
+      no [**Doctor Last Name 84**] sign
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT UPPER QUADRANT ULTRASOUND
+     
+     INDICATION:  Nausea, vomiting, right upper quadrant pain and jaundice.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  This exam is limited by patient's inability to cooperate with the
+     exam.  The gallbladder appears distended and contains severeal large shadowing
+     gallstones.  There is a moderate amount of sludge within the gallbladder as
+     well.  There is no gallbladder wall edema, pericholecystic fluid, or
+     sonographic [**Doctor Last Name **] sign.  The common duct measures 0.7 cm.  There is a 2.1 cm
+     right renal mid-pole cyst.
+     
+     IMPRESSION:  Exam limited by patient combativeness.  Cholelithiasis and sludge
+     without evidence of acute cholecystitis.
+
+",,
+5494,16003,,,3266-06-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3266-6-18**]       Discharge Date:  [**3266-6-23**]
+
+Date of Birth:   [**3180-11-8**]       Sex:  M
+
+Service:  Surgery, Purple Team
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 6586**] is an
+86-year-old gentleman who presented to the Emergency
+Department with complaints of nausea, vomiting, and right
+upper quadrant pain for two days.
+
+This history was obtained per his granddaughter and wife due
+to the patient's dementia and Alzheimer's disease.  He
+apparently had been complaining of constant pain and denied
+having any previous episodes.  There was no postprandial
+pain.  No fevers.  No chills.  No changes in bowel habits.
+He had been slightly constipated recently but denied any
+diarrhea.  He denied any history of ulcerative disease.  He
+was noted at this time to be slightly jaundiced.  There had
+been on recent weight loss.
+
+PAST MEDICAL HISTORY:
+1.  Alzheimer's disease.
+2.  Question or a prior arrhythmia.
+3.  Previous eye surgery.
+4.  Hypertension.
+
+MEDICATIONS ON ADMISSION: Verapamil, Aricept, digoxin,
+nitroglycerin patch, Prozac, and aspirin.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination
+on admission revealed the patient was afebrile with a
+temperature of 98.3 degrees Fahrenheit, heart rate was 74,
+blood pressure was 168/58, and oxygen saturation was 98% on
+room air.  In general, he was nonverbal but was alert and in
+no apparent distress.  He was noted to be jaundiced with
+scleral icterus.  His neck was supple with no
+lymphadenopathy, and no jugular venous distention.  His lungs
+were clear to auscultation bilaterally.  His heart
+examination revealed an irregularly irregular rhythm with
+normal first heart sounds and second heart sounds.  The
+abdomen was soft with right upper quadrant tenderness to both
+palpation and percussion.  There were no masses palpated.
+His extremities were warm and well perfused with no
+peripheral edema.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Pertinent
+laboratory studies on admission revealed his white blood cell
+count was found to 11.6 and hematocrit was 42.3.  His
+electrolytes revealed sodium was 142, potassium was 3.9,
+chloride was 101, bicarbonate was 26, blood urea nitrogen was
+26, and his creatinine was 1.  His liver function tests
+revealed abnormalities with his ALT being elevated at 417,
+and his AST being evaluated at 284.  His alkaline phosphatase
+was 326 with a total bilirubin of 6.3.  Amylase and lipase
+were within normal limits.
+
+PERTINENT RADIOLOGY/IMAGING:  A right upper quadrant
+ultrasound was performed which showed a distended gallbladder
+containing small stones and sludge.  There was no evidence of
+common bile ductal dilatation, or gallbladder wall edema, or
+pericholecystic fluid.  The patient did not have a
+sonographic [**Doctor Last Name **] sign.
+
+HOSPITAL COURSE BY ISSUE/SYSTEM:  Mr. [**Known patient lastname 6586**] was started
+on antibiotics (cefoxitin and Flagyl) in the Emergency
+Department, and an ERCP consultation was obtained.
+
+He was taken to the endoscopic retrograde
+cholangiopancreatography suite on the following morning and
+found to have an impacted stone seen at the major ampulla as
+well as a large periampullary diverticulum.   A large filling
+defect in the distal common bile duct was also noted as well
+as evidence of acute cholangitis.  A distal common bile duct
+stone extraction as well as biliary sphincterotomy were
+performed.  Please refer to the dictated Gastroenterology
+note for further details of the procedure.
+
+The patient tolerated the procedure well and was admitted to
+the Surgical Intensive Care Unit following his procedure.  At
+this time, he was stated on ampicillin, gentamicin, and
+Flagyl and immediately began to improve his clinical picture.
+His abdominal pain began to resolve, and he became afebrile
+and more alert.
+
+His liver function tests began to normalize with a drop in
+his total bilirubin to 3.2 by post procedure day two as well
+as drops in his transaminases and alkaline phosphatase.
+
+The patient was kept on his intravenous antibiotics with a
+change to Unasyn, and his home medications were slowly added
+back to his regimen.  On post procedure day three, he was
+stable and ready for discharge to the regular floor.
+
+He continued to improve and was transferred to the regular
+patient floor as soon as a bed became available.  On post
+procedure day four, his total bilirubin had further decreased
+to 1.5, and his transaminases were 107 and 43 (respectively),
+with an alkaline phosphatase of 147.  He continued to remain
+afebrile with no further abdominal tenderness.  At this time,
+he was restarted on a diet and his medications.  He continued
+to improve.
+
+On hospital day six, post procedure day five, it was felt
+that the patient was stable and ready for discharge.  Due to
+his advanced age, the severity of his infection at the time
+of admission, and his Alzheimer's disease it was felt that he
+would benefit for a short stay in a rehabilitation facility.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE STATUS:  Discharge status was to a [**Hospital 1058**]
+rehabilitation facility.
+
+DISCHARGE DIAGNOSES:
+1.  Ascending cholangitis.
+2.  Cholelithiasis.
+3.  Status post endoscopic retrograde
+cholangiopancreatography with extraction of common bile duct
+stone and biliary sphincterotomy.
+4.  Atrial fibrillation.
+5.  Alzheimer's disease.
+6.  Inguinal hernia.
+7.  Status post eye surgery.
+
+MEDICATIONS ON DISCHARGE:
+1.  Aricept 10 mg p.o. once per day.
+2.  Verapamil 40 mg p.o. twice per day.
+3.  Protonix 40 mg p.o. once per day.
+4.  Nystatin swish-and-swallow.
+5.  Prozac.
+6.  Digoxin 0.125 mg p.o. once per day.
+7.  Ativan 0.5 mg p.o. q.6h. as needed.
+8.  Lopressor.
+9.  Subcutaneous heparin.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  Mr. [**Known patient lastname 6586**] was to follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in
+approximately 10 to 14 days.
+2.  Mr. [**Known patient lastname 6586**] was also to follow up with his primary
+care physician.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 998**], M.D.  [**MD Number 999**]
+
+Dictated By:[**Name8 (MD) 6165**]
+MEDQUIST36
+
+D:  [**3266-6-23**]  12:13
+T:  [**3266-6-23**]  12:31
+JOB#:  [**Job Number 6587**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**3266-6-28**] 10:17 AM
+(End of Report)
+
+
+",,
+5494,16003,,,3266-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-18**] 11:21 PM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 11602**]
+     Reason: R/O CBD stone
+     Admitting Diagnosis: CHOLELITHIASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with cholangitis.
+      Exam performed [**3266-6-18**], req sent [**3266-6-21**]
+     REASON FOR THIS EXAMINATION:
+      R/O CBD stone
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   Cholangitis.  Evaluate for CBD stone.
+     
+     Fluoroscopic assistance was provided without a radiologist present for ERCP.
+     Four spot images are obtained.
+     
+     Supplied images show a large filling defect in the base of the common bile
+     duct, adjacent to the ampulla.  The common bile duct is dilated.  The
+     gallbladder and cystic duct are not visualized.
+     
+     Please see ERCP report in CareWeb for full details and impression and
+     recommendations.
+
+",,
+5494,16003,,,3266-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-18**] 2:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11601**]
+     Reason: 85 yo man with new SOB, diaphoresis; please eval for CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with new RUQ pain
+     REASON FOR THIS EXAMINATION:
+      85 yo man with new SOB, diaphoresis; please eval for CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right upper quadrant pain and history of emphysema.  New shortness
+     of breath and diaphoresis.
+     
+     COMPARISON: None.
+     
+     FINDINGS:  This exam is limited by patient motion.  The heart is top normal in
+     size and the aorta is unfolded with a calcified knob.  Pulmonary vasculature
+     is indistinct.  There is no clear evidence of pulmonary edema.  There are no
+     pleural effusions.  There is no pneumothorax.
+     
+     IMPRESSION: Limited exam. Grossly, no acute process.
+
+",,
+5494,16003,6830,,3266-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-19**] 12:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11603**]
+     Reason: please eval for CHF                                         
+     Admitting Diagnosis: CHOLELITHIASIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with new RUQ pain                                              
+     REASON FOR THIS EXAMINATION:
+      please eval for CHF                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right upper quadrant pain.  CHF
+     
+     COMMENT: Portable AP view of the chest is reviewed compared with previous
+     study of yesterday.
+     
+     There is continued cardiomegaly and marked tortuousity of the thoracic aorta
+     with calcification.  There is tendency of hyperinflation of both lungs. No
+     evidence of congestive heart failure is identified. There is no evidence of
+     pneumothorax.
+     
+
+",,
+5494,16003,6830,0,3266-06-19 04:46:00 EST,3266-06-19 04:58:00 EST,2108,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+please see admission fhpa for details on admission..
+
+pt has had uneventful night. vss. only issue has been urine output... still following.
+neuro- pt alert/intact according to granddaughter [**Name (NI) 144**] evening. pt w/hx of ?dementia/alzheimers, attempting to get oob/ sit up, etc. 1:1 sitter at bedside. pt able to get to [**Doctor Last Name 5**] and slept well for most of night. medicated x2 w/meperidine for ruq pain, better than pain had been prev to procedure, again, according to g'daughter. 
+cv- vss. remains in a fib hr in 1teens onb arrival from pacu, after 1st lopressor dose, has been consistantly under 100. no ectopy noted. sbp 100-130's via nbp.
+resp- l/s clear/dim at bases. on 3 l o2, sats 99-100%. 
+gi/gu- remains npo s/p ercp. to ?begin cl liqs slowly this am. no bm. u/o very scare o/n, resident [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 145**] aware. one 500cc bolus given. pt has been ~30cc for past several hrs. amber colored, labs still pending.
+id- afebrile 96. po. covered on flagyl, ampicillin. received gent dose x1,and received keflex/levofloxacin in ew.
+remains hemodynamically stable post ercp. ?c/o to floor today.
+",,
+5494,16003,6830,0,3266-06-19 16:50:00 EST,3266-06-19 17:07:00 EST,1589,"N",69,"Nursing/Other","MICU Nursing Progress Note 7am-7pm","
+MICU Nursing Progress Note 7am-7pm
+See Carevue for Additional Objective Data
+#1:Cholangitis s/p ERCP
+D:Alert, confused and disoriented with periods of increased agitation. Family at bedside most of the day to support patient. He denies abd pain, Abd soft, non-tender +BS. 3 small brown BM. Remains NPO
+ Denies CP HR:92-120 AF with rare PVC BP:125-164/60's-70's. Receiving lopressor IV for rate control
+ Denies SOB RR:28-32/min on 3L NC with diffuse expiratory wheezes that developed mid morning. SpO2:98-99% CXR done
+ BUN:28/Cr:WNL. U/O:15-35cc/hr icteric/clear I/O's from midnoc:+ approx 2800cc
+  Afebrile Remains on Flagyl,Ampi
+
+A:2 250cc NS fluid boluses given to try and increase U/O
+  ECG/CXR done to R/O ischemia/CHF
+  Haldol started prn to control agitation
+  Atrovent nebs started 
+
+R:No response to fluid boluses, may have tipped him into some volume overload, although patient denies SOB and SpO2:WNL on minimal O2. ECG/CXR:unremarkable per HO, agitation much improved after total of 5 mg haldol, no appreciable change in wheezing after atrovent neb. Continue with supportive care, consider transfer to floor in am if he remains stable
+  
+",,
+5494,16003,6830,0,3266-06-19 17:22:00 EST,3266-06-19 17:26:00 EST,2235,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. W/ DIFFUSE EXPIRATORY WHEEZING
+R/T CHF AND POSSIBLY LOPRESSOR. RR 28 W/ SPO2 98 %
+ON 3 LPM NASAL O2. GIVEN 2.5 MG ALBUTEROL/0.5 MG 
+ATROVENT W/ SOME RELIEF. WILL FOLLOW Q6 FOR ATROVENT
+AND Q6 PRN FOR ALBUTEROL SVN.
+
+                         [**First Name11 (Name Pattern1) 146**] [**Last Name (NamePattern1) 147**], RRT
+",,
+5494,16003,6830,0,3266-06-20 05:00:00 EST,3266-06-20 05:23:00 EST,-1,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. is Russian speaking only, unable to assess orientation.  Per granddgtr. who was visiting @ start of shift- pt. thinks he is visiting- staying in a nice place but wants to leave.  PERRLA @ 3mm, MAE independently.  attempts to get OOB, pick @ IVs, foley.  Gave 2.5mg Haldol @ start of shift, repeated this dose X 1 d/t lack kokf response.  1:1 sitter pulled off unit @ 23:00- pt. fell aspleep by this time and slept until 4:00.  Gave another 2.5mg Haldol @ 4:00.  Qtc interval @ 22:00 last p.m. was o.68.  Required Posey restraint after waking @ 4:00, attempting to climb OOB.
+
+CV:  Afib 80's-130's, becomes increased w/ agitation.  SBP 120's-150's.  Gave 2 extra doses of 5mg IV Lopressor @ 20:00 and @ 22:00 for HR >120.  2+ edema to bilat. UE's, trace to LE's.  IVF LR @ 100cc/hr.  
+
+Resp:  Lungs are clear all fields, becomes audibly wheezy when agitated, resolves independently.  O2Sats 96%-98% on 3lNC.  
+
+Heme/lytes/micro:  No labs ordered for this a.m.  Afebrile.  Antbx coverage includes Ampi., Flagyl.
+
+GI:  Per granddgtr. as translater, pt. does not have RUQ or any other abd. pain.  +BS.  Pt. had 1 soft BM this a.m.  RUQ appears more distended than the rest of abd.  NPO but has been taking ice chips this a.m.  ? ADAT today.
+
+GU:  Foley draining clear, icteric urine.  U/o averaged 20-50cc/hr.
+
+Derm:  D&I.
+
+Social:  Family will visit today- are very helpful w/ caring for pt.  
+",,
+5494,16003,6830,0,3266-06-20 14:10:00 EST,3266-06-20 14:30:00 EST,2058,"N",69,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE SEE CAREVIEW FOR DETAILS:
+
+NEURO:AWAKE,ALERT, FOLLOWS COMMANDS AND IS ABLE TO MOVE ALL EXTREMITES.PT WAS ABLE TO WALK IN ROOM AND SAT IN CHAIR ,TOLERATED WELL.PRIMARILY RUSSIAN SPEAKING FOLLOWS COMMANDS OF SON,DENIES PAIN.APPEARS ORIENTED TO NAME,REMAINS RESTLESS AT TIMES AND AGITATED BUT THIS LESSENS WHEN FAMILY,WIFE AND SON ARE HERE.SON IS NOT SURE IF PT IS ORIENTED TO PLACE AND TIME,ASKS TO GO HOME PER SON.HAS HAD SITTER OR FAMILY MEMBER PRESENT,WILL PULL AT TUBES AND LINES AND ATTEMPT TO GET OUT OF BED,HAS WAIST RESTRAINT,HANDS ARE FREE WHILE SITTER OR FAMILY MEMBER IS PRESENT.DID NOT GET HALDOL TODAY,QT WAS PROLONGED.
+
+CV:REMAINS IN ATRIAL FIB RATE 90 TO 110,LOPRESSOR WAS INCREASED TO 10MG IV SYSTOLIC BP 140 TO 150.BOTH FEET WARM TO TOUCH WITH PALPABLE DP AND PT PULSES PRESENT.
+
+RESP:BREATH SOUNDS HAVE CLEARED BUT HAS HAD I/E WHEEZES ,SEEN AND EVALUATED BY RESP AND HAS HAD NEB TREATMENTS.RESP RATE REMAINS TACHYPNEIC 24 TO 30 .REMAINS ON 3LNP,SP02 98% TO 99%.
+
+GU:FOLEY TO CD DRAINING AMBER URINE IN MODERATE AMOUNTS.
+
+GI:ABD SOFT WITH POSITIVE BOWEL SOUNDS PRESENT,PASSING FLATUS.TOLERATING CLEAR FLUIDS PO.
+
+ACCESS:HAS 2 PERIPHERAL IVS WNL INFUSING LR AT 100CC/HR.
+
+SOCIAL:FAMILY IN TO VISIT.
+
+ACTIVITY:OOB TO CHAIR WAS ABLE TO AMBULATE IN ROOM WITH 2 PERSON ASSIST.
+
+SITTER:REQUIRES SITTER OR FAMILY MEMBER AT BEDSIDE.
+
+PLAN:TRANSFER TO FLOOR.
+",,
+5494,16003,6830,0,3266-06-20 17:30:00 EST,3266-06-20 17:34:00 EST,2174,"N",69,"Nursing/Other","Respiratory note:","
+Respiratory note:
+Pt received albuterol and atrovent nebs Q6H for exp audible and auscultable wheezing. Spo2 high 90's and RR30's.
+",,
+5494,16003,6830,0,3266-06-20 18:12:00 EST,3266-06-20 18:15:00 EST,2058,"N",69,"Nursing/Other",,"
+
+UPDATE :REMAINS IN ATRIAL FIB WITH STABLE BP.OUT OF BED WALKED TO CHAIR.WAS INCONTINENT OF LARGE AMOUNT OF DARK BROWN STOOL.PULLING AT FOLEY CATH HAS SMALL AMOUNT OF BLEEDING AT FOLEY CATH INSERTION SITE.TOLERATING PO FLUIDS WELL.AGITATION HAS INCREASED THIS EVENING BUT REMAINS WITH FAMILY MEMBER, WHO IS HIS  GRANDAUGHTER AND IS CONTROLABLE,HAS WAIST RESTRAINT ON AND SOFT LIMB TO ARMS.
+",,
+5494,16003,6830,0,3266-06-21 04:22:00 EST,3266-06-21 04:43:00 EST,-1,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. Russian speaking only, unable to assess orientation but per grandgtr as interpreter- pt. confused and wanting to leave room.  Posey'd in chair @ start of shift and continuously attempting to climb out of chair despite constant attempts by family members to re-orient pt.  Unable to give Haldol d/t prolonged QTc- 0.52 in a.m. of 6/29.  Notified house staff- wrote for order of 5mg Ativan IV x 1, then changed it to 0.5 mg q 6hrs prn. Initail does had very minimal effect.  Gave another 0.5 1 hr. later and returned pt. to bed, applied posey.  Family left bedside.  1:1 sitter arrived @ 23:00, was pulled to another floor @ 5:00.  [**Last Name (LF) 148**], [**First Name3 (LF) 149**] independently.  received total 1.5 mg Ativan for shift.
+
+CV:  Afib 80's-130's, no other ectopy noted.  HR elevated while agitated.  Trace-1+ edema to q 4 extremities.  Spoke with house officer [**First Name4 (NamePattern1) 150**] [**Last Name (NamePattern1) 151**] @ start of shift- asked if pt.'s home cardiac meds had been written for him to receive while in MICU.  Contacted covering SICU resident to have orders for these meds written- will give when available.  
+
+Resp:  O2Sats 97%-99% on 3L NC.  Lungs clear upper lobes, diminished @ bases.   Becomes audibly wheezy w/ agitation, resolves independently.  
+
+Heme/lytes/micro:  No labs ordered this a.m.  Afebrile, antbx coverage insludes Unasyn.
+
+GI:  No c/o abd. pain.  Tolerated clears [**6-20**].  ? ADAT today.  Last BM [**6-20**].
+
+GU:  Foley to gravity draining bright red urine @ start of shift d/t pt. pulling @ foley- team aware.  Color has cleared to orange/icteric by this a.m.  
+
+Derm:  D&I.
+
+Social:  FULL CODE.  Pt. is c/o to floor.  Transfer orders written/family aware, would like phone call when he goes.  Pt. will likely need sitter when he goes to floor.  They have also requested  a rehab. w/ Russian speaking staff.  
+",,
+5494,16003,6830,0,3266-06-21 15:15:00 EST,3266-06-21 15:30:00 EST,2669,"N",69,"Nursing/Other",,"
+
+Micu B Nursing Progress Note for 7a-7p FULL CODE:
+
+Neuro:  Remained lethargic for most of the day.  Did have periods of wakefulness.  Language barrier present---Russian speaking only patient.  Remains confused and disoriented per Son.  States this is his baseline.  States he does have periods of lucidity. PERLA. MAE. Possy and bilat wrist restraints in place. 
+
+CV: Afib with HR 80-130. BP stable throughout the day.  Placed back on all home doses of PO meds. Afebrile.  CBC sent this afternoon [**Name8 (MD) 34**] MD. IV to heplock. SW X [**Street Address 152**]. + 1 generalized edema noted.
+
+Resp:  Remains on 3L NC with sats. 96-100%. Exp. wheezing noted throughout with aubile wheezing at times. Clears somewhat with resp. tx's. RR 24-30's.  Quick shallow breathing. 
+
+GI: + BS noted. Abd. round, slightly distended but non-tender.  NO N/V noted. Taking clear liquids without difficulty.
+
+GU:  Foley in place with trauma noted from pulling.  Urine has cleared during shift. 
+
+Plan:  Cont. plan of care. Monitor VS's, LABS, I&O, etc.  May need sitter when tx out to floor. Called out to [**Doctor First Name 4**]. floor when bed is available.  
+
+Social:  Family has requested a rehab. with Russian speaking staff.  Will need sitter on floor per faimly request.
+",,
+5494,16003,6830,0,3266-06-21 23:28:00 EST,3266-06-21 23:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: Pt. is russian speaking only and does not understand any English. Family/sitter at bedside. Pt. dozing on and off, became increasingly agitated and ativan 0.5mg given with good effect. 
+CV: Tmax: 98.8po, HR 86-108 afib, no ectopy noted. NBP 117-134/57-79. HCT 39.8. Continues on IV Lopressor Q6/hrs.
+RESP: LS diminished with occ. exp wheezes, mostly when agitated, resolves on own. RR 23-33, Sat's 96-99% @ 3LNC.
+GI: abdomen softly distended, +BS, no stool, +flatus. No c/o abdominal discomfort. Tol. cl. liq.
+GU: Foley drng adeq. amt's of clear, amber urine.
+SKIN: no issues.
+Pt. will be transferred to [**Hospital Ward Name 3**] 5, will need sitter when transferred to floor.
+",,
+5494,16003,6830,1,3266-06-21 23:28:00 EST,3266-06-22 03:08:00 EST,-1,"Y",69,"Nursing/Other",,"
+
+Pt. required ativan x1 again for agitation with good results. Pt. had a bed on [**Hospital Ward Name 3**] 5 but pt. was not transferred because there was no sitter available. Transfer note updated.
+",,
+5494,16003,6830,0,3266-06-22 12:16:00 EST,3266-06-22 12:24:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+NEURO- PATIENT HAS BEEN COOPERATIVE MOST OF THE TIME. HAS ATTEMPTED TO GET OOB. PER FAMILY SPEAKING RUSSIAN TO THE PATIENT HE IS NOT ALERT AND ORIENTED. HE HAS EITHER A SITTER OR FAMILY WITH HIM AT ALL TIMES FOR HIS SAFETY. SAFETY DEVICES WERE REMOVED FROM HIS WRISTS AS THE PATIENT WAS NOT PULLING AT ANYTHING. 
+RESP- ON 3L NC SATS 97-98%. RESP 23-32. BS WITH OCCASIONAL WHEEZES. 
+CARDIAC- HR AFIB RATE OF 85-117 WITH NO ECTOPI. SBP 120-160'S. HE CONT ON 10MG IV LOPRSSOR Q 6 HOURS. 
+GI- ABD SOFT WITH POS BS. NO BM TODAY. TOLERATING HEART HEALTHY DIET WELL. 
+GU- UO 35-80CC/HR CLEAR AMBER URINE. NO BLOOD IN URINE. 
+SOCIAL- FAMILY HERE MOST OF DAY. 
+DISPO- REMAINS IN THE MICU AWAITING A FLOOR BED.   
+",,
+5494,16003,6830,0,3266-06-22 12:39:00 EST,3266-06-22 12:40:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+[**First Name8 (NamePattern2) 153**] [**Last Name (NamePattern1) 154**] WOULD LIKED TO BE PAGED WHEN THE PATIENT GETS A BED ON THE FLOOR. HER BEEPER IS [**Pager number 155**] 
+",,
+5494,24899,6831,0,3269-10-14 00:47:00 EST,3269-10-14 01:11:00 EST,3931,"N",54,"Nursing/Other",,"
+
+npn 19:30- 07:00 (see also carevue flownotes for objective data)
+
+dx: RLL pna; NSTEMI
+    resp failure; thrombocytosis; decrs'd LOC;
+
+88 yo married male, resident of [**Hospital 156**] Rehab, supportive family;
+c/c increasing lethargy and SOB 3 days prior to admission, w/ poor po intake;
+pt's baseline is w/c, feeds self pureed food/thickened liquids;
+
+ER w/u showed RLL pna per CXR and NSTEMI re elevated troponin to 1.18 w/ EKG changes per card c/s;
+
+NEURO:
+pt reportedly essentially unresponsive in ER, remained same at arrival to MICU at 19:30, limbs stiff but w/out movement;
+
+C-V:
+vss w/out vasopressors so far; IVF's started at 12a D5 [**12-24**] at 125 cc/hr; hrt rhythm a-fib, w/ controlled v-response in low 10's;
+extremities cold, bilat from knees down, hands warm at beginning of shift, cooler later in the shift--lost good pleth for O2 sat monitoring;
+22:40 troponin 1.14, down from 1.18; MB Index up slightly to 17.5% from 10.3%;
+
+resp:
+ABG done at 00:15, showed pCO2 continuned to be in low 70's, therefore placed on facial mask ventilation to try to assist pt to blow off CO2; oxygenation has not shown to be a problem so far;
+
+G-I:
+pt NPO for now; started on IV PPI;
+unable to take any PO meds d/t unresponsiveness;
+
+G-U:
+urine output very low first 4 hrs here in MICU, did increase some midway through shift; Urine speciment sent off for analysis and cx as ordered;
+
+skin:
+pt received full bedbath; no bedsores seen;
+came w/ 2 PIV's; one in each forearm;
+
+musculoskeletal;
+pt stiff d/t age; rt foot appears chronically/permanently turned in;
+
+PLAN:
+1) pt DNR/DNI
+2) continue to treat pt medically
+3) IV Abx
+4) mask ventilation to try to assist pt to blow off CO2
+5) obtain sputum for gm stain and cx when able
+6) check results a.m. labs
+
+
+",,
+5494,24899,6831,0,3269-10-14 05:09:00 EST,3269-10-14 05:11:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient placed on mask ventilation for a few hours secondary to acidosis. ABG on mask ventilation improved from 7.25 to 7.35. Patient started to pull mask off. Now on 5L nc with good sats.
+Plan: Mask ventilation as needed.
+",,
+5494,24899,6831,0,3269-10-14 15:21:00 EST,3269-10-14 16:04:00 EST,8598,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note 0700-1900
+
+Neuro:  Russian speaking only. Opens to voice and stimuli, tracks with eyes, non verbal, does not follow commands even with interpreter.  Moving upper extremities, minimal movement of lower extremities.  Pt very rigid and resists beginning turned. [** 148**]. Soft restraints applied to prevent patient from pulling at lines and tubes.
+
+Resp:  Tachypnic with RR 28-35.  Breath sounds diminished.  Sats 95 on 2 LNC.  h/o MRSA PNA.  Chest X-ray with ? aspiration PNA in RLL.  +  Right pleural effusion
+
+Cardio:  Hypotensive this AM with BP's in the 80's systolically.  Given 250 NS bolus with response of pressures in the 90's.  Tele afib with rates in the 90-100's HR up to 120-130's at times given 5 mg IV lopressor with good effect.  +NSTEMI with troponins up to 1.18.  Echo done today results pending.  Pt to be medically managed.  Started on a Heparin gtt at 1400.  PTT due at 2000.
+
+GI:  On pureed diet with honey thickenned liquids at baseline.  Failed speech and swallow today.  Aspirated teaspoon amount of honey thickened liquid and dropped sats to 70's.  Doboff placed by team.  Self D/C'd by pateint.  New NGT to be placed.  + BS in 4 quadrents ab soft non distended.  No BM this shift.  Remains NPO
+
+Renal:  UOP low today ranging from [**10-21**].  Given 500cc bolus with minimal response.  Urine dark yellow with sediment.  At this writing + 2 liters for day.  
+
+ID:  Afebrile.  Lactate 1.1. WBC up to 14 from 11. U/A and Blood cultures pending.  Unable to obtain sputum culture.   Currently on Vanco, Flagyl and cefepime. 
+
+Skin:  Intact no issues
+
+Social:  Married wife does not speak english.  Granddaughter is HCP and spokesperson.  She called today and was updated by team regarding POC.  Patient remains DNR/DNI and family does not wish to have any invasive procedures done. 
+
+Plan:  
+
+1.  Call out to floor
+2.  Monitor cardiovascular status re: NSTEMI
+3.  Monitor respiratory status re:  o2 sats and aspiration PNA
+4.  Nutrition consults re: Tubefeedings
+5.  Anticoagulation on Heparin gtt Check PTT 2000
+6.  Monitor neurological status re:  Altered mental status
+7.  Routine ICU care and monitoring
+  
+      
+",,
+5494,24899,6831,0,3269-10-14 17:27:00 EST,3269-10-14 17:28:00 EST,6693,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt given aerosol nebs with Albuterol/Atrovent Q6. BS diminished throughout with improved aeration after nebs. Plan to continue with nebs at this time.
+",,
+5494,24899,6831,0,3269-10-15 03:41:00 EST,3269-10-15 04:07:00 EST,6238,"N",54,"Nursing/Other","MICU 6 NPN 1900-0700","
+MICU 6 NPN 1900-0700
+S: Russian speaking, nonverbal
+O: please see carevue for complete assessment data
+EVENTS: transitioned to CMO after resp/HD decompensation and discusstion w/ family
+CV: Initially HD stable, HR AF 90s-110s, ^'ing into 130s w/ ^ agitation/WOB, tx'd w/ 5mg IV lopressor w/ effect. BP 100s-130s/50s, pt acutely dropped pressure to 70s-80s (prompting call to family to discuss severity of situation). Labs wnl, ? decomp d/t PE v. MI (ECG neg, enzymes flat). Heparin gtt d/c'd d/t bleeding from urethra. ? volume overload (had been recieving fluid d/t low u/o) attempted lasix 40mg IVP w/o effect. Extremities ^'ingly cool/cyanotic. 
+
+RESP: LS coarse, dim w/ faint rales and intermittent ex wheezes @ bases, nebs w/o effect, and requiring ^ O2. RR ^ 30s w/ + retractions. ABG revealed metabolic acidosis w/ pH 7.14 and adequate oxygenation. Placed on CPAP/PS w/ min improvement, removed after discusion w/ family re: CMO. Currently on 2L NC w/ SpO2 100%. 
+
+NEURO: waxing and [**Doctor Last Name 117**], initially alert, tracking. Becoming progressively more lethargic throughout the shift. Did not appear to be in pain. Attempted CPAP/PS for ^ PCO2 w/o effect, pt increasingly restless. Made CMO after discussion w/ family, morphine gtt started for comfort. 
+
+GI: abd soft, nontender, nondistended. +BS/-BM. Doboff replaced, verified by x-ray. Started TFs briefly, d/c'd for CPAP/PS. 
+
+GU: foley w/ minimal u/o throughout shift, no response to 40mg lasix given. Urine increasingly dark and bloody w/ + sediment and leaking fair amount around cath. Attempted manual irrigation-> leaking substantially and + clots. Attempted to replace w/ larger cath but upon removal of initial catheter pt began to have bloody discharge from urethra. Attempted to place 3 way foley for CBI, unable to place-> attempt aborted d/t risk of ^'d trauma. MICU team aware, consulted GU. Foley left out, cont w/ frank blood via urethra, team aware. 
+
+ENDO: BG wnl, no RISS coverage needed. 
+
+ID: afebrile, abx d/c'd upon making pt CMO. 
+
+SKIN: w/d/i, PIV x 2 patent and intact. 
+
+SOC: granddaughter called and updated on pt's worsening condition, need for CPAP/PS and hypotension. Decision made to transition to CMO as pt did not wish to undergo invasive procedures. Family wishes to be called when pt passes or updated in am (they will be in in am)
+
+DISPO: CMO
+
+A: Resp failure, PNA, hypotension
+P: cont comfort care, morphine titrated to maintain comfort. Support to pt/family as indicated, ? SW consult. 
+",,
+5494,24899,6831,0,3269-10-15 16:48:00 EST,3269-10-15 17:16:00 EST,8598,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note 0700-1900
+
+Events:  Family Meeting Today.  Goals of care include continuing antibiotics for PNA, ASA beta blocker for NSTEMI, No escalation of care if patient decompensates.  
+
+Neuro:  Russian Speaking only. Responsive to stimuli.  Moving all extremities non-purposefully.  Morphine gtt weaned off this AM.  PEERLA.  Non-communicative at baseline.  
+
+Resp:  Lung sounds diminished.  RR low 20's, even and unlabored.  Sats 95-100 on 2 LNC, sats decrease to low 90's when turned on right side
+
+Cardiac:  Tele afib 90-110's.  BP 80-90's/30-40's.  Pulses by doppler only.  IV lopressor held d/T low BP
+
+GI:  Self D/C'd dopoff. Remains NPO, + BS abdomen soft non distended.  No BM this shift
+
+Renal:  Inncont, moderate amounts of blood tinged urine with small clots.  
+
+Skin:  Intact, no current issues
+
+ID:  Afebrile, continues on Vanco/cefepime for RLL PNA.  Contact precautions for h/o MRSA in sputum
+
+
+Plan:
+
+1.  Called out to floor
+2.  Moving towards CMO, ? transfer back to [**Hospital 157**] rehab in AM with hospice
+3.  If condition deteriorates, no invasive treatment
+4.  If patient remains stable, nutritional status will need to be addressed
+5.  Emotional support to family
+
+",,
+5494,24899,6831,0,3269-10-16 04:28:00 EST,3269-10-16 04:42:00 EST,8121,"N",54,"Nursing/Other",,"
+
+NURSING NOTES [**3269-10-15**] 1900-0700 EDT
+REVIEW CARE VUE FOR ALL OBJECTIVE DATA
+
+NEURO: RUSSIAN SPEAKING ONLY, RRESPONSIVE TO STIMULI, MAE, NONPURPOSEFUL MOVEMENTS.LOOKS COMFORTABLE, NO SIGNS OF PAIN OR DISCOMFORT.
+
+RESP: BREATHING ON O2 3L/MIN VIA NC AND O2 SATS ^90'S. LS CLEAR AND DIMINISHED AT THE BASE. RR REGULAR NO RESP DISTRESS.
+
+CVS: A FIB, SBP 90-120, IV LOPRESSOR PM DOSE GIVEN AT 2100. OCCASIONAL ECTOPY NOTED.
+
+GU/GI: REMAINS NPO, ABD SOFT,BS PRESENT, NO BM THIS SHIFT. PATIENT IS BED WETTING. IV LASIX 20MG GIVEN PM AND LARGE AMOUNT OF INCONTINENCE NOTED. MD AWARE ABOUT IT.
+
+SOCIAL: NO FAMILY CALLS TONIGHT.
+ID: AFEBRILE, CONTINUED ON ANTIBIOTICS.
+
+PLAN: CODE STATUS CMO, CONTINUE ANTIBIOTICS, ?START TF. SKIN CARE WITH INCONTINENCE.?CALL OUT TO FLOORS.    
+",,
+5494,24899,6831,0,3269-10-16 15:22:00 EST,3269-10-16 15:38:00 EST,8598,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note 0700-1900
+
+Neuro:  Russian speaking only, Non-communicative at baseline.  Opens eyes to stimuli and tracks with eyes.  Moving all 4 extremities non purposefully.  [** 148**]
+
+Cardio:  Remains in AF with rates 90-110.  BP stable ranging from 100-140/50-60's, no edema +1 pt/dp.  IV lopressor for HR control
+
+Resp:  Lung sounds diminished at bases otherwise CTA.  RR low 30's, sats 95 or greater on 2 LNC.  
+
+GI:  Falled bedside speech and swallow today, dropped sats to 89. TO have video guided speech and swallow in AM Remains NPO, + BS abdomen soft, non distended.  No BM X 4 days
+
+Renal:  Given 20 mg IV lasix with 500 cc response.  Condom catheter placed, draining dark amber urine.
+
+Skin:  Intact No issues
+
+ID:  Afebrile, continues on Vanco/cefepime for Aspiration PNA, cultures all negative to date.  
+
+Social:  Granddaughter called, updated on POC, Wife to visit this PM
+
+Plan:
+
+1.  Continue with comfort care, no escalation of care if patient decompenstates
+2.  Continue with medical management of PNA, NSTEMI
+3.  Speech and swallow evaluation in AM
+4.  To [**Hospital **] rehab once medically stable
+
+
+
+",,

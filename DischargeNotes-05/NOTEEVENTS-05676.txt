@@ -1,0 +1,1045 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5676,,,,2514-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-1**] 10:23 PM
+     CT L-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 13129**]
+     Reason: PLEASE EXTEND THROUGH FEMORAL NECK  R/O FRAC (L SPINE-V- FEM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with lumbar ttp and right hip pain/ttp.  Eval for lumbar path 
+      -v- hip frx
+     REASON FOR THIS EXAMINATION:
+      PLEASE EXTEND THROUGH FEMORAL NECK  R/O FRAC (L SPINE-V- FEMUR)                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 13130**] [**Doctor First Name 70**] [**2514-3-1**] 11:00 PM
+      no L-spine fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old woman with lumbar tenderness to palpation and right hip
+     pain.
+     
+     TECHNIQUE:  Multidetector axial images of the lumbar spine were obtained.
+     Coronal and sagittal reformatted images were obtained.
+     
+     FINDINGS:  There is no evidence of lumbar spine fracture.  Multilevel
+     degenerative changes are observed with disc space narrowing, vacuum discs, and
+     osteophyte formation.  Visualized portions of the sacrum and iliac bones are
+     unremarkable.  The visualized outline of the thecal sac is unremarkable. There
+     is a small hiatal hernia.  Aortic and iliac calcifications are identified.
+     Surrounding soft tissues are otherwise unremarkable.
+     
+     IMPRESSION:  Mild-to-moderate degenerative changes of the lumbar spine without
+     evidence of fracture.
+     
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: There is severe osteopenia. There are severe
+     degenerative changes at all intervertebral levels included in this study (T11-
+     the sacrum). There are vacuumn phenomena at each level from L1-L5, loss of
+     disk height at every level, anterior osteophytes at T11-L1 and posterior
+     osteophytes at L3- L5. There is bulging of the intervertebral disks at L2-3
+     and L3-4. A more prominent bulge at L4-5, along with ligamentum flavum
+     thickening, produces at least moderate spinal canal stenosis. A small gas
+     collection adjacent to the right L5 root suggests a disk protrusion in this
+     location. Loss of disk height and intervertebral osteophytes produce severe
+     foraminal narrowing bilaterally at L5-S1, more severe on the left than right.
+     
+     
+
+",,
+5676,,,,2514-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-1**] 9:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13128**]
+     Reason: r/o increaed failure                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with CHF/COPD tachycardic/tachypnic                           
+     REASON FOR THIS EXAMINATION:
+      r/o increaed failure                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD, CHF, tachycardia.
+     
+     CHEST, ONE VIEW:  There are no comparisons.  There are no pleural effusions,
+     pneumothorax, or pulmonary vascular congestion.  The patient is slightly
+     rotated.  The cardiac and mediastinal contours are normal.  There is an
+     illdefined focal opacity opacity at thr ight lung base, which likely
+     represents atelectasis .
+     
+     IMPRESSION:  Proabable minimal right basilar atelectasis..  A PA and lateral
+     view is recommended if clinically indicated.
+
+",,
+5676,,,,2514-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-1**] 10:35 PM
+     CT PELVIS [**Hospital Unit Name **] W/O C                                           Clip # [**Clip Number (Radiology) 13131**]
+     Reason: r/o frac                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with right hip pain                                           
+     REASON FOR THIS EXAMINATION:
+      r/o frac                                                                        
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 13130**] [**Doctor First Name 70**] [**2514-3-1**] 11:10 PM
+      no evidence of pelvis or hip fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old female with right hip pain.  Rule out fracture.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  MDCT contiguous axial images through the pelvis were obtained
+     without IV contrast.  Sagittal and coronal reformations were performed.
+     
+     FINDINGS:
+     
+     There is severe osteopenia limiting the evaluation for nondisplaced fractures.
+     Nevertheless, no displaced fracture is evident.  The hip joints are in normal
+     position.  There are minimal marginal osteophytes in the hip joints.  However,
+     the joint space is preserved.  No suspicious lytic or blastic lesions are
+     seen.  There is degenerative gas within the SI joints bilaterally.
+     Degenerative changes of the lumbar spine.  (Please refer to the CT of the L-
+     spine performed in the same day for more details.)
+     
+     There is a Foley catheter within the urinary bladder. There are vascular
+     calcifications.
+     
+     IMPRESSION:  No evidence of displaced fracture.  Considering osteopenia, MRI
+     would be more sensitive for nondisplaced fractures or insufficiency fractures.
+     
+     
+     
+     
+
+",,
+5676,,,,2514-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-2**] 6:00 PM
+     MR HIP W/O CONRAST RIGHT                                        Clip # [**Clip Number (Radiology) 13133**]
+     Reason: ? hip fracture, bursitis                                    
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sudden onset R hip pain and tenderness on exam           
+     REASON FOR THIS EXAMINATION:
+      ? hip fracture, bursitis                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE RIGHT HIP WITHOUT CONTRAST, [**2514-3-2**]
+     
+     INDICATION:  [**Age over 90 **]-year-old female with sudden onset right hip pain and
+     tenderness to exam.  Assess for hip fracture or bursitis.
+     
+     TECHNIQUE:  Large field-of-view axial and coronal T1 and STIR images to the
+     pelvis were obtained without the administration of contrast.
+     
+     FINDINGS:  Direct comparison with CT examination dated [**2514-3-1**].
+     
+     The marrow signal is homogeneous, without evidence of edema or osseous
+     fracture.  The right hip joint is intact, without dislocation or advanced
+     degenerative change.  There is a small amount of fluid within the left greater
+     trochanteric bursa.  No fluid identified within the right greater trochanteric
+     bursa.  There is top normal amount of fluid within the right hip joint. A
+     physiologic amount of fluid is seen within the left hip joint.
+     
+     There is no evidence of avascular necrosis.  Sacroiliac joints are intact.
+     
+     There is severe degenerative change of the visualized lower lumbar spine,
+     manifest as disc space loss, and endplate signal abnormalities.
+     
+     Nonspecific subcutaneous edema is identified within both flanks.
+     
+     IMPRESSION:
+     1.  No evidence of right hip fracture, marrow edema, or avascular necrosis.
+     2.  Degenerative change of the lower lumbar spine.
+     
+     
+
+",,
+5676,,,,2514-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-2**] 2:43 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13132**]
+     Reason: ? pneumonia, CHF                                            
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hx COPD, CHF her with increased oxygen requirement, 
+      denies any new symptoms
+     REASON FOR THIS EXAMINATION:
+      ? pneumonia, CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST, [**2514-3-2**].
+     
+     INDICATION:  Increased oxygen requirement.
+     
+     COMPARISON:  [**2514-3-1**].
+     
+     Apical lordotic projection limits the assessment of the cardiac and
+     mediastinal contours, but they are likely within normal limits allowing for
+     this factor, there has been interval increase in opacity at the right lung
+     base, partially obscuring the right hemidiaphragm medially.
+     
+     The remainder of the lungs are clear, and there are no pleural effusions.  The
+     bones are diffusely demineralized.
+     
+     IMPRESSION:  Patchy right lower lobe opacity, which may reflect an
+     early/evolving pneumonia in the appropriate clinical setting.
+                                                                           
+
+",,
+5676,14793,,,2514-03-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2514-3-12**]              Discharge Date:   [**2514-3-22**]
+ 
+Date of Birth:  [**2421-11-13**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydrochlorothiazide / Neomycin
+ 
+Attending:[**First Name3 (LF) 6087**] 
+Chief Complaint:
+Sepsis
+ 
+Major Surgical or Invasive Procedure:
+[**2514-3-12**] Placement of left suclavian line, right radial arterial 
+line.
+ 
+History of Present Illness:
+[**Age over 90 **] y/o F w/COPD, CHF, recent admit for COPD/pna and hip pain, 
+sent from NH where she was noted to be ""unresponsive, inaudible 
+bp, pulse 47, 67% on RA.""  Transferred to [**Hospital1 83**] ER for urgent 
+care.
+.
+She was admitted from [**Date range (1) 6921**] and discharged to a nursing home 
+with a prednisone taper and levofloxacin and pain service f/u 
+for likely radicular pain.
+.
+In the ED she was hypotensive to 70s, sat 88%RA. BP raised to 
+90s with 3L IVF, UOP 35 cc while in ED, lactate 2.0.  New ARF - 
+Cr 3.6(baseline 1.4), K 8.3 (not hemolyzed, given calcium, 
+glucose/insulin, bicarb), WBC 20.
+.
+Given vanc/zosyn in ER, started on peripheral dopamine given 
+hypotension.  Also found to have guaiac positive brown stool on 
+exam (per NH has had recent blood in stool accompanied by 
+constipation).
+.
+Transferred to ICU for further management.  Arterial line and L 
+SC catheters placed.  On arrival, patient intubated, sedated, 
+but able to respond yes/no to posed questions appropriately:  
+notes hip pain, denies any other pain.  She denies any 
+antecedent trauma.
+ 
+Past Medical History:
+1. COPD  
+2. CHF - EF 50% 
+3. CKD
+4. Spinal Stenosis
+5. HTN
+ 
+Social History:
+Used to work at a factory, no smoking, no EtOH.  Remainder of SH 
+unable to be obtained secondary to mental status.
+
+ 
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+T 97.2 BP 109/54 P 88-104 RR 21 O2 sat 90% on A/C, FiO2 0.5, Vt 
+480, PEEP 5
+General: Intubated, lying in bed, responsive, following 
+commands.
+HEENT: Pupils reactive bilaterally.  No neck stiffness, negative 
+Brudzinski's sign.
+Heart: S1 S2 with no MRG, no S3/S4.
+Lung: CTA anteriorly.
+Abd: Soft, nondistended.
+Ext: No edema, 1+ distal pulses.
+Neuro: Somewhat sedated but following commands, moving all four 
+extremities.
+Skin: Scattered ecchymoses on stomach consistent with heparin / 
+SC injection irritation.
+
+ 
+Pertinent Results:
+[**2514-3-21**] 05:16AM BLOOD WBC-12.0* RBC-2.70* Hgb-8.4* Hct-25.2* 
+MCV-94 MCH-31.1 MCHC-33.2 RDW-15.0 Plt Ct-332
+[**2514-3-12**] 07:50PM BLOOD WBC-20.0*# RBC-3.31* Hgb-10.5* Hct-30.3* 
+MCV-92 MCH-31.6 MCHC-34.5 RDW-14.7
+[**2514-3-17**] 03:41AM BLOOD PT-11.8 PTT-23.4 INR(PT)-1.0
+[**2514-3-21**] 05:16AM BLOOD Glucose-80 UreaN-20 Creat-0.8 Na-141 
+K-4.1 Cl-102 HCO3-33* AnGap-10
+[**2514-3-12**] 07:50PM BLOOD Glucose-146* UreaN-106* Creat-3.6*# 
+Na-129* K-8.3* Cl-87* HCO3-31 AnGap-19
+[**2514-3-13**] 11:54AM BLOOD ALT-18 AST-21 LD(LDH)-225 AlkPhos-50 
+TotBili-0.4
+[**2514-3-12**] 09:10PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-SM Urobiln-NEG pH-5.0 Leuks-NEG
+[**2514-3-12**] 09:10PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) 20**]-1.020
+. 
+MICROBIOLOGY: 
+[**2514-3-13**] 3:35 am SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT [**2514-3-16**]**
+
+   GRAM STAIN (Final [**2514-3-13**]): 
+      [**10-31**] PMNs and <10 epithelial cells/100X field. 
+      3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    IN PAIRS, CHAINS, AND 
+CLUSTERS. 
+      1+    (<1 per 1000X FIELD):   YEAST(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+
+   RESPIRATORY CULTURE (Final [**2514-3-16**]): 
+      SPARSE GROWTH OROPHARYNGEAL FLORA. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+VANCOMYCIN------------   <=1 S
+.
+Imaging: 
+CXR [**3-12**]
+1. Interval improvement in right base opacity.
+2. Subtle left mid zone opacity that may represent an early 
+pneumonic process.
+3. Vascular redistribution without overt CHF. 
+.
+Renal U/S [**3-13**]
+IMPRESSION: Normal renal ultrasound.
+.
+Head CT [**3-13**]
+IMPRESSION: No evidence of acute intracranial hemorrhage.
+.
+
+ 
+Brief Hospital Course:
+[**Age over 90 **] yo with h/o COPD, CHF (EF 50%) presents with hypotension, 
+hyperkalemia, and sepsis from unknown source, likely pulmonary / 
+pneumonia.
+.
+1. Hypotension/Sepsis:
+On presentation, pt was found down.  Pt was admitted to the FICU 
+and treated with initial pressors, and intubated for pulmonary 
+support.  Pt was placed on IV Vanco/Zosyn for presumptive 
+empiric coverage and was pancultured.  Sputum cultures later 
+returned back MRSA and patient was treated as presumptive MRSA 
+pneumonia complicated by sepsis.  Pt responded well to 
+aggressive fluid hydration and was able to be extubated, with 
+pressors weaned 1 day after initiation.  Her Zosyn was 
+discontinued and pt was transferred to the floor and continued 
+on IV Vanco to complete a 14 day course.  Pt continued to 
+improve clinically, remained afebrile,  and blood cultures 
+remained negative on day of discharge.  Pt was eventually 
+discharged to a rehab hospital once stable for continued rehab 
+after discharge. 
+. 
+2. COPD Exacerbation
+Pt with symptoms consistant with a COPD exacerbation and had 
+previously still been on an prednisone taper from her previous 
+discharge.  Pt was placed on IV solumedrol while in the ICU but 
+gradually transitioned to Prednisone 40mg daily when she was 
+transferred to the floor.  Nebulizers, and inhaled steroids were 
+continued throughout her admission.  Pt's symptoms improved and 
+patient was discharged on Pred 20mg daily to complete a slow 2 
+week taper off of steroids. 
+.  
+3. Acute renal failure:
+Has baseline CRI but creatinine acutely elevated on elevated 
+which was largely attributed to prerenal azotemia from 
+hypotension and volume depletion.  Pt was  aggressively hydrated 
+while in the ICU and her Creatinine rapidly returned to [**Location 1966**].  
+A renal u/s was obtained that was negative for any postrenal 
+obstruction.  
+.
+4. CHF - 
+Pt with a h/o CHF with a baseline EF of 50%, with some chronic 
+vascular markings c/w chronic changes attributable to CHF.  
+Despite aggressive hydration, clinically pt did not exhibit any 
+signs of CHF.  Pt was continued on her home dose of ASA and ACE. 
+ Pt is not on a bblocker due to her COPD. Pt to continue to f/u 
+as an outpt. 
+. 
+5. Proph: Per Dr. [**Last Name (STitle) 2806**], MRSA precautions not indicated unless 
+patient has cough.
+.
+6. Dispo/Code:  Full Code.  Pt was to be discharged to rehab to 
+complete a 14 day course of IV Vanco for her MRSA pneumonia.  Pt 
+is to f/u with her outpt PCP once able. 
+
+ 
+Medications on Admission:
+Meds per nursing home.
+1. Aspirin 325 mg po qd  
+2. Pantoprazole 40 mg po qd
+3. Acetaminophen 500 mg po q 6 hrs  
+4. Levofloxacin 250 mg q 48 for 7 days (finish [**3-14**])
+5. Tizanidine 2 mg po qHS 
+6. Lisinopril 2.5 mg po qd
+7. Prednisone (has received 40 mg qd since [**3-7**])
+Disp:*30 tabs* Refills:*1*
+8. Gabapentin 300 mg po HS
+9. Oxycodone 10 mg po q4-6 hr prn
+10. MOM 30 cc prn, dulcolax, fleet enema prn.
+11. Duonebs q 4 hr prn.
+12. Spiriva inhaler qd.
+ 
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+units Injection TID (3 times a day).
+Disp:*qs units* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Prednisone 20 mg Tablet Sig: One (1) Tablet PO once a day for 
+10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+4. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day for 
+10 days: Please take as taper after the 10 days of prednisone 
+20mg daily.
+Disp:*10 Tablet(s)* Refills:*0*
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Albuterol 90 mcg/Actuation Aerosol Sig: One (1) nebulizer 
+treatment Inhalation every six (6) hours as needed for shortness 
+of breath or wheezing.
+Disp:*qs nebulizer treatments* Refills:*0*
+10. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation 
+Inhalation Q6H (every 6 hours).
+Disp:*qs nebulizer* Refills:*2*
+11. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+12. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) 
+gram Intravenous  Q 24H (Every 24 Hours) for 3 days: Begin with 
+dose on [**3-22**].
+Disp:*3 gram* Refills:*0*
+13. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+14. Gabapentin 300 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+15. Tizanidine 2 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+16. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN 
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units 
+heparin) each lumen Daily and PRN.  Inspect site every shift. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) **] [**Hospital1 **] Nursing Home - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Sepsis secondary to MRSA Pneumonia
+COPD Exacerbation
+.
+Secondary Diagnosis: 
+CHF EF 50%
+COPD
+
+ 
+Discharge Condition:
+Stable to be discharged to rehab
+
+ 
+Discharge Instructions:
+1.  Please follow up with Dr. [**Last Name (STitle) **] after discharge.  Please 
+call [**Telephone/Fax (1) **] to schedule that appointment. 
+. 
+2.  Please take medications as below. 
+.
+3. Per Dr. [**Last Name (STitle) 2806**], MRSA precautions
+. 
+4.  If develop chest pain, fever or chills, shortness of breath, 
+or any other symptoms, please call Dr. [**Last Name (STitle) **] or report to the 
+nearest ER.
+ 
+Followup Instructions:
+(Your pain management appointment needs to be rescheduled)
+
+Please follow-up with Dr. [**Last Name (STitle) **] within 1 week.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6088**] MD [**MD Number 6089**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6922**] MD [**MD Number 6923**] [**2514-3-22**] @ 0915
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2514-4-2**] 6:57 AM
+(End of Report)
+
+
+",,
+5676,14793,,,2514-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-12**] 11:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13134**]
+     Reason: worsening pna?                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with CHF/COPD with worsening hypoxia, leukocytosis           
+     REASON FOR THIS EXAMINATION:
+      worsening pna?                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  History of CHF, COPD, worsening hypoxia and leukocytosis.
+     
+     COMPARISON:  Radiograph dated [**2514-3-2**].
+     
+     AP PORTABLE VIEW OF THE CHEST:  Cardiac and mediastinal contours are stable.
+     There is vascular redistribution.  There is interval improvement in the
+     previously seen right base opacity. There is a possible subtle left medial mid
+     zone opacity.  No definite pleural effusion.  No evidence of pneumothorax.
+     
+     IMPRESSION:
+     
+     1.  Interval improvement in right base opacity.
+     2.  Subtle left mid zone opacity that may represent an early pneumonic
+     process.
+     3.  Vascular redistribution without overt CHF.
+
+",,
+5676,14793,,,2514-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5676,14793,,,2514-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-13**] 1:40 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 13138**]
+     Reason: ? hydronephrosis                                            
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with new renal failure and decreased UOP                      
+     REASON FOR THIS EXAMINATION:
+      ? hydronephrosis                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old woman with new renal failure and decreased urine output.
+     
+     FINDINGS:  The right kidney measures 9.6 cm.  The left kidney measures 9.7 cm.
+     Both kidneys are normal in appearance without evidence of hydronephrosis,
+     stones, or mass.  Foley catheter is noted in the decompressed bladder.
+     
+     IMPRESSION:  Normal renal ultrasound.
+                                                                           
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-13**] 1:53 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 13139**]
+     Reason: fluid overload                                              
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman with CHF/COPD with worsening hypoxia, leukocytosis s/p  
+      left subclavian line placement           
+     REASON FOR THIS EXAMINATION:
+      fluid overload                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  History of CHF and COPD with worsening hypoxia, leukocytosis, now
+     status post left subclavian line placement.
+     
+     FINDINGS:  AP single view of the chest has been obtained with patient in semi-
+     upright position and comparison is made with a preceding similar examination
+     obtained 8 hours earlier during the same date.  The patient remains intubated,
+     the ETT in unchanged position.  An NG tube reaches far below the diaphragm and
+     the previously described left subclavian approach central venous line
+     terminates overlying the SVC at the level 2 cm below the carina.  No
+     pneumothorax or any other placement related complication is identified.  The
+     pulmonary vasculature does not show any significant congestive pattern and no
+     acute parenchymal infiltrates can be identified. The lateral pleural sinuses
+     remain free. The on previous examination suspected,developing new infiltrates
+     on the left side cannot be confirmed.
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-13**] 1:13 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 13136**]
+     Reason: ? bleed                                                     
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with unresponsiveness at rehab                                
+     REASON FOR THIS EXAMINATION:
+      ? bleed                                                                         
+     CONTRAINDICATIONS for IV CONTRAST:
+      CKD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Unresponsiveness at rehabilitation.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT-acquired images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  There is no evidence of acute intra- or extra-axial hemorrhage. The
+     [**Doctor Last Name 20**]-white matter differentiation appears preserved.  There is no
+     hydrocephalus or shift of normally midline structures.  There is
+     periventricular white matter hypodensity consistent with small vessel disease.
+     There is fluid in the right maxillary sinus as well as partial opacification
+     of the ethmoid sinuses in this intubated patient.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.
+     
+     
+     Note added at attending review: There is mild brain atrophy.
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-13**] 6:54 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 13137**]
+     Reason: assess left subclavian line                                 
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with CHF/COPD with worsening hypoxia, leukocytosis s/p 
+      left subclavian line placement           
+     REASON FOR THIS EXAMINATION:
+      assess left subclavian line                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Worsening hypoxia, leukocytosis, left subclavian line
+     placement.
+     
+     CHEST SUPINE:
+     The tip of the left subclavian line lies at the junction of the SVC and right
+     atrium.  Endotracheal tube and nasogastric tube remain in satisfactory
+     position.  The increased lung markings to the left upper lobe and infiltrates
+     in this area could represent pneumonic process.  No gross failure is seen.
+     
+     IMPRESSION:  Left SC line in satisfactory position, no pneumothorax.
+                                                                           
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5676,14793,7055,,2514-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-13**] 12:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13135**]
+     Reason: post-intubation                                             
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with CHF/COPD with worsening hypoxia, leukocytosis          
+       
+     REASON FOR THIS EXAMINATION:
+      post-intubation                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  [**Age over 90 **]-year-old with CHF, worsening hypoxia, status post
+     intubation.
+     
+     CHEST:
+     
+     The tip of the endotracheal tube is in a satisfactory position.  Nasogastric
+     tube is present with the tip well below the diaphragm.
+     
+     No gross failure is seen.
+     
+     IMPRESSION:  Endotracheal tube and nasogastric tube in satisfactory position.
+                                                                           
+
+",,
+5676,14793,7055,0,2514-03-13 04:21:00 EST,2514-03-13 04:23:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. admitted from ED intubated and placed on A/C. Suctioned for yellow sputum. Maintain current vent settings.
+",,
+5676,14793,7055,0,2514-03-13 05:58:00 EST,2514-03-13 06:26:00 EST,43,"N",69,"Nursing/Other","SMICU Nursing Admission","
+SMICU Nursing Admission
+  Pt is a [**Age over 90 **]y/o woman who was transferred from NH with increasing lethargy, hypotension, In the EW pt had a sat of 86%, increasly lethargic requiring intubation for metabolic acidosis. BP to a lowest of 78/ treated with 3liters NS,started dopamine at 5mcg/kg/hr. Head CT neg.
+  Allgeries: hydrocholothaizide 
+  Arrival to S/MICU dopamine IVAC alarming battery went dead, intial BP 71/ requiring increasing dopamine to 10mcg/kg/hr BP responding and then able to wean dopamine and at presently is at 4mcg/kg/hr with BP 120-130/60-70's HR 90-100's ST no [**Last Name (LF) 837**], [**First Name3 (LF) **] line inserted.  
+  Respiratory:intial ABG showed 48/86/7.20 requiring intubation, post intubation 538/58/7.28 vent settings are A/C 500 x 15 PEEP 5cm lastest ABG 94/54/7.38 suctioned for thick yellow sputum. spec sent for culture.  BS coarse through out all lung fields. 
+   ID: blood cultures x 2 in the eW, urine sent from EW, sputum sent from MICU had received a dose of vanco and zosyn in the EW.  WBC up to 25 with 1%bands,
+    Neuro: having fine fasiculations, ?metabolic.. will nod head to yes/no questions, moving arms and legs. arms restraint to prevent extubation. 
+    GU: foley inserted intial labs in the EW showed k 8 treated with calcium gluconate,insulin/glucose and keaxalate.  presently is down to 5.9. urine output increased to over 200cc/hr. very light yellow. BUn 89 with Creat 2.8 (baseline creat 1.5) (labs down from 106 BUN and Creat 3.6) 
+    GI: abd distended, soft, no stool, NGT in place, on IV protonix
+    Access: right radial arterial line inserted, left sub clavian line placed. #18 angio one in each antecub. 
+    Social: from NH ? person to contact. by PCP pt is full code.  
+    Plan: hydrated, wean dopamine accordingly. follow ABg and wean vent accordingly. Awaiting culture results. 
+    
+",,
+5676,14793,7055,0,2514-03-13 16:39:00 EST,2514-03-13 16:47:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+NEURO: PT REMAINS SEDATED ON FENTANYL AND VERSED GTTS. PT WILL OPEN EYES TO VOICE, NOT FOLLOWING COMMANDS. MAE. 
+
+RESP: PT REMAINS ON AC 500X16 PEEP5 FIO2 DECREASED TO 40% PER LAST ABG, 7.44/42/204. LS COARSE. SUCTIONED FOR MED AMT THICK YELLOW SECREATIONS. CHEXT XRAY DONE THIS AFTERNOON. 
+
+CV: HR 55-70'S NSR, SBP 88-120'S. ABLE TO WEAN OFF DOPAMINE THIS AFTERNOON. PT GIVEN FB TO TOTAL 2L. CVP 6-15. AFEBRILE. AFTERNOON K+ 5.2 DOWN FROM 5.9 THIS AM. 3GMS CA+ GIVEN THIS AFTERNOON. 
+
+GI/GU: ABD SOFT, DISTENDED, +BS, NO BM. FOLEY INTACT DRAINING CLEAR YELLOW URINE 160-280CC/HR. NGT CLAMPED. RENAL US DONE AT BEDSIDE. 
+
+ACCESS: LEFT SUBCLAVIAN TLC PULLED BACK 1/2 CM BY MD. NOW WHITE PORT FLUSHES WELL. 
+
+DISPO: PT'S NIECE AND GREAT NIECE ARE HER ONLY FAMILY. NIECE IS HCP. FAMILY SPOKE WITH MD THIS AFTERNOON. PLAN IS TO CONT TO MONITOR SBP, TREAT WITH FLUID. RECHECK K+ AT 2000. PT IS A FULL CODE. 
+",,
+5676,14793,7055,0,2514-03-13 18:35:00 EST,2514-03-13 18:36:00 EST,5249,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated on full mechanical support.  FiO2 weaned d/t PaO2 >200.  Currently on A/C ventilation w/ PIP/Pplat = 30/25.  BS slightly coarse, suctioned for small to moderate amounts of thick light yellow sputum.  See resp flowsheet for specific vent settings/data.  ETT remains secure/patent & in good position.
+
+Plan: maintain support; continue to assess readiness to wean...
+",,
+5676,14793,7055,0,2514-03-14 04:54:00 EST,2514-03-14 05:16:00 EST,7748,"N",69,"Nursing/Other",,"
+
+[**Age over 90 **] yr old female came in from NH with COPD excaberation increase legarthy hypotension met/ acidosis ARF, PNA. 
+
+Neuro  pt does open eyes to voice.  Currently on fentanyl 75mcg /kg/min and versed .5/mg/hr.  pupils equal and dilated. Pt appears to be very anxious at times especially when trying to admininster any nsg care.  Did give a few boluses as needed through this shift of both versed and fentanyl.Unable to follow commands. 
+
+Resp pt vent setting remain the same Fio2 @ 40%/ VT500 Peep5 BPM16.Lung sounds are coarse throughout diminshed at bases Pt SX for thick white secretions.  
+
+CV pt received 2X 500 boluses for low B/P.  MAP above 60 to 65 current Bp 117/50 HR   66.  Pt has HX of CHF with E/F being at 50% K+ was 5.5 @ 2000 draw.  15 gm of kaylexate adminstered.NG tube patent and inplace. Soft wrist  restraints on
+
+GI/GU  Renal in to see pt today  will follow but they doubt she will need dialysis.  Foley in place draining clear  yellow urine Pt has hypoactive B/S.  No stool this shift.
+
+
+Access left subclavian and peripheral IV arm antecubital
+Pt also has alot of pain in hip area,  Difficult to move in bed becomes anxious. Also has HX of spinal stenosis.    
+.            
+",,
+5676,14793,7055,0,2514-03-14 05:54:00 EST,2514-03-14 05:57:00 EST,7748,"N",69,"Nursing/Other",,"
+
+Cont  Pt AM labs  WBC 16.0 HCT 26.2 HGB 9.0 NA 140/K 5.1/CO2 27 BUN 64 Creat2.0  Pt gets extremly tachy and agitated upon any movement in bed  
+",,
+5676,14793,7055,0,2514-03-14 06:02:00 EST,2514-03-14 06:05:00 EST,1341,"N",69,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt remains intubated and fully ventilated on AC settings.  No vent changes made.  BLBS are diminished.  Unable to do RSBI d/t no spontaneous respirations.
+
+",,
+5676,14793,7055,0,2514-03-14 16:30:00 EST,2514-03-14 16:33:00 EST,5249,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated on full mechanical support.  Currently on A/C ventilation w/ PIP/Pplat = 34/25.  Attempted PSV wean x2 this shift after RSBI = 93, pt was apneic during both attempts for >60seconds w/ SpO2 drop to 85% despite pt being alert and able to follow commands.  Team and RN aware. Will attempt again after sedation is further weaned.  BS diminished, slightly coarse, suctioned for small amounts of thick light yellow sputum.  MDIs given as ordered.  See resp flowsheet for specifics. 
+
+Plan: maintain support; continue wean attempts... 
+",,
+5676,14793,7055,0,2514-03-14 17:43:00 EST,2514-03-14 17:55:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+NEURO: PT WILL OPEN EYES TO VOICE, NOT FOLLOWING COMMANDS, RESPONDS TO PAIN. SEDATION GTT'S DECREASED IN HOPE OF WEANIN FROM VENT. FENTANYL AT 50MCG/HR AND VERSED .5MG/HR. 
+
+RESP: NO CHANGES MADE ON VENT. ATTEMPTED TWICE TO PLACE ON PS, BOTH TIMES PT APNEIC AND DESATING INTO 80'S. LS COARSE, SUCTIONED FORM SMALL AMT PALE YELLOW SECREATIONS. 
+
+CV: HR 50-80'S NSR, SBP 88-140'S. AFEBRILE. PT GIVEN 500CC NS FB AND STARTED ON MAINTENCE FLUID AT 100CC/HR NS. PM K+4.9, DOWN FROM 5.1. 
+
+GI/GU: ABD DISTENDED. +BS. PT GIVEN PO LACTULOSE TO START MOVING BM. PT HAD LG AMT LIQUID STOOL THIS AFTERNOON. MUSHROOM CATH IN PLACE. FOLEY INTACT DRAINING 40-100CC/HR YELLOW URINE. 
+
+DISPO: PLAN IS TO CONT TO ATTEMPT TO WEAN OF VENT. ATTEMPT TO PLACE ON PS TONIGHT. PT'S NIECE TOOK HOME DENTURES AND WATCH. PT IS A FULL CODE. 
+",,
+5676,14793,7055,,2514-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-15**] 6:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13140**]
+     Reason: interval change                                             
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old woman with CHF/COPD with worsening hypoxia, leukocytosis s/p   
+      left subclavian line placement           
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 6:21 A.M.
+     
+     HISTORY:  CHF and COPD.  Left subclavian line change.
+     
+     IMPRESSION:  AP chest compared to [**3-13**]:
+     
+     Nasogastric tube is looped proximally in the hypopharynx and passes distally
+     into the stomach and out of view.  ET tube and left subclavian line in
+     standard placements.  Heart size normal, increased slightly since [**3-13**]. 
+     Lungs grossly clear.  No pneumothorax or pleural effusion.  Findings discussed
+     with Dr. [**Last Name (STitle) 13141**] by telephone at the time of dictation.
+                                                                           
+
+",,
+5676,14793,7055,0,2514-03-15 05:35:00 EST,2514-03-15 05:38:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: pt continues intubated and on ventilatory support with a/c, rate decreased maintaining acceptable abg; bs coarse crackles, sxn minimal thick white secretions, rx with mdi combivent, rsbi 52, will attempt sbt in am.
+",,
+5676,14793,7055,0,2514-03-15 05:43:00 EST,2514-03-15 06:02:00 EST,7748,"N",69,"Nursing/Other",,"
+
+[**Age over 90 **] yr old female COPD excaberation Hypotension, PNA, from NH. 
+
+Neuro pt awake at times throughout shift.  Becomes very anxious when touched or moved. Weaned down fentanyl to 30 mcg/kg/hr then shut off at 500 am.  pupils equal and reactive.  Unable to assess orientation. Pt remaied afebrile. Pt also being weaned from ventilator.
+
+Resp current vent settings at 40Fio2 /500 / 5 peep/ 12 BPM/ pt did well on rsbi and will possibly be extubatd today.  Pt sx for thick white sputum with coarse lungs sounds bilaterally. 4Am gases 7.35/46/115/26
+
+CV 50-90's b/p 90/50-to 140/50 Aline in with maps over 65. Tracing not accurate at times due to pt clamping hand tightly. Am labs 142NA 4.0K+ 108 Chl 25 Co2 61 BUN Creat 1.5. Removed peripheral IV in left antecub  unable to flush has 3 lumen with CVP line on left side.  A line on right.  
+
+GI/GU abd distended positive B/S  mushroom cath on with thick   drainage only  in tubing overnight. Lactulose and Colace given as ordered.  Foley in place draining adequate amt of clear yellow orine Pt had last 1 liter bag N/S @ 100.  F/s low 100's
+
+
+Skin dry intact skinappears to be very thin in areas 
+ will continue to wean off vent possibley extubate              
+",,
+5676,14793,7055,0,2514-03-15 06:46:00 EST,2514-03-15 06:48:00 EST,7748,"N",69,"Nursing/Other",,"
+
+[**3-15**] addendum  fentanyl remians on at 30/mcg/kg  versed is off  Pt currently put on spontaneous breathing  trial  6:45 AM) pressure support@ 5 
+",,
+5676,14793,7055,0,2514-03-15 14:52:00 EST,2514-03-15 15:00:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: PLACED ON SPONT. BREATHING TRIAL. EXTUBATED AT 10AM WITHOUT DIFFICULTY. NO C/O SOB. O2 SATS 96-98%. NON PRODUCTIVE COUGH. BS'S CLEAR. 
+GI: TAKING WATER WITHOUT ASPIRATION. SHE FEELS DRY. LIPS DRY. + BS. CONT. PASSING LOOSE STOOL VIA MUSHROOM CATH. SENT FOR C-DIFF. LACTULOSE HELD AT 14PM. SHOULD BE ABLE TO ADVANCE HER DIET. 
+RENAL: FOLEY DRAINING CLEAR URINE. IVF'S D/C'ED. CREAT 1.5. 
+NEURO: FENT. D/C'ED POST EXTUBATION. AWAKE. DISORIENTATED. SCARED. HER MENTAL STATUS HAS CLEARED SINCE EXTUBATION, BUT NO MEMORY OF HER ADMISSION TO THE EW OR THE MICU. SHE DID STATE THAT SHE'D BEEN HERE BEFORE. 
+CV: HEMODYNAMICALLY STABLE. 
+ID; CONT. ON ANTIBIOTICS. AWAITING SPUTUM CX RESULTS. 
+ORTHO: NO C/O HIP PAIN.
+ACCESS: A-LINE D/C'ED. DAMPENING AND UNABLE TO DRAW. 
+SOCIAL: NIECE CALLED AND VERY HAPPY TO HEAR THAT SHE WAS EXTUBATED. WILL VISIT LATER.
+",,
+5676,14793,7055,0,2514-03-15 16:37:00 EST,2514-03-15 16:38:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt weaned and extubated to 3 l/m nc.  Recieving albuterol/atrovent via mask neb.
+",,
+5676,14793,7055,0,2514-03-15 20:52:00 EST,2514-03-15 20:59:00 EST,117,"N",69,"Nursing/Other","MICU NPN 3PM-11PM:","
+MICU NPN 3PM-11PM:
+Neuro: Pt awake and slightly confused. C/O being dizzy and feeling like she will fall out of bed. I found her pulling at IV lines and taking off BP cuff and pulling at foley intermittently. Visited by [** **] who initially felt her to be way off her normal mental status but felt she cleared after a little while. I explained to her [** **] that she was on sedatives until 10AM today and it will take time for them to come out of her system. I told her we would look into any changes in mental status changes if she does not clear in the next few days. Pt follows commands but is forgetful.Will assess for need for soft wrist restraints as the night progresses.
+
+CV: BP and HR stable post extubation.
+
+Resp: Pt remains on 3L N/C with sat 99%. Lungs clear deminished at bases. RR 20's.
+
+GI: NPO for now overnight and will advance diet as tolerated tomorrow. Mushroom in place drained very little this shift.
+
+GU: UO adequate via foley.
+
+ID: Afebrile on vanco/zosyn.
+
+Skin: Pt with generalized edema throughout body. Bruising noted on arms/abdomen.
+
+Social: [**First Name9 (NamePattern2) **] [**Name (NI) 838**] in to visit today and pleased with her progress although concerned about her forgetfulness and slight confusion.
+
+
+",,
+5676,14793,7055,0,2514-03-16 04:46:00 EST,2514-03-16 05:03:00 EST,896,"N",69,"Nursing/Other","Nursing Progress note 2230-0700","
+Nursing Progress note 2230-0700
+Review of Systems:
+
+Neuro: Pt sleeping intermit, easily woken and appropriate. Follows commands consistantly, but oriented to self only. Denies pain. Turning self to R side, stating she can only [**Doctor Last Name 5**] on R.
+
+Resp: Sating 99-100% on 3l NC. RR 13-19 and regular. Lung snds clear->coarse in upper lobes, diminished in bases. Non-productive cough.
+
+CV: HR 65-74SR without ectopy. BP 104/61-145/68. AM Hct 26.6(27.5), other labs pndg. 
+
+GI: Pt NPO until am while mental status returning to baseline post extubation. Abd soft/obese with + bowel snds. Mushroom cath draining small amts liquid brown stool. Lactulose held.
+
+GU: Urine light yellow/clear, draining @ 40-60ml/hr via foley. 
+
+ID: Afebrile. AM WBC 15.4(17.2).
+
+Access: Site of LSC bldg small amt, result of pt's previous restless behavior.
+
+Plan: Cont transition of pt out of ICU to floor. Advance diet when pt fully awake and mental status @ baseline.
+
+
+",,
+5676,14793,7055,0,2514-03-16 13:22:00 EST,2514-03-16 13:32:00 EST,117,"N",69,"Nursing/Other","MICU NPN 7AM-3PM:","
+MICU NPN 7AM-3PM:
+Neuro: Pt awake and alert. Oriented times three for the most part. Follows commands. MAE weakly. Moans constantly with each breath but says her breathing is fine. [**Doctor Last Name **] lifter to chair as requested by team. Pt did not want to get up to chair and said she was too tired because she did not [**Doctor Last Name 5**] at all last night.
+
+Resp: Was on 3L N/C this AM when she developed increased SOB, increased rhonchi and had difficulty coughing out some sputum. Cough was weak and pt desaturated to 95%. Seen by RT at that time who gave her a neb and NT suctioned her for thick yellow sputum. After this episode we have applied 50% cool neb to loosen secretions. Continues to have dry cough. Sat 99% with RR 20. Lungs coarse with deminished sounds at bases. CXR from [**3-15**] shows no infiltrate. We are tapering her steroids daily.
+
+CV: BP 100-140's HR 70's sinus rhythm most of the time but went up to 110-120 with the episode of resp distress. Back down after NT suction done. Denies chest pain. Labs WNL.
+
+GI: Tolerating sips clear liquids but diet kept to a minimum due to this AM's resp distress. Abdomen softtly distended, obese. +BS no stool this shift. Mushroom catheter removed. c-diff specimen results pnd
+
+GU: Foley draining good amts yellow urine. BUN/Cr improved.
+
+ID: afebrile on vanco and zosyn. Sputum growing staph aureus.
+
+Heme: Stool has been OB+ hct down to 26 today, will follow.
+
+Social: Pt's [**Month/Day (4) **] called for update and will visit this evening.
+
+Plan: Encourage OOB to chair, incentive spirometry if she can do it. CPT/NT suction PRN
+
+
+",,
+5676,14793,7055,0,2514-03-16 17:59:00 EST,2514-03-16 18:00:00 EST,117,"N",69,"Nursing/Other","NPN 3PM-7pM:","
+NPN 3PM-7pM:
+Pt with stable vital signs. Continues to moan constantly with each breath she takes. DOE noted. Passing flatus. Taking small amts PO's. Tolerating this well. IVF at KVO d/c'd CVP monitoring.
+",,
+5676,14793,7055,0,2514-03-17 04:51:00 EST,2514-03-17 05:10:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 19:00-7:00","
+ficu nsg note: 19:00-7:00
+this is a [**Age over 90 **] y.o. woman adm [**2514-3-12**] who was recently adm for hip pain and pna, sent from nh with hypotension, unresponsiveness, found to be acidotic, intubated, received ivf, hyperkalemia corrected and hypotension tx'd with iv dopamine. pna tx'd with ivabx. pt extubated [**3-15**] and now being tx'd with iv zosyn for s. aureus found in sputum and ? severe bronchitis. pt had an episode of resp distress with a mucous plugging yesterday in the am and nc was switched to help loosen the thick secretions. pt given cpt and enc. to cough and deep breathe overnight-able to cough up thick secretions in the late eve and remained clear overnight with stable 02 sats. 
+
+neuro: a&ox3 with cueing. very weak and requires max assist with adls. she is w/c bound at baseline at nsg home. pt was oob via [**Doctor Last Name **] x 3hrs yesterday day. mae. follows command appropriately. sometimes difficult to understand as pt can be soft spoken with very heavy NY accent. 
+
+cv: hr ranging 60s-70s sr with no ectopy noted. bp ranging 100s-130s/40s-50s. +weak pp, 2+ pedal edema. warm, dry, intact.
+
+resp: lungs coarse in upper lobes- cleared after cpt and coughing and deep breathing with pt coughing thick yellow sputum into back of throat and this rn suctioning it out via yankaeur. sp02 ranging 99-100% on 50% cool neb. 
+
+gi/gu: abd obese nt, +bs, able to take pills with water. foley patent draining adequate amt clear yellow urine with even balance since mn and approx 3l + los. 
+
+skin: very fragile bilat forearms- paper thin skin with mult bruising in these areas. 
+
+comfort: denies pain but c/o her bed being uncomfortable when pt awake. 
+
+lines: l tlcl patent. 
+
+social: no contact with [**Doctor Last Name **] this shift. 
+
+id: t max 98.1po. continues on iv zosyn.
+
+plan: continue aggressive pulm toilet with cpt, incentive spirometry use, enc. to cough and deep breathe, ivabx, monitor temp, oob to chair qd, ? call out to floor today. 
+",,
+5676,14793,,,2514-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-21**] 2:09 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13142**]
+     Reason: Please place midline or PICC.  **The patient is scheduled fo
+     Admitting Diagnosis: SEPSIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with MRSA pneumonia with need for 3 more days of IV 
+      vancomycin.   IV nurse unable to place at bedside
+     REASON FOR THIS EXAMINATION:
+      Please place midline or PICC.  **The patient is scheduled for discharge today** 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and need for IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 128**], the
+     attending radiologist present and supervising.  The left upper arm was prepped
+     in a sterile fashion.  Since no suitable superficial vein was visible,
+     ultrasound was used for localization of a suitable vein.  The left brachial
+     vein was patent and compressible.  After local anesthesia with 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  A 0.018 guide wire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers on the guide wire, it was determined that a
+     length of 37 cm would be suitable.  The PICC was trimmed to length and
+     advanced over a 4-French introducer sheath under fluoroscopic guidance into
+     the superior vena cava.  The sheath was removed and the catheter was flushed.
+     A final chest x-ray was obtained demonstrating the tip in the superior vena
+     cava.  The line is ready for use.  A StatLock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of a 37-cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+
+",,
+5676,14793,,,2514-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2514-3-21**] 2:09 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 13142**]
+     Reason: Please place midline or PICC.  **The patient is scheduled fo
+     Admitting Diagnosis: SEPSIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with MRSA pneumonia with need for 3 more days of IV 
+      vancomycin.   IV nurse unable to place at bedside
+     REASON FOR THIS EXAMINATION:
+      Please place midline or PICC.  **The patient is scheduled for discharge today** 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and need for IV antibiotics.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 128**], the
+     attending radiologist present and supervising.  The left upper arm was prepped
+     in a sterile fashion.  Since no suitable superficial vein was visible,
+     ultrasound was used for localization of a suitable vein.  The left brachial
+     vein was patent and compressible.  After local anesthesia with 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  A 0.018 guide wire was advanced under fluoroscopy into the superior
+     vena cava.  Based on the markers on the guide wire, it was determined that a
+     length of 37 cm would be suitable.  The PICC was trimmed to length and
+     advanced over a 4-French introducer sheath under fluoroscopic guidance into
+     the superior vena cava.  The sheath was removed and the catheter was flushed.
+     A final chest x-ray was obtained demonstrating the tip in the superior vena
+     cava.  The line is ready for use.  A StatLock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of a 37-cm total length PICC line with the
+     tip in the superior vena cava, ready for use.
+
+",,

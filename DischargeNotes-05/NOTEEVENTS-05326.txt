@@ -1,0 +1,382 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5326,,,,3212-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-8-31**] 12:55 PM
+     HAND (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 10234**]
+     Reason: s/p fall. Swollen, painful hand.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with trauma to r hand.
+     REASON FOR THIS EXAMINATION:
+      s/p fall. Swollen, painful hand.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post fall with right hand pain and swelling.
+     
+     RIGHT HAND, THREE VIEWS:  No comparisons.  The bones are diffusely
+     demineralized.  There are severe osteoarthritic changes involving the
+     interphalangeal joints, with associated osteophyte formation.  No definite
+     fracture is seen.  Tiny ossific density adjacent to the base of the first
+     proximal phalanx, likely relates to degenerative change, rather than
+     representing a tiny avulsion fracture.  There are also degenerative changes
+     involving the first carpal metacarpal joint.  There is no bone destruction.
+     
+     IMPRESSION:  Severe osteoarthritic changes.  No definite fracture identified.
+
+",,
+5326,21640,,,3212-09-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3212-9-10**]     Discharge Date:  [**3212-9-14**]
+
+Date of Birth:   [**3115-1-29**]     Sex:  F
+
+Service:
+
+ADDENDUM:  Over the last 48 hours, the patient had a
+hematocrit that was 27.7 after a baseline for 48 hours of
+between 30 and 31.  She received two units of packed red
+blood cells.  Her hematocrit was stable after this at 34.
+She showed no clinical evidence of a hemodynamically
+significant bleed and I suspect the low reading was within
+the error of the laboratory.
+
+The patient also reported some left ankle and foot pain,
+being unable to weight bear.  When Physical Therapy came by
+to see her, she had films of both her left ankle and left
+foot, which showed no evidence of fracture.  However, both
+films did demonstrate significant osteopenia.  The patient
+was able to fully weight bear on a rigid sole postoperative
+shoe.
+
+DISCHARGE MEDICATIONS:  Please see old discharge summary.
+
+DISPOSITION:  Discharged to short term nursing facility.
+
+DISCHARGE STATUS:  Stable.
+
+
+
+                          [**First Name11 (Name Pattern1) 1715**] [**Last Name (NamePattern1) 1716**], M.D.  [**MD Number 1717**]
+
+Dictated By:[**Name8 (MD) 6084**]
+
+MEDQUIST36
+
+D:  [**3212-9-14**]  08:59
+T:  [**3212-9-17**]  14:26
+JOB#:  [**Job Number 6241**]
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: MON [**3212-9-17**] 9:28 PM
+(End of Report)
+
+
+",,
+5326,21640,,,3212-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 10235**]
+     Reason: BLOOD PER RECTUM. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 10236**] year old female with h/o diverticulosis presents with 
+     rectal bleeding.
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells
+     labeled with Tc-99m, blood flow and delayed images of the abdomen for 75 minutes
+     were obtained.
+      
+     Blood flow images show prompt distribution of tracer through the major abdominal
+     vasculature.
+      
+     Delayed blood pool images show prompt extravasation of blood in the left upper
+     quadrant, in the region of the splenic flexure from the first minute through the
+     seventy-fifth minute.
+      
+     IMPRESSION:  Positive GI bleed in the region of the splenic flexure. /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 1586**] [**Last Name (NamePattern1) 10237**], M.D.(dictated)
+             [**First Name8 (NamePattern2) 1174**] [**Last Name (NamePattern1) 1175**], M.D.         Approved: MON [**3212-9-10**] 1:32 PM
+
+
+             Date Mailed: [**3212-9-11**]                     West [**Medical Record Number 10238**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5326,21640,6609,0,3212-09-10 03:24:00 EST,3212-09-10 03:48:00 EST,1631,"N",69,"Nursing/Other",,"
+
+MICU NSG ADMISSION NOTE
+Ms. [**Known patient lastname 8438**] is a [**Age over 90 **]yo assisted living resident who has been in her usual state of health until past few days when she states she has been ""falling alot"" at home.  Multiple old bruises noted on torso, upper arms.  Last evening PTA she had 2 episoded of BRB PR, came to [**Hospital1 2**] ER.  PMH significant for CAD, CVA with minimal residual effects, depression, asthma, GERD, diverticulosis by C-scope, PAF, PVD, hemorrhoids, h/o falls, S/P appy, glaucoma and HTN.  Allerg->PCN (rash) and ASA (rectal bleeding).  In ER pt treated with fluids and PRBC.  Baseline Hct=37; Hct in ER 29 range prior to PRBC.  Pt S/B surgery and GI in ER.  Tagged RBC scan done; results pending.  Pt does have a daughter [**First Name4 (NamePattern1) 2346**] [**Last Name (NamePattern1) 8439**] ([**Telephone/Fax (1) 8440**]) who is involved in her care, lives locally ([**Location (un) 2388**]) and pt had a son who was a cardiologist but expired at age 38 due to MI.  
+
+CURRENT STATUS:
+
+See carevue for subjective/objective data.  Pt arrived to ICU via stretcher at 0330.  PRBC #2 infusing upon arrival.  Neuro:  A+Ox3.  Speech clear.  MAE ad lib.
+
+CV/Pulm:  VSS.  MP=NSR, no VEA noted.  BP 120's-130's/50's.  Periph IV's x2.  PRBC second unit hung in ER infusing.  Room air with coarse breath sounds bil.  No SOB or DOE noted. 
+
+GI/GU:  NPO.  Abd soft, tender but not tense.  No BM since arrival to ICU.  Three way foley placed with one attempt; irrigant port clamped.
+
+ID:  Afebrile.  No abx at this time.
+
+IV:  PRBC completed with no adverse reactions noted.  NS 500ml bolus infusing to be followed by D5and [**11-29**] at 75ml/hr.  Will rpt Hct btw 0530-0600.  
+
+Psychosocial:  Pt sleeping once settled in room.  No visitors with pt. 
+
+Plan:  Monitor VS, Hct, ? scope in AM.  
+",,
+5326,21640,6609,0,3212-09-10 05:24:00 EST,3212-09-10 05:25:00 EST,1631,"N",69,"Nursing/Other",,"
+
+MICU ADDENDUM
+Pts belongings (clothes) in bag in pt room.  Pt has upper dentures only, no lower dentures--dentures in denture cup with pts name on cup at bedside.
+",,
+5326,21640,6609,0,3212-09-10 15:58:00 EST,3212-09-10 16:08:00 EST,1630,"N",69,"Nursing/Other","S/P LOWER GI BLEED","
+S/P LOWER GI BLEED
+D: PT A&O THIS AM. MAX TEMP=99.5 PO AND WBC=13.8. PT ON RM AIR WITH O2 SATS>96%. LUNGS COARSE ON AUSCULTATION. HR 70-90'S WITH SBP 119-157. HCT HIS AM AFTER A TOTAL OF 2 U PRBC'S HAD BEEN TRANSFUSED SINCE ADMISSION WAS 29.3 SO AN ADDITIONAL 3RD UNIT WAS GIVEN AND HCT AT 1200=30.6. WILL RECHECK HCT THIS AFTERNOON AND THEN AGAIN 4 HRS LATER AND  WILL TRANSFUSE IF HCT <27. PASSING FLATUS BUT NO MELANOTIC STOOL. RESULTS OG BLEEDING SCAN DONE LAST NOC REVEALED BLEEDING AT SPLENIC FLECTURE. DECISION MADE TO TX CONSERVATIVELY AT PRESENT. DR. [**Last Name (STitle) 8441**] FEELS THAT ONE OF HER DIVERTICULUM REBLED ANDTHAT IT HAS STOPPED RIGHT NOW. DR. [**First Name (STitle) 1809**] SPOKE WITH PT'S DAUGHTER AND A GRANDSON IN [**First Name5 (NamePattern1) 8442**] [**Last Name (NamePattern1) **] IS A RADIOLOGIST AND DECISION MADE NOT TO TAKE PT TO ANGIOGRAPHY. MEDICVAL TEAM AWARE AND WILL FOLLOW HCTS AS ORDERED AND IF PT REBLEEDS WIL NEED TO DISCUSS TX AT THAT TIME. PT RECEIVED D51/2 NS AT 75CC'S/HR AND NOW TOLERATINP CLEAR LIQS SO IV D/C'D. WILL ADVANCE DIET AS TOLERATED WHEN CLEARED BY MEDICAL TEAM. PT HAS 2 PIV'S- 18G SL. PT'S DAUGHTER EXPECTED TO VISIT THIS AFTERNOON AND PT REMAINS A FULL CODE.
+",,
+5326,21640,,,3212-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-9-12**] 1:17 PM
+     ANKLE (AP, LAT & OBLIQUE) LEFT                                  Clip # [**Clip Number (Radiology) 10239**]
+     Reason: possible h/o fall and ttp over talus anteriorly, but no limi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with diverticulosis and PUD
+     REASON FOR THIS EXAMINATION:
+      possible h/o fall and ttp over talus anteriorly, but no limited ROM
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall. Tender ankle.
+     
+     LEFT ANKLE 3 VIEWS: Generalized demineralization. Scattered phleboliths.
+     Vascular calcifications. Spur off dorsum of talus distally. No fractures or
+     significant degenerative changes identified. Generalized soft tissue swelling
+     throughout the foot, ankle and lower portion of lower leg.
+     
+     IMPRESSION: No fracture. Generalized soft tissue swelling most consistent with
+     venous stasis.
+
+",,
+5326,21640,,,3212-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-9-13**] 1:44 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 10240**]
+     Reason: eval cause for pain over shaft and neck of first metatarsal.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 3-4 days new onset pain in L first metatarsal, never had
+      before, doesn't remember fall but h/o multiple falls in past. 
+     REASON FOR THIS EXAMINATION:
+      eval cause for pain over shaft and neck of first metatarsal.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS;  Evaluate cause for pain over shaft and neck of first metatarsal
+     bone.  Discomfort for three to four days, never has similar pain before  Does
+     not remember specific injury but had multiple falls in the past.
+     
+     FINDINGS: Diffuse mineralizations noted.  No acute fracture can be identified.
+     Specifically, there is no fracture anywhere in the first metatarsal.
+     Degenerative changes are present with marked reduction of the point distance
+     between the first cuneiform - first metatarsal bone with increased sclerosis
+     and some osteophytic reactions.  moderate degree of hallux valgus deformity is
+     present and a hammer toe deformity of the third toe is noted with cross over
+     phenomenon over digit 4.
+     
+     IMPRESSION:  No acute fracture, degenerative changes as described.
+
+",,
+5326,,,,3212-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-12-6**] 11:27 AM
+     LUMBO-SACRAL SPINE (AP & LAT); BILAT HIPS (AP,LAT & AP PELVIS) BILATClip # [**Telephone/Fax (1) 10241**]
+     Reason: r/o fracture, r/o fracture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LBP/ tenderness s/p fall
+     REASON FOR THIS EXAMINATION:
+      r/o fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall, ? fractures.
+     
+     FIVE VIEWS OF THE LUMBAR SPINE, SINGLE, AP PELVIS AND TWO VIEWS OF THE RIGHT
+     AND LEFT FEMUR:
+     
+     Lumbar spine:  There is a compression fracture at L1 which appears to be
+     chronic in nature.  There is diffuse vascular calcification seen in the aorta.
+     No acute fractures are appreciated.
+     
+     Pelvis:  The pelvis appears intact.  Degenerative changes are noted in the
+     right femoral head.
+     
+     BILATERAL FEMUR:  Femurs demonstrate normal anatomical alignment.  No
+     fractures are identified.
+     
+     IMPRESSION;
+     
+     1.  No acute fractures identified.
+     2.  Chronic appearing compression fracture at L1.
+
+",,
+5326,,,,3212-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-12-6**] 12:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10242**]
+     Reason: r/o hemorrhage
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p fall face forward w/ severe headache
+     REASON FOR THIS EXAMINATION:
+      r/o hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Severe headache.  Fell face forward.
+     
+     Comparison:  [**3212-2-25**].
+     
+     TECHNIQUE;  Non-contrast head CT.
+     
+     CT HEAD W/O CONTRAST:  There is no parenchymal or extra-axial hemorrhage.  The
+     ventricles and sulci are prominent, consistent with moderate brain atrophy.
+     There is white matter hypodensity in a periventricular and subinsular
+     distribution, consistent with chronic microvascular infarction. The [**Doctor Last Name 20**]/white
+     distinction is preserved.  There is no shift of normally midline structures or
+     mass effect.
+     
+     There is a fracture of the nasal bone.  There are chronic changes of the right
+     maxillary sinus with mucosal thickening and proliferative change of the
+     lateral wall.  There appears to be post-surgical changes in the region of the
+     ostio meatal complex.
+     
+     IMPRESSION:
+     1)  Nasal bone fracture.
+     
+     2)  Unchanged appearance of brain atrophy,white matter ischemic disease and
+     chronic right maxillary sinus findings.
+     3)  No intracranial hemorrhage.
+     
+
+",,
+5326,,,,3212-12-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3212-12-6**] 11:27 AM
+     LUMBO-SACRAL SPINE (AP & LAT); BILAT HIPS (AP,LAT & AP PELVIS) BILATClip # [**Telephone/Fax (1) 10241**]
+     Reason: r/o fracture, r/o fracture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LBP/ tenderness s/p fall
+     REASON FOR THIS EXAMINATION:
+      r/o fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall, ? fractures.
+     
+     FIVE VIEWS OF THE LUMBAR SPINE, SINGLE, AP PELVIS AND TWO VIEWS OF THE RIGHT
+     AND LEFT FEMUR:
+     
+     Lumbar spine:  There is a compression fracture at L1 which appears to be
+     chronic in nature.  There is diffuse vascular calcification seen in the aorta.
+     No acute fractures are appreciated.
+     
+     Pelvis:  The pelvis appears intact.  Degenerative changes are noted in the
+     right femoral head.
+     
+     BILATERAL FEMUR:  Femurs demonstrate normal anatomical alignment.  No
+     fractures are identified.
+     
+     IMPRESSION;
+     
+     1.  No acute fractures identified.
+     2.  Chronic appearing compression fracture at L1.
+
+",,
+5326,16338,,,3213-05-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 10243**]
+     Reason: GI BLEED. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 10244**] year old woman with h/o lower GI bleed, presents with   
+     continued GI bleeding.
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells
+     labeled with Tc-99m, blood flow and delayed images of the abdomen for 90 minutes
+     were obtained.
+      
+     Blood flow images show prompt filling of the aortoiliac system.  There is an
+     apparent varix starting from the right distal iliac which travels
+     superolaterally. 
+      
+     Delayed blood pool images show absence of GI bleed.
+      
+     IMPRESSION:  No evidence of GI bleed.  Prominent vessel or varix emanating from
+     the right iliac vessels. /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 1586**] [**Last Name (NamePattern1) 10237**], M.D.
+             [**First Name11 (Name Pattern1) 8**] [**Last Name (NamePattern1) 9**], M.D.        Approved: FRI [**3213-5-31**] 4:31 PM
+
+
+             Date Mailed: [**3213-6-3**]                     West [**Medical Record Number 10238**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5326,16338,6610,0,3213-05-30 04:50:00 EST,3213-05-30 05:27:00 EST,2246,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+[**3213-5-30**] 6am
+neuro: aox3 some confusion wanting to get oob because family will be cominmg to visit , worried that her pcp does not know she is in hospital. woke up in middle of night not knowing where she is.
+cad 90-80's with occas pvc's b/p 107-133 capotpril held at 6am for b/9 97 systolic.
+resp ls clear sats mid 90's on ra
+gi: abd soft distened. + flatus no bloody stools red tag scan negative
+gu: uo 30-60cc/hr foley cath seems to be bothering pt some. ?has the feeling her bladder is full. ns 2 nd liter
+id: afebrile
+hct: 2nd unit of blood infused. follow-up hct at 2am 30.1 no additional units given.
+plan: cont to monitor hct, vs and labs, provode emotional support
+",,
+5326,,,,3213-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3213-8-15**] 12:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10245**]
+     Reason: chest pain, sob, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 
+     REASON FOR THIS EXAMINATION:
+      chest pain, sob, 
+     ______________________________________________________________________________
+     WET READ: [**First Name8 (NamePattern2) 2252**] [**Last Name (NamePattern1) 70**] [**3213-8-15**] 1:12 AM
+      stable cardiomegaly with mild CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP UPRIGHT CHEST RADIOGRAPH
+     
+     CLINICAL INDICATION: Chest pain, shortness of breath.
+     
+     COMPARISON: [**3212-2-25**]
+     
+     There is stable cardiomegaly.  There is slight perihilar haziness.  There are
+     no consolidations or pleural effusions.  Mediastinal contours appear normal.
+     Soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION: Cardiomegaly with mild CHF.
+     
+
+",,

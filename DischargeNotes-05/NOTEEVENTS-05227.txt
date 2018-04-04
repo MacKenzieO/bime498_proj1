@@ -1,0 +1,414 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5227,934,,,2799-05-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2799-5-24**]       Discharge Date:  [**2799-6-2**]
+
+Date of Birth:   [**2725-8-13**]       Sex:  F
+
+Service:  Cardiothoracic Service
+
+CHIEF COMPLAINT:  The patient is a 72-year-old woman with
+chest pain and acute myocardial infarction status post failed
+thrombolytic therapy at an outside hospital transferred to
+[**Hospital1 75**] of cardiac
+catheterization.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old
+woman with a history of hypertension, hypercholesterolemia,
+and remote tobacco use who was in her usual state of health
+until 7:00 on [**2799-5-23**] when she was dancing at a friend's
+50th anniversary party and noted the onset of substernal
+chest pain.  The intensity was nine out of ten with no
+radiation, no nausea, vomiting, or palpitations, but positive
+diaphoresis.  She had no known coronary artery disease;
+however, she has had intermittent episodes of chest pain
+unassociated with activity which resolved with her husband's
+nitroglycerin spray.
+
+She was scheduled for an outpatient nuclear exercise
+tolerance test MIBI on [**2799-6-1**].  She has had no decrease
+in her exercise capacity, mild lower extremity edema, no
+orthopnea, no paroxysmal nocturnal dyspnea.  She went to the
+[**Hospital6 1338**] following the onset of her chest pain
+where electrocardiogram showed ST elevations in lead I, L,
+and diffuse ST depressions with prominent R waves in V2.  She
+underwent thrombolytic therapy but had persistent chest pain
+and ST elevations and therefore was transferred to [**Hospital1 184**] for cardiac catheterization.
+Please see the catheterization report for full details.
+
+In summary, the catheterization showed three-vessel disease
+with 70-80 percent right coronary artery, 70 percent proximal
+left anterior descending, and 40 percent proximal left
+circumflex with a totally occluded second obtuse marginal.
+At that time, she had a percutaneous transluminal coronary
+angioplasty and stenting of her obtuse marginal two.
+
+PAST MEDICAL HISTORY:  Her past medical history is
+significant for hypertension, hypercholesterolemia, chronic
+obstructive pulmonary disease, bronchiectasis, hiatal hernia,
+gastroesophageal reflux disease, renal insufficiency, gout.
+
+MEDICATIONS:  Her medications prior to admission include
+hydrochlorothiazide 25 mg q.d., Nadolol 10 mg q.d., Prilosec
+20 mg q.d., allopurinol 300 mg q.d., Lipitor 20 mg q.d,
+Combivent two puffs b.i.d., Serevent two puffs b.i.d., and
+lutein.
+
+ALLERGIES:  Her allergies are reported as morphine sulfate
+and Demerol, both of which cause nausea and vomiting.
+
+SOCIAL HISTORY:  She lives in [**Location 6055**] with her husband.
+She [**Doctor Last Name 6056**] in [**State 1356**].  She has a history of tobacco use of
+two packs per day times 15 years.  She quit 30 years ago.
+Alcohol use - Two glasses of wine per night.  She has three
+children, all grown.  She formerly worked in an office.
+
+FAMILY HISTORY:  She had a brother with a myocardial
+infarction who died in his 60s.  Her father died of
+pneumonia. Her mother lived to be 88 years of age, and she
+has a sister with breast cancer.
+
+PHYSICAL EXAMINATION:  In general, the patient was a
+pleasant, white woman in no acute distress.  Her vital signs
+were blood pressure 120/51, heart rate 74, respiratory rate
+23, oxygen saturation 99 percent on three liters.  HEENT -
+Pupils are equal, round, and reactive to light.  Extraocular
+movements intact.  Her sclerae were anicteric.  Oropharynx
+clear.  She had poor dentition and dry mucous membranes.
+Neck - Jugular venous pulse appears flat, no bruits.  Lungs
+are clear to auscultation anteriorly.  Her heart has a
+regular rate and rhythm with normal S1, S2, no murmurs, rubs
+or gallops.  Her abdomen had positive bowel sounds, soft,
+nontender, and nondistended, with no hepatomegaly.
+
+Extremities - The right groin catheterization site was clean,
+dry, and intact with a positive systolic bruit.  She had
+faint, palpable dorsalis pedis pulses bilaterally, no edema.
+Neurological - Alert and oriented times three, nonfocal exam.
+
+LABORATORY DATA:  Sodium 142, potassium 3.7, chloride 106,
+CO2 21, BUN 23, creatinine 2.0, glucose 89, white count 8.8,
+hematocrit 38.4, platelets 232.
+
+HOSPITAL COURSE:  Following her cardiac catheterization, the
+patient was admitted to the Coronary Care Unit.  Her heparin
+and nitroglycerin drips were both restarted, and she was
+started on Plavix.  Cardiothoracic Surgery was consulted.
+The patient was also seen by Vascular Surgery to rule out a
+right groin pseudoaneurysm.  Pulmonary function test were
+completed as were carotid Dopplers.
+
+On [**2799-5-28**], the patient was brought to the operating room.
+Please see the operating report for full details.  In
+summary, the patient had coronary artery bypass grafting
+times two with the left internal mammary artery to the left
+anterior descending and a saphenous vein graft to the
+posterior descending artery.  She tolerated the operation
+well and was transferred from the operating room to the
+Cardiothoracic Intensive Care Unit.
+
+The patient well did well in the immediate postoperative
+period.  Her anesthesia was reversed.  She was weaned from
+the ventilator and successfully extubated.  She remained
+hemodynamically stable throughout this period.  On
+postoperative day one, she remained hemodynamically stable;
+however, there were no beds on the step-down floor, and
+therefore, she remained in the Intensive Care Unit over
+night.
+
+On postoperative day two, the patient's chest tubes and Foley
+catheter were both removed, and she was transferred to [**Hospital Ward Name **]
+Six for continuing postoperative care and cardiac
+rehabilitation.  Over the next several days, the patient
+continued to progress in her activity with the assistance of
+the nursing staff and physical therapy, and by postoperative
+day four, it was decided that she was stable and ready to be
+discharged to home.
+
+DISCHARGE PHYSICAL EXAMINATION:  At the time of discharge,
+the patient's physical examination is as follows:
+Temperature 100, heart rate 79, blood pressure 135/79,
+respiratory rate 18, oxygen saturation 92 percent in room
+air.  In general, she was in no acute distress.  Respiratory
+exam is clear to auscultation bilaterally.  Her heart has a
+regular rate and rhythm.  Her abdomen is soft, nontender and
+nondistended.  Her extremities are warm and well perfused, no
+cyanosis, clubbing or edema.  Incisions - The sternum
+incision is stable.  The incision is clean, dry, and intact
+with Steri-Strips.  The saphenous vein graft site is also
+clean, dry, and intact with Steri-Strips in place.
+
+DISCHARGE LABORATORY DATA:  White count 6.8, hematocrit 33.7,
+platelets 210.  Sodium 139, potassium 4.3, chloride 103, CO2
+26, BUN 21, creatinine 1.5, glucose 88.  Weight
+preoperatively was 79.2 kg.  At discharge, weight is 77.3 kg.
+
+DISCHARGE MEDICATIONS:  The patient's discharge medications
+include atorvastatin 20 mg q.d., metoprolol 25 mg b.i.d.,
+Plavix 75 mg q.d., aspirin 325 mg q.d., Colace 100 mg b.i.d.,
+Prilosec 20 mg q.d., allopurinol 300 mg q.d.,  Combivent two
+puffs b.i.d., Serevent two puffs b.i.d., Lasix 20 mg q.d.
+times seven days, potassium 20 mEq q.d. times seven days, and
+Dilaudid 2-4 mg p.o. q.4-6 hours p.r.n.
+
+DISCHARGE CONDITION:  The patient's condition is stable.
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease status post coronary artery
+    bypass graft times two with a left internal mammary
+    artery to the left anterior descending and saphenous vein
+    graft to the posterior descending artery, status post
+    percutaneous transluminal coronary angioplasty stent
+    placement to obtuse marginal two.
+2.  Hypercholesterolemia.
+3.  Chronic obstructive pulmonary disease.
+4.  Hiatal hernia.
+5.  Gastroesophageal reflux disease.
+6.  Renal insufficiency.
+7.  Gout.
+8.  Right groin pseudoaneurysm.
+
+FOLLOW-UP:  The patient is to be discharged home.  She is to
+have follow-up with Dr. [**Last Name (STitle) 93**] in three weeks.  The phone
+number is [**Telephone/Fax (1) **].  He is from the Vascular Service.  She is
+to have follow-up with Dr. [**Last Name (STitle) 6057**] in four weeks and
+follow-up with Dr. [**Last Name (STitle) **] in four weeks.
+
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 14**]
+
+Dictated By:[**Name8 (MD) 1165**]
+MEDQUIST36
+
+D:  [**2799-6-2**]  12:05
+T:  [**2799-6-2**]  12:18
+JOB#:  [**Job Number 6058**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2799-6-7**] 11:08 AM
+(End of Report)
+
+
+",,
+5227,934,,,2799-05-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2799-5-24**] 2:17 PM
+     ART DUP EXT LO UNI;F/U                                          Clip # [**Clip Number (Radiology) 9343**]
+     Reason: 72 y/o s/p cardiac cath now with femoral bruit on Right.  Pl
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      72 y/o s/p cardiac cath now with femoral bruit on Right.  Please R/O 
+      psuedoaneurysm.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Arterial duplex lower extremity.
+     
+     REASON:  Cardiac catheterization via right groin, now with new femoral bruit,
+     evaluate for pseudoaneurysm.
+     
+     FINDINGS:  Duplex evaluation was performed of the right lower extremity
+     arterial and venous systems with concentration on the inguinal region.
+     
+     No pseudoaneurysm is identified.  However, significant turbulent flow is
+     identified at the level of the common femoral artery and common femoral vein
+     which is consistent with an AV fistula.  The fistula itself, however, was not
+     identified.
+     
+     IMPRESSION:  Likely right groin AV fistula.  There is no evidence of a
+     pseudoaneurysm.
+
+",,
+5227,934,,,2799-05-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2799-5-26**] 1:46 PM
+     VENOUS DUP EXT UNI (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 9344**]
+     Reason:  Vein mapping for CABG                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with   CAD awaiting possible CABG and a history of left 
+      lower extremity vein stripping. Please perform LOWER EXTREMITY VEIN MAPPING for 
+      possible CABG conduit.                                                       
+     REASON FOR THIS EXAMINATION:
+       Vein mapping for CABG                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Venous duplex lower extremity map for DVT.
+     
+     REASON:  Patient with coronary artery disease in need of CABG, status post
+     prior left lower extremity venous procedure.  Perform vein mapping of right
+     leg for conduit.
+     
+     FINDINGS:  Duplex evaluation was performed of both lower extremity superficial
+     venous systems.  The left greater saphenous vein appears to have been
+     surgically removed.
+     
+     The right greater saphenous vein is patent with diameters as follows:  0.29,
+     0.38, 0.46 and 0.55 cm at the ankle, knee, mid-thigh and sapheno-femoral
+     junctions, respectively.
+     
+     IMPRESSION:  Patent right greater saphenous vein with diameters as noted.
+
+",,
+5227,934,,,2799-05-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2799-5-27**] 3:20 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9345**]
+     Reason: ACUTE MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CAD.  Preop for CABG                                     
+     REASON FOR THIS EXAMINATION:
+      Preop for CABG.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preop for CABG.
+     
+     COMPARISON:  None.
+     
+     FRONTAL AND LATERAL CHEST:  Multiple small round nodular opacities are noted
+     in the right upper lung zone.  A focal opacity overlies the anterior first rib
+     on the left with a linear opacity extending to the pleural surface at the
+     apex. The remainder of the lungs are clear and there are no effusions.  The
+     vascularity is normal.  The heart is upper limits of normal in size.  The
+     bones are grossly unremarkable.
+     
+     IMPRESSION:  Multiple right apical nodular densities with  focal density in
+     left apex.  Findings  may represent sequelae from chronic inflammatory/
+     granulomatous disease.  Malignancy is less likely.  Comparison with prior
+     outside studies, if available, is recommended to assess for interval change.
+     If not available, short- term follow up radiographs including an an apical
+     lordotic view to better evaluate the left apical density or CT chest may be
+     helpful to better evaluate. THE ORDERING CLINICIAN WAS NOT AVAILABLE ON THE
+     EMAIL SYSTEM
+
+",,
+5227,934,6487,0,2799-05-28 15:40:00 EST,2799-05-28 16:38:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing Admission Note : S/P Cabg X 2
+
+73 yo wman with h/o COPD-bronchiectasis, Elevated Lipids, HTN, and remote past smoker who presented to OSH with 8/10 CP while dancing.
+Had acute posterolateral STEMI with failed fibrinolysis and sent to [**Hospital1 2**] for rescue PCI. Card cath/PTCA- 3 vessel CAD,totally occluded OM2 with successful PTCA/Stint. Post cath with improvement of CP but not resolution of CP. Referred for CABG.
+
+PMH: HTN, COPD- bronchiectsaia with pseudomonas pneumonia X2, Elevated Lipids, Hiatal Hernia, GERD, H/O Renal insuffiency on Tobra, Gout, Macular Degeneration, and pt is HOH-wears bil hearing aids.
+Past smoker-quit 30 yrs ago.
+
+ALLERGY: MSO4, Demerol and Codeine-> GI Upset.
+
+Rec from OR at 11:30am, Sedated and paralyzed, On Propofol and small amt neo. Initially Concerned re:bleeding in OR but ok in CSRU. ACT 178 in OR ..rechecked 140.
+
+Neuro: Reversed, and propofol weaned, awake and following commands.,MAE.. Conversing appropriately.
+
+CV: Initially av paced on arrival for Bradycardia in OR, Changed to Vpacing with atrial sensing and now on aDemnad at 60. HR 70's sr with 1 degree AV block PR .26, Rec 2u PRBC""S for hct 24, BP Labile -Presently on NTG 1mcg, CO stable with indexes >2. Distal pulses palp bilaterally.
+
+RESP: Extubated 4:15pm, with sats >94% on 70% OFT, H/O COPD started on Inhalers and nebs. 
+
+GI- OGT Dc'd, Nausea X1 treated with Reglan. Abd soft NT, ND, Absent BS.
+
+GU: Foley draining adequate amts of lt clear urine.
+
+Comfort: med with dilaudid 1-2mg IV with good effect
+
+Incisions: Sternum and CT sites with DSD Clean and DRy and intact. R leg with ace wrap dry and intact, R groin with cath site sm.DSD and echymosis.
+
+A/P: Stable .. Plan to wean gtts and transfer to floor.
+
+  
+
+
+
+",,
+5227,934,6487,0,2799-05-28 18:01:00 EST,2799-05-28 18:08:00 EST,-1,"N",54,"Nursing/Other",,"
+
+ADDENDEM TO ADMISSION NOTE: PT REC 2U PRBC'S FOR HCT OF 24, CT'S WITH MINIMAL OUTPUT, NO LEAK. O2 SATS ADEQUATE ON INCREASED 100% OFT. COMFORTABLE. 
+",,
+5227,934,6487,0,2799-05-28 23:46:00 EST,2799-05-28 23:49:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT SLEEPING WELL AFTER BATHED, MEDICATED WITH DILAUDID 1MG APPROX. Q2HRS. BRA PLACED FOR STERNAL SUPPORT, CHEST INCISION CLEAN NEW DSD PLACED. RLEG INCISION CLEAN ,DSDS PLACED, ACE WRAP APPLIED. BS ELEVATED IN THE 150'S MEDICATED WITH INSULIN 4UIV, DECREASED TO 113BS. U/O DROPPING OFF INTO THE 25 RANGE WILL CALL HO IN REGARDS TO VOLUME, HCT STB. ALS0 1DEGREE AVBLOCK WITH OCCASIONAL PAC, LYTES STB. 
+",,
+5227,934,6487,0,2799-05-29 02:53:00 EST,2799-05-29 02:57:00 EST,3444,"N",54,"Nursing/Other",,"
+
+DESPITE RECEIVING 500CCHESPAN, U/O REMAINS LOW 30 THEN 20 GIVEN 10MG LASIXIV, WGT UP OVER 10KG. WILL MONITOR U/O FOR RESPONSE TO LASI. PATIENT REMAINS IN 1ST DEGREE AVBLOCK NOW WITH OCCASIONAL TO NIL PAC'S, LOW GRADE TEMP, AFTER VOLUME PA PRSSURE UP WITH CVP AT 19. GOOD CI AFTER VOLUME. HCT SENT AT 4AM. INHALERS GIVEN PRIOR TO TURNING. REMAINS WITH CLEAR LUNGS DIMINSHED BASES, WILL HELP WHEN SHE CAN GET OOB TO CHAIR THIS AM. SAO2 97%-100% ON 100%FIO2 SHOVEL MASK, WITH RR16-24. COMFORTABLE WITH DILAUDID 1MG APPROX. Q2-3HRS, GOOD RELIEF. WITH TURNING MINIMAL CT DRAINAGE ???D/C IN AM. 
+",,
+5227,934,6487,0,2799-05-29 18:58:00 EST,2799-05-29 19:11:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+O:cv status; sr no ectopics. A demand at rate 60 ma 14 sensing appropriately. Attempts to apace at higher hr for sbp unsuccessful this pm  & pt req  restart neo to achieve sbp >95.
+
+Resp status: o2 sats labile ranging btwn 92% and 95%. Bilat brth snds distant slt coarse bibas brth snds. Coughing and raising thick dk grn sputum subseq to alb/atr neb rx. O2 via np at 5 lpm w sats ^ >95% w aggressive pulm toilet & pt oob to chair.Chest tubes x 3 2 mediastinal and lt pleural w mod amts serousy drng, no air leak present.
+
+Neuro status: aaoriented c/o mod severe incisional and arthritic pain in back and arms. Med w dilaudid w some relief and tylenol 650 mg po x 2 for arthritic type pain w relief.
+
+Gi status: early am nausea no vomiting rec'd reglan ivp w gd results.Pt somewhat reluctant to take in po's. Taking po ice chips only most of day.Tol sm amts ginger ale this pm.
+
+Gu status: huo marginal lasix 20 iv w fair results. Ho notified and pt to start bid lasix today.
+
+Labs: repleted ca+ and k+.Abg improved w dbc and raising sputum.
+
+A/P: Post op day 1 w hx cri 10 kgs over preop wt. Monitor i/o and notify ho if spo2 & low uop's an issue. Enc ^ ambulation and adv diet.Bdline bp rx titrating neo to max renal perfusion and maintain systemic bp >95. Recheck lytes and rx as ordered.
+",,
+5227,934,6487,,2799-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2799-5-30**] 11:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9346**]
+     Reason: s/p CT removal r/o PTX                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman withs/p CABG                                                  
+     REASON FOR THIS EXAMINATION:
+      s/p CT removal r/o PTX                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG and chest tube removal.
+     
+     PORTABLE CHEST:  Comparison is made to preoperative film from three days
+     earlier.  The patient is status post median sternotomy and CABG.  The cardiac
+     silhouette appears slightly prominent and may be accentuated by portable
+     supine technique. There is limited evaluation of the mediastinal and hilar
+     contours due to technique and rotation.
+     
+     There is new elevation of the right hemidiaphragm.  There are also streaky
+     areas of increased density in the right and left supra- and infrahilar
+     regions, most suggestive of subsegmental atelectasis.  There is no overt CHF
+     or air space infiltrate.  Hazy increased density at the left base may
+     represent an epicardial fat pad, or perhaps a small left effusion.  There is
+     no evidence of right pleural effusion.  No pneumothorax is identified on this
+     supine film.
+     
+     IMPRESSION: 1) Status post CABG.
+     2) New elevation of the right hemidiaphragm.
+     3) Scattered linear densities in the central lung zones bilaterally,
+     consistent with subsegmental atelectasis.
+     4) No pneumothorax identified on this supine film.
+     
+     
+     
+     
+
+",,
+5227,934,6487,0,2799-05-30 02:31:00 EST,2799-05-30 02:33:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT SLEEPING AFTER 2MG DILAUDID SC GIVEN, AFEBRILE, SR IN THE 70'S, LOW DOSE NEO AT BEGINNING OF SHIFT WEAN TO OFF THRU THE NIGHT. U/O DRIFTING OFF, LASIX GIVEN AT 245AM. CORDIS SEVERLY KINKED DCD.    
+",,
+5227,934,6487,0,2799-05-30 03:44:00 EST,2799-05-30 03:48:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT WITH COMFORTABLE SLEEPING IN 2-3HR. INTERVAL. ABG AT 4AM LOW PAO2  PATIENT SLEEPING SOUNDLY, ??? NASAL CANNULA ONLY [**12-2**] ON. REPOSITIONED TO PROPER PLACEMENT, TC/DB WITH INHALER RAISING THICK BROWN SPUTUM. SAO2 96%. PATIENT HAS HX OF PSUEDOMONAS IN PAST , SHE IS CONCERNED THAT SHE IS MORE SUSEPTABLE OF [**Last Name (un) **] IT AGAIN. ???GET SPUTUN CULTURE. GOOD DIURESIS FROM LASIX. AM LABS PENDING. PATIENT READY TO TRANSFER TO FLOOR THIS AM.
+",,
+5227,934,6487,0,2799-05-30 19:17:00 EST,2799-05-30 19:26:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+O:Pt oob to chair tol well. Cv status sr no ectopy.Distal pulses w doppler + Bp stable, lopressor held x1 today for sys bp <110. Resp status: attempts to wean o2 unsuccessful most of day until after diuresis and alb neb. Weaned fio2 4 lpm w sats 94-95%. Bbs coarse to clear after c&r thick dk grn w old bld at times.Bibas diminish & crackles rt base.Diuresing well w lasix 20 iv bid.Taking in po solids in small amts. Tol po's liq well. Pt ready to transfer to floor, no beds available at this time. lt periph saline lock placed #20 by iv therapy. Prior iv access infiltrated & dc'd
+Pain managemnt well controlled w sq dilaudid 1mg and tylenol for arthritic pain.
+A/P:  Stable postop day 2 ready to transfer to [**Hospital Ward Name **] 6. Adv w cardiac rehab. Adv activity and diet.
+",,
+5227,934,6487,0,2799-05-31 04:07:00 EST,2799-05-31 04:14:00 EST,3241,"N",54,"Nursing/Other",,"
+
+EKG NSR, NO ECTOPY.  SBP STABLE IN 100S WHEN AWAKE, 90S ASLEEP.  AFEBRILE.  ADEQUATE UO, DIURESED BRISKLY WITH LASIX.  BREATH SOUNDS VARY COARSE TO CLEAR WITH COUGH AND DEEP BREATHE, DECREASED AT BASES.  USES IS EFFECTIVELY, EXCELLENT COUGH, OCC PRODUCES SMALL AMTS THICK TAN SECRETIONS.  MAINTAINS SPO2 93-95% ON 4L NC.  ABD SOFT, BOWEL SOUNDS PRESENT.  TOLERATING CLEAR LIQUIDS, HAS NOT WANTED SOLIDS YET.  SKIN INTACT, BUT HAS MULTIPLE ECCHYMOSES.  CHEST AND CT SITES DRY, R LEG DRY, ACE REMOVED.  ALERT AND ORIENTED, MEDICATED X 2 FOR INCISIONSL PAIN, TYLENOL GIVEN FOR ARTHRITIC DISCOMFORT.  SLEPT WHEN UNDISTURBED.
+",,

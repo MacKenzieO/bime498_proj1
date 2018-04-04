@@ -1,0 +1,1062 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5528,22462,,,3478-01-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3478-1-12**]              Discharge Date:   [**3478-1-18**]
+ 
+Date of Birth:  [**3394-4-12**]             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1098**] 
+Chief Complaint:
+Dyspnea, positive dobutamine stress test
+ 
+Major Surgical or Invasive Procedure:
+CABG
+
+ 
+History of Present Illness:
+83 y/o male w/dyspnea, positive dobutamine stress test, admitted 
+to [**Hospital3 3316**] Center on [**3477-12-17**].  Pulmonary workup 
+revealed a RLL lung mass.  Cardiac cath revealed 3vCAD, EF 35%.  
+Prolonged stay at Landmark hospital due to pulmonary issues 
+(bronch done, washings revealed non small cell lung cancer, he 
+was treated for presumed pneumonia), please see records from 
+Landmark for details of that hospitalization.
+He was transferred to [**Hospital1 83**] on [**3478-1-12**] for CABG.  
+ 
+Past Medical History:
+Type 2 DM
+CHF
+s/p hemicolectomy
+hypercholesterolemia
+PVD (chronic leg ulcers)
+glaucoma
+newly diagnosed lung cancer
+ 
+Social History:
+widowed
+former smoker
+
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+alert, oriented
+RA o2 sat 94%
+Cor: s1, S2
+lungs: rhonchi right base
+abd: benign
+extrem: chronic venous stasis ulcers bilat
+
+ 
+Pertinent Results:
+[**3478-1-18**] 05:30AM BLOOD WBC-13.7* RBC-3.04* Hgb-8.5* Hct-25.7* 
+MCV-85 MCH-27.8 MCHC-32.9 RDW-14.6 Plt Ct-227
+[**3478-1-18**] 05:30AM BLOOD Glucose-82 UreaN-19 Creat-0.9 Na-138 
+K-4.3 Cl-99 HCO3-35* AnGap-8
+ 
+Brief Hospital Course:
+Taken to OR on [**3478-1-15**], underwent CABG X 3.
+Weaned from vent day of surgery
+POD # 1, chest tubes removed, transferred to telemetry floor
+POD # 2, started on Lasix and Lopressor, began physical therapy, 
+epicardail pacing wires removed
+POD # 3, hemodynamically stable, still needing more diuresis, 
+some metabolic alkalosis, Diamox started, ready for discharge to 
+rehab.
+ 
+Medications on Admission:
+Lasix
+Actos
+Glyburide
+ASA
+Nadolol
+Spiriva
+Lisinopril
+Lipitor
+ 
+Discharge Medications:
+1. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two 
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7 
+days.  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4H (every 4 hours) as needed for pain.  
+6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO HS (at bedtime) as needed for constipation.  
+7. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 
+4 hours) as needed.  
+8. Insulin Regular Human 100 unit/mL Solution Sig: sliding scale 
+ Injection AC & HS: BS 110-150 = 3U sc
+BS 151-200 = 5U sc
+BS 201-250 = 8U sc
+BS 251-300 = 12 U sc.  
+9. Pioglitazone HCl 30 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Glipizide 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+11. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+12. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 10 
+days.  
+13. Diamox Sequels 500 mg Capsule, Sustained Release Sig: One 
+(1) Capsule, Sustained Release PO twice a day for 2 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+CAD
+
+ 
+Discharge Condition:
+good
+ 
+Discharge Instructions:
+no lifting > 10# or driving for 1 month
+no creams or lotions to any incisions
+may shower, no bathing for 1 month
+ 
+Followup Instructions:
+with Dr. [**Last Name (STitle) **] in 1 month
+with Dr. [**Last Name (STitle) 682**] in 1 month
+with PCP upon discharge from rehab
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1106**] MD [**MD Number 1107**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 813**] NP[**Last Name (un) 814**] [**3478-1-18**] @ 1210
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3478-1-19**] 1:07 PM
+(End of Report)
+
+
+",,
+5528,22462,,,3478-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-1-12**] 9:17 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 11943**]
+     Reason: CORONARY ARTERY DISEASE
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with CAD, and Rt lung mass                                      
+     REASON FOR THIS EXAMINATION:
+      Pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Coronary artery disease, right lung mass.
+     
+     CHEST:  No previous films available for comparison.
+     
+     The cardiac size is within normal limits.  A mass is seen in the right lower
+     lobe, which measures 4.7 cm in diameter.  An associated right pleural effusion
+     is present.  Additionally, a further rounded mass is present in the left mid
+     zone, which measures 2.9 cm in diameter.  The presence of two masses suggest
+     that the cause may be metastatic disease rather than primary lung disease. 
+     Further evaluation prior to operation is therefore suggested if possible.
+                                                                           
+
+",,
+5528,22462,,,3478-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-1-14**] 10:50 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11944**]
+     Reason: evaluate left lung ? mass                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     The above information has been sent by E-mail to Dr. [**First Name4 (NamePattern1) 11945**] [**Last Name (NamePattern1) **].
+                                                                           
+
+
+     DATE: [**3478-1-14**] 10:50 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11944**]
+     Reason: evaluate left lung ? mass                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with CAD, and Rt lung mass                                     
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate left lung ? mass                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83 y/o man with coronary artery disease, right lung mass.
+     
+     TECHNIQUE:  PA and lateral chest radiograph.
+     
+     COMPARISON:  Made to prior chest x-ray dated [**3478-1-12**].
+     
+     FINDINGS:  The mediastinal and cardiac contours are unchanged compared to the
+     prior study.  Again note is made of right pleural effusion, which appears
+     slightly increased compared to the prior study, associated with some
+     atelectasis.  Again note is made of right lower lobe mass, measuring 5 x 6 cm
+     in diameter on the lateral view.  Also note is made of 2 cm left upper lobe
+     nodular lesion.  No CHF is noted.
+     
+     IMPRESSION:  Persistent bilateral lung mass as described above, measuring 5 x
+     6 cm in right lower lobe, with increased effusion.  The presence of the mass
+     and effusion is concerning for neoplastic process, either metastatic disease
+     or lung cancer with local metastases.  As commented on the previous report,
+     further evaluation, especially by chest CT is recommended.
+     
+     The referring Dr. [**First Name4 (NamePattern1) 11945**] [**Last Name (NamePattern1) **] has been paged.
+     
+
+",,
+5528,22462,,,3478-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-1-15**] 10:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11946**]
+     Reason: postop film                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man s/p cabg x3                                                     
+     REASON FOR THIS EXAMINATION:
+      postop film                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG.
+     
+     COMPARISON:  [**3478-1-14**]
+     
+     Supine AP chest:  There has been interval median sternotomy with wires and
+     skin staples present.  An endotracheal tube has been placed, and the tip is
+     located approximately 4 cm from the carina.  There is an NG tube present below
+     the left hemidiaphragm, the tip of which terminates beyond the radiograph. 
+     There is a left chest tube and mediastinal drain.  There is a right internal
+     jugular Swan-Ganz catheter with the tip overlying the right main pulmonary
+     artery.  No pneumothorax is detected.  The masses described on yesterday's
+     study are not well visualized due to portable technique and postoperative
+     change.  The cardiac contour is unchanged.  There is a moderate layering right
+     effusion with adjacent atelectasis.  There is a small left effusion obscuring
+     the left lateral costophrenic angle.
+     
+     IMPRESSION:
+     
+     Postoperative changes with multiple tubes and lines positioned as described.
+     No pneumothorax.
+
+",,
+5528,22462,6869,0,3478-01-15 19:06:00 EST,3478-01-15 19:10:00 EST,3892,"N",54,"Nursing/Other","admission noted","
+admission noted
+Neuro: reversals given and propofol gtt off at 1530. pt sleepy althought able to open eyes to voice. MAE and following commands. right pupil 3 mm and reactive. L pupil irregular in shape and non reactive.
+
+CV: pt NSR, HR 70-90's. occasional pvc noted. lytes replaced. pt initally on nitro gtt. nitro weaned off and started on neo gtt for BP control -> titrated to keep MAP 60-90. (see flowsheet for BP and titrations). 
+",,
+5528,22462,6869,0,3478-01-15 19:52:00 EST,3478-01-15 19:56:00 EST,3892,"N",54,"Nursing/Other","continuation of above note","
+continuation of above note
+CV: CI > 2.0. pp by doppler. hct stable
+
+resp: LS coarse -> clear wtih suctioning. Pt failed CPAP wean -> became acidotic and having periods of apena. pt placed back on IMV. CT draining SS fluid, no airleak
+
+gi/gu: BS remain absent. ogt draining billious fluid. foley draining clear yellow urine. UO adequate.
+
+endo: pt continues on insulin gtt. titrated per protocol
+
+plan: wean to extubate, monitor hemodynamcis, monitor lytes/hct, pulm toliet, pain control
+",,
+5528,22462,6869,,3478-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-1-16**] 10:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11947**]
+     Reason: eval line position following exchange ovr wire              
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man s/p cabg x3                                                    
+     REASON FOR THIS EXAMINATION:
+      eval line position following exchange ovr wire                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 83-year-old man with CABG.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     Comparison is made with prior chest radiograph dated [**3478-1-15**].
+     
+     FINDINGS:  The right IJ line is terminating in the SVC.  No pneumothorax.  The
+     patient is extubated.  The left-sided chest tube is removed.  The patient is
+     status post CABG with median sternotomy.  Cardiomegaly and surgical changes in
+     the mediastinum are again noted.  Note is made of bilateral pleural effusions,
+     slightly increased compared to the prior study.  Again, note is made of CHF.
+     
+     IMPRESSION:  Right IJ line in SVC.  No pneumothorax.  Increased bilateral
+     pleural effusions with atelectasis, persistent CHF.
+     
+
+",,
+5528,22462,6869,0,3478-01-16 04:42:00 EST,3478-01-16 04:44:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds ess clear suct sm loose white sput. ABGs stable improving overnoc. Plan to wean to extub this am.
+",,
+5528,22462,6869,0,3478-01-16 05:18:00 EST,3478-01-16 05:23:00 EST,4138,"N",54,"Nursing/Other","CSRU UPDATE","
+CSRU UPDATE
+S/P CABG.  NEO AND INSULIN.  EXTUBATED AT 0500.
+NEURO:  AWAKE.  ORIENTED X 3.  MAE.  MS [**First Name (Titles) **] [**Last Name (Titles) 336**] FOR PAIN.
+CV:  NSR IN 70'S WITH OCC PVC'S.  LYTES REPLETED.  HYPOTENSIVE REQUIRING NEO AND APACING AT 90.  TMAX 37.5.  DOPPLER PULSES.
+PULM:  EXTUBATED AT 0500.  UNABLE TO FAST TRACK D/T RESP ACIDOSIS.  LS CLEAR, LOW LUNG VOLUMES, DIM IN BASES.  STRONG COUGH.  NEEDS ENCOURAGEMENT.  MINIMAL CT DRG.
+GI:  ABD SOFT BS HYPOACTIVE.  TOLERATING MEDS/ICE CHIPS.  INSULIN GTT AT 1 UNIT/HR.
+GU:  UO QS.
+PLAN:  WEAN NTG TO OFF.  OOB.  DC SWAN.  DISCHARGE TO FLOOR.
+",,
+5528,6662,,,3478-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-13**] 6:43 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11948**]
+     Reason: r/o effusion                                                
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man with CAD, and Rt lung mass                                    
+         
+     REASON FOR THIS EXAMINATION:
+      r/o effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD and right lung mass.  Evaluate for effusion.
+     
+     COMPARISON:  [**3478-1-16**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:  In comparison with the previous examination, the right internal
+     jugular venous access catheter has been removed.  The metallic skin staples
+     have been removed.  Stable configuration of sternal suture wires.  The heart
+     size and mediastinal contours are unchanged.  Pulmonary vasculature appears
+     unremarkable, without evidence of pulmonary vascular congestion.  There is no
+     definite pleural effusion.  A focal mass is again seen within the right
+     posterior hemithorax.  It appears similar to its appearance at the time of the
+     prior PA and lateral chest x-ray dated [**3478-1-14**].  The left upper lung
+     zone nodular lesion is poorly visualized.  This is not clearly identified on
+     the lateral view.  The osseous structures appear unchanged.
+     
+     IMPRESSION:
+     1.  Right lower lobe and poorly visualized left upper lung zone nodular
+     opacities, approximately unchanged from [**3478-1-14**].
+     2.  No definite evidence of pleural effusion, pneumothorax, or pneumonia.
+     
+     
+
+",,
+5528,6662,,,3478-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-13**] 10:18 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11949**]
+     Reason: r/o mediastinitis                                           
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with s/p CABG                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o mediastinitis                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG presenting with fever. R/o mediastinitis. 
+     
+     COMPARISON:  No CT's are available for comparison.
+     
+     TECHNIQUE:  A-MDCT axial images of the chest were obtained with IV contrast.
+     Nonionic IV contrast was used due to the volume necessary for this study.  5
+     cc of Optiray 350 were used.
+     
+     CT OF THE CHEST: The patient is status post median sternotomy.  There is a
+     small amount of air in mediastinum and in subcutaneous tissues under the
+     incision. There is a fluid collection in the anterior mediastinal that
+     measures 2.4 x 2.3 cm (if the surgery was more than 7 days presumably on
+     [**3478-1-15**]), this may represent an abscess.  There is also stranding of
+     this fat in the anterior mediastinum.  There is no pericardial effusion.  The
+     edema appears to be patent.  Other bypasses also appear to be patent. Multiple
+     surgical clips seen in the mediastinum.
+     
+     There are bilateral noncalcified pleural plaques which could represent prior
+     asbestos exposure.  There are no pleural effusions.  The lung windows
+     demonstrate an intrapulmonary fluid collection with air in the right lower
+     lobe measuring 4.5 x 3.0 cm.  There is associated atelectasis in that area.
+     Did the patient have surgical resection of the lung mass?  Correlate this with
+     prior imaging modalities.
+     
+     Limited images of the upper abdomen do not demonstrate significant
+     abnormality.  The adrenal glands are normal.  No evidence of liver masses.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are seen.  There is no
+     evidence of paraspinal masses.
+     
+     IMPRESSION:
+     1)  If the surgery was on [**1-15**], the findings are suspicious for
+     mediastinitis with a fluid collection.
+     
+     2) There is a fluid collection in the lung parenchyma (RLL) with air within
+     it. If the patient had a recent surgical procedure in that area, that could be
+     postoperative, if not, this could represent a lung abscess.
+     
+     3)  CABG grafts are patent.
+     
+                                                                 (Over)
+
+     DATE: [**3478-2-13**] 10:18 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11949**]
+     Reason: r/o mediastinitis                                           
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5528,6662,,,3478-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-13**] 10:18 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11949**]
+     Reason: r/o mediastinitis                                           
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with s/p CABG                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o mediastinitis                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG presenting with fever. R/o mediastinitis. 
+     
+     COMPARISON:  No CT's are available for comparison.
+     
+     TECHNIQUE:  A-MDCT axial images of the chest were obtained with IV contrast.
+     Nonionic IV contrast was used due to the volume necessary for this study.  5
+     cc of Optiray 350 were used.
+     
+     CT OF THE CHEST: The patient is status post median sternotomy.  There is a
+     small amount of air in mediastinum and in subcutaneous tissues under the
+     incision. There is a fluid collection in the anterior mediastinal that
+     measures 2.4 x 2.3 cm (if the surgery was more than 7 days presumably on
+     [**3478-1-15**]), this may represent an abscess.  There is also stranding of
+     this fat in the anterior mediastinum.  There is no pericardial effusion.  The
+     edema appears to be patent.  Other bypasses also appear to be patent. Multiple
+     surgical clips seen in the mediastinum.
+     
+     There are bilateral noncalcified pleural plaques which could represent prior
+     asbestos exposure.  There are no pleural effusions.  The lung windows
+     demonstrate an intrapulmonary fluid collection with air in the right lower
+     lobe measuring 4.5 x 3.0 cm.  There is associated atelectasis in that area.
+     Did the patient have surgical resection of the lung mass?  Correlate this with
+     prior imaging modalities.
+     
+     Limited images of the upper abdomen do not demonstrate significant
+     abnormality.  The adrenal glands are normal.  No evidence of liver masses.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are seen.  There is no
+     evidence of paraspinal masses.
+     
+     IMPRESSION:
+     1)  If the surgery was on [**1-15**], the findings are suspicious for
+     mediastinitis with a fluid collection.
+     
+     2) There is a fluid collection in the lung parenchyma (RLL) with air within
+     it. If the patient had a recent surgical procedure in that area, that could be
+     postoperative, if not, this could represent a lung abscess.
+     
+     3)  CABG grafts are patent.
+     
+                                                                 (Over)
+
+     DATE: [**3478-2-13**] 10:18 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11949**]
+     Reason: r/o mediastinitis                                           
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5528,6662,,,3478-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-14**] 2:31 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11951**]
+     Reason: s/p central line placement                                  
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man s/p cabg s/p sternal debridement for mediatitinis            
+       
+     REASON FOR THIS EXAMINATION:
+      s/p central line placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old male with CABG, mediastinitis.  Central line
+     placement.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     Comparison is made with a prior chest radiograph taken approximately one hour
+     earlier on the same day, [**3478-2-14**].
+     
+     FINDINGS:  The left IJ line is terminating in SVC.  No pneumothorax.  The
+     endotracheal tube remains in place.  The cardiac and mediastinal contours are
+     unchanged.  Again, note is made of rounded opacity in the right lower lobe,
+     unchanged compared to the prior study.  No CHF is noted.
+     
+     IMPRESSION:  Left IJ line terminating in SVC.  No pneumothorax.  Otherwise,
+     unchanged appearance of the chest including rounded opacity in the right lower
+     lobe.
+                                                                           
+
+",,
+5528,6662,,,3478-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-14**] 2:31 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11951**]
+     Reason: s/p central line placement                                  
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man s/p cabg s/p sternal debridement for mediatitinis            
+       
+     REASON FOR THIS EXAMINATION:
+      s/p central line placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old male with CABG, mediastinitis.  Central line
+     placement.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     Comparison is made with a prior chest radiograph taken approximately one hour
+     earlier on the same day, [**3478-2-14**].
+     
+     FINDINGS:  The left IJ line is terminating in SVC.  No pneumothorax.  The
+     endotracheal tube remains in place.  The cardiac and mediastinal contours are
+     unchanged.  Again, note is made of rounded opacity in the right lower lobe,
+     unchanged compared to the prior study.  No CHF is noted.
+     
+     IMPRESSION:  Left IJ line terminating in SVC.  No pneumothorax.  Otherwise,
+     unchanged appearance of the chest including rounded opacity in the right lower
+     lobe.
+                                                                           
+
+",,
+5528,6662,,,3478-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-14**] 12:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11950**]
+     Reason: s/p sternal debridement. Eval for pneumothorax and et tube p
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old man s/p cabg s/p sternal debridement for mediatitinis             
+     REASON FOR THIS EXAMINATION:
+      s/p sternal debridement. Eval for pneumothorax and et tube position             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST.
+     
+     INDICATION:  Sternal debridement.
+     
+     The wire sutures have been removed.  There is air in the sternal region
+     following debridement.  The opacity at the right base is again noted, and
+     there is a vague  faint left mid lung zone nodular opacity measuring
+     approximately 2 cm, not clearly evident in the prior chest x-ray of [**3478-2-13**].
+     There is mediastinal widening.  The NGT terminates below the GE junction, and
+     an ETT terminates approximately 3 cm above the carina.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  Sternal debridement with mediastinal air.
+     
+                  Left basilar pulmonary mass.
+
+",,
+5528,6662,6870,0,3478-02-14 16:14:00 EST,3478-02-14 16:15:00 EST,4435,"N",54,"Nursing/Other",,"
+
+resp Care
+
+Pt received form OR and placed on simv [**Last Name (un) **] sternal debridement. Fio2 has been tirated and pt will be weaned to extubation per protical.
+",,
+5528,6662,6870,0,3478-02-14 18:04:00 EST,3478-02-14 18:16:00 EST,3204,"N",54,"Nursing/Other",,"
+
+arrived from o.r. s/p sternal debridement. sedated on propofol,perl.nsr-sb  w freq. multifocal pvc's. mg++ & kcl via ogt givwn w some improvement.bp labile on arrival w severe metabolic acidosis. nahco3- & volume(prbc's)given & neo titrated to maintain sbp > 90.acidosis improved,bp stabilized. lt. ij multilumen placed for access.extubated to room air w/o incident. a & o x 3. sternal wound dark red w clean edges. dsg changed by plastic surgery who recommend vac dsg then ? flap. lg. amt sero sang dng from lower aspect of wound,outer layers replaced.denies pain.lower extremities w stasis changes & brownish demarcation.pulses dopplerable x 4. scabbed area lle & small ~ 1.5-2 cm open area noted posterior aspect of rt calf. skin & wound r.n. consulted for a.m.glucoses managed w ssri,advanced to clear liqs.
+",,
+5528,6662,6870,0,3478-02-15 04:52:00 EST,3478-02-15 05:04:00 EST,3324,"N",54,"Nursing/Other",,"
+
+[**3478-2-15**] ""B"" Nsg Progress Note:
+
+Pt from [**Hospital **] rehab in for sternal wound debridement yesterday. CABGx3 in [**3478-1-8**]. Also, recent dx RLL Lung CA. PVD with venous stasis ulcers,COPD,NIDDM,glaucoma,hypercholesterolemia,chf,hemicolectomy.
+ 
+No Known Allergies.
+
+CVS:  Afebrile. HR=79-85 NSR no ectopy noted. SBP=104-130. CVP was [**3-13**], now [**7-17**]. IV at KVO. Skin warm and dry. Pulses with doppler.
+
+Resp:  RA sats=96-99%. Lung sounds coarse in rt upper lobe, diminished at bases, clear on left. Does IS up to 1000. Coughs and deep breathes well. Takes inhaler as ordered. No distress noted. ABG's improved.
+
+GI:  Pt can have [**Doctor First Name 83**] Cardiac diet today. Only water during night. No N&V noted. Hypoactive BS. No stool last night.
+
+GU:  U/O=35-110cc/h Pt is on daily Lasix and will receive dose this am.  
+
+Labs:  K=3.6 at 9:30pm given 40meq KCL IV, K=3.7 at 3am given 40meq KCL IV again as pt is due for Lasix this am.  Hct=29.6. HCO3 up to 20.
+
+Neuro:  Pt is A&Ox2-3. He knows where he is and why but does not believe he currently lives at a rehab facility.  He thinks he lives at a catholic school.  Follows all commands, MAE. Pupils=+.
+
+Skin:  Dsg on sternum dry and intact, plastics will change in am. Rt leg has two small open areas one on shin and one on back of rt calf, both covered with tegaderm. No other open areas noted.
+
+Plan:  Change wound dsg and probable transfer back to [**Wardname 337**].
+",,
+5528,6662,6870,0,3478-02-15 18:52:00 EST,3478-02-15 19:02:00 EST,5916,"N",54,"Nursing/Other","7a-7p","
+7a-7p
+Pt hemodynamics stable t/o day. Pt received 1uPCs for HCT of 29 per team. Assessed as follows:
+
+NEURO: No deficts noted. Pt MAE spont/command equally bilaterally. Pt is HOH. Continues on bedrest for open chest. Darvocet utilized for pain management with effect.
+
+CARDIAC: SR 70-80s t/o day. SBP 90-130. S1S2 with palp pedal pulses bilat. Feet cool/pale bilat. Continues with ope chest. Initailly had packing->changed to wound VAC this afternoon which is currently @100mmHG continuous suction. 
+
+RESP: LS slightly coarse. O2 SATs 95-97% on RA. ABGs today okay. Pt denies SOB & appears comfortable while resting. Does demonstrate sm amount of tachypnea with exertion. Has nonproductive cough.
+
+GI: ABD round/distended/soft. Denies tenderness/nausea. Had BMx2. Stool culture positive for CDiff today->Flagyl initiated.
+
+GU: F/C to gravity & patent. U/O good/clear/yellow.
+
+SKIN: Please refer to careveiw.
+
+ENDO: Pt rceived glyburide this am with subsequent low BS levels b/c of refusal to eat. Oral meds to be held until appetite improves.
+
+PLAN: Continue to monitor pt hemodynamics. Maintain wound vac. Hold pt BS oral regimen per team.
+
+",,
+5528,6662,6870,0,3478-02-15 22:26:00 EST,3478-02-15 22:28:00 EST,3444,"N",54,"Nursing/Other",,"
+
+patient resting comfortable,bs at 2200 down to 64 plan to give glass oj with pills, recheck at mn. vac intact opsite placed to lower over tube ??air leak after placement on leak.. sunction set at 75 continous.. 
+",,
+5528,6662,6870,0,3478-02-16 05:09:00 EST,3478-02-16 05:15:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro: Alert and oriented. med with darvocet  1 tab for pain at 12 midnight but c/o pain 2 hours later. Order obtained for mso4 2mg iv prn. given w good effect. mae to command
+cv/resp nsr no ectopy. bp stable till early this am when bps dropped to 80's. H.O. notified. 250 lr bolus given at this time with good response to bp. sats mid 90's encouraged to c+db.
+gi/gu oj w meds to prevent hypoglycemia. Last glu 89. Am labs pending. 
+no stools. + bowel sounds. 
+integ. Vac dsg intact on chest. good suction.
+cont. plan of care. Monitor bp/fluid status. encourage po's. Calorie counts. check glucose's. ? to or Monday for flap.
+",,
+5528,6662,6870,0,3478-02-16 17:32:00 EST,3478-02-16 17:34:00 EST,4020,"N",54,"Nursing/Other","Shift Note","
+Shift Note
+Neurologically pt is intact, Mae to command. Hemodynamically stable. Lungs are diminished but CTA. Encouraged to cough and deep breath. U/O qs. Boost shakes given for nutrition, as pt does better with liquids. Darvocet and Morphine given for pain with good effect. see flowsheet for details.
+",,
+5528,6662,6870,0,3478-02-17 02:37:00 EST,3478-02-17 02:52:00 EST,3118,"N",54,"Nursing/Other","ALTERED CARDIAC STATUS","
+ALTERED CARDIAC STATUS
+S:"" IT'S TIME TO GET UP AND GO!"", ""I DON'T KNOW WHAT HOSPITAL I'M IN""
+O: CARDIAC: SR WITH ISOLATED PVC. SBP 100'S, VAC DSG DRAINED 50 ML SEROSANGUINOUS DRAINAGE THUS FAR. DSG INTACT. FEET WARM TO TOUCH, WEAK PALP PP. CVP 2-8. 
+   RESP: RA WITH O2 SATS >93%. ATTEMPTED TO PLACE O2 ON PT AND HE WAS VERY [**Doctor Last Name **] AND SAID HE WAS TOLD HE DID NOT NEED IT. BS DIMINISHED BIBASILAR, IS >750. NOT RAISING ANY SPUTUM, RR HIGH TEENS. 
+   NEURO: EASILY AROUSABLE, NOT ORIENTED TO WHAT HOSPITAL, NOT SURE WHY HE IS HERE, IS AWARE [**Last Name (un) 338**] IS THE PRESIDENT AND STATED IT WAS 2004. PT REORIENTED TO WHERE HE IS, WHY HE IS HERE, AND HOW IMPORTANT IT IS HE STAY IN BED AND PULL AT ANYTHING(PT PULLED TLC DSG OFF). PUPILS WITH CATARACT BUT REACTIVE. GRASPS STRONG AND EQUAL, FOLLOWS COMMANDS. MAE. 
+   GI: DENIES NAUSEA, ABD DISTENDED , SOFT, NONTENDER, + BOWEL SOUNDS, NO STOOL AT PRESENT. 
+   GU: ADEQUATE UO.
+   ENDO: GLUCOSE 70 AND RECIEVED 1 CAN OF BOOST, TO BE RECHECKED. 
+   ID: OXACILL AND FLAGYL AS PER ORDERS. 
+   PAIN: INTERMITTENT C/O SEVERE PAIN , RESPONDS WELL TO MSO4 PCA. 
+   SKIN: SMALL 1 CM IN DIAMETER OPENING AT CREASE OF COCCYX, AREA CLEANSED AND LEFT OTA, REPOSTIONED OFF BACK ONTO SIDES. LEFT CALF AREA WITH EXTREMELY FOUL ODOR NOTED WITH BATH AND REMOVAL OF VENODYNE, AREA CLEANSED 2 CM IN DIAMETER OPEN AREA DRAINING YELLOW DRAINAGE CLEANSED AND TELFA DSG APPLIED. NO CHANGE IN OTHER SKIN, VAC DSG INTACT.
+   SOCIAL: I HAVE NOT SPOKEN TO SPOKESPERSON THUS FAR
+A: MSO4 PCA WITH GOOD EFFECT, NEEDS REORIENTATION, MALODOROUS LEFT CALF SORE, GLUCOSE 70
+P: MONITOR COMFORT, HR AND RYTHYM, SBP, VAC DSG AND DRAINAGE, PP, RESP STATUS, NEURO STATUS-REORIENTE PRN, I+O, LABS. AS PER INTERDISCIPLINARY ORDERS.      
+",,
+5528,6662,6870,0,3478-02-17 16:21:00 EST,3478-02-17 16:35:00 EST,3204,"N",54,"Nursing/Other",,"
+
+ALERT,CONVERSANT & GENERALLY ORIENTED X 3. OCCAS. NEEDS REMINDERS TO PLACE &PERSON.OOB->CHAIR W 2 ASSISTS,GAIT SLIGHTLY UNSTEADY.TOLERATED DIET WELL,CAL. COUNTS IN PROGRESS. ADVANCED TO SOFT DIET AS HE FINDS PURREED UNPALATABLE. HAS NOT WORN DENTURES IN > 40 YRS.HYPERGLYCEMIC,ORAL AGENTS RESUMED & GLUCOSES COVERED W SSRI. VAC INTACT,PLAN FLAP FOR EARLY WEEK.RT SHIN SCAB INTACT BUT LT CALF MORE IRRITATED & ABRADED. POST. CALF DSG CHANGED FOR SCANT FOUL SMELLING SERO SANG DNG. ASSESSSED BY DR. [**First Name (STitle) **],ADAPTIC DSD APPLIED. VENODYNES DC'D,REMAINS ON SQ HEPARIN.C/O STABBING PRESSURE LIKE PAIN ALMOST CONSTANTLY IN CHEST AREA. MSO4 PCA DC'D FOR PRUITUS & INABILITY TO PERFORM INDEPENDENTLY. DARVOCET DOSE INCREASED & GIVEN AS INDICATED W IMPROVED COMFORT. ATC TYLENOL HELD .READY FOR FLOOR.
+",,
+5528,6662,6870,0,3478-02-18 04:52:00 EST,3478-02-18 05:00:00 EST,6275,"N",54,"Nursing/Other",,"
+
+neuro: alert, oriented x1, forgets date and why he's here, but knows he's in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] hospital"" for his heart.""follows commands and cooperative. oob to chair with 2 assists, tol well,slightly unsteaday on feet. but causes chest pain.tylenol given x1 for pain. dilaudid given x1 with excellent results.
+cv: nsr sbp stable. VAC dressing intact, drained 125cc for 24 hours. afebrile. right leg dsd d/i. dp/pt pulses present bilat. 
+resp: room air. sats>95%.lungs with occ wheezes and bilat crackles.
+gu: good uop. gi: soft, good bowel sounds tol po. blood sugar down to 40s last noc, tx with oj without effect, then [**12-9**] amp d50 with rise to >100. bs 77 this am. oj given. pt not symptomatic.
+plan: transfer to [**Hospital Ward Name **] 2 today. ? flap tomorrow.
+",,
+5528,6662,6870,0,3478-02-18 12:59:00 EST,3478-02-18 13:42:00 EST,3083,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  NEURO: PT IS ALERT AND ORIENTED TO PERSON AND PLACE-KNOWS HE IS IN HOSPITAL; THOUGH FORGETS WHICH ONE AND WHY. DISORIENTED TO TIME AND DATE. PT FOLLOWS COMMANDS AND IS CALM AND COOPERATIVE. FORGETFUL, EVEN AFTER REORIENTED. 
+
+  RESP: BS CLEAR TODAY. PT CONT ON INHALERS. SATS 95-97 ON RA. 
+
+  CV: HR 8 [**4-/3468**] SR WITH NO ECTOPY. BP STABLE. 
+
+  GU: PT REMAINS BELOW PREOP WEIGHT. REMAINS ON LASIX 20IV BID-WITH ONLY FAIR DIURESIS. PT HAS GOOD U/O.
+
+  GI: PT STATES HE HAS NO APPETITE. ATE ALL OF BREAKFAST; BUT NOW IS NOT HUNGRY FOR LUNCH-FINISHED BRKFAST AT 0945 AND NOW EATING LUNCH AT 1230. PT HAD LARGE SOFT STOOL-GU NEG.
+
+  LAB: DESPITE BEING RX'D FOR LOW BS IN MIDDLE OF NIGHT-PT LOW AGAIN THIS AM-38. GIVEN 1 AMP D50 WITH BS UP TO 149.  GLIPIZIDE DOSE DECREASED FOR THIS AM'S DOSE. PT NOT GIVEN COVERAGE FOR 149; BUT BS UP TO 301 BEFORE LUNCH. GIVEN 12N DOSE OF PIOGLITAZONE. 
+
+   I.D. PT AFEB. WBC THIS AM 8.6. IV AB CHANGED AS PER RESULTS OF CULTURES-PT NOW ON VANCO FOR MRSA IN BLD AND WOUND AND CEFTAZADIME FOR PSEUDOMONAS IN URINE-NEEDS FOLEY CHANGED. LEVAQUIN D/C'D.
+
+   OTHER: PT C/O PAIN THIS AM-MED WITH DARVOCET WITH NO RELIEF. MED WITH IV DILAUDID .5MG WITH NO RELIEF; THEN GIVEN 1MG WITH RELIEF. PT ASSISTED OOB WITH P.T. DID WELL. PT COMF SITTING UP IN CHAIR.
+
+   WOUND: VAC DSG REMAINS INTACT STERNAL WOUND. MIN DRG. ABRASION RT LEG-DSD CHANGED. POOR CIRCULATION LOWER EXTREM.-THOUGH HAS DOPP PULSES. 
+
+    A/P: PT TO GO TO OR TOMORROW FOR CLOSURE STERNAL WOUND. CONT WITH IV AB. CHANGE FOLEY. MED WITH DILAUDID-KEEP UP WITH PAIN MED. ENCOURAGE PO INTAKE. FOLLOW BS CLOSELY.
+",,
+5528,6662,6870,0,3478-02-19 06:58:00 EST,3478-02-19 07:07:00 EST,4196,"N",54,"Nursing/Other",,"
+
+cv: hr 80's nsr no ectopy. bp stable 94-114/
+
+neuro: pt disoriented to place. oriented to person and time.calm and cooperative.obeys commands.mae to command
+
+gi: pt appetite poor.did not eat much of dinner tray but did drink one whole can of boost at bedtime. pos bowel sounds. small amount of loose stool when pt oob to commode.npo for or today.
+
+gu: pt attempted to void.oob to commode witho no sucess. foley inserted after midnight and immediately drained 340 cc.clear yellow urine.
+
+resp: room air.sats 94-96 % lung sounds clear bilateral.
+
+integumentary: vac dressing to chest draining sm amt sero sang.dressing r leg dry and intact. l leg has small black eschar open to air.
+
+endo: blood sugars to a low of 74 at hs so pt drank 1 can of boost. then bs up to 144 at 0400 and pt received 4 units regular. 0630 bs = 80.
+",,
+5528,6662,6870,0,3478-02-19 15:15:00 EST,3478-02-19 15:22:00 EST,5607,"N",54,"Nursing/Other",,"
+
+SHIFT 0730-1300.
+
+NEURO:PT alert. Orient to self and time. Not to place despite many repeated reorientation. Converse appropriate, coherent. Behavior calm and cooperative. MAE x4 to command. No deficit.
+
+PAIN: PT c/o sternal wound pain worsen with turning. Med w dilaudid iv with effect.
+
+WOUND: Sternal wound w vac dsd to 75mm/hg conts' sxn, scan serosang drg, no leak. edge pink, clean. NPO preop OR today for sternal closure. Rt leg w dsd CDI
+ID: Afebrile. Multiple ATBs
+
+CV: SR rare PVC's. BPS. Pulses by doppler
+
+RESP: LS diminish in bases and clear. RR mid 10s, breathing even. N/p cough. MDI's.
+
+GI: NPO
+ENDO: BS low 58 am. Gave [**12-9**] amp of dextrose. Recheck BS 80s. Held am oral agents. Need SS and doses readjust
+GU: F/c w adequate huo. Pt continence large loose stool in am
+
+ACT: Bedrest for OR today.
+
+A: Preop for sternal closure. Multiple ATBs. Pain issue.
+P: To OR at 1300.
+
+
+
+
+",,
+5528,6662,6870,0,3478-02-19 19:52:00 EST,3478-02-19 19:56:00 EST,5916,"N",54,"Nursing/Other","1900","
+1900
+Pt admitted from OR on prop gtt. Attempted to wean & extubate. Pt became very agitated requiring to be resedated on prop. Precedex to be started. Because of severe agitation, pt chest appeared to be slightly larger than normal to plastics resident. Team/surgeon aware. Labs sent & pending. Will continue to monitor. 
+",,
+5528,6662,6870,,3478-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-20**] 9:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11952**]
+     Reason: assess infiltrates/effusions                                
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old man s/p cabg s/p sternal debridement for mediatitinis           
+         
+     REASON FOR THIS EXAMINATION:
+      assess infiltrates/effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 83-year-old man status post CABG, status post sternal
+     debridement for mediastinitis.  Please assess for infiltrates or effusions.
+     
+     Portable AP view of the chest dated [**3478-2-20**] compared with the same
+     examination from [**3478-2-14**].  The patient has been extubated.  There has
+     been interval placement of at least three mediastinal drains, one overlying
+     the midline mediastinum, the other two positioned laterally crossing the lower
+     lung lobes.  The left internal jugular central venous catheter remains
+     positioned in the junction of the brachiocephalic vein and superior vena cava.
+     The previously identified right lower lobe density is not seen well on the
+     current examination.  This may have resolved or it may be obscured by an
+     overlying drain.  Mediastinum is wide, which is likely secondary to
+     postoperative changes.  There is bilateral partial atelectasis of the right
+     and left lower lobes.  There is no pneumothorax.  There is no prominence of
+     the pulmonary vasculature to suggest pulmonary edema.  There is a small right
+     pleural effusion; there may be a left pleural effusion, however, the
+     costodiaphragmatic angle on this side has been excluded from the film.
+     
+     IMPRESSION:
+     
+     1.  Bilateral partial atelectasis at the lung _____.
+     2.  Status post mediastinal debridement with placement of at least 3
+     mediastinal drains, with new widening of the mediastinum, likely secondary to
+     postoperative changes.  There is no pneumothorax.
+                                                                           
+
+",,
+5528,6662,6870,,3478-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-20**] 1:36 PM
+     CHEST U.S.                                                      Clip # [**Clip Number (Radiology) 11953**]
+     Reason: ? drainable fluid collection or post-op hematoma            
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with s/p sternal debridement and pectoral flaps.                
+     REASON FOR THIS EXAMINATION:
+      ? drainable fluid collection or post-op hematoma                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post sternal debridement and pectoral flap placement.
+     
+     Ultrasound examination in the region of the surgical procedure was performed.
+     Edematous soft tissue planes are identified.  There is no discrete hematoma or
+     abscess collection identified.
+     
+     IMPRESSION:  No evidence of drainable fluid collection or discrete hematoma.
+     
+     The above findings were communicated with the covering floor physician at the
+     time of interpretation of the study.
+
+",,
+5528,6662,6870,0,3478-02-20 05:40:00 EST,3478-02-20 05:49:00 EST,3324,"N",54,"Nursing/Other",,"
+
+[**3478-2-20**] ""B"" Nsg Progress Note:
+
+Postop sternal flap closure.
+
+CVS:  T99.8-100.1 po. HR=83-105 SR no ectopy noted. SBP=90-118. Aline dampens at times and cuff is always higher. CVP=[**7-18**]. HCT 26 at 11pm, given 1 unit PRBC's. Repeat HCT=36.1. Pulses with doppler only.
+
+Resp:  Pt extubated at 3:30AM.  Had been on Precedex but was wide awake and nodding appropriately with good RSBI. On 3l nc O2 sats=97-100%.  Lung sounds clear. Good cough, nonproductive. Pt c/o pain when taking a breath in sternal area. Given Darvocet with some relief.
+
+GU:  U/O=26-38cc/h, Pt states some burning feeling when urinating.
+
+GI:  OGT d/c'd. Taking sips of H2O with pills with no difficulty. Hypoactive bowel sounds. Had large stool yesterday prior to OR.
+
+Endo:  BS covered at 4am according to SSRI.
+
+Skin:  Sternal dsg has small amt bloody staining at lower edge around JP site. RT leg ulcer-dsg changed no drainage-healing. Left leg ulcer unchanged.
+
+Neuro:  Pt speaks clearly, MAE. He is alert and oriented x2. HOH so sometimes doesn't understand what is said to him.
+
+plan:  Transfer to floor when OK with team.
+
+",,
+5528,6662,6870,0,3478-02-20 12:14:00 EST,3478-02-20 12:23:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT OOB TO CHAIR AT APPROX. 1030 AM NEEDING TO RN WITH MAJOR SUPPORT, ATE A GOOD BREAKFAST. PLAN TO GIVE 12 N00N MEDS FOR BS. HEMATOMA SLIGHTY LARGER,  PLAN FOR THORAIC U/S THIS AFTERNOON.
+",,
+5528,6662,6870,0,3478-02-20 14:50:00 EST,3478-02-20 14:58:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT DOWN FOR U/S TO CHEST, PER US TECH LOOKS FINE. ALL JP'S CONTINUE TO DRAIN SEROSANGINOUS FLUID SEE OUTPUTS FOR DETAILS. STERNUM LEFT SIDE REMAINS WITH LARGE HEMATOMA  DSG D/I , LOWER ASPECT OF INCISION WHERE JPS ARE WITH SMALL AMT. OF SEROSANG DRAINAGE AWAITING PLASTICS FOR CHAGE. AFEBRILE, SR TO ST 100, NO ECTOPY. SBP 100'S ALINE IS CORRELATING WITH CUFF PRESENTLY. RESP ON 3LNP WITH SATS 96% OR BETTER, BILATERAL BS CLEAR DECREASED IN BASES, TAKING INHALERS AROUND THE CLOCK. OOB TO CHAIR , WAS WEAK GETTING UP BUT STRONGER RETURNING TO BED. ATE MOST OF BREAKFAST , HAD A STRAWBEERY BOOST AT 1230. AM GLYBURIDE HELD D/T NPO SATUS BS AT 1000AM 127 GIVEN 2UREGULAR INSULIN. PIOGLITAZONE GIVEN AT 1430 BS AT THIS POINT 309 PLAN TO CHECK WITH NP HOW MUCH REGULAR INSULIN TO GIVE SC. GIVEN TYLENOL 650 MG PO FOR PAIN , PATIENT C/O [**1-17**] AFTER TYLENOL. OX3 THIS AM , RESTRAINTS OFF. TALKING THIS AFTERNOON ABOUT HIS DAYS IN A B52/GUNNAR, WORKING ON CARS..
+",,
+5528,6662,6870,,3478-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-21**] 11:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11954**]
+     Reason: please check placement of right [**Hospital Unit Name 664**]. cub. PICC line  please 
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           83 year old man s/p cabg s/p sternal debridement for mediatitinis          
+           
+     REASON FOR THIS EXAMINATION:
+      please check placement of right [**Hospital Unit Name 664**]. cub. PICC line  please page IV nurse [**First Name (Titles) 2508**] [**Last Name (Titles) **]    wet reading   thanks  #@[**8-/3916**]   pt has left jug. CVL 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old man status post CABG, status post sternal debridement
+     for mediastinitis.  Please check PICC line placement.
+     
+     Single AP view of the chest dated [**3478-2-21**], is compared with portable AP
+     view of the chest of [**3478-2-20**].  There has been interval placement of a
+     right subclavian PICC line, which terminates in the distal superior vena cava.
+     Left internal jugular central venous line terminates in the proximal SVC. 
+     There are mediastinal drains overlying the cardiac contour bilaterally.  There
+     is partial atelectasis at the bilateral lung bases.
+     
+     IMPRESSION:  Interval right subclavian PICC line placement.  No pneumothorax. 
+     No significant change in the bibasilar partial atelectasis.
+                                                                           
+
+",,
+5528,6662,6870,0,3478-02-21 06:45:00 EST,3478-02-21 06:50:00 EST,6275,"N",54,"Nursing/Other",,"
+
+alert and oriented. slept well last noc. no confusion. darvocette x2 for excellent pain control last noc.oob x 2 with 2 assists tol well
+resp: 2 l nc. lungs with crackles lll, otherwise fairly clear. sats 87-99%.
+cv: nsr. sbp stable. aline d/cd. chest incision edematous on left side, but no increase overnoc and hct fairly stable. jp drains all draining serosang drainage. dp/pt pulses palp bilat.low grade temp.
+gu: adequate uop all noc after fluid bolus given at 6pm.
+gi: soft, rounded, bowel sounds present. tol po well. blood sugars covered per orders.
+plan: transfer to [**Wardname **]. need private room for precautions.needs physical therapy to advance activity.
+",,
+5528,6662,6870,0,3478-02-21 18:13:00 EST,3478-02-21 18:23:00 EST,4219,"N",54,"Nursing/Other",,"
+
+Neuro: alert and oriented x 3, mae, oob to chair and ambulating, following commands correctly, diladid for pain.
+
+Cardiac: nsr to st in the low 100's, sbp's wnl's, palpible pedial pulses, skin warm dry and intact, + 1 edema in extremities, afebrile.
+
+Resp: lungs dim in bases on ra satting at 95%, is using is and coughing and deep breathing.
+
+Skin: chest with dsd that is cdi, bottom part of dsd with scant serosang, swelling under dsd remains the same from yesterday, dsd to right leg is cdi, coccyx is pink-hydrocotizone cream applied.
+
+Gi/Gu: tolerating po's abd slightly distended, good bowel sounds, loose brown stools, on riss blood sugars running high did get po meds increased today, failed to void and foley reinserted and 600 out.
+
+Plan: monitor blood sugars, ? [**Last Name (un) **] consult if blood sugars don't improve from increase in po dose, increase activity as tolerates, f2 in am if remains stable.
+",,
+5528,6662,6870,0,3478-02-22 06:13:00 EST,3478-02-22 06:19:00 EST,4158,"N",54,"Nursing/Other",,"
+
+NEURO: ALERT AND OREIENTED X3. MAE. VERY PLEASANT. MEDICATED W/ .5MG IV DILAUDID @ 2100 AND 2400 FOR C/O INCISIONAL PAIN W/ GOOD EFFECT.
+
+CV: HEMODYANMICALLY STABLE. NSR 80-90'S. NO ECTOPY.
+
+RESP: BIBASILAR CRACKLES. INCREASED WOB W/ ACTIVITY. SPO2 94-97%. GAVE 2L NP O2 WHILE PT WAS IN BED. SPO2 WERE 93-94%.
+
+GU: FOLEY IS PATENT. UOP ADEQUATE.
+
+REHAB: AMBULATED X1 ASSIST.
+
+ID: AFEBRILE. 
+
+PLAN: CONTINUE CARE AS PLANNED.
+",,
+5528,6662,6870,0,3478-02-22 11:57:00 EST,3478-02-22 12:04:00 EST,6512,"N",54,"Nursing/Other","days","
+days
+n: aox3, oob to commode/chair with 1 assist, darvocet for pain with good response. pt has new burning and raw tender pain at penis tip. area red, swollen, PA [**Doctor Last Name 339**] in to assess and pt started on emla cream with good effect.  pt reports pain manageable now.  rn did clean area, bicatiracin applied and jp drains attached well above groin so they would not dangle onto penis.  family in to see pt today.
+
+cv: nsr, no ectopy, bp stable. +pp.
+r: o2sats 97% on 2 lnc, lungs clear but dim with scattered rales in bases. pt good response to lasix, no sob or doe.  
+
+gi/gu: afebrile, abd benign, soft nontender, obese and distended.  + bm loose and brown.  foley with clear yellow urine, new foley site red and treated as above.  riss for ^gluc. tolerating diet well.
+
+s: drains stripped per plastics and emptied for serosanguinous drainage.  small round open area red above sacrum cleaned, pt sitting on egg crate and oob frequently.  small necrotic area on leg unchanged and right lower leg dsg cdi.  midline dsg cdi, unchanged.
+",,
+5528,6662,,,3478-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3478-2-28**] 8:48 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11955**]
+     Reason: s/p sternal debridement and pec flaps w/decreased BS-r/o PTX
+     Admitting Diagnosis: STERNAL WOUND INFECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         83 year old man with CAD, and Rt lung mass                                   
+           
+     REASON FOR THIS EXAMINATION:
+      s/p sternal debridement and pec flaps w/decreased BS-r/o PTX                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83-year-old man with coronary artery disease and right lung mass,
+     status post sternal debridement.
+     
+      PA and lateral chest x-ray dated [**3478-2-28**] is compared with the portable
+     AP view of the chest from [**3478-2-21**].  There has been  interval removal of
+     the left IJ and right subclavian central venous catheters.  Midline
+     mediastinal drain, and the drain that  previously lay over the lower right
+     hemithorax have been removed.  The drain overlying the left hemithorax remains
+     in place.  There is no pneumothorax.  There is a 4.0 x 4.9 x 6.1 cm soft
+     tissue density within the right lower lobe.  This density contains a cavity
+     with an  air fluid level.  There are no other focal opacities.  There is no
+     prominence of the pulmonary vasculature to suggest congestive heart failure. 
+     There are no pleural effusions.
+     
+     IMPRESSION:  4 x 5 x 6 cm soft tissue cavitating mass lesion within the right
+     lower lobe.  Review of prior chest x-rays and CT of the chest from [**3478-2-13**] show that this lesion has not changed significantly.  No other focal
+     opacities to suggest mass or consolidation.  No congestive heart failure or
+     pleural effusions. 2)  Remaining drain overlying the left hemithorax.
+                                                                           
+
+",,
+5528,,,,3478-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 11956**]
+     Reason: Lung mass staging.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84-year-old man diagnosed with adenocarcinoma in the lower lobe   
+     without prior therapy.  Please evaluate for staging.
+     
+     METHODS: Approximately 1 hour after intravenous administration of F-18 
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation 
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 107 mg/dL. The area
+     imaged spanned the region from the inferior orbits to the upper thighs.
+      
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake. 
+     
+     INTERPRETATION:  There is intense abnormal FDG avidity within the right lower
+     lobe lung mass.  An SUV could not be calculated because an accurate patient
+     weight was not available.  There is also some FDG avidity above background
+     within a subcarinal lymph node.  No other FDG-avid mediastinal lymph nodes are
+     identified.  There is mild FDG avidity in the soft tissue at the sternal 
+     dehiscence. There is mild FDG avidity within the left facet joint/pedicle of the
+     mid cervical vertebral body, most likely degenerative in nature.  There is also
+     mild FDG avidity within the left iliac bone just lateral to the sacroiliac
+     joint.  No definite CT correlate is identified for this.
+     
+     Physiologic uptake is seen within the myocardium, the liver and the GI tract.
+     
+     Noncontrast CT images demonstrate a 5.8x5.0 cavitating right lower lobe lung
+     mass.  No other definite pulmonary lesions are seen.  There are no
+     pathologically enlarged mediastinal lymph nodes.  There is sternal dehiscence
+     with soft tissue density filling the defect consistent with the patient's
+     history of sternal debridement and muscle flap reconstruction. Within the
+     abdomen, the solid organs are unremarkable.  There are a few calcified
+     mesenteric lymph nodes.  There are coarse calcifications in the prostate.  The
+     rectosigmoid junction and rectum appear to have a thickened wall on the
+     noncontrast images.  This is a nonspecific finding.  On bone windows, there is
+     degenerative changes of spine.  There is a bone Island in the right femoral
+     neck.
+     
+     IMPRESSION: 1.  Intense FDG avidity within the right lower lobe cavitary mass.
+     2.  Mild FDG avidity within a subcarinal lymph node above background FDG
+     avidity. 3. Mild FDG avidity within the substernal soft tissue and within the
+     left iliac bone.  4. Possible rectal thickening without FDG avidity.  This is
+     difficult to evaluate without intravenous contrast.  Recommend clinical
+     correlation.
+     
+     /nkg
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 11956**]
+     Reason: Lung mass staging.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+                                                                           
+
+             [**First Name8 (NamePattern2) 4912**] [**Last Name (NamePattern1) 1388**], M.D.
+             [**Last Name (NamePattern5) 267**], M.D.          Approved: TUE [**3478-5-14**] 2:54 PM
+
+
+             Date Mailed: [**3478-5-15**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,

@@ -1,0 +1,880 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5829,11345,,,2544-05-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2544-5-16**]              Discharge Date:   [**2544-6-2**]
+ 
+Date of Birth:  [**2457-2-28**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 546**] 
+Chief Complaint:
+Neck pain
+ 
+Major Surgical or Invasive Procedure:
+ACDF C5-6 
+Pacemaker placement [**Company 1227**] VVI
+
+ 
+History of Present Illness:
+87 y/o man s/p fall evening [**5-15**]. Unwitnessed; no recall of 
+details surrounding this event. Imaging shows unstable C-spine 
+fx C5-6. 
+ 
+Past Medical History:
+HTN
+a.fib
+bronchitis
+depression
+h/o multiple falls
+hypercholesterolemia 
+s/p CVA
+syncope
+ 
+Social History:
+Was living at home independently until incident. Son involved in 
+care.
+ 
+Family History:
+N/C
+ 
+Physical Exam:
+General:  
+VS: 96.9 151/88, HR97 (tele with afib with RVR) RR18 94%RA  
+Skin: no rashes  
+HEENT: PERRL, +cataracts, EOMI, OP with thick dry mucous, 
+severely dry MM  
+Neck: in soft collar; anterior cervical incision clean, dry and 
+intact
+Chest: CTAB,  
+Cards: [**Last Name (un) 7205**], [**Last Name (un) 7205**] no m/r/g  
+Abd: +BS, NTND  
+Ext: no edema
+Neuro: AAOx3, CN [**3-2**] grossly intact, 5/5 strength throughout, 
+sensation intact to light touch, coord r. alt. m.  
+
+ 
+Pertinent Results:
+[**2544-5-27**] 10:10AM BLOOD WBC-6.5 RBC-3.53* Hgb-11.4* Hct-34.1* 
+MCV-96 MCH-32.3* MCHC-33.5 RDW-14.3 Plt Ct-210
+[**2544-5-26**] 06:14AM BLOOD WBC-5.5 RBC-3.63* Hgb-11.8* Hct-34.5* 
+MCV-95 MCH-32.6* MCHC-34.3 RDW-14.1 Plt Ct-209
+[**2544-5-22**] 01:46AM BLOOD WBC-4.5 RBC-3.32* Hgb-10.9* Hct-31.8* 
+MCV-96 MCH-32.8* MCHC-34.2 RDW-13.8 Plt Ct-201
+[**2544-5-27**] 10:10AM BLOOD Glucose-139* UreaN-29* Creat-PND Na-144 
+K-3.7 Cl-109* HCO3-26 AnGap-13
+[**2544-5-18**] 03:31PM BLOOD CK(CPK)-184*
+[**2544-5-17**] 10:43PM BLOOD CK(CPK)-319*
+[**2544-5-16**] 09:00AM BLOOD CK(CPK)-675*
+[**2544-5-17**] 10:43PM BLOOD CK-MB-5 cTropnT-0.02*
+[**2544-5-27**] 10:10AM BLOOD Calcium-8.9 Phos-2.0* Mg-2.2
+.
+C-Spine MRI:
+FINDINGS: At C5-6 level, there is widening of the anterior disc 
+space identified with increased signal in this region on 
+inversion recovery images. In addition, there is buckling of the 
+ligamentum flavum visualized posteriorly with subtle increased 
+signal in the interspinous region. Findings are indicative of 
+ligamentous disruption both in the anterior and posterior 
+portion of the spine. In addition, there is a large prevertebral 
+hematoma identified extending from C2 to the upper thoracic 
+region. There is no evidence of intraspinal hematoma seen. There 
+is increased signal identified within the spinal cord at C4-5 
+level which could be related to cord edema or contusion.
+Multilevel degenerative changes are seen at other levels in the 
+cervical region extending at C3-4, C4-5, C6-7 and C7-T1 level 
+with mild anterolisthesis of C7 or T1.
+Of concern is absence of flow void within both vertebral 
+arteries in the cervical region. This is best visualized on 
+axial T2-weighted axial images which show high signal is seen 
+within both vertebral arteries. These findings are indicative of 
+extremely slow flow or occlusion of both vertebral arteries.
+IMPRESSION:
+1. Probable extension injury with disruption of the anterior 
+longitudinal and the intraspinous and nuchal ligaments in the 
+region of C5-6 level.
+2. Large prevertebral hematoma in the cervical region.
+3. Abnormal signal within both vertebral arteries in the neck 
+suspicious for slow flow or occlusion. MRA or CTA would help for 
+further assessment.
+4. Multilevel degenerative changes in the cervical region.
+5. Focus of increased signal within the spinal cord at C4-5 
+level suspicious for cord edema/contusion.
+
+ 
+Brief Hospital Course:
+Brief Hospital Course:
+.
+Mr. [**Known patient lastname 7206**] was admitted to the Trauma service after being 
+evaluated in the EW and found to have an unstable C5-6 fracture 
+dislocation.  It was his lone injury and he was admitted and 
+given a floor bed.  Transfered to floor & had episode of 
+deliriumsundowning, continually trying to get out of bed. 
+Scheduled for surgical repair of C-spine [**5-17**] but INR was 2.3 
+and procedure deferred until [**5-18**]. In holding area was noted to 
+be gurgling, still confused. Decision made to electively 
+intubate, done in OR with fiberoptic scope/surgical airway 
+back-up. Intermittently bradycardic and an EP consult was 
+sought.  Tachy/brady syndrome was observed and a pacemaker was 
+placed by EP [**5-18**].  At this time he was stable for an anterior 
+cervical discectomy and fusion C5-6.  Post-opertively he was 
+transfered back to the T/SICU for further care.  While there, he 
+had significant episodes of tachycardia & bradycardia and 
+required placement of a pacemaker because of this.
+.
+He was eventually transferred to the wards, where he had 
+difficulty swallowing and continued delirium.  A Geriatrics 
+consult was sought for a possible CVA leading to his difficulty 
+swallowing.  A CT of the head was obtained which showed no 
+evidence of acute intracranial process.  He was [**Hospital 7207**] 
+transfered to the Geriatrics service for further managment.
+.
+Shortly after transfer to the medicine wards, pt he became 
+dyspneic in the settig copious oral secretions. He was found to 
+have pneumonia (likely aspiration) and was transferred to the 
+MICU for treatment of PNA and copious secretions.  He was 
+initially treated with levo/flagyl for probable aspiration PNA; 
+this was then broadened to vanc/Zosyn.  Pt did not require 
+intubation/pressors in MICU.  Rather, he was weaned off oxygen 
+and was treated for HTN.  
+While in the MICU, the MICU team met with the family to discuss 
+the pt's overall prognosis and review the pt's goals of care.  
+They explained that the pt's  aspiration/dysphagia was likely a 
+complication from the sugery, and that the pt would not likely 
+regain his swallowing function.  Given the degree of the pt's 
+injury, including the possibility that he may not be able to 
+walk again and his inability to take PO (at least for the 
+foreseeable future), the pt decided that pursuing agressive care 
+would not fit with his wishes or goals.  His son corroborated 
+these feelings.  Another meeting was had with the family and the 
+medicine [**Hospital1 **] team on [**2544-6-1**] (following transfer out of the 
+MICU).  During this meeting, the son reiterated his and his 
+father's wish to move to hospice care.  He explained that they 
+understand that the pt could at some point regain swallowing 
+function.  Yet, waiting for that possibility would be not be in 
+line with his wishes and goals.  As the pt stated on [**2544-5-31**], he 
+feels ""the end is near...I have lived a good life.""  He then 
+expressed his wish to be out of the hospital setting and to 
+enjoy what time he has left.  
+.
+He was treated with care and comfort measures only prior to 
+discharge. At time of discharge, pt had very dry mucous 
+membranes for which he was receiving supportive care.  He denied 
+having any pain.
+ 
+Medications on Admission:
+coumadin
+lipitor
+citalopram 
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q4HR ().  
+2. Lorazepam 0.5 mg Tablet Sig: 1-4 Tablets PO Q4-6H (every 4 to 
+6 hours) as needed.  
+3. Morphine Concentrate 20 mg/mL Solution Sig: 5-20 mg PO Q1-2H 
+() as needed.  
+4. Artificial Saliva 0.15-0.15 % Solution Sig: 1-3 MLs Mucous 
+membrane DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Hospice House
+ 
+Discharge Diagnosis:
+Cervical spondylosis and C6 fracture dislocation at C5-C6.
+Tachycardia/Bradycardia syndrome
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please continue to take your pain medication with an over the 
+counter laxative.  Call the clinic if [**Doctor First Name **] notice any redness or 
+discharge from the incision site.  Call the clinic for any 
+additional concerns.  Please wear the hard collar when 
+ambulating and the soft collar when in bed.
+
+ 
+Followup Instructions:
+Please follow up in the Spine Clinic in the [**Hospital Ward Name **] Bldg Floor 
+#2 on Wednesday, [**6-3**].  Call [**Telephone/Fax (1) 3665**] to schedule an 
+appointment.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 555**] MD [**MD Number 556**]
+ 
+Completed by: [**First Name8 (NamePattern2) 324**] [**Name8 (MD) **] MD [**MD Number 325**] [**2544-6-2**] @ 1139
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2544-8-7**] 10:12 AM
+(End of Report)
+
+
+",,
+5829,11345,7257,0,2544-05-17 16:27:00 EST,2544-05-17 16:28:00 EST,426,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt was admitted via OR for C5-C6 fx and intubated for airway protection.  see respiratory apge of carevue for more information.
+",,
+5829,11345,7257,0,2544-05-17 17:21:00 EST,2544-05-17 17:50:00 EST,412,"N",74,"Nursing/Other","Admit Note.","
+Admit Note.
+  Pt was admitted to CC6 s/p syncopal episode and fall. C4-6 fracture with cord edema and prevertebral hematoma. Overnight pt has periods of confusion and agitation. Dr [**Last Name (STitle) 1340**] planned to operate this am. In pre-op noted pt INR this am 2.3 and case aborted. Electively intubated in OR and brought to ICU.
+
+ Neuro- Easily arousable on propofol. Calm and cooperative, smiles, FCs, MAEs, equal stregnth and grossly intact sensation. PERLA. [**Location (un) 204**] J in place. Fent PRN for comfort.
+
+ Resp- Lungs clear with diminished bases. Adeq sats and RR. Appears comfortable on present settings. Weak cough.
+
+ CV- Hypotensive and bradycardic on arrival. Afib with rate dipping into 30s. Pt PIV [**1-21**] out of arm and infiltrated. Placed large bore IV x 2 and fluid boluses x 2L and well as 0.8 mg of atropine per Dr [**Last Name (STitle) 1341**]. HR and BP improved, though HR very variable. BP low again along with poor UO, BP responded to fluid bolus but little improvement Afebrile. Skin w/d. No labs ordered. No treatment for INR presently ordered. ? FFP pre-op in am.
+
+ GI/GU- Abd soft, +bs. No BM. Foley patent with low UO.
+
+ Plan- ? FFP in am depending on INR and to the OR. Monitor UO and BP closely. 
+
+
+",,
+5829,11345,7257,0,2544-05-18 05:13:00 EST,2544-05-18 05:16:00 EST,8041,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt remains intubated, ABG acceptable,Fio2 dropped to 40%. Bs clear B/l. Pt bradycardic in 30's and 40's. Pt is to seen by cardiology in am to decide if ready to go to OR for surgery.
+See carevue for specifics.
+",,
+5829,11345,7257,0,2544-05-18 05:34:00 EST,2544-05-18 05:54:00 EST,1015,"N",74,"Nursing/Other","NPN, 1900-0700","
+NPN, 1900-0700
+neuro: pt has tolerated no sedation since eve r/t hypotension; responds to voice w/ open eyes, mouthing words.  Follows commands, moves all extremities equally, no sensorymotor deficits.  PERRLA, 3-->>2.  C-collar maintained; HOB @ 30 degrees. Med for back pain w/ fentanyl.
+
+CV: during rest, HR 30's, junctional, no VEA. When stimulated, HR to 70's, WAP.  12 lead EKG last eve junctional w/o ischemia. MAP 50-60 w/ brady, to 80 w/ WAP in 70's. Pulses palpable throughout;no edema.  Pboots, sq hep prophy.  Serial CKs elevated, MB pending.
+
+Pulm: orally intubated, CMV 550 x 12 x 5, weaned to 40%.  Sx moderate amounts thick yellow secretions, occasionally blood tinged.  BS CTAb, diminished left base.
+
+GI: abd soft, hypo BS, no stool or flatus.  NPO, no GT.  Pepcid prophy.
+
+Renal: F/C uirne clear amber; OP 20-40cc/hr.  NS @ 75 cc/hr. Labs WNL, K+ repleted.
+
+Skin: grossly intact except for minor abrasiond and healing head lac.  No pressure areas.
+
+Endo: RISS. none required.
+
+ID:  WBC [**4-23**], afebrile.  No antibx.
+
+Heme: H/H stable, plates 125.  INR down to 1.3
+
+Psychosocial: son has called several times w/ appropriate concern and ?s.  He will be here early this am to conference w/ MD's re OR, cardiac tx.
+
+P: Cardiology/EP Consult this am. PRN analgesia/sedation. HOB @ 30 degrees, C-collar at all times.  ? OR when cleared by Cardiology
+",,
+5829,11345,7257,0,2544-05-18 12:15:00 EST,2544-05-18 12:57:00 EST,1016,"N",74,"Nursing/Other",,"
+
+npn 0700-1230
+to ep for pacemaker placement.
+ros; neuro opens eyes spontaneously . mae to command bilateral grasps equal follows simple commands perla 3mm bsk. able to communicate with mouthing around ett and gesturing appears calm and  and appears to understand what is going on .
+
+resp; lungs clear with occassional rhonchi suctioned for mod amounts thick blood secretions q2.sats diff to pick up at times as fingers cold 100% on 405 cmv 550x12 breathing occassionally above vent.
+
+cvs; t97.2 po c/o of being cold bundled in blankets t-99 po blankeets off. hr in 55-60 range icreased to 70-85 afib with frequent pvc's s/p by ep  strips  thought to be in afib with low ventricular rate. pt consented for permenent pacemaker placement prior to or . bp 172-180 /60 responded to hydralazine 10 mgs i.v and fentanyl 50 mcgs q 2.-3  with sys . bp 132/61.
+
+gu;draining small amount amber urine  via foley, 35-40 mls/hr. k 3.4 received 10meq's kcl /100mls. iv fluids 75 mls/hr d5ns
+
+gi; belly soft pos bs no stool no flatus. no n/ogt. no coverage on riss.
+
+skin;abrasions as noted.previously gelfoam over head lac. no bleeding noted.
+
+soc; son into visit and updated with pt's current condition and plan of care. and gave permission for pacemaker placement.
+
+a/p stable morning with no episodes of bradycardia. currently in ep having pacemaker placed. for or with gr [**Doctor Last Name 1342**] later today.
+continue with prn pian control as necessary. head of bed  30 degree. continue 2 hr neuro checks
+
+
+
+
+
+
+",,
+5829,11345,7257,0,2544-05-18 15:34:00 EST,2544-05-18 15:36:00 EST,426,"N",74,"Nursing/Other","respoiratory care","
+respoiratory care
+pt on the vent no changes made tol well.  pt went to cath lab for pacer placement and is know going to OR.  see respiratory page of carevue for more inforamtion.
+",,
+5829,11345,7257,0,2544-05-18 17:08:00 EST,2544-05-18 17:14:00 EST,7880,"N",74,"Nursing/Other","1530-1640","
+1530-1640
+PT RETURNED TO [**Location 1343**] FROM EP S/P PERMANENT PACEMAKER PLACEMENT.
+
+NEURO: A&O. MAE. FOLLOWING COMMANDS. 
+
+CV: HYPERTENSIVE TO SBP 160'S IMMEDIATELY ON RETURN TO TSICU DUE TO PAIN. 50MCGS IV FENTANYL GIVEN WITH GOOD EFFECT. SBP 130'S. HR AFIB 70'S.
+
+RESP: PT REMAINED ON VENTILATOR. LS CLEAR WITH DIMINISHED BASES.
+
+GU: U/O MARGINAL AMBER URINE.
+
+GI: NPO FOR OR. NO OG/NGT. +VE BOWEL SOUNDS. NO FLATUS OR MOVEMENT NOTED.
+
+SKIN: DRESSING PLACED TO PACEMAKER SITE. TO REMAIN IN PLACE UNITL TOMMORROW WHEN EP CHECK. L ARM TO REMAIN IN SLING FOR 72HRS POST PROCEDURE TO REDUCE RISK OF HAEMATOMA FORMATION IN PACEMAKER POCKET. ABRAISIONS UNCHANGED. SKIN TO BACK NOT VISUALISED BY THIS RN.
+
+PLAN: AWAIT PT RETURN FROM OR. 
+
+
+
+",,
+5829,11345,7257,0,2544-05-18 18:35:00 EST,2544-05-18 18:52:00 EST,7880,"N",74,"Nursing/Other","1840-1930","
+1840-1930
+PT RETURNED TO [**Location 1343**] S/P DISKECTOMY AND C5-6 FUSION. 
+
+NEURO: ALERT. FOLLOWING COMMANDS. MAE. PERL 3MM BRISK.
+
+CV: PT TACHYCARDIC AFIB 120'S ON ARRIVAL RISING TO AFIB 150'S. EKG DONE. RESIDENT AWARE. SBP >160- 10MG HYDRALAZINE GIVEN. SBP NOW 140. 
+
+RESP: REMAINS INTUBATED AND VENTILATED AIMING FOR EXTUBATION IN AM. LS CLEAR WITH DIMINISHED BASES. NO SECRETIONS SUCTIONED SINCE RETURN FROM OR.
+
+GI: REMAINS NPO WITHOUT OG/NGT. HYPOACTIVE BS.
+
+GU: U/O MARGINAL. D5NS 40MEQ KCL @ 75ML/HR. 
+
+SKIN: OR DRESSING TO ANTERIOR NECK. INTACT. NO DRAINAGE. PACER DRESSING REMAINS INSITU. 
+
+SOCIAL: PTS SON AWARE OF SURGERY. INTO VISIT TODAY AND WILL POSSIBLY CALL LATER.
+
+PLAN: MONITOR HR AND TREAT ACCORDINGLY.
+      LIGHTLY SEDATE FOR PT COMFORT OVERNIGHT.
+      AIM TO WEAN FOR EXTUBATION IN AM.
+      
+
+
+",,
+5829,11345,7257,,2544-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2544-5-19**] 11:09 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 14455**]
+     Reason: assessmant of ETT position, patient reintubated.            
+     Admitting Diagnosis: C SPINE FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          87 year old man with sycope and fall, unstable C-spine fracture, with new  
+      left sided single lead pacemaker.                        
+     REASON FOR THIS EXAMINATION:
+      assessmant of ETT position, patient reintubated.                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Reassessment of endotracheal tube.
+     
+     Comparison is made to prior chest radiographs dated [**5-17**] and [**2544-5-19**].
+     
+     SINGLE PORTABLE UPRIGHT CHEST RADIOGRAPH
+     
+     FINDINGS:
+     
+     Endotracheal tube is appropriately positioned approximately 4 cm from the
+     carina.  Given differences in upright technique on current radiograph, the
+     size of bilateral pleural effusions has not significantly changed. 
+     Interstitial edema persists.
+                                                                           
+
+",,
+5829,11345,7257,0,2544-05-19 04:15:00 EST,2544-05-19 04:17:00 EST,8041,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt remains intubated, curruntly on psv 10/5. tolerating well. acceptable ABG results. BS clear on both sides.
+Plan: wean and extubate this am.
+",,
+5829,11345,7257,0,2544-05-19 04:48:00 EST,2544-05-19 05:12:00 EST,6598,"N",74,"Nursing/Other",,"
+
+NPn 7p-7a
+
+no significant events overnight.
+
+neuro- pt lightly sedated on propofol 10-15 mcg. morphine prn for pain. pt wakes through sedation moves all ext. + sensation in all ext. follows commands. nods appropriatly. pupils = and reactive. c-collar in place.  
+
+CV- pt has VVI rate response pacer set at rate of 60. sling on left arm for immobilization due to new pacer was in a-fib at change of shift rate as high as 150. 5 lopressor given with good result. pt converted to Sr after a run of bigeminy ventricular beats. b/p stable. cont Sr through out the night. crit 33.5
+
+resp- sx small to mod amt thick blood tinged sputum. strong cough. pt placed on CPAP with ps [**5-28**] currently. ABG wnl. sat 100%. lung sounds clear. + gag. 
+
+Gi- abd soft NT. + Bs. no bm. on pepcid for prophalaxis. no OGT.
+
+GU- poor u/o. amber color. vol avg 20/hr. FB 500cc given X2 with no effect. mag replaced, K and Ca to be replaced. bun 21 creat.7
+
+Skin- head lac and abrasions. see carevue.
+
+social- son called for update overnight.
+
+plan- probable extubation this am. pt was a difficult intubation due to c-spine fx. monitor u/o ? need more fluid or lasix. lyte replacement. 
+
+
+",,
+5829,11345,7257,0,2544-05-19 14:49:00 EST,2544-05-19 14:51:00 EST,426,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt was weaned and extubated tol poorly and was reintubated 10 minutes later.  pt was nasaly reintubated tol well.  see respiratory page of carevue for more information.
+",,
+5829,11345,7257,0,2544-05-19 17:15:00 EST,2544-05-19 17:47:00 EST,8611,"N",74,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events: Planned extubation at 1000---> RSBI in the 50's---> + cuff leak---> minimal secreations----> fiberoptic bronch station at bedside with emergency intubation cart; extubated with poor tol, unable to manage secreations dispite cont oral suctioning, inhailed epinepherine with minimal effect, nasal trumpet inserted to maintain patent airway, pt sats dropped into low 90's, tachypnea with tachycardia, fiberoptic reintubation L nare, CXR obtained, resedated on propofol.
+
+Neuro: Alert and appropriate, follows all commands, MAE's, equal strenght both sides, PERRLA, able to speak when extubated, cervical collar on at all times, anterior C5-C6 fusion, sedated on 25 mcg propofol.
+
+CV: VVI pace maker placed yesterday, cardiology up for successful interrogation(sp), L upper chest DSD, ? afib versus accelerated junctional rhythm this am, periods of sinus dysrrhythmia and atrial fibrilation, pneumoboots, arterial line, normotensive.
+
+ID: Febrile at 100.2, Vancomycin orderd post op only, flat white blod cell count.
+
+Resp: Thick bloody secreations req suctioning and lavage, some airway swelling noted during bronchoscopy, inflammed bronchi/bronchioles, Nasal intubation with vent at CPAP 5/5 and 40% Fio2, course breath sounds, weak cough.
+
+GI: NPO, + BS, soft abdomen.
+
+GU: Foley, oliguria most of the day, dark amber urine, elevated BUN.
+
+Endo: sliding scale with no coverage.
+
+Pain: report no pain when asked.
+
+MS: Cervical Collar, Bedrest.
+
+Skin: CDI, Cervical primary dressing CDI, Pacer site CDI with steristrips.
+
+Plan: Extubate in 1-2 days, montior for decreased airway irritation and swelling via bronchoscopy, pain mgmt when needed, therapeutic anxiolysis/modersate sedation to control anxiety, neuro checks as ordered, nursing treatments as indication, provided support and education to pt and family members. 
+
+     
+
+
+
+
+
+
+
+
+
+
+
+",,
+5829,11345,7257,0,2544-05-20 04:31:00 EST,2544-05-20 04:35:00 EST,8041,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt remains nasally intubated, no vent changes made.BS coarse, diminished at bases. RSBI this am was 35.6. 
+Plan:Keep pt intubated until the swelling subsides and is safe to extubate.
+",,
+5829,11345,7257,0,2544-05-20 05:25:00 EST,2544-05-20 05:40:00 EST,8775,"N",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+review of systems; see carevue for details
+
+Skin: scattered abrasions-bacitracin applied. anterior neck dsg intact.
+
+Neuro: q 2 hr neuro checks. pt MAE's, follows commands, opens eyes spont and to speech. intact sensation to all extremities. propofol gtt @ 30mcg/kg/min.  Nods appropriately. [**Location (un) **] J collar on. HOB up.
+
+CV:pacemaker VVI set at 60. HR 70's-low 100's, afib to SR, with PVC's frequently,and bigeminy at times.K 3.9 gave 20meq, ionized Ca 1.14-2 amps of Ca gluc given. SBP by aline 100's-150's. tmax 100.9,temp down throughout shift. p boots on.
+
+Resp: nasally intubated #7 and 27 at left nare, retaped this am due to secretions. lrg amt of bloody secretions from nose and mouth. also sxning bloody/thick secretions from ETT-moderate amt.LS coarse bilat upper lobes, r>l, dim bilat lower lobes. RR 18-26 on cpap 5/5/40%, psox 99-100%
+
+GI: abd softly distended, present BS, no BM. no ogt/ngt tube.npo
+
+GU: foley cath draining amber, clear urine. UO low all shift approx 15-30cc/hr. 500 cc saline bolus given with minimal results.foley flushed and foley is patent. maint fluid .9 @ 125cc/hr
+
+Access: 2 piv's-due to be changed today, l radial aline-tubing/dsg changed today.
+
+Plan: pulmonary toilet
+      assess for low urine output
+      assess need for OGT/NGT
+      
+
+Access: 
+",,
+5829,11345,7257,0,2544-05-20 16:15:00 EST,2544-05-20 16:29:00 EST,8523,"N",74,"Nursing/Other","Nursing (0700-1900)","
+Nursing (0700-1900)
+See flowsheet for details.  No significant events today.
+
+Neuro exam intact, now done Q4hrs.  Propofol held for exam, otherwise pt. sedate/calm and denying pain via nodding.  Pt. moves all 4 extremeties equally yet very weakly.  Pt. follows commands and nods appropriately to questions.  
+
+Pt. kept nasally intubated on CPAP today in light of airway edema.  Decadron started after clearance by ortho-spine team.  Obvious swelling noted to anterior neck.  Minimal endotracheal secretions, though pt. frequently oozing bloody thick secretions via right nare, especially during oral care.
+
+VS as documented.  Pt. appropriately hyperdynamic with stimulation, nursing care, etc, but BP increased in comparission to yesterday.  Discussed with H.O.  Lopressor resumed.  Much less VEA noted after dose.  V-paced appropriately on occassion (VVI @ 60).  SKin warm and dry, slightly anasarcic, assessment as noted.  
+
+Pt. given IV lasix today in light of TBB, airway edema with excellent response.  Lytes repeated, pending.  Prior to lasix UO marginal - team aware.  IVF changed, decreased.  Otherwise no nutrition.  Abd. benign. Glucose wnl.
+
+Pt's son in this afternoon.  SS met with him briefly.  Questions answered.
+
+PLAN:
+Will keep intubated overnight and continue decadron.  To reassess cuff leak, edema, etc. in a.m.
+Neuro exams Q4hrs.  Continue C-collar.
+Follow up with afternoon lytes, replete as necessary.
+?Reassess nutritional status in a.m.
+Optimize pt. comfort and safety.
+",,
+5829,11345,7257,0,2544-05-20 18:50:00 EST,2544-05-20 18:52:00 EST,69,"N",74,"Nursing/Other",,"
+
+Patient remains on mechanical ventilation tolerating PSV very well but has copious amount of bloody secretion.Not following commands will continue to follow.
+",,
+5829,11345,7257,0,2544-05-21 04:32:00 EST,2544-05-21 04:35:00 EST,419,"N",74,"Nursing/Other",,"
+
+Resp Care
+Remains intubated nasally, ventilated overnight on psv/cpap 5/5/ 40%. Breath sounds coarse, suctioned large amounts of bloody secretions, strong spontaneous cough. Does have +air leak with cuff deflated. RSBI =72.
+",,
+5829,11345,7257,0,2544-05-21 04:53:00 EST,2544-05-21 04:59:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 19-07","
+T/SICU Nursing 19-07
+Neuro: Sedated lightly on propofol gtt, weened to 10mcg/kg/min. Breaks through sedation, follows commands consistently. Globally weak but equal strength bilaterally, moves all extremities. PERRL. Appropriately interactive through nods / mouths words.
+
+Pain: Denies.
+
+Resp: Nasally intubated, no vent changes made this shift. ABG normal with excellent oxygenation. Lungs coarse R>L, bibasilar crackles. Suctioned for moderate amounts of thick tan bloody sputum.
+
+CV: A-fib with frequent VEA, occ brady to 40's-50's. Lopressor held at midnight and 4AM as pt's HR consistently in 50's, and from time to time SBP fell below 80 - which resolved without intervention. No paced beats observed. P-boots on, sc heparin ppx. Left radial arterial line transduces sharply and correlates well with NBP cuff.
+
+GI: Abdomen soft, non-distended. No gastric access.
+
+GU: Foley to gravity with inadequate urine output; then diuresed with 20mg lasix with brisk response.
+
+Endo: RISS with no coverage required.
+
+Skin: Multiple abrasions healing, triple abx ointment applied.
+
+Lytes: Repleted KCL with 20meq in evening, repeat >4
+
+ID: Afebrile.
+
+Plan: Maintain safety. Pain, sedation management. Pulmonary toileting, vent ween as tolerated. Gastric access if not extubated today. Nutrition. Notify team of acute changes.
+",,
+5829,11345,7257,0,2544-05-21 16:53:00 EST,2544-05-21 16:55:00 EST,5240,"N",74,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains nasally intubated and currently vented on PSV 5/5 tol well with VT around 400s and MV 8-10L. BS clear to course sxing for small to mod amts of thick tan/blood tinged secretions. Good cuff leak noted but will remain intubated overnoc. Will cont with vent support.
+",,
+5829,11345,7257,0,2544-05-21 17:27:00 EST,2544-05-21 17:40:00 EST,8523,"N",74,"Nursing/Other","Nursing (0700-1900)","
+Nursing (0700-1900)
+See flowsheet.  No significant events today.
+
+Pt. neurologically intact.  Nods appropriately and was attempting to mouth words this a.m. on minimal sedation.  Pt. obviously frustrated by communication barrier, and became agitated, propofol resumed at beginning of shift.  Strengths equal, pt. weak.  Gag reflex grossly impaired, cough intact when induced, impaired while restful.  Versed given x 2 this shift for breakthrough agitation with effect.  Pt. denies pain.
+
+No extubation today.  Anterior neck remains visibly swollen, though swelling has somewhat disipated.  Tonsils difficult to visualize by oral exam.  Pt. did have a cuff leak when deflated.  Pt. remains on CPAP.  Early a.m., sats dropped to 89-91%.  LS were clear at the time.  Pt. ambu'd then suctioned for few small tan plugs, sats returned to 100%.  Minimal secretions otherwise, suctioned by RT.
+
+VSS.  Tolerating lopressor.  Few vent. paced beats noted this a.m., none this p.m.  VVI with appriate sensing and capturing.  Skin warm, dry, mildly anasarcic.
+
+Abd. remains benign.  Pt. diuresed again this a.m. after discussion on rounds.  Good response to lasix, UO is tapering off this evening.  IV KVO'd.
+
+Pt's son in, asking appropriate questions.  Concerned about prolonged intubation.
+
+PLAN:
+?Extubate tomorrow if airway stable.
+Readdress nutritional status.  
+Continue soft cervical collar until pt. gets OOB.
+Pt., family support.
+Optimize comfort and safety.
+
+",,
+5829,11345,7257,0,2544-05-22 03:48:00 EST,2544-05-22 03:50:00 EST,419,"N",74,"Nursing/Other",,"
+
+Resp Care
+Remains nasally intubated and ventilated overnight on psv 5/5/40% Breath sounds clear throughout. O2 sat/abgs acceptable. +air leak RSBI = 36. Plan is to extubate later this morning.
+",,
+5829,11345,7257,0,2544-05-22 04:09:00 EST,2544-05-22 04:33:00 EST,8748,"N",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+No significant events
+
+Neuro: Pt sedated on propofol. When lightened, pt opens eyes to voice and follows all commands. PERRLA, 3mm, brisk.  Pt communicating by nodding. MAE, bilat UE lift and hold, bilat LE lift and fall. Pt denies pain. 
+
+CV: A-fib, v-paced by demand at 50, pacer is capturing. Rare pvc's. HR 50-70's. SBP 90-130's. BP occasionally dipping to high 80's when pt deeply sedated, resolves with stimulation. +PP. Pt recieved x1 dose of 40 of lasix last evening with good effect. Lytes repleted. BUN up to 24.
+
+Resp: Pt nasally intubated on CPAP- [**2477-5-23**]. Most recent ABG wnl. Sats 98-100%. RR low 20's. LS coarse bilaterally, clearing with suctioning. Sx'd several times for mod amts thick tan secretions. Impaired cough and gag. +cuff leak. 
+
+GI: Abd soft, nt, nd. +BS. No BM. 
+
+GU: Foley draining adewuate amts cyu. Diuresing well to lasix dose. 
+
+Endo: FSBS per SS. No coverage required. 
+
+ID: Afebrile. No abx at this time. 
+
+Skin: Multiple abrasions/lacs to face and scalp. All open to air with no drainage. 
+
+Social: No contact from family overnight. 
+
+Plan: Monitor fluid status, cont gentle diuresis. Pulm toilet, extubate. Maintain skin integrity.  
+",,
+5829,11345,7257,0,2544-05-22 05:00:00 EST,2544-05-22 05:01:00 EST,8748,"N",74,"Nursing/Other","addendum:","
+addendum:
+Discuss on rounds beginning a nutrition regimen.
+",,
+5829,11345,7257,0,2544-05-22 10:12:00 EST,2544-05-22 10:19:00 EST,69,"N",74,"Nursing/Other",,"
+
+Patient extubated but has copious amount of thick bloody secretion. Has strong cough,mobilizes secretion, but [**Last Name (un) **] assistance with it disposal.Has poor gag reflex,airway pattent.
+",,
+5829,11345,7257,0,2544-05-22 15:54:00 EST,2544-05-22 16:34:00 EST,6293,"N",74,"Nursing/Other","NPN 07-1930","
+NPN [**7-/2467**]
+EVENTS: patient extubated this morning with fiber optic cart at bedside. extubated to humidified face tent > slightly congested immediately post extubation, voice hoarse and difficult to understand. clearing slightly t/o day with use of insuffilator and frequent suctioning. 
+
+ROS: see carevue for details
+
+NEURO: now alert & oriented x2-3, confused at times but knows he's at [**Hospital3 781**] and that it's may. moves all extremities with fair strength. denies pain. perla [**2-22**], briskly reactive. 
+
+CV: HR 60-90s, SR, intermittantly vpaced. hypertensive, metoproplol and hydralazine as indicated. +pp. minimal peripheral edema noted
+
+RESP: extubated as above. LS, coarse upper airways, clear dimished lower. on humidified face tent O2 sat 99-100%
+
+GI: NPO. will need speech & swallow eval prior to initiating diet. pepcid as ordered
+
+GU: lasix x1 with good diuresis. foley with good urine out.
+
+ENDO: no coverage needed via RISS
+
+ID: afebrile no issues
+
+SKIN: intact, multiple small abrasions to head and legs.
+
+SOCIAL: son into visit patient updated on plan/status. 
+
+PLAN: pulmonary toilet, speech & swallow. monitor & support as indicated. 
+",,
+5829,11345,7257,0,2544-05-22 16:28:00 EST,2544-05-22 16:35:00 EST,69,"N",74,"Nursing/Other",,"
+
+RN and RT suctioned patient almost Q1. IN/Exsufflator used with 40cmH20 pressure. Patient tolerates apparatus very well. Two cycles of 5 breaths each delivered to patient followed by oral suction. N/S occasionally squited into mouth for irrigation with good result.
+",,
+5829,11345,7257,0,2544-05-23 07:44:00 EST,2544-05-23 07:52:00 EST,1015,"N",74,"Nursing/Other","NPN, 1900-0700","
+NPN, 1900-0700
+neuro: AAO x [**2-22**], awakens slightly confused. No focal deficits, no seizures, denies all but minor pain.  Soft collar on at all times.  
+
+CV: afib, 1st degree HB, no VEA. SBP 140's-150's; hydralazine 10mg x 1 for sustained SBP > 160. Lopressor increased to 10 mg q6 hours.  Pulses strongly palpable throughout; min edema.
+
+Pulm: weaned from 70% face tent to NP @ 4 l/min.  BS essentially CTAb, dim bases.  Weak cough, clears to throat, dark bloody secretions.  Sats > 95%.
+
+GI: abd soft, non-tender.  BS hypo throughout; NPO.
+
+GU: F/C urine clear amber, OP adequate.  IV's locked.
+
+Skin: dry, grossly intact except for abrasion/lac of head and surgical wounds, all C/D.
+
+ID: afebrile, WBC WNL; no antibx.
+
+Endo: RISS, adequate coverage.
+
+Psychosocial: no family contact overnoc.-
+
+",,
+5829,11345,7257,0,2544-05-23 18:13:00 EST,2544-05-23 18:33:00 EST,42,"N",74,"Nursing/Other","T-SICU Nsg NOte","
+T-SICU Nsg NOte
+   Alert, Ox3, conversant.  Speech difficult to understand at times - a bit slurred - but may be baseline.  Pt is Hard of hearing, but seems to understand loud speech fine.  Equal strength bilat - lifts and holds against gravity. Denies pain.  [**Location (un) 204**] J collar on when pt OOB, soft collar on when pt in bed.
+   A-fib, occ sinus beats?  Frequent PVC's.  VVI pacer set at 50, no paced beats seen.  BP 140-170 sys.  NOw on metoprolol 5mg IV q 6 hrs.
+    On room air, sats 94-96% most of time. Occ when pt asleep, sats dip < 90%, but spont goes back up.  Lung sounds clear.  Pt coughs and raises sputum to posterior pharanax.  Pt does not spit nor effectively swallow.  Needs oral suctioning to clear sputum.  I tried to teach pt to use Yankauer suction himself, but pt wants nurse to to do it.  
+    Pt sitting in chair, attempted custard. Pt took bites, chewed, did make swallowing motions, but began coughing.  Back of mouth suctioned for custard.  Pt remains NPO.  Pt denies hunger.  Abd soft, hypoactive BS, no stool.
+   Pt not on IV fluids, no lasix given today.  Fluid balance negataive for day.  U/o about 30cc/hr.  Potassium repleted.
+    Blood glucose levels < 115, no exogenous insulin given today.  
+  Pt's son and daughter in law in to visit today.  THey were encouraged by pt's appearance and attentiveness.  Concerned about difficulty swallowing.
+A: Pt progressing well.  PRoblem areas are swallowing and protecting airway.  ALso difficulty taking steps.
+P: Encourage activity and  using Yankauer.  Plan to assess swallowing and plan for nutritional needs.  Informational support to pt and family.
+",,
+5829,11345,7257,0,2544-05-24 04:21:00 EST,2544-05-24 04:44:00 EST,6598,"N",74,"Nursing/Other",,"
+
+NPN- 7pm-7am
+
+neuro- pt alert and oriented most of night. 0330 pt wanted to get up and thought it was morning. pt easily redirected. MAE,+ sensation in all ext. follows commands. no c/o pain. soft collar on while in bed. hard collar to be worn when oob. pt given 15 restoril for [**Doctor Last Name 5**] per pt request. pt slept for approx 2 hrs.then awake on/off throughout the night. Pt consult ordered.
+
+Cv- cont in afib with lots of ectopy. frequent pvc including bigeminy. HR 120's when moving around in bed. lowest rate 80's. pt paced VVI. pt hypertensive sbp 150-170's lopressor and hydralazine given with little effect. heparin and p-boots for prophalaxis. crit 36.5
+
+Resp- cont on R/A. sat 93-97% strong cough but impaired gag and impaired clearence of secreations. ? aspiration. lung sounds coarse in upper airway at times. requiring sx to back of throat to clear secreations.
+
+Gi/GU- abd soft + BS. remains NPO due to ? aspiration. swallow eval ordered. IVF D/C. u/o wnl. bun 28 creat .6 K replaced.
+
+skin- head lac and abrasions - bacitracin oint placed. neck inc and left chest pacer inc. steri-strips intact. heals pink and elevated on pillows.
+
+ID- afebrile wbc 4.
+
+plan- OOB as tol. swallow eval. PT eval. transfer to floor.
+
+
+
+
+
+
+",,
+5829,11345,,,2544-05-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2544-5-26**] 2:35 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 14456**]
+     Reason: ? picc placement                                            
+     Admitting Diagnosis: C SPINE FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             picc placement confirmation, picc was advanced, need confirmation        
+     REASON FOR THIS EXAMINATION:
+      ? picc placement                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Advancement of PICC line.  Reevaluate placement.
+     
+     Comparison is made to prior chest radiographs from earlier on the same date.
+     
+     PORTABLE UPRIGHT CHEST RADIOGRAPH
+     
+     FINDINGS:
+     
+     Right-sided PICC catheter terminates within the mid SVC.  Appearance of the
+     radiograph is otherwise unchanged from film taken at 12 p.m.
+                                                                           
+
+",,
+5829,11345,,,2544-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2544-5-28**] 9:45 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 14457**]
+     Reason: assess change eval for pna.                                 
+     Admitting Diagnosis: C SPINE FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 M, aspiration risk, with tachypnea, SOB                                     
+       
+     REASON FOR THIS EXAMINATION:
+      assess change eval for pna.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of tachypnea and shortness of breath.
+     
+     There is cardiomegaly with tortuosity of the thoracic aorta, CHF and bilateral
+     pleural effusions as previously demonstrated.  In addition, there is ill-
+     defined opacity in the left mid and lower zones obscuring the left
+     hemidiaphragm consistent with consolidation in the left lower lobe, possibly
+     slightly increased in extent when compared with the prior film of the same
+     date.  Findings consistent with pneumonia/aspiration superadded to the CHF.
+     Minimal ill-defined opacity right lung base consistent with atelectasis,
+     unchanged.  Left-sided pacemaker with single lead overlying region of RV apex
+     in this single view.  Status post cervical spine fusion.
+     
+     IMPRESSION:  CHF and left lower lobe pneumonia/aspiration possibly slightly
+     worse than on prior film of same date.
+
+",,
+5829,11345,7258,0,2544-05-29 03:42:00 EST,2544-05-29 04:26:00 EST,5919,"N",54,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+Please see carevue and FHP for additional data.
+Full Code
+NKDA
+
+Briefly: PT w/ admit s/p fall for C4-C6 fx, c/b resp. distress. On floor triggered for desaturation/confusion. Required NRB at time and frequent pul. toilet on floor. Cxr indic. of asp. PNA. Transferred to MICU for pul. toilet.  
+
+Neuro: AOx2, reoreints to place easily. (reportedly combative on floor for which he received .25 of Haldol.) In MICU pleasant, cooperative with care. Anxious about his health and wants ""the truth"" about his present condition and recovery. Reassurance provided, able to fall asleep after this. Soft collar remains in place, plan for MICU to talk to orthospine today to determine need, as may pose inc. aspiration risk. In bilat. soft wrist restraints as pulling at O2 mask and lines.
+Resp: LS coarse to rhonchorus. On 35% humidified face tent, sats 96-99%. CXR w/ LL PNA. Strong productive cough, able to cough up secretions if prompted, to back of throat, and orally sxned out. Mod. amount of brown, thick secretions. Had one episode of desatting, encouraged coughing, brought up large, tan, plug, sats resolved. Noted to have occ., short lived, self-limiting,apnea.
+CV: NSR-Afib 77-104. Pt w/ VVI pacer placed [**5-15**], no paced beats noted. On IV Metoprolol and Hydral. HCT stable. AM potassium 3.1, plan for replacement. D5 .45% NS at 100cc/hr for one liter for marginal u/o.
+GI/GU: abd soft, +BS. No stool. Foley patent, draining marginal amounts of concentrated, dark yellow urine, maintainence ivf ordered. Remains NPO. Failed bedside swallow eval. for all consistency food and liquids. Pt did not tolerate NGT placement, and did have PPN initiated on floor. PPN was dc'd for unclear reasons, plan to discuss nutrition today in rounds. Wet, gurgly voice noted, although is able to clear w/ prompting. Freq. mouth care provided, tongue with thick, yellowish coating. 
+Skin: Laceration to scalp, black scab noted. Steri strips intact to left chest pacer site. 
+ID: afeb. WBC 8.2, down from 10.7. Received one time doses of Vanco/Zoysn. 
+Social: No contact from family overnight. Floor nurse [**First Name (Titles) **] [**Last Name (Titles) 1344**] interest in talking with [**First Name8 (NamePattern2) 1345**] [**Last Name (NamePattern1) 1346**] regarding long term care goals and appropriateness. 
+A/P: Resp. Distress: CXR indic. of LL infiltrates, likely asp. PNA. Vanco/ Zoysn as above. Encourage, cough, expectoration/ pul. toilet. Sputum spec. still to be sent, patient with difficulty expectorating secretions independently, will hold in mouth and wait for yankaur sxn. 
+Dysphagia: NPO. Consider dc'ing soft collar, plan to appreciate orthospine reqs. regarding this today. Will need plan for nutrition. 
+Delerium: PRN Haldol order, not needed thus far. 
+Inc. LFT's: Unknown etiology, plan for US today. 
+Cont. providing supportive care.
+",,
+5829,11345,7258,0,2544-05-29 16:01:00 EST,2544-05-29 16:08:00 EST,3449,"N",54,"Nursing/Other",,"
+
+NPN 7a-7p:
+    Nuero: pt A+O x 3, occasional confused statements in conversation, otherwise oriented. No pain OOB to chair with 2 assist. Per Ortho pt needs to wear hard c-collar when OOB([**Location (un) **] J placed), and can wear soft collar when in bed. Steri strips intact to suture line from spinal fusion surgery anterior neck. 
+    CV: HR 90's-120's AF. receiving lopressor q 4 hr iv. sbp 130's-150's, continues also on hydralazine iv. 
+     RESP: pt able to cough secretions up to back of throat most of shift... Did become short of breathe congested with secretions x 2, requiring NT sx x 2 for copious amts thick tan secretions.. sent for cx. LS crackles L base, rhonchorous throughout.. per team, pt with LLL pna. 
+     ID: remains on vanco/Pip for new lll pna. afebrile. wbc wnl.
+     GI: ab soft, bs +. no stool.
+     GU: foley intact. uo adequate.
+     fE: completed 1L ivf (D5 1/2 ns) for elevated Na. K+ repleated, repeat K = 3.6.. will discuss with team.
+      Social: son in and discussion had with pt, son and team.. pt decided to become DNR/DNI, to be full treat over w/e with goal of making it to an inpt hospice closer to son's home. Hospice in to discuss with pt. 
+",,
+5829,11345,7258,0,2544-05-29 16:11:00 EST,2544-05-29 16:15:00 EST,3449,"N",54,"Nursing/Other",,"
+
+nPN day note (to add):
+    A/P: pt continues to require frequent pulmonary toilet, requiring assist with yankeur sx, and NT sx.. Pt is likely to have recurrent Pna's d/t dysphagia, and will have chronic npo status.. in light of pt's poor prognosis, pt decided to become dnr/dni, full treat for now, but to pursue hospice care. 
+",,
+5829,11345,7258,0,2544-05-29 17:47:00 EST,2544-05-29 17:48:00 EST,3789,"N",54,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+CARDIAC- HR ON DOPA DOWN TO 65 V PACED. PER DR [**Last Name (STitle) 1347**] WILL INCREASE DOPA IN ATTEMPT TO GET MAP UP TO 70 TO SEE HOW SHE DOES. 
+",,
+5829,11345,7258,0,2544-05-30 01:03:00 EST,2544-05-30 01:38:00 EST,8919,"N",54,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+All alrms on monitor in place and functioning normally; environment secured for safety; report recieved from day shift
+
+DNR/DNI
+
+Universal Precautions
+
+NKDA
+
+Pt is an 87 year old male h/o afib, HTN, CVA, bronchitis, depression, hypercholestermia, syncope; admitted to [**Hospital1 22**] from OSH for C5-6 fusion of unstable fx after syncopal episode/fall, prolonged intubation in TSICU; also had pacer placed for tachy-brady syndrome; [**5-28**] triggered on floor, had dyspnea, rhonchorous breath sounds, suctioned for copious secretions, spiked temp and asp pna per CXR; to MICU for further mgt
+
+[**2-21**] cervical fx, pt now apirates constantly d/t dysphagia; family meeting [**5-29**], pt made DNR/DNI; will be d/c'd after the weekend to hospice but is not CMO here.
+
+NEURO: pt oriented to person and time but not to place; frequently alert, but sleeping presently; follows commands, moves all extremities, +senasation all extremities; facial symmetry intact; PERL; no seizure activity; denies pain
+
+CV: SBP 164-115, MAP 104-83, meeting criteria to recieve IV     hydralazine and metoprolol; HR 114-90, NSR occasional PVC's, HR to 130's with coughing; repleted with 40meq KCl; slight edema lower extremities, non-ptting; pnuemoboots in place; denies CP
+
+RESP: LS rhonchorous at apices and coarse at bases; RR 19-23, appears unlabored, not using accessory muscles to breath; denies dyspnea; frequently orally suctioned for thick yellow secretions, NT suctioned x1 for copious secretions; on face tent 10L 50%, sats >92%; CPT and CDB frequently; nebs per RT
+
+GI: NPO for aspiration; will be able to eat when goes to hospice; +BS, no stool, abd soft non-tender, non-distended; no N/V/D; TPN d/c'd
+
+GU: foley in place; poor U/O beginning of shift, now U/O large amount clear yellow urine
+
+SKIN: abrasion right shin, dsg intact; steri-strips at cerv fusion site intact cdi; laceration from fall top of head with scab intact
+
+ACCESS: right PICC double WNL
+
+POC: to hospice on Monday; continue CPT/CDB/nebs, frequent suctioning; replete elytes as needed; per palliative care note, pt to be made CMO if declines over the weekend; continue abx for pna
+
+Please see Careview as needed for additional info
+
+
+",,
+5829,11345,7258,0,2544-05-30 16:11:00 EST,2544-05-30 16:37:00 EST,7689,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+*DNR/DNI
+
+*Access:  Rant DL PICC
+
+*NKDA
+
+* Please see admit note/FHP for admit info and hx.
+
+Neuro:  pt A&O x3 once and otherwise forgets which hosp he's in.  Was able to hold conversation and remembered DNR/DNI discussion from yesterday and able to relay past med hx.  Very pleasant and cooperative w/ care. No c/o pain/discomfort, no pain in neck s/p c5-c6 fusion, soft collar while in bed, hard collar if OOB.  Tested swallow w/ thickened apple juice but unable to determine if pt is swallowing properly d/t secretions already in throat that pt is having difficulty clearing at times.
+
+Cardiac:  NSR/ST w/ rare-occasional PVC's, HR 81-103, SBP 119-166, receiving Metoprolol and Hydralazine IV as ordered.  hct this AM stable @ 33.2.  K this AM (3.4) repleted w/ 40mEq IV.  
+
+Resp:  Remains on facetent for moist air to keep secretions loose, 35% cool face tent, o2sat 95-98%, rr 12-23, LS clear upper and coarse lower, coarse upper @ times but clears w/ expectorating and/or sxn.  NTsxn x1 this AM for copious amts thick tan secretions.  As day progressed, pt more lucid and able to cough up secretions when prompted and sxn w/ yankaur.  Continue w/ nebs standing order.
+
+Gi/Gu: remains NPO for aspiration precaution, ? able to eat once CMO to hospice, +BS, no stool this shift, abd soft/non-tender.  Urine out foley yellow/clear, 50-140cc/hr.  
+
+ID:  Afebrile 96.6axillary, 98.0 oral, WBC 9.7.  Vanco/Zosyn for probable asp PNA.  
+
+Skin:  laceration on top of head s/p fall is scabbed over, no fluid.  IV site wnl.  Suture site on neck s/p c5-c6 fusion and site on L upper chest s/p pacer placement w/ steristrips intact.
+
+Psychosocial:  Son and daughter-in-law visited today and pt was pleased to see them.  Son updated on condition and POC.  He is searching for hospice and/or rehab placement for his father.  Pt understands what his condition is and agrees w/ the plan @ this time as he made the decision w/ his son yesterday.  Also agreed to CMO here if condition declines.
+
+Dispo:  monitor secretions, remain NPO, cont med regimen and abx, cont icu care @ this time, may go to hospice on Monday.
+",,
+5829,11345,7258,0,2544-05-31 03:24:00 EST,2544-05-31 04:01:00 EST,8919,"N",54,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+All alarms in place and functioning normally; environment secured for safety
+
+NEURO: pt A+Ox3, but currently sleeping; answers questions appropriately, follows commands, denies pain, no seizure activity; PERL, pupils 3mm and brisk bilaterally; moves all extremities; +sensation x4, facial symmetry intact; soft collar in place
+
+CV: SBP 134-158, MAP 85-109; meeting criteria to recieve IV metoprolol and hydralazine; HR NSR/ST occasional PVC's 95-120's; please see Careview for am labs; HCT stable; slight non-pitting edema lowers extremities; pnuemoboots in place; afebrile
+
+RESP: LS coarse throughout, expectorating and suctioning much less frequently than yesterday for tan thick secretions, small to copious in amount; has not requried NT suctioning; +productive cough; pt off face tent, now on 4LNC, sats 92-100%, will desat to 80's during [**Doctor Last Name 5**], but quickly recovers to sat in the 90's; RR 16-21; CPT and CDB as needed; atrovent nebs per RT; vanco zosyn for prob. asp pna
+
+GI: +BS, no stools, +flatus; abd soft non-tender, non-distended; failed speech/swallow from [**5-26**]; continues NPO d/t probable aspiration; no NVD
+
+GU: foley in place draining adequate amounts of clear yellow urine
+
+SKIN: unchanged, scab over laceration top of head, dsd over right shin; steris dry and intact anterior cervical incision, inc approximated, no drainage; reddened skin throughout, per pt is his baseline [**2-21**] sensitive skin
+
+ACCESS; right double lumen PICC WNL
+
+POC: cont CPT/CDD, suctioning as needed; plan is for hospice on Monday; continue abx; continue NPO, no TPN/PPN per family
+
+Please see Careview for additional info
+
+
+
+",,
+5829,11345,7258,0,2544-05-31 03:36:00 EST,2544-05-31 03:37:00 EST,3975,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient receiving atrovent med nebs Q6. No wheezing pre tx but noted during tx with coughing attempts. Cough productive for small amounts of thick, tan sputum. Plan to continue atovent nebs Q6/ albuterol Q6prn.
+",,

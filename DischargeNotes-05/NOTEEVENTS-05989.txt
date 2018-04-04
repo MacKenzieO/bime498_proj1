@@ -1,0 +1,546 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5989,21221,,,2588-10-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2588-10-30**]     Discharge Date:  [**2588-11-3**]
+
+Date of Birth:              Sex:  M
+
+Service:  MICU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 54 year old
+male with a history of HIV diagnosed in [**2572**] and Hepatitis C,
+now presenting with a history of nausea, vomiting and
+jaundice, with right upper quadrant pain with an ultrasound
+showing common bile duct dilatation, who was referred for
+endoscopic retrogram cholangiopancreatography after a failed
+attempt at an outside hospital limited by ineffective
+sedation.
+
+The patient has a baseline coagulopathy and was given two
+units of fresh frozen plasma pre-procedure.  After procedure,
+diffuse dilation of the biliary tree with the common bile
+duct at 12 mm compatible with AIDS coagulopathy and papularly
+stenosis was found.  The patient had a sphincterotomy
+performed with good results at 1 a.m. in the morning.  The
+patient had hematemesis of 400 cc of coffee ground emesis and
+bright red blood with an additional episode of 300 cc later
+on.  There was red blood in the NG tube as well, and the
+patient was transferred to the Medical Intensive Care Unit
+for further management.
+
+PAST MEDICAL HISTORY:
+1.  Human Immunodeficiency Virus.
+2.  Pulmonary hypertension.
+3.  Reflux disease.
+4.  Bronchitis with a history of pneumonia.
+5.  Former intravenous drug abuse.
+6.  Possible stroke in [**2575**].
+7.  Osteomyelitis.
+8.  Cellulitis.
+9.  Migraine.
+10. Chest pain with no documented coronary disease.
+
+ALLERGIES:   Ventolin.
+
+MEDICATIONS:
+1.  Flomax.
+2.  Epivir.
+3.  Viramune.
+4.  Klonopin.
+5.  Methadone.
+6.  Zofran.
+7.  Valtrex.
+8.  Prilosec.
+9.  Percocet.
+10. Zestril.
+
+SOCIAL HISTORY:  Previous intravenous drug abuse.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAMINATION:  On examination, pulse is 88; blood
+pressure 150/80.  In general, oriented to place and time.
+Denies any nausea.  Mild scleral icterus on Head, Eyes, Ears,
+Nose & Throat.  Neck showed no adenopathy; it was supple.
+Chest with mild bibasilar crackles.  No wheezes.  Heart was
+regular with no murmurs.  Abdomen with decreased breath
+sounds, nontender in all four quadrants.  No hepatomegaly.
+Extremities positive for asterixis, no edema.
+
+LABORATORY VALUES:  Showed a white count of 7.3, hematocrit
+of 31.9, sodium 138, potassium 4.2, chloride 103, bicarbonate
+24, BUN and creatinine of 7 and 0.7.  Glucose is 76; ALT 28,
+AST 101.  PTT 41.9, PT 1.7, alkaline phosphatase 177.
+Amylase 77.  Hematocrit dropped from 38.8 at baseline down to
+31.9.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit for further management.  The ERCP team
+rescoped the patient and active bleeding was noted at the
+site of her previous sphincterotomy with a large overlying
+adherent clot.  Epinephrine was injected as well as Bicap
+cautery with successful hemostasis.  The patient was
+electively intubated in the Unit for the procedure.
+
+The patient received two units of packed red blood cells and
+fresh frozen plasma.  The patient was extubated without
+significant difficulty.  The patient's hematocrit dropped to
+26.6 at its lowest.  The patient self-extubated on the 25th,
+and the patient was weaned to nasal cannula over the course
+of the night.  Blood pressure remained stable.  Hematocrit
+remained in the 28 region after two units.
+
+The patient developed a fairly significant degree of hepatic
+encephalopathy from the protein load secondary to the GI
+bleed and Lactulose was titrated up.  A right internal
+jugular line was placed for better access.  Due likely to the
+worsening hepatic encephalopathy, the patient was emergently
+intubated on the 27th.
+
+An echocardiogram was performed which showed normal left
+ventricular function.  Clindamycin was started
+prophylactically for a possible aspiration pneumonia.
+Cefuroxime was also started.  Hematocrit remained stable in
+the mid-30 range after that.
+
+The patient was extubated again on the 29th without
+difficulty.  The patient developed a sodium of 154 that was
+thought secondary to dehydration.  The sodium normalized with
+free water boluses per NG tube.  The patient continued to do
+well with a hematocrit in the 35 range.  Mental status
+returned back to baseline.
+
+The patient was requesting his usual medications by the 29th.
+The patient refused to be called out to the floor and signed
+out Against Medical Advice.  The patient was alert and
+oriented times three, clearly understood the risks involved
+in leaving this soon after the post-sphincterotomy bleed.  A
+prescription for Levaquin 250 mg p.o. q. day for seven days
+was given for treatment of a presumptive aspiration pneumonia
+and the patient left with his brother after signing the
+forms.
+
+DISCHARGE STATUS:  Signed out Against Medical Advice.
+
+CONDITION AT DISCHARGE:   Stable vital signs, stable
+hematocrit.  Alert and oriented times three.
+
+DISCHARGE DIAGNOSES:
+1.  Post-sphincterotomy bleed with successful hemostasis on
+repeat esophagogastroduodenoscopy.
+
+DISCHARGE MEDICATIONS:
+1.  Levaquin.
+2.  Lactulose.
+
+
+                          [**First Name4 (NamePattern1) 7559**] [**First Name8 (NamePattern2) 7560**] [**Name8 (MD) 7561**], M.D.  [**MD Number 7562**]
+
+Dictated By:[**Name8 (MD) 7563**]
+
+MEDQUIST36
+
+D:  [**2589-5-29**]  11:13
+T:  [**2589-6-1**]  10:30
+JOB#:  [**Job Number 7564**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 43**] [**Last Name (NamePattern1) 2042**]
+ on: SUN [**2589-8-9**] 5:07 PM
+(End of Report)
+
+
+",,
+5989,21221,,,2588-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-10-29**] 1:34 PM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 353**]
+     Reason: R/O Neoplastic process
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with h/o IVDA, HIV/AIDS, ?HBV/[**Hospital Unit Name 354**], and pulmonary HTN who has
+      obstructive jaundice. ERCP attempted at outside but unable to sedate. Referred
+      for ERCP.
+     REASON FOR THIS EXAMINATION:
+      R/O Neoplastic process
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ERCP:
+     
+     HISTORY:  AIDS with nausea, vomiting and jaundice and dilated common bile
+     ducts on sonoography.
+     
+     Four films are provided.
+     There is contrast filling of the common bile duct, common hepatic duct,
+     portions of the  right and left hepatic ducts and a few intrahepatic biliary
+     divisions.  Cystic duct and gallbladder are not demonstrated.   There is
+     dilatation of the common hepatic and common bile duct.  No definite calculi or
+     focal strictures.   S/P biliary sphincterotomy.  Dilated common bile duct
+     which could be secondary to papillary stenosis in this patient with AIDS.  S/P
+     biliary sphincterotomy.  Cystic duct and gallbladder not ddemonstrated.
+     
+
+",,
+5989,21221,,,2588-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-10-30**] 12:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 355**]
+     Reason: RT IJ PLACED FOR FUTURE I.V USE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with UGIB s/p ERCP
+     REASON FOR THIS EXAMINATION:
+      s/p right IJ placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 54 y/o man with upper GI bleed s/p right IJ placement.
+     
+     Portable supine AP chest radiograph dated [**2588-10-30**] is examined. There are no
+     prior studies for comparison. The heart size is normal. There is prominence of
+     the bilateral pulmonary arteries consistent with patient's history of
+     pulmonary hypertension. There are no infiltrates in the lungs. There are no
+     pleural effusions. ETT terminates 2 cm above the carina. The right internal
+     jugular venous catheter terminates in the mid SVC. There is bilateral basilar
+     atelectasis. Also note is made of moderate gas distended small bowel loops.
+     
+     IMPRESSION: 1) Appropriate position of right IJ catheter. 2) Bilateral hilar
+     prominence corresponding to pulmonary vasculature consistent with patient's
+     history of pulmonary hypertension. 3) Mild small bowel distention. 4)
+     Bilateral basilar atelectasis.
+
+",,
+5989,21221,7458,0,2588-10-30 02:42:00 EST,2588-10-30 03:33:00 EST,762,"N",69,"Nursing/Other",,"
+
+MICU Nursing Admission Note
+
+This is a 54 yo male who came to [**Hospital1 22**] for an ERCP [**10-29**].  Pt had c/o of n/v, jaundiced, he initally went to an OSH but they were unable to perform an ERCP due to the inability to fully sedate him.  Pt was transfered here and the ERCP and sphinctorotomy were done at 7 pm last evening.  Pt tolerated the proceedure and was doing ok until ~ midnight when he vomited a lg amount of coffee ground emesis with clots.  He cleared with NGT with lavage but then vomited a bit later this time with frank blood.  His HCT dropped from 38.8 to 31.9.  He was given 2 units of FFP (he has a baseline coagulopathy), and was transfer to the MICU.  pt arrived with stable VS, jaundiced looking - T. Bili 5.4.  
+
+Allergies: Ventolin, Actifed
+
+PMed Hx:  HIV since [**2572**], Hep C, pulm HTN, GERD, bronchitis, former IVDA, possible CVA, osteomylitis, cellulitis, migraines, chest pain without determined CAD
+
+Meds:  zofran, valtrex, prilosec, percocet, zestril, flomax, epivir, viramune, klonopin, methadone
+
+Systems Review:
+
+CV:  VSS, HR 90s when awake, 60-70s when sleeping, no c/o CP
+
+Pulm:  LS with rales at the bases, no c/o SOB
+
+GI:  Conts to vomit ~ [**1-8**] cut x3 since arrival - bright red no clots.  Pos BS, abd is not tender, skin is jaundiced.  A third IV was placed #18, IVF at 150cc/hr cont, GI is aware of his transfere here.
+
+GU:  Using urinal
+
+Neuro:  Alert, Ox3, on arrival he said that the n/n and sweating was much in par due to not receiving his total dose of methadone today.  Pt sleepy, hard to keep him awake.
+",,
+5989,21221,7458,0,2588-10-30 15:36:00 EST,2588-10-30 15:56:00 EST,679,"N",69,"Nursing/Other",,"
+
+PMICU Nursing Progress Note (0700-1900)
+
+GI: Pt. vomited approximately 200cc BRB this AM. No hemodynamic compromise and pt. receiving second unit of PRBC's at the time. Endoscopy performed after elective intubation by anesthesia. Bleeding site at sphincterotomy bleeding significantly. Area cauterized and injected several times with hemostasis eventually acheived. Pt. passed large, melanotic stool during procedure, but has had no additional, overt bleeding since. Abdomen soft and distended with active BS and +flatus.
+
+HEME: Hct of 27.7 after 2UPRBC's, currently receiving fourth. INR of 1.5 after 4UFFP and pt. is currently receiving fifth. Will recheck Hct and coags at 1800. 
+
+RESP: Remains intubated due to continued effects of sedation. Pt. received fentanyl, versed, sux, etomidate, vec and MSO4 by anesthesia during intubation/EGD. Additional 2mg ativan x 2 given as paralytic began to wear off. Now on PSV of 8 with 5 of PEEP, 40%, STV of 700. Lungs clear, sats of 100% ABG on above settings 103/31/7.41/24/0.
+
+CNS: Pt. initially very angry and agitated this AM as he felt we were witholding his methadone...threatening to leave the hospital. Pt. did receive 100mg methadone and 2mg klonipin shortly before intubation...anesthesia aware. Pt. is now very sedated, yet awakens with verbal stim and is able to follow commands. 
+
+F and E: Foley catheter placed with good urine output. 2L positive since admission to MICU/SICU. 
+
+ID: Afebrile.
+
+SKIN: Intact.
+
+LINES: 2 peripherals, triple lumen placed by Dr. [**Last Name (STitle) 1826**] right IJ. 
+
+SOCIAL: Brother, [**Doctor Last Name **], updated by nursing, Dr. [**Last Name (STitle) 1826**].
+
+DISPO: Extubate when pt. more awake. Follow serial Hct, coags. 
+
+
+",,
+5989,21221,7458,0,2588-10-30 16:23:00 EST,2588-10-30 16:24:00 EST,679,"N",69,"Nursing/Other",,"
+
+NPN Addendum
+Pt. began to wake up, beoming agitated, attempting to self extubate, tonguing ETT. Pt. quickly extubated and placed on 100% cool neb with sats of 100%. No evidence of respiratory distress or compromise. 
+",,
+5989,21221,7458,,2588-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-10-31**] 6:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 357**]
+     Reason: s/p intubation - pls assess placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with HIV, HepC
+     REASON FOR THIS EXAMINATION:
+      s/p intubation - pls assess placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Intubation in HIV positive patient.  Evaluate ET tube.
+     
+     ET tube is 3 cm above carina.  CV line is in proximal SVC.  There is marked
+     prominence of the pulmonary arteries, with slight attenuation of the
+     peripheral pulmonary vessels, consistent with pulmomary arterial hypertension.
+      NG tube is in distal antrum of stomach.  No pulmonary consolidation, pleural
+     effusion or pneumothorax.
+     
+
+",,
+5989,21221,7458,,2588-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-10-31**] 4:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 356**]
+     Reason: tachypneic, decreased mental status.  Pls eval for infiltrat
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with HepC, HIV, s/p post ERCP bleed.
+     REASON FOR THIS EXAMINATION:
+      tachypneic, decreased mental status.  Pls eval for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Severe shortness of breath with decompensation.
+     
+     PORTABLE SEMIUPRIGHT CHEST: Study is compared with AP supine chest radiograph
+     dated [**2588-10-30**].  The cardiac size is unchanged.  There is bilateral
+     prominence of the pulmonary artery consistent with the patient's history of
+     pulmonary hypertension.  The ET tube is no longer present.  Right IJ line is
+     in satisfactory position.  The NG tube is extending past the pylorus.  There
+     is slightly increased opacities in the bilateral lungs possibly representing
+     mild cardiac decompensation.  However, no pleural effusions are seen.
+     
+     IMPRESSION:
+     1. Patient s/p extubation.
+     2. Mild worsening of bilateral pulmonary interstitial infiltrates perhaps
+     indicative of mild cardiac decompensation.
+
+",,
+5989,21221,7458,0,2588-10-31 04:40:00 EST,2588-10-31 04:49:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING NOTE
+
+PT SLEPT MOST OF THE NIGHT, OPENS EYES TO VOICE, FOLLOWS SOME SIMPLE COMMANDS, RESISTS CARE AT TIMES ESPECIALLY TURNING, VSS, AFEBRILE- ALTHOUGH PT DIAPHORETIC THIS AM, GI ABD SOFT, + BS, INCONTIN LOOSE DARK BLDY BM'S X2, HCT OVERNIGHT 28.6, MD NOTIFIED HOLD ON TRANSFUSION, AM HCT PENDING, NPO MAINTAINED, PT JAUNDICE, O2 WEANED FROM 70% FM TO 4LNC, POX 97-98%, FOLEY CATH IN PLACE DRAINING ADEQUATE AMTS DARK AMBER UOP, IVF CONTINUES INFUSING @ 75CC/HR, PT TURNED AND REPOSITIONED PRN, BATHED, LINEN CHANGED, SEE CAREVUE FOR FULL ASSESSMENTS 
+",,
+5989,21221,7458,0,2588-10-31 13:15:00 EST,2588-10-31 13:24:00 EST,579,"N",69,"Nursing/Other","Encephalopathy/GIB","
+Encephalopathy/GIB
+D: pt. non-responsive, attempting to open eyes when name called. resisting turns, no spontaneous movement, fuity odor to breath, sclera/skin jaundiced, hyper-reflexive in DTR's, pupils3-4 briskly reactive. abd soft distended with (+) BS, liquid stool x1 grossly heme (+), (-)N/V. B/P stable 100's to 140 with HR 70's no ectopy.
+A: LFT's added to am labs
+ammonia level drwan
+transfused with 2 u FFP
+receiving #1 of 2 PRBC's
+rectal bag applied
+NGT placed
+GI fellow consulted
+R:ammonia level greatly elevated @206, HO to start Lactulose, NGT verifed placemnt via air flush and gastric aspirate, ph 3 g(+). more agitated with NGT placement- soft limb restraints reapplied. transient drop in B/P and corresponding decrease in u/o after maroon BM. ? to receive PLT if bleed active
+",,
+5989,21221,7458,0,2588-10-31 16:30:00 EST,2588-10-31 16:43:00 EST,379,"N",69,"Nursing/Other","MICU/SICU NSG COVERAGE 1500-1900","
+MICU/SICU NSG COVERAGE 1500-1900
+
+RR initially discoordinate and somewhat labored but maintaining gd O2sats. Breathing became acutely more labored. Pt had also been diaphoretic and this too became worse. BP 203/99 HR 130.
+Unable to obtain accurate O2sats at this time. ABG 7.21  55  62  23 -6. Intubated and placed on 100% x 700TV  a/c 14 w/spont RR 14  5PEEP. MD presently attempting to place arterial line for ABG. BP 153/95  HR 98 ST.
+2nd uPRBCs in. Hct PT PTT pnd. MIn asp from NGT. Medium blackish stool since started on Lactulose. Rectal bag in place.
+Dr. [**Last Name (STitle) 1826**] speaking with pt's brother [**Name (NI) **] over phone.
+",,
+5989,21221,7458,1,2588-10-31 16:30:00 EST,2588-10-31 17:59:00 EST,379,"Y",69,"Nursing/Other","MICU/SICU NSG COVERAGE 1500-1900","
+MICU/SICU NSG COVERAGE 1500-1900
+above stool maroon not black.
+",,
+5989,21221,7458,,2588-11-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-11-1**] 9:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 358**]
+     Reason: ?pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with ?chf vs pneumonia; upper GI bleeding, HIV,
+      encephalopathic, pulmonary HTN, GERD
+     REASON FOR THIS EXAMINATION:
+      ?pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Upper GI bleeding, HIV positivity, reflux and possible
+     pneumonia.
+     
+     COMPARISONS:  One day earlier.
+     
+     An endotracheal tube, central venous catheter and nasogastric tube remain in
+     satisfactory position.  The heart size is normal.  The pulmonary arteries are
+     markedly enlarged centrally with rapid tapering.  The lungs reveal a patchy
+     focus of increased opacity in the retrocardiac area on the left, and are
+     otherwise clear.
+     
+     IMPRESSION:
+     
+     1.  Persistent patchy left retrocardiac opacity, which may reflect atelectasis
+     or pneumonia.
+     
+     2.  Marked enlargement of central pulmonary arteries, consistent with provided
+     history of pulmonary artery hypertension.
+
+",,
+5989,21221,7458,0,2588-11-01 04:21:00 EST,2588-11-01 04:38:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+10/27/01530am
+neuro: pt is sedated on propofol at 49mcg. several boluses given for turning pt inc rr and inc movement with tactile stimulation.
+
+cad vss hr 80-100sr . no ectopy, b/p 100-120's/60-70's
+
+resp: vent fio2 titrated down to 40% by rt resp 18 when at rest into 30's with stimulation peep 5 tv ranging 600-700. sats 98-100%. ls rhonchi bilat. suctioned q3 to 4 for thick tannish.
+
+gi: cont with lactulose q1 to 3 hrs to empty abd of blood which is ? source of inc. amnonia level and cause of encephalopathy. pt has liquid maroon stool rectal bag replaced.
+
+gu; pt given 2 doses of lasix 20mg and then 40mmg at 1m uo 70-440cc/hr currently 1363cc negative. d51/2ns at 75cc/hr 
+
+id: afebrile
+
+labs am labs pend 11pm prev hct 33.1
+
+social family into visit on eves.
+
+plan: cont with lactulose until stool present, monitor fluid output, monitor hct, ptt as needed,.
+",,
+5989,21221,7458,0,2588-11-01 15:42:00 EST,2588-11-01 15:56:00 EST,679,"N",69,"Nursing/Other",,"
+
+PMICU Nursing Progress Note (0700-1900)
+
+CNS: Pt. heavily sedated on propofol. No spontaneous movement, +cough, +gag. Pupils 5mm bilaterally, sluggishly reactive to light. Gtt has been decreased from 49.5mcg to 35mcg/kg/min. 
+
+GI: No further bleeding noted. Minimal amount of bile aspirated from NGT. Pt. has put out 1L liquid stool over the past 12hr via rectal bag, brownish orange in color...guiac +. Continues to receive lactulose 30cc q3hr. 
+
+RESP: Initially suctioning large amounts of thick, yellow secretions via ETT...requiring NS lavage. Lungs with coarse BS throughout. CXR done with results pending...?new aspiration pneumonia. Remains on A/C 40% 700 x 14 with 5 of PEEP. 
+
+ID: T spike to 102 orally. Blood cultures x 2, urine and sputum sent. Clindamycin started for presumed aspiration pneumonia. Medicated with ibuprofen for temp.
+
+CVS: Hemodynamically stable, please see carevue for details. ECHO performed...good LV function, poor RV function r/t pulmonary HTN per Dr. [**First Name (STitle) **]. 
+
+F and E: Urine output has deteriorated to 10-20cc/hr... dark amber urine, Dr. [**First Name (STitle) **] aware. Receiving IVF at 75cc/hr. One liter negative past 12hr (large amount of stool out). Received 80meq K+ total for K+ of 2.8. Phosphorous 1.9, on neutrophos for 3 days.  
+",,
+5989,21221,7458,0,2588-11-01 15:55:00 EST,2588-11-01 15:58:00 EST,-1,"N",69,"Nursing/Other",,"
+
+resp. care note:
+    pt. continued to be ventilated on the same vent settings of ac 700/14/40% +5.   pt suctioned copious yellow secretions throughout the day.   plan is to continue vent support athis time.  for more information please refer to carevue charting.
+
+",,
+5989,21221,7458,,2588-11-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2588-11-2**] 9:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 359**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with AIDS, ? aspir. pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     CLINICAL INDICATION: HIV positive patient with suspected aspiration.  Assess
+     for pneumonia.  Comparison is made to previous study of one day earlier.
+     
+     An endotracheal tube, central venous catheter and nasogastric tube remain in
+     satisfactory position.  Heart size is normal.  There is marked enlargement of
+     the central pulmonary arteries, suggestive of pulmonary hypertension.  A
+     previously noted area of opacity in the left retrocardiac region shows
+     interval improvement.  The lungs otherwise appear clear, but the right
+     costophrenic angle has been excluded from the study and cannot be assessed.
+     
+     IMPRESSION: 1) Improving left retrocardiac opacity, which may reflect
+     improving atelectasis, or resolving aspiration or pneumonia.
+     2) No new areas of consolidation are identified.
+     3) Enlarged central pulmonary arteries, consistent with history of pulmonary
+     artery hypertension.
+
+",,
+5989,21221,7458,0,2588-11-02 05:08:00 EST,2588-11-02 05:26:00 EST,533,"N",69,"Nursing/Other","NPN-M/SICU","
+NPN-M/SICU
+Mr. [**Known patient lastname 1827**] has had a quiet night
+Resp:He remains vented and sedated on propfol.He will intermittently wake, cough, and move around, therefore no further changes made with his propfol drip.His PERL and he settles down quickly. He cont on A/C with occas spont RR. He has been sx q4hr for thick yellow sputum. His so2 sats cont to be >97%. 
+ID:his fever has been slow to come down. He was given 1/2 dose of tylenol at 12mn and 6am as well as a tepid bath. Cefurox has been added to his IVAB regime.
+GI: his cont to rsp to the lactolose. He had 2.5L stool rsp yesterday so his lactlose has been dropped to q6hrs. He has no asp and brown stool but he is still OB+. His hct and coags will be pnd.
+GU: his u/o remains marginal at 30cc/hr. He cont on IVF and am lytes will be pnd.
+CV: he remains stable
+A/P:Will cont with pulm toilet as tolerated. Propofol rate to keep pt comf on vent
+    Will cont to follow fever curve, await cx, cont IVAB, am CXR, liver dosed tylenol.
+    Cont to watch for bleeding and follow hct and coags. Lactolse to keep pt stooling.
+    Will follow u/o and keep hydrated and ? feeding pt soon   
+",,
+5989,21221,7458,0,2588-11-02 06:28:00 EST,2588-11-02 06:29:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remins intubated currently on A/C 14/700/.4/5peep. Suctioned yelllow sputum. No vent changes this shift, see vent flowsheet.
+",,
+5989,21221,7458,0,2588-11-02 17:16:00 EST,2588-11-02 17:28:00 EST,679,"N",69,"Nursing/Other",,"
+
+MICU/SICU Nursing Progress Note
+
+CNS: Pt. more easily arousable today. Becomes agitated at times with turning, suctioning, etc. Propofol gtt increased slightly from 23mcg to 29mcg. Methadone restarted at 50mg per NGT. 
+
+RESP: Pt. tolerating PSV 5/5 well throughout the day. ABG 134/33/7.45/24/0. SVT of 650-800cc. Pt. has vigorous cough...suctioned frequently for small amounts of thick, yellow sputum. Will hopefully extubate tomorrow if mental status continues to improve. 
+
+ID: T max of 100.3 po. Cultures sent [**11-1**] pending. Pt. remains on clinda and cefuroxime. No evidence of infiltrate on CXR [**Name6 (MD) 34**] covering MD. 
+
+GI: No evidence of bleeding. Pt. has had 250cc of stool out today. Lactulose now on hold due to dehydration. Tube feedings of criticare HN started at 10cc/hr, increased to 20cc/hr...goal in 50-60cc/hr, no aspirates. 
+
+F and E: Sodium up to 156 this AM. Free water boluses begun, IVF changed to .45NS at 125cc/hr. Pt. also received 40meq KCL d/t K+ of 3.8. Lytes to be rechecked at 1800. 
+
+SOCIAL: Cousin called and was updated by nursing. 
+",,
+5989,21221,7458,0,2588-11-02 17:55:00 EST,2588-11-02 17:58:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp. care note:
+    Pt weaned to a pressure support of 5, peep of 5, and fio2 40%.  Pt suctioned for a large amount of thick yellowish-tan secretions.  plan is to continue on psv as tolerated.  please refer to carevue charting for more information.  
+",,
+5989,,7458,0,2588-11-03 05:11:00 EST,2588-11-03 05:12:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated currently on CPAP IPS 5/.4/5peep. vt 900, RR 10. Suctioned yellow sputum. No vent changes this shift, cont. to wean as tol. 
+",,
+5989,,7458,0,2588-11-03 05:15:00 EST,2588-11-03 05:34:00 EST,533,"N",69,"Nursing/Other","NPN-M/SICU","
+NPN-M/SICU
+Mr.[**First Name (Titles) 1828**] [**Last Name (Titles) 630**] to make a slow recovery
+Resp:he cont on PSV of 5/5 with RR of 10-12 and TV of 800-1000cc. His sputum is the same yellow color. His propofol is at the same rate and he cont to be restless whenever touched but settles easily. Will stop infusion of propofol this am in prep for ?extubation this am.
+GI:pt cont to tol his TF of critacare but it was stopped at 4am in prep for extubation. He cont to have sm amts of liq brown stool got x1 dose of lactolsse at 12 to keep him stooling, ammonia [**Last Name (un) 1829**] pnd from am labs. His bowel sounds are very active. Hct stable
+GU: he cont on IVF, by 6pm his NA was down to 147. His u/o cont to be good at 40-50cc/hr.
+ID:he cont with a low grade fever, recieving tyleonl and IV AB.
+A/P:Will cont with pulm toilet and extubated this morning if able.         Cont IVAB and eval CXR 
+    Will restart  TF if pt not awake enough to eat, lactolse if pt not stooling, check ammonia level this am. Asses MS for improvement when extubated. Follow hct and coags.
+    Cont to follow u/o and hydration status
+        
+  
+",,
+5989,,7458,0,2588-11-03 11:28:00 EST,2588-11-03 11:56:00 EST,-1,"N",69,"Nursing/Other",,"
+
+nursing note
+
+pt. is a 54yr old who came in with c/o n/v, jaundice, s/p ERCP and
+
+sphinctorotomy. Transferred to MICU for vomitting lg. amount of coffee
+gound emesis. NEURO : alert tp person and place. Disoriented to year.
+Follows commands. Pt agitated and restless, multiple attempts to 
+climb OOB, Pt. given Haldol PRN for agitation with good results. Able to move all extremities. OOB to chair, took a couple of steps , gait
+was steady. RESP: Extubated at 0720, pt. was able to lift head off bed prior to extubation, and able to follow commands, pt. placed on 50% FM
+no stridor noted, lungs remain clear lul,rul, coarse in bilateral
+lower lobes. No resp. distress, RR even an nonlabored. Pt. sats.98%
+Placed on nc at 2l/min sats > 95% Pt noncooperative with nc, continously removing, on room air sats > 94%, nc removed. Occ. non prod cough. CV: st no ectopy B/P via cuff see flow sheet,T98.3 +
+capillary refill, +2 peripheral pulses no edema, skin warm and + jaundice skin intact.PIV in right FA removed. Pt. pulled out RIJ TLC,
+despite restraints. Dry sterile dsg applied.IVF d/c'd.WBC 6.2/ HCT 35.1/ PT 15/ K 3.7 +/ Clindamycin given, day 3. propofol d/c'd at 0710.
+GI: positive BS all 4 quads, abd. softly distended. rectal bag removed, approx. 25ml of green liquid stool. NGT from L nares removed this am. GU: Foley to sgd for amber urine BUN 20/ CREAT 0.9 
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RN [**2588-11-3**] at 1200
+
+",,
+5989,,7458,0,2588-11-03 12:16:00 EST,2588-11-03 12:28:00 EST,-1,"N",69,"Nursing/Other",,"
+
+pt left hosp. AMA, signed appropriate paper work, aware of his illness
+by, MD and that he should not leave. Pt. noncompliant, with teaching yells "" I want to go home I don't care "". Pt's brother [**Name (NI) **]
+picked pt. up and also made aware of reasons why pt. should stay. Foley d/c'd. Gait slightly unsteady, Pt. teaching again that pt. should stay. Pt. stated I don't care I am going home "" Refused b/p taken prior. Pt to follow up with primary md, if he follows medical advice
+[**First Name4 (NamePattern1) 1746**] [**Last Name (NamePattern1) 1747**] RN [**2588-11-3**] 1223
+",,

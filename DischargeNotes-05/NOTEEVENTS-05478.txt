@@ -1,0 +1,1175 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5478,3501,,,3055-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3055-9-11**]              Discharge Date:   [**3055-9-27**]
+ 
+Date of Birth:  [**2985-3-24**]             Sex:   M
+ 
+Service: CSURG
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 950**] 
+Chief Complaint:
+70 year old white male with a history of CAD with increasing 
+episodes of chest tightness.
+ 
+Major Surgical or Invasive Procedure:
+CABGx3 (LIMA->LAD, SVG->PDA, SVG->ramus) [**3055-9-17**]
+
+ 
+History of Present Illness:
+This 70 year old white male has a history of CAD and had been 
+cathed in [**3050**].  He needed intervention at that time, but was 
+waiting for the drug eluting stents.  He has been followed by 
+Dr. [**Last Name (STitle) 3570**] who felt he needed a new cath as he was having 
+increasing chest tightness. He was admitted for the cooling 
+study. He reportedly was turned down for a CABG in [**3050**] because 
+of obesity.
+ 
+Past Medical History:
+CAD
+NIDDM
+HTN
+Hypercholesteremia
+CRI
+CHF
+Anemia
+s/p pacemaker placement for SSS
+Retinopathy- s/p laser [**Doctor First Name 668**] x 3 
+Chronic LE edema
+
+ 
+Social History:
+He lives alone, does not smoke cigarettes, and does not drink 
+alcohol.
+ 
+Family History:
++CAD
+ 
+Physical Exam:
+Gen: Obese, elderly, white male in NAD
+Afeb, HR 60, BP 114/68, RR 10, 280 lbs.
+HEENT: N/C, A/T, EOMI, PERLA, oropharynx benign.
+Neck: Supple, FROM, no lymphadenopathy or thyromegaly, carotids 
+2+=bilat.
+Lungs: Clear to A+P
+CV: RRR w/out R/G/M
+Abd: obese, soft, nontender, without masses or 
+hepatosplenomegaly.
+Ext: Bilat. LE edema with venouse stasis changes. Pulses 1+ = 
+bilat.
+Neuro: non-focal.
+ 
+Pertinent Results:
+Hematology 
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+[**3055-9-27**] 07:05AM    9.8 3.58* 11.3* 33.7* 94 31.6 33.5 15.1 
+309 
+  BASIC COAGULATION Plt Ct 
+[**3055-9-27**] 07:05AM    309 
+ 
+Chemistry 
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+[**3055-9-27**] 07:05AM    113* 101* 3.2* 137 4.7 95* 27 20 
+  ANTIBIOTICS Vanco 
+[**3055-9-27**] 07:05AM    16.1* 
+ 
+
+ 
+Brief Hospital Course:
+The patient was admitted on [**3055-9-11**] and was enrolled in the 
+cooling study for renal protection during cardiac cath. He had 
+an MI by enzymes on admission. He had the catheterization on 
+[**9-13**] and it revealed: a 50-60% stenosis of the LAD, 90% diagonal 
+lesion, 80% proximal LCX stenosis, and a 90% RCA lesion. His EF 
+is 20%. During the cath. he became hypotensive and bradycardic 
+and required atropine and dopamine.  He had an IABP placed and 
+cardiac surgery was consulted for high risk CABG. He then 
+developed ologuric renal failure and responded to high doses of 
+lasix.
+On [**3055-9-17**] he underwent CABGx3 with LIMA to the LAD, SVG to the 
+PDA and ramus.  He was transferred to the CSRU on Epi, Lido, and 
+Propofol in stable condition. He had some bleeding on the post 
+op night and required 3U PRBC, 2 of platelets, and 1 of cryo.  
+He had decreased urine output and was started on a lasix drip 
+and natracor.  He continued to require these drips for several 
+days and remained intubated until POD#3.  His creat. was between 
+3.2 and 4, but he continued to have adequate urine output.  His 
+IABP was d/c'd on POD#1.  He slowly improved and was transferred 
+to the floor on POD#7.  He developed cellulitis on his L leg and 
+has been treated with vanco. He continued to progress and was 
+discharged to rehab on POD# 10.
+  
+ 
+Medications on Admission:
+Glipizide 10 mg. PO qd
+Hydralazine 10 mg. PO qd
+Coreg 6.25 mg. PO qd
+FeSO4 325 mg. PO qd
+MVI 1 PO qd
+NTG patch
+Lasix 80 mg. PO qd
+ASA 81 mg. PO qd
+Plavix 75 mg PO qd
+Colace 100 mg. PO BID
+Zocor 20 mg. PO qd
+ 
+Discharge Medications:
+1. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day) for 5 days: Then decrease to Amiodorone 400 mg PO 
+qd for 1 week, then decrease to 200 mg PO qd.  
+2. Glipizide 5 mg Tablet Sig: Two (2) Tablet PO QD (once a day). 
+ 
+3. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/[**Doctor First Name 25**] Sig: 
+One (1) Tab Sust.Rel. Particle/[**Doctor First Name 25**] PO once a day.  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO QD (once a day).  
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4H (every 4 hours) as needed for pain.  
+7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+8. Lasix 40 mg Tablet Sig: 1.5 Tablets PO three times a day.  
+9. Vancomycin HCl 10 g Recon Soln Sig: One (1) gram Intravenous  
+PRN (as needed) as needed for level <15 for 2 weeks.  
+10. Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. Ferrous Sulfate 325 (65) mg Capsule, Sustained Release Sig: 
+One (1) Capsule, Sustained Release PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 5841**] & Rehab Center - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Coronary artery disease.
+NIDDM
+CHF
+HTN
+Hypercholesterolemia
+CRI
+Retinopathy
+SSS-s/p pacer placement
+
+ 
+Discharge Condition:
+Good.
+ 
+Discharge Instructions:
+Follow medications on discharge instructions.
+[**Doctor First Name 10**] may not drive for 4 weeks.
+[**Doctor First Name 10**] may not lift more than 10 lbs. for 3 months.
+[**Doctor First Name 10**] should shower, let water flow over wounds, pat dry with a 
+towel.
+ 
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 3570**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] [**Last Name (STitle) **] 1 week.
+Make an appointment with Dr. [**Last Name (STitle) 330**] for 4 weeks.
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 959**] MD [**MD Number 960**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 506**] [**MD Number 507**] [**3055-9-27**] @ 1157
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**3055-10-1**] 9:02 AM
+(End of Report)
+
+
+",,
+5478,3501,,,3055-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-12**] 7:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11490**]
+     Reason: Extent of CHF                                               
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with CHF                                                        
+     REASON FOR THIS EXAMINATION:
+      Extent of CHF                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Congestive heart failure.  Evaluate extent.
+     
+     COMPARISON:  None.
+     
+     SUPINE AP VIEW OF THE CHEST:  The heart is enlarged with polychamber cardiac
+     enlargement.  The aorta is unfolded.  The right-sided dual chamber pacemaker
+     is noted with leads overlying the right atrium and right ventricle in
+     satisfactory positions.  A Swan-Ganz catheter is identified entering via the
+     inferior vena cava, tip in satisfactory position within the right main
+     pulmonary artery.  There is upper zone vascular redistribution with perihilar
+     haziness and vascular haziness, findings consistent with mild congestive heart
+     failure.  The right costophrenic angle is sharp.  The left costophrenic angle
+     is excluded from the study.  No focal consolidations are present.  No
+     pneumothorax was demonstrated.
+     
+     IMPRESSION:
+     1.  Cardiomegaly with mild congestive heart failure.
+     2.  No focal consolidations present.
+     3.  Satisfactory placement of Swan-Ganz catheter.
+     
+
+",,
+5478,3501,6810,0,3055-09-12 17:41:00 EST,3055-09-12 18:48:00 EST,2800,"N",1,"Nursing/Other",,"
+
+CCU NPN 7a-7p
+
+S: ""Where's the bucket?""
+
+O: Please see flowsheet and admission note for additional data
+
+CV: Pt to CCU from cath lab on cool RCN study at 1630. Pt warmed as per study protocol. Demoral IV dc'd prior to end of warming. With warming and dilation pt became hypotensive.Pt AV paced HR 65-90, NBP systolic running as low as 70's to 90's, dopamine titrated up to 10mcgs and Natrecor dc'd.   PAD 20's-30's unable to wedge, PCWP in cath lab 40. Labs sent. Levophed started at 1810 for SBP 80's and L radial aline placed. Radial aline approx 30 mmhg systolic higher than NBP on R arm. ECG done.
+
+Resp: Pt on 3 L NC with sats 99 then dropping to high 80's, 02 increased to 4L NC sats high 80's, low 90's. Pt diaphoretic. House staff aware up to evaluate pt.
+
+GI/GU: Abd obese, BS hypoactive. Pt having several episodes of dry heaves.  Given Zofran 2mg x's 1 with little effect. Foley cath draining 10-15 cc/hr. BUN 58, creat 3.1. Given lasix 40mg IV in cath lab. No lasix since admit to CCU.
+
+
+Neuro: Pt A&O x3, pt becoming less responsive with hemodynamic changes but remains responsive to verbal stimulation.
+
+A/P: 70 yr old male with PMH of NIDDM, CAD, angina, arrhythmias,  perm pacemaker, & CRI.  Adm to [**Hospital1 22**] cath lab for cool RCN study, found to have 3VD and CHF with high R and L heart filling pressures. Continue to monitor hemodynamics and diurese pt as tolerated. Titrate dopamine and levophed for SBP >90. Monitor and replete labs as needed. Check ABGs and lactate.      
+  
+",,
+5478,3501,6810,,3055-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-13**] 8:55 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 11492**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPL
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with s/p cath with s/p cooling blanket protocol who presents 
+      with anuria afterwards.
+     REASON FOR THIS EXAMINATION:
+      ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPLERS                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Post dissection repair.Rising renal indices. 
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.6 cm.  The left kidney
+     measures 10.4 cm.  Both kidneys appear normal in size and shape. There is
+     increased echogenicity within the kidneys, with a reduction in cortical
+     medullary differentiation.  This is nonspecific and suggests background
+     medical renal disease.  There is no evidence of hydronephrosis. Doppler wave
+     forms are obtained from femoral arteries bilaterally.
+     
+     IMPRESSION: No evidence of hydronephrosis. Slightly echogenic kidneys,
+     suggestive of background medical renal problems.Normal arterial waveforms
+     
+
+",,
+5478,3501,6810,,3055-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-13**] 8:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11491**]
+     Reason: ?improved CHF                                               
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with CHF now s/p hemofiltration.                               
+                               
+     REASON FOR THIS EXAMINATION:
+      ?improved CHF                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CHF status post hemofiltration.
+     
+     PORTABLE AP CHEST:  Comparison is made to [**3055-9-12**].  The appearance
+     of the dual-chamber pacemaker is unchanged.  A likely transfemoral SG catheter
+     is seen in the main pulmonary artery, directed towards the right main
+     pulmonary artery.  There is minimal improvement in the degree of pulmonary
+     vascular congestion, with residual left lower lobe atelectasis.  A faint area
+     of increased opacity is seen in the right apex, which could be atelectasis or
+     asymmetrical edema.
+     
+     IMPRESSION:  Slight improvement in pulmonary vascular engorgement.  Left lower
+     and likely right upper lobe atelectasis. Pneumonia in the left lower lobe
+     cannot be excluded.
+
+",,
+5478,3501,6810,,3055-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-13**] 8:55 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 11492**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPL
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with s/p cath with s/p cooling blanket protocol who presents 
+      with anuria afterwards.
+     REASON FOR THIS EXAMINATION:
+      ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPLERS                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Post dissection repair.Rising renal indices. 
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.6 cm.  The left kidney
+     measures 10.4 cm.  Both kidneys appear normal in size and shape. There is
+     increased echogenicity within the kidneys, with a reduction in cortical
+     medullary differentiation.  This is nonspecific and suggests background
+     medical renal disease.  There is no evidence of hydronephrosis. Doppler wave
+     forms are obtained from femoral arteries bilaterally.
+     
+     IMPRESSION: No evidence of hydronephrosis. Slightly echogenic kidneys,
+     suggestive of background medical renal problems.Normal arterial waveforms
+     
+
+",,
+5478,3501,6810,,3055-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-13**] 8:55 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 11492**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPL
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with s/p cath with s/p cooling blanket protocol who presents 
+      with anuria afterwards.
+     REASON FOR THIS EXAMINATION:
+      ?hydronephrosis ?other cause of anuria- PLEASE DO WITH DOPPLERS                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Post dissection repair.Rising renal indices. 
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.6 cm.  The left kidney
+     measures 10.4 cm.  Both kidneys appear normal in size and shape. There is
+     increased echogenicity within the kidneys, with a reduction in cortical
+     medullary differentiation.  This is nonspecific and suggests background
+     medical renal disease.  There is no evidence of hydronephrosis. Doppler wave
+     forms are obtained from femoral arteries bilaterally.
+     
+     IMPRESSION: No evidence of hydronephrosis. Slightly echogenic kidneys,
+     suggestive of background medical renal problems.Normal arterial waveforms
+     
+
+",,
+5478,3501,6810,0,3055-09-13 04:06:00 EST,3055-09-13 04:33:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I'm going to throw up again ""
+O:  pt. having freq. episodes of nausea/dry heaves , occas. with emesis of small amt. of green bile.  zofran 2mg, then 4mg Iv with no relief.  given reglan 10mg IV with better relief.  tolerating icechips.  however, taking sip of water ~ 0200 with ~ 50cc emesis.  last c/o nausea at 0400- 10mg reglan.  
+
+
+CV:  BP 88-110/60's initially , on dopa 10mcq and levo .021mcq/k/min.  BP dropping with episodes of nausea/emesis preventing wean.
+- able to wean off levo by 0200.  dopa weaned to 4mcq/k/min by 0500. 
+BP 110-120's/60's.
+HR 90's AV paced,  decreased to 70-80's AV paced by 0500.  
+evening lytes WNL.  
+CPK 101
+
+Renal:  eve CR. 2.9(unchanged). u/o 5-15cc/hr.  lasix 80mg and 160mg with no results.  foley flushed for no obstruction.  
+- renal obtaining consent and placing right fem. dialysis line ~ MN.  tol. well.  
+*** ultrafiltration for 2L taken off.  finished at 0200.  VSS.  
+u/o contin. 5-15cc/hr.  
+
+Resp:  sats dropping to 85-90% on 4lnc.  ABG 7.28/44/62.  placed on 100% NRB in addition to NC , sats improved to 97-99%.  able to wean to 100% cool neb/4lnc by 0500.  sats 98%.  will contin. to wean .
+AM ABG ordered.  
+LS crackles bases.  occas. audible wheezes.  denies SOB. 
+
+GI:  as above, nausea improved through night.  NPO except ice chips.  
+neuro:  A/O x3.  slept when left alone. wakes easily and is oriented. 
+endo:  FS 265 in eve- 6U humulog.  AM pnd. 
+pulses:  doppler bilat.  extrem. cool to slightly warm.  (+) CSM.
+access:  right PIV, left radial aline, left fem. venous swan ganz catheter.  right fem. double lumen dialysis cath- flushed by dialysis nurse.
+
+Plan:  hypotension with increase FIO2 requirments and anuric- now s/p ultrafiltration tol. well.  able to wean off Levo and dopa weaned to 4mcq/.
+
+- contin. to wean dopa to off.  monitor lytes, HCT.  wean FIO2 as tol. to keep sats >90%.  
+- NPO, ice chips as tol.  anti emetics prn.
+- follow u/o, cr
+- teaching, support. 
+",,
+5478,3501,6810,0,3055-09-13 18:28:00 EST,3055-09-13 19:35:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- id- afebrile, wbc 17.9. cv- hr 70s vpaced with rare av pacing. bp 106-142/. pads 32-37. cvp 21 to 16. co this eve 4.7, ci 1.81, svr 1038. mv sat 50, then 53. started on iv heparin with 4000unit bolus and 850units/hr. ptt drawn 1800. started on plavix, re'd asa. hct 33.5. k 5.1, repeat sent. lactic acid 1.6 x2. ck up to 1538-224-14.3, treponin 5.86, repeat sent. no cpain or sob. ntg held for dialysis, then maps low 70s this pm and decided to hold ntg for now, discussed with ho. to cath lab at 1800 for iabp, ?intervention. 
+resp- on 4l sats 93-95 in am, 96-100 in pm. l/s sl. coarse, partially clears with cough, dim bases. abg in eve 118,39,7.39,0,24,98sat.
+renal- creat up to 3.6. for dialysis today, then waiting until after cath/procedure for dialysis. 
+gi- abd soft with b. sounds, ?ascites. taking sips water, diet soda then c/o nausea, no vomiting and slept. c/o dry and taking sips [**Last Name (LF) 23**], [**First Name3 (LF) 24**] piece of cracker, then npo for cath lab. no bm. 
+dm- bs 106, insulin drip held d/t going to cath lab, ho aware. bs 138, 136. 
+skin- intact repos side to side to back q2-3hrs with skin care. keeping legs straight, immobilzer removed. 
+ms- a+o x3, anxious, asking many questions. teaching done with pt, regarding meds, procedures, pa line, rf, lines, activity, etc, understands, but anxious, needs frequent reassurance. 
+social- pt agreed to have rn contact dtrs before cath lab. unable to reach initially, but dtrs called after informed by neighbor that pt was in the hospital. spoke to dtr [**Name (NI) 25**] and updated on pt's hospitalization so far, current status, plan. other fx members aaware and [**Doctor First Name **] said someone would try to come here (all live in western us). 
+a- 3vd with mr, cardiomyopathy with low ci, off pressors. r/i ck/treponin. for iabp, ?intervention. rf/dialysis. 
+p- cont. cardiac support w/iabp, follow hemodynamics. cont. heparin, f/u ck/k/treponin/ptt. follow resp/renal status, ?will do uf/dialysis this eve. follow bs, ?start insulin drip or cont. ss if remain low.
+follow ms, freq. teaching to decrease anxiety. keep fx up to date. 
+
+",,
+5478,3501,6810,,3055-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-14**] 4:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11493**]
+     Reason: assess RIJ central line placement, r/o pneumothorax         
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man with s/p RIF central line                                     
+     REASON FOR THIS EXAMINATION:
+      assess RIJ central line placement, r/o pneumothorax                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left internal jugular central line placement.
+     
+     Comparison is made to the prior examination of [**3055-9-13**].
+     
+     FINDINGS:  There has been interval insertion of a left internal jugular vein
+     central venous line with its tip in the SVC.  The cardiomediastinal borders
+     are unchanged.  The pulmonary vasculature is normal.  The lungs are clear and
+     there are no pleural effusions.  No pneumothorax is seen.
+     
+     IMPRESSION:  Satisfactory interval placement of a left internal jugular
+     central venous line.  No pneumothorax.
+
+",,
+5478,3501,6810,0,3055-09-14 04:30:00 EST,3055-09-14 05:02:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S:  "" My back hurts ""
+O:  70 yo male with CHF, DM, CAD and CRI s/p cath [**9-12**] showing 3VD c/b hypotension, worsening RF, CHF.  unable to diurese, required pressors and placement of dialysis catheter for ultrafiltration [**9-12**].  
+had bump in CPK [**9-13**] with creatinine elevated to 3.6(2.9).  went to cath lab in eve for IABP support.  CT surgery consulted.  
+currently waiting for decesion on surgery.
+
+neuro:  pt. s/p IABP placement . arrived back to CCU at 2030.  A/O x3. c/o back discomfort r/t immobility.  Turn/pos. frequently.  one percocet x1 with mod. relief.  
+
+CV:  HR 70's Vpaced.  no VEA.  IABP 1:1 (8F left fem. vein)
+MAPS 85-102.  sharp tracing. syst. unloading 5-13 pts.  good augmentation.  
+off pressors since [**9-13**] AM.  
+PAP 60's/33-27.  CVP 18->13.  
+MVO2 57->53.  C.O. 5.3-6.1/2.0-2.3/1200-890.
+heparin gtt 850u/hr.  AM PTT pnd
+
+
+Resp:  O2 weaned 4l ->2lnc.  sats 97-99%.  LS crackles bases.  RR 20's. 
+- 80 lasix IV x2   diuresed 500cc and then 300cc.  
+(-) >2L for [**9-13**] (mostly UF) and currently neg. 300cc
+
+endo:  FS 169-96.  insulin gtt started in eve up to 3u/hr.  currently at 1u/hr. 
+GI:  no further nausea.  no stool. tolerating water, jello (x1).
+heme:  post cath HCT 29, left groin IABP site with very slight ooze. stable.  transparent dsg reinforced.  
+
+ID:  afeb. 
+access:  right hand PIV ([**9-11**])  right fem. double lumen dialysis line, 
+left fem. swan 8F and left fem. IABP 8F(40cc).  
+
+A:  70 yo male s/p IABP placement [**9-13**], tolerating diuresis, off pressors.  
+P:  follow plan for diuresis.  coreg d/c'd per resident.  follow lytes, hct, PTT.  
+awaiting decesion for surgery.  
+FS q1hr.  goal FS 90-110.  
+- NPO except water.  ? advance diet 
+",,
+5478,3501,6810,0,3055-09-14 05:29:00 EST,3055-09-14 05:35:00 EST,1853,"N",1,"Nursing/Other","Addendum:","
+Addendum:
+O:  social:
+
+pt. is married but separated since '[**41**]. wife lives out of state and does not keep in touch.  4 children, all living out of state in western US.  RN spoke with daughters [**Name (NI) 25**] (resp. therapist) and [**Doctor First Name 26**] and updated on pt. condition.  They are next of [**Doctor First Name 27**] to call in case of emergency.  phone numbers updated in chart FHPA.  
+[**Name6 (MD) 25**] told RN that she, [**Doctor First Name 26**] and brother [**Name (NI) 28**] are all coming in to [**Location (un) 29**] today.  anticipate afternoon to evening arrival.  
+pt. made aware of family plans.  
+
+
+",,
+5478,3501,6810,0,3055-09-14 15:30:00 EST,3055-09-14 16:49:00 EST,2499,"N",1,"Nursing/Other",,"
+
+CCU NPN 7a-7p
+
+S: ""I need to sit up.""
+
+O: Please see flowsheet for additional data
+
+CV: Pt. V paced with HR 67-79, no VEA noted.  ABP 88-121/50-69 MAPs 62-92.  PA 56-62/24-31, unable to wedge.  CVP 12-18.  C.O 5.1-62/ C.I 1.97-2.36/ SVR 847-944.  Pt IABP 1:1 with good augmentation.  Hct 26.8 to 26.1, transfused 1 unit PRBC, Hct to 28 mid transfusion, labs pending. Pt received 8000 units epogen today, per pt, pt receives on regular basis outpt.  Pt on Heparin gtt 0800-1200 at 100 units/hr, off at 1300 for line placement at 1600.  CT [**Doctor First Name 4**] consult with pt today to discuss possibility/risk of [**Doctor First Name 4**]. Pulses dopplerable, legs bilaterally WDI. Echo done at approx 1500.
+
+Resp: Pt on 2 L NC, 02 sats 96-99%, RR 17-25. Pt denies SOB. LS clear at apices, crackles at bases this am, LS clear at apices, mildly coarse and diminished at bases this afternoon. 
+
+GU: Pt has foley cath draining clr yellow urine at 41-200 cc/hr.  Lasix bolus given this am with lasix gtt this afternoon, lasix @ 10mg/hr with goal of 150 cc/hr. Per pt, pt takes lasix 160mg QD at home. Diuresis goal is 2-3 Liters negative. No UF/dialysis today d/t adequate u/o with lasix. Phos 5.8, phoslo administered.  BUN 81, creat 3.6.
+
+GI: Pt abd obese, +BSx4.  Pt taking po's, but consumed a minimal amt of food. No c/o N/V.  No stool this shift.
+
+Endo: Pt BS 100-115 on insulin gtt @ 1unit/hr throughout shift.
+
+Lines: Pt with L radial aline, L femoral PA line, L IABP, R double lumen dialysis cath, and L IJ.  L PA and IABP site oozing, dsg changed, continues to ooze.  R double lumen dialysis cath and L IJ also oozing, L radial aline wnl. Pt c/o skin irritation at groin sites. 
+
+Neuro: Pt A&Ox3, some c/o back pain, 2 percocet given x 1 with relief, repositioned Q2-3 hrs.
+
+ID: Afebrile, WBC this am 12.1, ? LLL pna on CXR.
+
+Social: Pt's adult children from western US are d/t arrive this eve.  Pt family called today and spoke with RN.  Pt voiced concerns that children were coming to see him, but pt okay with their arrival.  Provided emotional support to pt and provided teaching regarding meds and POC.   
+
+A/P: 70 y/o male with 3 VD per cath on [**9-12**], c/b hypotension, RF, CHF, s/p MI with peak in CPK 1569, MB, 224, Troponin 8.17. Returned to cath on eve [**9-13**], IABP placed  for cardiogenic shock c/b vagal episode with hypotension and bradycardia.  EF 25-30% with 2+ MR, 1+ TR. ? Possible CABG early next week if no infection found and significant diuresis. Continue to monitor hemodynamics with goal of decreased PAD to teens/20's. Continue to diurese with goal of 2-3 L negative. Monitor renal func, if phos improves change phoslo to renegel (per renal).  Consult with [**Last Name (un) 30**] regarding dc'ing insulin gtt and switching to insulin ss if FS remain stable. Continue to provide emotional support and teaching to pt and family regarding POC, disease process and possible [**Doctor First Name 4**] early next week.   
+
+
+",,
+5478,3501,6810,0,3055-09-15 04:31:00 EST,3055-09-15 06:04:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN: Cardiogenic Shock, IABP Management
+
+S:  ""[**Doctor First Name **] mean I can't sit up?""
+
+O:  See CareVue flowsheet for complete assessment data
+
+CV:  HR 68-78, V-paced with occasional PVCs and intrinsic beats.  Pt. stable on IABP 1:1 with good augmentation.  Maintained assisted systolic pressures 100-119, augmented diastolic pressures 114-149, and mean pressures of 88-108.  Systolic unloading [**5-6**] and diastolic unloading 0-6.  ABP 114-133/60-75, ABP mean 85-105.  Adequate circulation noted in lower extremities with dopplerable pedal pulses, positive CSM, and normal capillary refill.  Neuro intact.  IABP insertion site intact with slow ooze present of which Housestaff aware (Burns, [**Location (un) 31**]).  PA catheter intact with sharp waveform and PAP 57-66/21-30.  Mixed venous gas obtained at 0000 revealed result of 59% - C.O. 6.4 (previously 6.1 [**9-14**] at 1500), C.I. 2.47 (previously 2.36), and SVR 1075 (previously 944).  Drs. [**Last Name (STitle) 31**] and [**Name5 (PTitle) 32**] aware of hemodynamic results.  CVP range of 7-17.  Pt. diuresed with Lasix gtt (5-10mg/hr) with adequate urine output.  Heparin gtt per protocol - increased from 1150u/hr to 1300u/hr at 0130 with next PTT to be drawn at 0730.  Labs obtained at 2345 revealed stable Hct 29.1 (previously 28.7 at 1700), PTT 48.7 (rate increased to 1300 u/hr), K 3.7 (repleted with 20meq KCL IV), BUN/ Creatinine 76/3.3 (previously 80/3.5), Mg 2.1.  
+
+NEURO:  Pt. alert and oriented x3.  Somewhat irritable upon initial assessment which resolved after visit from pt.'s brother.  Daughter at bedside - involved in pt. care and asking appropriate questions.  Pt. explained plan of care and reinforced activity restrictions.  Became increasingly cooperative as the shift progressed.  
+
+RESP:  Lung fields clear with fine crackles noted in right lower lobe. Maintained O2 saturation >95% with exception of a brief episode of apnea during which O2 sat decreased to 75%.  Increased oxygen supplementation to 4l via nasal cannula which pt. tolerated well.  No further episodes of apnea noted.  
+
+PAIN:  Pt. repositioned frequently for comfort and denied pain throughout shift until 0600 at which point pt. requested and received Percocet (1 tablet) for c/o lower back discomfort - effects pending.  
+
+ACCESS:  Persistant oozing noted from left IJ TLC as well as left venous/IABP/arterial groin sites.  Drs. [**Last Name (STitle) 31**] and [**Name5 (PTitle) 32**] notified and left IJ dressing removed with approximately 10 minutes digital pressure applied per Dr. [**Last Name (STitle) 32**].  Decision made to continue Heparin gtt and continue to monitor oozing.  New sterile dressing applied at 0430; site continues to ooze - DSD saturated.  
+
+ENDO:  Blood capillary glucose levels 102- 127.  Insulin gtt maintained at 1u/hr.  Possible transition to sliding scale insulin pending [**Last Name (un) 30**] consult.  
+
+GI/GU:  Pt. with minimal appetite.  Active bowel sounds and positive flatus - no BM.  Urine output as of 9/24 2300: -1997 and [**9-15**] 0500: -1250.  Drs. [**Last Name (STitle) 32**] and [**Name5 (PTitle) 31**] notified and Lasix gtt suspended until 
+further notice from team in order to prev
+",,
+5478,3501,6810,0,3055-09-15 04:32:00 EST,3055-09-15 06:04:00 EST,6280,"N",1,"Nursing/Other",,"
+
+(Continued)
+ent overly aggressive diuresis.  Pt. continues to diurese 200-250 cc/hr after suspension of gtt.  Goal I/O: neg. 2-3L for today.    
+
+SOCIAL:  Pt.'s family arrived from out-of-state.  Daughter [**Name (NI) 33**] at bedside for evening and appeared to have good rapport with pt.  Pt.'s brother also visiting.  Other family members (daughter and son) plan to visit later today - briefly updated via phone.
+
+A:  Pt. admitted to hospital for elective cath [**9-11**] and was enrolled in Cool RCN study.  Received in CCU post-cath (which revealed 3VD) and required ultrafiltration post-cath. Post-cath MI complicated by hypotension requiring pressors. Cardiogenic shock ensued and IABP inserted as bridge to CABG.  ECHO [**9-14**] revealed EF 25-30%.  Aggressive diuresis prior to surgery.  Hct stable at 29.1.  Pt. stable on insulin gtt at 1u/hr.  Renal failure with BUN/Creatinine trending down.  
+
+P:  Continue IABP management; wean as tolerated.  Follow hemodynamics. Consult with team concerning restart of Lasix gtt for goal I/O of neg. 2-3L.  AM labs to be sent at 0700 - follow Hct, coags, renal function, lytes.  Change insulin to sliding scale pending [**Last Name (un) 30**] consult.  Possible CABG date: [**9-18**].  Please send pre-op labs [**9-17**].  Please send study labs at 1230 today. 
+
+  
+",,
+5478,3501,6810,1,3055-09-15 04:32:00 EST,3055-09-15 06:22:00 EST,6280,"Y",1,"Nursing/Other",,"
+
+CCU NPN Addendum:
+
+Result of mixed venous gas obtained at 0600: 65%.  Calculated fick C.O. 7.0 (previously 6.4 at 2400), C.I. 2.7 (previously 2.47), and SVR 1063 (previously 1075 at 2400).  Continue to monitor hemodynamics.  
+",,
+5478,3501,6810,2,3055-09-15 04:32:00 EST,3055-09-15 06:22:00 EST,6281,"Y",54,"Nursing/Other",,"
+
+CCU NPN Addendum:
+
+Result of mixed venous gas obtained at 0600: 65%.  Calculated fick C.O. 7.0 (previously 6.4 at 2400), C.I. 2.7 (previously 2.47), and SVR 1063 (previously 1075 at 2400).  Continue to monitor hemodynamics.  
+",,
+5478,3501,6810,0,3055-09-15 18:35:00 EST,3055-09-15 19:42:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+s- c/o pain ru arm.
+o- id- afebrile. wbc 9.1. 
+cv- hr 60-70s mainly vpaced, occ av paced (60 low) no vea noted. on iabp 1:1 with good unloading and augmentation. maps 70-113. pads 27-35, cvp 13-20 co 6.4,ci 2.47, svr 950, mv sat 60. heparin cont. 1300units/hr, ptt 54.4.(goal changed to ptt 50-70). new clot sent to bb. hct 28.5, re'd 1 unit prbcs over 3hrs, tol well. k 3.8, re'd 20meq kcl po. mg 2.0. repeat chem. sent 1845. plts 176. ?hold plavix preop. mds discussing ccu/[**Doctor First Name 4**]. cont. for now. no cpain, sob, n/v. pulses 2+/1+ bilat. 
+lines- groin dsgs with scant, slow ooze, changed bilat. this pm, no hematomas noted. left tlc dsg oozing sm-mod. amt, changed in am, then cont. ooze, ho notified, ?resuture (no hematoma) dsd changed this pm with more gauze under dsg, has not bled into dsg yet. r iv d/c'd. aline site d+i.
+resp- on n/c with some epitaxis in am, changed to face tent for humidity with sats 93-99 while awake. nap this pm, deep [**Doctor Last Name 5**] with some short periods apnea, some irreg. shallow breathing ?[**Doctor Last Name 5**] apnea,
+sats dropped abruptly down to low 60s, up to 100% face tent w/sats quickly up to 80s-90s to 100. on 2l n/c for meals only. cont. 100% face tent. abg 159,44,7.43 (on 40% face tent). 
+renal/gu- po4 4.5, ca 8.7. on phoslo. started on lasix 80mg iv bid, diuresed about 1400cc so far to 1st dose. i+o neg. 1928cc 1900 for day. wt down. 
+gi- abd soft w/bsounds. app. improving fair/good. taking liquids. no bm since admit, started on senna and ducolax in addition to colace. 
+skin- intact, repos sides to back w/skin care q2-4hrs and per pt preference. 
+dm- cont. on low dose insulin drip [**First Name8 (NamePattern2) 34**] [**Last Name (un) **] protocol. see flowsheet for details. 
+ms- a+ox3, anxious at times. takes o2 off. needs freq. reminders to keep o2 on. 
+pain- c/o arm pain as above, ?musculoskeletal. percocet given x1 for generalized discomfort/arm with effect.  
+social- fx in room, updated by rn, mds on pt status, plan.
+teaching- done w/pt/fx on pt status, procedures/nsg care, icu, lines, o2, meds, preop/plan, iabp. understand, reinforce prn d/t anxiety, etc. card. surgery teaching info printed preop/postop for pt/fx. pt prefers not to look at now, asking some appropriate quesions regarding cabg, offer written materials to fx when they return.   
+a- iabp, ?preop mon/tues for cabg. desat while asleep. cont. with line site ooze. 
+p- cont. iabp, recheck hct about 2200. f/u plavix [**9-16**], ?d/c preop. keep current clot in bb. f/u csurg for ?or date. check results chem sent. 100% face tent- follow for desat. send u/a preop. cont. bowel meds till bm. change line dsgs prn, ?will need resuture in neck. follow ms- percocet prn. offer written teaching materials to fx on cardiac surgery. 
+
+
+
+",,
+5478,3501,6810,,3055-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-16**] 7:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11494**]
+     Reason: IABP placement.                                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old man with IABP.                                                   
+     REASON FOR THIS EXAMINATION:
+      IABP placement.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Intraballoon pump placement.
+     
+     COMPARISON:  Compared to previous study of [**3055-9-14**].
+     
+     AP PORTABLE CHEST, [**3055-9-16**]:  An intraaortic balloon pump remains in a
+     slightly low position, terminating about 5 cm below the top of the aortic
+     arch.  A swan ganz catheter remains in satisfactory position in the right
+     pulmonary artery, and a left internal jugular vascular catheter terminates in
+     the left brachiocephalic vein.  The cardiac silhouette is enlarged.  There is
+     no definite congestive heart failure.  An area of previously present left
+     retrocardiac opacification shows interval improvement.
+     
+     IMPRESSION:  Slightly low position of intraaortic balloon pump, as detailed
+     above.
+     
+     
+
+",,
+5478,3501,6810,0,3055-09-16 04:26:00 EST,3055-09-16 05:49:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN: Cardiogenic shock, IABP Management
+
+S:  ""Tell me more about this surgery ...""
+
+O:  See CareVue flowsheet for complete assessment details
+
+CV:  HR 60s-70s, V-paced and occasionally AV-paced with rare PVCs.  Hemodynamically stable on 1:1 IABP with good augmentation.  IABP mean 85-109.  Systolic unloading [**10-17**], diastolic unloading 0-10.  ABP 115-147/60-74; ABP mean 87-108.  Neuro intact.  Weak palpable pedal pulses confirmed by doppler.  Fick C.O. obtained at 2200 - C.O. 6.8, C.I. 2.63, SVR 965 (previously 6.4, 2.47, 950).  Drs. [**Last Name (STitle) 35**] and [**Name5 (PTitle) 36**] aware.  PA catheter intact - PAP 46-68/21-29.  CVP 10-14.  Tolerating Metoprolol 12.5mg as ordered.  Adequate urine output 45-235cc/hr.  Post-transfusion Hct: 29.9 and 31 (increased from 28.5 in AM [**9-15**]). Team discussed hematology results with Dr. [**First Name (STitle) 37**] with plan to continue to monitor Hct.  K at 1800 3.6 (repleted with 40meq KCL PO).  Pertinent AM labs (0440): K 3.9, Mg 1.9, BUN 63, Creat 2.6, Phos 3.6, PTT 53.9 (therapeutic on Heparin gtt at 1300u/hr).
+
+RESP:  Pt. tolerated face tent with cool neb at 100%.  Maintained O2 saturation > 95%.  One episode of [**Doctor Last Name 5**] apnea during night with desaturation to 85% - O2 sat returned to baseline (100%) with deep respirations.  
+
+NEURO:  Pt. alert and oriented x3.  Pupils equal, approximately 3mm in diameter with brisk reactivity to light.  Bilateral hand grasps (equal in strength) and positive movement in bilateral lower extremities.  Pleasant and cooperative.  Asking appropriate questions regarding plan of care, activity restrictions and possible CABG next week.      
+
+GI/GU:  Pt. with c/o constipation - per report, no BM since admission to hospital.  Given Colace, Senna and Dulcolax as ordered with results pending.  Abdomen soft with active bowel sounds.  Pt. with increased appetite and subsequent PO intake.  Renal function improving.  Adequate urine output despite discontinuation of Lasix per housestaff ([**Doctor Last Name 36**]).  UOP 45-235 cc/hr.  Lasix discontinued per housestaff as pt. was -2.5L for [**9-15**] - awaiting team decision to possibly resume Lasix today.  Current I/O: -450.  Pre-op U/A sent.
+
+ENDO:  Blood capillary glucose levels stable throughout night - 103-149.  Insulin gtt titrated to glucose levels - [**12-22**] u/hr.  Currently insulin infusing at 1u/hr.  Pt. requesting ice cream and reinforced to pt. importance to adhere to diabetic dietary restrictions of which pt. verbalized understanding.  
+
+PAIN:  Pt. repositioned frequently for comfort.  Reported [**1-30**], ""mild ache"" in back at 0415 at which point administered 1 Percocet tablet with adequate pain relief as evidenced by pt. reports of no further discomfort.  
+
+ACCESS:  Stable oozing noted from bilateral groin sites (RFV dialysis catheter, LFA IABP/LFV sheath/LF PA catheter).  Dressings reinforced with gauze - saturated but contained within dressings.  No oozing noted from LIJ TLC and L radial a-line - housestaff aware ([**Doctor Last Name 35**], [**Doctor Last Name 36**]) and purse-string suture postponed.   -----------------------------------
+",,
+5478,3501,6810,0,3055-09-16 04:27:00 EST,3055-09-16 05:49:00 EST,6280,"N",1,"Nursing/Other",,"
+
+(Continued)
+SOCIAL: No family visited; updated on phone.
+
+A:  Pt. admitted to [**Hospital1 22**] [**9-12**] for elective cath with Cool RCN study.  Received in CCU post-cath which revealed 3VD and CHF with R/L high filling pressures.  Required ultrafiltration post-cath.  Post-cath MI complicated by hypotension requiring pressor support and IABP insertion.  IABP 1:1 as bridge to possible CABG [**9-18**].  Aggressively diuresed with Lasix -2.5L [**9-15**].  Continues on insulin gtt for blood sugar control.  
+
+P:  Monitor hemodynamics; continue 1:1 IABP therapy.  Follow Hct, replete lytes as needed.  Monitor fluid-volume status and continue diuresis per established goal for [**9-16**].  Follow blood sugars and titrate insulin gtt [**First Name8 (NamePattern2) 34**] [**Last Name (un) 30**] protocol.  Continue pre-op education to pt. and family.  Provide comfort and support to decrease anxiety related to plan of care.    
+",,
+5478,3501,6810,0,3055-09-16 17:37:00 EST,3055-09-16 19:06:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- id- afebrile to 99.4po. 
+cv- hr 60-70s mainly vpaced, also some av pacing, rare vent.intrinsic beat. cont. on iabp 1:1 with good unloading and augmentation, maps 87-109. lopressor increased to 25mg bid, extra 12.5mg given to increase dose for am, hydralazine added, tol well. pads 22-30, cvp 9-15. diuresed well. mv sat 71-69, last co 7.0, ci 2.7, svr 846. 
+k/mg replaced. repeat sma7, mg sent 1800 and pnd. hct stable 31.3 this eve. cont. heparin iv. 
+preop- cabg, ?repair mv. s/b ct [**Doctor First Name 4**]. for or late am tomorrow [**9-17**]. has active clot in bb.
+resp- cont. on 100% face tent off/on, 2l for meals. l/s clear upper, dim, scat cxs/coarse sounds lower. no sob. sats 97-100. 
+renal/gu- diuresed with lasix 80mg iv with 1850cc out so far, neg. about 1100cc for today, about 7900cc for los. ca 9.1, po4 3.6, phoslo decreased to 1 tab tid. dialysis line to stay in, lines aspirated and reflushed w/n/s, 5000unit heparin instilled per line. 
+gi- app. good. abd soft w/bowel sounds. no bm, so re'd lactulose x1 and ducolax supp. had very large formed dk brn bm on bedpan, guiac neg, then very large liquid/with formed stool on bedpan. after dinner had small liquid stool on bedpan. 
+dm- cont. on insulin drip, adjusted per fs using [**Last Name (un) **] protocol. 
+skin- intact, repos. side to side w/skin care, prefers to stay on back in reverse tberg most time. on bedpan mult. times with lots log rolling, etc.   
+ms/pain- a+o x3, anxious at times. very tired after bedpan/bms. did not [**Doctor Last Name 5**] much today. c/o r upper arm pain x1, percocet (1) with relief. 
+social- children in this am, niece in early pm, supportive to pt, fx/pt updated on pt's status, plan. 
+teaching- preop teaching done with pt/fx. pt preferred minimal verbal teaching. fx reading or pre and post-op printed material. niece visiting when cardiac surgery MD saw pt. fx/pt enc. to send all belongings home preop including upper denture (lower dentures left at home) glasses. 
+a- preop cabg, ?mv repair, [**9-17**] late am. 
+p-check for preop/anesthesia orders tonoct/am (set up prbcs per surgery). check for anesthesia consent. preop checklist. cont. heparin. check sma7 sent this pm, replace lytes prn. follow hct, creat, plts. hold bowel meds tonoct. npo after 12am. percocet prn. or in late am, then csru. cont. to update pt/fx on plan.  
+
+
+
+",,
+5478,3501,6810,,3055-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-17**] 7:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11496**]
+     Reason: r/p PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with CAD s/p CABG.                                              
+           
+     REASON FOR THIS EXAMINATION:
+      r/p PTX/Effusion/Tamponade                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG.  CAD.
+     
+     Comparison is made to the prior examination of [**3055-9-16**].
+     
+     FINDINGS:  The patient is status post interval median sternotomy and CABG. The
+     cardiomediastinal borders are within normal limits.  There has been interval
+     placement of an ET tube.  A left internal jugular central venous line has been
+     removed and replaced with a Swan-Ganz catheter that has its tip in the main
+     pulmonary artery.  The cardiac pacer device with leads in the right atrium and
+     right ventricle is unchanged.  There is no pneumothorax.  No definite pleural
+     effusions are seen.  Left lower lobe retrocardiac opacity is noted.  An intra-
+     aortic balloon pump is in stable position 5 cm below the top of the aortic
+     arch.  NG tube tip is in the stomach.  There has been interval placement of a
+     mediastinal drain. A left-sided chest tube is noted.
+     
+     IMPRESSION:  
+     1. Status post interval median sternotomy and CABG.  No pneumothorax,
+     mediastinum within normal limits for postsurgical appearance.
+     2. Left lower lobe collapse versus consolidation.
+
+",,
+5478,3501,6810,,3055-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-17**] 12:44 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 11495**]
+     Reason: r/o stenosis pre-op CABG                                    
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with CADin CCU w/IABP, needs portable study on Monday, [**9-17**] 
+      please
+     REASON FOR THIS EXAMINATION:
+      r/o stenosis pre-op CABG                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pre-operative evaluation before CABG in a 70 year old man with
+     coronary artery disease, currently on intraaortic balloon pump.
+     
+     TECHNIQUE AND FINDINGS: Duplex ultrasonography was performed at the level of
+     the cervical portions of the bilateral carotid and vertebral arteries. This
+     examination was performed in the ICU, at the patient's bedside.
+     
+     Duplicated systolic peaks were found, in relation to the intraaortic balloon
+     pump. The left central venous line was difficult to visualize.
+     
+     Mild plaque was found at the origins of the bilateral internal carotid
+     arteries, left worse than right. On the right side, the velocities were within
+     normal limits, with a peak systolic velocity ratio of 0.52 between the right
+     internal and common carotid arteries. On the left side, the peak systolic
+     velocities in the internal, common and external carotid arteries were 106, 49
+     and 70 cm/sec, respectively, giving a peak systolic velocity ratio of 2.2
+     between the left internal and common carotid arteries.
+     
+     Antegrade flow was found in the right vertebral artery. The intertransverse
+     portion of the left vertebral artery could not be visualized.
+     
+     CONCLUSION:
+     
+     1) Mild plaque in the proximal portions of the bilateral internal carotid
+     arteries, associated with luminal narrowings estimated between 40 and 59% in
+     diameter in the left internal carotid artery, and at less than 40% in diameter
+     in the right internal carotid artery.
+     
+     2) Antegrade flow in the right vertebral artery. Left vertebral artery not
+     visualized.
+
+",,
+5478,3501,6810,0,3055-09-17 02:52:00 EST,3055-09-17 04:00:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN:  Cardiogenic shock, IABP management
+
+S:  ""I'm worried I won't be able to find anything at my house once I get home since my kids have been there ...""
+
+O:  See CareVue flowsheet for complete assessment details
+
+CV:  HR 60s, AV-paced with rare PVC.  Pt. stable on 1:1 IABP management with good augmentation.  IABP mean 77-99.  Systolic unloading [**11-13**]; diastolic unloading [**7-4**].  ABP 91-134/51-69; ABPm 69-99.  Neuro intact; weak palpable pedal pulses confirmed by doppler. PA catheter intact with PAP 34-55/16-27.  CVP 9-14.  Adequate urine output.  Heparin infusion therapeutic at 1300u/hr.  Afebrile - WBC 11.1 this AM.  AM Hct: 30.5, Hgb: 10.5.  (Blood products on reserve in blood bank for CABG/ MVR today.)  Fick C.O./C.I./SVR obtained at 0320 [**9-17**] 8.8/3.4/600.  Mixed venous gases from 0320: 74%.  Tolerating increased dose of Metoprolol PO and Hydralazine PO. AM K+ 3.6, repleted with 40meq KCl IV.
+
+NEURO:  Pt. alert and oriented x3.  Pleasant and cooperative.  Pupils equal (3mm) with brisk reactivity to light.  Bilateral hand grasp and positive lower extremity movement.  Asking appropriate questions in regards to surgical procedure and recovery process.  Family visiting in evening.  
+
+RESP:  Tolerating cool neb at 100%.  Diminished bibasilary with clear apices.  Maintaining oxygen saturation > 95% with brief episodes of apnea.  
+
+ENDO:  Continues on insulin gtt - titrated to blood capillary glucose levels of 99-147.  Currently insulin infusing at 1.5u/hr.  Possible  discontinuation of insulin gtt: on-call to OR - awaiting plans from team.  NPO [**9-17**] for CABG/ MVR.
+
+GI/GU:  Abdomen soft, non-distended, slightly tender per pt. Pt. with liquid stool x2 - OB negative.  Positive flatus.  Diuresed with 80mg Lasix IV with adequate urine output of 85-280 cc/hr.  -1692 for [**9-16**] and -508 as of 0300 [**9-17**].  AM BUN and Creatinine levels: 57 and 2.3 - improving.    
+
+PAIN:  Pt. with c/o discomfort in RUE secondary to bedrest for which Percocet 1 tablet administered with adequate pain relief.  No further complaints verbalized.  
+
+ACCESS:  RFV (hemodialysis catheter) intact with stable ooze noted on DSD.  LFA/IABP/PA line/LFV sheath sites with persistant ooze; dressing changed.  Oozing improved after DSD changed at 0030.  
+
+SOCIAL:  Family visited in evening.  Asking appropriate questions regarding CABG scheduled for 2nd case [**9-17**].  Daughters anxious and slightly apprehensive - support and teaching given.  
+
+A:  Pt. admitted for elective cardiac cath [**9-12**] with Cool RCN study.  Cath revealed 3VD and CHF with increased R/L filling pressures.  Required ultrafiltration post-cath.  R/I MI with peak CK 1569/      Trop 8.17. Hypotension requiring pressors and IABP management.  1:1 IABP continues as bridge to surgery.  Diuresed with Lasix.  Insulin gtt for strict blood glucose control.  
+
+P:  Continue to monitor hemodynamics.  1:1 IABP management.  Plan for CABG/ MVR and possible TVR 2nd case [**9-17**].  NPO for procedure [**9-17**].  Blood products reserved in blood bank.  ----
+",,
+5478,3501,6810,0,3055-09-17 02:53:00 EST,3055-09-17 04:00:00 EST,6280,"N",1,"Nursing/Other",,"
+
+(Continued)
+---
+Pre-op labs sent.  2% CHG scrub completed. Pre-op checklist started.  ?Further diuresis prior to OR today?  Discuss discontinuation of insulin gtt on-call to OR with C-[**Doctor First Name 4**] team.  
+
+
+",,
+5478,3501,6810,0,3055-09-17 12:26:00 EST,3055-09-17 12:31:00 EST,2261,"N",1,"Nursing/Other",,"
+
+CCU NPN: please see flowsheet for objective data
+
+Cardiac: HR 60's AVpaced,BP 99-125/62-66  good systolic and diastolic unloading. heparin at 1300u/hr,lopressor 25mg BID,hydralazine 10mg q6. PAD's 17-26,CVP 7-13
+
+Resp: lungs clear diminished at bases,cool neb at 100%via face tent,sats 98-100
+
+ID: afebrile
+
+GU: urine output 25-80/hr. -780cc at 1pm
+
+GI:+BS,NPO since midnight
+
+Neuro: alert and orientedx3
+
+Social: children in visiting this am,planning on returning before surgery
+
+A/P: awaiting surgery
+",,
+5478,3501,6810,,3055-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-18**] 7:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11498**]
+     Reason: please eval for cardiac contour                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man with CAD s/p CABG.                                            
+               
+     REASON FOR THIS EXAMINATION:
+      please eval for cardiac contour                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recent CABG. Evaluate for cardiac contour.
+     
+     COMPARISON: [**3055-9-18**], 6 hours prior.
+     
+     FINDINGS: Single portable supine AP view of the chest shows a markedly widened
+     cardiac shadow indicating polychamber enlargement, with LV predominance. The
+     aorta is unfolded. There is a left pleural effusion, with left lower lobe
+     consolidation/collapse. Since the last examination, there has been no
+     significant interval change. An ETT, NG tube, dual chamber pacemaker, left
+     chest tube, and mediastinal drain remain in place. The Swan-Ganz catheter tip
+     appears to be in the pulmonary artery trunk, close to the expected position of
+     the pulmonic valve; advancement, if possible, is suggested.
+     
+     IMPRESSION: 1) Persistent marked cardiomegaly. 2) Persistent left lower lobe
+     collapse/consolidation.
+
+",,
+5478,3501,6810,,3055-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-18**] 1:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11497**]
+     Reason: bleeding from CT please eval                                
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with CAD s/p CABG.                                             
+             
+     REASON FOR THIS EXAMINATION:
+      bleeding from CT please eval                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Coronary artery disease, status post CABG with bleeding from
+     chest tube.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison made to prior study of [**3055-9-17**].  There was delay in reporting this examination due to technical factors.
+     The original report was lost.  An ETT, Swan-Ganz catheter, chest tube, and
+     mediastinal drainage catheters are all present and unchanged in position.
+     There is stable cardiomegaly consistent with recent surgery.  The right lung
+     is clear.  There is likely a small left pleural effusion and possibly left
+     lower lobe atelectasis.  There is no pneumothorax.
+     
+     The appearance of the lungs is not significantly changed in the interval.
+     
+     IMPRESSION:  Stable appearance of the chest from one day prior.
+
+",,
+5478,3501,6810,0,3055-09-18 02:46:00 EST,3055-09-18 02:51:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned for sml amts thin bld tinged secretions.HR-A-Paced @ this time on IABP 1:1. Has permenent pacer. BP labile on multi pressors. Sedated with propofol.No RSBI done due to hemodynamic instability. Will cont to monitor resp status. 
+",,
+5478,3501,6810,0,3055-09-18 07:37:00 EST,3055-09-18 07:58:00 EST,3892,"N",54,"Nursing/Other","admission note","
+admission note
+s/p CABG x 3. LIMA -> LAD, VG -> RAMUS, PDA. post bypass TEE showed LV systolic fx slightly improved (on epi gtt). EF ~ 30%. VT in OR -> DEFIB x2 -> given lido bolus and started on lido gtt. pt given 40 mg lasix in OR for low UO. pt recived 1 unit PRBC, 1 pk plt and 2 FFP in the OR.
+
+Neuro: pt on propofol gtt. propofol gtt off at 6 am -> PT MAE although not following commands. PERRL. Morphine given for pain control
+
+CV: pt with PPM -> V paced 60-80's. coocasional AV paced in the 60's. pt A paced at 90 (with epicardial wires) for bp support and low CI/SVO2. neo gtt titrated to keep MAP 60-90. pt recived from OR on epi gtt at 0.02 mcg/kg/min (dose unchanged overnight). svo2 dropped into the high 40's and CI < 2.0 (see flowsheet) -> intially treated with volume  -> svo2 and CI remained low -> pt started on milrinone gtt at 0.25 mcg/kg/min and milrinone gtt increased to 0.5 mcg/kg/min. svo2/CI improved within 3 hrs of starting the milrinone gtt (See flowhsheet) pt on lido gtt overnight @ 1 mg/min (rare PVC noted). lido gtt dc'd at 0630 am per team. pt started on natracor gtt at 0.01 mcg/kg/min (per DR [**Last Name (STitle) 38**]). IABP reamains on 1:1 overnight -> good augmentation and good systolic unloading ([**3-3**]). PP by doppler. bil lower ext pale and cool. pt recieved 4 units PRBC's, 1 cryo, 2 pk plt  and 2 FFP overnight.
+
+resp: LS coarse at times although clear with suctioning. Vent weaned to SIMV 40% with 5 peep and 5 ips. ABG's WNL. PEEP placed up to 8 temporally last night when intially out of the OR and brisk CT output. CT initally oozy althought slowed as the night progressed (pt treated with multiple blood pruducts). CT with no airleak.
+
+gi/gu: BS absent. abd obese. OGT draining billious fluid. foley draining clear yellow urine. UO low x 2 hours -> treated with 1 unit PRBC. UO remained low after PRBC so pt given 40 mg lasix ivp. UO remained low so pt given additional 60 mg lasix IVP. UO > 30 cc/hr after the 2nd dose of lasix. creatinine up to 2.6  this am (creatine 2.0 last night).
+
+endo: BS elvated -> pt started on insulin gtt and titrated per protocol.
+
+ID: WBC up to 14.6 this am. T max 100.4. pt on vanco q 24 hr x 4 doses
+
+plan: ?? weaned to extuabted, continue current gtt's. lasix bolus and start lasix gtt, monitor creatine/lytes, keep HCT > 30, wean IABP per team, EP consult
+",,
+5478,3501,6810,0,3055-09-18 07:47:00 EST,3055-09-18 07:48:00 EST,3444,"N",54,"Nursing/Other",,"
+
+ PER KHABBAZZ WEAN IABP NOW AT 1:2 , ALSO DECREASE NATRECOR TO .015MCG/KG/MIN. LASIX 80MG IVP DRIP TO BE STARTED AT 10MG/HR.. PROPOFOL OFF ?? WEAN LATER ???. 
+",,
+5478,3501,6810,0,3055-09-18 14:26:00 EST,3055-09-18 14:27:00 EST,5251,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains intubated and on mechanical support. See resp flowsheet for specific vent data/changes.  Will follow.
+",,
+5478,3501,6810,0,3055-09-18 15:41:00 EST,3055-09-18 15:50:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT HEMODYNAMICALLY STABLE, IABP DCD AT 1500 UNEVENTFUL NO HEMATOMA HELD GROIN FOR APPROX. 45MINUTES. CI GREATER THAN 2 WITH SVO2' APPROX. 605 OR BETTER, LAST RECALED AT 12NOON. MILIRONE AT .5MCG/KG/MIN , EPI AT .02MCG/KG/MIN.. PATIENT'S INTRINSIC PACER VPACING ASENSING, EXTERNAL PACER OFF.. SBP 90-120 DEPENDING ON SEDATION WITH NEO AT 2.0-2.5MCG/GK/MIN.. PER DR. [**Last Name (STitle) 39**] HOLD OFF CVVHD TODAY, ORDERS HAD BEEN WRITTEN BY RENAL FELLOW, NOTE NEW QUINTON CATHETER PLACED OVER GUARD WIRE, WITHOUT EVENT.. LASIX INCREASED TO 20MG/HR AT 1500, K REPLACED , CA/MAG. WNL.. ALSO NATRECOR AT .O15MCG/KG/MIN... RESP INTIALLY ON SIMV WITH GOOD ABG, PLACED ON CPAP  5 PEEP WITH 40% BUT IPS 18, CHANGED BACK TO SIMV WITH SEDATION WITH DCING OF IABP... GI MODERATE AMT. OF BILIOUS DRAINAGE.. ENDO BS UP/DOWN TREATED WITH INSULIN DRIP.. NEURO MAE TO COMMAND STRONG GRASP.. I/D RECEIVING Q24HRS VANCOMYCIN DOSE D/T RENAL STAUS.. DAUGHTER [**Name (NI) **] INTO VISIT PATIENT MOST OF THE DAY..
+",,
+5478,3501,6810,0,3055-09-18 18:43:00 EST,3055-09-18 18:44:00 EST,3444,"N",54,"Nursing/Other",,"
+
+PATIENT STARTED ON RENAL DOPA, ST 115 OFF, REQUIRING INCREASED DOSES OF NEO KEEP SBP GREATER THAN 100
+",,
+5478,3501,6810,,3055-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-19**] 7:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11499**]
+     Reason: pneumonia                                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old man with CAD s/p CABG.                                           
+                 
+     REASON FOR THIS EXAMINATION:
+      pneumonia                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70 y/o man with coronary artery disease, status post CABG.
+     Pneumonia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     Comparison is made with the previous chest radiograph dated [**3055-9-18**].
+     
+     FINDINGS:  The ET tube, mediastinal drains, left-sided chest tube, and NG tube
+     are unchanged compared with the previious study.  The IABP has been removed.
+     Distal end of the Swan-Ganz catheter from left IJ vein is not identified
+     distal to the SVC.
+     
+     The patient is status post CABG.
+     
+     Again, note is made of mild cardiomegaly.  Small left-sided effusion with
+     patchy atelectasis in the left lower lobe. There is no evidence of
+     pneumothorax.
+     
+     IMPRESSION:  Status post CABG.  The distal end of the SG catheter from left IJ
+     vein cannot be identified.  IABP removed.  Continued small effusion and
+     atelectasis.
+
+",,
+5478,3501,6810,0,3055-09-19 03:24:00 EST,3055-09-19 03:28:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned mod amts thick yellow.HR-V-Paced ST.Temp 100.RSBI done on 0 peep/ 5 ips 72.6.On pressors. Will cont to monitor resp status for further weaning.
+",,
+5478,3501,6810,0,3055-09-19 04:47:00 EST,3055-09-19 05:00:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro: Awake follows commands. med x 2 for c/o inc pain with msoa ivp good effect.
+cv/resp remains intubated on 18ips 5peep 40%fio2 with good o2 sats and no apparent resp distress. suctioned occasionally for thick yellow sputum. vpaced with internal pacer with breakthrough sinus tach in the one teens and occasional vea. bp stable with ability to briskly wean down neo gtt. Now on 1.5mcg/kg/min. milrinone dropped to .3 this am per resident and insulin gtt per protocol with q1h glucose checks. Remains on natrecor with no change in dose.Remains on low epi. gtt. cvp14-16. weight this am 127.4 down 2.5 kg. 
+gi/gu uop increased briefly to aprox 80cc/hr for several hours. now more marginal this am with am creat noted to be 3.5.Remains on lasix gtt.  no stools. no bowel sounds. ogt to lcs. bilious drainage out.
+integ. right leg ace removed and replaced for dsg inspection. dsg d+i 
+sternal dsg d+i. Left quinton cath intact not accessed. right fem iabp site with dsg d+I. 
+plan: Address increased ectopy. Lytes are wnl. ?plan on vent wean today.continue to wean neo as tol.  
+",,
+5478,3501,6810,0,3055-09-19 16:28:00 EST,3055-09-19 17:02:00 EST,5607,"N",54,"Nursing/Other",,"
+
+NEURO: Awake to voice. Open eyes and maintains contact w/ conversations. PERL at 3mm, brisk. MAE x4 to command and purposely. [**Last Name (un) 40**] appropriate gestures. No deficit.
+
+CV: ST w/ scatter ppm ventricular inapropriate pacing beats. EP team consulted and turn internal pacer tracking on ->set DDD rate 60-120 Asensing/V pacing. Rhymth ->SR-?AFib/flutter ->PA notified. Weaned down EPI and Milrinone. Stopped NEO. Started LEVO to keep SBP 100s-130s per attending. Decreased Natrecor and con't lasix gtt w/ additional bolus doses of lasix w/ adequate uo. Creatinine ^. CI>2.5 via CCO/Fick. Recal. done. MSVO2 >65. Skin cool. Dopplerable pulses. 
+
+ID: Febrile. Pan cultures sent. Held vanco per team d/t ^level. Tynelol given prn. 
+
+RESP: CPAP/PS> Weaning down IPS to extubated w/ good tol. and normal gas. See flow sheets for doc. PEEP remain at 5 w/ Vt 600s-700s. LS clear both upper lobes and diminished lower bilat. lobes. Sxn prn w/ sm. amt yellow sputum. Pulm hygiene. CPT prn. CXR in am. C'T. d'c w/o complication.
+
+GI: NPO. OG to LCX bilious amt. Belly soft/obese. Hypoactive BS. 
+ENDO: Insulin gtt management per protocol
+GU: Foley intact. BUN/Creatinine ^ ->hold CVVH per attending. Lasix/natrecor and monitor uo per team.
+
+WOUND:  Mediastinal CT sites ooze -> mod amt sero/sang drg. DSD reinforced. Cleansed sternal incision w/ betadine and DSD applied per attending. See flow sheet for other wound care doc.
+
+ACT: Bedrest. Reposition q2hr. ROM prn.
+
+COMFORT: Denies pain. Converse w/ patient regard status/planning. Pt responds w/ appro. gestures. Family in visit. Support and reinforcement given. 
+
+A/P: Maintain hemodynamic. Weaning off pressure meds as tol keep SBP at goal. Monitor creatinine level and uo. ?Rest tonoc on CPAP IPS 5/PEEP 5 and extubate tomorrow am? Con't pulm hygiene/sxn prn. Con't wound care as appropirate.
+",,
+5478,3501,6810,0,3055-09-19 18:04:00 EST,3055-09-19 18:05:00 EST,4428,"N",54,"Nursing/Other","Resp","
+Resp
+Pt received on PSV-parameters noted.  WEaned and extubated to a 50% aerosol mask.  Tol well. Lg amt of oral secretions.
+",,
+5478,3501,6810,,3055-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-20**] 11:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11500**]
+     Reason: CHECK EFFUSIONS
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Check effusion.
+     
+     COMPARISON:  [**3055-9-19**].
+     
+     FINDINGS:  Portable AP view of the chest shows interval removal of tubes and
+     endotracheal tube.  Left lower lobe atelectasis versus effusion is unchanged.
+     There is persistent cardiomegaly.  A right-sided permanent pacemaker with
+     atrioventricular leads is unchanged.  A Swan-Ganz catheter, with its tip in
+     the right pulmonary artery, is unchanged.  There are midline sternotomy wires.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+5478,3501,6810,0,3055-09-20 05:13:00 EST,3055-09-20 05:30:00 EST,5916,"N",54,"Nursing/Other","7P-7A","
+7P-7A
+Pt hemodynamics stable on levo/epi/milrinone/lasix/insulin gtts. Able to wean levo overnight. Pt assessed as follows:
+
+NEURO: Intact. Pt MAE spont/command equally bilaterally. Pt appears to have generalized weakness.
+
+CARDIAC: AFlutter 80's t/o night with intermittent ventricular pacing. SBP maintained around >110 per team. Levo initially at .1mcg/kg/min & currently at .04mcg/kg/min. Epi continues at .01, Insulin @5u/hr, milrinone @.125mcg/kg/min, lasix @ 20mg/hr. PA pressures 40's/17's. CVP's 15-20. CI >2 t/o night. SVO2's currently 60's. SG required advancement this am with noted RV waveform. SG placement unchanged at time of noted different waveform. Dr [**First Name (STitle) **] advanced catheter from 48cm to 60cm. S1S2 with doppler pulses bilat. CCO recalibrated post advancement. Continues with 2A/2V epicardial wires which are secured.
+
+RESP: LS clear ant. Decreased post bilat. O2 sats 98-100% on 3l n/c. ABGs good. Pt has productive cough of clear sputum. Denies SOB.
+
+GI: ABG benign. Hypoactive BS. Taking PO fluids without difficulty. Educated on fluid restiction secondary to renal status. No BM overnight. Denies N/V.
+
+GU: F/C to gravity and patent. U/O minimal clear/yellow. ? need for CVVHD. Pt received a 1x dose of Bumex 4mg last night with no effect.
+
+SKIN: Pt has a slight rash noted within folds of skin on left lower abd. MSCI OTA and intact. Right leg ace wrap taken down and left open to air. No noted drainage from either site. Old CT site redressed secondary to sm amount serosangeous drainage.
+
+ENDO: Continues on insulin gtt secondary to elevated BS levels.
+
+PLAN: Continue to wean levo gtt and follow BS levels. Continue to monitor SVO2/CI. Start CVVHD if indicated.
+
+
+",,
+5478,3501,6810,0,3055-09-20 14:38:00 EST,3055-09-20 14:58:00 EST,5607,"N",54,"Nursing/Other",,"
+
+NEURO: Pt lethargic. Awake to voices and spontaneously at times. Sl forgetful to event. Orient x3. C/o having difficulty finding words in am. Participates and converses appropriate. MAE x4 w/ equal strength to command/purposely. No neuro deficit. 
+
+CV: Afib/flutter am rate 70s-80s w/ rare PVC's. Amiodarone bolus x1. Started amiodarone gtt at 1mg. Rhymth converted to ventricular pacing beats via ppm w/ p waves present consistently. Rare PAC's/PVC's. Decreased gtt to .5mg per PA. Wean off epi w/ poor toleration ->CI dipped <2 and Msvo2 50s. Msvo2 dropped to 30s w/ repositioning/cpt. Recal done w/ msvo2 47. Notified PA-> restarted EPI w/ excellent effect CI>2.5/msvo2 60s. Con't milrinone .125. On/off levo to keep SBP>110. Tranfused 1upc for Hct 26. Generalize edema/+Csm. Dopperlable pulses
+
+ID: Afebrile. Cultures pnd. Recheck vanco level satisfactory.Vanco dose x1 per team. 
+
+RESP: LS diminish in bases and clear throughout. Expectorates effective w/ clear sputum. IS use w/ reinforcement ^600. CPT prn. Con't pulm hygiene
+
+GI: Tol clear liquid. ^solid food w/o difficulty swallowing. Belly soft/obese. 
+ENDO: Insulin gtt management per protocol
+
+GU: Creatinine level elevated. Hold CVVH per attending. Con't Natrecor and lasix gtt. Bolus dose of lasix x1 w/ blood. Adequate huo. Con't f/u w/ bun/creatine/uo status.
+
+WOUND: See flow sheet for documentations
+
+A/P: Monitor bun/creatinine/uo status. Con't assess mentation. ?? CVVH per team. Con't pressure meds to keep SBP>110. Maintain stable hemodynamic. Agressive pulm toilet. ^po intake and activity as tol. 
+
+
+
+",,
+5478,3501,6810,0,3055-09-21 04:43:00 EST,3055-09-21 04:55:00 EST,4158,"N",54,"Nursing/Other",,"
+
+NEURO: A+Ox3, Follows commands, Mae. Repostioned frequently for comfort. 
+
+CV: Remains on Epi/Levo/Natracor/Milrinone/Amio gtts. SBP maintained between 110-150's. Weaned Levo gtt. Sbp dropped to 90's. Levo restarted. CI 2.69-3.02. PAP 50-70/20-30's. Vpaced 80's. + peripheral edema. Skin is warm and moist.
+
+RESP: Lungs are clear anteriorly. SPo2 97% 3l np. Pt has a strong productive cough, expectorates.
+
+Gu: COntinues on Natrecor and lasix gtt. Uop 140-200cc/r. 
+
+GI: Tolerating clear liquids.
+
+INSULIN: Monitoring Bs per protocol.
+
+PLAN : Continue to wean gtt's. Continue to diurese. Monitor and max lytes.
+",,
+5478,3501,6810,0,3055-09-21 18:27:00 EST,3055-09-21 18:44:00 EST,3725,"N",54,"Nursing/Other","NSG NOTE","
+NSG NOTE
+ROS:
+
+     CV:EPI,LEVO,AMIODARONE DC,STARTED ON PO AMIODARONE.STABLE HEMODYNAMICS.MVO2SAT 60'S.CO 5.2-7.0.REMAINS AFEBRILE.REMAINS ON NATRACOR AND MILIRONE QTT.
+
+      RENAL:DIURESING ON 20MG LASIX.11AM CREAT 3.4.K 3.6.TREATED WITH 40 KCL.
+
+       NEURO;OOB WITH PT.TOLERATED WELL.ALERT,COOPERATIVE.NO C/O PAIN.
+
+       GI:TAKING SOLID DIET WELL,DRINKING LOTS FLUID..+BS,NO STOOL.
+
+       SOCIAL:FAMILY IN THIS PM.PT INTERACTING WELL.  
+
+        ENDO:PT ON INSULIN QTT,TITRATED AS ORDERED.
+",,
+5478,3501,6810,0,3055-09-22 05:48:00 EST,3055-09-22 05:53:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt awake alert orented.
+Resp: o2 sats 98% pt coughing and deep breathing well.
+c/v: no changes in drips made pt remains on natrecor0.1, milrinione 0.125 and lasix drip with good hemodynamics.
+GI: tolerating diet well.
+Endo: Insulin drips as per protocol.
+GU: excellent urine output on lasix 15mg
+Skin intact no breakdown noted.
+",,
+5478,3501,6810,0,3055-09-22 13:08:00 EST,3055-09-22 13:13:00 EST,3952,"N",54,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Alert and oriented X 3. Maintaining O2sats on NC. Utilizing IS and C&DB well. Strong cough.
+Milrinone dc'd at 0800 and tolerating thus far. SVO2 dropped after getting pt OOB which he did yesterday as well. Stable BP and 100% V-paced.
+Currently receiving iU PRBC's for a HCT 28. Received 80 mg lasix prior to transfusion and lasix gtt decreased from 15mg/hr to 10mg/hr.
+Natrecor remains with good urine outputs. See flowsheet for additional data. 
+OOB to chair with assist of 2 and tolerating well. 
+Taking diet well. No BM but + flatus.
+Insulin gtt per FSBS.
+
+Continue current therapies.
+",,
+5478,3501,6810,0,3055-09-22 19:20:00 EST,3055-09-22 19:23:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress","
+CSRU Progress
+S/O: Neuro: Alert.
+     CV: Hemodynamics stable off milrinone.
+     Resp: Strong cough.
+     Renal: UO 150-60 on lasix 10 and natrecor .01.K repleted. Albumin tid.
+     Heme: 1UPC infused.
+     ID: T37.3.
+     GI: Eating well.
+     Endo: Insulin drip off. Started glipizide and ssri.
+     Skin: wnl.
+     Lines: Art line dampened.
+A: Stable off milrinone.
+P: Cont diuresis. ?dc art line. DC sg in am and advance activity. Cont glipizide and ssri.
+",,
+5478,3501,6810,0,3055-09-23 06:27:00 EST,3055-09-23 06:37:00 EST,3241,"N",54,"Nursing/Other",,"
+
+vpaced , occ ectopic beats.  sbp stable.  fp, co/ci acceptable, remains off milrinone.  continues on natrecor at .01 mg.  afebrile.  uo > 100cc/hr on lasix gtt at 10 mg, bolus dose of 60 mg added this am.  k and ca repleted, glucose rx per protocol.  breath sounds clear, deep breathes well, strong cough, produces mod amts thick tan secretions.  mod ant drainage from ct sites, sternal incision is dry, leg incisions are dry.  abd obese, bowel sounds present, eating small amts solids and fluids.  feet warm, dp and pt pulses palp bilat, edematous.  alert and oriented, gruff, c/o right shoulder discomfort.  med x 1 with percocet, repositioned, rubbed.  up in chair with 2 assist.
+",,
+5478,3501,6810,0,3055-09-23 21:02:00 EST,3055-09-23 21:10:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: pt progressig, lasix drip d/c today, swan d/c- cordis remains in place, aline dampened and d/c. pt oob to chair a goo dpart of the day- attmept to walk short distance- legs weak- pt deiscussed mobility issues- will see him in am. to po's well, glu elevated on oral agents tx with sliding scale- ? need to inc oral [**Doctor Last Name 41**] to bid vs ??
+neuro: wnl, mae, follows commands,  appprop conversation
+cardiac: pt v paced in 70's no ectopy noted, sbp stable, co/ci, svo2 adeq- swan d/c . aline d/c following cuff pressures.
+resp; weaned to r/a with sat >95%, bs clear, fine crackles in baes cl with cough, c&r thin cl secretions.
+gi: abd soft, obese, pt with flatus, ? moved bowels since or, h2 blocker cont. tol po's excellently- glu elevated as mention.
+gu: foley intact draining yellow/amber urine- lasix d/c this am-tid lasix ordered given with min diuresis- spoke with dr [**Last Name (STitle) 42**] concerning u/o- given 10pm dose lasix early will watch closely-? need to give additional lasix during noc. bun/creat stable
+inc: inc intact, dsd appled to chest drsg [**Name5 (PTitle) 34**] dr [**Name5 (PTitle) 43**] it from dropping food.
+
+Plan: monitor u/o and glu closely- ? inc oral agents for glu control. ? transfer to floor in am.
+",,
+5478,3501,6810,0,3055-09-24 04:49:00 EST,3055-09-24 05:02:00 EST,3241,"N",54,"Nursing/Other",,"
+
+vpaced, no ectopy.  sbp stable.  remains on natrecor at .01 mg.  afebrile.  uo 80-120cc/hr, occ sediment noted, lasix 60 mg tid.  k repleted, glucose low x 2, rx with juice.  breath sounds clear, occ has a few crackles at bases. maintaining spo2 94-97% on room air.  strong cough, occ productive, uses yankauer.  chest incision dressing dry, leg incisions dry.  abd obese, active bowel sounds, no stool, but is passing flatus.  pt states last stool was on op day.  tolerating food and fluids.  alert and oriented, percocet for pain x 1, c/o r shoulder discomfort, responded to massage.  slept in naps.
+",,
+5478,3501,,,3055-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-9-26**] 2:26 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11501**]
+     Reason: s/p cabg, r/o chf                                           
+     Admitting Diagnosis: CORONARY ARTERY DISEASE\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p cabg, r/o chf                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 70-year-old man status post CABG.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with a previous study of [**3055-9-20**].
+     
+     There is prominence of the pulmonary vasculature with marked cardiomegaly and
+     bilateral small pleural effusions indicating mild congestive heart failure.
+     The degree of mild congestive heart failure is increased compared with the
+     previous study of [**3055-9-20**].
+     
+     The patient had prior CABG amd median sternotomy.  Pacemaker leads terminate
+     in the right atrium and right ventricle.  The previously identified Swan-Ganz
+     catheter has been removed.  No evidence of pneumothorax is identified.  Patchy
+     atelectasis is seen in both lower lobes.
+     
+     IMPRESSION:  Mild congestive heart failure with marked cardiomegaly and small
+     bilateral pleural effusions.
+
+",,

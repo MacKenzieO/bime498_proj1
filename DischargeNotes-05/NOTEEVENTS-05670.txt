@@ -1,0 +1,882 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5670,327,,,3357-07-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3357-7-21**]     Discharge Date:  [**3357-8-20**]
+
+Date of Birth:   [**3274-8-26**]     Sex:  M
+
+Service:  Acove
+
+Addendum:  This patient died while in the hospital and this
+addendum is to be added to the discharge summary that was
+done on [**3357-7-30**].
+
+HOSPITAL COURSE CONTINUED:  The patient's calcium continued
+to rise.  On [**8-1**], it was a level of 12.1.  The patient was
+restarted fluids and Lasix and calcitonin, as well as weekly
+pamidronate.  The patient's urine culture was positive for
+[**Female First Name (un) 434**] and Diflucan was started.  At this time, the white
+blood cell count was 14.7.  At this time, the patient was
+eating a soft diet in addition to his tube feed.  On [**8-3**],
+the prednisone was added to the patient's medications because
+of persistent hypercalcemia.  The calcium eventually
+decreased to about 10.6 at which point it began to rise
+again.  Repeat urine culture after treatment for the fungal
+urinary tract infection was still positive for [**Female First Name (un) 434**], so
+the patient received a 24 hour amphotericin-B bladder washing
+x1 day.  Repeat urine culture was negative for [**Female First Name (un) 434**], but
+positive for Enterobacter, so the patient was started on
+levofloxacin.  At this point, the patient's calcium had risen
+to over 12 and intravenous fluids and Lasix were markedly
+increased to try to control the calcium.  Despite these
+measures, the calcium continued to rise.  On [**8-15**], it was
+noted that the patient was having [**Last Name (un) 3743**]-[**Doctor Last Name 3744**] respirations
+and on [**8-16**] the patient received a Rituxan treatment on the
+oncology floor.  He also received a therapeutic thoracentesis
+later that day for significant left pleural effusion.  Blood
+glucose was controlled during hospital with bid NPH and the
+patient eventually stopped taking po food and was only tube
+fed.  With the fluid treatment for hypercalcemia, the patient
+also had problems with elevated sodium, so free water through
+his G-tube was used to control this.  This was around [**8-18**].  At this time, the patient became less and less
+responsive everyday until he was virtually unarousable.
+The family agreed to stop the intravenous fluids had the
+Lasix.  The patient also over the last few weeks had been
+gradually developing left lower extremity swelling in
+addition to the right lower extremity.  Eventually, the
+patient was made comfort measures only.  This included
+scopolamine patches to try to dry up the patient's
+secretions.  Levsin was also used for this purposes.
+Increasing doses of morphine were used to ensure the patient
+was comfortable.  On Saturday, [**3357-8-20**] at approximately 3:30
+p.m., Dr. [**First Name8 (NamePattern2) 186**] [**Last Name (NamePattern1) 187**] pronounced Mr. [**Known patient lastname 6914**] dead.
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 923**], M.D.  [**MD Number 1325**]
+
+Dictated By:[**Last Name (NamePattern4) 6915**]
+
+MEDQUIST36
+
+D:  [**3357-8-25**]  14:48
+T:  [**3357-8-29**]  15:25
+JOB#:  [**Job Number 6916**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 929**] [**Doctor Last Name **]
+ on: TUE [**3357-11-8**] 11:27 PM
+(End of Report)
+
+
+",,
+5670,327,,,3357-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-21**] 8:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13101**]
+     Reason: elderly confused male with fever
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with 
+     REASON FOR THIS EXAMINATION:
+      elderly confused male with fever
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Elderly confused male with fever.
+     
+     SINGLE VIEW OF CHEST:  There are no previous exams for comparison.  There is a
+     dense consolidation versus collapse of the left lower lobe and lingula.  There
+     may be an associated left pleural effusion causing an increased haziness of
+     the entire left lung zone.  There is no evidence of right-sided infiltrates or
+     effusions.  Evaluation of the cardiac silhouette is limited.  Note that the
+     patient is somewhat rotated on this exam.  The soft tissues and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  Dense consolidation of the left lower lobe and lingula,
+     suggestive of pneumonia. It is difficult to exclude a parapneumonic effusion
+     on this single projection.
+     Follow-up PA and lateral CXR are recommended to ensure complete resolution
+     following appropriate antibiotic therapy.
+
+",,
+5670,327,,,3357-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-23**] 1:19 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13102**]
+     Reason: Please evaluate for L sided effusion vs PNA.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o NHL with multi week h/o pos CXR from outside hospital
+      for LLL PNA vs effusion. Pt is neutropenic and febrile.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for L sided effusion vs PNA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Non-Hodgkins' lymphoma.  Chest x-ray at outside hospital
+     demonstrated left lower lobe pneumonia vs pleural effusion.  Fever and
+     neutropenia.
+     
+     Helical CT of the thorax was performed without Iv or oral contrast.  Images
+     were obtained with 5 mm collimation and reconstructed at 5 mm intervals
+     throughout the thorax.
+     
+     CT CHEST W/O CONTRAST:  Soft tissues of the thorax demonstrate large, layering
+     left pleural effusion.  Note is also made of thoracic lymph node enlargement
+     including an AP window lymph node measuring 1.4 cm in greatest short axis
+     dimension and a lower right paratracheal node measuring 9 mm in greatest short
+     axis dimension.  Note is also made of a rounded soft tissue density in the
+     left hila region, suggesting left hilar lymph node enlargement as well.
+     Additionally, there are lymph nodes in the subcarinal region.  The heart is
+     upper limits of normal in size.  There is a small pericardial effusion
+     present.  There is a trace right pleural effusion.
+     Imaging of the upper portion of the abdomen demonstrates pneumobilia.  The
+     adrenal glands are within normal limits.  The spleen appears enlarged.  The
+     attenuation of the spleen appears heterogeneous with apparent area of low
+     attenuation posteriorly.  There is also a small hypodensity near the dome of
+     the spleen.  The adrenal glands and imaged portions of the kidneys and spleen
+     are unremarkable but these organs are incompletely imaged on  this study.
+     Vascular calcifications are noted.
+     
+     Assessement of the lungs is somewhat limited due to extensive respiratory
+     motion.  There is passive atelectasis of the left lower lobe adjacent to the
+     large effusion.  There are also lesser degrees of atelectasis within the
+     lingula and left upper lobe, also likely related to the large effusion. Linear
+     atelectasis is seen in the right upper lobe vs focal scarring.  Within the
+     right middle and right lower lobes, there are areas of ground glass
+     opacification and possible areas of early developing consolidation at the
+     right base. There is also a focal round opacity with ill defined margins in
+     the lingula.  No obstructing endobronchial lesions are identified, but
+     assessment of the airways is limited by extensive respiratory motion.
+     
+     Skeletal structures demonstrate evidence of previous median sternotomy
+     procedure.  Degenerative changes are seen within the spine.
+     
+     Note is also made of right IJ central venous catheter terminating within the
+     superior vena cava.
+                                                                 (Over)
+
+     DATE: [**3357-7-23**] 1:19 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 13102**]
+     Reason: Please evaluate for L sided effusion vs PNA.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1)  Large dependent left pleural effusion with associated passive atelectasis
+     of the left lower lobe.  This likely accounts for the observed finding noted
+     on outside chest radiograph.
+     2)  Intrathoracic lymph node enlargement, most prominent within the aortico-
+     pulmonary window and left hilar regions, but also involving other nodal
+     stations.  This  may be due to the history of non-Hodgkins lymphoma.
+     3)  Enlarged, heterogeneous spleen, incompletely imaged on this study.
+     Correlation with outside studies, if available, would be helpful.  In the
+     absence of outside studies, consider further evaluation with ultrasound.  This
+     may be due to patient's history of non-Hodgkins lymphoma.
+     4)  Small pericardial effusion.
+     5)  Ground glass opacity and patchy consolidation predominantly in right lower
+     lobe, but also involving a small portion of the right middle lobe. This may be
+     due to pulmonary infection in the appropriate clinical setting.
+     6)  Focal rounded lingular opacity, likely infecious/inflammatory, but
+     consider a follow-up chest CT in 3 months duration to ensure complete
+     resolution and to fully exclude a neoplasm at this site. 
+     
+
+",,
+5670,327,,,3357-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-24**] 9:29 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 13103**]
+     Reason: Pt with h/o 2 mos delirium and psychosis acutely worsening o
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o NHL now neutropenic and febrile.
+     REASON FOR THIS EXAMINATION:
+      Pt with h/o 2 mos delirium and psychosis acutely worsening over past 2 days. Pt
+      has h/o NHL now neutropenic and febrile. Please evaluate for mass lesion vs
+      leptomeningeal involvement. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Patient with delirium and psychosis.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR.  t2 and susceptabiity images of
+     the brain.  2D time of flight MR of the Circle of [**Location (un) 405**] was acquired.  The
+     susceptability and FLAIR images are limited due to motion. Gadolinium enhanced
+     images were not obtained.
+     
+     MR HEAD W/O CONTRAST:  There are severe periventricular hyperintense changes
+     indicative of small vessel disease.  No evidence of midline shift or mass
+     effect is seen.  No evidence of hydrocephalus is noted.  There is prominence
+     of ventricles and sulci due to involutional changes.  The vascular flow voids
+     are maintained.
+     
+     IMPRESSION:  Diffuse periventricular hyperintensities indicative of severe
+     changes of small vessel disease.  Somewhat limited study secondary to motion.
+     Patient has history of MHL and neutropenia with fever and therefore Gadolinium
+     enhanced images are indicated and patient should return for Gadolinium
+     enhanced images with proper sedation.
+     
+     MRA OF HEAD:
+     
+     3d TIME OF FLIGHT images of the Circle of [**Location (un) 405**] demonstrates normal flow
+     signal within the arteries of the anterior and posterior circulation.  No
+     evidence of vascular occlusion, stenosis or aneurysm greater than 3 mm in size
+     are seen.
+     
+     IMPRESSION: Normal MRA of the head.
+     
+
+",,
+5670,327,,,3357-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-24**] 9:29 AM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 13103**]
+     Reason: Pt with h/o 2 mos delirium and psychosis acutely worsening o
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o NHL now neutropenic and febrile.
+     REASON FOR THIS EXAMINATION:
+      Pt with h/o 2 mos delirium and psychosis acutely worsening over past 2 days. Pt
+      has h/o NHL now neutropenic and febrile. Please evaluate for mass lesion vs
+      leptomeningeal involvement. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Patient with delirium and psychosis.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR.  t2 and susceptabiity images of
+     the brain.  2D time of flight MR of the Circle of [**Location (un) 405**] was acquired.  The
+     susceptability and FLAIR images are limited due to motion. Gadolinium enhanced
+     images were not obtained.
+     
+     MR HEAD W/O CONTRAST:  There are severe periventricular hyperintense changes
+     indicative of small vessel disease.  No evidence of midline shift or mass
+     effect is seen.  No evidence of hydrocephalus is noted.  There is prominence
+     of ventricles and sulci due to involutional changes.  The vascular flow voids
+     are maintained.
+     
+     IMPRESSION:  Diffuse periventricular hyperintensities indicative of severe
+     changes of small vessel disease.  Somewhat limited study secondary to motion.
+     Patient has history of MHL and neutropenia with fever and therefore Gadolinium
+     enhanced images are indicated and patient should return for Gadolinium
+     enhanced images with proper sedation.
+     
+     MRA OF HEAD:
+     
+     3d TIME OF FLIGHT images of the Circle of [**Location (un) 405**] demonstrates normal flow
+     signal within the arteries of the anterior and posterior circulation.  No
+     evidence of vascular occlusion, stenosis or aneurysm greater than 3 mm in size
+     are seen.
+     
+     IMPRESSION: Normal MRA of the head.
+     
+
+",,
+5670,327,,,3357-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-25**] 10:30 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13104**]
+     Reason: Pt had G tube placed by surgery? at outside hospital. He pul
+      Contrast: CONRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with new dementia/delirium secondary to hypercalcemia due to
+      NH lymphoma.
+     REASON FOR THIS EXAMINATION:
+      Pt had G tube placed by surgery? at outside hospital. He pulled it out prior to
+      admission. He now has a foley in place which is leaking. Pt started vomiting
+      O/N. Please place G-J tube. Call [**Doctor Last Name 9245**] 39544 with q's. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New dementia/delirium secondary to hypercalcemia due to non-
+     Hodgkin's lymphoma. G-tube previously placed by surgery at outside hospital
+     approximately one month ago, by report from primary house staff, pulled out
+     approximately one week prior to admission, and replaced with Foley catheter.
+     Now leaking around Foley catheter with vomiting overnight.
+     
+     RADIOLOGISTS: Procedure performed by Drs. [**Last Name (STitle) 1562**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee. Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 295**], Staff Radiologist, was present for the whole procedure.
+     
+     CONTRAST AND MEDICATIONS: 70 cc of ionic contrast (Conray 60%) administered
+     via gastric Foley catheter and G-J tube. 3 cc 1% Lidocaine administered
+     subcutaneously.
+     
+     PROCEDURE/TECHNIQUE: Patient's daughter is informed of the details and
+     associated risks of the procedure and witnessed telephone consent is obtained.
+     Patient is placed supine on angiographic table and abdomen is sterilely
+     prepped and draped in the usual fashion.
+     Under fluoroscopic guidance attempts were made to pass an 0.035 Glidewire, a 5
+     French Cobra C2 catheter and an 0.035 Amplatz SuperStiff wire through the
+     Foley catheter into the pylorus, but those were unsuccessful.
+     The Foley catheter was then removed over an Amplatz wire and exchanged for a 7
+     French 23 cm-long sheath. A 5 French SOS catheter is advanced over a 0.035
+     glide wire such that the tip is within the distal duodenum.  The glide wire is
+     exchanged for a 0.035 soft- tip Amplatz wire with tip in the proximal jejunum.
+     SOS catheter is then exchanged for the 14 French [**Doctor Last Name 205**] GJ tube such that the
+     tip is within the proximal jejunum and the pigtail loop is formed within the
+     small bowel. Contrast injected via the GJ tube demonstrates the tip to be
+     within the proximal jejunum and abdominal radiograph is obtained to confirm
+     position. The GJ tube is affixed to the skin with 0-Prolene. The tube is ready
+     for use. There are no immediate complications and the patient tolerated the
+     procedure well.
+     
+     IMPRESSION:  Successful exchange of percutaneous gastric Foley catheter for 14
+     French [**Doctor Last Name 205**] GJ tube with the tip within the proximal jejunum and ready for
+     use.
+                                                                 (Over)
+
+     DATE: [**3357-7-25**] 10:30 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13104**]
+     Reason: Pt had G tube placed by surgery? at outside hospital. He pul
+      Contrast: CONRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5670,327,,,3357-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-25**] 5:30 PM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 13106**]
+     Reason: bilious emesis in patient with NHL, please assess for SBO, t
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with NHL and above
+     REASON FOR THIS EXAMINATION:
+      bilious emesis in patient with NHL, please assess for SBO, thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Lymphoma with persistent vomiting.  Evaluate for obstruction.
+     
+     The J-tube overlies upper abdomen. Retained contrast is present in the colon.
+     No evidence for intestinal obstruction.  Status post right hip replacement.
+
+",,
+5670,327,,,3357-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-25**] 5:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13105**]
+     Reason: patient with NHL lymphoma and pleural effusion, s/p thoracen
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      patient with NHL lymphoma and pleural effusion, s/p thoracentesis, please
+      evaluate for pneumothorax, sie of pleural effusion, thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient is S/P thoracentesis.  Evalute for pneumothorax and
+     pleural effusion.
+     
+     FINDINGS:  AP upright chest radiograph of [**3357-7-25**] is compared to a prior PA
+     and lateral chest radiograph of [**3357-7-21**].  Compared to the prior radiograph,
+     there is marked resolution of the left pleural effusion.  There is substantial
+     improvement of the left lower lobe/lingula consolidation, with minimal
+     atelectatic changes.  The right IJ line is in good position at the level of
+     the mid SVC. There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     1. No pneumothorax.
+     
+     2. Marked resolution of left pleural effusion.
+
+",,
+5670,327,,,3357-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-25**] 10:30 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13104**]
+     Reason: Pt had G tube placed by surgery? at outside hospital. He pul
+      Contrast: CONRAY Amt: 70
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with new dementia/delirium secondary to hypercalcemia due to
+      NH lymphoma.
+     REASON FOR THIS EXAMINATION:
+      Pt had G tube placed by surgery? at outside hospital. He pulled it out prior to
+      admission. He now has a foley in place which is leaking. Pt started vomiting
+      O/N. Please place G-J tube. Call [**Doctor Last Name 9245**] 39544 with q's. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New dementia/delirium secondary to hypercalcemia due to non-
+     Hodgkin's lymphoma. G-tube previously placed by surgery at outside hospital
+     approximately one month ago, by report from primary house staff, pulled out
+     approximately one week prior to admission, and replaced with Foley catheter.
+     Now leaking around Foley catheter with vomiting overnight.
+     
+     RADIOLOGISTS: Procedure performed by Drs. [**Last Name (STitle) 1562**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee. Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 295**], Staff Radiologist, was present for the whole procedure.
+     
+     CONTRAST AND MEDICATIONS: 70 cc of ionic contrast (Conray 60%) administered
+     via gastric Foley catheter and G-J tube. 3 cc 1% Lidocaine administered
+     subcutaneously.
+     
+     PROCEDURE/TECHNIQUE: Patient's daughter is informed of the details and
+     associated risks of the procedure and witnessed telephone consent is obtained.
+     Patient is placed supine on angiographic table and abdomen is sterilely
+     prepped and draped in the usual fashion.
+     Under fluoroscopic guidance attempts were made to pass an 0.035 Glidewire, a 5
+     French Cobra C2 catheter and an 0.035 Amplatz SuperStiff wire through the
+     Foley catheter into the pylorus, but those were unsuccessful.
+     The Foley catheter was then removed over an Amplatz wire and exchanged for a 7
+     French 23 cm-long sheath. A 5 French SOS catheter is advanced over a 0.035
+     glide wire such that the tip is within the distal duodenum.  The glide wire is
+     exchanged for a 0.035 soft- tip Amplatz wire with tip in the proximal jejunum.
+     SOS catheter is then exchanged for the 14 French [**Doctor Last Name 205**] GJ tube such that the
+     tip is within the proximal jejunum and the pigtail loop is formed within the
+     small bowel. Contrast injected via the GJ tube demonstrates the tip to be
+     within the proximal jejunum and abdominal radiograph is obtained to confirm
+     position. The GJ tube is affixed to the skin with 0-Prolene. The tube is ready
+     for use. There are no immediate complications and the patient tolerated the
+     procedure well.
+     
+     IMPRESSION:  Successful exchange of percutaneous gastric Foley catheter for 14
+     French [**Doctor Last Name 205**] GJ tube with the tip within the proximal jejunum and ready for
+     use.
+                                                                 (Over)
+
+     DATE: [**3357-7-25**] 10:30 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13104**]
+     Reason: Pt had G tube placed by surgery? at outside hospital. He pul
+      Contrast: CONRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5670,327,,,3357-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-26**] 11:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13107**]
+     Reason: 84 yo man with PNA, GIB, recent J tube change now with new N
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      84 yo man with PNA, GIB, recent J tube change now with new NG tube in place/.
+      Confirm placement prior to use. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Pneumonia and GI bleed.  S/P Ng tube placement.
+     
+     PORTABLE AP CHEST is compared to prior study of one day earlier.
+     
+     There has been interval placement of an NG tube, its tip terminates in the
+     proximal duodenum. A central venous catheter remains in satisfactory position.
+      The cardiac and mediastinal contours remain stable allowing for differences
+     in patient positioning.  There is patchy atelectasis in the left mid-l8ung
+     zone.  Otherwise, the lungs appear clear with no focal areas of consolidation.
+     There are no pleural effusions.
+     
+     IMPRESSION:
+     1)  Interval placement of an NG tube with its tip terminating in proximal
+     duodenum.
+     
+
+",,
+5670,327,7047,0,3357-07-26 18:45:00 EST,3357-07-26 18:52:00 EST,379,"N",69,"Nursing/Other","1630 MICU/SICU NSG ADMIT NOTE","
+1630 MICU/SICU NSG ADMIT NOTE
+
+please see admit form and careview for details.
+
+84yo man transferred from 7F w/melana and BRBPR. Admitted [**7-21**] from locked psych [**Hospital1 **] at [**Hospital3 828**]. Confused and yelling on admit alt w/periods of 20sec apnea. Remained confused and yelling. Wrist restraints on for pt safety. On ra w/gd O2sats. Does not desat w/apnea. RR 20s. NO stool. Plan to monitor and prep over night for colonoscopy tomorrow. [**First Name9 (NamePattern2) **] [**Doctor First Name 829**] is proxy and power of attorney. Pt recently treated for NHL and he is DNR/DNI. Also on antibiotic coverage for pneumonia. DL port-a-cath accessed prior to transfer. NS at KVO through each port. 
+",,
+5670,327,7047,,3357-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-27**] 4:36 PM
+     ABDOMEN (SUPINE & ERECT) PORT                                   Clip # [**Clip Number (Radiology) 13108**]
+     Reason: 82 yo M w NHL and GI bleed, now with J-tube which is not flu
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with NHL, GI bleed and above
+     REASON FOR THIS EXAMINATION:
+      82 yo M w NHL and GI bleed, now with J-tube which is not flushing, attempted to
+      push Barocat with only minor success prior to IR procedure to redo J-tube;
+      please assess for contrast penetration, thanks 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN 2 VIEWS:
+     
+     HISTORY: Lymphoma and GI bleed with J tube that is non-functioning.
+     
+     J tube overlies upper abdomen. No contrast is visualized in the bowel.
+     
+
+",,
+5670,327,7047,0,3357-07-27 04:55:00 EST,3357-07-27 05:04:00 EST,303,"N",69,"Nursing/Other",,"
+
+[**3357-7-27**] SYSTEMS REVIEW:
+
+CVS:  Afebrile. HR Afib most of night with rate up to 130's, given Lopressor 25mg x1. SBP=138-175. Skin warm and dry. Pulses present.
+IV NS at kvox2.
+
+Neuro: MAE, Pupils=+. Follows some commands. However, pt swears a lot and yells out. Very noisy. Can sometimes answer some questions appropriately. Memory is scattered.
+
+RESP:  RA sats=97-99%, lung sounds good. No cough. Pt is DNR/DNI.
+
+GI:  NPO for colonoscopy. Hiccups off and on all night. NGT placed for meds and GOLYTELY due to Jtube found to be occluded. Given prep as ordered. +bowel sounds. 2950cc dark red blood, melena clots to watery dark blood colored. Fecal bag on to contain drainage.
+
+GU:  Foley cath. urine clear. 25-50cc/h.
+
+SKIN:  Small area on left scapula and left shin-no drainage, clear dsgs over sites. No other open or red areas.
+
+ACCESS:  Only Permacath which is accessed with KVO NS due to pt's allergy to Heparin.
+
+ALLERGIES:  Haldol, Heparin, Coumadin,Reglan,Ativan,Ambien.
+
+Social:  Daughter [**Name (NI) 830**] is Power of attorney. Mom and daughters in to visit.
+
+Plan:  Colonoscopy today to find source of GI Bleed.
+
+",,
+5670,327,,,3357-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-28**] 12:44 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13109**]
+     Reason: g-tube does not flush.  CXR suggests kink in tube?
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with dementia
+     REASON FOR THIS EXAMINATION:
+      g-tube does not flush.  CXR suggests kink in tube?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Inability to flush percutaneous gastrojejunostomy (G-J) tube.
+     Recent chest X- ray demonstrated a kink in the distal portion of the tube.
+     This is an 82 y/o gentleman with dementia.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 3514**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee. The attenting radiologist, Dr.
+     [**Last Name (STitle) 294**] [**Name (STitle) 295**], was present and supervised the procedure.
+     
+     PROCEDURE: With the patient supine on the table, the anterior abdomen and
+     protruding portion of the GJ tube were prepped in sterile fashion. A static
+     fluorographic image showed the kink in the distal portion of the G-J tube. A
+     0.035 stiff Amplatz wire was extended down the lumen of the tube and the pig-
+     tail forming string was cut and the tube given a twist so as to uncoil the
+     pigtail. The wire was passed up to the previously noted kink, at which point
+     the G-J tube was slowly withdrawn over the wire. The end of the wire remained
+     in the jejunum, as demonstrated on fluoroscopy.
+     A new 14 French [**Doctor Last Name 205**] G-J tube was then passed over the wire into the
+     stomach, duodenum, and proximal small bowel, all of which was observed
+     fluoroscopically. The wire was then withdrawn and the locking loop deployed by
+     pulling back on this string and giving the tube a small twist. The external
+     portion of the tube was affixed to the skin with an 0-prolene suture after
+     injection of 1% lidocaine for local anesthesia. A FlexiTract was applied as
+     well. Confirmation of position was obtained with a static fluoroscopic image
+     of the abdomen after injection of 20 ml of Conray 60% into the tube. Small
+     bowel mucosal folds were outlined by this contrast and no extravasation was
+     seen.
+     
+     COMPLICATIONS: The patient the procedure satisfactorily and there were no
+     complications.
+     
+     IMPRESSION: Successful replacement of kinked G-J tube with a new 14 French
+     [**Doctor Last Name 205**] G-J tube. The tube is ready for use. 
+
+",,
+5670,327,,,3357-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-7-28**] 12:44 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 13109**]
+     Reason: g-tube does not flush.  CXR suggests kink in tube?
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with dementia
+     REASON FOR THIS EXAMINATION:
+      g-tube does not flush.  CXR suggests kink in tube?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Inability to flush percutaneous gastrojejunostomy (G-J) tube.
+     Recent chest X- ray demonstrated a kink in the distal portion of the tube.
+     This is an 82 y/o gentleman with dementia.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 3514**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee. The attenting radiologist, Dr.
+     [**Last Name (STitle) 294**] [**Name (STitle) 295**], was present and supervised the procedure.
+     
+     PROCEDURE: With the patient supine on the table, the anterior abdomen and
+     protruding portion of the GJ tube were prepped in sterile fashion. A static
+     fluorographic image showed the kink in the distal portion of the G-J tube. A
+     0.035 stiff Amplatz wire was extended down the lumen of the tube and the pig-
+     tail forming string was cut and the tube given a twist so as to uncoil the
+     pigtail. The wire was passed up to the previously noted kink, at which point
+     the G-J tube was slowly withdrawn over the wire. The end of the wire remained
+     in the jejunum, as demonstrated on fluoroscopy.
+     A new 14 French [**Doctor Last Name 205**] G-J tube was then passed over the wire into the
+     stomach, duodenum, and proximal small bowel, all of which was observed
+     fluoroscopically. The wire was then withdrawn and the locking loop deployed by
+     pulling back on this string and giving the tube a small twist. The external
+     portion of the tube was affixed to the skin with an 0-prolene suture after
+     injection of 1% lidocaine for local anesthesia. A FlexiTract was applied as
+     well. Confirmation of position was obtained with a static fluoroscopic image
+     of the abdomen after injection of 20 ml of Conray 60% into the tube. Small
+     bowel mucosal folds were outlined by this contrast and no extravasation was
+     seen.
+     
+     COMPLICATIONS: The patient the procedure satisfactorily and there were no
+     complications.
+     
+     IMPRESSION: Successful replacement of kinked G-J tube with a new 14 French
+     [**Doctor Last Name 205**] G-J tube. The tube is ready for use. 
+
+",,
+5670,327,,,3357-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-1**] 3:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13110**]
+     Reason: Patient mostly confined to bed for extended period, combativ
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      Patient mostly confined to bed for extended period, combative, difficult to
+      auscultate, elevated WBC.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abnormal mental status and elevated white blood cell count.
+     
+     COMPARISON: [**3357-7-26**].
+     
+     FINDINGS: Again seen are right sided IJ central line, sternal wires, surgical
+     clips, and post pyloric feeding tube. There has been interval development of
+     left lower lobe consolidation, likely representing pneumonia. This opacity
+     obscures the left heart border. The mediastinum appears unremarkable. There is
+     no pulmonary vascular congestion. Again seen is a left sided pleural based
+     mass versus loculated effusion. No pneumothorax.
+     
+     There has been interval removal of an NG tube.
+     
+     IMPRESSION: 1. Interval development of left lower lobe opacity likely
+     representing pneumonia.
+
+",,
+5670,327,,,3357-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-3**] 9:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13111**]
+     Reason: elderly man with leukocytosis, dementia, nofever, breathing 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      elderly man with leukocytosis, dementia, nofever, breathing fast, difficult to
+      auscultate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Leukocytosis and tachypnea.
+     
+     COMPARISON:  [**3357-8-1**].
+     
+     CHEST, SINGLE VIEW:  The cardiac, mediastinal and hilar contours are stable in
+     a patient s/p CABG.  There has been interval partial resolution of the left
+     lower lobe opacity and possible smaller pleural effusion.  There is residual
+     patchy and somewhat confluent opacity in the left infrahilar region.  The
+     right lung is grossly clear, allowing for low lung volumes.  The right IJ
+     catheter tip is noted in the distal SVC.  A feeding tube is noted with tip in
+     the proximal jejunum.  The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1)  Partial resolution of the left lower lobe consolidation/collapse.  Given
+     the rapidity of change this likely was due to atelectasis.
+
+",,
+5670,327,,,3357-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-15**] 6:16 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13112**]
+     Reason: decreased bs in LLL.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      decreased bs in LLL.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  Cough and decreased breast sounds in left lower lobe.
+     
+     Status post CABG.  Right jugular CV line is in proximal SVC.  No pneumothorax.
+      There is cardiomegaly.  There is a large left pleural effusion significantly
+     increased since the prior study of [**3357-8-3**] with obscuration of the left
+     hemidiaphragm likely due to the effusion and atelectasis in the left lower
+     lobe.  J tube overlies upper abdomen.
+     
+     IMPRESSION:  Significant increase in size of left pleural effusion since prior
+     study.  Cardiomegaly.  Cannot rule out pericardial effusion.
+
+",,
+5670,327,,,3357-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-16**] 7:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13113**]
+     Reason: eval for ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with with NHL, s/p thoracentesis for left pl. effusion.
+     REASON FOR THIS EXAMINATION:
+      eval for ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-Hodgkin's lymphoma. Status post thoracentesis.
+     
+     PORTABLE AP CHEST
+     
+     COMPARISON: [**3357-8-15**].
+     
+     The right internal jugular vein catheter is unchanged in position, with tip in
+     the superior vena cava.  The G-J tube is also unchanged in position in the
+     abdomen.  There is interval improvement in aeration of the left lung.
+     Persistent opacity exists, however, within the left lung suggesting residual
+     pleural effusion.  No pneumothorax is seen.  The right lung demonstrates no
+     focal opacities, consolidation, or pleural effusion.
+     
+     IMPRESSION:
+     
+     1) Interval improvement in aeration left lung.  Persistent left pleural
+     effusion.
+
+",,
+5670,327,,,3357-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-16**] 10:31 PM
+     CHEST (LAT DECUB ONLY) PORT                                     Clip # [**Clip Number (Radiology) 13114**]
+     Reason: r/o ptx s/p thoracentesis on left
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with nhl with effusion on left
+       
+      please do right lateral decub film with right side down.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx s/p thoracentesis on left
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Rule out pneumothorax status post thoracentesis.
+     
+     RIGHT LATERAL DECUBITUS CHEST X-RAY
+     
+     Single view of the right lateral chest decubitus. A right pleural effusion is
+     seen within the right hemithorax.  A larger left sided pleural effusion is
+     also noted.  No pneumothorax is seen.
+     
+     IMPRESSION:
+     
+     1) Right and left pleural effusion.
+
+",,
+5670,327,,,3357-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-17**] 8:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13115**]
+     Reason: possible fluid overload.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with with NHL, s/p thoracentesis for left pl. effusion.
+     REASON FOR THIS EXAMINATION:
+      possible fluid overload.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Non Hodgkins lymphoma, statust post left pleural tap.  A single view
+     of the chest is compared to a previous study dated [**3357-8-16**].  There are
+     sternal wires and clips overlying the cardiac silhouette consistent with a
+     previous CABG.  There is a right sided IJ line with the tip within the SVC
+     right atrial junction.  The cardiomediastinal contours are difficult to assess
+     because of the significant left sided pleural effusion.  This is not
+     significantly changed in comparison to the previous study.  There is a lucency
+     seen in the apex suggesting aerated lungs.  There is also a small right sided
+     pleural effusion, as well.  No pneumothorax is identified.  The left main stem
+     bronchus is not identified, of uncertain clinical significance.  A gastric
+     tube is also identified.
+     
+     IMPRESSION:
+     Stable chest radiograph with large left sided pleural effusion with evidence
+     of aeration of the upper lobes and a small right sided pleural effusion.  Ther
+     is no pneumothorax.
+     
+
+",,
+5670,327,,,3357-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-18**] 11:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13116**]
+     Reason: assess l pleural effusion.  pna?
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with with NHL, s/p thoracentesis for left pl. effusion.
+     REASON FOR THIS EXAMINATION:
+      assess l pleural effusion.  pna?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest single AP film.
+     
+     History of thoracentesis for left pleural effusion.  Evaluate for
+     pneumothorax.
+     
+     Status post thoracentesis.  There is a persistent large left pleural effusion.
+      No pneumothorax.  Status post CABG.  Cannot evaluate heart size due to
+     effusion but there is obvious cardiomegaly.  J tube overlies mid abdomen.
+
+",,
+5670,327,,,3357-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-18**] 12:11 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 13117**]
+     Reason: Dilated bowel loops?
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      Dilated bowel loops?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal distention.
+     
+     A tube overlies upper abdomen.  A gas filled loop of bowel is present in the
+     central abdomen.  It is uncertain if this is small bowel.  Gas is present
+     throughout the colon and there is no evidence for intestinal obstruction.
+     Surgical clips are present in the left upper quadrant.
+     
+     IMPRESSION:
+     
+     One loop of possibly dilated small bowel in upper central abdomen, but no
+     evidence for intestinal obstruction.  Correlate clinically and with follow up
+     or contrast study by J-tube if indicated as no relevant clinical information
+     is available.
+
+",,

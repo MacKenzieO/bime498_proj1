@@ -1,0 +1,589 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5788,13538,,,2914-11-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2914-11-22**]              Discharge Date:   [**2914-11-28**]
+ 
+Date of Birth:  [**2835-10-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending:[**First Name3 (LF) 839**] 
+Chief Complaint:
+Gastric Bleed
+ 
+Major Surgical or Invasive Procedure:
+esophagogastroduodenoscopy (EGD)
+
+ 
+History of Present Illness:
+79yo M with h/o crohn's colitis on prednisone and asacol, Afib 
+on coumadin, CAD s/p CABG, PVD who presented to [**Hospital3 1942**] 
+Hospital with hematemesis and BRBPR.  On admission labs notable 
+for INR 7.7.  Initial Hct 21->19.  Pt was transfused total of 8 
+units pRBC and 6 units FFP with Hct rising to 27 and INR 
+dropping to 1.3.  Pt remained hemodynamically stable with HR 
+between 80-120 and SBP greater than 140.  Pt also given 
+lopressor and solumedrol (for presumed adrenal insufficiency) 
+and ceftriaxone/Flagyl for possible PNA.  Pt became extremely 
+agitated requiring ativan and haldol.  EGD revealed nl 
+esophagus, bright blood in prepyloric region of antrum.  Unable 
+to identify source of bleed.  Patient was transferred to FICU at 
+[**Hospital1 83**] where on admission he remained hemodynamically stable with 
+HR in 90s and BP 170/80.  NG Lavage was performed with 1500cc 
+water and was clear.  Initial Hct was 26, INR 1.1, platelets 93 
+and fibrinogen 360.
+    Wife reports that pt has been c/o early satiety for past 
+week with decreased PO intake.  No abd pain or N/V.  Had 
+increased swelling in L arm over weekend for which he took 
+alleve.  Saw PCP early last week and U/S reportedly was neg for 
+DVT.  Pt rx with Celebrex and increase of prednisone to 40mg 
+with plans to taper. 
+ 
+Past Medical History:
+CAD s/p CABG in [**2903**]
+Afib on coumadin
+AAA s/p repair
+Lung CA s/p resection
+PVD
+s/p L CEA
+Crohn's colitis
+COPD
+HTN
+TTE ([**7-22**]) EF 45%, mild symmetric LVH
+
+ 
+Social History:
+Ex smoker quit in [**2903**].  No h/o of significant Etoh use.  Lives 
+with wife.
+ 
+Family History:
+no h/o IBD or colon CA
+ 
+Physical Exam:
+P 103  BP 164/87 100%2L 
+Agitated elderly man, uncooperative with exam, lying comfortably 
+flat in bed in NAD
+sclera anicteric, PERRL
+rapid rate, irreg irreg
+uncooperative with pulm exam
+soft, +BS, NT
+no edema, cool periphery, no cyanosis
+Swelling of L arm to mid forearm
+confused, oriented only to person
+
+ 
+Pertinent Results:
+echo:  both atria mod dilated, mild LVH, LVEF 50-55%, RWMA - 
+inferior/inferolat HK, TR AR, 2+ MR, 2+ TR, severe pulm artery 
+systolic HTN, no pericardial effusion  
+
+[**11-23**] EGD: Ulcer in the distal antrum without visible vessel or 
+active bleeding. 
+Erythematous mucosa in the distal esophagus and stomach body and 
+fundus compatible with NGT trauma.
+
+CXR ([**2914-11-23**])- ? RLL consolidation
+
+EKG ([**2914-11-21**])- afib 123 bpm, RBBB and LPFB, nonspecific lat ST 
+dep
+
+MRI of neck:
+Each of the discs of the level screened, C2-C7 is narrowed and 
+at 
+each level there are bilateral disc/osteophyte complexes. 
+Endplate 
+degenerative changes are noted, as seen on the plain film from 2 
+days 
+previously. There is mild relative stenosis of the left C2-3 
+foramen. There is moderate C3-4 foraminal stenosis. 
+At C4-5, there is some indentation of the thecal sac but no 
+clear flattening of the spinal cord. There is mild to moderate 
+bilateral foraminal stenosis minimally worse on the left than 
+the right. 
+At C5-6, there is fairly severe left foraminal stenosis, as seen 
+on the plain film. There is mild right foraminal stenosis. 
+At C6-7, there is also severe left foraminal stenosis from the 
+disc/osteophyte complex. Mild right foraminal stenosis is seen. 
+The C7-T1 foramina are well maintained. There is minimal 
+anterolisthesis of C7 on T1. 
+The spinal cord is of normal size and signal intensity and there 
+is no spinal cord compression. The craniovertebral junction is 
+normal. 
+IMPRESSION: There is multilevel moderate to severe spondylosis. 
+There is bony stenosis of multiple foramina, particularly the 
+left C5-6 and C6-7 foramina. No spinal cord compression is seen. 
+
+ 
+LEFT SHOULDER MR: There is a moderate-sized joint effusion with 
+debris within it. Also there is fluid in the subacromial and 
+subdeltoid bursa. There are complete tears of the supraspinatus 
+tendon and infraspinatus tendon with retraction of their 
+respective muscles. Additionally there is high signal within 
+their respective muscles consistent with atrophy. There is also 
+high signal within the subscapularis tendon on proton 
+density-weighted sequence suggestive of a tear. The teres minor 
+tendon is intact. There is a high riding humeral head. There are 
+osteophytes on the glenoid and within the AC joint. There is 
+thinning of both the humeral head and glenoid cartilage. The 
+biceps tendon is torn, and there is retraction of the tendon. 
+ 
+IMPRESSION: 
+1. Torn supraspinatus, infraspinatus, subscapularis, and biceps 
+tendons with atrophy of their associated muscles. 
+2. Effusion. 
+
+[**2914-11-22**] 11:06PM   GLUCOSE-147* UREA N-82* CREAT-1.7* 
+SODIUM-146* POTASSIUM-3.9 CHLORIDE-109* TOTAL CO2-25 ANION 
+GAP-16
+[**2914-11-22**] 11:06PM   WBC-11.7* RBC-3.10* HGB-9.1* HCT-25.8* MCV-83 
+MCH-29.5 MCHC-35.4* RDW-15.5
+[**2914-11-22**] 11:06PM   PLT COUNT-93*
+[**2914-11-22**] 11:06PM   PT-13.1 PTT-24.2 INR(PT)-1.1
+[**2914-11-22**] 11:06PM   FIBRINOGE-358
+LFTs (OSH) nl, CK 47, TrpI 0.22
+
+ 
+Brief Hospital Course:
+1.  gastrointestinal bleed - Pt was initially admitted to the 
+FICU.  The EGD showed that the bleed was likely gastric in 
+origin, as there was fresh blood in the antrum, but no 
+particular focus of bleeding source could be identified.  The NG 
+lavage was clear, and pt remained hemodynamically stable.  Pt's 
+hematocrit was 25.8 on admission and remained stable after 2 
+units PRBCs in the 28-30 range.  There was no further evidence 
+of bleed.  Of note, pt's INR was 1.1 during his hospitalization 
+(was 7.7 initially at outside hospital, where pt received 8 
+units PRBC and 6 units FFP).  PPI was given bid, and pt was sent 
+out on bid PPI for an acute GI bleed.  Coumadin was held for one 
+week per GI recommendations, as was aspirin for 2 weeks.  Follow 
+up endoscopy is recommended in 6 months.
+ 
+2.  atrial fibrillation - pt was noted to have [**1-19**] second pauses 
+reportedly while on telemetry in the FICU.  His BB was stopped 
+in the context of an acute GI bleed and in the setting of these 
+pauses, as it was noted that pt has bifascicular block.  When pt 
+reached the floor, an EP consult was called.  Pt was placed on 
+telemetry and monitored, and he remained tachycardic in 120s.  
+It was decided to try to reinstitute beta blocker and monitor on 
+telemetry for pauses.  The maximum length of pause that was seen 
+at a dose of BB sufficient for rate control was 1.6 seconds.  
+Therefore, it was recommended that pt not undergo pacer 
+placement, and he was sent home on lopressor 50mg po bid for 
+rate control of atrial fibrillation.  As noted above, coumadin 
+was held temporarily in setting of acute GI bleed.
+
+3.  coronary artery disease - s/p CABG, with small troponin leak 
+in setting of GI bleed.  This was thought to be due to demand 
+ischemia.  Pt did not rule in for an MI.  Aspirin was held, as 
+was his statin initially; the latter was begun on arrival to the 
+floor.  ACE inhibitor was begun, as well; pt will require 
+monitoring as an outpatient to check potassium and renal 
+function.
+
+4.  acute renal failure - Cr was initially elevated to 2.6 at 
+outside hospital, trended down to 1.7 with volume resuscitation, 
+suggesting prerenal azotemia.  Pt's Cr on discharge was at 
+baseline of 1.4
+
+5.  L arm swelling - the etiology of this was initially unclear. 
+ Reportedly had a negative UENI recently.  Pt showed both 
+weakness and pain and could not lift arm above head.  Plain 
+films were unremarkable, showing mainly some osteoarthritis.  
+MRI of shoulder showed rotator cuff tear, and MRI of neck showed 
+cervical spondylosis, which also may have been contributing to 
+pain.  Results of these MRI studies were printed on patient's 
+discharge paperwork - will follow up with PCP and may require 
+consultation with orthopedic surgeon. 
+
+6.  agitation - pt has h/o of ICU psychosis, became agitated 
+while in FICU.  Pt was given Haldol prn, and had no further 
+problems with agitation on arrival to the floor.
+
+7.  chronic steroids - pt with adrenal insufficiency due to 
+chronic steroids - was put on solumedrol initially while in the 
+FICU.  Fingersticks revealed hyperglycemia, which was a problem 
+throughout entire hospital stay.  Pt had never used insulin 
+before but was requiring insulin sliding scale with each check; 
+his glucose was running in the 200s.  Pt's PCP was called, and 
+it was arranged for pt to see PCP the following morning to get 
+his glucose checked and possibly to get a glucometer and insulin 
+teaching.  
+
+8.  Full code
+ 
+Medications on Admission:
+Outpatient Meds: Zocor 20 daily, Asacol 800mg daily, Prednisone 
+10 daily, Coumadin, Prevacid, Metoprolol, zyprexa, Effexor
+
+Meds on Transfer: Metoprolol 5mg IV Q4H, Hydroxyzine 25mg prn, 
+tylenol prn, Solumedrol 30mg IV Q12H, CTX 1g Daily, Flagyl 500mg 
+IV Q8H, Haldol 1-2mg Q2H prn, Protonix 40mg IV BID  
+ 
+Discharge Medications:
+1. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Simvastatin 40 mg Tablet Sig: one half Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 30 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. pill cutter
+one pill cutter to split simvastatin tablets
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses: 
+1) gastrointestinal bleed 
+2) atrial fibrillation 
+3) hyperglycemia, likely prednisone-induced  
+4) cervical spondylosis 
+5) left torn rotator cuff 
+ 
+Secondary diagnoses: 
+1) coronary artery disease s/p CABG in [**2903**]  
+2) hypertension  
+3) abdominal aortic aneurysm s/p repair  
+4) Lung cancer s/p resection  
+5) peripheral vascular disease 
+6) s/p L carotid endarterectomy  
+7) Crohn's colitis  
+8) chronic obstructive pulmonary disease  
+9) bifascicular block 
+
+ 
+Discharge Condition:
+stable, tolerating po well, ambulating
+ 
+Discharge Instructions:
+Please follow up with your primary care doctor in the next [**1-19**] 
+weeks.  Please call your PCP if [**Doctor First Name **] notice any blood in your 
+stool or dark, tarry stools, or if [**Doctor First Name **] have palpitations or feel 
+short of breath.
+ 
+Followup Instructions:
+Please call Dr.[**Last Name (STitle) 7146**] office first thing in the morning - he 
+said he will see [**Doctor First Name **] tomorrow about your high sugars.
+ 
+
+ 
+We recommend that [**Doctor First Name **] begin your coumadin and aspirin again in 2 
+weeks. [**Doctor First Name 10**] will also need a followup EGD (which is the same kind 
+of endoscopy [**Doctor First Name **] had here, where they looked into your stomach 
+with the camera) in 6 weeks, to make sure that your ulcer is not 
+bleeding. Until [**Doctor First Name **] get the endoscopy, [**Doctor First Name **] will need to take 
+your Protonix twice a day. If the endoscopy shows that [**Doctor First Name **] are 
+not still bleeding, then your PCP may recommend that [**Doctor First Name **] take 
+the Protonix only once a day. 
+ 
+
+ 
+[**Doctor First Name 10**] have been started on a new medicine for your high blood 
+pressure, called lisinopril. [**Doctor First Name 10**] will need to have your 
+potassium and renal function checked within one week.
+ 
+
+ 
+[**Doctor First Name 10**] may need to be on an oral medication for your high sugar. 
+Your glucose has been consistently high in the hospital, in the 
+200s. It is likely that this is because of the prednisone [**Doctor First Name **] 
+are taking. If [**Doctor First Name **] will take the prednisone chronically, [**Doctor First Name **] may 
+need to take a medicine to keep your sugars under better 
+control. [**Doctor First Name 10**] will see Dr. [**Last Name (STitle) **] tomorrow for this.
+ 
+
+ 
+We recommend that [**Doctor First Name **] get an appointment with an orthopedic 
+surgeon near [**Doctor First Name **], as the MRI that we did showed the following: 
+(results were placed on paperwork for pt to show PCP; please see 
+pertinent results section for the information)
+ 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 844**] MD [**MD Number 845**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 2797**] [**Last Name (NamePattern4) 6631**] MD [**MD Number 6632**] [**2914-12-10**] @ 1633
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2914-12-26**] 12:36 PM
+(End of Report)
+
+
+",,
+5788,13538,7204,,2914-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-23**] 1:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14092**]
+     Reason: Please evaluate for aspiration, CHF, PNA                    
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with h/o CABG p/w hematemesis s/p 8U pRBC and 6U FFP            
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for aspiration, CHF, PNA                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 79-year-old man with history of CABG, with hemetemesis, status
+     post large transfusion.  Evaluate for aspiration, pneumonia, or CHF.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Upright AP portable chest x-ray.
+     
+     FINDINGS:  The patient is status post CABG.  The heart is enlarged.  Allowing
+     for technique, the mediastinal and hilar contours are unremarkable.  The tip
+     of the NG tube is likely in the cardia of the stomach adjacent to the
+     gastroesophagea junction.  There is significant upper zone redistribution of
+     the pulmonary vessels, suggesting moderate CHF, with a small right pleural
+     effusion.
+     
+     IMPRESSION:
+     1.  Evidence of moderate CHF.
+     2.  Tip of the nasogastric tube likely in the cardia of the stomach adjacent
+     to the gastroesophageal junction.  
+
+",,
+5788,13538,7204,0,2914-11-23 16:41:00 EST,2914-11-23 16:59:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN FOR 7A-7P:      FULL CODE   ALLERGIC TO MORPHINE
+   
+              PLEASE FLOWSHEET AND FHP FOR MORE DETAILS
+
+THIS IS A 79 Y/O GENTLEMAN WITH EXTENSIVE MEDICAL HISTORY WHICH INCLUDES HTN, CHRONIC AFIB, CROHN'S, S/P AAA REPAIR, S/P LUNG CA WITH RESECTION, S/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1216**], [**First Name3 (LF) 492**] = 45%, PVD, COPD. HE PRESENTED TO OSH WITH HEMATEMESIS AND BRIGHT RED BLOOD PER RECTUM. EGD DONE AT [**First Name9 (NamePattern2) 1217**] [**Male First Name (un) **]. SHOWED BRB IN STOMACH, BUT NO CLEAR SOURCE.  REC'ED A TOTAL OF 10 UNITS OF PRBC'S AND 7 U FFP SINCE ADMISSION TO BOTH HOSPITALS.  TX'ED HERE LAST NIGHT FOR FURTHER MANAGEMENT AND DETERMINATION OF BLEED AREA.
+
+NEURO:  CONFUSED AND ORIENTED X 1.  VERBALLY COMBATIVE AT TIMES REQUIRING SOFT WRIST RESTRAINTS AT OSH.  PERLA. HALDOL GIVEN AT [**Hospital1 22**] WITH GOOD EFFECT. BECOMES AGITATED/ANXIETY FREQUENTLY FOR NO APPARENT REASON.  ATTEMPTS TO GET OOB WITHOUT ASSISTANE FREQUENTLY.  HIGH RISK FOR FALL. 1:1 SITTER REQUESTED FOR 7PM. FAMILY IN AND SCHEDULED TO RETURN AFTER 8PM TONIGHT. NO CHANGE IN COMBATIVENESS WITH FAMILY PRESENT.  ALSO, HAS TENDENCY TO YELL RACIAL SLURS AT STAFF.
+
+RESP:  O2 VIA 2L NC WITH ADEQUATE SATS. LUNG WITH EXP. WHEEZING AND DIMINISHED IN BASES. RR TACHYPNEIC WHEN AGITATED AND INCREASED WHEEZING.  NO COUGH NOTED.
+
+CV:  AFIB.  AFEBRILE.  BP ELEVATED THROUGHOUT THE DAY.  MD'S AND TEAM ARE AWARE. PALP. DISTAL PULSES X 4.
+
+GI/GU:  + HYPERACTIVE BS.  ABD. DISTENDED, SOFT AND NON-TENDER. NUMEROUS EPISODES OF INCONT LIQUID BLACK STOOL. REQUESTS BEDPAN INTERMITTENTLY. FOLEY IN PLACE WITH ADEQUATE URINE OUTPUT. EGD DONE THIS AFTERNOON REVEALING HEALING ULCER WITH NO BLOOD IN STOMACH.  NGT D/C'ED AND STARTED ON CLEAR LIQUIDS.
+
+SKIN:  REDDED AREA TO COCCYX/RECTAL AREA.  NO BREAK NOTED.
+
+SOCIAL:  WIFE IS [**Name2 (NI) 1218**] AND # ON FHP.  UPDATED BY MD[**Name6 (MD) **] AND RN.
+
+PLAN:  MONITOR PER PROTOCOL.  CONT. WITH Q6HR HCT CHECKS/CURRENT CARE. POSSIBLE D'C TO HOME IN AM IF HCT REMAINS STABLE?????  ?TX TO REGULAR FLOOR FIRST.  
+",,
+5788,13538,7204,0,2914-11-23 17:01:00 EST,2914-11-23 17:06:00 EST,69,"N",69,"Nursing/Other",,"
+
+72 yr old male with Psaa issue of GIB. Now improving but gets very agitated at times which cause him to develop audible wheezes. On MDI but being treated [**Last Name (un) 1219**] Neb instead. Rx combivent Q4
+",,
+5788,13538,7204,0,2914-11-24 04:13:00 EST,2914-11-24 04:31:00 EST,6155,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+General: Pt calm this evening, sitter in room, no ativan or haldol given after 1830 last eve. A&Ox3 sleeping awakens to answer questions, complains when awakened. BP's elevated at times, lopressor held d/t prolonge QTc interval .62 at midnight, given Hydralazine 2.5 mg IV for SBP 200 with little effect, followed by by a second dose with good effect, see MAR for tx time and see flowsheet for detailed VS.
+
+Neuro: Sleeping most of shift, raised voice at staff when awakened from [**Doctor Last Name 5**], MAEW in bed, able to sit on side of bed with assist, no c/o pain, no distress noted.
+
+CV: HR 83-91 Afib with occasional PVc's, BP's 130's-200's/40-60's, (+) pedal pulses bilat., 3-lumen cvl patent and intact to R groin with old dry bld seen at insertion site. T masx 97.8.
+
+Resp: Lungs diminished to coarse on auscultation, no cough, resp even and unlabored, O2sats 97-100% on 2L NC, no c/o SOB.
+
+GI: BS (+)x 4 quad. hyperactive, x 2 liquid OB (+) black stools this shift. Abd soft non-distended, non-tender to touch on palpation. Tmax 98.8, able to tolerate clear liquids at this time.
+
+GU: Foley intact draining clear yellow urine in adequate amts.
+
+Social: Brothers in to see pt this shift.
+
+Plan: Contiue to monitor Vs, discuss elevated bp's with team, discuss CVL line removal from groin with MD prior to dc to floor, Follow-up am labs
+
+",,
+5788,13538,7204,0,2914-11-24 06:08:00 EST,2914-11-24 06:10:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt followed for prn neb rx, bs coarse, no wheeze or sx bronchospasm, NARD on 2lpm o2, will follow prn.
+",,
+5788,13538,,,2914-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-25**] 6:33 PM
+     C-SPINE NON TRAUMA W/OBLS 4 VIEWS                               Clip # [**Clip Number (Radiology) 14093**]
+     Reason: please evaluate for stenosis or evidence of cord compression
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with L arm pain                                                 
+     REASON FOR THIS EXAMINATION:
+      please evaluate for stenosis or evidence of cord compression                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Please evaluate for stenosis or evidence of cord compression.
+     
+     C SPINE 4 VIEWS (WITH OBLIQUES):
+     
+     No priors for comparison. The cervical vertebra are visualized to the level of
+     C6/7. Sternotomy wires noted. There is extensive joint space narrowing,
+     subchondral sclerosis, and anterior osteophytosis at the levels of C4/5, C5/6,
+     and C6/7. Additionally, best demonstrated on the oblique views, there are
+     osteophytes moderately encroaching into the neural foraminal canals
+     bilaterally at the levels of C4/5, C5/6, and C6/7. Otherwise, there is no
+     evidence of fracture and there is satisfactory alignment of the cervical
+     spine.
+     
+     IMPRESSION: Extensive cervical spondylosis as described above, with associated
+     encroachment of the neural foraminal canals from the level of C4/5 to C6/7.
+     Cord compression cannot be adequately evaluated by plain film, and if clinical
+     symptoms persist and if indicated, MRI could be obtained.
+
+",,
+5788,13538,,,2914-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-25**] 6:34 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) SOFT TISSUE LEFT              Clip # [**Clip Number (Radiology) 14094**]
+     Reason: Please evaluate for L shoulder dislocation, fracture, or evi
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with L arm pain                                                 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for L shoulder dislocation, fracture, or evidence of nerve 
+      compression
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left arm pain, evaluate for dislocation, fracture, or evidence of
+     nerve compression.
+     
+     AP (INTERNAL & EXTERNAL ROTATION) & AXILLARY VIEWS OF LEFT SHOULDER:
+     
+     The humeral head is well positioned in the glenoid, with no evidence of
+     dislocation. No evidence of fracture. Mild degenerative changes of the
+     acromioclavicular joint. There is perhaps minimal raising of the humeral head,
+     which could be consistent with a rotator cuff injury, however, this cannot be
+     assessed by plain film.
+     
+     IMPRESSION:
+     1) No evidence of fracture or dislocation.
+     2) Mild AC joint DJD, and minimal superior raising of the humeral head, which
+     may be consistent with a rotator cuff injury, which could be further assessed
+     by MR [**First Name (Titles) **] [**Last Name (Titles) 14095**] indicated. 
+
+",,
+5788,13538,,,2914-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-26**] 10:48 AM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 14096**]
+     Reason: ARM SWELLING, RO DVT
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with L arm pain and swelling                                    
+     REASON FOR THIS EXAMINATION:
+      please evaluate for thrombosis                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left arm pain and swelling.
+     
+     There are no prior studies for comparison.
+     
+     Left upper extremity ultrasound:  grayscale and sonograms of the left internal
+     jugular, subclavian, axillary, brachial, and basilic veins was performed.
+     Normal fill, compressibility, augmentation, and waveforms were demonstrated.
+     No intraluminal thrombus is identified.
+     
+     IMPRESSION:
+     
+     No evidence of DVT.
+
+",,
+5788,13538,,,2914-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-27**] 7:49 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 14097**]
+     Reason: PLease evaluate for cord compression                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with arm weakness cervical spondylosis with ? neural 
+      compression on radiographs
+     REASON FOR THIS EXAMINATION:
+      PLease evaluate for cord compression                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR OF THE CERVICAL SPINE:
+     
+     CLINICAL HISTORY:  Spondylosis and upper extremity weakness.
+     
+     TECHNIQUE:  Sagittal T1 and T2 weighted images and axial T2 weighted and
+     gradient echo images were obtained.
+     
+     FINDINGS:  Each of the discs of the level screened, C2-C7 is narrowed and at
+     each level there are bilateral disc/osteophyte complexes.  Endplate
+     degenerative changes are noted, as seen on the plain film from 2 days
+     previously.  There is mild relative stenosis of the left C2-3 foramen.  There
+     is moderate C3-4 foraminal stenosis.
+     
+     At C4-5, there is some indentation of the thecal sac but no clear flattening
+     of the spinal cord.  There is mild to moderate bilateral foraminal stenosis
+     minimally worse on the left than the right.
+     
+     At C5-6, there is fairly severe left foraminal stenosis, as seen on the plain
+     film.  There is mild right foraminal stenosis.
+     
+     At C6-7, there is also severe left foraminal stenosis from the disc/osteophyte
+     complex.  Mild right foraminal stenosis is seen.
+     
+     The C7-T1 foramina are well maintained.  There is minimal anterolisthesis of
+     C7 on T1.
+     
+     The spinal cord is of normal size and signal intensity and there is no spinal
+     cord compression.  The craniovertebral junction is normal.
+     
+     IMPRESSION:  There is multilevel moderate to severe spondylosis.  There is
+     bony stenosis of multiple foramina, particularly the left C5-6 and C6-7
+     foramina.  No spinal cord compression is seen.
+
+",,
+5788,13538,,,2914-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2914-11-27**] 8:13 PM
+     MR SHOULDER W/O CONTRAST LEFT                                   Clip # [**Clip Number (Radiology) 14098**]
+     Reason: pls evaluate for etiology of L arm pain and weakness        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with L arm pain and weakness of one week duration.              
+     REASON FOR THIS EXAMINATION:
+      pls evaluate for etiology of L arm pain and weakness                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 79-year-old man with left arm pain and weakness of one week's
+     duration.
+     
+     TECHNIQUE: Axial, coronal and sagittal proton density and T2-weighted images
+     were performed through the left shoulder. Coronal inversion recovery-weighted
+     images were also performed.
+     
+     LEFT SHOULDER MR: There is a moderate-sized joint effusion with debris within
+     it. Also there is fluid in the subacromial and subdeltoid bursa. There are
+     complete tears of the supraspinatus tendon and infraspinatus tendon with
+     retraction of their respective muscles. Additionally there is high signal
+     within their respective muscles consistent with atrophy. There is also high
+     signal within the subscapularis tendon on proton density-weighted sequence
+     suggestive of a tear. The teres minor tendon is intact.
+     
+     There is a high riding humeral head. There are osteophytes on the glenoid and
+     within the AC joint. There is thinning of both the humeral head and glenoid
+     cartilage. The biceps tendon is torn, and there is retraction of the tendon.
+     
+     IMPRESSION:
+     1. Torn supraspinatus, infraspinatus, subscapularis, and biceps tendons with
+     atrophy of their associated muscles.
+     2. Fluid in glenohumeral joint and subacromial/subdeltoid bursa.
+     
+
+",,

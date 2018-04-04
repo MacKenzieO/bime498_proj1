@@ -1,0 +1,296 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5277,11847,,,3082-09-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3082-9-29**]     Discharge Date:  [**3082-10-4**]
+
+Date of Birth:   [**3019-7-13**]     Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 63-year-old man with a
+history of type 2 diabetes, hypertension, iron-deficiency
+anemia, and post polio syndrome who complains of two weeks of
+intermittent chest pain of worsening intensity with no
+angina.  Patient had his worst episode on day of admission
+and presented.  Symptoms were midsternal chest pain lasting
+about 15 minutes with radiation to both arms with dyspnea on
+exertion but he denies any diaphoresis, nausea, or vomiting.
+Described the symptoms as a pressure and band-like sense in
+both arms.  Patient thought his symptoms were
+gastrointestinal in nature, though he has got no known
+history of peptic ulcer disease or gastroesophageal reflux
+disease, and he did not seek immediate medical attention or
+attend his child's wedding.
+
+On the day of admission he presented to his primary care
+physician's office after being awakened by pain.  PCP sent
+him to the [**Hospital6 807**] Emergency
+Room.  ECG there showed anterior ST elevations with small Qs.
+Patient was given aspirin, nitroglycerin, Heparin and
+Integrilin for chest pain.  He went to the Cardiac
+Catheterization Lab.  There the report was notable for
+three-vessel disease with 90% proximal left anterior
+descending lesion that was stented to a 2 Hepakote stents,
+diffuse disease in the left circumflex, and 40% mid and 80%
+distal RCA lesion.
+
+Patient was seen and evaluated by CT Surgery but turned down.
+During the procedure he was found to have low cardiac output
+index with cardiac output 3.7 and index of 1.78, necessitated
+input of an intra-aortic balloon pump.  Patient was also
+requiring Dobutamine drip to maintain his coag output and
+arrived on the Dobutamine drip at 2 mcg per kg per minute.
+
+Upon arrival to the CCU patient reported to be chest free and
+breathing comfortably.
+
+PAST MEDICAL HISTORY:
+1.  Type 2 diabetes times 15 years.
+2.  Hypertension.
+3.  Anemia.
+4.  Post polio paralysis resulting in difficulty with
+ambulation requiring crutches.
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS:
+1.  Cardizem CD 300.
+2.  Avapro 150 q.d.
+3.  Metformin 2000 b.i.d.
+4.  Actos 30 q. day.
+5.  Aspirin, which he had been holding for several days for a
+scheduled colonoscopy.
+
+FAMILY HISTORY:  Pertinent for coronary artery disease in his
+mother who had coronary artery bypass graft in her 70s.
+
+SOCIAL HISTORY:  Patient is a medical device technician.  He
+is the youngest of two adult children.  Does not smoke or
+drink but did quit tobacco 23 years ago.
+
+REVIEW OF SYSTEMS:  Patient walks with cane and scooter at
+baseline. There is no bright red blood per rectum.  No
+melena.  Good air entry level.  Initial vitals:  100.3
+temperature, heart rate 121, blood pressure 100/60,
+respirations 21, satting 90% on 2 liters nasal cannula.  His
+assisted systole was 71, augmented diastole was 95, his [**First Name5 (NamePattern1) **]
+[**Last Name (NamePattern1) 6157**] was 62, his mean IAPT was 83.  Cardiac output was 8.7,
+cardiac index was 3.9.
+
+PHYSICAL EXAMINATION:  On exam he is a well developed, well
+nourished man in no current distress.  He is alert and
+oriented times three.  Mucous membranes are moist.  Speech is
+fluent.  Exam is notable for a supple neck.  Jugulovenous
+pressure approximately 10 cm.  Pupils equal, round, reactive
+to light.  Lungs are clear on exam with no wheezes or
+crackles.  Cardiovascular exam is notable for normal S1, S2
+noted by the IABP sounds.  Abdomen is soft, nontender.
+Normal bowel sounds are noted.  No organomegaly.  The AP
+groin size intact.  Extremities:  Notable for palpable
+dorsalis pedis pulses bilaterally.  Rectal exam is deferred
+secondary to post cath on admission.
+
+LABORATORY DATA:  Initial labs:  Whites were 16, hematocrit
+33, platelets 39, Chem-7 unremarkable, anginal CKs were 18,
+MB is 6, and troponin 0.77.
+
+HOSPITAL COURSE:  Patient begun on aspirin, Heparin, and
+Plavix.  He was weaned off the Dopamine and then also
+gradually weaned off the intra-aortic balloon pump.
+Patient's blood pressures remained stable without balloon
+pump and without pressures, and patient was called to the
+floor, at which point the patient was started on Carvedilol,
+and she had 3.125 mg p.o. q. day later increased to 6.25 mg
+p.o. q. day.  Patient was also initially treated with
+Captopril and Zoloft at the desire of the primary care
+physician who admitted the patient had some cough intolerance
+of ACE inhibitors in the past.  Patient was put on an ARV.
+
+Patient remained completely chest pain free after the
+procedure.  Therefore, discharged the patient on [**3082-10-4**]
+to follow up with his primary care physician next few weeks,
+follow up with Dr. [**Last Name (STitle) **] in approximately one month, and for
+with the Jaws and Diabetes Center in particular with Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 6158**] on [**3082-11-7**] at 1 p.m., and has a follow up with
+the Heart Failure Clinic with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**3082-11-9**]
+at 10:30 a.m. in [**Hospital Ward Name **] Center.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg q.d.
+2.  Plavix 75 mg p.o. q. day.
+3.  Atorvastatin 10 mg p.o. q. day.
+4.  Metformin 500 mg p.o. b.i.d.
+5.  Carvedilol 6.25 mg p.o. b.i.d.
+6.  Lasix 40 mg p.o. q. day.
+7.  Glucovance 1-5/500 mg tablets b.i.d.
+8.  Avapro 150 mg p.o. q. day.
+9.  Protonix 40 mg p.o. q. day.
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 94**], M.D.  [**MD Number 95**]
+
+Dictated By:[**Last Name (NamePattern1) 6159**]
+
+MEDQUIST36
+
+D:  [**3082-10-4**]  15:42
+T:  [**3082-10-5**]  09:59
+JOB#:  [**Job Number 6160**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 94**]
+ on: TUE [**3082-10-17**] 5:29 PM
+(End of Report)
+
+
+",,
+5277,11847,,,3082-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3082-9-29**] 3:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9834**]
+     Reason: r/o widened mediastinum, pna                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with chest pain                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o widened mediastinum, pna                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain.
+     
+     FINDINGS:  There are low lung volumes.  Technique is slightly lordotic.  Also,
+     there is left convexity scoliosis of the lower thoracic spine.  Accounting for
+     these factors, the pulmonary vasculature is within normal limits. The
+     mediastinum is unremarkable. There is bibasilar opacity, greater on the left
+     and obscuring the left hemidiaphragm.  No pneumothorax.  No definite pleural
+     effusions appreciated.
+     
+     IMPRESSION:  Bibasilar opacities, greater on the left and obscuring the left
+     hemidiaphragm.  Infectious process must be considered.
+
+",,
+5277,11847,6545,0,3082-09-30 04:36:00 EST,3082-09-30 05:21:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" By back hurts ""
+O:  pt. denies CP/angina pain.  remains on IABP 1:1. fair diastolic augmentation.  syst. unloading 1-16pt.  poor diastolic unloading.  
+dobutamine dec. to 5mcq -> 3mcq by 2400.  C.O. unchanged: 6.9-7.7/3.0-3.4/765-644.  MVO2 65-64.  
+given first dose captopril 6.25 at 0100.  MVO2 down to 61 but C.O. unchanged 7/3/500.  
+MAPS 75-80 ->>>58-60 after captopril.  HO aware. MAPS coming up to 70-75 by 0400.  
+
+CK 87(118).  #3 at 0500 pnd.  
+K+ 3.4 in eve.  repleted with total 60meq KCL IV
+Mg+ 1.6         repleted with 2gms mag sulfate IV
+no VEA.  HR 120's ST in eve, down to 98-105 by 0300.  
+
+PAP 38-45/24-22.  CVP 17-15.  no wedge 
+
+heparin started at 2000 at 400u/hr, no bolus.  PTT 23.4(no change from admit)..heparin increased to 600u/hr.  
+
+****right groin with slow ooze at swan/IABP catheter insertion sites.   pressure dsg changed x3 each time with less ooze.    last time ~ 0200.  
+HCT 28.7 in eve.  down to 25.8 at 0200.  transfused 1UPRBC up at 0400.  
+
+Resp:  LS crackles at bases.  O2 3lnc.  sats 96-98%.  denies SOB.  HOB 15deg. and comfortable
+
+GU:  given 20 IV lasix in eve. neg. 900cc for [**9-29**].  pt. using condom cath- voiding 200-300cc ~q2hr.  even at 0400
+
+GI:  ABD soft, ND.  pt. ate sandwich/drink in eve, tol. well, then became slightly nauseous after taking eve meds (protonix, tylenol). resolved on own.
+
+endo:  FS 230- 4u in eve.  
+comfort/neuro:  pt. very uncomf, wanting freq. position changes.  c/o lower back discomfort.  refusing percocet/ambien initially d/t nausea. given 1mg morphine x2 with fair relief and able to [**Doctor Last Name 65**].  given 1 percocet ~ 0300 and 1mg morphine for rest of night with good effect.  
+
+pulses doppler except for right DP absent.  
+
+A:  CV shock, tolerating dobut. wean. 
+    HCT drop assoc. with slow groin ooze.  
+    back pain rel. with morphine IV
+P:  follow CK's, lytes with diuresis, HCT post transfusion. monitor groin for change.  d/c integrillin at 1030.  contin. heparin for IABP coverage.  SS insulin .  
+",,
+5277,11847,6545,0,3082-09-30 18:12:00 EST,3082-09-30 18:32:00 EST,118,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+CV: denies CP, HR 90-110 SR/ST, cont on IABP 1:1, good augmentation,  systolic unloading [**3-14**], poor diastolic unloading. MAP 80-106, tolerating 6.25mg of captopril, weaned off dobutamine. CO/CI 6.5-8.3/2.6-3.6, SVR 800's. Diuresed today, 40mg lasix at 0530 and 1400, neg ~650 since MN, 1400 LOS. K+ 3.6 given 40mEq KCL po, to be repeated, awaiting repeat K+. Mg 2.1. Pt has had no ectopy. This afternoon c/o fingers tingling, ECG done, no changes, symtom resolved on its own. Has had general back discomfort and has been getting perc prn, freq position changes. On Hep gtt, increased to 800U/hr at 1600 for low PTT, recheck PTT at 2200. Pt has pressure dressing at R groin, no further bleeding noted. Pulses dopplerable. Post cath IVF at 60cc/hr until 7PM, (total 1500cc). Integrelin dc'd at 1030. HCT 28-33 after 1 u prbc. 
+
+Endo: BS up to 300's at noon, started reg ins gtt at 3U/hr, increased to 4U per proticol, BS dropped to 65, at 1730, gtt dc'd, given OJ, dinner, BS up to 85, then 131, 30 min later. 
+
+Resp: sats 93-97% on 3L NC, no resp distress.
+
+Neuro: A&Ox3, uncomfortable lying flat in bed. 
+
+GI: abd distention, no BM, feeling ""gassy"". Eating sm amts at meals. 
+
+GU: voiding without problen via condom cath. 
+
+Soc: wife in, sister here form NYC, updated. 
+
+A/P: Pt with severe 3 VD, stents to LAD, in cardiogenic shock in lab, now with improving CO, tolerated wean form dobut, plan to wean IABP tomorrow. Maintain comfort with position changes, percocet prn. Follow bs closely, may need to restart Reg Ins gtt, q 1hr while on ins gtt. 
+
+",,
+5277,11847,6545,,3082-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3082-10-1**] 7:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9835**]
+     Reason: Progression of CHF.                                         
+     Admitting Diagnosis: CARDIOGENIC SHOCK;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with chest pain, s/p IABP, swan.                               
+                     
+     REASON FOR THIS EXAMINATION:
+      Progression of CHF.                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Chest pain, status post IABP Swan, ?progression of CHF.
+     
+     CHEST, SINGLE AP VIEW.
+     
+     Lordotic positioning.  Borderline cardiomegaly.  A femoral approach Swan-Ganz
+     catheter is present, with tip over right pulmonary artery.  An IABP is
+     present, with tip along the lower edge of the aortic arch.  There are low
+     inspiratory volumes.  There is upper zone redistribution, with mild diffuse
+     vascular blurring, left lower lobe collapse and/or consolidation, and probable
+     small left effusion.  Allowing for low inspiratory volumes, I doubt interval
+     change in the parenchymal findings.  The degree of vascular blurring is likely
+     accentuated by low lung volumes and semiupright positioning.
+
+",,
+5277,11847,6545,0,3082-10-01 04:44:00 EST,3082-10-01 04:58:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S/O: SEE VS/OBJECTIVE DATA PER CARE VUE.B 63 YO WITH MI S/P LAD STENT X2 WITH CARDIOGENIC SHOCK REQUIRING IABP.   REMAINS PAIN FREE ON IABP AT 1:1. AFEBRILE. 
+CV: GOOD  AUGMENTATION WITH FAIR TO GOOD SYSTOLIC UNLOADING, LITTLE TO NO DIASTOLIC UNLOADING.  MAPS 80-100'S, INCREASED CAPTOPRIL TO 12.5MG WHICH HE TOL WELL, HR REMAINS ELEVATED 100 'S ST WITH NO VEA NOTED, K+ REPLEATED RECHECKED 4.0, AM LABS PND. HEPARIN WITH NO CHANGE, PTT PND. R GROIN WITH PRS DRSG [**Name5 (PTitle) **], [**Name5 (PTitle) **] FURTHER OOZE NOTED, FEET BILAT COOL, (AT TIMES L > R), DISTAL PULSES DOPPLERABLE. 
+RESP: LUNGS WITH DIMINISHED AERATION AT BASES, O2 SATS FAIR (94-97%) ON 3LNP. FILLING PRESSURES ELEVATED WITH PADS MID TO UPPER 20S AND CVP HIGH TEENS.
+GI/GU: ABD REMAINS DISTENDED WITH (+) BOWEL SOUNDS. NO BM. VOIDING VIA CONDOM CATH. - APPROX 500CC FOR [**9-30**]. 
+ENDO: INCREASING BLOOD SUGARS > RESTARTED IV INSULIN GTT WHICH IS CURRENTLY AT 1U/HR WITH BP 100-120'S. 
+MS: ALERT AND ORIENTED X 3, ASKED AND REC'D AMBIEN 5MG WITH GOOD EFFECT. STATING THAT PERCOCETS HAVE HELPED BACK AND CURRENTLY NOT HAVING BACK PAIN, REPOSITIONED FROM SIDE TO SIDE. 
+A: PAINFREE ON IABP
+   TOLERATED INCREASE DOSE OF CAPTOPRIL
+   ^ BLOOD SUGAR > RESTARTED INSULIN GTT WITH GOOD CONTROL
+P: BEGIN TO WEAN IABP
+   ? FURTHER DIURESIS
+   ? INCENTIVE SPIROMETER
+",,
+5277,11847,6545,1,3082-10-01 17:48:00 EST,3082-10-01 18:21:00 EST,118,"Y",1,"Nursing/Other","CCu NPN 7A-7P","
+CCu NPN 7A-7P
+Addendum: Pt would prefer not to start beta blocker, has tried several in the past, they cause him pains in his legs and neck over time and eventually cough and feels like he is choking. Resident and intern will see him to discuss his concerns and alternatives. 
+",,
+5277,11847,6545,0,3082-10-01 17:48:00 EST,3082-10-01 18:04:00 EST,118,"N",1,"Nursing/Other","CCu NPN 7A-7P","
+CCu NPN 7A-7P
+CV: Hemodynamically stable on IABP, tolerated wean to 1:3 with CO/CI 6.6/2.96, SVO2 61%, SVR 861, MAP 70-80's. IABP and swan dc'd at 1230. R groin without bleeding or hematoma, pulses are dopplerable. PAD down to 20 and CVP 10 after vigorous diuresis this AM. Today is neg 3300, LOS neg 4600. K+ 3.9 at 1200, repeat at 1600 was 5.7 mod. hemolyzed. Mag 2.1. Hep off 10AM for line pull.
+Tolerating Captopril 12.5, will add Coreg 3.125mg bid starting 1800(space from captopril). Has denied CP, SOB. Medicated at 5pm with 1 percocet for r upper thigh pain with good effect. 
+
+Endo: BS's 120-200 on reg ins gtt, currently at 4U/hr. 
+
+Resp: LS clear, bronchial at R base. Enc coughing and deep breathing. 
+
+GI: Abd distended, soft, (+) flatus. Cont to have some discomfort from gas, but better today. Appetite good. No BM. 
+
+GU: cont to void without trouble via condom cath. Has diuresed vigorously. 
+
+Psych/Soc: spirits better today, esp after lines dc'd, feels some progress is being made, more comfortable. Wife in to visit. 
+
+A/P: tolerated wean from IABP, diuresed well, PAD decreased to 20. CP free, no SOB, more comfortable. Cont to monitor overnight, if stable may go out to floor tomorrow. 
+
+
+",,

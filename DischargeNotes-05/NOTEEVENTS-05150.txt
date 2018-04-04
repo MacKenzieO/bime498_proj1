@@ -1,0 +1,2863 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5150,,,,2780-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-19**] 2:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8593**]
+     Reason: CHRNOIC PRODUCTIVE COUGH,MILD SOB & WHEEZING NO FEVER 2 WEEKS ? RUL MASS ON [**8-14**] FILMS([**Location (un) 8594**] TRAUMA CENTER) R/O MASS PT TOLD TO GET FILMS FOR COMPARISON
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with chronic prod cough, mild sob                               
+     REASON FOR THIS EXAMINATION:
+      ?mass RUL on outside CXR                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PA AND LATERAL.
+     
+     INDICATION:  Chronic productive cough, mild shortness of breath, wheezing, but
+     no fever.  Evaluate for possible mass seen on [**8-14**] films from [**Location (un) **]
+     Trauma Center.
+     
+     FINDINGS:  The heart size is within normal limits.  No typical configurational
+     abnormality is seen.  Thoracic aorta is moderately widened and elongated. 
+     There is a right-sided mediastinal density measuring approximately 4 cm in
+     width and overlying the right hilar vasculature.  Some radiating linear
+     densities extend into the periphery of the lung field and on the lateral view,
+     the mass density impinges into the posterior wall of the trachea and the right
+     main bronchus.  There is reduced volume of the right hemithorax in comparison
+     with the left side.  The left lung is clear from infiltrates and no congestive
+     pattern is seen.  On the left base, a well-demarcated less than 1-cm diameter
+     granuloma is identified.
+     
+     Available for comparison is a preceding portable AP view chest examination
+     with the patient in semi-upright position.  The patient was at that time
+     postoperative status to abdominal aortic aneurysm repair.  A pneumothorax was
+     ruled out following the placement of a right-sided internal jugular sheath
+     placement but widening of the superior mediastinum was commented upon in the
+     corresponding report.  Mediastinal widening was also noted on the portable
+     examination of [**2780-3-17**], at which time the patient was in CHF and
+     intubated.
+     
+     IMPRESSION:  Development of mediastinal mass overlying the right hilar area
+     and extending into pulmonary tissue.  Chest CT for more detail evaluation of
+     the mass is recommended.
+                                                                           
+
+",,
+5150,,,,2780-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-20**] 8:42 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8595**]
+     Reason: mass RUL                                                    
+     Field of view: 38
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with recent pna, now w/ persistent cough, sob                   
+     REASON FOR THIS EXAMINATION:
+      mass RUL                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent pneumonia, now with persistent cough and shortness of
+     breath.  Suggestion of right upper lobe mass on plain film.
+     
+     No prior CTs are available for comparison purposes.
+     
+     TECHNIQUE:  Multidetector CT of the chest was performed without the use of
+     intravenous contrast material.  Images are presented for display in the axial
+     plane in 5- and 1.25-mm thickness.
+     
+     CT OF THE CHEST WITHOUT CONTRAST:  A right hilar soft tissue mass measuring
+     8.2 x 9.3 x 7.5 cm is relatively homogeneous soft tissue density with several
+     small areas of slightly lower attenuation.  The mass severely compresses the
+     entire right main stem bronchus to a residual lumen of approximately 2 mm and
+     produces irregularity of the wall suggesting ivasion. The right upper and
+     lower lobe bronchi are encased by the tumor mass.  The hilar mass compresses
+     the SVC at the level of the aortic arch, invading the mediastinum and crossing
+     the midline in the proximity of the carina.  It is in contiguity with the
+     right main pulmonary artery up to approximately 1 cm from the bifurcation of
+     the main pulmonary artery.  The aggregate of enlarged subcarinal and upper
+     paraesophageal lymph nodes measures  6cm in short axis diameter (series 2,
+     image 34). In addition, there are several calcified paraesophageal lymph
+     nodes and a calcified granuloma inferior to the left pulmonary vein. There is
+     no pericardial effusion.  The vocal cords are symmetric.  The remainder of the
+     lungs are grossly clear.  No pleural effusions or consolidations are seen.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are seen.
+     
+     The sections through the upper abdomen are pertinent for gallbladder wall
+     calcification suggesting a porcelain gallbladder.  This may be further
+     investigated with a contrast-enhanced CT to exclude gallbladder carcinoma.
+     There are calcifications of the aorta and the celiac axis.  There are several
+     calcified granulomas in the spleen.
+     
+     IMPRESSION:
+     1.  8.2 x 9.3 x 7.5 cm right hilar soft tissue mass, narrowing and possibly
+     invading the right main stem bronchus, right pulmonary artery, and SVC,
+     invading the mediastinum and crossing the midline at the level of the carina.
+     2.  Lymphadenopathy in the subcarinal and paraesophageal lymph node stations.
+     3.  Mass is in contiguity with the right pulmonary artery, possible invasion
+     cannot be assessed on this non-contrast study.
+     4.  Porcelain gallbladder.  A contrast-enhanced CT study may be indicated for
+     further assessment to exclude gallbladder carcinoma.
+                                                                 (Over)
+
+     DATE: [**2780-8-20**] 8:42 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8595**]
+     Reason: mass RUL                                                    
+     Field of view: 38
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+5150,,,,2780-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-22**] 11:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8596**]
+     Reason: r/o acute process                                           
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with RMSB mass, new onset SOB                                   
+     REASON FOR THIS EXAMINATION:
+      r/o acute process                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right mainstem bronchus mass.  New onset shortness of breath.
+     
+     AP PORTABLE RADIOGRAPH:  Comparison is made to examination from 3 days ago.
+     
+     There has been interval development of alveolar opacity at the left lower
+     lobe, consistent with aspiration or pneumonia.  Again, noted is a large right
+     mediastinal mass, which has an unchanged morphology since the prior
+     examination.  The cardiac and mediastinal silhouettes appear otherwise
+     unchanged.  No evidence of pleural effusion or pneumothorax.
+     
+     IMPRESSION:
+     1.  Consolidation, left lower lobe, consistent with pneumonia versus
+     aspiration.
+     2.  Right mediastinal mass, unchanged since prior examination.
+                                                                           
+
+",,
+5150,,,,2780-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-23**] 1:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8597**]
+     Reason: re-expansion                                                
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with RMSB mass, new onset SOB  s/p y-stent                     
+                  
+     REASON FOR THIS EXAMINATION:
+      re-expansion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, [**2780-8-23**].
+     
+     HISTORY:  74-year-old man with right-sided mass.  Patient with new onset
+     shortness of breath.  Status post Y-stent.
+     
+     FINDINGS:  Comparison is made to previous study performed on [**2780-8-22**].
+     
+     There is again seen a large mass seen in the right suprahilar region. There
+     has been increase in consolidation within the right upper lobe, which likely
+     represents a component of postobstructive pneumonitis from the mass.  This is
+     increased since the previous study.  There is also developing opacity in the
+     right base.  The opacity seen at the left base previously has improved
+     slightly.  There is cardiomegaly.
+     
+     
+
+",,
+5150,,,,2780-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with newly diagnosed lung cancer. CT showed compression of 
+      RMSB  and SVC and possibly erosion into pulmonary artery.
+     REASON FOR THIS EXAMINATION:
+      eval invasion into pulmonary artery. Also eval for mets-will use this study for 
+      staging. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Newly diagnosed lung cancer.  Evaluate extent of involvement.
+     Evaluate for metastases.
+     
+     TECHNIQUE:  CT of the chest, abdomen and pelvis was performed, with images
+     obtained both before and after administration of IV contrast.  Coronally and
+     sagittally reformatted images were also obtained as well as MINIP post-
+     processing imagings.  A total of 120 cc of Optiray nonionic contrast was given
+     for this examination.
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no axillary lymphadenopathy. Multiple
+     mediastinal lymph nodes are present, measuring up to approximately 1.5 cm in
+     the subcarinal space.  Small subcentimeter lymph nodes at the left hilum are
+     present.
+     
+     There is a dominant right hilar mass, which measures up to 8.8 cm AP x 9.8 cm
+     TV x 8.5 cm SI in size.  The mass involves predominantly the right upper lobe,
+     abutting and distorting the major fissure. This mass encases the distal
+     trachea and carina, causing obstruction of the right upper lobe bronchus, and
+     causing marked narrowing of the right middle lobe bronchus. The mass abuts the
+     distal esophagus with obliteration of the separating fat plane. It encases the
+     SVC, encases and severely narrows the right upper lobe pulmonary artery trunk,
+     and encases the right middle lobe pulmonary vein.  The mass also abuts the
+     right lower lobe main pulmonary artery trunk with obliteration of the fat
+     plane.
+     
+     Enlarged right hilar lymph nodes are seen, measuring up to 1.3 cm in size.
+     
+     Examination of lung windows shows several small satellite lesions in the right
+     upper lobe adjacent to the dominant mass.  In addition, there is airspace
+     opacity seen in the dependent portion of the left lower lobe superior segment,
+     which may represent sequelae from aspiration, although metastatic spread
+     cannot be excluded.  A tracheal stent is present.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  Two hypodense and
+     hypoenhancing lesions are seen in segment V/VI of the liver (series 6, images
+                                                                 (Over)
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     14 and 15), which measure 12 and 6 mm in size, respectively.  There is a
+     porcelain gallbladder.  The spleen, pancreas, right adrenal gland, and kidneys
+     appear unremarkable aside from multiple tiny hypodense foci within the
+     kidneys, possibly small renal cysts.  The left adrenal gland appears full, and
+     moreso when compared to the examination of [**2780-2-19**].  Small retroperitoneal
+     lymph nodes are also present, not meeting size criteria for pathologic
+     enlargement.  The patient is status post aortic aneurysm repair; the excluded
+     aorta has decreased in size. Retrocrural lymph nodes measure up to 8 mm in
+     short axis. There is no mesenteric adenopathy or free fluid.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Diffuse diverticulosis is present.  The
+     bladder is quite distended.  The prostate is enlarged.  There is no pelvic
+     adenopathy or free fluid.  Vascular calcifications of the iliac and femoral
+     vessels are present.
+     
+     Examination of osseous structures does not show lytic or sclerotic lesions
+     suspicious for malignancy.  Degenerative changes are seen at both sacroiliac
+     joints and at the lumbar spine.  In addition, marked degenerative changes are
+     seen at the left shoulder.
+     
+     IMPRESSION:
+     1.  Large right hilar mass, predominantly within the right upper lobe and
+     abutting the major fissure.
+     2.  Patchy airspace opacity seen predominantly in the left lower lobe superior
+     segment.  While this may represent aspiration, metastasis cannot be excluded.
+     3.  Two hypoenhancing lesions within the liver, both suspicious for metastatic
+     disease.
+     4.  Left adrenal nodule has increased slightly in size since the examination
+     of [**2780-2-19**], concering for malignancy.
+     5.  Porcelain gallbladder.
+     6.  Status post aortic aneurysm repair.
+
+",,
+5150,,,,2780-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-24**] 1:11 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 8599**]
+     Reason: eval for mets, need for staging before chemo tomorrow [**8-25**]  
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with newly diagnosed lung CA                                    
+     REASON FOR THIS EXAMINATION:
+      eval for mets, need for staging before chemo tomorrow [**8-25**]                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Newly diagnosed lung cancer, staging for metastases.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted images of the brain were obtained
+     along with diffusion-weighted sequences.  After the administration of
+     IV gadolinium, axial, coronal, and sagittal T1-weighted images were performed.
+     
+     MRI BRAIN WITH & WITHOUT IV CONTRAST:  Patient motion degrades evaluation of
+     all pulse sequences.  Multiple tiny foci of T2 signal hyperintensity
+     demonstrated within the periventricular and subcortical white matter of both
+     cerebral hemispheres, likely related to chronic microvascular infarction.  The
+     signal intensity of the remainder of the brain parenchyma is within normal
+     limits. No areas of abnormal enhancement are demonstrated.  There are no mass
+     lesions, shift of midline structures, or hydrocephalus.  The ventricles,
+     sulci, and basal cisterns are unremarkable.  Normal flow signal is
+     demonstrated within the major intracranial cerebral vessels.  No areas of
+     diffusion abnormality are present to suggest an acute infarction.  Paranasal
+     sinuses and mastoid air cells are clear.
+     
+     IMPRESSION: 1)  No mass lesions or areas of abnormal enhancement identified.
+     
+     2)  Foci of T2 signal hyperintensity within the white matter of both cerebral
+     hemispheres, likely related to chronic microvascular infarction.
+     
+     
+     
+
+",,
+5150,,,,2780-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with newly diagnosed lung cancer. CT showed compression of 
+      RMSB  and SVC and possibly erosion into pulmonary artery.
+     REASON FOR THIS EXAMINATION:
+      eval invasion into pulmonary artery. Also eval for mets-will use this study for 
+      staging. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Newly diagnosed lung cancer.  Evaluate extent of involvement.
+     Evaluate for metastases.
+     
+     TECHNIQUE:  CT of the chest, abdomen and pelvis was performed, with images
+     obtained both before and after administration of IV contrast.  Coronally and
+     sagittally reformatted images were also obtained as well as MINIP post-
+     processing imagings.  A total of 120 cc of Optiray nonionic contrast was given
+     for this examination.
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no axillary lymphadenopathy. Multiple
+     mediastinal lymph nodes are present, measuring up to approximately 1.5 cm in
+     the subcarinal space.  Small subcentimeter lymph nodes at the left hilum are
+     present.
+     
+     There is a dominant right hilar mass, which measures up to 8.8 cm AP x 9.8 cm
+     TV x 8.5 cm SI in size.  The mass involves predominantly the right upper lobe,
+     abutting and distorting the major fissure. This mass encases the distal
+     trachea and carina, causing obstruction of the right upper lobe bronchus, and
+     causing marked narrowing of the right middle lobe bronchus. The mass abuts the
+     distal esophagus with obliteration of the separating fat plane. It encases the
+     SVC, encases and severely narrows the right upper lobe pulmonary artery trunk,
+     and encases the right middle lobe pulmonary vein.  The mass also abuts the
+     right lower lobe main pulmonary artery trunk with obliteration of the fat
+     plane.
+     
+     Enlarged right hilar lymph nodes are seen, measuring up to 1.3 cm in size.
+     
+     Examination of lung windows shows several small satellite lesions in the right
+     upper lobe adjacent to the dominant mass.  In addition, there is airspace
+     opacity seen in the dependent portion of the left lower lobe superior segment,
+     which may represent sequelae from aspiration, although metastatic spread
+     cannot be excluded.  A tracheal stent is present.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  Two hypodense and
+     hypoenhancing lesions are seen in segment V/VI of the liver (series 6, images
+                                                                 (Over)
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     14 and 15), which measure 12 and 6 mm in size, respectively.  There is a
+     porcelain gallbladder.  The spleen, pancreas, right adrenal gland, and kidneys
+     appear unremarkable aside from multiple tiny hypodense foci within the
+     kidneys, possibly small renal cysts.  The left adrenal gland appears full, and
+     moreso when compared to the examination of [**2780-2-19**].  Small retroperitoneal
+     lymph nodes are also present, not meeting size criteria for pathologic
+     enlargement.  The patient is status post aortic aneurysm repair; the excluded
+     aorta has decreased in size. Retrocrural lymph nodes measure up to 8 mm in
+     short axis. There is no mesenteric adenopathy or free fluid.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Diffuse diverticulosis is present.  The
+     bladder is quite distended.  The prostate is enlarged.  There is no pelvic
+     adenopathy or free fluid.  Vascular calcifications of the iliac and femoral
+     vessels are present.
+     
+     Examination of osseous structures does not show lytic or sclerotic lesions
+     suspicious for malignancy.  Degenerative changes are seen at both sacroiliac
+     joints and at the lumbar spine.  In addition, marked degenerative changes are
+     seen at the left shoulder.
+     
+     IMPRESSION:
+     1.  Large right hilar mass, predominantly within the right upper lobe and
+     abutting the major fissure.
+     2.  Patchy airspace opacity seen predominantly in the left lower lobe superior
+     segment.  While this may represent aspiration, metastasis cannot be excluded.
+     3.  Two hypoenhancing lesions within the liver, both suspicious for metastatic
+     disease.
+     4.  Left adrenal nodule has increased slightly in size since the examination
+     of [**2780-2-19**], concering for malignancy.
+     5.  Porcelain gallbladder.
+     6.  Status post aortic aneurysm repair.
+
+",,
+5150,,,,2780-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with newly diagnosed lung cancer. CT showed compression of 
+      RMSB  and SVC and possibly erosion into pulmonary artery.
+     REASON FOR THIS EXAMINATION:
+      eval invasion into pulmonary artery. Also eval for mets-will use this study for 
+      staging. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Newly diagnosed lung cancer.  Evaluate extent of involvement.
+     Evaluate for metastases.
+     
+     TECHNIQUE:  CT of the chest, abdomen and pelvis was performed, with images
+     obtained both before and after administration of IV contrast.  Coronally and
+     sagittally reformatted images were also obtained as well as MINIP post-
+     processing imagings.  A total of 120 cc of Optiray nonionic contrast was given
+     for this examination.
+     
+     FINDINGS:
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no axillary lymphadenopathy. Multiple
+     mediastinal lymph nodes are present, measuring up to approximately 1.5 cm in
+     the subcarinal space.  Small subcentimeter lymph nodes at the left hilum are
+     present.
+     
+     There is a dominant right hilar mass, which measures up to 8.8 cm AP x 9.8 cm
+     TV x 8.5 cm SI in size.  The mass involves predominantly the right upper lobe,
+     abutting and distorting the major fissure. This mass encases the distal
+     trachea and carina, causing obstruction of the right upper lobe bronchus, and
+     causing marked narrowing of the right middle lobe bronchus. The mass abuts the
+     distal esophagus with obliteration of the separating fat plane. It encases the
+     SVC, encases and severely narrows the right upper lobe pulmonary artery trunk,
+     and encases the right middle lobe pulmonary vein.  The mass also abuts the
+     right lower lobe main pulmonary artery trunk with obliteration of the fat
+     plane.
+     
+     Enlarged right hilar lymph nodes are seen, measuring up to 1.3 cm in size.
+     
+     Examination of lung windows shows several small satellite lesions in the right
+     upper lobe adjacent to the dominant mass.  In addition, there is airspace
+     opacity seen in the dependent portion of the left lower lobe superior segment,
+     which may represent sequelae from aspiration, although metastatic spread
+     cannot be excluded.  A tracheal stent is present.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  Two hypodense and
+     hypoenhancing lesions are seen in segment V/VI of the liver (series 6, images
+                                                                 (Over)
+
+     DATE: [**2780-8-24**] 12:05 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8598**]
+     CT PELVIS W/CONTRAST
+     Reason: eval invasion into pulmonary artery. Also eval for mets-will
+     Admitting Diagnosis: MEDIASTINAL MASS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     14 and 15), which measure 12 and 6 mm in size, respectively.  There is a
+     porcelain gallbladder.  The spleen, pancreas, right adrenal gland, and kidneys
+     appear unremarkable aside from multiple tiny hypodense foci within the
+     kidneys, possibly small renal cysts.  The left adrenal gland appears full, and
+     moreso when compared to the examination of [**2780-2-19**].  Small retroperitoneal
+     lymph nodes are also present, not meeting size criteria for pathologic
+     enlargement.  The patient is status post aortic aneurysm repair; the excluded
+     aorta has decreased in size. Retrocrural lymph nodes measure up to 8 mm in
+     short axis. There is no mesenteric adenopathy or free fluid.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Diffuse diverticulosis is present.  The
+     bladder is quite distended.  The prostate is enlarged.  There is no pelvic
+     adenopathy or free fluid.  Vascular calcifications of the iliac and femoral
+     vessels are present.
+     
+     Examination of osseous structures does not show lytic or sclerotic lesions
+     suspicious for malignancy.  Degenerative changes are seen at both sacroiliac
+     joints and at the lumbar spine.  In addition, marked degenerative changes are
+     seen at the left shoulder.
+     
+     IMPRESSION:
+     1.  Large right hilar mass, predominantly within the right upper lobe and
+     abutting the major fissure.
+     2.  Patchy airspace opacity seen predominantly in the left lower lobe superior
+     segment.  While this may represent aspiration, metastasis cannot be excluded.
+     3.  Two hypoenhancing lesions within the liver, both suspicious for metastatic
+     disease.
+     4.  Left adrenal nodule has increased slightly in size since the examination
+     of [**2780-2-19**], concering for malignancy.
+     5.  Porcelain gallbladder.
+     6.  Status post aortic aneurysm repair.
+
+",,
+5150,,,,2780-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 8600**]
+     Reason: LUNG CA R/O METS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        25.9 mCi Tc-99m MDP;
+     HISTORY: 74 yo man with newly diagnosed lung cancer.  
+       
+     INTERPRETATION:  Whole body images of the skeleton were obtained in anterior and
+     posterior  projections.  Post-void images of the pelvis were obtained. 
+      
+     There is no scintigraphic evidence of metastatic disease.  Increased tracer 
+     uptake within both shoulders and both knees likely represents degenerative
+     disease. 
+      
+     The above described findings are consistent with no evidence of metastases. 
+      
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.  There is a large post-void residual.  
+       
+     IMPRESSION:  No scintigraphic evidence of metastatic disease.  
+                                                                           
+
+             [**First Name4 (NamePattern1) 6270**] [**Last Name (NamePattern1) 646**], M.D.
+             [**Initials (NamePattern4) 64**] [**Last Name (NamePattern4) 65**] [**Last Name (NamePattern1) 66**], M.D.     Approved: MON [**2780-8-25**] 4:23 PM
+
+
+             Date Mailed: [**2780-8-26**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5150,,,,2780-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-8-25**] 9:16 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8601**]
+     Reason: eval for consoldation in comparison to last CXR             
+     Admitting Diagnosis: MEDIASTINAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 year old man with lung cancer and [**Hospital Unit Name **].                                     
+     REASON FOR THIS EXAMINATION:
+      eval for consoldation in comparison to last CXR                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Lung cancer, evaluate for change.  
+     
+     CHEST: There is further opacification in the right lower lobe suggesting
+     partial collapse in this region.  The right hilar mass remains unchanged.  The
+     left lung appears clear.
+     
+     IMPRESSION:  Collapse in the right lower lobe.
+
+",,
+5150,20431,,,2780-09-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2780-9-8**]              Discharge Date:   [**2780-9-17**]
+ 
+Date of Birth:  [**2706-6-13**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lipitor
+ 
+Attending:[**First Name3 (LF) 4739**] 
+Chief Complaint:
+ICU callout, orginally admitted with fevers, chills, neutropenia 
+s/p chemo in afib with RVR. 
+ 
+Major Surgical or Invasive Procedure:
+PICC placement
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 3913**] is a 74 year-old male with PAF off anticoagulation, 
+and recently diagnosed extensive stage small cell lung cancer 
+status post Y stent tracheal placement for obstruction, status 
+post Carboplatin/Etoposide chemotherapy on [**2780-8-26**], who 
+presented from the ED with febrile neutropenia and AF with RVR. 
+He was recently admitted to [**Hospital1 83**] [**2780-8-21**] -> [**2780-8-29**] to 
+expedite work-up of his newly diagnosed lung mass, as above 
+confirmed as extensive stage SCLC. During this admission, he 
+underwent placement of a Y tracheal stent, and received 
+chemotherapy. He was also treated with Unasyn for presumed 
+post-obstructive pneumonia. His Coumadin was discontinued after 
+finding encroachment of his mass on his pulmonary artery. He was 
+in NSR at the time of discharge.  
+*  
+He now presented with a 1-week history of progressive cough, and 
+increased sputum production, which he describes as whitish. In 
+the ICU, the patient also complained of moderately severe 
+""throat pain"", which he has had for about a month, worsening, 
+with associated hoarseness as well as odynophagia with both 
+solids and liquids. No clear dysphagia. No hemoptysis. He 
+reports some RS pain with coughing, no other chest pain. No 
+increase in SOB. No lower extremity swelling. He denies 
+abdominal pain, no rectal pain, no GU complaints. + Chills at 
+home. Tmax at home 100.5, which prompted his daughter to bring 
+him to the ED.  
+*  
+In the ICU, antibiotics were continued (vanc, cefepime), and ENT 
+evaluation was requested for hoarseness, odynophagia. The 
+patient's afib was controlled with IV diltiazem pushes and 
+metoprolol PO. The patient remained hemodynamically stable.  
+
+ 
+Past Medical History:
+PAF
+HTN
+Hyperlipidemia
+CRI
+PVD
+AAA S/P repair 4 mon ago
+? Etoh abuse
+ 
+Social History:
+Lives alone. Family lives in [**State 5913**]. Has five kids and many 
+grandchildren. Divorced. Quit smoking 4  mon ago. Smoked 1 pack 
+per week for 50 years. Denies history of ETOH abuse, however, 
+OMR notes report this. Has 1-2 drinks per month. No drug use. 
+
+ 
+Family History:
+Son died of brain tumor at age 16. Did not know parents, was 
+raised by step parents. 
+ 
+Physical Exam:
+VS: 97.1, HR 83-120 (afib); BP 116/82, 99%2L  
+GEN: WDWN male in NAD sitting on the side of the bed.  
+HEENT: PERRL. EOMI. OP clear. MMM.  
+NECK: supple, no LAD.  
+LUNGS: Decreased BS on R over mid-lung field, also dull to 
+percussion. Mild wheezes, no rhales or rhonchi heard.  
+CV: RRR. Normal S1S2 NO M/R/G  
+ABD: soft, NT/ND, no HSM.  
+EXT: No C/C/E.  
+BACK: No spinal tenderness, no CVAT.  
+NEURO: Strength 5/5 b/l. Sensation grossly intact b/l UE and LE. 
+ 
+
+ 
+Pertinent Results:
+[**2780-9-8**] 07:40AM   PT-13.3* PTT-29.1 INR(PT)-1.2*
+[**2780-9-8**] 07:40AM   PLT SMR-LOW PLT COUNT-92*#
+[**2780-9-8**] 07:40AM   WBC-0.7*# RBC-4.24* HGB-11.7* HCT-33.8* 
+MCV-80* MCH-27.6 MCHC-34.6 RDW-16.9*
+[**2780-9-8**] 07:40AM   NEUTS-5* BANDS-0 LYMPHS-60* MONOS-35* EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-0
+[**2780-9-8**] 07:40AM   cTropnT-<0.01
+[**2780-9-8**] 07:40AM   GLUCOSE-127* UREA N-28* CREAT-1.7* SODIUM-135 
+POTASSIUM-4.6 CHLORIDE-99 TOTAL CO2-27 ANION GAP-14
+[**2780-9-8**] 08:02AM   LACTATE-1.7
+..................
+
+[**2780-9-17**] 12:00AM BLOOD WBC-8.4 RBC-3.62* Hgb-10.0* Hct-29.4* 
+MCV-81* MCH-27.7 MCHC-34.1 RDW-18.8* Plt Ct-284
+
+[**2780-9-17**] 12:00AM BLOOD Glucose-108* UreaN-12 Creat-1.2 Na-138 
+K-4.0 Cl-104 HCO3-26 AnGap-12
+[**2780-9-17**] 12:00AM BLOOD Calcium-8.7 Phos-3.2 Mg-2.0
+[**2780-9-12**] 12:12AM BLOOD calTIBC-179* Hapto-315* Ferritn-479* 
+TRF-138*
+[**2780-9-11**] 07:45AM BLOOD CRP-135.5*
+....................
+Cultures:  
+Sputum: 9/12,13,14,16,17- all neg for AFB, 16,17 with <10 
+epithelial cells.  
+.  
+Blood cultures:  
+[**9-8**]: 1/4 bottles Strep bovis pan sensitive, [**9-9**] and [**9-11**] 
+negative to date  
+.  
+Imaging:  
+Swallowing study: IMPRESSION: 1) No penetration or aspiration.  
+CXR: IMPRESSION: Decreased size of the right hilar mass since 
+the prior study. Improved aeration of the right lung. No 
+infiltrate.  
+.  
+CT Chest: IMPRESSION:  
+1. No pulmonary embolism.  
+2. Decrease in size of large dominant right hilar mass.  
+3. Tracheobronchial stent in unchanged position. Although the 
+right hilar mass narrows the right upper and middle lobe bronchi 
+they remain patent.  
+4. New tree-in-[**Male First Name (un) 64**] opacity of the peripheral right upper and 
+middle lobes is nonspecific but may be infectious, inflammatory, 
+or possibly represent lymphangitic spread of tumor.  
+5. New small areas of posterobasilar consolidation at both lung 
+bases may be due to atelectasis but could represent infection.  
+.  
+ECHO [**2780-9-10**]: The left atrium is moderately dilated. Left 
+ventricular wall thickness, cavity size, and systolic function 
+are normal (LVEF>55%). Regional left ventricular wall motion is 
+normal. Tissue velocity imaging demonstrates an E/e' <8 
+suggesting a normal left ventricular filling pressure (<12mmHg). 
+Right ventricular chamber size and free wall motion are normal. 
+The ascending aorta is mildly dilated. The aortic valve leaflets 
+are moderately thickened. There  
+is no aortic valve stenosis. No aortic regurgitation is seen. 
+The mitral valve leaflets are structurally normal. There is no 
+mitral valve prolapse. Mild (1+) mitral regurgitation is seen. 
+The pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion.  
+Compared with the prior study (images reviewed) of [**2780-5-2**], the 
+focal thickening of the aortic leaflets is slightly more 
+pronounced, but no aortic regurgitation is identified.  
+If the clinical suspicion for endocarditis is moderate or high, 
+a TEE may be better able to define the aortic valve morphology 
+and to evaluate for possible vegetations.  
+.  
+Colonoscopy [**2780-9-16**]:Pt with multiple polyps that were removed 
+and sent for pathology. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 74 year-old male with extensive stage SCLC 
+with tracheal obstruction status post tracheal stent, status 
+post first cycle of chemotherapy [**2780-8-26**], with febrile 
+neutropenia, AF with RVR now improved.  
+*  
+1. Strep bovis baceremia with Hx of Febrile neutropenia: On 
+admission patient was found to have febrile neutropenia.  As 
+such, the patient was pancultured and found to have 1/4 bottles 
+positive for Strep bovis. Given previous history thickened 
+aortic valve and aortic valve vegetation, the patient was 
+diagnosed with presumed bacterial endocarditis.  As recommended 
+by infectious disease, he will be treated with IV penicillin for 
+4 weeks.  Additionally, patient received colonoscopy given 
+suspicious nature of strep bovis bacteremia for colonic lesions. 
+ Pathology is pending. PICC was placed for long term Abx. The 
+patient will likely need lifelong S Bovis suppression per ID (as 
+pt has aortic graft). Therefore, the patient will follow up with 
+ID ([**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]) after discharge.  Neutropenia did resolve as 
+patient had gotten neulasta.
+- Penicillin 3 mill U IV Q4 x 4 weeks (Finishes [**10-8**])  
+- VNA for IV Abx  
+- F/U per ID  
+*  
+2. Tree-in-[**Male First Name (un) 64**] opacity CT findings: CT chest showed findings 
+that could represent fungal or mycobacterial.  However, patient 
+had multiple induced sputum samples as well as fungal blood 
+tests that were all negative.  Therefore, the patient was take 
+off respiratory precautions. Therefore, the abnormal findings 
+likely represent progression of lung cancer.
+.  
+3. Odynophagia/cough:  Concomitant hoarseness could be secondary 
+to recurrent laryngeal nerve involvement of neoplasm versus 
+related to odynophagia. Improved with symptomatic treatment and 
+decreased coughing as odynophagia is likely due to persistent 
+coughing that is secondary to lung cancer.  Pt was given 
+symptomatic control with viscous lidocaine and narcotics with 
+nebs as needed for comfort  
+*  
+4. Paroxysmal Atrial Fibrillation: Initially patient had 
+elevated heart rate and was evaluated in ICU.  However, pt 
+converted to sinus rhythm spontaneously after metoprolol 
+administration.  He was kept on telemetry for duration of 
+hospitalization but did not have elevated heart rate in days 
+prior to discharge.  Pt was discharged with home medications 
+amniodarone and [**Last Name (LF) 5914**], [**First Name3 (LF) **] titrate as needed. Not on 
+anticoagulation at present given mass encroachment on pulmonary 
+vessels. 
+*  
+5. Oral Herpes: pt with small lesion on left lip. This is new 
+and pt has a history of previous lip sores.  
+- Acyclovir 400 mg PO Five times daily x 14 days  
+.  
+6. Extensive stage SCLC: Some radiographic response status post 
+1 cycle of chemotherapy. Pt received 1st day of second course of 
+chemotherapy while inpatient to be followed up for second and 
+third days as outpatient. (Carboplatin day 1, Etoposide day [**1-1**] 
+q 21 d Cycle 1 and cycle 2 day 1 given in hospital
+Carboplatin AUC 5 465 mg, Etoposide 80 mg/m2 = 160 mg.) 
+Additionally pt was to return for neulasta on Saturday. 
+*  
+7. Anemia : Anemic (although hematocrit low at baseline), 
+Suspect secondary to recent chemotherapy.  
+- Colonoscopy shows multiple polypoid lesions, likely cause of 
+bleeding. Await path report.  Pt received multiple transfusions 
+with goal hct of 30 while in pre-chemotherapy status.
+*  
+8. FEN: Pt refused low Na diet. Electrolytes WNL.  
+.  
+9. Prophylaxis: Heparin SC BID. No need for protonix. Bowel 
+regimen prn.    
+
+ 
+Medications on Admission:
+amidodarone 200 mg QD  
+ASA 81 mg QD  
+coumadin 5 mg QD  
+lisinopril 20 mg QD  
+Metoprolol 50 mg BID  
+
+ 
+Discharge Medications:
+1. Penicillin G Pot in Dextrose 3,000,000 unit/50 mL Piggyback 
+Sig: Fifty (50) mL Intravenous  Q4H (every 4 hours) for 21 days: 
+Finishes course on [**10-8**].
+Disp:*6300 mL* Refills:*0*
+2. PICC 
+PICC line care per protocol
+3. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*1*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+5. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Guaifenesin 600 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO BID (2 times a day).
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+7. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for Insomnia.
+Disp:*30 Tablet(s)* Refills:*1*
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+9. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for Constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+13. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: Five 
+(5) ML PO Q6H (every 6 hours) as needed for coughing.
+Disp:*1 1* Refills:*0*
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+15. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+16. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed for Pain.
+Disp:*180 Tablet(s)* Refills:*0*
+17. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO 5X/D (5 
+times a day) for 14 days.
+Disp:*70 Capsule(s)* Refills:*0*
+18. Fluticasone 50 mcg/Actuation Aerosol, Spray Sig: Two (2) 
+Spray Nasal BID (2 times a day).
+Disp:*1 1* Refills:*2*
+19. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 
+4 to 6 hours) as needed for nausea, anxiety.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Small cell lung cancer
+Streptococcus bovis Endocarditis
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] will need an outpatient colonoscopy.  Please call your PCP 
+to arrange.
+-please see page 1 for specific line care instructions
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **].([**Telephone/Fax (1) 5915**] and [**First Name8 (NamePattern2) 70**] 
+[**Last Name (NamePattern1) 5916**] ([**Telephone/Fax (1) 5915**], to arrange plans for further 
+chemotherapy 
+. 
+please return to clinic (7F outpatient clinic) for neulasta 
+injection on [**2780-9-20**] (saturday). 
+
+Please attend the following appointments:
+Provider: [**Name10 (NameIs) 5917**] [**Name11 (NameIs) 5918**], RN Phone:[**Telephone/Fax (1) 647**] 
+Date/Time:[**2780-9-18**] 11:30
+.
+Provider: [**Name Initial (NameIs) 5693**] 19  Date/Time:[**2780-9-18**] 11:30
+.
+Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2128**]/ONCOLOGY-CC9 
+Date/Time:[**2780-9-18**] 11:30
+Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2128**]/ONCOLOGY-CC9 
+Date/Time:[**2780-9-18**] 11:30
+Provider: [**Name Initial (NameIs) 5693**] 19  Date/Time:[**2780-9-18**] 11:30
+Provider: [**Name10 (NameIs) 5917**] [**Name11 (NameIs) 5918**], RN Phone:[**Telephone/Fax (1) 647**] 
+Date/Time:[**2780-9-18**] 11:30
+.
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], infections disease clinic, [**Hospital Ward Name **] Building; 
+[**2780-10-7**], 11am.
+
+ 
+                             [**First Name8 (NamePattern2) 144**] [**Name8 (MD) 798**] MD [**MD Number 799**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5700**] MD [**MD Number 5701**] [**2780-9-21**] @ 2238
+Signed electronically by: DR. [**First Name (STitle) 144**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 798**]
+ on: WED [**2780-9-24**] 10:22 AM
+(End of Report)
+
+
+",,
+5150,20431,,,2780-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-9-8**] 7:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8602**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with lung cancer now with fever, cough                       
+                   
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Lung cancer.  Fever and cough.
+     
+     COMPARISON:  [**2780-8-25**].
+     
+     Compared to the prior study, the size of the right hilar mass has decreased
+     from [**2780-8-25**].  There is still persistent atelectasis in the right
+     lower lobe, although there is much improved aeration of both lungs.  Minimal
+     residual atelectasis remains in the right upper lobe as well.
+     
+     IMPRESSION:  Decreased size of the right hilar mass since the prior study. 
+     Improved aeration of the right lung.  No infiltrate.
+                                                                           
+
+",,
+5150,20431,,,2780-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-9-8**] 10:07 AM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 8603**]
+     Reason: 74 yo M w/metastatic lung CA, s/p chemo & Y-stent placement 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with metastatic lung CA, s/p Y-stent in trachea, w/cough &
+      fever. Eval for stent placement, R/O PE.
+     REASON FOR THIS EXAMINATION:
+      74 yo M w/metastatic lung CA, s/p chemo & Y-stent placement in trachea, now p/w
+      cough & fever.  Please eval for stent placement, R/O PE. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb MON [**2780-9-8**] 2:32 PM
+      1. large right hilar mass is now smaller 7.7 x 6.8cm (9.8x8.7 [**2780-8-24**])
+      2. tracheobronchial stent unchanged
+      3. RUL/RML bronchi and pulmonary arteries are narrowed but patent
+      4. No PE
+      5. new tree in [**Male First Name (un) 1680**] opacity of peripheral RUL may be infectious/inflammatory or
+      represent lymphangitic spread of tumor.
+      6. improvement of posterior LLL patchy opacity
+      7. new small areas of bilateral posterobasal consolidation may just be
+      atelectasis but could be infectious.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     74-year-old male with metastatic lung cancer status post tracheobronchial
+     stent placement, now with fever and cough with concern for PE or stent
+     failure.
+     
+     COMPARISON:  [**2780-8-24**].
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the chest were obtained
+     without IV contrast followed by images after 90 mL of a rapid bolus of
+     intravenous Optiray contrast.  Coronal and sagittal reformatted images were
+     also obtained.
+     
+     CT OF THE CHEST WITHOUT AND WITH IV CONTRAST:  Again demonstrated is the
+     dominant right hilar mass which is now smaller measuring 7.7 x 6.8 cm on
+     greatest axial dimension and approximately 9 cm in craniocaudal extent,
+     previously 9.8 x 8.7 cm on axial measure [**2780-8-24**].  The mass encases
+     the distal trachea and carina, right upper and middle lobe bronchi and
+     pulmonary vessels and SVC.  While the right upper and middle lobe bronchi are
+     narrowed, they are now patent.  A tracheobronchial stent remains in unchanged
+     position.  Again demonstrated are small satellite lesions of the right upper
+     lobe, the larger measuring 17 x 14 mm, not significantly changed. There
+     remains extensive mediastinal and hilar lymphadenopathy which appears largely
+     stable and includes a subcarinal node which measures 16 mm in short axis.  The
+     mass abuts the esophagus and there is obliteration of the fat plane.  The
+     aorta and pulmonary arterial tree opacify without evidence of pulmonary
+     embolism.
+     
+     Lung windows demonstrate new peripheral tree-in-[**Male First Name (un) 1680**] opacity of the right upper
+     and middle lobes which is nonspecific but may be infectious or inflammatory or
+                                                                 (Over)
+
+     DATE: [**2780-9-8**] 10:07 AM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 8603**]
+     Reason: 74 yo M w/metastatic lung CA, s/p chemo & Y-stent placement 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     possibly represent lymphangitic spread of tumor.  There remains thickening of
+     the bronchovascular bundles of the right upper and middle lobes.  Patchy
+     opacity of the posterior left lower lobe has improved.  There are now new
+     small areas of consolidation of the posterobasilar portions of both lower
+     lobes which may represent atelectasis but could indicate infection.
+     
+     Limited evaluation of the upper abdomen again demonstrates a porcelain
+     gallbladder and fullness of the left adrenal gland which are stable.  Small
+     hypodense lesions of the liver are not well evaluated on today's study due to
+     differences in contrast timing.  Small retrocrural lymph nodes are unchanged
+     measuring up to 9 mm.
+     
+     BONE WINDOWS:  There are extensive degenerative changes throughout the spine
+     as well as of the shoulder joints but no suspicious lytic or sclerotic osseous
+     lesion is identified.
+     
+     IMPRESSION:
+     
+     1.  No pulmonary embolism.
+     
+     2.  Decrease in size of large dominant right hilar mass.
+     
+     3.  Tracheobronchial stent in unchanged position.  Although the right hilar
+     mass narrows the right upper and middle lobe bronchi they remain patent.
+     
+     4.  New tree-in-[**Male First Name (un) 1680**] opacity of the peripheral right upper and middle lobes is
+     nonspecific but may be infectious, inflammatory, or possibly represent
+     lymphangitic spread of tumor.
+     
+     5.  New small areas of posterobasilar consolidation at both lung bases may be
+     due to atelectasis but could represent infection.
+     
+     ER dashboard wet read placed at 2:00 p.m. on [**2780-9-8**].
+     
+
+",,
+5150,20431,6396,0,2780-09-09 03:11:00 EST,2780-09-09 03:49:00 EST,514,"N",69,"Nursing/Other",,"
+
+74 yo man recently dc with extensive sm cell lung ca, s/p y stent tracheal placement for obstruction, s/p carboplatin/etoposide chemo. He had come into ew with fever and in rapid AF. His coumadin had been d/c after xray showed a mass enchroaching his pulm artery. He was in NSR at discharge [**2780-8-29**]. He came into EW [**2780-9-8**] with a 1 wk hx of progressive cough, increase sputum production and severe throat pain with increasing hoarseness and odynophagia with both solids and liquids. His ekg showed RAF and was given lopressor 5mg iv x2, 25mg po x1 and diltazem 10mg iv x3. He was given a dose of vanco and cefepime after ct showed opacity RUL and RML as well as b/l posterobasiliar consolidation. PMH newly dz extensive stage sm cell ca [**8-3**] s/p y stent placement [**2780-8-23**], s/p chemo [**2780-8-26**], bone scan and mri head neg. There is a ? of liver met and probable adrenal mets, PAF as above not on coumadin, HTN, hyperlipidemia, AAA repair [**2780-3-17**], CRI cr 1.3-1.4 PVD, aortic valve mass [**3-3**] ? marantic followed by ID
+alergies, shellfish, lipitor no problems with IV contrast
+social divorced x wife deceased, his daughter is his HCP she lives in [**State **] but has been living with him since his illness. He was a construction worker. Smoked 60pack yr, ? etoh hx not drinking presently
+Neuro a/o x3 able to sit up independantly. Voice hoarse given lidocaine vicous 2% with some relief of symptoms, able to swallow liquids. 
+ID diaphoretic after tylenol temp max 101 now 96.9 po bld xc [**1-2**] GPC in pairs and chains, lactate on admit 1.7 , wbc .7/1.3  sputum sent for cx started on neupogen. He is on vanco q 24hr and cefepime
+Resp lungs coarse throughout o2 2lnp o2 sats 97%
+cvs HR 80's afib on lopressor and amiodarone bp stable pp weak palpable, hct 27.1
+gu voiding well
+gi taking po liq without difficulty abd snt bs+ no stool
+a. extensive sm cell lung ca s/p y stent trachea for obstruct, s/p chemo leukopenia now febrile + bc, RAF, CRI requiring dye for CT
+p. ent consult, to have neck CT today give bicarb as ordered, mucomyst, IV hydration, monitor u/o, cr, monitor rhythm on lopressor and amiodarone, antibx as ordered, monitor temp, wbc, neutropenic precautions neupogen as ordered
+
+",,
+5150,20431,,,2780-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-9-10**] 10:49 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 8604**]
+     Reason: Eval for aspiration                                         
+     Admitting Diagnosis: COUGH;FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with lung cancer and vocal cord paralysis with possible 
+      aspiration.
+     REASON FOR THIS EXAMINATION:
+      Eval for aspiration                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 74-year-old man with lung cancer and vocal cord paralysis with
+     possible aspiration.
+     
+     No prior studies are available for comparison.
+     
+     VIDEO OROPHARYNGEAL SWALLOWING STUDY:  A fluoroscopic video oropharyngeal
+     swallowing study was performed today in conjunction with speech pathology. 
+     Barium of varying consistencies as well as solids coated with barium were
+     administered.  No abnormalities were seen in the oral or pharyngeal phases. 
+     There is no residual, penetration, or aspiration.
+     
+     IMPRESSION:
+     
+     1)  No penetration or aspiration.
+                                                                           
+
+",,
+5150,20431,,,2780-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-9-11**] 9:58 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8605**]
+     Reason: R picc                                                      
+     Admitting Diagnosis: COUGH;FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with RMSB mass, new onset SOB  s/p y-stent                   
+                      
+     REASON FOR THIS EXAMINATION:
+      R picc                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2780-9-11**], AT 08:58 HOURS
+     
+     HISTORY:  Right main stem bronchus mass with new onset of shortness of breath.
+     
+     COMPARISON:  [**2780-9-8**].
+     
+     FINDINGS:  There has been interval placement of a right upper extremity
+     approach PICC line with the tip approximately 1 cm proximal to the junction of
+     the right atrium and superior vena cava.  The ovoid right suprahilar mass
+     remains stable. Otherwise, the lungs remain clear. There is thoracic aorta
+     again appreciated. The cardiac silhouette is within normal limits for size.
+     There is a curvilinear radiopaque structure overlying the cardiac silhouette
+     likely extrinsic to the patient.  A nodular opacity is again noted on the
+     lateral aspect of the left hemidiaphragm.  This is stable dating back to at
+     least [**2780-3-17**].  There is no pleural effusion or pneumothorax.  Left
+     apical pleural thickening is again appreciated and stable. Please note,
+     portions of the apices are obscured by the patient's chin.
+     
+     IMPRESSION:  Status post PICC line placement as above.  No complication
+     evident.  Otherwise, no acute pulmonary process.  The ovoid right suprahilar
+     mass remains stable relative to the [**2780-9-8**] exam.
+
+             DR. [**First Name11 (Name Pattern1) 72**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+5150,,,,2780-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-9-30**] 7:26 AM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 8606**]
+     Reason: EVALUATE Y STENT REMOVAL
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with metastatic lung CA, s/p Y-stent in trachea, w/cough &
+      fever. Eval for stent placement.
+     REASON FOR THIS EXAMINATION:
+      Lung Ca s/p chemo
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST/CT TRACHEA [**2780-9-30**]
+     
+     INDICATION:  Metastatic lung cancer.  Status post Y-stent in the trachea. 
+     Cough and fever.  Please evaluate stent placement.
+     
+     Multidetector CT of the chest was performed following intravenous
+     administration of 65 cc of Optiray.  Images are presented for display in the
+     axial plane at 5 mm and 1.25 mm collimation.  A series of coronal reformation
+     images are also presented for review.  Additional 3-D reconstructions and
+     multiplanar reformations of the stent will be performed and an addendum will
+     be issued when they become available.
+     
+     COMPARISON:  CT torso [**2780-8-24**] and CTA of [**2780-9-8**].
+     
+     There has been further decrease in size of the heterogeneous soft tissue mass
+     in the mediastinum surrounding the trachea.  When measurements are obtained at
+     a similar level to previous scans at the level of the carina, the mass is
+     decreased in size from 7.7 x 6.8 cm to 5 cm x 5.3 cm.  A Y-stent remains in
+     place within the trachea and main bronchi.  Thickening of the airway wall has
+     decreased in the interval in both the trachea and main bronchi as well as
+     along the posterior wall of the right upper lobe bronchus.  There is now a
+     size discrepancy between the stent and the airway in the trachea and carinal
+     levels as well as slight size discrepancy in the proximal main bronchi. 
+     Mediastinal and hilar lymph nodes have also decreased in size in the interval,
+     particularly the subcarinal nodes.  The heart is normal in size.  There is no
+     pericardial effusion or pleural effusion.
+     
+     Incidental note is made of a small hiatal hernia.
+     
+     Within the imaged portion of the upper abdomen, there is calcification of the
+     gallbladder wall consistent with porcelain gallbladder.  Nodular enlargement
+     of the left adrenal gland is without interval change since the recent CT
+     torso.  Diffuse calcification with peripheral atheromatous change in the
+     abdominal aorta is noted.  Incidental note is made of calcified granulomas in
+     the spleen.  Only one of the previously reported low attenuation lesions is
+     still visible within the liver, measuring less than 1 cm on image 66 of series
+     2.  Lack of visualization of the second hepatic lesion could potentially be
+     due to differences in phase of contrast administration rather than a true
+     interval resolution.
+     
+                                                                 (Over)
+
+     DATE: [**2780-9-30**] 7:26 AM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 8606**]
+     Reason: EVALUATE Y STENT REMOVAL
+      Contrast: OPTIRAY Amt: 65
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Right upper lobe nodule is minimally decreased from recent CTA, now measuring
+     16 x 11 mm and previously measuring 17 x 14 mm (image 21, series 3).  Adjacent
+     thickening of the bronchovascular bundles extending to the right hilum has
+     also slightly improved.  Previously reported areas of tree-in-[**Male First Name (un) 1680**]
+     opacification have nearly completely resolved with only minimal areas of small
+     airways disease remaining in the dependent portions of the lower lobes.  There
+     is mild bronchial wall thickening in both lower lobes as well.  Two tiny less
+     than 5 mm diameter left lung nodules in the left upper lobe (image 14, series
+     3 and image 33, series 3) are without change from the prior CT.
+     
+     The airways distal to the stent are widely patent.
+     
+     Incidental note is made of calcified granulomas within the lingula.
+     
+     Degenerative changes are present in the spine.
+     
+     CORONAL REFORMATION IMAGES:  These images confirm the presence of a Y-stent
+     with size discrepancy between the stent and airway lumen most marked in the
+     trachea and carina levels.  The stent appears intact.
+     
+     IMPRESSION:
+     1.  Continued decrease in size of paratracheal mediastinal neoplastic mass.
+     
+     2.  Patency of Y-stent.  Decreased thickening of tracheal and bronchial walls
+     with current size discrepancy between stent and airway lumen.
+     
+     3.  Improving mediastinal and hilar lymphadenopathy as well as slight decrease
+     in right apical lung nodule.
+     
+     4.  Marked improvement in diffuse small airways infection with residual
+     minimal small airways disease in dependent portions of lower lobes.
+     
+     5.  Stable left adrenal nodule.
+     
+     6.  Only one of two small hepatic lesions from [**2780-8-24**] CT torso is
+     still visible, but lack of visualization of second lesion may be technical in
+     nature.
+
+",,
+5150,,,,2780-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-10-10**] 1:38 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 8607**]
+     Reason: RIGHT BRONCH REMOVAL AIRWAY OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST
+     
+     PA and lateral views of the chest are obtained on [**2780-10-10**] and compared with
+     the recent radiograph of [**2780-9-11**].  Tracheal stent is in place.  An ill-defined
+     nodule is seen in the right upper lobe consistent with the recent CT of the
+     chest.  A rounded nodule is also seen in the left lower lobe, near the left
+     costophrenic angle.  There is no evidence of new infiltrate or pleural
+     effusion since the prior examination.  Right paratracheal density is
+     unchanged.
+     
+     IMPRESSION:
+     
+     No new finding since the prior radiograph of [**2780-9-11**].
+
+",,
+5150,,,,2780-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      Please assess for response to treatment. Please look for hepatic lesions, which 
+      were seen on CT torso on [**8-24**] but not on subsequent CT chest studies.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small cell lung cancer, followup.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images through the liver followed by uneventful
+     administration of IV Optiray contrast and images obtained through the torso.
+     This was followed by three-minute delay images through the kidneys.
+     Multiplanar reformats were obtained.  The study was compared with CT torso of
+     [**2780-8-24**] and CT chest, [**2780-9-30**].  
+     
+     CT CHEST WITH IV CONTRAST:  The right upper lobe nodule measures 10 x 15 mm,
+     previously 11 x 16 mm.  The previously identified large right hilar and
+     paratracheal mass is much diminished on today's study, measuring 39 mm AP by
+     43 mm transverse, though it is still seen surrounding the azygos vein and the
+     right main stem bronchus, and exerts minimal mass effect.  Right hilar lymph
+     node measuring 17 mm is again identified.  The tracheal stent has been
+     removed.  A granuloma in the medial left lingula is unchanged.
+     
+     There are minor atelectatic changes in both lungs.  No pleural or pericardial
+     effusion is seen.  The cardiac vasculature is notable for multiple coronary
+     vascular calcifications.  The aorta also contains a few mural calcifications,
+     but is normal in caliber without evidence of dissection.  The right pulmonary
+     artery appears prominent, but this is an unchanged finding.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  The previously identified liver
+     lesions seen on the CT torso of [**2780-8-24**] are not well identified on today's
+     study, and may represent differences in phase-contrast. Again seen is the
+     heavily calcified wall of the gallbladder. Left adrenal adenoma is unchanged,
+     measuring 17 mm.  Right adrenal is normal. Pancreas, stomach, small bowel
+     loops, and right kidney are within normal limits.  Again seen is a small
+     subcentimeter low-density lesion in the mid pole of the left kidney,
+     unchanged.  Atherosclerotic changes with mural plaque are again seen in the
+     infrarenal abdominal aorta, unchanged.  Retroperitoneal and mesenteric small
+     lymph nodes seen, but none of them are pathologically enlarged.  No free fluid
+     or free air is seen.
+     
+     CT PELVIS WITH IV CONTRAST:  Diverticulosis of the sigmoid colon is seen
+     without diverticulitis.  Otherwise, bowel loops are normal.  The bladder is
+     partially collapsed.  The prostate is enlarged, with central calcifications.
+     No lymphadenopathy is seen.  There is no free fluid or free air.
+     Calcifications in both common iliac, external iliac, and internal iliac
+                                                                 (Over)
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteries are again seen, but without evidence of dissection or aneurysmal
+     dilatation.  Small lymph nodes are seen in the external iliac chain, none of
+     which are pathologically enlarged.  No free air or free fluid is identified.
+     
+     Bone windows show no suspicious sclerotic or lytic lesions.  There are
+     degenerative changes of the left glenohumeral joint.
+     
+     Multiplanar reformats were essential in delineating the findings above.
+     
+     IMPRESSION:
+     
+     1.  Marked decrease in size of right paratracheal-mediastinal neoplastic mass.
+     Similar appearance of right upper lobe nodule.
+     
+     2.  Similar appearance of left adrenal nodule.
+     
+     3.  Hepatic lesions seen on previous CT scans are not seen on today's study.
+     No new lesions are identified.
+     
+     4.  Atherosclerotic abdominal aorta.
+     
+     5.  Sigmoid diverticulosis without diverticulitis.
+     
+     6.  Porcelain gallbladder.
+     
+     
+
+",,
+5150,,,,2780-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      Please assess for response to treatment. Please look for hepatic lesions, which 
+      were seen on CT torso on [**8-24**] but not on subsequent CT chest studies.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small cell lung cancer, followup.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images through the liver followed by uneventful
+     administration of IV Optiray contrast and images obtained through the torso.
+     This was followed by three-minute delay images through the kidneys.
+     Multiplanar reformats were obtained.  The study was compared with CT torso of
+     [**2780-8-24**] and CT chest, [**2780-9-30**].  
+     
+     CT CHEST WITH IV CONTRAST:  The right upper lobe nodule measures 10 x 15 mm,
+     previously 11 x 16 mm.  The previously identified large right hilar and
+     paratracheal mass is much diminished on today's study, measuring 39 mm AP by
+     43 mm transverse, though it is still seen surrounding the azygos vein and the
+     right main stem bronchus, and exerts minimal mass effect.  Right hilar lymph
+     node measuring 17 mm is again identified.  The tracheal stent has been
+     removed.  A granuloma in the medial left lingula is unchanged.
+     
+     There are minor atelectatic changes in both lungs.  No pleural or pericardial
+     effusion is seen.  The cardiac vasculature is notable for multiple coronary
+     vascular calcifications.  The aorta also contains a few mural calcifications,
+     but is normal in caliber without evidence of dissection.  The right pulmonary
+     artery appears prominent, but this is an unchanged finding.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  The previously identified liver
+     lesions seen on the CT torso of [**2780-8-24**] are not well identified on today's
+     study, and may represent differences in phase-contrast. Again seen is the
+     heavily calcified wall of the gallbladder. Left adrenal adenoma is unchanged,
+     measuring 17 mm.  Right adrenal is normal. Pancreas, stomach, small bowel
+     loops, and right kidney are within normal limits.  Again seen is a small
+     subcentimeter low-density lesion in the mid pole of the left kidney,
+     unchanged.  Atherosclerotic changes with mural plaque are again seen in the
+     infrarenal abdominal aorta, unchanged.  Retroperitoneal and mesenteric small
+     lymph nodes seen, but none of them are pathologically enlarged.  No free fluid
+     or free air is seen.
+     
+     CT PELVIS WITH IV CONTRAST:  Diverticulosis of the sigmoid colon is seen
+     without diverticulitis.  Otherwise, bowel loops are normal.  The bladder is
+     partially collapsed.  The prostate is enlarged, with central calcifications.
+     No lymphadenopathy is seen.  There is no free fluid or free air.
+     Calcifications in both common iliac, external iliac, and internal iliac
+                                                                 (Over)
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteries are again seen, but without evidence of dissection or aneurysmal
+     dilatation.  Small lymph nodes are seen in the external iliac chain, none of
+     which are pathologically enlarged.  No free air or free fluid is identified.
+     
+     Bone windows show no suspicious sclerotic or lytic lesions.  There are
+     degenerative changes of the left glenohumeral joint.
+     
+     Multiplanar reformats were essential in delineating the findings above.
+     
+     IMPRESSION:
+     
+     1.  Marked decrease in size of right paratracheal-mediastinal neoplastic mass.
+     Similar appearance of right upper lobe nodule.
+     
+     2.  Similar appearance of left adrenal nodule.
+     
+     3.  Hepatic lesions seen on previous CT scans are not seen on today's study.
+     No new lesions are identified.
+     
+     4.  Atherosclerotic abdominal aorta.
+     
+     5.  Sigmoid diverticulosis without diverticulitis.
+     
+     6.  Porcelain gallbladder.
+     
+     
+
+",,
+5150,,,,2780-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      Please assess for response to treatment. Please look for hepatic lesions, which 
+      were seen on CT torso on [**8-24**] but not on subsequent CT chest studies.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small cell lung cancer, followup.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images through the liver followed by uneventful
+     administration of IV Optiray contrast and images obtained through the torso.
+     This was followed by three-minute delay images through the kidneys.
+     Multiplanar reformats were obtained.  The study was compared with CT torso of
+     [**2780-8-24**] and CT chest, [**2780-9-30**].  
+     
+     CT CHEST WITH IV CONTRAST:  The right upper lobe nodule measures 10 x 15 mm,
+     previously 11 x 16 mm.  The previously identified large right hilar and
+     paratracheal mass is much diminished on today's study, measuring 39 mm AP by
+     43 mm transverse, though it is still seen surrounding the azygos vein and the
+     right main stem bronchus, and exerts minimal mass effect.  Right hilar lymph
+     node measuring 17 mm is again identified.  The tracheal stent has been
+     removed.  A granuloma in the medial left lingula is unchanged.
+     
+     There are minor atelectatic changes in both lungs.  No pleural or pericardial
+     effusion is seen.  The cardiac vasculature is notable for multiple coronary
+     vascular calcifications.  The aorta also contains a few mural calcifications,
+     but is normal in caliber without evidence of dissection.  The right pulmonary
+     artery appears prominent, but this is an unchanged finding.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  The previously identified liver
+     lesions seen on the CT torso of [**2780-8-24**] are not well identified on today's
+     study, and may represent differences in phase-contrast. Again seen is the
+     heavily calcified wall of the gallbladder. Left adrenal adenoma is unchanged,
+     measuring 17 mm.  Right adrenal is normal. Pancreas, stomach, small bowel
+     loops, and right kidney are within normal limits.  Again seen is a small
+     subcentimeter low-density lesion in the mid pole of the left kidney,
+     unchanged.  Atherosclerotic changes with mural plaque are again seen in the
+     infrarenal abdominal aorta, unchanged.  Retroperitoneal and mesenteric small
+     lymph nodes seen, but none of them are pathologically enlarged.  No free fluid
+     or free air is seen.
+     
+     CT PELVIS WITH IV CONTRAST:  Diverticulosis of the sigmoid colon is seen
+     without diverticulitis.  Otherwise, bowel loops are normal.  The bladder is
+     partially collapsed.  The prostate is enlarged, with central calcifications.
+     No lymphadenopathy is seen.  There is no free fluid or free air.
+     Calcifications in both common iliac, external iliac, and internal iliac
+                                                                 (Over)
+
+     DATE: [**2780-11-4**] 2:49 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8608**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for response to treatment. Please look for hep
+      Contrast: OPTIRAY Amt: 115
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteries are again seen, but without evidence of dissection or aneurysmal
+     dilatation.  Small lymph nodes are seen in the external iliac chain, none of
+     which are pathologically enlarged.  No free air or free fluid is identified.
+     
+     Bone windows show no suspicious sclerotic or lytic lesions.  There are
+     degenerative changes of the left glenohumeral joint.
+     
+     Multiplanar reformats were essential in delineating the findings above.
+     
+     IMPRESSION:
+     
+     1.  Marked decrease in size of right paratracheal-mediastinal neoplastic mass.
+     Similar appearance of right upper lobe nodule.
+     
+     2.  Similar appearance of left adrenal nodule.
+     
+     3.  Hepatic lesions seen on previous CT scans are not seen on today's study.
+     No new lesions are identified.
+     
+     4.  Atherosclerotic abdominal aorta.
+     
+     5.  Sigmoid diverticulosis without diverticulitis.
+     
+     6.  Porcelain gallbladder.
+     
+     
+
+",,
+5150,,,,2780-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2780-11-17**] 4:16 PM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 8609**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with s/p fall                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT KNEE, THREE VIEWS, [**2780-11-17**] AT 1616 HOURS
+     
+     HISTORY:  Status post fall.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is tricompartment osteophytosis and sharpening of the tibial
+     spines.  Joint space narrowing is asymmetrically worse involving the medial
+     tibiofemoral compartment with likewise increased sclerosis of the subchondral
+     medial tibial plateau.  There is a resultant varus angulation at the knee. 
+     There is a moderate- to large-sized suprapatellar effusion.  No fracture is
+     identified.
+     
+     IMPRESSION:  Tricompartment osteoarthritis, worse affecting the medial
+     tibiofemoral compartment with resultant varus angulation.  There is a
+     moderate- to large-sized suprapatellar effusion.  No fracture.
+                                                                           
+
+",,
+5150,,,,2781-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man with small cell lung cancer status post
+     chemotherapy for restaging.
+     
+     COMPARISONS:  [**2780-11-4**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the abdomen were first obtained,
+     followed by additional CT imaging of the chest, abdomen, and pelvis with
+     intravenous contrast.  Delayed-phase imaging through the level of the kidneys
+     only was also performed.  Oral contrast was administered.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A 17 mm diameter right hilar node is not
+     significantly changed.  More vague soft tissue density about the right main
+     pulmonary artery in the right subcarinal region is also not significantly
+     changed.  There is no axillary or mediastinal lymphadenopathy.  Coronary
+     artery calcifications are noted.  Otherwise the heart, great vessels, and
+     pericardium are unremarkable.  There are no pleural or pericardial effusions.
+     
+     A nodule in the right upper lobe (series 3, image 17) measures 16 x 9 mm in
+     axial dimensions, compared to 15 x 10 mm previously.  There is patchy new
+     mixed ground glass and consolidative opacity in the right apex, whose
+     appearance is most suggestive of an infectious etiology.  Acute radiation
+     pneumonitis is an additional differential consideration, given recent
+     radiation therapy in this area.  There is also a small amount of fluid in
+     azygos fissure, but this is unchanged.  Several calcified granulomas in the
+     left lung are unchanged. No new nodules are identified. Calcified subcarinal
+     nodes are also unchanged.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The liver appears normal.
+     Gallbladder wall calcifications, namely a porcelain gallbladder, are again
+     noted.  A calcified granuloma in the spleen is unchanged.  The pancreas is
+     atrophic.  The appearance of the kidneys is unchanged, with at least one sub 5
+     mm hypoattenuating focus in the left kidney that is too small to characterize,
+     but without significant change.
+     
+     The stomach, small and large bowel are within normal limits.  Slightly
+     prominent appearance of the medial left adrenal limb is not significantly
+     changed. Atherosclerotic change in the infrarenal aorta, which is slightly
+     ectatic, is not significantly changed.  There is no retroperitoneal or
+     mesenteric lymphadenopathy, or free air or fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is sigmoid diverticulosis.  The
+                                                                 (Over)
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     prostate is mildly enlarged.  Seminal vesicles and bladder are unremarkable.
+     There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1.  New patchy mixed consolidative and ground glass opacities in the right
+     upper lobe, most concerning for pneumonia.
+     
+     2.  Otherwise, stable appearance of chest, abdomen, and pelvis.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 8611**] on the same day by telephone.
+
+",,
+5150,,,,2781-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man with small cell lung cancer status post
+     chemotherapy for restaging.
+     
+     COMPARISONS:  [**2780-11-4**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the abdomen were first obtained,
+     followed by additional CT imaging of the chest, abdomen, and pelvis with
+     intravenous contrast.  Delayed-phase imaging through the level of the kidneys
+     only was also performed.  Oral contrast was administered.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A 17 mm diameter right hilar node is not
+     significantly changed.  More vague soft tissue density about the right main
+     pulmonary artery in the right subcarinal region is also not significantly
+     changed.  There is no axillary or mediastinal lymphadenopathy.  Coronary
+     artery calcifications are noted.  Otherwise the heart, great vessels, and
+     pericardium are unremarkable.  There are no pleural or pericardial effusions.
+     
+     A nodule in the right upper lobe (series 3, image 17) measures 16 x 9 mm in
+     axial dimensions, compared to 15 x 10 mm previously.  There is patchy new
+     mixed ground glass and consolidative opacity in the right apex, whose
+     appearance is most suggestive of an infectious etiology.  Acute radiation
+     pneumonitis is an additional differential consideration, given recent
+     radiation therapy in this area.  There is also a small amount of fluid in
+     azygos fissure, but this is unchanged.  Several calcified granulomas in the
+     left lung are unchanged. No new nodules are identified. Calcified subcarinal
+     nodes are also unchanged.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The liver appears normal.
+     Gallbladder wall calcifications, namely a porcelain gallbladder, are again
+     noted.  A calcified granuloma in the spleen is unchanged.  The pancreas is
+     atrophic.  The appearance of the kidneys is unchanged, with at least one sub 5
+     mm hypoattenuating focus in the left kidney that is too small to characterize,
+     but without significant change.
+     
+     The stomach, small and large bowel are within normal limits.  Slightly
+     prominent appearance of the medial left adrenal limb is not significantly
+     changed. Atherosclerotic change in the infrarenal aorta, which is slightly
+     ectatic, is not significantly changed.  There is no retroperitoneal or
+     mesenteric lymphadenopathy, or free air or fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is sigmoid diverticulosis.  The
+                                                                 (Over)
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     prostate is mildly enlarged.  Seminal vesicles and bladder are unremarkable.
+     There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1.  New patchy mixed consolidative and ground glass opacities in the right
+     upper lobe, most concerning for pneumonia.
+     
+     2.  Otherwise, stable appearance of chest, abdomen, and pelvis.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 8611**] on the same day by telephone.
+
+",,
+5150,,,,2781-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p 4 cycles of chemotherapy       
+     REASON FOR THIS EXAMINATION:
+      SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man with small cell lung cancer status post
+     chemotherapy for restaging.
+     
+     COMPARISONS:  [**2780-11-4**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the abdomen were first obtained,
+     followed by additional CT imaging of the chest, abdomen, and pelvis with
+     intravenous contrast.  Delayed-phase imaging through the level of the kidneys
+     only was also performed.  Oral contrast was administered.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  A 17 mm diameter right hilar node is not
+     significantly changed.  More vague soft tissue density about the right main
+     pulmonary artery in the right subcarinal region is also not significantly
+     changed.  There is no axillary or mediastinal lymphadenopathy.  Coronary
+     artery calcifications are noted.  Otherwise the heart, great vessels, and
+     pericardium are unremarkable.  There are no pleural or pericardial effusions.
+     
+     A nodule in the right upper lobe (series 3, image 17) measures 16 x 9 mm in
+     axial dimensions, compared to 15 x 10 mm previously.  There is patchy new
+     mixed ground glass and consolidative opacity in the right apex, whose
+     appearance is most suggestive of an infectious etiology.  Acute radiation
+     pneumonitis is an additional differential consideration, given recent
+     radiation therapy in this area.  There is also a small amount of fluid in
+     azygos fissure, but this is unchanged.  Several calcified granulomas in the
+     left lung are unchanged. No new nodules are identified. Calcified subcarinal
+     nodes are also unchanged.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The liver appears normal.
+     Gallbladder wall calcifications, namely a porcelain gallbladder, are again
+     noted.  A calcified granuloma in the spleen is unchanged.  The pancreas is
+     atrophic.  The appearance of the kidneys is unchanged, with at least one sub 5
+     mm hypoattenuating focus in the left kidney that is too small to characterize,
+     but without significant change.
+     
+     The stomach, small and large bowel are within normal limits.  Slightly
+     prominent appearance of the medial left adrenal limb is not significantly
+     changed. Atherosclerotic change in the infrarenal aorta, which is slightly
+     ectatic, is not significantly changed.  There is no retroperitoneal or
+     mesenteric lymphadenopathy, or free air or fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is sigmoid diverticulosis.  The
+                                                                 (Over)
+
+     DATE: [**2781-2-3**] 10:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8610**]
+     CT PELVIS W/CONTRAST
+     Reason: SMALL CELL CA LUNG RESTAGING S/P CHEMO, RT
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     prostate is mildly enlarged.  Seminal vesicles and bladder are unremarkable.
+     There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1.  New patchy mixed consolidative and ground glass opacities in the right
+     upper lobe, most concerning for pneumonia.
+     
+     2.  Otherwise, stable appearance of chest, abdomen, and pelvis.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 8611**] on the same day by telephone.
+
+",,
+5150,,,,2781-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-3-24**] 12:52 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8612**]
+     Reason: etiol of cough                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with cough on amiodarone for af and lung ca                     
+     REASON FOR THIS EXAMINATION:
+      etiol of cough                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest PA and lateral.
+     
+     INDICATION:  Cough and on amiodarone for atrial fibrillation and lung cancer,
+     evaluate for etiology of cough.
+     
+     PA and lateral chest views obtained with patient in upright position
+     demonstrate now the presence of a large right-sided hilar mass extending
+     mostly in the right upper lobe area.  The surrounding pulmonary tissue has
+     undergone volume loss resulting in deviation of the trachea towards the right
+     and a general volume loss in the right hemithorax.  The left lung is
+     hyperexpanded but does not show any pulmonary vascular congestion or new
+     parenchymal infiltrates.  However, there is evidence of a granuloma on the
+     left base which in comparison with previous studies appears unchanged.
+     
+     When comparison is made with the next recent available chest examination of
+     [**2780-10-10**], marked progression of this right-sided lung mass has
+     occurred.  Moderate degree of mediastinal shift is now present but the heart
+     size and the appearance of the thoracic aorta is unaltered.
+     
+     IMPRESSION:  Marked progression of right-sided pulmonary _____ mass with
+     volume loss of right hemithorax.  Peripheral pulmonary vasculature on the
+     right side appears reduced in comparison with the previous study.  Left lung
+     does not demonstrate pulmonary congestion or new infiltrates short of the
+     previously described local granuloma.
+     
+     Stat. report issued because of the rapidly advancing changes.
+                                                                           
+
+",,
+5150,,,,2781-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for relapse.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  74-year-old man with small lung cell carcinoma status post
+     chemotherapy and radiation.
+     
+     COMPARISON:  [**2781-2-3**].
+     
+     TECHNIQUE:  MDCT axial images of the abdomen were obtained prior to
+     administration of intravenous contrast.  Axial images of the chest, abdomen,
+     and pelvis were obtained following administration of 130 cc of intravenous
+     contrast.  3-minute delayed views of the kidneys were obtained.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  Previously noted 17-mm right hilar node
+     measures approximately 15 mm on today's study, not significantly changed.
+     There is no axillary or mediastinal lymphadenopathy.  Again noted coronary
+     artery calcifications.  The heart and great vessels are otherwise
+     unremarkable.  There is no pericardial effusion.  There has been interval
+     development of small right-sided pleural effusion.  Again seen a nodule in the
+     right upper lobe, that measures 13 mm today, compared to 15 mm previously.
+     There has been an interval development of typical radiation changes in the
+     right paramediastinal distribution, with fibrosis and distortion of the normal
+     anatomy.  Again noted are several calcified granulomas in the left lung. There
+     are no new lung nodules.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver is unremarkable.  Again seen
+     gallbladder wall calcifications (porcelain gallbladder).  There are
+     calcifications in the spleen consistent with prior granulomatous process.  The
+     appearance of pancreas is unchanged.  Hypoattenuating lesion in the left
+     kidney is too small to definitely characterize.  The adrenal glands are
+     unchanged in appearance, including slight prominence of the medial limb of the
+     left adrenal gland.  Extensive atherosclerotic changes in the infrarenal
+     aorta, extending into iliac arteries bilaterally again seen.  There is no
+     retroperitoneal or mesenteric lymphadenopathy.  There is no free air and no
+     free fluid in the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is diverticulosis of the
+     sigmoid and descending colon, without evidence of acute diverticulitis.  The
+     prostate remains mildly enlarged.  The seminal vesicles and bladder are
+     unremarkable.  There are no pathologically enlarged pelvic or inguinal
+     lymphatic nodes.
+     
+                                                                 (Over)
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  Demonstrate no suspicious lytic or sclerotic lesions.
+     Degenerative changes are seen involving left glenohumeral joint, with a lucent
+     lesion in the scapula, likely representing a subchondral cyst and unchanged
+     from previous examinations.
+     
+     IMPRESSION:
+     1.  No evidence of disease progression, no hilar mass.
+     
+     2.  Interval development of small right pleural effusion and radiation
+     fibrosis in the right paramediastinal lung.  Unchanged size and appearance of
+     right upper lobe nodule and right hilar lymphatic node.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 5036**] at 12 p.m. on [**2781-3-27**].
+
+",,
+5150,,,,2781-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for relapse.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  74-year-old man with small lung cell carcinoma status post
+     chemotherapy and radiation.
+     
+     COMPARISON:  [**2781-2-3**].
+     
+     TECHNIQUE:  MDCT axial images of the abdomen were obtained prior to
+     administration of intravenous contrast.  Axial images of the chest, abdomen,
+     and pelvis were obtained following administration of 130 cc of intravenous
+     contrast.  3-minute delayed views of the kidneys were obtained.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  Previously noted 17-mm right hilar node
+     measures approximately 15 mm on today's study, not significantly changed.
+     There is no axillary or mediastinal lymphadenopathy.  Again noted coronary
+     artery calcifications.  The heart and great vessels are otherwise
+     unremarkable.  There is no pericardial effusion.  There has been interval
+     development of small right-sided pleural effusion.  Again seen a nodule in the
+     right upper lobe, that measures 13 mm today, compared to 15 mm previously.
+     There has been an interval development of typical radiation changes in the
+     right paramediastinal distribution, with fibrosis and distortion of the normal
+     anatomy.  Again noted are several calcified granulomas in the left lung. There
+     are no new lung nodules.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver is unremarkable.  Again seen
+     gallbladder wall calcifications (porcelain gallbladder).  There are
+     calcifications in the spleen consistent with prior granulomatous process.  The
+     appearance of pancreas is unchanged.  Hypoattenuating lesion in the left
+     kidney is too small to definitely characterize.  The adrenal glands are
+     unchanged in appearance, including slight prominence of the medial limb of the
+     left adrenal gland.  Extensive atherosclerotic changes in the infrarenal
+     aorta, extending into iliac arteries bilaterally again seen.  There is no
+     retroperitoneal or mesenteric lymphadenopathy.  There is no free air and no
+     free fluid in the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is diverticulosis of the
+     sigmoid and descending colon, without evidence of acute diverticulitis.  The
+     prostate remains mildly enlarged.  The seminal vesicles and bladder are
+     unremarkable.  There are no pathologically enlarged pelvic or inguinal
+     lymphatic nodes.
+     
+                                                                 (Over)
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  Demonstrate no suspicious lytic or sclerotic lesions.
+     Degenerative changes are seen involving left glenohumeral joint, with a lucent
+     lesion in the scapula, likely representing a subchondral cyst and unchanged
+     from previous examinations.
+     
+     IMPRESSION:
+     1.  No evidence of disease progression, no hilar mass.
+     
+     2.  Interval development of small right pleural effusion and radiation
+     fibrosis in the right paramediastinal lung.  Unchanged size and appearance of
+     right upper lobe nodule and right hilar lymphatic node.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 5036**] at 12 p.m. on [**2781-3-27**].
+
+",,
+5150,,,,2781-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for relapse.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO
+     
+     INDICATION:  74-year-old man with small lung cell carcinoma status post
+     chemotherapy and radiation.
+     
+     COMPARISON:  [**2781-2-3**].
+     
+     TECHNIQUE:  MDCT axial images of the abdomen were obtained prior to
+     administration of intravenous contrast.  Axial images of the chest, abdomen,
+     and pelvis were obtained following administration of 130 cc of intravenous
+     contrast.  3-minute delayed views of the kidneys were obtained.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  Previously noted 17-mm right hilar node
+     measures approximately 15 mm on today's study, not significantly changed.
+     There is no axillary or mediastinal lymphadenopathy.  Again noted coronary
+     artery calcifications.  The heart and great vessels are otherwise
+     unremarkable.  There is no pericardial effusion.  There has been interval
+     development of small right-sided pleural effusion.  Again seen a nodule in the
+     right upper lobe, that measures 13 mm today, compared to 15 mm previously.
+     There has been an interval development of typical radiation changes in the
+     right paramediastinal distribution, with fibrosis and distortion of the normal
+     anatomy.  Again noted are several calcified granulomas in the left lung. There
+     are no new lung nodules.
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver is unremarkable.  Again seen
+     gallbladder wall calcifications (porcelain gallbladder).  There are
+     calcifications in the spleen consistent with prior granulomatous process.  The
+     appearance of pancreas is unchanged.  Hypoattenuating lesion in the left
+     kidney is too small to definitely characterize.  The adrenal glands are
+     unchanged in appearance, including slight prominence of the medial limb of the
+     left adrenal gland.  Extensive atherosclerotic changes in the infrarenal
+     aorta, extending into iliac arteries bilaterally again seen.  There is no
+     retroperitoneal or mesenteric lymphadenopathy.  There is no free air and no
+     free fluid in the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is diverticulosis of the
+     sigmoid and descending colon, without evidence of acute diverticulitis.  The
+     prostate remains mildly enlarged.  The seminal vesicles and bladder are
+     unremarkable.  There are no pathologically enlarged pelvic or inguinal
+     lymphatic nodes.
+     
+                                                                 (Over)
+
+     DATE: [**2781-3-26**] 7:25 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 8613**]
+     CT PELVIS W/CONTRAST
+     Reason: Please assess for relapse.                                  
+     Field of view: 42 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  Demonstrate no suspicious lytic or sclerotic lesions.
+     Degenerative changes are seen involving left glenohumeral joint, with a lucent
+     lesion in the scapula, likely representing a subchondral cyst and unchanged
+     from previous examinations.
+     
+     IMPRESSION:
+     1.  No evidence of disease progression, no hilar mass.
+     
+     2.  Interval development of small right pleural effusion and radiation
+     fibrosis in the right paramediastinal lung.  Unchanged size and appearance of
+     right upper lobe nodule and right hilar lymphatic node.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 5036**] at 12 p.m. on [**2781-3-27**].
+
+",,
+5150,,,,2781-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for recurrence.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO.
+     
+     INDICATION:  Small cell lung cancer status post chemo and radiation.
+     
+     COMPARISON:  [**2781-3-26**].
+     
+     TECHNIQUE:  MDCT axially-acquired images were obtained from the thoracic inlet
+     to symphysis with oral and IV contrast.  Multiplanar reformatted images were
+     obtained.
+     
+     CONTRAST:  130 cc Optiray 350.
+     
+     CT CHEST WITH CONTRAST:  The thyroid gland is grossly unremarkable.  The major
+     airways are patent down to the subsegmental level.  Again noted is a right
+     hilar node, which currently measures approximately 1.3 cm, previously
+     measuring 1.5.  Coronary artery calcifications are again noted.  The heart and
+     great vessels are otherwise unchanged.  There is no pericardial effusion. 
+     There is again noted a right-sided pleural effusion, which has demonstrated
+     slight increase in size since previous study.  Again noted is a nodule within
+     the right upper lobe measuring 1.2 cm, previously measuring 1.3 cm.  There has
+     been unchanged appearance of radiation changes in the right paramediastinal
+     region with fibrosis and distortion of normal anatomy.  Several calcified
+     granulomas in the left lung are unchanged.  There is a new ill-defined
+     subpleural opacity within the right upper lobe (3:22) which does not measure
+     soft tissue density and is an indeterminant lesion.
+     
+     CT ABDOMEN WITH CONTRAST:  Again noted is a porcelain gallbladder.  The liver
+     is stable in appearance without focal lesion identified.  Calcifications are
+     present within the spleen consistent with prior granulomatous disease.  The
+     pancreas is unchanged.  The adrenal glands are unchanged in appearance,
+     including a slight prominence of the medial limb of the left adrenal gland. 
+     There is again noted extensive atherosclerotic changes in the infrarenal
+     aorta, extending into bilateral iliac arteries.  No retroperitoneal or
+     mesenteric adenopathy is detected.  There is no free air or free fluid present
+     within the abdomen.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diverticulosis of the sigmoid,
+     without evidence of diverticulitis.  There are mural nodules within the
+     prostate gland, unchanged.  The seminal vesicles and bladder are unremarkable.
+     
+     OSSEOUS STRUCTURES:  No suspicious lytic or sclerotic lesions identified. 
+                                                                 (Over)
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Degenerative changes are again noted in the left glenohumeral joint with a
+     lucent lesion within the scapula, likely representing a subchondral cyst.
+     
+     IMPRESSION:
+     1.  Two subpleural densities in the right upper lobe, which may represent
+     atelectasis, although recurrence cannot be excluded.  Attention should be made
+     to these regions on followup imaging.
+     2.  Right pleural effusion and radiation fibrosis in the right paramediastinal
+     lung remain.
+     3.  Porcelain gallbladder.
+                                                                           
+
+",,
+5150,,,,2781-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for recurrence.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO.
+     
+     INDICATION:  Small cell lung cancer status post chemo and radiation.
+     
+     COMPARISON:  [**2781-3-26**].
+     
+     TECHNIQUE:  MDCT axially-acquired images were obtained from the thoracic inlet
+     to symphysis with oral and IV contrast.  Multiplanar reformatted images were
+     obtained.
+     
+     CONTRAST:  130 cc Optiray 350.
+     
+     CT CHEST WITH CONTRAST:  The thyroid gland is grossly unremarkable.  The major
+     airways are patent down to the subsegmental level.  Again noted is a right
+     hilar node, which currently measures approximately 1.3 cm, previously
+     measuring 1.5.  Coronary artery calcifications are again noted.  The heart and
+     great vessels are otherwise unchanged.  There is no pericardial effusion. 
+     There is again noted a right-sided pleural effusion, which has demonstrated
+     slight increase in size since previous study.  Again noted is a nodule within
+     the right upper lobe measuring 1.2 cm, previously measuring 1.3 cm.  There has
+     been unchanged appearance of radiation changes in the right paramediastinal
+     region with fibrosis and distortion of normal anatomy.  Several calcified
+     granulomas in the left lung are unchanged.  There is a new ill-defined
+     subpleural opacity within the right upper lobe (3:22) which does not measure
+     soft tissue density and is an indeterminant lesion.
+     
+     CT ABDOMEN WITH CONTRAST:  Again noted is a porcelain gallbladder.  The liver
+     is stable in appearance without focal lesion identified.  Calcifications are
+     present within the spleen consistent with prior granulomatous disease.  The
+     pancreas is unchanged.  The adrenal glands are unchanged in appearance,
+     including a slight prominence of the medial limb of the left adrenal gland. 
+     There is again noted extensive atherosclerotic changes in the infrarenal
+     aorta, extending into bilateral iliac arteries.  No retroperitoneal or
+     mesenteric adenopathy is detected.  There is no free air or free fluid present
+     within the abdomen.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diverticulosis of the sigmoid,
+     without evidence of diverticulitis.  There are mural nodules within the
+     prostate gland, unchanged.  The seminal vesicles and bladder are unremarkable.
+     
+     OSSEOUS STRUCTURES:  No suspicious lytic or sclerotic lesions identified. 
+                                                                 (Over)
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Degenerative changes are again noted in the left glenohumeral joint with a
+     lucent lesion within the scapula, likely representing a subchondral cyst.
+     
+     IMPRESSION:
+     1.  Two subpleural densities in the right upper lobe, which may represent
+     atelectasis, although recurrence cannot be excluded.  Attention should be made
+     to these regions on followup imaging.
+     2.  Right pleural effusion and radiation fibrosis in the right paramediastinal
+     lung remain.
+     3.  Porcelain gallbladder.
+                                                                           
+
+",,
+5150,,,,2781-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with small cell lung cancer, s/p chemotherapy and radiation     
+     REASON FOR THIS EXAMINATION:
+      Please assess for recurrence.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT TORSO.
+     
+     INDICATION:  Small cell lung cancer status post chemo and radiation.
+     
+     COMPARISON:  [**2781-3-26**].
+     
+     TECHNIQUE:  MDCT axially-acquired images were obtained from the thoracic inlet
+     to symphysis with oral and IV contrast.  Multiplanar reformatted images were
+     obtained.
+     
+     CONTRAST:  130 cc Optiray 350.
+     
+     CT CHEST WITH CONTRAST:  The thyroid gland is grossly unremarkable.  The major
+     airways are patent down to the subsegmental level.  Again noted is a right
+     hilar node, which currently measures approximately 1.3 cm, previously
+     measuring 1.5.  Coronary artery calcifications are again noted.  The heart and
+     great vessels are otherwise unchanged.  There is no pericardial effusion. 
+     There is again noted a right-sided pleural effusion, which has demonstrated
+     slight increase in size since previous study.  Again noted is a nodule within
+     the right upper lobe measuring 1.2 cm, previously measuring 1.3 cm.  There has
+     been unchanged appearance of radiation changes in the right paramediastinal
+     region with fibrosis and distortion of normal anatomy.  Several calcified
+     granulomas in the left lung are unchanged.  There is a new ill-defined
+     subpleural opacity within the right upper lobe (3:22) which does not measure
+     soft tissue density and is an indeterminant lesion.
+     
+     CT ABDOMEN WITH CONTRAST:  Again noted is a porcelain gallbladder.  The liver
+     is stable in appearance without focal lesion identified.  Calcifications are
+     present within the spleen consistent with prior granulomatous disease.  The
+     pancreas is unchanged.  The adrenal glands are unchanged in appearance,
+     including a slight prominence of the medial limb of the left adrenal gland. 
+     There is again noted extensive atherosclerotic changes in the infrarenal
+     aorta, extending into bilateral iliac arteries.  No retroperitoneal or
+     mesenteric adenopathy is detected.  There is no free air or free fluid present
+     within the abdomen.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is diverticulosis of the sigmoid,
+     without evidence of diverticulitis.  There are mural nodules within the
+     prostate gland, unchanged.  The seminal vesicles and bladder are unremarkable.
+     
+     OSSEOUS STRUCTURES:  No suspicious lytic or sclerotic lesions identified. 
+                                                                 (Over)
+
+     DATE: [**2781-6-11**] 11:53 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 8614**]
+     CT CHEST W/CONTRAST
+     Reason: Please assess for recurrence.                               
+     Field of view: 44 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Degenerative changes are again noted in the left glenohumeral joint with a
+     lucent lesion within the scapula, likely representing a subchondral cyst.
+     
+     IMPRESSION:
+     1.  Two subpleural densities in the right upper lobe, which may represent
+     atelectasis, although recurrence cannot be excluded.  Attention should be made
+     to these regions on followup imaging.
+     2.  Right pleural effusion and radiation fibrosis in the right paramediastinal
+     lung remain.
+     3.  Porcelain gallbladder.
+                                                                           
+
+",,
+5150,,,,2781-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-7-9**] 7:48 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 8615**]
+     Reason: Please assess for intracranial metastases.                  
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with small cell lung cancer, completed chemotherapy.            
+     REASON FOR THIS EXAMINATION:
+      Please assess for intracranial metastases. New right 6th cranial nerve palsy 
+      since [**7-1**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small cell lung cancer status post chemotherapy, now with new
+     right sixth nerve palsy.
+     
+     COMPARISON:  [**2780-8-24**].
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were obtained
+     before and after intravenous gadolinium administration.
+     
+     BRAIN MRI WITH AND WITHOUT INTRAVENOUS CONTRAST:  There are new, multiple
+     enhancing lesions in the brain parenchyma, consistent with metastases.
+     They demonstrate high signal on precontrast T1-weighted images and increased
+     susceptibility, consistent with blood products.  A left parietal metastasis
+     measures 1.4 cm AP x 1.9 cm transverse x 1.7 cm craniocaudad (images 8:14 and
+     9:20).  A left medial temporal lobe metastasis measures 1.7 cm transverse x
+     1.9 cm AP x 1.2 cm craniocaudad (images 8:10 and 9:17).  There is a metastasis
+     extending from the pituitary infundibulum into the hypothalamus, measuring 0.8
+     cm AP x 0.6 cm transverse x 0.3 cm craniocaudad (images 8:11 and 9:13).  There
+     is a metastasis in the right lateral pons, at the junction with the right
+     middle cerebellar peduncle, which measures 1.0 cm transverse x 0.9 cm AP x 0.8
+     cm craniocaudad (images 8:8 and 9:16).  There is a metastasis involving the
+     left cerebellar tonsil and the left cerebellar hemisphere, measuring 1.6 cm
+     transverse x 1.9 cm AP x 2.0 mm craniocaudad.
+     
+     Mild edema associated with the above-described left temporal metastasis
+     results in partial compression of the temporal and occipital horns of the left
+     lateral ventricle.  There is no compression of the third or fourth ventricles.
+     
+     There is a right frontal leptomeningeal metastasis measuring 1.4 cm transverse
+     x 0.9 cm AP x 1.0 cm craniocaudad (images 8:19 and 9:13).  There is no edema
+     in the adjacent right frontal lobe.
+     
+     Multiple small foci of high T2 signal in the periventricular and subcortical
+     white matter of both cerebral hemispheres are unchanged, consistent with
+     chronic microvascular disease.  The major vascular flow voids appear
+     unremarkable.  Vertical linear enhancement along the anterior brainstem and
+     upper cervical cord in the midline corresponds to a prominent vein.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 8616**] at 11:30 a.m. on [**2781-7-10**].
+     
+     IMPRESSION:  Multiple, new metastatic lesions.
+                                                                           DFDkq
+                                                                 (Over)
+
+     DATE: [**2781-7-9**] 7:48 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 8615**]
+     Reason: Please assess for intracranial metastases.                  
+      Contrast: MAGNEVIST Amt: 18
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5150,,,,2781-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-3**] 2:52 PM
+     MR [**Name13 (STitle) 190**] W & W/O CONTRAST                                     Clip # [**Clip Number (Radiology) 8617**]
+     Reason: bilateral buttock pain/?disc vs met has new CNS mets        
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with small cell ca lung with multiple metastases                
+     REASON FOR THIS EXAMINATION:
+      bilateral buttock pain/?disc vs met has new CNS mets                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR LUMBAR SPINE
+     
+     HISTORY:  74-year-old male with small cell lung cancer with multiple
+     metastases, now with bilateral buttock pain.
+     
+     TECHNIQUE:  Sagittal pre- and post-gadolinium T1, T2, STIR; axial pre- and
+     post-gadolinium T1 and T2-weighted images of the lumbar spine were obtained.
+     
+     FINDINGS:  Correlation is made to an MR of the head from [**2781-7-9**] as well as a
+     CT of the torso from [**2781-6-11**].
+     
+     There is leptomeningeal enhancement along the lower visualized thoracic spine
+     (which is visualized up to the T10 level) and along the conus.  There is
+     nodular thickening and diffuse enhancement of the cauda equina. These findings
+     are consistent with leptomeningeal metastatic disease.  The conus medullaris
+     normally ends at the T12/L1 level.
+     
+     The visualized bone marrow signal is normal.  There is no loss of vertebral
+     body heights.
+     
+     Multiple small Schmorl's nodes are seen at multiple levels.
+     
+     At L2/3, there is a mild disc bulge which is not causing canal stenosis, but
+     there is mild left and mild right foraminal stenoses.
+     
+     At L3/4, there is a mild disc bulge with a left foraminal disc protrusion,
+     which is not causing canal stenosis, but there is mild left foraminal
+     stenosis.
+     
+     At L4/5, there is a mild disc bulge which is not causing canal stenosis, but
+     there is mild right foraminal stenosis.
+     
+     At L5/S1, there is a mild disc bulge which is not causing canal stenosis, but
+     there is mild bilateral foraminal stenoses.
+     
+     Within the mid portion of the right kidney is a 1.2 x 0.8 cm T2 hyperintense
+     lesion which does not enhance, which likely represents a parapelvic cyst.
+     
+     There is an abdominal aortic aneurysm just above the aortic bifurcation, which
+     measures approximately 3.1 cm in size.  This is not significantly changed
+     since the prior study.
+     
+                                                                 (Over)
+
+     DATE: [**2781-8-3**] 2:52 PM
+     MR [**Name13 (STitle) 190**] W & W/O CONTRAST                                     Clip # [**Clip Number (Radiology) 8617**]
+     Reason: bilateral buttock pain/?disc vs met has new CNS mets        
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     Diffuse leptomeningeal metastases involving the lower thoracic cord, the conus
+     medullaris, and the cauda equina.
+     
+     Abdominal aortic aneurysm just above the aortic bifurcation measuring
+     approximately 3.1 cm in size.
+     
+     Mild degenerative changes of the lumbar spine with multilevel mild bilateral
+     foraminal stenoses, but without canal stenosis.
+     
+     COMMENT:  The above findings were discussed with Dr. [**Last Name (STitle) 8616**] on [**2781-8-4**].
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+5150,,,,2781-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-9**] 1:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8618**]
+     Reason: infiltrate, edema                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with hypotension, rhonchi                                       
+     REASON FOR THIS EXAMINATION:
+      infiltrate, edema                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old woman with rhonchi.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Comparison was made with a prior chest
+     radiograph dated [**2781-3-24**].  Again note is made of right sided post-
+     radiation changes which are stable in appearance. Thoracic aorta is tortuous.
+     Cardiac contour is unchanged. Left lung is clear. There is no pneumothorax.
+     
+     
+     IMPRESSION:
+     
+     Overall unchanged appearance of the chest with post-radiation change and
+     volume loss of the right lung. No evidence of pneumonia.
+
+",,
+5150,,,,2781-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-9**] 3:52 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8619**]
+     Reason: line placement RIJ                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with hypotension, rhonchi                                      
+       
+     REASON FOR THIS EXAMINATION:
+      line placement RIJ                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     This is a portable chest radiograph performed on [**2781-8-9**].
+     
+     Comparison is made with prior study from two hours earlier.
+     
+     CLINICAL HISTORY:  75-year-old man with hypotension, rhonchi, line placement.
+     
+     FINDINGS:  Portable upright chest radiograph is obtained.  There has been
+     interval placement of a right IJ central line with its tip in the approximate
+     location of the cavoatrial junction.  There is no pneumothorax.  The lungs are
+     unchanged from prior study, with persistent chronic-appearing changes in the
+     right lung likely related to prior radiation.  Volume loss is also noted in
+     the right lung.  The left lung remains clear.  The cardiomediastinal
+     silhouette is unchanged.  The visualized osseous structures are intact.
+     
+     IMPRESSION:
+     1.  Interval placement of a right IJ central line with tip appearing in good
+     position at the cavoatrial junction.  No pneumothorax.
+     
+     2. Stable appearance of the right lung, reflecting chronic changes which may
+     be related to prior radiation.
+     
+     
+                                                                           SESHa
+
+",,
+5150,,,,2781-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-9**] 3:52 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8619**]
+     Reason: line placement RIJ                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with hypotension, rhonchi                                      
+       
+     REASON FOR THIS EXAMINATION:
+      line placement RIJ                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     This is a portable chest radiograph performed on [**2781-8-9**].
+     
+     Comparison is made with prior study from two hours earlier.
+     
+     CLINICAL HISTORY:  75-year-old man with hypotension, rhonchi, line placement.
+     
+     FINDINGS:  Portable upright chest radiograph is obtained.  There has been
+     interval placement of a right IJ central line with its tip in the approximate
+     location of the cavoatrial junction.  There is no pneumothorax.  The lungs are
+     unchanged from prior study, with persistent chronic-appearing changes in the
+     right lung likely related to prior radiation.  Volume loss is also noted in
+     the right lung.  The left lung remains clear.  The cardiomediastinal
+     silhouette is unchanged.  The visualized osseous structures are intact.
+     
+     IMPRESSION:
+     1.  Interval placement of a right IJ central line with tip appearing in good
+     position at the cavoatrial junction.  No pneumothorax.
+     
+     2. Stable appearance of the right lung, reflecting chronic changes which may
+     be related to prior radiation.
+     
+     
+                                                                           SESHa
+
+",,
+5150,,39737,0,2781-08-09 18:03:00 EST,2781-08-09 18:13:00 EST,9370,"N",69,"Nursing/Other",,"
+
+75 yr old male admitted from ER with hypotension and pna. code sepsis started, set#3 labs sent. (protocol to stop if lactate<2). 
+
+PMH: lung CA w/ mets to brain and spine currently undergoing XRT. 
+
+neuro: alert, follows commands. 
+resp: LS diminished, on 2L NC O2 sat 98%. 
+cv: BP 25/95, HR 96 occasional PVCs. on levophed gtt 0.047mcg, wean as tolerated. bolus resucitation of 4L NS given in ER. CVP goal [**10-9**].
+gi/gu: foley intact and draining clear yellow urine. +BS. 
+access: R TL IJ, R 18g PIV, L 18g PIV. 
+",,
+5150,,39737,,2781-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-10**] 10:43 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 8621**]
+     Reason: r/o DVTs                                                    
+     Admitting Diagnosis: PNEMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with SCLC p/w LE swelling                                       
+     REASON FOR THIS EXAMINATION:
+      r/o DVTs                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small cell lung cancer with lower extremity swelling.
+     
+     BILATERAL LOWER EXTREMITY VEINS, PORTABLE:  The bilateral common femoral,
+     greater saphenous, and popliteal veins demonstrate normal grayscale
+     appearance, with normal compressibility.  Color flow and Doppler waveform
+     images show the vessels are patent and demonstrate normal waveform,
+     respiratory variation, and augmentation.  No intraluminal thrombus is
+     identified.
+     
+     IMPRESSION:  No evidence for deep vein thrombosis in the bilateral lower
+     extremities.
+                                                                           
+
+",,
+5150,,39737,,2781-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-10**] 5:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8620**]
+     Reason: Please assess for interval change.                          
+     Admitting Diagnosis: PNEMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man with SCLC, hypotension, RML infiltrate                        
+     REASON FOR THIS EXAMINATION:
+      Please assess for interval change.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTABLE VIEW OF THE CHEST
+     
+     REASON FOR EXAM:  Patient with SCLC.  Evaluate right middle lobe opacity.
+     
+     Comparison is made with prior studies, CT torso dated [**6-11**] and chest x-ray
+     dated [**2781-8-9**].
+     
+     FINDINGS:  Allowing for the difference in techniques and position of the
+     patient, there have been no interval changes.  Right lung paramediastinal
+     post-radiation changes, right cardiomediastinal shift, collapse of the right
+     middle lobe, and partial collapse of the right lower lobe are unchanged.  The
+     left lung remains clear.  There is no pneumothorax.  Right IJ line tip is in
+     the standard position, unchanged.
+     
+     IMPRESSION:  No significant changes.
+
+",,
+5150,,39737,0,2781-08-10 03:51:00 EST,2781-08-10 04:24:00 EST,9195,"N",69,"Nursing/Other",,"
+
+MSICU [**Wardname **]-4 RN REPORT 1900-0700
+ 
+Neuro: Alert oriented x3. MAE equal strength. Received morphine 2mg for lt flank pain w/good effect. Slept well through out night. Refused personel care because he want to [**Doctor Last Name 65**].
+
+CV: HR 90-120 A fib w/ occ PVC's. BP 100-120, Received pt on levophed 0.047 mic/kg/min. weaned off @ 2030. Sepsis protocol d/c. Access RJTL  Ns kvo. PIV x2. AM labs pending. 
+
+RESP: LS clear dim. Spo2 >98% on 2lit NC. No sob.
+
+GI/GU: NPO. Abd soft.BS x4. Foleys draining clear yellow urine. UO > 70cc/hr.
+
+SKIN: Dry and intact.
+
+ID: T max 98. Abx on vanco, Received Zosyn one dose and waiting for ID approval.
+
+Social: Full code. Family visited and updated by MD.
+
+PLAN: Pain management.
+      If AM lactate is within limits ? c/o.
+        
+        
+
+
+
+
+",,
+5150,,39737,0,2781-08-10 13:28:00 EST,2781-08-10 13:51:00 EST,7640,"N",69,"Nursing/Other",,"
+
+75 yo male with PAF (on amio)CRI (cr baseline 1.4) brain and spinal mets (diagnosed in 8/06) s/p whole brain radiation, pt came to ED c/o LE sweeling and was found to have hypotention and fever RLL infiltrate. Lactate 2.1. PNA most likely the sourse for fever. pt was started on IVF boluses and levophed.
+
+CV:afib occa PVC's.hr 94-115, bp118/75. pt tolerating well amio 200mg and he was restarted on 12.5mg lopressor x1. pt went to radiology to assess LE edema, waiting for results. cvp 11. +40cc since midnight.
+
+Resp:2liters nc o2 sats have been 100%, lungs a bit diminished at bases bilat. radiation therapy today.
+
+ID:Pt currently on antibiotics, pippercillian, vancomycin. Lactate 1.2 now , temp 95.6 
+
+Endo: ss insulin bs high 106.
+
+GI:pt ate some bagel today with coughing pt has a poor appetite. BS high 106.
+
+access: right IJ.
+
+GU:CRI cr 1.0 patent foley clear yellow urin.
+
+A:hypotension
+
+P:replete lytes as needed, advance diet as tolerated and encourage fluid intake. Assess for pain. 
+
+",,
+5150,,39737,0,2781-08-10 19:17:00 EST,2781-08-10 19:25:00 EST,117,"N",69,"Nursing/Other","MICU NPN 3PM-11PM:","
+MICU NPN 3PM-11PM:
+Pt is called out to the floor, awaiting bed assignment. No bed available on heme/onc floor.
+
+Neuro: Pt sleeping in naps until supper-time, woke and wanted to sit on the edge of the bed for dinner which he did. Felt well sitting on the edge of the bed. No dizziness/lightheadedness. Visits with daughter this evening.
+
+CV: HR 100-120's a-fib. BP dropping down to 87/60 when on the edge of the bed but no symptoms complained of. Will reassess BP when back in bed. Team has ordered for him to start lopressor 25mg PO BID but hit si held at 8PM due to low BP. Please reassess vital and administer lopressor as tolerated when BP is better.
+
+Resp: Lungs clear. O2 2L N/C. Needs sputum when available. Sat 99%. RR 20.
+
+GI: Tolerating regular diet. No complaints. Abdomen is soft non-tender.
+
+GU: Foley is draining good amts clear urine.
+
+ID: afebrile on zosyn/vanco.
+
+IV access: Team has said to leave in precept catheter until he gets a bed on the floor. He has two PIV's in place which flush well. If he gets bed please ask team to take out precept catheter.
+
+Endo: Has not required any sliding scale insulin today. He is on decadron for brain mets so needs QID fingersticks.
+
+Social: Family here on/off today and updated.
+
+
+",,
+5150,,39737,0,2781-08-10 20:36:00 EST,2781-08-10 20:37:00 EST,117,"N",69,"Nursing/Other","Brief Addendum to previous note:","
+Brief Addendum to previous note:
+Pt dropped BP to 70.50 at 2100 while asleep. Not much better when awake. Pt getting NS bolus 500cc's at present. Please follow closely.
+",,
+5150,,39737,,2781-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2781-8-11**] 6:30 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 8622**]
+     Reason: please evaluate for post-obstructive pna, consolidation     
+     Admitting Diagnosis: PNEMONIA
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with SCLC, recent FICU admission for pneumonia                  
+     REASON FOR THIS EXAMINATION:
+      please evaluate for post-obstructive pna, consolidation                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old man with small cell lung cancer, please evaluate for
+     post-obstructive pneumonia.
+     
+     Comparison is made to the prior study done on [**2781-6-11**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from thoracic inlet to upper
+     abdomen after administration of 90 cc of Optiray intravenously.  No oral
+     contrast was used.  Coronal reformatted images were obtained.
+     
+     CT OF CHEST WITH IV CONTRAST:  The patient is status post radiation of the
+     right lung with scarring and traction atelectasis of the right upper lobe
+     which appears unchanged compared to the prior study.  Two nodular opacities
+     within the right upper lobe appear unchanged measuring 13 mm in diameter.  No
+     other pulmonary nodules are seen within the lungs.  Pleural-based opacity is
+     noted along the lateral portion of the superior segment of the right lower
+     lobe which appears unchanged compared to the prior study.
+     
+     There has been interval development of new peribronchiolar opacities of the
+     medial and lateral segment of the right middle lobe which is a new finding and
+     suggests pneumonia in the correct clinical setting.  The left lung is clear.
+     
+     The soft tissue windows demonstrate multiple enlarged mediastinal nodes. These
+     nodes are located within the anterior paratracheal space, subcarinal space and
+     appear unchanged compared to the prior study.  The largest node is located in
+     the anterior paratracheal space and measures 10 mm in the short axis.  The
+     moderate right-sided pleural effusion extends into the fissures. The thyroid
+     gland and esophagus are unremarkable.
+     
+     The visualized portion of the upper abdomen demonstrates normal appearance of
+     the liver.  The porcelain gallbladder is unchanged.  Multiple calcified
+     granulomas of the spleen is suggestive of the old granulomatous disease.  The
+     right adrenal gland and the visualized portion of both kidneys are
+     unremarkable.  The prominence of the medial limb of the left adrenal gland is
+     unchanged.  No pathologically enlarged node is noted within the upper abdomen.
+     
+     BONE WINDOWS:  No concerning lytic or sclerotic lesions are identified.
+     Degenerative changes are noted at multiple levels.
+     
+     IMPRESSION:
+     1.  Interval development of peribronchiolar opacities of the right middle lobe
+                                                                 (Over)
+
+     DATE: [**2781-8-11**] 6:30 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 8622**]
+     Reason: please evaluate for post-obstructive pna, consolidation     
+     Admitting Diagnosis: PNEMONIA
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     consistent with pneumonia.
+     2.  Right pleural effusion is unchanged.  The radiation induced atelectasis of
+     the right lung is stable.
+     3.  The two nodules noted within the right upper lobe are unchanged. Although
+     they most likely  represent round atelectasis, tumor recurrence cannot be
+     excluded. Attention to these nodules on the followup studies is recommended.
+     4.  Porcelain gallbladder, unchanged.
+     
+     
+     
+
+",,
+5150,,39737,0,2781-08-11 04:13:00 EST,2781-08-11 04:21:00 EST,928,"N",69,"Nursing/Other",,"
+
+Nsg Progress Note  2300-0700
+
+CV - Hemodynamically stable.  No further IV fluid bolus' needed for BP.  Afebrile.  IVF at 10cc/hr.
+
+Resp - No c/o SOB or difficulty breathing.  BS cl but diminished at bases.  Spont dry cough - no phlegm.
+
+GI -  Tolerating PO's well.  Abd soft with positive BS - no BM's.
+
+GU - foley cath draining adequate amt cl yellow urine.
+
+IV - Pt still has precept cath in - this will need to be dc'd prior to discharge.
+
+Endocrine - BS stable - no sliding scale insulin required.
+
+Neuro -  Pt A & O X3.  Very pleasant and cooperative.  Able to dangle at side of bed for approx 1/2 hour without problem.  Occasionally hesitates when trying to speak but only for a very short period and then is able to make statement without problem.  Slightly weak but needs only minimal assist to sit and stand.
+
+Social - Daughter called at mdnoc for update.  She is appropriately concerned about pt and asking questions.
+
+Pt should be able to be transerred to onc floor if bed is available.
+",,

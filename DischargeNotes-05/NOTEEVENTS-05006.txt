@@ -1,0 +1,791 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5006,1375,,,3383-07-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3383-7-17**]              Discharge Date:   [**3383-7-30**]
+ 
+Date of Birth:  [**3302-1-18**]             Sex:   M
+ 
+Service: TSURG
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 170**] 
+Chief Complaint:
+SOB, here for pleuroscopy 
+ 
+Major Surgical or Invasive Procedure:
+[**3383-7-19**]: Pleuroscopy
+
+ 
+History of Present Illness:
+81 yo man with h/o A fib (on coumadin), HTN, DM, 
+hyperthyroidism, and recurrent pleural effusion x 6 weeks who is 
+being admitted for pleuroscopy tomorrow.  Patient had effusion 
+drained at [**Hospital **] Hosp 6 weeks ago.  Over the past 6 weeks, the 
+fluid has reaccumulated and the patient's pulmonologist referred 
+the patient to [**Hospital1 83**] intervential pulmonology for pleuroscopy.  
+Patient was to have procedure done today, but had high coags.  
+Patient admitted today to receive FFP in preparation of 
+pleuroscopy tomorrow. 
+
+ 
+Past Medical History:
+HTN  
+A fib  
+Hyperthyroidism  
+DM  
+recurrent pleural effusion (drained 6 weeks ago at [**Hospital **] Hosp)  
+
+s/p appy at age 8  
+
+ 
+Social History:
+unknown
+ 
+Family History:
+unknown
+ 
+Physical Exam:
+VS: T=100.6 BP=134/74 HR=139 RR=18 O2=96%  
+GEN: elderly man, lying in bed, not speaking in full sentences, 
+SOB  
+HEENT: PERRL OU, EOMI bilaterally, OP clear, MMM  
+CV: No elevated JVD, Non-displaced PMI, tachy at about 150, 
+Normal S1S2, No M/R/G  
+RESP: + accessory muscle use, dullness to percussion on left 
+side, decreased BS on left, no w/r/r  
+ABD: Normo active BS, obese, non-tender, no rebound, 
+non-distended, no masses, no organomegaly appreciated; appy scar 
+RLQ  
+EXT: no cyanosis, edema, or clubbing  
+PULSES: 1+ dp/pt pulses bilaterally  
+NEURO: A&Ox3; CN II-XII intact bilat; sensation and motor exams 
+intact bilaterally  
+
+ 
+Pertinent Results:
+[**3383-7-18**] 06:30AM BLOOD WBC-12.4* RBC-4.54* Hgb-11.8* Hct-37.7* 
+MCV-83 MCH-26.0* MCHC-31.3 RDW-12.4 Plt Ct-441*
+[**3383-7-19**] 04:30AM BLOOD WBC-11.8* RBC-3.80* Hgb-10.3* Hct-31.5* 
+MCV-83 MCH-27.2 MCHC-32.7 RDW-12.4 Plt Ct-320
+[**3383-7-17**] 12:30PM BLOOD PT-18.5* INR(PT)-2.3
+[**3383-7-19**] 08:23AM BLOOD PT-16.5* PTT-38.6* INR(PT)-1.8
+[**3383-7-18**] 06:30AM BLOOD Glucose-114* UreaN-22* Creat-0.7 Na-137 
+K-4.1 Cl-98 HCO3-27 AnGap-16
+[**3383-7-19**] 04:30AM BLOOD Glucose-186* UreaN-23* Creat-0.7 Na-140 
+K-3.7 Cl-100 HCO3-27 AnGap-17
+[**3383-7-19**] 11:10AM BLOOD Calcium-9.0 Phos-4.6* Mg-1.9
+[**3383-7-19**] 11:53AM BLOOD Type-ART Temp-37.7 PEEP-5 O2-50 pO2-134* 
+pCO2-56* pH-7.33* calHCO3-31* Base XS-2 Intubat-INTUBATED 
+Vent-SPONTANEOU
+[**3383-7-20**] 12:12AM BLOOD pO2-76* pCO2-39 pH-7.39 calHCO3-24 Base 
+XS-0
+[**3383-7-28**] 04:59AM BLOOD WBC-7.8 RBC-3.62* Hgb-9.5* Hct-29.9* 
+MCV-83 MCH-26.3* MCHC-31.7 RDW-14.0 Plt Ct-405
+
+[**3383-7-23**] 09:50PM URINE Hours-RANDOM Creat-154 Na-LESS THAN  K-42
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 5612**] was admitted to the floor to receive FFP in order to 
+bring his INR below 1.5 so that he could have pleuroscopy the 
+following day.  During the first night of his admission, he was 
+in a fib on telemetry and his heart rate was initially in the 
+150's.  He had not taken his evening dose of atenolol yet.  He 
+was given that dose, as well as a dose of IV lopressor.  His 
+heart rate then came down to the 110's.  Later that evening, he 
+required another dose of IV lopressor as well as PO metoprolol.  
+
+*
+Mr. [**Known patient lastname 5613**] INR was originally 2.3.  He was initially given 2 
+units of FFP which brought his INR down to 1.9.  An additional 2 
+units were given; however, his INR was still too high at 1.8.  
+The procedure was postponed until the following day so that the 
+patient could receive more FFP in an attempt to lower his INR < 
+1.5.  He was given an additional 2 units of FFP overnight, and a 
+recheck of his INR was 1.8.  He was given 2 more units of FFP, 
+but his INR remained at 1.8.  He was brought to the operating 
+room to have a VATS by thoracic surgery despite having an 
+INR=1.8.  He required the OR because it was a weekend day, and 
+there were no [**Name8 (MD) 5614**] RN's to do the procedure in the 
+pulmonary procedure suite.  After the procedure, the patient had 
+a prolonged stay in the PACU because he was in rapid a fib and 
+had new onset mild CHF (likely rate related).  He was diuresed 
+and rate controlled (with diltiazem drip and PO metoprolol).  He 
+was maintained on dilt drip and metoprolol on transfer to the 
+floor.  Thoracic surgery recommended that they perform a 
+decortication later in the week to free the patient's trapped 
+lung.   
+*
+For the following week, the patient was continued on rate 
+control with diltiazem drip and metoprolol.  His metoprolol was 
+slowly titrated up while trying to keep SBP>90.  He was bolused 
+gently on [**1-28**] occasions for low BP (with 250 cc NS).  Overall, 
+the patient did well in the pre-op period; however, his rate was 
+difficult to control while maintaining adequate BP.  His rate 
+remained in the range of 90-110 (occasionally up to 120), with 
+BP in range of 90-110/50-80.  His INR continued to rise despite 
+receiving FFP and holding coumadin.  After reaching 3.2, vitamin 
+K 5mg po was given x 1 dose to reverse pt so he would be able to 
+go for decortication.  After vitamin K, the patient's INR fell 
+to 1.9.*
+Cardiology was consulted the day prior to surgery for 
+recommendations of better rate control.  They recommended 
+digoxin 0.125 mg PO qd and lisinopril 75mg PO TID for rate 
+control. The patient was rate controlled prior to left 
+thorocatomy and decortication on [**7-23**]. Post-operatively the 
+patient did well and was transferred to the ICU intubated. The 
+patient's TSH was evaluated and deemed to be low POD #1 with 
+this may have been adding to difficult with rate control of his 
+afib. His anti- hyperthroid med methimazole 10 mg PO BOD was 
+restarted POD 5.The patient was diuresed with lasix while in the 
+unit and responded well and his creatinine remained stable. He 
+was treated with aggressive pulmonary toilet and his chest tubes 
+remained to suction. POD 3 the patient had a PA and Lateral CxR 
+to evaluate the left lung and the fluid in the intrapleural 
+space. The patient's CXR appeared stable and much improved to 
+previous films that had showed a large pleural effusion on the 
+left side.The patient's pain was managed with PO morphine PRN 
+and toradol 15mg PO PRN. The was put on aspiration precaustions 
+and his INR was stable at 2.5. The patient began to work with PT 
+on POD 3 in order to improve his mobility. The patient had a 
+weak cough and difficulty moving around in bed.The patient 
+remained stable in the unit POD [**3-31**]. He was transfered to the 
+floor on POD 6 where he was restarted on all his home meds. 
+Particularly he was switched from lopressor to atenolol and 
+restarted on his glyburide 1.5 mg PO BID and coumadin 2 mg PO 
+qd. The patient continued to work with PT and made improvement 
+in his strength and previously limited mobility. The patient 
+will follow up with Dr. [**Last Name (STitle) **] in addtion to a prior schedule 
+pulmonology appointment. THe patient is going to rehab on all 
+his prior meds and on the same doses of those medications. He is 
+doing well and will require once a day dressing changes along 
+with physical therapy in order to increase his strength and 
+mobility. The patient will also require aggressive pulmonary 
+toilet and encourage for taking food. 
+
+ 
+Medications on Admission:
+Methimazole 10 mg PO BID  
+lisinopril/HCTZ 20/12.5mg po QD  
+Atenolol 50 qam, 25 qpm  
+Glyburide 1.25 mg po BID  
+Coumadin 2 mg po qhs  
+Tylenol 2 tabs bid  
+
+ 
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+2. Methimazole 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+3. Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO QD (once 
+a day).  
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO QAM (once a day 
+(in the morning)).  
+5. Atenolol 25 mg Tablet Sig: One (1) Tablet PO QPM (once a day 
+(in the evening)).  
+6. Methimazole 10 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+7. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+8. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed.  
+9. Glyburide Micronized 3 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day) as needed for type II DM.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 5615**] - [**Location (un) 5616**]
+ 
+Discharge Diagnosis:
+Recurrent pleural effusion
+PMH: Diabetes mellitus type II, hypertension, repeated history 
+of pleural effusions, atrial fibrillation, hyperthroidism
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please come to the emergency room if [**Doctor First Name **] have worsening 
+shortness of breath, chest pain, severe cough, or fever.  Take 
+all medications as prescribed.
+ 
+Followup Instructions:
+Please follow up with pulmonology as scheduled. Please follow 
+with Dr. [**Last Name (STitle) **] [**Last Name (STitle) **] as scheduled. If appointment not already 
+schedule or change in patient's condition occurs, patient should 
+call Dr.[**Doctor Last Name **] office inorder to schedule appointment.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**MD Number 176**] MD [**MD Number 177**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2237**] MD [**MD Number 2238**] [**3383-7-30**] @ 1148
+Signed electronically by: DR. [**First Name (STitle) **] [**MD Number **]
+ on: MON [**3383-8-4**] 10:34 AM
+(End of Report)
+
+
+",,
+5006,1375,,,3383-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-18**] 8:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7502**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with A fib, DM, HTN, and recurrent pleural effusion.  Now with 
+      cough and low grade temp. 
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Cough and low grade temperature. 
+     
+     PA AND LATERAL CHEST:  There is near complete opacification of the left lung
+     with a small aerated residual aerated region in the medial left lung apex.
+     There is leftward shift of the mediastinum. There is a small right pleural
+     effusions.  Slightly coarse interstitial markings in the right lung. The soft
+     tissues and osseous structures are unremarkable.
+     
+     IMPRESSION: Near complete dense opacification of the left lung with rightward
+     shift of the mediastinum.  This likely represents a large pleural effusions
+     which obscures evaluation of the underlying lung parenchyma.
+
+",,
+5006,1375,,,3383-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-19**] 11:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7504**]
+     Reason: eval for left lung expansion                                
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with recurrent left pleural effusion s/p left thoracoscopy.    
+     REASON FOR THIS EXAMINATION:
+      eval for left lung expansion                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**3383-7-19**] COMPARED TO PREVIOUS STUDY OF EARLIER THE SAME
+     DAY.
+     
+     CLINICAL INDICATION:  Status post left thoracoscopy for pleural effusion.
+     
+     A previously noted large left pleural effusion has been evacuated with only a
+     small amount of residual pleural fluid remaining.  There is a large
+     pneumothorax in the area where the pleural fluid was evacuated.  It
+     corresponds to the location of the pleural fluid prior to evacuation, and does
+     not extend to the apex of the lung. This likely reflects the presence of
+     pleural adhesions.  Atelectatic changes are noted in the left lower lobe and
+     part of the lingula. The right lung is grossly clear but there is a persistent
+     small right pleural effusion.
+     
+     Note is made of interval intubation with satisfactory placement of the ET
+     tube.
+     
+     IMPRESSION:  Evacuation of large left pleural effusion with large pneumothorax
+     occupying site of previous pleural fluid collection, as detailed above, with
+     single chest tube in place. 
+
+",,
+5006,1375,,,3383-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-19**] 1:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7503**]
+     Reason: R/O pneumothorax                                            
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with recurrent left pleural effusion s/p left thoracentesis.    
+     REASON FOR THIS EXAMINATION:
+      R/O pneumothorax                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left pleural effusion, status post thoracentesis.
+     
+     CHEST, AP PORTABLE RADIOGRAPH:  The cardiac, mediastinal and hilar contours
+     are stable in appearance but partially obscured by the adjacent effusion.
+     There is atelectasis at the right lung base. There has been a slight interval
+     decrease in the size of the large left pleural effusion which obscures the
+     right mid and lower lung zones.  No pneumothorax.  The soft tissues and
+     osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     Slight interval decrease in left pleural effusion, without evidence of
+     pneumothorax. Given this appearance, underlying neoplasm or tuberculosis
+     should be considerred.
+
+",,
+5006,1375,,,3383-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-20**] 12:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7505**]
+     Reason: eval for effusion/failure.                                  
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old man with recurrent left pleural effusion s/p left thoracoscopy 
+      and drainage and trapped L lung.  
+     REASON FOR THIS EXAMINATION:
+      eval for effusion/failure.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81-year-old with recurrent left pleural effusion, status post left
+     thoracoscopy and drainage and trapped left lung.
+     
+     This study is compared to the previous study of a day earlier and shows
+     continued application of the left chest tube.  The left pneumothorax is
+     smaller and appears to be subpulmonic at this time.  There is poor inspiratory
+     effort.  There is bilateral pulmonary vascular congestion which shows an
+     appearance of worsening.  However, this could be due to poor inspiratory
+     effort.
+     
+     IMPRESSION:  1) The left pneumothorax is smaller, however, a moderate degree
+     of residual subpulmonic left pneumothorax is still present.
+     2) Bilateral pulmonary vascular congestion and poor inspiratory effort.
+
+",,
+5006,1375,,,3383-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-21**] 11:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7506**]
+     Reason: CHF?                                                        
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         81 year old man with recurrent left pleural effusion s/p left thoracoscopy  
+      and drainage and trapped L lung.  
+     REASON FOR THIS EXAMINATION:
+      CHF?                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recurrent left pleural effusion status post left thoracoscopy with
+     drainage and trapped left lung. Evaluate for failure.
+     
+     COMPARISON: [**3383-7-20**].
+     
+     UPRIGHT AP VIEW OF THE CHEST: The heart is stably enlarged. A left inferior
+     chest tube is again noted. There has been interval decrease in size of the
+     left pneumothorax with a small amount of fluid reaccumulated in the interval
+     in the left pleural space, consistent with a small left hydropneumothorax.
+     There is persistent atelectasis of the left lower lobe and lingula. A small
+     right pleural effusion and right lower lobe collapse/consolidation are again
+     noted, slightly worse in the interval. The previously seen pattern of
+     congestive heart pattern has improved in the interval.
+     
+     IMPRESSION:
+     1. Interval decrease in size of left pneumothorax with reaccumulation of small
+     amount of fluid within the left pleural space.
+     2. Left lower lobe and lingular collapse, which is relatively unchanged since
+     the prior study.
+     3. Small right pleural effusion and right lower lobe atelectasis.
+     4. Improving mild congestive heart failure.
+     
+
+",,
+5006,1375,,,3383-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-22**] 1:15 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 7507**]
+     Reason: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with A fib, DM, HTN, and recurrent pleural effusion s/p VATS 
+      (POD#3).  Pre-op for decortication in AM.
+     REASON FOR THIS EXAMINATION:
+      ?CHF                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath, preop for decortication, recurrent pleural
+     effusion s/p VATS.
+     
+     COMPARISON: [**3383-7-21**].
+     
+     UPRIGHT AP & LATERAL VIEWS: A left hydropneumothorax with pockets of gas/fluid
+     is again identified with a moderate amount of fluid seen. The size of this
+     hydropneumothorax is unchanged since the prior study. On the lateral view,
+     multiple air-fluid levels are identified in the anterior chest, consistent
+     with the left hydropneumothorax. There is associated lingular and left lower
+     lobe collapse which is unchanged since the prior study. A small to moderate
+     sized right pleural effusion is also present, which is unchanged in the
+     interval. There is right basilar atelectasis. Cardiac and mediastinal contours
+     remain stable. The pulmonary vascularity is within normal limits. Degenerative
+     changes are noted within the thoracic spine. A left inferior chest tube is
+     again noted in stable position.
+     
+     IMPRESSION: No significant interval change in the appearance of the moderate
+     sized left hydropneumothorax and small to moderate sized right pleural
+     effusion. Associated bibasilar atelectasis is unchanged.
+     
+
+",,
+5006,1375,,,3383-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-23**] 1:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7508**]
+     Reason: assess for lung re-expansion                                
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          81 year old man with recurrent left pleural effusion s/p left thoracoscopy  
+       and drainage and trapped L lung.  
+     REASON FOR THIS EXAMINATION:
+      assess for lung re-expansion                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, 1:30 P.M. on [**7-23**]:
+     
+     INDICATION:  Recurrent left pleural effusion.  Status post recent thoracoscopy
+     and drainage.
+     
+     FINDINGS:  Compared with 7/27, the left chest tube has been repositioned
+     and/or replaced and the tip of the current left chest tube is at the level of
+     the left apex. There is also now a second chest tube present coursing along
+     the left hemidiaphragm with its tip medially. There has been considerable
+     interval decrease in the moderate sized left pleural effusion.  A small right
+     pleural effusion persists.
+     
+     Tip of the ETT is at the level of the medial clavicles in unremarkable
+     position. There is a left IJ central line in place with its tip projecting
+     over the upper SVC.  No obvious pneumothorax is seen with the patient supine,
+     however, there is soft tissue air tracking along the left rib cage.    The
+     left lower lobe shows some patchy linear atelectasis but for the most part
+     appears to have reexpanded.
+     
+     IMPRESSION:  Decreased left pleural effusion with partial left lower lobe
+     reexpansion status post thoracoscopy.  Various tubes and catheters in
+     unremarkable positions.
+     
+     
+     
+
+",,
+5006,1375,6209,0,3383-07-23 16:29:00 EST,3383-07-23 16:34:00 EST,3090,"N",54,"Nursing/Other",,"
+
+81 yr old male with PMHX: Asbestos exposure,A-Fib,pleural effusion,HTN. patient recently admitted with acute onset of S.O.B. S/P (L) Thoracotomy,Decortication patient on mechanical ventilation will wean to extubate.
+",,
+5006,1375,6209,0,3383-07-23 16:38:00 EST,3383-07-23 16:59:00 EST,4183,"N",54,"Nursing/Other","1300-1900","
+1300-1900
+
+ARRIVED TO CSU ABOUT 1300 FROM OR. S/P L THORACOTOMY AND DECORTICATION. SEDATED ON PROPOFOL. ARRIVED TO CSRU ON DILITIAZEM GTT. 
+
+NEURO: SEDATED ON PROPOFOL. OCCASIONAL FACIAL GRIMACE OR BILATERAL ARM MOVEMENTS. NO MOVEMENTS NOTED TO COMMAND. MORPHINE GIVEN FOR PAIN CONTROL. R PUPIL ABOUT 4MM REACTIVE, L PUPIL IRREGULARLY SHAPED AND SLUGGISH TO REACTION. 
+
+RESP: LS CLEAR. C-XRAY SHORTLY AFTER ARRIVAL TO CSRU, REPORTEDLY LOOKS GOOD. L PLEURAL CT WITH INTERMITTENT AIRLEAK, TEAM AWARE. DRAINING MOD AMOUNTS OF SEROUS/SANG FLUID. NO CREPITUS NOTED. SUCTIONED FOR MIN AMOUNTS OF CLEAR THIN FLUID. SEE FLOW SHEET FOR VENT SETTINGS AND ABG'S. 
+
+CV: AFIB 100-110'S. CONTINUES ON DILITIAZEM GTT. DIGOXIN AND LOPRESSOR IV OREDERED. LOPRESSOR 10MG HELD, GIVE 2.5MG IF SBP>100 [**Name8 (MD) **] MD [**Last Name (Titles) **]. PAPABLE PEDAL PULSES. EXT COOL. CVP 3-4, 250 FLUID BOLUS GIVEN X2 FOR LOW UO'S AND LOW SBP. MAY TITRATE DILT GTT TO KEEP HR<100 SBP>80.
+
+ENDO: ELEVATED BG'S TREATED INITIALLY PER SSRI, STARTED ON INSULIN GTT [**Name8 (MD) **] MD [**Doctor Last Name **] FOR POOR BG CONTROL, SEE FLOW SHEET FOR BG'S.
+
+GI/GU: BS-. ABD SOFT AND NONDISTENDED. NPO. AUTODIURESING SMALL AMOUNTS OF CLEAR AMBER COLORED URINE, SOME INCREASE IN UO NOTED WITH FLUID BOLUSES. NO BM OR FLATUS.
+
+ID: AFEBRILE CONTINUES ON KEFZOL. 
+
+INT: INCISIONS WITH SOME SEROUS/SANG DRAINAGE. INTACT. NO FURTHER BREAKDOWN NOTED.
+
+PLAN: WEAN AND EXTUBATE IN AM. CONTINUE INSULIN/DILITIAZEM/PROPOFOL GTTS. MONITOR HEMODYNAMICS AND LABS. MONITOR CT DRAINAGE AND UO. PAIN CONTROL. 
+",,
+5006,1375,6209,,3383-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-24**] 8:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7509**]
+     Reason: ? CHF                                                       
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           81 year old man with recurrent left pleural effusion s/p left thoracoscopy 
+         and drainage and trapped L lung. Hypoxia
+     REASON FOR THIS EXAMINATION:
+      ? CHF                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recurrent left pleural effusion s/p left thoracoscopy with trapped
+     left lung. Hypoxia.
+     
+     COMPARISON: [**3383-7-23**].
+     
+     SEMI-ERECT AP VIEW CHEST: Left sided chest tube and left internal jugular
+     central venous catheter remain in stable and satisfactory positions. The
+     patient has been extubated. There has been interval worsening of bilateral
+     lower lobe patchy opacities, consistent with collapse/consolidation. Small
+     layering bilateral pleural effusions are also present. No definite
+     pneumothorax is identified. No overt congestive heart failure is present.
+     
+     IMPRESSION:
+     1) Interval worsening of bibasilar collapse/consolidation s/p extubation.
+     
+     2) Small bilateral pleural effusions.
+
+",,
+5006,1375,6209,0,3383-07-24 03:33:00 EST,3383-07-24 03:34:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated overnoc on A/C. No vent changes this shift. RSBI un-obtainable this am due to low VT, high RR. See carevue. ABG WNL. 
+",,
+5006,1375,6209,0,3383-07-24 05:09:00 EST,3383-07-24 05:18:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt remained sedated overnight on Propofol arousable to stimulation following commands this am. Appears anixous when aroused grimacing and shaking.
+Resp: vented overnight no vent changes made. pt on 50% AC 10 peep 5 with good ABG's. Chest tube patent draining serous sangunious draiange.
+C/V: pt tachy in an afib rate of 96-120 on Diltiazem drip dose increased to 15mg/hr with no effect pt also receiving lopressor 2.5mg iv every 6hours with brief period of time rate falling below 100 to 96. Extra dose of lopressor 2.5 mg given for tatal of 5mg at 0400 with good effect heart rate has remained below 100 for over 1hour so far. Blood pressure stable 95-120. Cvp 10
+GI: OGT draining light tan to clear secretions.
+Endo: blood sugars elevated requiring insulin drip drop to 62 drip stopped repeat 53 given [**12-27**] amp of D50 with improvement no need for drip to be restarted.
+GU: urine outputs low 5-10 cc/hr pt received total of 1500cc of LR and infusion rate increased to 100cc/hr. Urines would go up to 20-30 for several hours then drop back down requiring another bolus. Urine lytes and osmo sent to lab showing pt dry [**Name8 (MD) 17**] MD.
+Skin: Incisions clean dry no drainage.
+Pain: pt grimacing when turned treated with morphine 2mg iv every 4hours over night.
+
+
+",,
+5006,1375,6209,0,3383-07-24 15:33:00 EST,3383-07-24 15:52:00 EST,5515,"N",54,"Nursing/Other",,"
+
+CV:  AF in 100's with PVCs in am--lopressor increased to 7.5 mg iv and HR down to 80's-90's; diltiazem gtt @15 mg/h; KCL repleated; SBP in 120s
+
+Resp:  CT draining ss; lungs coarse on L, dim RLL; weaned and extubated--RR 30's-40's with panting resp-->ABGs good after extubation; morphine for pain control
+
+Neuro:  Oriented x3; MAE; ativan .5 mg iv given x2 for agitation-->changed to haldol this afternoon
+
+GI:  BS present this AM, hypo this PM
+
+GU:  uo 25-35cc/h amber slightly cloudy
+
+Endo:  BS 113-133 covered by SS
+
+ID:  ABX
+
+Plan:  Monitor HR/rhythm and ABGs closely; pain control; eval need for haldol; monitor lytes and replace as needed  
+
+
+ 
+",,
+5006,1375,6209,,3383-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-25**] 8:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7510**]
+     Reason: increasing FIO2 requirment ? CHF                            
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            81 year old man with recurrent left pleural effusion s/p left 
+      thoracoscopy     and drainage and trapped L lung. Hypoxia
+     REASON FOR THIS EXAMINATION:
+      increasing FIO2 requirment ? CHF                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recurrent left effusion s/p left thoracotomy with increasing
+     oxygen requirement.
+     
+     COMPARISON: [**3383-7-24**].
+     
+     UPRIGHT AP VIEW CHEST: 2 left sided chest tubes, and left internal jugular
+     central venous catheter remain in stable and satisfactory positions. Cardiac
+     and mediastinal contours remain stable. There is continued bibasilar
+     collapse/consolidation with small bilateral pleural effusions present. The
+     appearance of the chest appears relatively stable since the prior study. No
+     pneumothorax or overt vascular congestion is present.
+     
+     IMPRESSION:
+     1) No significant interval change in bibasilar collapse/consolidation.
+     
+     2) Small bilateral pleural effusions.
+
+",,
+5006,1375,6209,0,3383-07-25 05:07:00 EST,3383-07-25 05:16:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt alert oriented following commands. ""I just want to do what [**Doctor First Name **] want me to do"" pt cooperative answering questions appropriately, states he is hard of hearing so to repeat things if he doesn't answer.
+Resp: very tenuious. O2 sats dropped last evening to 88% Abg sent PO@ was 55 with sat of 88% on gas. Pt suctioned for scant amounts. Placed on 100% non rebreather CXR done and pt given lasix 20mg with good diuresis. O2 sats slowly improved but would drop with any movement or change in position and then slowly over 15mins or more come back up to 98%. Unable to wean Fio2 PO@ on nonrebreather improved to 103. This am pt NT suctioned for thick tan secretions moderate amounts. Pt does cough but it is weak and not moving much. Respiratory rate remained 36-52 all night.
+C/V: hr 100-130 a fib pt continues on diltaizem 15mg/hr and lopressor 7.5mg every 6hours with hr coming down to low 100's after lopressor but only lasting about 1hour.
+GI: npo
+Endo: blood sugars withing normal no insulin required.
+GU: Good response after 20mg lasix Weight up this am. ? continue lasix.
+Skin: incision clean and dry no drainage. dsg changed.
+Pain: good pain control with morphine 4mg sc every 3hours pt moving better in bed and not grimacing as much when touched on left side. 
+",,
+5006,1375,6209,0,3383-07-25 15:50:00 EST,3383-07-25 16:01:00 EST,5515,"N",54,"Nursing/Other",,"
+
+CV:  AF rate 100's-130's-->lopressor increased to 10 mg iv q4h and HR now 80's-100's; cont on diltiazem @15mg/h, started on heparin gtt @600u/h; repleated Mag+KCL
+
+Resp:  RR 20's-40's, cont to pant; sats mid 90's on face tent; RLL consolidation per CXR-->frequent chest PT, CDB, using IS to 500; CT draining sm amts serosang
+
+GI:  soft with normoactive bowel sounds, taking ice chips and tolerating well
+
+GU:  diuresing well on lasix 20 mg BID
+
+Neuro:  oriented x3, mae, confused in am re what has been happening to him; more alert and clear in pm
+
+ID:  ABX series complete
+
+Endo:  173-180's, new ss for tighter control
+
+Pain:  changed to Toradol 15 mg iv with good pain control
+
+Activity:  OOB x6h and tolerated well
+",,
+5006,1375,6209,0,3383-07-25 16:58:00 EST,3383-07-25 17:03:00 EST,5515,"N",54,"Nursing/Other",,"
+
+Addendum:
+
+CV:  Heparin gtt dc'ed for INR 2.2  
+
+Plan:  Cont to monitor and replace lytes; monitor RR/sats and I-O--> cont to diurese; chest PT, CDB, IS; monitor pain control with Toradol 
+",,
+5006,1375,6209,0,3383-07-25 22:19:00 EST,3383-07-25 22:27:00 EST,4002,"N",54,"Nursing/Other",,"
+
+NPN: 19-23pm
+
+Neuro: Alert and oriented but occ making inappropriate staements. MAE with equal strength.
+CV: 80-100's afib with rare PVC's. Dilt cont 15mg/hr, lopressor 10mg IV q4. 
+Resp: lungs diminished in bases. Cough fair-nonprod. L CT's to sxn-no leak. Sats> 96% on 4l nc and 70% FT O2. CPT given 
+GU: Foley to gd with low uo-improved after IV lasix.
+GI: Abd soft, NT, ND with +BS. No N/V.
+Endo: Covered per SS with 3u reg sc insulin.
+Comfort: Medicated with toradol as ordered MSO4 2mg sc X1.
+A: Stable 
+P: Cont per care. Dilt and lopressor, ? feed in am. ? change to po's.Pulm toilet.
+",,
+5006,1375,6209,,3383-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-26**] 8:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7511**]
+     Reason: ? size of effusion                                          
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             81 year old man with recurrent left pleural effusion s/p left  
+      thoracoscopy     and drainage and trapped L lung. Hypoxia
+     REASON FOR THIS EXAMINATION:
+      ? size of effusion                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     v
+     INDICATION:  81 year old with recurrent left pleural effusion and status post
+     left thoracotomy.  Evaluate size of effusion.
+     
+     FINDINGS:  An AP portable study of the chest is compared to the previous study
+     of one day earlier.  The left IJ line remains in place, the tip is in the
+     superior vena cava.  The left chest tube remains in place, the tip is in the
+     left apical region. There is a small subpulmonic pneumothorax medially, seen
+     on the left side, unchanged since the previous study.  Some improvement in the
+     degree of right lower lobe atelectasis is noted.  The left lower lobe remains
+     atelectatic.  There is no evidence of left pleural effusion.  Right pleural
+     effusion is suspected, however.
+     
+     IMPRESSION:
+     
+     1.  No change in position of the left chest tube or the left IJ line.
+     
+     2.  Right pleural effusion is probably smaller at this time than on the
+     previous study, which causes improved atelectasis of the right lower lobe.  No
+     evidence of left pleural effusion.
+     
+     3.  Small left pneumothorax.
+     
+     
+
+",,
+5006,1375,6209,0,3383-07-26 04:07:00 EST,3383-07-26 04:09:00 EST,4020,"N",54,"Nursing/Other","Shift NOte","
+Shift NOte
+Neurologically pt is confused and combative at times. Haldol given with little effect. Pt able to [**Doctor Last Name 65**] for brief intervals. Hemodynamically pt is in AF, diltiazem gtt continues. Lungs are diminished at the bases, CPT performed, encouraged to cough and deep breathe. U/O qs. See flowsheet for details.
+",,
+5006,1375,6209,0,3383-07-26 17:56:00 EST,3383-07-26 18:10:00 EST,3084,"N",54,"Nursing/Other","update","
+update
+D: pt cleared from confusion as day progressed, esp after visiting with wife. weaned o2 to 4l np with sat >95%, ct remain intact draining min serosang fluid. lasix cont with mod inc in u/o- following glu and tx accordingly. pt cont on toradol x 4 more doses.
+
+neuro: as day progressed pt oriented x 2, mae, following commands, occas ""talking rag time"" requiring re-orientation.
+
+cardiac: pt cont in afib- more controlled rate with po lopressor and po cardiazem- weaned iv cardiazem to off. sbp stable with sbp 110-128/50.
+
+resp: bs dim thru out, clear in upper lobes as day progressed, weaned o2 to 4l np with sat >95%, pt couging and raising clear to yellow secretions. spircare and cpt done.
+
+gi: pt tol po's in small amt- appetite fair, abd soft, none tender, bs present, bm today- guaiac neg- needs colace.
+
+gu: foley intact draining cl amber-yellow urine- lasix given with fair diuresis. plan is to cont, cvp 4-7 prior to d/c.
+
+inc : intact, ct drag changed, slight serous fluid from thoracic incision.
+
+glu: following glu with sliding scale 132 to 3420 tx accordingly.
+
+plan: cont po lopressor with iv lopressor as needed, cont po cardiazem- cont lasix as ordered and toradol for pain
+",,
+5006,1375,6209,0,3383-07-27 05:47:00 EST,3383-07-27 05:59:00 EST,4477,"N",54,"Nursing/Other",,"
+
+neuro: alert; awake; confused at times; medicated with benadryl to aid [**Doctor Last Name 65**]; medictaed with haldol for increased agitation with fair effect; confusion increased throughout shift; better now
+resp: coughing on own able to raise sputum on own; sats in low 90's on o2; ct dng minimal for shift; rr in 30's resting comfortably
+cardio: a-fib; medicated with lopressor iv for elevated hr; po dilt and lopressor given; b/p stable at this time
+gi: bsx4 moved bowelsx1 small; tol po liquids at this time; abd soft non tender
+gu: uo responds well to lasix; foley patent
+endo: bg covered per ss
+plan: cont plan of care; cont to monitor resp status
+",,
+5006,1375,6209,0,3383-07-27 17:18:00 EST,3383-07-27 17:33:00 EST,3118,"N",54,"Nursing/Other","ALTERED COMFORT","
+ALTERED COMFORT
+S: ""IT'S NIGHTIME""
+O: CARDIAC: AF WITH A VENTRICULAR RESPONSE AS HIGH AS 130 , RECIEVED 50 MG PO LOPRESSOR (INCREASED TO TID),5 MG IVP LOPRESSOR X 2, DILT Q6HOURS AND PRESENTLY BEING DIGITALIZED, RECIEVED .5 MG DIG @ 12PM AND .25MG @ 1800. HR 102 WITH ISOLATED PVC. RECIEVED 20 MEQ IV KCL THIS AM AND 1800 RECIEVED 40 MEQ PO KCL IN OJ WITH MUCH ENCOURAGEMENT. SBP 1100-120'S. TLC DC'D WHEN PERIPHERAL ACCESS OBTAINED. HCT 28.8. PALP PP FEET WARM TO TOUCH. INCISION WITH STERI STRIPS SMALL AMOUNT OF SEROSANG DRAINAGE. CT DSG WITH SMALL AMOUNT OF BLOODY DRAINAGE.
+   RESP: CPT TOLERATED POORLY C+R SMALL AMOUNTS OF THICK GREEN SPUTUM, BS DIMINISHED 1/2 UP BILATERALLY, RR AS HIGH AS 43 AT TIMES WIFE STATES HE TAKES 3 BREATHS TO HER EVERY ONE. O2 SAT >93% WITH O2 @ 4 L NP. CT TO WATER SEAL DRAINING MINIMAL SEROSANG DRAINAGE. 
+   NEURO: CONFUSED THIS AM- THOUGHT IT WAS NIGHTIME, CLEARED AND ORIENTED X3 AS DAY PROGRESSED. VISIT WITH WIFE. MAE, GRASPS STRONG AND EQUAL, PUPILS BRISK LEFT CATARACT, APPEARS ANXIOUS AT TIMES.
+   GI: GOOD APPETITE.
+   GU: RECIEVED LASIX WITH SOME DIURESIS
+   ENDO: SLIDING SCALE INSULIN X2
+   PAIN: TORADOL WITH GOOD EFFECT
+   SOCIAL: VISIT WITH WIFE MADE HIM SMILE. WIFE UPDATED. VERY STRESSFUL TIME PRESENTLY THEY ARE IN THE PROCESS OF MOVING. ? REHAB FOR HUSBAND, [**Doctor First Name **] THE CASE MANAGER TO SPEAK WITH WIFE ON NEXT VISIT.
+   THYROID: WIFE STATES PT ON THYROID MED, LEVELS TO BE DRAWN AND MED TO BE STARTED. 
+A: CONTINUES IN AF VENTRICULAR RESPONSE SLOWING, THYROID MEDS TO BE STARTED AFTER LEVELS DRAWN, ^RR, 
+P: MONITOR COMFORT, HR AND RYTHYM- BEING DIGITALIZED, SBP, SKIN, RESP STATUS-PULM TOILET, NEURO STATUS-REORIENTE PRN, LABS, I+O, CASE MANAGER TO SPEAK WITH WIFE. AS PER ORDERS.    
+",,
+5006,1375,6209,,3383-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3383-7-28**] 8:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7512**]
+     Reason: eval for effusion, rll expansion.                           
+     Admitting Diagnosis: SHOTRNESS OF BREATH/PLERAL EFFISION\PLEUROSCOPY/PLEURODESIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              81 year old man with recurrent left pleural effusion s/p left   
+      thoracoscopy     and drainage decortication.
+     REASON FOR THIS EXAMINATION:
+      eval for effusion, rll expansion.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3383-7-28**]:
+     
+     CLINICAL INDICATION:  Status post drainage of pleural effusion and
+     decortication procedure.
+     
+     Comparison is made to previous study of [**3383-7-26**].
+     
+     Two chest tubes remain in place in the left hemithorax.  There has been
+     interval removal of a left internal jugular vascular catheter.  There is no
+     evidence of pneumothorax.  A moderate-sized left pleural effusion is again
+     demonstrated with associated circumferential smoothly marginated pleural
+     opacity peripherally which may represent loculated fluid or pleural
+     thickening.  Bilateral lower lobe opacities predominantly in the retrocardiac
+     region are again demonstrated with very slight improved aeration at the left
+     lung base.  A right pleural effusion is unchanged.
+     
+     IMPRESSION:  Stable appearance of bilateral pleural effusions with no evidence
+     of pneumothorax.
+
+",,
+5006,1375,6209,0,3383-07-28 02:44:00 EST,3383-07-28 02:52:00 EST,4158,"N",54,"Nursing/Other",,"
+
+Pt was pleasant and cooperative. A+Ox2. Follows commands. Medicated w/ 2mg iv haldol. VSS. Had several multi beat run vt. Gave Mgso4 iv 2g. Pt also recieves Lopressor, Dig, and diltiazem atc. Lungs are clear w/ diminished bases. Spo2 > 95% on 4l np. Pt coughed up a thick tan mucous. Denied pain. Good uop. PLAN: Transfer to [**Wardname 227**] in am.
+",,

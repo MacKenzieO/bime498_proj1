@@ -1,0 +1,891 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3074-10-9**]     Discharge Date:  [**3074-10-16**]
+
+Date of Birth:   [**3036-1-14**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 38-year-old
+gentleman, who was positive for EtOH, fell, and had a
+witnessed seizure.  He was taken to an outside hospital, was
+intubated, and head CT at the outside hospital revealed a
+right sided bilateral frontal contusions and interparenchymal
+hemorrhage.  The patient was transferred to the [**Hospital1 74**] for further management.
+
+He was admitted to the Trauma ICU.  He was agitated and
+confused.  On post hospital day #2, he went into DTs.  Was
+medicated with large amounts of Ativan and Haldol.  He was
+moving all extremities, but not following commands at that
+point.
+
+On post hospital day #3, he was opening his eyes to voice,
+was oriented to hospital.  EOMs were full.  Face is
+symmetric.  He was following commands.  His IPs were full.
+He had full strength in all of his extremities.  He continued
+to be monitored for DTs and was being weaned from his large
+doses of Ativan and Haldol.  Had a repeat head CT on hospital
+day #2, which was stable with bilateral frontal contusions.
+He was in a hard collar for suspected cervical spine injury,
+however, was not awake enough to clear clinically.  AP and
+lateral films showed no evidence of fractures.
+
+Transferred to the regular floor on [**3074-10-14**] with sitter.
+He was cleared clinically from his hard collar on [**3074-10-16**].
+He was seen by Physical Therapy and Occupational Therapy and
+found to be safe for discharge home.  He will need to
+followup with Dr. [**Last Name (STitle) 5709**] in one month with a repeat
+head CT.  He had no complaints of headache or pain prior to
+discharge.
+
+MEDICATIONS AT TIME OF DISCHARGE:
+1. Dilantin 100 mg p.o. t.i.d.
+2. Metoprolol 50 p.o. b.i.d.
+3. Percocet 1-2 tablets p.o. q.4h. prn for pain.
+
+CONDITION ON DISCHARGE:  Patient's condition was stable at
+the time of discharge.
+
+
+
+                 [**Name6 (MD) **] [**Name8 (MD) **], M.D. [**MD Number 3459**]
+ 
+Dictated By:[**Last Name (NamePattern1) 285**]
+
+MEDQUIST36
+
+D:  [**3074-10-16**]  11:04
+T:  [**3074-10-19**]  06:01
+JOB#:  [**Job Number 6293**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: WED [**3074-10-21**] 11:31 AM
+(End of Report)
+
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:56 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10468**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: trauma
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the abdomen and pelvic performed following IV
+     administration of 150 cc of Optiray. Nonionic contrast due to patient's
+     debility. No comparison studies are available.
+     
+     CT ABDOMEN WITH CONTRAST: There is a minimal amount of atelectasis or
+     consolidation at both lung bases. There is evidence of diffuse low attenuation
+     of the liver consistent with fatty infiltration. The liver is otherwise normal
+     in contour with no evidence of hepatic mass or biliary ductal dilatation. The
+     gallbladder, spleen, adrenal glands, and kidneys are normal in appearance.
+     There are multiple small periportal and peripancreatic lymph nodes none of
+     which pathologic size by CT criteria. Some of these nodes are densely
+     calcified in the peripancreatic region and periportal region.  There is no
+     free air or free fluid within the abdomen or pelvis. There is no abnormal
+     dilatation or wall thickening within large and small bowel.
+     
+     CT PELVIS WITH CONTRAST: The distal ureters are normal in caliber. The urinary
+     bladder, prostate, and rectum are normal in appearance.
+     
+     BONE WINDOWS: There are fractures of the 10th through 12th ribs on the left of
+     indeterminate age. There is no evidence of significant hematoma surrounding
+     these rib fractures.
+     
+     IMPRESSION:
+     
+     1) Uncomplicated rib fractures of indeterminate age from the level of T10
+     through 12 on the left.
+     2) Nonspecific calcified small peripancreatic and periportal lymph nodes.
+     3) Fatty liver.
+     4) No other acute traumatic abnormality identified.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:56 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10468**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: trauma
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the abdomen and pelvic performed following IV
+     administration of 150 cc of Optiray. Nonionic contrast due to patient's
+     debility. No comparison studies are available.
+     
+     CT ABDOMEN WITH CONTRAST: There is a minimal amount of atelectasis or
+     consolidation at both lung bases. There is evidence of diffuse low attenuation
+     of the liver consistent with fatty infiltration. The liver is otherwise normal
+     in contour with no evidence of hepatic mass or biliary ductal dilatation. The
+     gallbladder, spleen, adrenal glands, and kidneys are normal in appearance.
+     There are multiple small periportal and peripancreatic lymph nodes none of
+     which pathologic size by CT criteria. Some of these nodes are densely
+     calcified in the peripancreatic region and periportal region.  There is no
+     free air or free fluid within the abdomen or pelvis. There is no abnormal
+     dilatation or wall thickening within large and small bowel.
+     
+     CT PELVIS WITH CONTRAST: The distal ureters are normal in caliber. The urinary
+     bladder, prostate, and rectum are normal in appearance.
+     
+     BONE WINDOWS: There are fractures of the 10th through 12th ribs on the left of
+     indeterminate age. There is no evidence of significant hematoma surrounding
+     these rib fractures.
+     
+     IMPRESSION:
+     
+     1) Uncomplicated rib fractures of indeterminate age from the level of T10
+     through 12 on the left.
+     2) Nonspecific calcified small peripancreatic and periportal lymph nodes.
+     3) Fatty liver.
+     4) No other acute traumatic abnormality identified.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:56 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10468**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: trauma
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the abdomen and pelvic performed following IV
+     administration of 150 cc of Optiray. Nonionic contrast due to patient's
+     debility. No comparison studies are available.
+     
+     CT ABDOMEN WITH CONTRAST: There is a minimal amount of atelectasis or
+     consolidation at both lung bases. There is evidence of diffuse low attenuation
+     of the liver consistent with fatty infiltration. The liver is otherwise normal
+     in contour with no evidence of hepatic mass or biliary ductal dilatation. The
+     gallbladder, spleen, adrenal glands, and kidneys are normal in appearance.
+     There are multiple small periportal and peripancreatic lymph nodes none of
+     which pathologic size by CT criteria. Some of these nodes are densely
+     calcified in the peripancreatic region and periportal region.  There is no
+     free air or free fluid within the abdomen or pelvis. There is no abnormal
+     dilatation or wall thickening within large and small bowel.
+     
+     CT PELVIS WITH CONTRAST: The distal ureters are normal in caliber. The urinary
+     bladder, prostate, and rectum are normal in appearance.
+     
+     BONE WINDOWS: There are fractures of the 10th through 12th ribs on the left of
+     indeterminate age. There is no evidence of significant hematoma surrounding
+     these rib fractures.
+     
+     IMPRESSION:
+     
+     1) Uncomplicated rib fractures of indeterminate age from the level of T10
+     through 12 on the left.
+     2) Nonspecific calcified small peripancreatic and periportal lymph nodes.
+     3) Fatty liver.
+     4) No other acute traumatic abnormality identified.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 11:36 AM
+     PELVIS (AP ONLY) PORT                                           Clip # [**Clip Number (Radiology) 10472**]
+     Reason: r/o fx                                                      
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Trauma. Pain.
+     
+     Single AP bedside radiograph of the pelvis shows residual contrast medium in
+     the bladder with a Foley catheter in place. No fractures identified. Hips and
+     SI joints normal. No evidence of ascites.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 11:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10471**]
+     Reason: r/o fx                                                      
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with head bleed s/p fall                                        
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post fall. Evaluate for fracture.
+     
+     Allowing for portable semierect technique, heart size is upper limits of
+     normal. There is slight LV configuration of the heart and note is made of mild
+     tortuosity of the thoracic aorta. The lungs demonstrate a focal linear opacity
+     at the left base but are otherwise clear. No pleural effusion or pneumothorax
+     is evident. Although no acute displaced rib fracture is identified, note is
+     made of exclusion of the extreme lateral right rib cage from the radiograph,
+     limiting assessment of this region. Incidental note is made of a healed
+     fracture of the distal right clavicle.
+     
+     Finally, note is made of a nasogastric tube, terminating in the stomach.
+     
+     IMPRESSION:
+     1. No evidence of acute fracture or pneumothorax. However, the lateral right
+     rib cage is not completely imaged on this exam and additional image to include
+     this region would be helpful if there is clinical suspicion for injury in this
+     area.
+     2. Minimal linear left lower lobe opacity which may relate to focal
+     atelectasis or scarring.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 6:47 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 10470**]
+     Reason: trauma
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     THORACIC SPINE, AP AND LATERAL:  The vertebral bodies are preserved with no
+     acute fractures or dislocations identified. Alignment is normal.  There is
+     evidence of an old healed fracture of the left 10th rib.  An ET tube is in
+     place and there is an NG tube.
+     
+     LUMBAR SPINE, AP AND LATERAL:  No acute fractures or dislocations.  Vertebral
+     bodies are preserved, as are the disc space heights.  Contrast is noted within
+     the bilateral collecting systems and urinary bladder, status post recent CT.
+     
+     IMPRESSION:  No evidence of acute fracture.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 6:47 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 10470**]
+     Reason: trauma
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     THORACIC SPINE, AP AND LATERAL:  The vertebral bodies are preserved with no
+     acute fractures or dislocations identified. Alignment is normal.  There is
+     evidence of an old healed fracture of the left 10th rib.  An ET tube is in
+     place and there is an NG tube.
+     
+     LUMBAR SPINE, AP AND LATERAL:  No acute fractures or dislocations.  Vertebral
+     bodies are preserved, as are the disc space heights.  Contrast is noted within
+     the bilateral collecting systems and urinary bladder, status post recent CT.
+     
+     IMPRESSION:  No evidence of acute fracture.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 6:01 AM
+     PELVIS (AP ONLY) PORT                                           Clip # [**Clip Number (Radiology) 10469**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PELVIS.
+     
+     INDICATION: Trauma.
+     
+     FINDINGS: The superior most portion of the pelvis is excluded from this
+     examination. Within the visualized portion of the pelvis, there is no evidence
+     of fracture or dislocation. There is no evidence of bone destruction or bone
+     erosion. There are no suspicious soft tissue calcifications or radiopaque
+     foreign bodies.
+     
+     IMPRESSION: No evidence of fracture or dislocation within the visualized
+     portion of the pelvis. A repeat view which includes the superior aspect of the
+     pelvis and lower lumbar spine could be performed if clinically warranted.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:55 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 10467**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EKEK FRI [**3074-10-9**] 7:54 AM
+      no fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CERVICAL SPINE
+     
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the cervical spine without IV contrast.
+     Additional reformatted imaging in the coronal and sagittal planes also
+     obtained.
+     
+     FINDINGS:  There is no evidence of fracture or subluxation.  The vertebral
+     bodies are normal in height and alignment. The intervertebral disk spaces are
+     preserved.  There is no evidence of abnormal prevertebral soft tissue
+     swelling.  There is no evidence of bone destruction or bone erosion.  The
+     visualized portions of the lung apices are clear.
+     
+     REFORMATTED IMAGING: Images reformatted in the coronal and sagittal planes
+     demonstrate vertebral bodies of normal height and alignment with no evidence
+     of fracture or subluxation.
+     
+     IMPRESSION: No evidence of fracture or subluxation.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:55 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 10467**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EKEK FRI [**3074-10-9**] 7:54 AM
+      no fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CERVICAL SPINE
+     
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the cervical spine without IV contrast.
+     Additional reformatted imaging in the coronal and sagittal planes also
+     obtained.
+     
+     FINDINGS:  There is no evidence of fracture or subluxation.  The vertebral
+     bodies are normal in height and alignment. The intervertebral disk spaces are
+     preserved.  There is no evidence of abnormal prevertebral soft tissue
+     swelling.  There is no evidence of bone destruction or bone erosion.  The
+     visualized portions of the lung apices are clear.
+     
+     REFORMATTED IMAGING: Images reformatted in the coronal and sagittal planes
+     demonstrate vertebral bodies of normal height and alignment with no evidence
+     of fracture or subluxation.
+     
+     IMPRESSION: No evidence of fracture or subluxation.
+
+",,
+5354,3089,,,3074-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-9**] 5:55 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10466**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EKEK FRI [**3074-10-9**] 7:42 AM
+      bifrontal and bitemporal bleeds
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     CT HEAD WITHOUT CONTRAST
+     
+     INDICATION: Trauma.
+     
+     TECHNIQUE: Axial CT imaging of the brain performed without contrast.  There
+     are no studies available for comparison on PACS.
+     
+     FINDINGS: There are intraparenchymal hematomas within both anterior frontal
+     lobes (right greater than left) as well as within the anterior inferior
+     aspects of both temporal lobes.  There is also scattered subarachnoid
+     hemorrhage.
+     
+     There is no evidence of significant shift of normally midline structures. The
+     ventricles and sulci are normal in size and symmetrical. There is no evidence
+     of uncal herniation.  The differentiation of the [**Doctor Last Name 20**] and white matter is
+     preserved.  There is no evidence of infarction.
+     
+     Bone windows demonstrate a sagittally oriented linear frontal bone fracutre.
+     There is hemorrhage underlying this fracture, some of which may be epidural.
+     
+     There is mucosal thickening within the frontal sinuses, the ethmoid air cells,
+     as well as the maxillary sinuses.
+     
+     IMPRESSION: Bilateral frontal and temporal lobe hemorrhagic contusions with
+     scattered subarachnoid hemorrhage.
+     
+     Sagittally oriented frontal bone fracture with possible small epidural
+     hematoma. These findings were reported immediately to the trauma service
+     responsible for this patient's care.
+     
+
+",,
+5354,3089,6647,0,3074-10-09 07:02:00 EST,3074-10-09 07:13:00 EST,3274,"N",53,"Nursing/Other",,"
+
+nsg note: this nurse spoke to pts sister on the telephone (sister called ) 
+she stated that he lives with their mother, is not maried and that he has a history of alcchol abuse. he drinks qd. he is otherwise healthy as far as his family knows with no known allergies(to  them)
+a year and a half ago he was hospitalized with a broken ankle and went into dt's and was on ativan. she left teephone #s for her and her mother
+mother: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 8464**] [**Telephone/Fax (1) 8465**]
+sister; [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 8466**] [**Telephone/Fax (1) 8467**] work # [**Telephone/Fax (1) 8468**] will bring her mother to the hospital today early afternoon.
+",,
+5354,3089,6647,0,3074-10-09 07:13:00 EST,3074-10-09 07:14:00 EST,3274,"N",53,"Nursing/Other","Addendum","
+Addendum
+Above note written by [**First Name8 (NamePattern2) 4621**] [**Last Name (NamePattern1) 949**].  Saved by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8469**].
+",,
+5354,3089,6647,0,3074-10-09 10:24:00 EST,3074-10-09 10:26:00 EST,3944,"N",53,"Nursing/Other","resp care","
+resp care
+pt. extubated on to a 35% cool aerosol mask. Audible leak prior to extubation. Currently 99%, sleeping comfortably in NARD.
+",,
+5354,3089,6647,0,3074-10-09 13:45:00 EST,3074-10-09 13:52:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW met with pts mother, sister and brother at bedside for support.  Family reports that pt has been called ""Happy"" all his life and it is the only name he responds to.  Sister reports that pt has a significant history of alcohol abuse, and is in ""complete denial"" that he has a dependence on alcohol.  [**Last Name (un) **] reports that pt is verbally and emotionally abusive towards his mother.  
+
+Pt is one of seven children and lives currently with his mother.  Pt works as the Department of Cemetaries in [**Hospital1 230**].  Sister reports that pts work mandated him to attend AA meetings for one year.  Pt did attend three times per week but did so under the influence of alcohol.  Pt detoxed while in the hospital for a broken ankle, but was unable to maintain any period of sobriety.
+
+Pts [**Last Name (un) **] and sister expressed significant anger regarding pts alcohol dependence, while mother expressed sadness and frustration over recent events.  SW offered ongoing support and psychoed around alcohol dependence and recommended AlAnon for support.  SW will follow.  Pls pg prn.
+",,
+5354,3089,6647,0,3074-10-09 18:05:00 EST,3074-10-09 18:30:00 EST,3274,"N",53,"Nursing/Other","Nursing Admission Note","
+Nursing Admission Note
+Pt is a 38 yo male who was transferred from OSH intubated s/p fall with ETOH. (+) Grand mal seizures X3.  Dilantin load administered.   OSH CT revealed bifrontal intraparenchymal bleeds.  Pt transferred to [**Hospital1 2**].  Repeat Head CT showed slightly larger bleed, frontal bone fracture w/ small epidural hematoma.  TLS (-), Abdominal CT (-), Pelvic Ct (-), but needed to be repeated to visulaize iliac crest.  Cercical CT pending.  Pt arrived to the T/SICU intubated.  Agitated. MAEs.  Followed commands.  Propofol drip titrated to effect w/ boluses of ativan as well. NGT to LCS, foley to gravity.  
+
+PMH:  Unknown
+
+Medications:  Unknown
+
+Social: ETOH abuse->has been in rehab previously.  (+) cocaine.  Lives w/ mother.  
+
+Review of Systems
+Neuro:  Propfol was turned off.  Pt follows commands inconsistently. (+) cough/corneal/gag reflex. Oriented to person.  Speach is slurred.  Difficult to understand.  Therefore unable to assess orientation further.  Becoming increasingly restless.  Ativan ATC given. MAes w/ normal strength bilaterally. Cervical collar changed to [**Location (un) 82**] J collar. Dilantin given as ordered.  No seizure activity observed. Wrist restraints on.
+
+Resp: Extubated once propofol off. Breathing has been unlabored.  Sao2 on 2L NC=98%.  Post extubation ABG=7.47/34/98 and 25/+1.  RR has been in the teens to 29.
+
+CV:  Sinus tachycardia. No ectopy.  K+, magnesium and calcium being repleted as needed.  BP has been stable. Transiently up to 150s/ but comes down w/o intervention.  DP/PT pulses palpable bilaterally.
+
+GI:  NGT to LCS drainng bilious fluid.  Abdomen is soft/ nondistended.  (+) bowel sounds.  NS w/ MVI/thiamine/folate infusing at 100cc/hr.
+
+GU:  Foley to gravity.  Urine is clear yellow.
+
+ID:  Low grade temp:  WBC=11.0 from 11.3.
+
+Heme:  HCT=37 from 39.  INR=.9.
+
+Skin: Small red/purple dots noted on BLEs. Skin otherwise intact.
+
+Social: Mother, brother and sister in today and spoke w/ MD and social  worker.  Please see her note.
+
+A: 38yo s/p fall and bifrontal bleed.
+
+P: Neuro checks q 2hrs, ativan ATC for ETOH withdrawal, replete electrolytes, Monitor hemodynamics as ordered.
+
+
+",,
+5354,3089,6647,,3074-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-10**] 12:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10473**]
+     Reason: f/u frontal, temp contusions                                
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  Again noted is a possible epidural hemorrhage along the known
+     frontal fracture.  MRI is recommended for better appreciation of the
+     hemorrhage noted along the convexity.
+     
+
+
+     DATE: [**3074-10-10**] 12:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10473**]
+     Reason: f/u frontal, temp contusions                                
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       38 year old man with s/p fall                                                  
+     REASON FOR THIS EXAMINATION:
+      f/u frontal, temp contusions                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  s/p fall, f/u frontal and temporal lobe contusions.
+     
+     Non-contrast head ct is performed and compared to yesterday's study.
+     
+     CT HEAD W/O CONTRAST: Again seen, are intraparenchyma hematomas within both
+     anterior frontal lobes and inferior temporal lobes, within both the anterior
+     and middle cranial fossas.  Scattered areas  of subarachnoid hemorrhage are
+     less discrete today.  There remains preservation of [**Doctor Last Name 20**]/white matter
+     differentiation.  There is minimal leftward shift of the subfalcine
+     herniation. There is mild compression of the anterior [**Doctor Last Name 116**] of the right
+     ventricle, unchanged and effacement of the sulci of the right frontal lobe,
+     also unchanged.  There is no  other evidence of other herniation.  Examination
+     of osseous structures again shows a sagittally-oriented fracture of the
+     frontal bone, extending from the junction of the coronal and sagittal sutures.
+     There is a new fluid level within the right maxillary sinus which raises the
+     possibility of occult facial fracture.
+     
+     IMPRESSION: No  significant interval change in bilateral frontal and temporal
+     lobe parenchymal hemorrhages with slight decrease in conspicuity of
+     subarachnoid hemorrhage.  There is new air fluid level of the right maxillary
+     sinus as described above.
+     
+     
+     
+
+",,
+5354,3089,6647,0,3074-10-10 04:45:00 EST,3074-10-10 05:13:00 EST,3949,"N",53,"Nursing/Other",,"
+
+T/SICU NPN 1900-0700:
+
+REVIEW OF SYSTEMS:
+
+NEURO: PT W/ETOH W/D ISSUES: AGITATED/RESTLESS THROUGHOUT NOC: SLEPT IN BRIEF NAPS APPROX 15MINUTES AT A TIME - OFTEN AWAKE AND TRYING TO GET OOB, TRYING TO PULL OFF C-COLLAR, AND PULL OUT/OFF IV AND MONITORING LINES. CIWA SCALE 13-19 - GIVEN ATVIAN 2MG Q1HR PER CIWA SCALE. RESPONDS TO NAME, TRACKS TOWARD SPEAKER W/EYES AND OFTEN REPEATS A QUESTION INSTEAD OF ANSWERING IT. PERRLA 3MM/BSK, COUGH/GAG/CORNEALS INTACT. SPEECH GARBLED AT TIMES - CONFUSED, OCCASIONALLY THINKS HE'S EITHER HOME OR AT HOSOITAL IN [**Hospital1 **]. MAE'S EQUALLY - INCONSISTENTLY F/C'S. TLS CLEARED, C-SPINE PRECAUTIONS CONTINUE - C-COLLAR INTACT. DILANTIN LEVEL 6.7. MSO4 2MG X1 GIVEN.
+
+CV: HR SR/ST 90'S<->120'S, SBP 130-140'S. DENIES CARDIAC C/O'S. PULSES EASILY PALPABLE. PB'S ON FOR DVT PROPHYLAXIS. NO ECTOPY NOTED ON TELEMETRY. SKIN PINK/FLUSHED/[**Hospital1 **]/DRY. RECEIVING 25MG LOPRESSOR PER NGT BID.
+
+HEME: HCT 41, PLT 60(84): SICU HO AWARE, K+ HEMOLYZED-TUBE RESENT.
+
+RESP: LUNGS CLEAR, DIMINISHED AT BASES. STRONG COUGH EFFORT/OCCASIONALLY RAISES SECRETIONS BUT SWALLOWS THEM PRIOR TO EXPECTORATING. DENIES SOB/DOE - NO ABG DATA WHEREAS PT PULLED OUT A-LINE. RR20'S, O2 VIA NC 2L.
+
+GI: ABD SOFT/ROUND, NT/ND W/HYPOACTIVE BS, NO RF OR BM NOTED. NPO W/IVF HYDRATION-IVF DECREASED TO 40CC/HR FOR DAILY IL FUID RESTRICTION. ORDERED FOR PROTONIX R/T LOW PLT.COUNT. OGT TO LWCS-~500CC'S BILIOUS FLUID OUT X11HR'S->EFFLUENT PINK TOWARD END OF SHIFT, SICU HO AWARE.
+
+GU: FOLEY CATHETER PATENT - ADEQUATE HOURLY U/O->CLEAR/YELLOW.
+
+ENDO: GLUCOSE 145/136 - COVERED PER S/S.
+
+ID: TMAX 99.6 - NO ABX ORDERED AT THIS TIME.
+
+SOCIAL: NO FAMILY CONTACT OVER NOC.
+
+A/P: LOW PLT COUNT, ETOH W/D REQUIRING CIWA PROTOCOL-CONTINUALLY AGITATED. CONTINUE PER PLAN OF CARE - NEURO CHECKS AS ORDERED, C-COLLAR/C-SPINE PRECAUTIONS, 1 L FLUID RESTRICTION AS ORDERED. ATIVAN AS ORDERED/NEEDED TO MANAGE W/D SX'S. GLUCOSE MONITORING, PULMONARY HYGEINE, PAIN MGT. FULL SUPPORT. 
+",,
+5354,3089,6647,0,3074-10-10 16:56:00 EST,3074-10-10 17:08:00 EST,3180,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S/p fall:
+Repeat head CT this noon-time: preliminary report of slightly worsening head bleed. Neuro exam improved with patient more consistently following commands, speech getting clearer. OOB-Chair w/ two person assist. PEERL. Strong non-productive cough. Continues on po phenytoin as ordered; one time 500 mg bolus given po. No seizure activity noted. NA 136 at noon. Maintaining strict intake of NS at 40 cc/hr. Remains C-spine immoblized in [**Location (un) 82**]-J collar.
+
+CV: hemodynamically stable. Tmax 101 po. HR 90-100's ST. 
+
+Resp: 2 L NC maintains Spo2 > 95%. Desats to 88% without NC. 
+
+GI: NGT removed by trauma team this morning. Abd softly distened. Tolerating clear liqs. Able to take in meds po.
+
+GU: via foley, dark amber urine. Output marginal.
+
+Endo: FS 140-150's treated w/ SS as ordered.
+
+Heme: platelet count 60 this AM, repeated at 46. Transfused w/ 1-six pack platelets. Repeat count 106. NO HEPARIN in LINES. Heparing antibody specimen sent. Pneumoboots for DVT prophylaxis.
+
+Withdrawal: receiving IV antivan 1-2 mg IV q 2hrs. Started on Haldol 2.5 mg IV q 4 hrs prn. Agitation lessened thoroughout the day. Pt more cooperative. 
+
+A: neurologically stable
+P: continue to monitor neuro status closely. DT prophylaxis. Advance diest as pt tolerates. As per NCP.
+
+
+",,
+5354,3089,6647,0,3074-10-11 03:45:00 EST,3074-10-11 04:06:00 EST,3949,"N",53,"Nursing/Other",,"
+
+T/SICU NPN:  **** TRANSFER NOTE  ****
+
+NEURO: PT CONTINUES TO IMPROVE W/NEURO EXAMS: MAE'S EQUALLY, F/C'S )LABILE), PERRLA 4MM/BSK. SPEECH CLEAR, SJORT ANSWERS TO QUESTIONS, A&O X1-2: KNOWS HIS NAME/WHERE HE'S FROM/NMAE OF FAMILY/OCCUPATION - CONFUSED TO DAY/DATE, RECENT EVENTS - STATES THAT HE'S EITHER IN ""[**Hospital **] HOSPITAL"" OR ""HOME"". COUGH/GAG/CORNEALS INTACT. RECEIVING DILATIN (PO) TID. C-COLLAR INTACT-C-SPINE PRECAUTIONS CONTINUE. QTC 0.40. MSO2 2MG 1X - RESTING COMFORTABLY.
+
+CV: STABLE HR 90'S/SR, SBP 140-160'S, LOPRESSOR DOSE INCREASED TO 50MG BID. DENIES CARDIAC C/O'S OR CALF PAIN. PB'S ON FOR DVT PROPHYLAXIS.
+
+HEME: PLTS 84 - HO AWARE - LABS WORK RESENT @0400->PENDING. NO HEPARIN IN FLUSH PACK, AND PROTONIX FOR GI PROPHYLAXIS R/T TO LOW PLT COUNT.
+
+ RESP: LUNGS CLEAR/DIMINISHED AT BASES - DENIES SOB, RR <20, SATS 93%RA ASLEEP - >96% WHILE AWAKE - DOES NOT TOLERATE HAVING O2 VIA NC ON. STRONG COUGH EFFORT.
+
+GI: ABD SOFT, HYPOACTIVE BS, DENIES N/V. DOES WELL W/PO HYDRATION AND SOFT FOODS - ABLE TO TAKE MEDS PO W/ENCOURAGEMENT->TOLERATING.
+
+GU: FOLEY CATHETER PATENT - U/O AMBER/CONCENTRATED/SEDIMENT NOTED AT 0400 - MG+ AND K+ REPLETED.
+
+ENDO: GLUCOSE LEVELS <100 - NO SSRI COVERAGE REQUIRED.
+
+ID: TMAX 100.2 - NOT ORDERED FOR ABX AT THIS TIME.
+
+SKIN: SM AREA OF BREAKDOWN NOTED BEHIND C-COLLAR - CLEANSED W/NS AND DUODERM APPLIED - SKIN OTHERWISE WNL/INTACT.
+
+SOCIAL: NO FAMILY CONTACT OVER NOC - REFER TO DETAILED SW NOTES FROM [**10-9**] FOR SOCIAL/FAMILY HX.
+
+WITHDRAWAL: REQUIRING SIGNIFICANTLY LESS ATIVAN THAN PREVIOUS NOC - ALSO RECEIVING PRN HALDOL FOR AGITATION. PT W/LABILE RESTLESSNESS, SWEATS, AND PURITIS. REFER TO MAR FOR FURTHER DETAIL.
+
+A/P: NEURO EXAM IMPROVED/AGITATION LESSENED - REQUIRED LESS HALDOL/ATIVAN FOR AGITATION MGT. PLT'S TRENDING LOW, TOLERATING DIET ADV. TEAM TO ORDERED ADDITIONAL PLTS TO BE GIVEN, MONITOR NEURO STATUS Q2HR, WITHDRAWAL MONITORING. DIET/ACTIVITY AS ORDERED. C-SPINE PRECAUTION. MONITOR SYSTEMS/LABS FOR CHANGES. FULL SUPPORT/COMFORT/ASSIST W/ADL'S.
+",,
+5354,3089,6647,0,3074-10-11 04:09:00 EST,3074-10-11 04:10:00 EST,3949,"N",53,"Nursing/Other",,"
+
+NPN ADDENDUM: PT IS ORDERED FOR 1L/DAY FLUID RESTRICTION.
+",,
+5354,3089,6647,0,3074-10-11 05:54:00 EST,3074-10-11 05:58:00 EST,1628,"N",69,"Nursing/Other",,"
+
+0600
+MICU 
+RECIEVED THIS 38 YR OLD MALE FROM THE TRAUMA SICU  SERVICE S/P ETOH INTOX WITH FALL TO CONCRETE ...SUFFERING BIFRONTAL  BLD 
+OPENING EYES TO NAME ..FOLLOWING COMMANDS ..FIGHTING  RESTRAINTS ..GIVEN 5 MG OF IV HALDOL AND 2 MG OF IV ATIVAN FOR 2ND IV INSERTION 
+IVF AT 40 CC/HR  ..ONE LITER FLD RESTRICTION 
+FOLEY IN PLACE 
+CERV COLLAR IN PLACE 
+A HEMODYN STABLE 
+P MONITOR  NEURO STATUS ..ATIVAN/MSO4 FOR AGITATION 
+",,
+5354,3089,6647,0,3074-10-11 14:35:00 EST,3074-10-11 15:00:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 7AM-7PM:","
+MICU NPN 7AM-7PM:
+Neuro: Pt is confused and agitated on/off. c-collar in place. Getting ativan 2mg as well as haldol 2.5mg IV Q4hrs. Pt able to state his name but is not oriented to place and time most of the time. MAE, follows commands inconsistently. PEARL 4mm bilat. Family came in to visit and state that he has had severe alcohol withdrawal/DT's in past and usually gets worse 3-4 days after his last drink. (Pt admitted [**10-9**]) I had to apply posey waist belt to keep him safe after finding him attempting to get OOB even with wrist restaints in place. While he was up to chair he was very unsafe. He was found OOB across the room once before the waist posey was applied and then after this he was found biting his IV tubing which he had bit through and through. I put him back to bed at that time. Posey and wrist restraints are in place. Will monitor closely for the need for a sitter to maintain safety but he seems safe at this point with close observation.
+
+CV:  BP 130-160. He will get labetolol drip restarted for BP>150. He is on PO lopressor BID. HR 80's-90's. NSR.
+
+Resp: Pt on RA with good sat. Productive cough for thick green sputum. RR 16-24.
+
+GI: Taking small amts PO's with assistance. Takes pills when awake, sitting bolt upright in bed. Abdomen soft, round +BS.
+
+GU: Urine is bloody at times due to agitation, pulling at foley. Otherwise urine is clear yellow. Order was written for foley to be taken out but after discussing this with team they said we could wait until he is more with it to use urinal. He currently could not coordinate himself enough to do this.
+
+ID: Pt with low grade temp 100-100.5 PO. ON no antibiotics.
+
+Heme: Neurosurg team wanted platelet count to be greater than 100 so pt given a bag of platelets today with post plt ct 108. Team aware.
+
+Plan: Follow neuro status Q2hrs- chack CIWA and use ativan PRN as well as haldol. Keep SBP<150. Titrate labetolol drip as needed to do this.
+Keep pt safe by close observation and possible 1:1 sitter needed. 
+",,
+5354,3089,6647,0,3074-10-11 17:12:00 EST,3074-10-11 17:21:00 EST,1640,"N",69,"Nursing/Other","MICU NPN Update:","
+MICU NPN Update:
+Pt is becoming increasingly agitated as the day goes on with BP up to 170's and HR up to 100 sinus tach.. He will need 1:1 sitter for safety. Team notified and still wants to use ativan 2mg IV q4hrs but increased the dose of haldol to 5mg IV Qhrs as needed. He is agitated and diaphoretic as well as temp up to 101.1. CIWA scale has been 14-16 and team notified. Pt remains on the labetolol drip which is at 1mg/min. Plan is for team to come to evaluate him for more ativan and they may give a dose of IV lopressor for the tachycardia/hypertension.
+",,
+5354,3089,6647,,3074-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-12**] 12:35 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10474**]
+     Reason: Please interval change in contusions and hemorrhages        
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        38 year old man with s/p fall                                                 
+       
+     REASON FOR THIS EXAMINATION:
+      Please interval change in contusions and hemorrhages                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post fall, multiple contusions and hemorrhages, assess
+     interval change.
+     
+     COMPARISON: [**3074-10-10**].
+     
+     TECHNIQUE: Contiguous axial images were obtained from the foramen magnum to
+     the cranial vertex.
+     
+     CONTRAST: None.
+     
+     HEAD CT WITHOUT INTRAVENOUS CONTRAST: Again seen are the intraparenchymal
+     hematomas within the inferior temporal lobes, left occipital lobe, anterior
+     frontal lobe, and these are unchanged from the previous exam. The ventricular
+     dimensions are unchanged. There is no evidence of midline shift or mass
+     effect.
+     
+     IMPRESSION: Unchanged appearance of multiple contusions as previously
+     described.
+
+",,
+5354,3089,6647,0,3074-10-12 03:53:00 EST,3074-10-12 04:25:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.  1:1 SITTER AT BEDSIDE.  
+
+THIS IS A 38 Y/O MALE THAT INITIALLY PRESENTED TO AN OSH AFTER SUFFERING FROM A FALL ON [**3074-10-9**].  IN THE ER HE WAS FOUND TO BE INTOXICATED AND COMBATIVE.  SEIZURE EPISODES X 3.  INTUBATED AND TAKEN TO CT WHICH WAS SIGNIFICANT FOR A RIGHT SIDE HEAD BLEED, BILATERAL CONTUSIONS, FRONTAL BONE FRACTURE.  CT OF SPINE/ABD NEGATIVE.  11TH AND 12TH RIB FRACTURES OF VARYING AGES.  EXTUBATED ON [**3074-10-10**].  TX TO MICU FOR OBSERVATION AND DILANTIN LOAD.
+
+NEURO:  NEURO CHECKS Q 2 HOURS.  AT RISK FOR DT'S AND WITHDRAWAL DUE TO SOCIAL BEHAVIOR CONSISTING OF POSITIVE COCAINE USE AND ETOH ABUSE REQUIRING REHAB IN THE PAST.  PT HAS HAD EPISODES OF AGITATION THAT HAS REQUIRED BILATERAL WRIST RESTRAINTS AND POSEY RESTRAINTS DUE TO BEING A HARM TO HIMSELF.  PULLED OUT TWO PIV'S WITH HIS MOUTH AND HAS ATTEMPTED TO PULL OUT FOLEY.  PT HAS BEEN ON CIWA SCALE AND THROUGH THE SHIFT HAS HAD FINE TREMORS, NO SEIZURE ACTIVITY, PROFUSE PERSPIRATIONS, HAS BEEN THREATENING ""I NEED A KNIFE TO CUT [**Doctor First Name **] UP"", HAS BEEN EXPERIENCING VISUAL DISTURBANCES ""ARE THOSE PEOPLE GOING TO STAY HERE- THOSES 20 PEOPLE IN THE CORNER OF THE ROOM?"", TACTILE DISTURBANCES ""THIS GOWN FEELS LIKES ANTS ARE CRAWLING ALL OVER ME"" DENIED HEADACHE, PAIN OR N/V.  HIS SYMPTOMS SUBSIDED WITH THE SCHEDULED ATIVAN Q 4 HOURS AND HALDOL Q 4 HOURS.  PT'S INITIAL LORAZEPAM ORDER WAS FOR 2MG BUT THIS WAS INCREASED FOR THERAPEUTIC EFFECT TO 4MG Q 4 HOURS WITH BETTER BUT SHORT LASTING RESULTS.  NEEDS TO BE KEPT ON THE Q 4 HOUR SCHEDULE FOR BENZO ADMINISTRATION ESPECIALLY AS NOTED- THIS PATIENT IS AT HIGH RISK FOR WITHDRAWAL.  MAE X 4- VERY STRONG- ATTEMPTS TO SIT BOLT UPRIGHT IN BED.  CONFUSED AT TIMES- SPEECH IS SLURRED AT TIMES- ORIENTED TO SELF, AWARE THAT HE IS IN A HOSPITAL BUT NOT ABLE TO STATE HE IS AT [**Hospital3 **].  AWARE OF THE MONTH, NEEDS REOIRENTATION TO DATE AND TIME.  PERRLA 4/BRISK.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  DENIES ANY CHEST PAIN.  STRONG PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  NSR-ST WITH NO SIGNS OF ECTOPY.  HR 90-100'S.  SBP GOAL IS TO MAINTAIN UNDER 150.  HAVE BEEN TITRATING LABETALOL DRIP WITH THERAPEUTIC EFFECT.  DUE TO FLUID RESTRICTIONS, PLEASE NOTE THAT THE DRIP HAS BEEN TRIPLE CONCENTRATED.  GOAL FOR PLATELETS IS TO BE ABOVE 100.  NO NEED FOR TRANSFUSION BASED ON AM VALUES.  NO SIGNS OF JVD NOTED.  4AM 1.8 MG LEVEL REPLETED WITH 2GMS AND 40MEQ OF PO K GIVEN FOR 4AM VALUE OF 3.4.
+LEFT RADIAL ALINE IS SECURED AND PATENT.  REZEROED AND RECALIBRATED DURING THE SHIFT.
+
+RR:  PT IS ON RA.  BBS=CTA, DIMINISHED BIBASILAR.  DENIES ANY SOB OR DIFFICULTY BREATHING.  RR 18-25, REGULAR AND UNLABORED.  BILATERAL CHEST EXPANSION NOTED.
+
+GI:  ABD IS SOFT, SLIGHTLY DISTENDED.  BS X 4 QUADRANTS.  PASSING FLATUS.  SMALL BROWN, LOOSE STOOL.  ABLE TO TOLERATE PO MEDS WITHOUT DIFFICULTY.  DENIES ANY N/V/D.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE 
+",,
+5354,3089,6647,0,3074-10-12 03:54:00 EST,3074-10-12 04:25:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+(Continued)
+AND PATENT.  ADEQUATE AMOUTNTS OF YELLOW, CLEAR URINE NOTED.   
+
+INTEG:  NO SIGNS OF BREAKDOWN TO BACK OR BUTTOCKS.  [**Location (un) **] J COLLAR IS SECURED.
+
+ACCESS:  INSERTION OF 18GPIV TO RIGHT UPPER BICEP.  PIV IS SECURE, PATENT AND FUNCTIONING PROPERLY.
+
+SOCIAL:  PT IS BEING FOLLOWED BY SOCIAL WORKER DUE TO HAVE SPOKEN WITH THE FAMILY.  IT HAS BEEN NOTED BUT SW THAT THE PT'S BROTHERS AND SISTERS HAVE EXPRESSED SIGNIFICANT ANGER REGARDING PT'S ALCOHOL DEPENDENCE AND THE MOTHER HAS EXPRESSED SADNESS.  PT HAS A HISTORY OF BEING EMOTIONALLY AND VERBALLY ABUSIVE TO FAMILY MEMBERS.  HE IS ONE OF SEVEN CHILDREN.  
+
+PLAN:  KEEP SBP LESS THAN 150.  MONITOR FOR WITHDRAWAL.  POSSIBLE TX TO MICU SERVICE DUE TO POSSIBLE WITHDRAWAL ISSUES.  FOLLOW PLATELETS.  TX IF BELOW 100.  CSPINE PRECAUTIONS AS PT WILL ALLOW.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].  
+",,
+5354,3089,6647,0,3074-10-12 16:44:00 EST,3074-10-12 17:22:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 0700-1900","
+MICU-B NPN 0700-1900
+NEURO - PT. ALERT; ORIENTED X PERSON AND OCCAS. PLACE; REORIENTS EASILY. CONT. TO FOLLOW CIWA; WITH NEW ORDERS TO ADMINISTER PRN ATIVAN 2MG Q1/HR FOR CIWA >10, FOR WHICH PT. HAS CONSISTENTLY REQUIRED. PT. REMAINS ON Q4HR DOSE ATIVAN AS WELL. THIS AM PT. VERY COOPERATIVE CIWA SCALE 9-11, NO PRN MEDS. REQUIRED. AT 1400 PT. BECAME RESTLESS; AGITATED; ATTEMPTING TO PULL OFF LINES; SITTING UPRIGHT, WHICH HE CONT. TO DO. PT. DIAPHORETIC, TREMOROUS, NO AUDITORY OR TACTILE HALLUCINATIONS NOTED. SPEECH SLURRED AT TIMES. DIARRHEA X1 THIS EVE. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 610**] CONSULTED THIS SHIFT; SHE RECOMMENDED HIGHER DOSE Q1/HR BENZOS. PER CIWA SCALE GUIDELINES. NO SITTER CAME TO SIT WITH PT TODAY; ONE ORDERED FOR THIS EVE.,MAY NOT BE AVAIL. UNTIL 1100 PM. PT. TO CT SCAN FOR HEAD CT THIS AFTERNOON @ 1230; RESULTS PENDING. C-COLLAR REMAINS IN PLACE WITH C-SPINE PRECAUTIONS AS PT. ALLOWS. PERRLA 3MM/3MM WITH BRISK RESPONSE. +MAE WITH GOOD STRENGTH NOTED TO ALL EXTREM. C/O MILD, DULL H/A LATE AFTERNOON; RESOLVING WITHOUT INTERVENTION AFTER A COUPLE HOURS. NO SEIZURE ACTIVITY NOTED THIS SHIFT. CONT. ON P.O. DILANTIN. POSEY REMAINS IN PLACE; WITH BILAT. WRIST RESTRAINTS FOR PT. SAFETY.
+
+C/V - HR 70'S-80'S, NSR WITH NO ECTOPY NOTED. PT. RECEIVED ON LABETOLOL GTT.; WEANED TO OFF THIS AFTERNOON @ 1400, WITH ABP REMAINING @ GOAL SBP <150. STARTED ON IV HYDRALAZINE Q6/HR 5MG. DOSE. CONT. ON METOPROLOL 50MG BID. ARTERIAL LINE DC'D THIS SHIFT PER TEAM ONCE LABETOLOL GTT. OFF; NIBP CORRELATING PRIOR TO DC. PERIPHERAL PULSES STRONG PALPABLE.
+
+RESP - O2SATS. 94-97% ON RA. LS CLEAR >DIMIN. BILAT. BASES. RR TEENS>20'S.
+
+GI/GU - PT. NPO. ABD. SOFT, NTND WITH +BS. X1 LOOSE BROWN STOOL THIS EVE.;HEME (-). INDWELLING FOLEY REMAINS IN PLACE; PATENT WITH GOOD AMTS. CLEAR, YELLOW URINE OUT THIS SHIFT.
+
+ID - AFEBRILE.
+
+ACCESS - RUA 18 GAUGE; PATENT, SITE WNL. 
+
+SOCIAL - PT. MOTHER AND FRIEND IN TO VISIT THIS SHIFT; PT. MOTHER UPDATED ON PT., STATUS AND CONT. PLAN OF CARE.
+",,
+5354,3089,6647,0,3074-10-13 04:22:00 EST,3074-10-13 04:34:00 EST,2789,"N",69,"Nursing/Other","MICU NPN 7p-7a","
+MICU NPN 7p-7a
+Neuro: Pt. remained confused throughout the night, unable to state where he is, thinks he is at home.  CIWA scale max was 20.  Pt. was sweating, had visible tremors, and was disoriented.  ? visual hallucinations-pt. will state he sees other people in the room who are not there.  No noted seizures.  Has been receiving ativan 2mg q 1-2 hours in addition to his standing order of 4mg q 4 hours.  By [**4-18**] am CIWA scale was down to 6.  Pt. had stopped sweating and had no visible tremors.
+CV: HR 90's, no ectopy.  SBP-140-150.  On hdyralazine.
+Resp: Breath sounds clear, 02 sats 95%.
+ID: Afebrile
+GI: Gag reflex intact.  Small BM
+GU: Foley intact although when pt. is agitated he tries to pull outthe foley.
+Assessment: pt. having some DT activity, somewhat controlled with frequent ativan doses.
+Plan: Monitor for changes in neuro status.  Support through DT's. 
+",,
+5354,3089,6647,0,3074-10-13 16:18:00 EST,3074-10-13 16:30:00 EST,2749,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU (Patient TSICU)","
+NPN 07:00-19:00 MICU (Patient TSICU)
+*Please refet to Carevue for additional patient information
+*Full Code
+
+ROS:
+Neuro: Continues to be disoriented, unable to state where he is, attempting to get oob x2 (w/ restraints in place). Sweating and c/o HA this afternoon, CIWA scale 16 at highest, requiring Ativan 2mg q 2hr. Also given Haldol PRN for agitation however not as effective as Ativan. MAE's, PERL 3mm brisk. Restaints on for pt safety.  
+
+CV: HR 80's NSR, no ectopy, BP 119/78-150/73 (getting Hydralazine 5mg q6hr). Afebrile. 
+
+Resp: RA O2 sat's high 90's, LS clear througout, no c/o sob, cough intact, gag intact. 
+
+GI/GU: Smear of bm this am and this afternoon, Hypoactive bs, taking pills crushed in custard w/out difficulty, is not alert enough to take full diet. U/O wnl, appears to be slightly concentrated, clear. *Pulls at foley. 
+
+Skin: Intact
+Social: Sister called this am, updated on pt's progress. 
+
+Plan: Continue to monitor MS, CIWA scale, team wanted pt to be c/o to floor today, however d/t pt's need for Ativan q2hr pt was not transferred out. 
+",,
+5354,3089,6647,0,3074-10-14 02:29:00 EST,3074-10-14 02:39:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. oriented to person, stated @ start of shift that he was in [**Location (un) 175**] but oriented to person only for rest of shift.  CIWA initially 5, then 13-15 later during shift.  Pt. found to be climbing OOB routinely throughout shift.  C-collar kept on.  Pt. received total of 17mg Ativan IV and 5mg IV Haldol.  MAE independently, PERRLA @ 2mm-3mm.  Likely go to CT today.
+
+CV:  HR 80's-100's NSR/ST w/o ectopy.  SBP 130's-140's, palpable peripherals.  Receives Hadralazine 5mg IV q6, Metoprolol 50mg po BID.  
+
+Resp:  Lungs clear all fields, O2Sats 95%-100% on RA.
+
+Heme/lytes/micro:  T-max this shift 99.6 po, FSBG qid.
+
+GI:  NPO except for meds crushed in soft food until cervical collar cleared.  No BM this shift.  +BS.
+
+GU:  Foley to gravity draining amber clear urine.
+
+Derm:  D&I.
+
+Social:  FULL CODE.  No family contact o/n.  Team anticipates transfer to floor today.
+",,
+5354,3089,,,3074-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-15**] 4:01 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10477**]
+     Reason: 38 yr old male s/p fall with seizure and etoh abuse now with
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      38 yr old male s/p fall with seizure and etoh abuse now with new fever spike  
+      please assess for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 38 y/o with new fever, possibility of pulmonary infiltration.
+     
+     FINDINGS: There are atherosclerotic changes involving the thoracic aorta and
+     left ventricular enlargement. The lung fields are clear. There is no evidence
+     of pleural effusion.
+     
+     IMPRESSION: Atherosclerotic aorta but no evidence of active disease in the
+     lungs.
+
+",,
+5354,3089,,,3074-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-10-15**] 4:01 PM
+     C-SPINE NON-TRAUMA [**2-16**] VIEWS                                    Clip # [**Clip Number (Radiology) 10475**]
+     Reason: 38 yr old male s/p fall with seizure please assess for ligam
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      38 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      38 yr old male s/p fall with seizure please assess for ligamentous injury with 
+      flexion and extension films please page beeper [**Pager number 10476**] to take collar off
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Post fall with seizure. Evaluate for ligamentous injury.
+     
+     Neutral, extension and flexion radiographs of cervical spine are submitted for
+     review. No AP view is detected.
+     
+     There is normal alignment from the occiput to the top of C6 in patient's range
+     of motion without spondylolisthesis. No fractures are detected on these
+     lateral radiographs.  Prevertebral soft tissues are within normal limits in
+     thickness.  Minimal anterior spurring is noted at the inferior C5 vertebra.
+     
+
+",,

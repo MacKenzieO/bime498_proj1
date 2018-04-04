@@ -1,0 +1,293 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5701,15638,,,3150-01-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3150-1-4**]     Discharge Date:  [**3150-1-9**]
+
+Date of Birth:   [**3066-2-20**]     Sex:  F
+
+Service:  [**Hospital1 720**]
+
+HISTORY OF PRESENT ILLNESS:  This is an 83 year old female
+with a past medical history of Parkinson's with dementia,
+stroke times two (1995 and 2003 complicated by left
+hemiparesis, slurred speech, and dysphagia), as well as
+hypertension, diabetes mellitus, glaucoma, spinal stenosis,
+GERD, depression who was admitted from [**Hospital3 1953**] with
+fever and dyspnea times two days.  Per the patient's
+daughter, patient had increased ""gurgling,"" increased
+hyperglycemia on finger stick blood glucoses, and anorexia
+secondary to increasing dysphagia.  Patient lacks cough
+reflex secondary to remote strokes and so did not have any
+productive cough, but was noted to have increasing secretions
+and confusion.  The patient was also noted to have ""foul
+smelling"" urine by nursing home workers.  Patient was also
+noted to have recent weight loss.  Prior to admission, the
+patient's finger stick glucoses were noted to be greater than
+500 and her temperature was measured at 101.6 on the evening
+prior to admission.  In the Emergency Room, the patient was
+noted to have a lactate of 6 and was sent to the Medical
+Intensive Care Unit via the sepsis protocol and received
+Vancomycin, Ceftriaxone, and Flagyl prior to transfer to the
+Medical Intensive Care Unit.
+
+PAST MEDICAL HISTORY:
+1.  Parkinson's with dementia.
+2.  Stroke times two 1995 and 2003, complicated by left
+hemiparesis, slurred speech, and dysphagia.
+3.  Hypertension.
+4.  Diabetes mellitus.
+5.  Glaucoma.
+6.  Spinal stenosis status post surgery.
+7.  Gastroesophageal reflux disease.
+8.  Depression.
+9.  History of falls.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Insulin NPH 8 units twice a day.
+2.  Aspirin 81 once daily.
+3.  Atorvastatin 10 once daily.
+4.  Lisinopril 15 once daily.
+5.  Clopidogrel 75 once daily.
+6.  Metoprolol 25 three times a day.
+7.  Methylphenidate 2.5 twice a day.
+8.  Mirtazapine 15 once daily.
+9.  Rimantadine 150 once daily.
+10. Regular insulin sliding scale.
+11. Senna two twice a day.
+12. Colace 100 twice a day.
+
+SOCIAL HISTORY:  Patient is a former smoker though quit in
+[**3115**], no alcohol, no illicit drug use.  Nursing home
+resident, wheelchair bound.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 104.2; blood
+pressure 157/56; pulse 106; respiratory rate 30; 95% on 2
+liters by nasal cannula.  General:  This is a cachectic
+elderly female in moderate distress.  Head, eyes, ears, nose
+and throat:  No sinus tenderness, mucous membranes dry,
+oropharynx without any lesions.  Neck:  Soft, supple, no
+lymphadenopathy, no jugular venous distention.
+Cardiovascular:  Tachycardic, normal rhythm with a grade [**1-20**]
+holosystolic murmur at the apex.  Pulmonary:  Shallow
+respirations with crackles on the left axillary line
+anteriorly.  Abdomen:  Soft, non-tender, non-distended,
+normal active bowel sounds, no rebound or guarding.  Back:
+No costovertebral angle tenderness.  Extremities:  1+ pulses,
+warm, no edema, no calf tenderness.  Neurological
+examination:  Patient was non-verbal, pin point pupils
+bilaterally, not following simple commands.
+
+LABS ON ADMISSION:  White blood count 30.3; hematocrit 43.7;
+platelets 391; sodium 153; potassium 6; chloride 114;
+bicarbonate 28; BUN 63; creatinine 1.5; glucose 411; lactate
+6.4; 89 neutrophils; 0 bands.  Urinalysis showed pH 5 with
+moderate leukocyte esterase, 250 glucose, [**5-25**] red cells,
+greater than 50 white cells, many bacteria.  Chest film
+showed full lung volumes, no ..........., pleural effusions
+or pneumothorax with a possible lingular infiltrate;
+electrocardiogram showed sinus tachycardia at 105 beats per
+minute with normal axis, normal intervals, borderline left
+ventricular hypertrophy by voltage, no ST or T-segment
+changes when compared with a prior electrocardiogram and no
+T-waves.
+
+HOSPITAL COURSE:  Patient was begun on broad spectrum
+antibiotics, initially started on Vancomycin, Ceftriaxone,
+and Flagyl and later broadened to Levofloxacin for possible
+pseudomonal infection, though none was documented.  Patient
+was noted to have a metabolic acidosis with anion gap that
+was presumably secondary to diabetic ketoacidosis on
+admission and was begun on an intravenous insulin drip.  The
+patient's anion gap closed.  The patient was converted to a
+regular insulin sliding scale.  Patient was also noted to
+have acute renal failure that was likely pre-renal in nature
+with a creatinine elevation to 1.8 from her baseline of 0.8.
+Her creatinine improved somewhat over the course of
+hospitalization, it was 1.6 on transfer from the Medical
+Intensive Care Unit to the general medical floor.  The
+patient also was noted to have a significant pre-water
+deficit and hyponatremia that was slowly corrected in the
+Medical Intensive Care Unit and was 153 on transfer from the
+Medical Intensive Care Unit to the general medical floor.
+
+Patient was noted to be in ongoing significant respiratory
+distress, presumably secondary to pneumonia as well as
+congestive heart failure.  Patient was transferred from the
+Medical Intensive Care Unit to the general medical floor on
+the 24th.  Prior to transfer to the floor, a family meeting
+was held and the decision was made to change the patient's
+code status to ""Do Not Resuscitate"" ""Do Not Intubate.""
+Patient was noted on the floor to have a temperature of 101
+as well as worsening respiratory distress.  The patient's
+oxygen saturation rate was 96% on 3 liters initially on
+transfer to the medical floor, though subsequently, patient
+developed a worsening oxygen requirement and was noted to
+desaturate to 86% on 3 liters with a respiratory rate of 48
+followed by the initiation of a non-rebreather with
+improvement of her oxygen saturation rate to 90%.  Arterial
+blood gases demonstrated significant hypoxemia with pH of
+7.40, CO2 of 28, and an O2 of 69 on the non-rebreather.  The
+patient was given 40 mg of intravenous Lasix for diuresis.
+
+All intravenous fluids were discontinued as the patient was
+felt to be in worsening congestive heart failure.  Given the
+patient's ""Do Not Resuscitate"" ""Do Not Intubate"" status,
+further discussions about the patient's level of care were
+carried out with the patient's family and with the medical
+team.  The patient's family, again, stressed the importance
+of the patient's comfort and changed the patient's level of
+care to comfort measures only.  Although, they decided that
+they wanted to continue with antibiotics as well as diuresis,
+though did want to have a morphine drip started for sedation
+and discontinuation of any blood draws for further laboratory
+analysis.
+
+The patient expired on the [**1-9**] at approximately
+1:30 a.m.  The family was present and was aware.  The
+patient's attending, Dr. [**Last Name (STitle) 760**], was notified.  The patient's
+family declined postmortem examination.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**MD Number 2246**], M.D.  [**MD Number 2975**]
+
+Dictated By:[**Last Name (NamePattern1) 6966**]
+
+MEDQUIST36
+
+D:  [**3150-2-2**]  17:59
+T:  [**3150-2-3**]  19:19
+JOB#:  [**Job Number 6967**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3150-3-23**] 5:29 PM
+(End of Report)
+
+
+",,
+5701,15638,7087,0,3150-01-04 19:00:00 EST,3150-01-04 19:15:00 EST,2423,"N",69,"Nursing/Other",,"
+
+npn;0700-1900
+neuro; nonverbel moves  very stiffly appears  min spontaneous movements of limbs except lt arm moves spoadically. no response vebally until 6pm when asked if comfortable pt replied no.
+
+resp; lung sounds coarse rhonchii, fio2 increased to 4 l  sats 97-99% rr upto high 40S suctioned for copius amounts thick creamy beige  sputum sent for  culture . rr 45-28. suctioned with every turn.po2 65-84.
+
+cvs tmax 101.4 given tylenol x2 temp 100.8. nsr 100 bp 135-150 jumps up to 200 with suctioning but settlesback  down. quickly. no meds given as pt too lethargic to take  pills. svo2 variable  55-88 but not always accurate at sqi [**1-18**]. sevice aware.
+
+gu; mod amounts urine via foley.
+
+gi;  need to have purreed food and thickened water,. npo due to somulence more alert tonight smallamount formed stool with each turn.
+
+endo; bs down to 74 on 4 units /hr insulin. insulin off at 1900.
+na 158-159 receiving .45% ns at 150 /hr since 1700,
+
+skin in good condition.
+
+family at bedside for most of day and updated on pt current condition.
+
+a/p stable continue with aggressive pulmonary toilet.
+",,
+5701,15638,7087,0,3150-01-05 06:29:00 EST,3150-01-05 06:40:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Alert, opens eyes spontaneously, PERRLA @ 2mm-3mm, minimal independent movement to q 4 extremities/very deconditioned.  Mostly non-verbal but makes some incomprehensible sounds.
+
+CV:  HR 90's-130's NSR/ST with rare PVC's.  Became very tachycardic with T-spike.  SBP 120's-140's.  Weak but palpable peripheral pulses.  IVR 0.45 NS@ 150cc/hr.  
+
+Resp:  O2Sats high 90's on 4L NC.  Lungs are rhonchorous throughout.  Coughs but has difficulty clearing secretions.  Had CXR wtih T-spike o/n.  
+
+Heme/lytes/micro:  Ongoing hypernatremia.  Gave 500cc bouls NS as house staff felt that kidneys might release Na if hypertonic solution given/more intravascular fluid on board.  Na this a.m. 158- unchanged.  T-max 102, blood cx's X2 sent, U/A/cx sent.  Presently being treated for UTI with Levoquin.
+
+GI:  NPO d/t dysphagia/liklihood of aspiration and moments of lethargy.  +BS.  Smears small amnts. of stool.
+
+GU:  Foley to gravity draining amber urine with sediment.
+
+Derm:  D&I.
+
+Social:  FULL CODE.  Multiple family members visiting last p.m.  Dgtr. [**Last Name (un) 919**] is proxy and will likely visit today.  
+",,
+5701,15638,7087,0,3150-01-05 20:44:00 EST,3150-01-05 21:10:00 EST,2369,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Neuro: Patient lethargic, opens eyes spontaneously. Not able to communicate as patient only intermittently follows commands. Makes only incomprenensible sounds. Also very stiff secondary to Parkinson's. Minimal movement of extremities. 
+
+CV: ST, one-teens to 120s, rare PVC. CVPs 4-7. BP 120s-140s/40s-50s. 
+No lower extremity edema noted. Some mild edema right hand. Pedal pulses difficult to palpate. Left sub-clavian multi-lumen with intact dressing. Site benign. 1/2 NS infusing at 200cc/hr as treatment for hypernatremia. Received one dose of 5mg IV Metoprolol in place of her po Metoprolol, with rate decreasing to low 100s.
+
+Resp: Patient on 4L NC. Resp. rate at 3pm in the 50s, although sats were 95%. There was some question of intubation at that time but a gas sent at 3pm was 7.38/32/106. Patient's temp at that time was 102.4 rectal.She was given 650 mg of Tylenol pr. Her resp. rate did decrease to the 20s-30s where it has been since. Lung sounds have indicated crackles bibasally, with some crackles auscultated right upper field as well. Team is aware. A CXR was done this evening, with results pending. Patient noted to have pursed lip breathing. Hx COPD. Patient is 4L positive for length of stay. Temp did decrease to 99.2 po with resp rate in low 20s. 
+
+GI/GU: NPO at this time as patient is considered an aspiration risk. All po meds have been held. IV meds only. Patient had one formed brown BM, guiac neg. and was reported to have had a couple of stools today as well. Urine is cloudy yellow, and output has been ~35cc/hr. 
+
+Endocrine: Blood sugar at 1600 was 279. 6 units reg. insulin given. A re-check at 1900 showed a sugar of 225. The team was made aware and an increased sliding scale may be written. Her insulin gtt was stopped this am. 
+
+Skin: Intact.
+
+Social: Several family members in this evening. Daughter [**Name (NI) 919**] is spokesperson. 
+
+Plan: Continue with IV fluids to get sodium down. Patient is not receiving free water because the family does not want an NGT at this time. Follow sugars with ? of increase in sliding scale. NPO for now with 1/2 NS at 200cc/hr. Monitor resp. status, temps. Patient to be cultured if she spikes tonight. She was cultured last night for an increase in temp.
+
+[**First Name8 (NamePattern2) 507**] [**Last Name (NamePattern1) 508**] RN
+",,
+5701,15638,7087,0,3150-01-06 05:33:00 EST,3150-01-06 05:45:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 2300-0700","
+NURSING PROGRESS NOTE 2300-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS AN 83Y/O F PT WITH A HX OF PARKINSONS. CVA, DM, CHRONIC ASP, UTI, ASP PNA AND HYPERNATREMIA.  PT INITIALLY PRESENTED TO THE ED FOR FEVER, DYSURIA AND INCREASED BS.  UPON PRESENTATION, PT WAS FEBRILE AT 104.2 AND A LACTATE OF 6.4.  ADMITTED TO MICU FOR UROSEPSIS AND IN MUST PROTOCOL.  PT RESUSCITIATED WITH IVF- DID NOT REQUIRE PRESSERS.  ABS TX STARTED.  PT HAS NOT BEEN ABLE TO RECEIVE PO MEDS DUE TO FAMILY REFUSING NGT OR PEG TUBE INSERTION.  HAD BEEN CALLED OUT [**3150-1-5**] TO THE FLOOR.
+
+NEURO:  PT HAS BEEN LETHARGIC FOR MOST OF SHIFT- WILL OPEN EYES SPONTANEOUSLY- DOES NOT FOLLOW COMMANDS AND HAS EPISODES OF SEVERE AGITATION AND ANXIETY CAUSING SEVERE TACHYPNEA TO THE 60'S AND BOUTS OF HYPERTENSION WITH SBP IN THE 180-190'S.  ANXIETY RESOLVED WITH 2MG OF MS04 IV- PRN ORDER IS NOW ON THE CHART- HAD BEEN GIVEN ATIVAN BUT NO THERAPEUTIC RESPONSE NOTED WITH THAT.  TMAX OF 101.4.  TEAM DID NOT WISH TO CULTURE UNLESS PT SPIKES TEMP AGAIN.  NO SEIZURE ACTIVITY NOTED.  PERLA 3/BRISK.  NOTED TO MAE X 4.  NOTED TO HAVE TREMORS DUE TO PARKINSON'S.
+
+RR:  PT ON 4L NC. RECEIVED PT EXTREMELY TACHYPNIC WITH RR 40-60'S- PT HAD DIFFUSE CRACKLES ALL OVER LUNG FIELDS.  PURSED LIPS.  INSERTION OF AN ORAL AIRWAY TO MAINTAIN SECURE AIRWAY PASSAGE.  PT RECEIVED AT TOTAL OF 80MG OF LASIX WITH VERY GOOD EFFECT- PT DIURESED APPROXIMATELY 1600CC/UOP.  PT'S LUNG SOUNDS HAVE IMPROVED DRAMATICALLY.  PT NT SUCTIONED BY RT WITH GOOD EFFECT.  LARGE AMOUNTS OF THICK, YELLOW SPUTUM NOTED.  BBS=, BILATERAL CHEST EXPANSION NOTED. SP02 HAVE MAINTAINED AT LEAST 95%.  PT IS USING ACCESORY MUSCLES WITH LARGE MOVEMENTS OF ABDOMEN.  HAS BEEN LESS LABOURED SINCE AGGRESIVE DIURESIS.  ABG'S ARE MARGINAL BUT TEAM IS CHOOSING TO DIVERT INTUBATION AND WILL REDISCUSS WITH PT'S FAMILY COURSE OF ACTION.  FOR NOW, PT IS NOTED TO BE MORE COMFORTABLE SINCE ADMINISTRATION OF MS04.
+
+CV:  NSR-ST, SOME AFIB NOTED WITH HR TO THE 130'S DEPENDENT ON AGITATION. TOTAL OF 20MG OF LOPRESSOR.  
+",,
+5701,15638,7087,0,3150-01-06 05:45:00 EST,3150-01-06 05:49:00 EST,2519,"N",69,"Nursing/Other","CONTINUATION","
+CONTINUATION
+CV:  PT WOULD HAVE EPISODES OF HTN WITH SBP IN THE 180-190'S.  PT RECEIVED A TOTAL OF 40MG OF HYDRALIZINE IV.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  PT HAS SECURE AND PATENT CVL TO LT IJ.  3.7 AM K REPLETED WITH 40MEQ K AND 1.8 MAG TX WITH 2 GMS OF MAG.  
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NONTENDER.  PT HAS BS X 4 QUADRANTS- SMEARS OF STOOLS NOTED.  NOT BEING FED DUE TO FAMILY'S REFUSAL OF NGT INSERTION- CANNOT TAKE ANYTHING PO DUE TO HIGH ASPIRATION RISKS.
+
+GU:  INDWELLING URETHRAL FOLEY CATHETER IS SECURE AND PATENT.  LIGHT YELLOW URINE NOTED IN ADEQUATE AMOUNTS DUE TO LASIX TX.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  
+
+SOCIAL:  NO CONTACT WITH FAMILY THIS SHIFT.
+
+PLAN:  REASSESS CALL OUT STATUS.  KEEP COMFORTABLE- MAINTAIN AGITATION, FAMILY NEEDS TO BE SPOKEN TO REGARDING PT'S TENUOUS RESPIRATORY STATUS.  FULL CODE AT THIS TIME.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]. 
+",,
+5701,15638,7087,0,3150-01-06 18:33:00 EST,3150-01-06 18:43:00 EST,2378,"N",69,"Nursing/Other",,"
+
+NEURO:  Pt opens eyes spontaneously and does not follow commands. Min spontaneous movement of limbs noted.  
+CV:  Monitor shows NSR-ST with no ectopy.  Pt hypotensive in am and LR 500 cc bolus given with improvement.  Pt started on NS @ 200 cc/hr.  
+RESP:  LS coarse througout with bibasilar crackles noted.  Pt tacypneic througout shift with RR 30's and increased fio2 requirements.
+GI: Abd soft and nontender.  +BS noted.  Sm stool this shift.  Pt remains NPO [**1-16**] high asp risk.  Family stating that [**Known patient firstname 920**] in the past has stated she would not want feeding tube. 
+GU:  Foley intact and patent draining yellow urine without sedimentation noted. 
+ENDO: BS's elevated and insulin gtt resumed and now on fingersticks Q1hr.  (gtt infusing @ 4 Units/hr).
+SKIN:  D+I wiht no open areas noted.  
+I-D:  Pt remains on Levo for pna.  
+PSY-SOC:  Family meeting today to discuss overall hospital course and recent decline with both dtr's and HCP.  Code status addressed and family to talk privately about her care and long term goals.  Pt remains full-code in MICU.
+",,
+5701,15638,7087,0,3150-01-07 04:35:00 EST,3150-01-07 04:42:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  PT DOES NOT FOLLOW COMMANDS, WILL OPEN EYES SPONTANEOUSLY- NOTED TO MAE X 4.  INCOMPREHENSIBLE SOUNDS.  LOW GRADE FEVERS WITH NO SPIKES THIS SHIFT. PERRLA 3/BRISK.  NO SEIZURE ACTIVITY NOTED.  PT HAS NOTED EPISODES OF ANXIETY AND NOTED GENERALIZED DISCOMFORT- GIVEN PRN MORPHINE WITH THERAPEUTIC RESULTS.  
+
+RR:  BBS= CLEAR TO COARSE THROUGHOUT ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  4LNC.  RR 20-30'S AND TACHYPNIC AT TIMES.  SP02 > OR =T O 95%.  ORAL AIRWAY IS SECURE AND PATENT.  
+
+CV:  NSR-ST WITH NO SIGNS OF ECTOPY NOTED.  SBP > OR = TO 100 WITH NO HYPER OR HYPTENSIVE CRISIS NOTED.  S1 AND S2 AS PER AUSCULTATION.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  HEMODYNAMICALLY STABLE.
+
+GI:  ABD IS SOFT, NON-DISTENDED, NON-TENDER- NO FEEDS FOR THE PAST3 DAYS NOW SINCE FAMILY IS REFUSING NGT OR PEG PLCMT.  NO BM THIS SHIFT. PASSING FLATUS.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  
+
+SOCIAL: FAMILY VERY INVOLVED- SPENT NIGHT IN WAITING ROOM.  ALL QUESTIONS ANSWERED- NO ISSUES.
+
+PLAN:  FAMILY TO REASSESS NUTRITIONAL STATUS AND CODE STATUS- MAY BE POSSIBLE CALL OUT TO THE FLOOR.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+",,
+5701,15638,7087,0,3150-01-07 05:37:00 EST,3150-01-07 05:40:00 EST,2519,"N",69,"Nursing/Other","ADDENDUM","
+ADDENDUM
+3.7 AM K REPLETED WITH 40MEQ K IV.  CONTINUES ON INSULIN GTT FOR INCREASED FBS.  WILL CONTINUE TO MONITOR.  THANK [**Doctor First Name **].
+",,

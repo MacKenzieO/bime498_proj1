@@ -1,0 +1,271 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5555,294,,,3311-05-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3311-5-16**]     Discharge Date:  [**3311-5-23**]
+
+Date of Birth:                  Sex:
+
+Service:  TRAUMA
+
+HISTORY OF PRESENT ILLNESS:  This is an 84 year-old Russian
+woman who was initially admitted via the Trauma Service after
+a fall.  She ultimately died after transfer to the Medical
+Service, although I as the trauma surgery attending will
+dictate this discharge summary.  The patient had a history of
+multiple falls with intracranial bleeds and subdural
+hematomas.  She suffered from chronic dementia.  She had an
+unwitnessed fall at her nursing home with a possible loss of
+consciousness.  Her evaluation on the Trauma Service
+demonstrated bilateral frontal intraparenchymal hemorrhages,
+a small left occipital subdural hematoma and C5-6 and T7-8
+fractures.
+
+PAST MEDICAL HISTORY:  Congestive heart failure, coronary
+artery disease, atrial fibrillation, hypertension,
+hypercholesterolemia, history of cerebrovascular accident,
+history of falls, chronic renal insufficiency, anemia,
+recurrent urinary tract infections.  History of right hip
+fractures, peripheral vascular disease, insulin dependent
+diabetes mellitus.
+
+MEDICATIONS ON ADMISSION:  Aspirin, Captopril, Ciprofloxacin,
+Glipizide, Hydralazine, Lopresor, Simvastatin, Trazodone,
+Prilosec, Celexa, Imd[**MD Number 132**] Colace.
+
+HOSPITAL COURSE:  The patient had a full trauma evaluation
+including abdominal and pelvic CT scans.  She was intubated
+after arrival and extubated on the second hospital day.
+During this admission she developed oliguric acute renal
+failure with her creatinine rising to 5.  This was thought
+due to contrast.  She suffered from a urinary tract
+infection.  She had a progressive metabolic acidosis.  Her
+liver function tests were found to be abnormal with a
+transaminase in the high 100s.  She had a persistent
+coagulopathy.  On the [**11-21**] she was found to be
+unresponsive and in congestive heart failure.  She then had
+an episode of apnea and hypertension prior to dialysis.  She
+was intubated for airway protection.  She was then
+transferred to the Medical Intensive Care Unit due to
+persistent acidosis.  It was thought to be due to
+hypoperfusion possibly due to a cardiac etiology.  The
+patient after a brief period in the Medical Intensive Care
+Unit and consultation with the family she was then found to
+have had another respiratory arrest and in conjunction with
+the family she passed away.
+
+CONDITION ON DISCHARGE:  Deceased.
+
+DISCHARGE STATUS:  Deceased.
+
+DISCHARGE DIAGNOSES:
+Intracranial hemorrhage with metabolic acidosis and
+respiratory arrest.
+
+PROCEDURES AND DATES:  None.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2010**], M.D.  [**MD Number **]
+
+Dictated By:[**Last Name (NamePattern4) 3012**]
+
+MEDQUIST36
+
+D:  [**3311-8-16**]  07:24
+T:  [**3311-8-21**]  05:58
+JOB#:  [**Job Number 6690**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3311-9-29**] 9:47 PM
+(End of Report)
+
+
+",,
+5555,294,6898,0,3311-05-17 04:51:00 EST,3311-05-17 05:22:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING ADMIT NOTE","
+T-SICU NURSING ADMIT NOTE
+PT IS AN 85 YO RUSSIAN SPEAKING FEMALE S/P UNWITNESSED FALL ON [**3311-5-16**]. PT IS A RESIDENT OF [**Hospital6 398**] AND PER REPORT SHE WAS FOUND DOWN ON OUTSIDE PATIO WITH BLOOD ON BACK OF HEAD AND FROM LEFT EAR.  PT WAS COMBATIVE AT THE SCENE, MOVING ALL 4 EXTS.  PT WAS TAKEN TO [**Hospital1 22**] FOR EVALUATION.  PT HAD 3 EPISODES OF VOMITING (ONE IN AMBULANCE, 2 IN EW), AFTER THIRD EPISODE, PT WAS ELECTIVELY INTUBATED AND CT SCANS COMLETED.  CT SCAN REVEALED BILAT INTERPARECNYMAL HEMORHAGE, SMALL LEFT OCCIPITAL SDH, NON-DISPLACED VERTEBRAL BODY FX OF C5 AND A T8 COMPRESSION CX (? IF THIS IS NEW OR OLD).  PT ARRIVED TO T-SICU INTUBATED AND SEDATED
+
+PMHX:>  CHF  (LAST DOCUMENTED EF 15%)
+        AFIB
+        HTN
+        S/P ORIF RIGHT HIP [**9-/3309**]
+        PVD
+        RENAL INSUFFIENCY
+        NIDDM
+        CAD
+        HYPERCHOLESTEROLEMIA
+        FREQUENT UTI'S
+        C-DIFF (RECENTLY COMPLETED A COURSE OF FLAGYL)
+        ANEMIA
+        DEMENTIA
+        CVA
+
+NEURO:  AROUSABLE TO NAME, RESTLESS, MAE'S--LUE/RUE 4/5 STRENGTH, PURPOSEFUL, REACHING FOR ETT.  BLE STRENGTH 3/5 BILAT, (+)BABINSKI.  (+)COUGH, GAG, IMPAIRED CORNEALS.  PUPILS 3MM ON RIGHT AND SLUGGISH TO BRISKLY REACTIVE.  LEFT PUPIL IRREGULARLY SHAPED, 3-5MM AND BRISKLY REACTIVE.  PT BECAME INCREASINGLY RESTLESS AT 11:30PM, GAGGING/COUGHING ON ETT SO PROPOFOL GTT STARTED, OFF SINCE 5:30AM, PT SLEEPY BUT AROUSABLE TO VOICE. C-COLLAR ON, LOGROLL PRECAUTIONS MAINTAINED.
+
+CV:  HR 60S-80S, AFIB, RARE PVC.  BP STABLE ~100-140/50 ALL SHIFT, 2 PIV'S FLUSHED AND PATENT.  2ND SET OF CPKS NEGATIVE
+
+RESP:  BREATH SOUNDS COARSE THROUGHOUT, SUCTIONED FOR MOD TO LARGE AMTS OF THICK YELLOW/LT TAN SECRETIONS.  CURRENTLY ON A/C 500X 10, 5 PEEP, 50 FI02.  SATS  97-99%
+
+RENAL:  BORDERLINE U/O, ~25-35CC/HR.  CREATININE DOWN TO 1.O (FROM 1.6).  MAG REPLETED.  
+
+GI:  ABD SOFT, NTND, (+) BOWEL SOUNDS.  REMAINS NPO
+
+HEME:  HCT 38.1 ON ARRIVAL, REPEAT LABS DONE, HCT 22. SICU HO AWARE, LABS DRAW, RESULT 31.0.  
+
+ID:  AFEBRILE, NO  ABX
+
+SKIN:  ABRASION/CONTUSION TO OCCIPUT, WOUND PINK AND CLEAN, NO DRAINAGE 
+
+SOCIAL:  PER NH, FAMILY WAS NOTIFIED THAT PT WAS BEING TRANSFERRED, NO CALLS OVENROC FROM FAMILY
+
+A:  CONTINUE TO MONITOR NEURO STATUS Q1H, CONTINUE WITH CURRENT MANAGENT
+
+
+",,
+5555,294,6898,0,3311-05-17 20:18:00 EST,3311-05-17 21:26:00 EST,3210,"N",53,"Nursing/Other","T/SICU NSG NOTE-","
+T/SICU NSG NOTE-
+0700> 1930
+
+NEURO- PERRL, SLG>BRISK; MAE'S WITH NORMAL STRENGTH; FOLLOWS COMMANDS WITH TRANSLATOR. UNCOOPERATIVE, AGITATED AT TIMES, COMBATIVE AND RESISTANT.
+...REPEAT HEAD CT THIS AM REPORTEDLY WITH NEW AREA OF BLEED IN LEFT PARIETAL AREA W/O MASS EFFECT>> NO CHANGE IN INTERVENTIONS REQUIRED AT THIS TIME. NO SIGNIFICANT CHANGE IN NEURO STATUS THROUGHOUT THE DAY.
+..+ COUGH/GAG
+..RECEIVED HALDOL 2MG TOTAL IVP FOR PERSISTENT AGITATION THIS AFTERNOON..WITH POSITIVE EFFECT: PT MORE CALM.
+
+CVS- STARTED ON BASELINE MEDS: CAPTOPRIL, AND LOPRESSOR & HYDRALIZINE ADDED FOR BP MNGMNT. LASIX ADDED.  
+..SEE CAREVIEW FOR OBJECTIVE DATA                         
+..MAP MAINTAINED 75-85
+HR - AFIB  AT RATE 70-80'S
+** ? EPISODE OF ANGINA WITH CHANGE IN EKG PATTERN ON MONITOR(ST DEPRESSION). NTG 1/300 SL X1 GIVEN; 12 LEAD EKG DONE WITH SICU HO REVIEWING THIS WITH PRIOR EKG: NO SIGNIFICANT CHANGE.
+
+RESP- PT WEANED & EXTUBATED W/O INCIDENT AT 1330. MAINTAINED ON 2-4L NC WITH SATS 92-98% BREATH SOUNDS ARE CLEAR AND DIMINISHED AT BASES WITH ? FINE CRACKLES AT LLL. BREATHING PATTERN NOTED TO CHANGE TO IRREGULAR: PERIODS OF SHALLOW BREATHING ALT WITH NOISY, HUFFING BREATHS OF INCREASED RATE/VOLUME. O2 SATS NOTED TO WAX/WANE. CURRENTLY RESP ALARM IS SOUNDING OCC FOR PERIODS OF APNEA.(LOW RR SET AT 9/MIN).
+
+RENAL- NO SIGNIFICANT RESPONSE TO LASIX 10MG; DWINDLING HOURLY U/O OVER COURSE OF THE DAY. 20MG LASIX W/O EFFECT; 250CC FLUID BOLUS GIVEN W/O EFFECT. FOLEY IRRIGATED WITHOUT CLOT/OBSTRUCTION FOUND.
+IVF STARTED AT 50C/HR
+..EVALUATING NEXT COURSE OF THERAPY.....
+
+ID- AFEBRILE, NO ANTIBIOTICS
+HEME- STABLE HCT; REPEAT COAGS PND
+
+GI- TF'S STARTED VIA OGT BUT PT PULLED OGT. FOLLOWING EXTUBATION X FEW HOURS, ATEMPTED TO GIVE PO'S TO PT; PT REFUSED VIGOROUSLY.
+..ABD SOFT WITH HYPOACTIVE VOWEL SOUNDS. NO STOOL.
+..ZOFRAN X1 FOR ? EPISODE OF WRETCHING.
+..PROTONIX QD
+
+ENDO- LABILE BLOOD SUGAR: 46 THIS AM..GIVEN 1 AMP D50W WITH INCREASE BLOOD SUGAR TO 196. TRENDS FOLLOWED THROUGHOUT THE DAY WITH RANGE 172>>155. NO INSULIN GIVEN THIS SHIFT.
+
+SKIN- GROSSLY INTACT
+      OCCIPITAL CONTUSION AS PREVIOUSLY NOTED. AREAS OF ECCHYMOSIS ON UE'S D/T IV ATTEMPTS/TAPE. SKIN IS FRAIL. BACK/COCCYX INTACT
+      COMPRESSION BOOTS IN USE.
+      REMAINS ON BEDRESTT; CLEARED FROM LOGROLL PRECAUTIONS- HOB ELEVATED. C-COLLAR REMAINS IN PLACE FOR ? C5-6 FX. MRI PLANNED FOR AM TO ASSESS NEW VS OLD INJURY.
+ ...2 NEW PERIPHERAL IV'S TODAY D/T INFILTRATIONS.
+
+SOCIAL- HAVE AWAITED CONTACT FROM FAMILY. NONE THIS SHIHFT.
+        SPOKE TO [**Hospital **] REHAB RN WHO STATES PT'S BASELINE CONSISTS WITH PERIODS OF RESISTANCE & PHYSICAL COMBATIVENESS & UNCOOPERATIVE BEHAVIOR.
+
+ASSESS- S/P UNWITNESSES FALL AT NSG HOME WITH IPH- BIFRONTAL AND OCCIPITAL. NEW BLEED TO LEFT PARIETAL EVIDENT ON REPEAT HEAD CT
+TODAY(NO MASS EFFECT NOTED)
+        PROBLEMS WITH U/O AND BLOOD SUGARS.
+        AGITATION S/P HEAD INJURY.
+        EXTUBATED BUT WITH ALTERED RESP PATTERN
+
+PLAN- CONT TO MONITOR FOR CHANGES
+      ASSESS THERAPY FOR RENAL STATUS
+",,
+5555,294,6898,0,3311-05-17 20:19:00 EST,3311-05-17 21:26:00 EST,3210,"N",53,"Nursing/Other","T/SICU NSG NOTE-","
+T/SICU NSG NOTE-
+(Continued)
+
+      ADDRESS CODE STATUS WHEN HCP AVAILABLE.
+
+",,
+5555,294,6898,0,3311-05-18 05:36:00 EST,3311-05-18 05:54:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+NEURO:  AT START OF SHIFT PT SLEEPY BUT AROUSABLE TO VOICE, DAUGHTER AT BEDSIDE, INTERPRETING, PT FOLLOWED COMMANDS CONSISTENTLY AND MOVED ALLM EXT'S.  [**First Name8 (NamePattern2) **] [**Last Name (un) 399**] PT DENIES PAIN, NODDED HER HEAD ""YES"" WHEN ASKED IF SHE WAS IN THE HOSPITAL.  PT WITH MINIMAL VERBALIZATION.  AT 4A, PT BECOME INCREASINGLY AGITATED AND COMBATIVE, RECEIVED TOTAL OF 2MG IV HALDOL BETWEEN 4A AND 5A WITH EFFECT UNTIL 6:30AM, PT AGAIN RESTLESS, AGITATED, PULLING OFF GOWN, PULLING AT IV'S.  RECEIVED ANOTHER 1MG AT 6:30AM, EFFECTS PENDING.  PUPILS 3MM BILAT--RIGHT PUPIL SLUGGISH AT TIMES, LEFT BRISKLY REACTIVE.  
+
+CV:  HR 60S-70S, AFIB, OCCAS PVCS.  BP 120-140S/50S.  AT 4A BP UP TO 180/60, RECEIVED PRN DOSE OF HYDRALAZINE, BP DOWN TO 130S.  SKIN PALE, WARM, WEAKLY PALPABLE PULSES BILAT.  
+
+RESP:  BREATH SOUNDS CLEAR IN UPPER LOBES, DIMINISHED IN THE BASES BILAT, WEAK COUGH, CONGESTED, MINIMALLY PRODUCTIVE.  SATS 95-98% ON 2LNC
+
+RENAL:  LOW U/O ~5CC/HR, RECEIVED 40MG IV LASIX WITH SOME RESPONSE, U/O 70CC AFTER FIRST HOUR, HAS SINCE TRENDED BACK DOWN TO 10CC/HR.  CREATININE BUMPED TO 2.2 (FROM 1--PT'S BASELINE 1.3-1.5).  CALCIUM REPLETED; MG AND K WNL
+
+GI:  ABD SOFT, (+)BOWEL SOUNDS.  REFUSING PO'S.  NO STOOL OVERNOC
+
+HEME:  HCT STABLE AT 32.  INR UP TO 1.4 
+
+ID:  T. MAX 100.3, NO ABX.  
+
+SKIN:  ABRASION TO BACK OF HEAD PINK, NO DRAINAGE
+
+ENDO:  LABILE BLOOD SUGARS, IVF CHANGED TO D5NS AT 50CC/HR, SLIDING SCALE ADJUSTED
+
+SOCIAL:  PT'S DAUGHTER IN TO VISIT OVERNOC, AWAITING CALL/VISIT FROM SON-IN-LAW (PT'S HEALTH CARE PROXY) TO CLARIFY DNR STATUS.
+
+A:  NEURO UNCHANGED, INTERMITTENT PERIODS OF AGITATION
+
+
+P:  CONTINUE WITH CURRENT MANAGEMENT, CLARIFY DNR STATUS
+",,
+5555,294,6898,0,3311-05-18 13:16:00 EST,3311-05-18 13:18:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+New trauma pt on T-SICU.  Pt is an 85 year old Russian-speaking woman who is a resident of [**Hospital3 400**] Center.  She is s/p fall at HRC and has IPH.  RN reports that pt's two daughters are involved and supportive.  They are not present at this time.  Pt has been called out to floor.  Will alert floor SW of pt's arrival in the event that SW involvement is needed. Pager [**Pager number 169**].
+",,
+5555,294,6899,0,3311-05-22 19:33:00 EST,3311-05-22 20:51:00 EST,96,"N",1,"Nursing/Other","s/p fall with head bleed, new arf, arrest 6/28.","
+s/p fall with head bleed, new arf, arrest [**5-22**].
+ccu nsg admit note- see also fhpa from sicu [**5-16**], transfer note to [**Hospital Ward Name **] 5 on [**5-18**]. 
+pt is 84 y/o female from heb. rehab. past hx of htn, cad, af, chf with ef 15%, pvd, crf, niddm, orif r hip, mild dementia, anemia, cvas, falls, freq uti's. coumadin recently d/c d/t falls. recent treated for c.diff and uti. 
+[**5-16**]- fallen at h. rehab. to [**Hospital1 **], intubated. had interparenchymal hemorrhage, small SDH. pt extubated [**5-17**]. irreg. breathing noted at times with occ. short periods apnea. pt transferred to [**Hospital Ward Name **] 5 on [**5-18**]. 
+on [**Hospital Ward Name **] 5 was cooperative most time, although restrained d/t line pulling. able to communicate with fx in [**Last Name (LF) 401**], [**First Name3 (LF) **]. npo then taking soft solids last couple days without difficulty. bun/creat rising. had re'd fluid boluses (none [**5-22**]) with about 100cc out per day. re'd 40mg lasix today at 10am. on bedrest, inc stool, foley in. 
+to radiology and quinton placed in r groin. then to dialysis. before dialysis started, pt noted to have irreg. breathing, unable to obtain sat. pt also hypotensive. arrest called, pt intubated, re'd total 2 amps atropine, bicarb and 300cc n/s. 
+pt tranferred to CCU.
+id- afebrile. wbc 12.5. was on levoquin on floor. 
+cv- in afib 100s to 90s, no vea. bp 90s-130/, transiently to 69/ x1. hct 29 in am, labs drawn- hct 26.7. lactate 5.6, chem pnd, inr 2.5, ptt 35.4. aline inserted by house staff after several attempts, in l fem artery. 
+resp- intubated on 100%, initially on imv, but sats 80s, rr 30s. sedated with ativan and changed to a/c rate 12, overbreathing gradually decreased to total rate low 20s. cont. on 100%, tv 600, peep increased to 10. finger sats improved to 93-96. abg sent- 493,27,7.24. l/s dim, cxs bases. u/o 210cc in urimeter. needs cxr if cont. intubated tonoct. 
+ms- mae. haldol given initially without effect. given ativan total 6mg, mainly d/t high rr, not breathing well with vent. started on ativan drip. also given total 3mg mso4 iv for pain/sedation with line insertion. 
+skin- intact. skin tear r arm when md removed tape to look for aline site. cover with nonstick dsg. 
+access- pt has 1 peripheral iv. central line to be inserted depending on result of code status discussion with mds/fx. 
+code status- pt had been dnr in past. currently full code. fx discussing status/condition/plan with mds and may change code status tonoct.  
+
+",,
+5555,,6899,0,3311-05-23 04:34:00 EST,3311-05-23 04:49:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: REMAINS IN A-FIB. HR 63-73. SBP 103-146/47-72. OCCASSIONAL PVC NOTED.
+
+RESP: SEVERAL VENT CHANGES OVERNOC. CURRENTLY AC,40%,500X14,PEEP 5, SUCTIONED FOR THICK WHITE SECRETIONS. BS COURSE TO DIMINISHED. AM ABG 7.40,28,106,-5,18. CXR COMPLETED.
+
+GI: NGT PLACED. LIS FOR SCANT BILIOUS RETURN. HYPOACTIVE BS. NO STOOL THIS SHIFT.
+
+GU: PER FLOW >10 CC/HR NOTED.
+ AWAITING AM BUN/CREAT. QUINTON IN R GROIN. FLUSED PER PROTOCOL.
+
+SKIN: SEVERAL SKIN TEARS OF R ARM. REDNESS OF BUTTOCKS,BUT NO BREAKDOWN NOTED.
+
+NEURO: AGITATED. ATIVAN INCREASED TO 2MG/HR. RESPONDS TO PAINFUL STIMULI ONLY. CALM AND QUIET @ PRESENT.
+
+ID: WBC 12.5 LEVOFLOXCIN ORDERED,BUT NEEDS ID APPROVAL. ORDERED FOR UTI/PNEUMONIA
+
+HEME: HCT 26.7 HOUSES STAFF AWARE. PT HAS CRF.
+
+LABS: LACTIC ACID 5.6
+      BS 105,144 TX WITH SSI 2 UNITS OVERNOC.
+      ELEVATED PT,PTT,INR (2.5) GIVEN VIT K. LIVER ENZYMES ELEVATED.
+
+DISPOSITION: DNR
+
+SOCIAL: FAMILY IN ON EVES. DISCUSSED WITH M.D. OUTCOMES AND PT STATUS. IT WAS DECIDED TO MAKE PT DNR,BUT CON'T REESP SUPPORT.
+
+A: CRITICAL
+
+P: CON'T PER NSG JUDGEMENT 
+      
+",,
+5555,,6899,0,3311-05-23 16:31:00 EST,3311-05-23 16:35:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+Pt's family met w/ md for extensive family meeting at which time they decided to withdraw support and institute comfort measures only. Pt was extubated, and mso4 gtt started. Pt has remained hemodynamically stable. RR 5-15 w/ cheyene stoke pattern, sats 63-85%. 
+A: Comfort measures
+P: continue mso4 gtt for comfort and emotional support to family
+",,

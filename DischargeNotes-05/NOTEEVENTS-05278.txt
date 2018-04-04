@@ -1,0 +1,3182 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5278,,,,2813-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-21**] 7:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9836**]
+     Reason: assess for infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with mental status changes, possible sepsis
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status changes and possible sepsis.  Rule out infiltrate.
+     
+     COMPARISONS:  None.
+     
+     SUPINE AP CHEST:  Study is severely limited by rotation and supine
+     positioning.  Heart size is normal.  Moderate hiatal hernia is seen. Pulmonary
+     vascularity is normal.  Elevated right hemidiaphragm and prominent irregular
+     contour of the right mediastinum could be secondary to rotation or could
+     represent right middle and/or partial right lower lobe collapse.  No other
+     areas of parenchymal consolidation are seen.  There are no pleural effusions.
+     Osseous structures show degenerative changes of the right shoulder.
+     
+     IMPRESSION:  Limited study due to rotation and supine positioning shows no
+     evidence of pneumonia.  However, volume loss of the right lung and unusual
+     contour of the right mediastinum could represent right middle and/or lower
+     lobe collapse.  Re-evaluation with dedicated PA and lateral chest radiographs
+     is necessary.
+
+",,
+5278,,,,2813-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-21**] 8:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9837**]
+     Reason: assess for hemorrhage, mass or other acute changes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with mental status changes, possible seizure activity
+     REASON FOR THIS EXAMINATION:
+      assess for hemorrhage, mass or other acute changes
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Possible seizure activity and mental status changes.
+     
+     Multiple axial images were obtained from base to vertex without IV contrast
+     administration. The examination was partially degraded by motion artifact.
+     There is no focal intraparenchymal hemorrhage. No midline shift, mass, mass
+     effect or bleed is seen. The ventricular system is symmetrical without
+     evidence for hydrocephalus. There are no extra-axial fluid collections. The
+     visualized paranasal sinuses are clear.
+     
+     IMPRESSION: No acute intracranial pathology. The examination was partially
+     degraded by repeated motion artifact.
+
+",,
+5278,4965,,,2813-01-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2813-1-22**]       Discharge Date: [**2813-2-11**]
+
+Date of Birth:   [**2764-2-8**]       Sex:  M
+
+Service:
+
+ADDENDUM TO HOSPITAL COURSE:
+
+1.  Infectious disease.  Because of pneumonia community
+acquired, the patient did show some signs of aspiration so
+Flagyl was added to the course of Levaquin that was started.
+The patient is to have a full two week course of both Flagyl
+and Levaquin.
+
+2.  Hematology.  Given the patient's anemia, Hematology was
+consulted.  The anemia is felt due to nutrition deficits
+given that the folate was low on admission and the INR
+elevation on admission was treated with Vitamin K.  It was
+recommended that Foley be changed to intravenous and B12 to
+subcutaneously administration.  Folate and B-12 checked after
+supplementation were found to be normal at 6.3 and 556
+respectively.  Precursors for B12, homocystine and
+Methylmalonic acid were checked.  The homocystine level was
+found to be normal at 6.5 and the Methylmalonic Acid was
+still pending upon discharge.  The patient's hematocrit was
+then stabilized around 34 to 37. The patient also had a PPB
+reactive to infection and inflammation.  Blood count was
+normal.  Platelet count never went over one million and would
+not be concerning until it reached two million.
+
+3.  Neurology/Psychiatry.  Once the patient could communicate
+and was more alert he complained that people were ""kidnaping
+him and trying to hurt him"".  Psychiatry was reconsulted
+regarding these paranoid delusions.  They suggested he be on
+standing dose of Haldol.
+
+4.  FEN.  For fear of aspiration the patient went for a
+swallow study that showed no risk of aspirations.  He is
+encouraged to take food by mouth with assistance.  He is able
+to intake 50 to 60% of his needs.
+
+DISCHARGE DIAGNOSIS:
+1.  Toxic metabolic encephalopathy.
+2.  Paranoid delusions.
+3.  Pneumonia.
+4.  Anemia secondary to nutritional deficits.
+5.  Reactive thrombocytosis.
+
+DISCHARGE MEDICATIONS:
+1.  Haldol 2.5 mg p.o. b.i.d.
+2.  Folate 1 mg p.o. q day.
+3.  Vitamin B12 1000 mcg subcutaneously/IM q day.
+4.  Protonix 40 mg p.o. q day.
+5.  Flagyl 500 mg p.o. three times a day and on [**2813-2-18**].
+6.  Levofloxacin 500 mg p.o. q day.
+7.  Multivitamin one tablet p.o. q day.
+8.  Thiamine 100 mg p.o. q day.
+
+
+
+
+
+
+                       DR.[**Last Name (STitle) **],[**First Name3 (LF) 1715**] 12-207
+
+Dictated By:[**MD Number 6161**]
+MEDQUIST36
+
+D:  [**2813-2-11**]  18:58
+T:  [**2813-2-11**]  19:06
+JOB#:  [**Job Number 6162**]
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: WED [**2813-2-13**] 8:36 PM
+(End of Report)
+
+
+",,
+5278,4965,,,2813-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-22**] 9:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9840**]
+     Reason: check for interval changes                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          48 year old man with mental status changes, possible sepsis s/p failed   
+      subclavian line and right IJ line attempt in ED with tension PTX.  Now s/p   
+      decompression.                   
+     REASON FOR THIS EXAMINATION:
+      check for interval changes                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status changes and possible sepsis.
+     
+     FINDINGS: Single frontal view of the chest in comparison to [**2813-1-22**]
+     approximately 12 hours prior. This dictation was lost and consequently is
+     being redictated. There is a nasogastric tube that is likely coiled within a
+     hiatal hernia. There is a tube overlying the right hemithorax. There has been
+     some interval decrease in size of a large right pneumothorax with reexpansion
+     of the right lung. The left lung demonstrates atelectasis at the left lung
+     base, as well as a small left pleural effusion.
+     
+     IMPRESSION: Interval decrease in size of a right pneumothorax.
+
+",,
+5278,4965,,,2813-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-22**] 3:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9839**]
+     Reason: s/p decompression of tension PTX.  Please eval for reexapans
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        48 year old man with mental status changes, possible sepsis s/p failed 
+      subclavian line and right IJ line attempt in ED with tension PTX.  Now s/p 
+      decompression.                   
+     REASON FOR THIS EXAMINATION:
+      s/p decompression of tension PTX.  Please eval for reexapansion of lung and 
+      decompression catheter line placement.  thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Tension pneumothorax, status post chest tube placement.
+     
+     There has been interval placement of a small-bore chest tube in the right
+     hemithorax.  The previously noted pneumothorax has significantly improved in
+     the interval, with only a small residual apical pneumothorax remaining.
+     
+     The cardiac and mediastinal contours are now midline in position.  There are
+     patchy and linear areas of atelectasis in the mid and lower lung zones.
+     
+     Note is made of a nasogastric tube coiling within the thoracoabdominal
+     junction region with the distal tip directed cephalad.  This is likely coiled
+     within a hiatal hernia.
+     
+     IMPRESSION:
+     1. Marked improvement in right pneumothorax following small-bore chest tube
+     placement.  Small residual apical pneumothorax remaining.
+     
+     2. Nasogastric tube coiled within an apparent hiatal hernia, with distal tip
+     directed cephalad.
+
+",,
+5278,4965,,,2813-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-22**] 9:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9838**]
+     Reason: please check for pneumothorax                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old man with mental status changes, possible sepsis                    
+     REASON FOR THIS EXAMINATION:
+      please check for pneumothorax                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   48 y/o with mental status changes and possible sepsis, please
+     check for pneumothorax. 
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from  [**2813-1-21**].
+     
+     There is a large right tension pneumothorax causing shift in the mediastinum
+     to the left. The left lung is clear of consolidation.  There are mild
+     degenerative changes seen in the shoulders bilaterally.
+     
+     IMPRESSION:   Large right sided tension pneumothorax. These findings were
+     reported to Dr. [**Last Name (STitle) 7306**] at 10:30 a.m. on [**2813-1-22**].
+
+",,
+5278,4965,6546,0,2813-01-22 05:49:00 EST,2813-01-22 06:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT ADMITTED TO MICU AT 0215 W/ UROSEPSIS AND HYPOTENSION. 
+
+NEURO: PT HAS A HISTORY OF MENTAL RETARDATION. PT ALERT OX1, ABLE TO FOLLOW SIMPLE COMMANDS. PT C/O GENERALIZED PAIN W/ TOUCH AND MOVEMENT. PT WAS ABLE TO FALL ASLEEP W/ NO PAIN MEDICATION GIVEN. 
+
+RESP: LS CLEAR, DIMINISHED AT BASES. 02 SATS ON ADMISSION 89-91% ON RA. PT PLACED ON 4L NC W/ O2 SATS 100%. 
+
+CV: HR 90-110 NSR, NO ECTOPY NOTED. SBP ON ADMISSION 110. PT WAS ON DOPAMINE 7.5MCG/KG/MIN. ABLE TO WEAN OFF DOPA. PT GIVEN 3 500CC NS BOLUSES. SBP 100-110. IVF NS 150CC/HR. AM LABS PENDING. 
+
+GI/GU: ABD SOFT, +BS, NO BM. PT IS NPO. FOLEY INTACT DRAINING CLEAR LIGHT YELLOW URINE ~200CC/HR. 
+
+ACCESS: PT HAS A TRAUMA INTRODUCER W/ A TRIPLE LUMEN THROUGHT PORT. DRESSING CHANGED. 
+
+SKIN: PT WAS MULTIPLE ABRASIONS OVER UPPER EXTREMITIES AND BACK. STAGE 2 DECUB ON COCCYX, DUODERM APPLIED. PERI SKIN AREA EXCORIATED. PT GIVEN FULL BATH AND SKIN CARE. MOUTH CARE GIVEN, PT HAS MOUTH SORES. 
+
+DISPO: PLAN IS TO TREAT HYPOTENSION W/ FLUID BOLUSES. MONITOR MENTAL STATUS. SOCIAL WORK CONSULT FOR TODAY. PT REMAINS A FULL CODE IN MICU.  
+",,
+5278,4965,6546,0,2813-01-22 17:20:00 EST,2813-01-22 17:33:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO:  PT SOMNOLENT AND AROUSES TO STIMULI.  PT WILL OCC FOLLOW SIMPLE COMMANDS.  +PERRLA NOTED.  GAG INTACT.  PT SEDATED WITH VERSED AND FENTANYL FOR BEDSIDE PROCEDURE.
+CV:  MONITOR SHOWS NSR WITH NO ECTOPY NOTED.  REMAINS OFF PRESSORS. 
+RESP:  LS ABSENT ON R SIDE IN AM.  CXR OBTAINED AND + PNEUMOTHORAX SECONDARY TO PREVIOUS ATTEMPTED LINE PLACEMENT. R CT INSERTED ---LOW WALL SXN WITH +FLUCTUATION/+AIR LEAK.  NO CREPITUS NOTED.  LS CLEAR WITH DIMINISHED BREATH SOUNDS BIBASILAR.  F/U CXR TO BE OBTAINED LATE EVE TO EVAL AIR LEAK.
+GI:  ABD SOFT AND NONTENDER.  +BS NOTED.  NGT INSERTED AND STARTED ON BOOST PLUS TF'S AT 10 CC/HR AND TO BE ADVANCED AS TOLERATED TO GOAL OF 65 CC/HR.
+GU:  FOLEY INTACT AND PATENT DRAINING YELLOW URINE WITH SM AMT SEDIMENTATION NOTED.  
+SKIN:  DUODERM TO COCCYX D+I.  R UPPER THIGH TRASPARENT WITH SCANT AMT OLD DRAINAGE NOTED.  ORAL MOUTH SORES NOTED AND MOUTH CARE GIVEN.  
+HEME:  K REPLETED AS ORDERED.  PT REMAINS ON SERIAL NA CHECKS Q3HR.  MOST RECENT NA=156.  TEAM AWARE.  PT STARTED ON D5W @ 125 CC/HR IN ADDITION TO 1/2 NS @ 75 CC/HR. 
+I-D:  AFEBRILE.  REMAINS ON CEFTRIAXONE.  
+PSY-SOC:  FATHER IN TO VISIT IN AFTERNOON AND UPDATED ON STATUS AND PLAN OF CARE.  MOTHER CALLED THIS EVE AND UPDATED ON STATUS.  ? TRANSFER TO FLOOR IN AM.
+
+",,
+5278,4965,6546,,2813-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-23**] 7:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9845**]
+     Reason: RECHECK picc TIP PLACEMENT.  PLEASE PAGE  # [**Pager number 1034**] WITH WET R
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          48 year old man with collapse of R lung s/p CT placement                    
+         
+     REASON FOR THIS EXAMINATION:
+      RECHECK picc TIP PLACEMENT.  PLEASE PAGE  # [**Pager number 1034**] WITH WET READ ASAP.  THANKS   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  48 y/o man with collapse of right lung, status post chest tube
+     placement.  Also please recheck PICC tip placement.
+     
+     COMPARISON:  [**2813-1-23**] at 18:04
+     
+     PORTABLE CHEST:  Again noted is a right apical pneumothorax which has
+     increased slightly in size.  The right sided chest tube remains in place
+     however a small right pig-tail has been removed.  The tip of a left PICC line
+     has been pulled back and is now located in the superior vena cava.  The tip of
+     nasogastric tube is coiled in a hiatal hernia.  There is bilateral lower lobe
+     opacities which could represent atelectasis however an infectious process
+     cannot be excluded.  There are also small bilateral effusions.  The visualized
+     bones are unremarkable except for mild degenerative changes in the shoulders.
+     
+     IMPRESSION:
+     1)  Small apical right pneumothorax increased slightly in size.
+     2)  PICC line tip in the superior vena cava.
+     3)  Bilateral lower lobe atelectasis or early pneumonia.
+     4)  Bilateral effusions.
+     
+
+",,
+5278,4965,6546,,2813-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-23**] 3:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9843**]
+     Reason: assess PTX                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with mental status changes, possible sepsis s/p failed     
+      subclavian line and right IJ line attempt in ED with tension PTX, s/p chest 
+      tube   
+     REASON FOR THIS EXAMINATION:
+      assess PTX. pt also has some free air under right diaphram so please preform 
+      this exam as upright as possible.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Re-assess the right pneumothorax and crescentic lucency at right
+     base medially.
+     
+     PORTABLE CHEST: Comparison is made to an earlier film from the same day. NG
+     tube is stable and is unchanged in position. There is a new left PICC catheter
+     with its tip in the SVC.
+     
+     A small bore right chest tube remains in place. Of note, the right
+     pneumothorax has increased in size and is now relatively large, although there
+     is no overt tension.
+     
+     There is improved aeration in the left base, which may reflect more dependent
+     position of left pleural fluid. There are no findings suspicious for free air
+     under either hemidiaphragm.
+     
+     IMPRESSION: 1) Interval increase in right pneumothorax, which is now
+     relatively large.
+     2) New PICC catheter tip in SVC.
+     
+     
+     
+     
+
+",,
+5278,4965,6546,,2813-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-23**] 5:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9844**]
+     Reason: s/p chest tube for PTX                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         48 year old man with collapse of R lung s/p CT placement                     
+       
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube for PTX                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right chest tube placement.
+     
+     PORTABLE CHEST: Comparison is made to 2 prior films from earlier today. A new
+     right chest tube has been placed, with near complete re-expansion of the right
+     lung; there is still  residual pneumothorax medially. The PICC catheter tip
+     presumably was partly blurred on the last study, and is now seen to extend
+     caudally to the level of the inferior right atrium where it is coursing
+     medially.
+     
+     There is improving aeration in the right lung base. There is minimal patchy
+     increased density at the right base, which may reflect some atelectasis. There
+     is still some streaky increased density just above the hemidiaphragm but again
+     no findings to suggest free intraperitoneal air.
+     
+     IMPRESSION: 1) New right chest tube in place with considerable re-expansion of
+     the right lung; residual pneumothorax is noted medially.
+     
+     2) PICC catheter in inferomedial right atrium; the venous access Team has been
+     notified and will pull the venous catheter back into the distal SVC.
+     
+     3) Patchy bibasilar infiltrates, with interval improvement in aeration of the
+     left base.
+     
+     ADDENDUM: A very small residual pneumothorax is also noted on the right
+     superolaterally.
+     
+     
+     
+     
+     
+
+",,
+5278,4965,6546,,2813-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-23**] 6:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9841**]
+     Reason: please evaluate PTX                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           48 year old man with mental status changes, possible sepsis s/p failed    
+      subclavian line and right IJ line attempt in ED with tension PTX.  Now s/p    
+      decompression.                   
+     REASON FOR THIS EXAMINATION:
+      please evaluate PTX                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pneumothorax followup.
+     
+     PORTABLE CHEST: Comparison is made to three prior films from yesterday.
+     
+     A nasogastric tube is stable in position (presumably the tip is in a hiatal
+     hernia). A small bore right chest tube remains in place. There is still a
+     moderate sized right pneumothorax, without definite change from the film of
+     late last night, but larger than on the initial post chest tube placement film
+     of 3:42 PM yesterday. Mild diffuse prominent interstitial markings suggests
+     mild diffuse interstitial edema. There is a more focal area of increased
+     density at the right base medially and also at the left base, the latter
+     possibly reflecting a left pleural effusion.
+     
+     Note is also made of a small atypical crescentic air collection which is in
+     close proximity to the right hemidiaphragm medially. A somewhat similar
+     appearance was seen on the most recent prior film. This does not clearly
+     represent free intraperitoneal air as the patient is supine on both of these
+     views and may instead reflect some juxtaposed basilar subsegmental
+     atelectasis, although clinical correlation is recommended.
+     
+     IMPRESSION: 1. No change in position of NG tube and small bore right chest
+     tube.
+     2. Moderate sized pneumothorax, increased from the film of 3:42 PM yesterday.
+     3. Findings suggesting diffuse interstitial edema and likely left pleural
+     effusion.
+     4. See above comments regarding a small crescentic lucency at the right lung
+     base in proximity to the hemidiaphragm. Clinical correlation is recommended;
+     an upright chest xray may be useful.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 9842**] [**Last Name (NamePattern1) **].
+     
+
+",,
+5278,4965,6546,0,2813-01-23 05:28:00 EST,2813-01-23 05:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: PT ALERT, OX1, MAE. PT ABLE TO FOLLOW SIMPLE COMMANDS. PT C/O PAIN W/ T&P, NOT ABLE TO TELL WHERE THE PAIN IS. PT WAS ABLE TO [**Doctor Last Name **] PERIODICALY THROUGH OUT NIGHT. 
+
+RESP: PT CONTINUES ON 3L NC. CT WAS CLAMPED OFF AT 1900 AND REPEAT XRAY DONE AT 2130. XRAY SHOWED RECOLLAPSE, CT PLACED BACK TO SUCTION. REPEAT XRAY DUE THIS AM. LS DIMINISHED ON RIGHT. PT DENIES ANTY SOB. O2 SATS 98-100%. 
+
+CV: HR 70-80'S NSR, NO ECTOPY. SBP 90-120'S. IVF D5W INCREASED TO 150CC/HR FOR A REPEAT NA OF 156. PT RECEIVING KPHOS 15MMOL FOR A PHOS OF 1.3. AM LABS PENDING. PT AFEBRILE. 
+
+GI/GU: ABD SOFT, HYPO BS, NO BM. TF BOOST PLUS CURRENTLY AT 20CC/HR. PT REMAINS NPO. PT GUMS BLEEDING. PT GIVEN Q2 MOUTH CARE. FOLEY INTACT DRAINING CLEAR YELLOW URINE ~150CC/HR. 
+
+DISPO: PLAN IS FOR REPEAT XRAY TO ASSESS PNX. NO CONTACT W/ FAMILY OVERNIGHT. PT REMAINS IN MICU AS A FULL CODE. 
+",,
+5278,4965,6546,0,2813-01-23 18:14:00 EST,2813-01-23 18:28:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO:  PT A+OX2.  PT OPENS EYES TO VOICE AND FOLLOWS SIMPLE COMMANDS. PT RECEIVED FENTANYL 25 MCG AND VERSED 2 MG FOR BEDSIDE PROCEDURE.
+CV:  MONITOR SHOWS NSR WITH NO ECTOPY NOTED.  
+RESP:  LS DIMINISHED R SIDE AND L BASE.  CXR FROM AM WITH INCREASED SIZE OF PNEUMOTHORAX.  CT SURGERY UP TO PLACE R SIDED CT.  CXR OBTAINED AND RESULTS PENDING/  ? D/C ANT CT ONCE PLACEMENT CONFIRMED.  
+NO SOB OR RESP DISTRESS NOTED.  
+GI:  ABD SOFT AND NONTENDER.  +BS NOTED.  TF'S OFF SECONDATY TO HIGH RESIDUALS.  ? RESUME AGAIN LATER THIS EVE.
+GU:  FOLEY INTACT AND PATENT DRAINING YELLOW URINE WITH SEDIMENTATIN NOTE.
+SKIN: TRANSPARENT DSG TO R UPPER THIGH INTACT.  DUODERM TO COCCYX D+I WITH NO DRAINAGE NOTED.  ORAL MOUTH SORES WITH BLEEDING GUMS AND FREQUENT MOUTH CARE.  GROIN AREA REDDENED AND APPEARS FUNGAL AND PT STARTED ON NYSTATIN POWDER.
+I-D:  TEMP MAX 97 PR.  REMAINS ON CEFTRIAXONE. URINE AND BLOOD WITH NO GROWTH TO DATE.  
+HEME:  K REPLETED AS ORDERED AND REMAINS ON NA CHECKS Q4HR.
+PSY-SOC:  FATHER IN TO VISIT AND UPDATED ON STATUS AND PLAN OF CARE.  ELDERLY FATHER EXPRESSING CONCERNS OF FEELING OVERWHELMED AND NEEDING ASSISTANCE AT HOME WITH REGARDS TO SON AND WIFE'S PHYSICAL CARE. SOCIAL SERVIES TO FOLLOW UP WITH IN AM.  ? CASE MGMT INVOLEMENT FOR D/C PLANNING.  DR. [**Last Name (STitle) 8398**] NOTIFIED AND WILL F/U IN AM. 
+ 
+",,
+5278,4965,6546,1,2813-01-23 18:14:00 EST,2813-01-23 18:49:00 EST,-1,"Y",69,"Nursing/Other",,"
+
+IV RN UP TO PLACE PICC LINE IN L AC WITH +PLACEMENT BY XRAY. TEAM TO D/C CORDIS THIS EVE AND ? TRANSFER TO FLOOR.
+",,
+5278,4965,,,2813-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-24**] 9:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9846**]
+     Reason: NGT placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           48 year old man with collapse of R lung s/p CT placement, ngT repositioned 
+                             
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 48 y/o with collapse of the right lung s/p chest tube placement and
+     NG tube repositioning.
+     
+     COMPARISON: [**2813-1-23**].
+     
+     PORTABLE CHEST: There is still a small right apical pneumothorax which has
+     increased slightly compared to prior study. There is a left PICC line with its
+     tip in the superior vena cava. NG tube present with its tip in the distal
+     stomach. Again noted are bilateral lower lobe opacities which are most
+     consistent with atelectasis. There is also a right effusion. Right chest tube
+     placed. Visualized bones are unremarkable except for degenerative changes in
+     the shoulders.
+     
+     IMPRESSION: 1) Small right apical pneumothorax increased slightly in size.
+     2) NG tube with its tip in the distal stomach.
+     3) Bilateral lower lobe opacities which may represent atelectasis, however, an
+     infectious process can't be excluded.
+
+",,
+5278,4965,,,2813-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-25**] 8:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9847**]
+     Reason: PTX                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            48 year old man with collapse of R lung s/p CT placement                  
+     REASON FOR THIS EXAMINATION:
+      PTX                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     INDICATION: Pneumothorax.
+     
+     Comparison is made to previous study of 1 day earlier.
+     
+     The examination is technically suboptimal due to exclusion of the lung apices
+     from the radiograph. For this reason, the exam is being repeated at no
+     additional charge to the patient and the repeat study will be dictated
+     separately.
+     
+     Single chest tube remains in place in the right hemithorax. The previously
+     noted right apical pneumothorax is not visualized but this portion of the lung
+     is not included on the radiograph. Cardiac and mediastinal contours are stable
+     in the interval. There is persistent patchy increased opacity in the lung
+     bases, unchanged in the interval, and there is persistent small right pleural
+     effusion.
+     
+     IMPRESSION: Previously noted right apical pneumothorax cannot be assessed due
+     to exclusion of the lung apices from the radiograph. The radiograph is
+     scheduled to be repeated at no additional charge and the repeat study will be
+     dictated separately.
+
+",,
+5278,4965,,,2813-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-25**] 9:06 AM
+     CHEST (PORTABLE AP); REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 9848**]
+     Reason: APICES CLIPPED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: This is a repeat film done since the prior exam was technically
+     inadequate.
+     
+     COMPARISON: [**2813-1-25**] at 8:41 AM.
+     
+     FINDINGS: Compared to prior study there has been no change in the lines. Again
+     noted is a right apical pneumothorax which has not changed significantly.
+     There is a right lower lobe opacity most consistent with atelectasis. The
+     remainder of the exam is unchanged.
+     
+     IMPRESSION:
+     1. Right apical pneumothorax not significantly changed.
+     2. Right lower lobe atelectasis.
+
+",,
+5278,4965,,,2813-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-25**] 9:06 AM
+     CHEST (PORTABLE AP); REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 9848**]
+     Reason: APICES CLIPPED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: This is a repeat film done since the prior exam was technically
+     inadequate.
+     
+     COMPARISON: [**2813-1-25**] at 8:41 AM.
+     
+     FINDINGS: Compared to prior study there has been no change in the lines. Again
+     noted is a right apical pneumothorax which has not changed significantly.
+     There is a right lower lobe opacity most consistent with atelectasis. The
+     remainder of the exam is unchanged.
+     
+     IMPRESSION:
+     1. Right apical pneumothorax not significantly changed.
+     2. Right lower lobe atelectasis.
+
+",,
+5278,4965,,,2813-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-26**] 3:35 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9849**]
+     Reason: EVAL FOR ACUTE INTRACRANIAL PATHOLOGY, MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with h/o developmental delay, mental status changes persistent 
+      despite correction of hypernatremia and antibiotics for urosepsis
+     REASON FOR THIS EXAMINATION:
+      eval. for acute intracranial pathology                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status changes. Persistent despite correction of
+     hypernetremia??  and antibiotics for urosepsis.
+     
+     COMPARISON: [**2813-1-21**]
+     
+     TECHNIQUE: CT images of the head were acquired without IV contrast.
+     
+     FINDINGS: Patient motion degrades image quality. There is no gross
+     intraparenchymal or extra-axial hemorrhage.  There is no shift of the normal
+     midline structures.  The ventricles, sulci, and cisterns are unremarkable. The
+     [**Doctor Last Name 20**]/white matter differentiation is preserved.  Visualized paranasal sinuses,
+     soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION: No acute intracranial hemorrhage.  The exam was partially degrated
+     by repeated motion artifact.
+     
+
+",,
+5278,4965,,,2813-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-27**] 11:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9850**]
+     Reason: r/o pneumo                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             48 year old man with collapse of R lung s/p CT placement                 
+       
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  48 year old male with collapse of right lung, status post chest
+     tube placement.
+     
+     Comparison is made to the prior exam of [**2813-1-25**].
+     
+     FINDINGS:  The cardiomediastinal borders are unchanged.  There is a slight
+     residual apical pneumothorax on the right.  The right-sided chest tube is seen
+     in good position with its tip nearing the right apex, laterally.  A left
+     subclavian central venous line is seen with its tip at the junction of the SVC
+     and right atrium.  There is interval improvement of linear and patchy density
+     at the right base, consistent with resolving basilar atelectasis. There are no
+     pleural effusions.  The pulmonary vasculature is normal.  The soft tissues and
+     osseous structures are stable.
+     
+     IMPRESSION:  Tiny residual right apical pneumothorax.  Resolving right basilar
+     atelectasis.
+
+",,
+5278,4965,,,2813-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5278,4965,,,2813-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-30**] 12:05 AM
+     MR-ANGIO HEAD; MR HEAD W/O CONTRAST                             Clip # [**Clip Number (Radiology) 9851**]
+     Reason: MRI/MRA to evaluate for structural abnormalities of tissue a
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with likely mental retardation and mental status change from 
+      baseline
+     REASON FOR THIS EXAMINATION:
+      MRI/MRA to evaluate for structural abnormalities of tissue and vasculature      
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  48 y/o male with likely mental retardation and mental status changes
+     from his baseline.  Assess for structural abnormality of tissue and
+     vasculature.
+     
+     MRI OF HEAD
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images of the brain were obtained
+     without the administration of iv contrast.  Additional diffusion weighted
+     images were also  obtained.
+     
+     MR HEAD W/O CONTRAST:  This is a significantly limited evaluation of the brain
+     secondary to patient motion during the acquisition of images (note this was
+     also a technical problem on the patient's recent head CT exam of [**2813-1-26**]).
+     Allowing for these significant limitations, there is no gross evidence of mass
+     effect or shift of midline structures.  There is no ventriculomegaly.  The
+     cisterns and sulci demonstrate no discernible effacement.  There are no overt
+     T1 or T2 hypo/hyperintensities.  The [**Doctor Last Name 20**]/white matter interface is well
+     preserved. Diffusion weighted images show no evidence of acute vascular
+     territorial infarcts.
+     
+     BRAIN MRA
+     
+     TECHNIQUE:  3D time of flight images of the circle of [**Location (un) 405**] and its major
+     tributaries were obtained.
+     
+     BRAIN MRA W/O CONTRAST: Again, this is a significantly limited exam secondary
+     to patient motion.  There is no gross evidence of stenoses, aneurysmal
+     dilatations or areas of diminutive flow.  There is a focal area of decreased
+     signal within the precavernous portion of the right internal carotid artery,
+     which appears probably secondary to motion artifact on the source images.
+     There is no evidence, however, of decreased  flow distal to thsi region,  on
+     these images.
+     
+     IMPRESSION:  Marginal quality study due to gross patient motion,  with no
+     perceptible abnormalities except for a focal area of discontinuity in the
+     precavernous portion of the right internal carotid artery, as discussed above.
+     Correlation with the patient's clinical examination is recommended, as this
+     finding may be secondary to significant patient motion during the acquisition
+     of images- if there remains concern for a stenotic lesion in this locale, a
+     CT angiogram may be a useful correlative study, if there is no
+     contraindication to iodinated contrast infusion.
+       
+                                                                 (Over)
+
+     DATE: [**2813-1-30**] 12:05 AM
+     MR-ANGIO HEAD; MR HEAD W/O CONTRAST                             Clip # [**Clip Number (Radiology) 9851**]
+     Reason: MRI/MRA to evaluate for structural abnormalities of tissue a
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+
+",,
+5278,4965,,,2813-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-1-30**] 12:05 AM
+     MR-ANGIO HEAD; MR HEAD W/O CONTRAST                             Clip # [**Clip Number (Radiology) 9851**]
+     Reason: MRI/MRA to evaluate for structural abnormalities of tissue a
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with likely mental retardation and mental status change from 
+      baseline
+     REASON FOR THIS EXAMINATION:
+      MRI/MRA to evaluate for structural abnormalities of tissue and vasculature      
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  48 y/o male with likely mental retardation and mental status changes
+     from his baseline.  Assess for structural abnormality of tissue and
+     vasculature.
+     
+     MRI OF HEAD
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images of the brain were obtained
+     without the administration of iv contrast.  Additional diffusion weighted
+     images were also  obtained.
+     
+     MR HEAD W/O CONTRAST:  This is a significantly limited evaluation of the brain
+     secondary to patient motion during the acquisition of images (note this was
+     also a technical problem on the patient's recent head CT exam of [**2813-1-26**]).
+     Allowing for these significant limitations, there is no gross evidence of mass
+     effect or shift of midline structures.  There is no ventriculomegaly.  The
+     cisterns and sulci demonstrate no discernible effacement.  There are no overt
+     T1 or T2 hypo/hyperintensities.  The [**Doctor Last Name 20**]/white matter interface is well
+     preserved. Diffusion weighted images show no evidence of acute vascular
+     territorial infarcts.
+     
+     BRAIN MRA
+     
+     TECHNIQUE:  3D time of flight images of the circle of [**Location (un) 405**] and its major
+     tributaries were obtained.
+     
+     BRAIN MRA W/O CONTRAST: Again, this is a significantly limited exam secondary
+     to patient motion.  There is no gross evidence of stenoses, aneurysmal
+     dilatations or areas of diminutive flow.  There is a focal area of decreased
+     signal within the precavernous portion of the right internal carotid artery,
+     which appears probably secondary to motion artifact on the source images.
+     There is no evidence, however, of decreased  flow distal to thsi region,  on
+     these images.
+     
+     IMPRESSION:  Marginal quality study due to gross patient motion,  with no
+     perceptible abnormalities except for a focal area of discontinuity in the
+     precavernous portion of the right internal carotid artery, as discussed above.
+     Correlation with the patient's clinical examination is recommended, as this
+     finding may be secondary to significant patient motion during the acquisition
+     of images- if there remains concern for a stenotic lesion in this locale, a
+     CT angiogram may be a useful correlative study, if there is no
+     contraindication to iodinated contrast infusion.
+       
+                                                                 (Over)
+
+     DATE: [**2813-1-30**] 12:05 AM
+     MR-ANGIO HEAD; MR HEAD W/O CONTRAST                             Clip # [**Clip Number (Radiology) 9851**]
+     Reason: MRI/MRA to evaluate for structural abnormalities of tissue a
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+
+",,
+5278,4965,,,2813-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-2**] 12:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9852**]
+     Reason: pt with elevated wbc, no localizing symptoms                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              48 year old man with collapse of R lung s/p CT placement                
+         
+     REASON FOR THIS EXAMINATION:
+      pt with elevated wbc, no localizing symptoms                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 48 year old man with right lung collapse, status post chest tube
+     placement and elevated white blood count.
+     
+     AP SUPINE PORTABLE CHEST: [**2813-2-2**] at noon.
+     
+     Since prior exam dated [**2813-1-27**], the right chest tube has been pulled. No
+     pneumothorax is seen. Patchy density in the right mid lung probably represents
+     atelectasis. The patient is rotated. Density behind the heart to the right
+     side of the vertebral column is once again noted. It is unclear whether this
+     represents atelectasis or a mass behind the heart.
+
+",,
+5278,4965,,,2813-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-2**] 2:33 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9853**]
+     Reason: diffusion-weighted image to eval. for ischemic changes, othe
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old man with improving encephalopathy, nystagmus, possible pervasive 
+      developmental disorder
+     REASON FOR THIS EXAMINATION:
+      diffusion-weighted image to eval. for ischemic changes, other structural 
+      abnormalities
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN.
+     
+     CLINICAL INFORMATION:  Patient with improving encephalopathy, nystagmus and
+     possible ischemic changes for further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2, susceptibility and diffusion
+     axial images of the brain were obtained.  The patient was unable to hold still
+     and several of the sequences are limited by motion.  Comparison was made with
+     the previous study of [**2813-1-30**].
+     
+     FINDINGS:  The diffusion-weighted images demonstrate no evidence of an area of
+     restricted diffusion to indicate acute infarct.  No evidence of mass effect,
+     midline shift or hydrocephalus is seen.  No focal areas to indicate chronic or
+     acute hemorrhage are identified on the susceptibility images.
+     
+     IMPRESSION:  No evidence of acute infarct or change compared to the previous
+     study.
+     
+
+",,
+5278,4965,,,2813-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-3**] 10:40 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9854**]
+     Reason: 48yo please eval for retrocardiac opacity                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with ?developmental delay, with rising wbc                      
+     REASON FOR THIS EXAMINATION:
+      48yo please eval for retrocardiac opacity                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  48 y/o man with rising white blood count.  Please evaluate for
+     retrocardiac opacity.
+     
+     PA AND LATERAL CHEST:  Comparison is made to prior supine portable chest on
+     [**2813-2-2**].  There is new right upper lobe opacity consistent with an acute
+     infiltrate.  Retrocardiac density shows a hiatal hernia and pleural effusion.
+     Due to patient rotation I cannot determine which side this effusion is on.
+     Incidental note is made of deformity of the right humeral head with
+     degenerative changes.
+     
+     IMPRESSION: New right upper lobe infiltrate.  Pleural effusion ? which side.
+     Hiatal hernia.
+
+",,
+5278,4965,,,2813-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-5**] 1:40 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 9855**]
+     Reason: is there any aspiration                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with delta MS 2nd to ?autism and ?toxic-metabolic 
+      encephalopathy
+     REASON FOR THIS EXAMINATION:
+      is there any aspiration                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  MS, ? autism or metabolic encephalopathy, ? aspiration.
+     
+     TECHNIQUE: The study was performed in conjunction with speech therapist.
+     Various consistencies of barium were administered orally.
+     
+     ORAL PHASE: The patient demonstrates a tremulous tongue with difficult
+     initiation or oral transit.  There is moderate discoordination within the
+     oral phase.  There is no premature spilling.
+     
+     PHARYNGEAL PHASE: There is normal epiglottic deflection and laryngeal
+     elevation.  Penetration was identified with thin liquids during the swallow.
+     There is no evidence of aspiration.  There is mild residue with liquid within
+     the vallecula and pyriform sinuses.
+     
+     IMPRESSION: There is a slight delay in the initiation of the swallow with
+     difficult initial oral transit.  Penetration was identified with thin liquids.
+     However, there was no evidence of aspiration.
+     
+
+",,
+5278,14558,,,2813-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-22**] 3:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9856**]
+     Reason: r/o pneumo, infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              48 year old man with collapse of R lung s/p CT placement               
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo, infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Collapse of right lung s/p chest tube placement, rule out
+     pneumothorax or infiltrate.
+     
+     SINGLE VIEW CHEST:  The patient is rotated to the right.  Given the technique,
+     the heart size and mediastinal contours are unremarkable.  No pneumothorax is
+     identified.  The lungs are clear and there are no pleural effusions.  The
+     pulmonary vasculature is unremarkable.
+     
+     IMPRESSION:  No evidence for pneumothorax or infiltrate.
+
+",,
+5278,14558,6547,,2813-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-23**] 9:42 AM
+     PELVIS PORTABLE                                                 Clip # [**Clip Number (Radiology) 9857**]
+     Reason: ? right hip fracture                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with [**Hospital Unit Name 9858**] history, rheumatoid arthritis, found nonresponsive 
+      with severe hypernatremia, now with externally rotated right leg and pain.
+     REASON FOR THIS EXAMINATION:
+      ? right hip fracture                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PELVIS.
+     
+     History of rheumatoid arthritis and rotation of right leg.
+     
+     No definite fractures.  There is narrowing of the right hip joint with
+     subchondral sclerosis and prominent spurring on the acetabular rim and femoral
+     head consistent with degenerative changes possibly secondary to rheumatoid
+     arthritis.  No definite fracture on the available film.  Introducer sheath
+     overlies the left groin.  If there is high clinical suspicion for a right hip
+     fracture an MR exam would be helpful in view of the rotation and the prominent
+     degenerative changes.
+     
+
+",,
+5278,14558,6547,,2813-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-23**] 4:52 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 9859**]
+     Reason: Need lateral and externally rotated films to rule out fractu
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with [**Hospital Unit Name 9858**] history, rheumatoid arthritis, found nonresponsive  
+      with severe hypernatremia, now with externally rotated right leg and pain.
+     REASON FOR THIS EXAMINATION:
+      Need lateral and externally rotated films to rule out fracture.  Previous film 
+      poor film.  Prefer portable, but if unable to be portable, can travel.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT HIP TWO VIEWS.
+     
+     History of rheumatoid arthritis with externally rotated right leg.
+     
+     No definite fracture.  There  are degenerative changes with narrowing of the
+     right hip joint, subchondral sclerosis and spurring on the acetabular rim and
+     femoral head. No evidence for avascular necrosis.Because of these changes and
+     slight rotation, it is difficult to unequivocally rule out an impacted
+     subcapital fracture and if there is high clinical suspicion, evaluation with
+     MR exam may be helpful. Introducer sheath overlies the groin.
+     
+
+",,
+5278,14558,6547,0,2813-02-23 06:24:00 EST,2813-02-23 06:46:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 11P-7A","
+MICU NPN 11P-7A
+SEE FHP FOR PRIOR HISTORY.
+
+IN ED PATIENT HYPOTENSIVE WITH BP 20/PALP. 5L FLUID INFUSED WITH IMPROVEMENT OF BP. ALSO TACHY 120'S BUT DROPPED TO 90'S AFTER IVF. AFEBRILE BUT GIVEN DOSES FLAGYL AND LEVO WITH EVIDENCE OF ^^WBC WITH LEFT SHIFT. CXR DONE SHOWED NO ACUTE PROCESSES. BLD CX'S SENT AS WELL AS URINE. NA 177/169 WITH ^^CHLORIDE. BUN/CRE 85/3.2, LFT'S WNL AND CK WAS FLAT. PATIENT WITH +C DIFF FROM NH. TRANSFERRED TO MICU AT 2300.
+
+NEURO: PAIENT ARRIVED LETHARGIC DIFFICULT TO AROUSE. WHEN AROUSED PATIENT MUMBLING AND DIFFICULT TO UNDERSTAND. PATIENT CONFUSED AND ORIENTED TO SELF ONLY. PATIENT INCONSISTENTLY FOLLOWING COMMANDS. PATIENT RESTLESS AND CONSTANTLY MOVING IN BED. MUCH MORE EASILY AROUSED THIS AM BUT STILL CONFUSED. UNABLE TO ASSESS PUPILS AS PATIENT WILL NOT ALLOW. PATIENT TALKING IN [**Doctor Last Name **]. NO COMPLAINTS OF PAIN AT REST BUT WILL YELL OUT WHEN TURNED. PATIENT RESTRAINED FOR SAFETY OF LINES.
+
+CARDIAC: HR 85-96 SR WITH NO ECTOPY. BP 99-127/24-69. AGGRESSIVE HYDRATION CONTINUES. NO EDEMA. PEDAL PULSES PRESENT. HCT 32 DOWN FROM 39 (HEMODILUTION). NO SIGNS OF OBVIOUS BLEEDING. 
+
+RESP: ON 2L N/C WITH SATS 99-100% WITH RR 17-23. LSC W/DIMINISHED BASES. NO COUGH/CONG/SOB.
+
+GI: ABD SOFT SLIGHTLY DISTENDED WITH +BS. PATIENT ARRIVED TO MICU IN LARGE BROWN LOOSE STOOL. PATIENT ORDERED FOR HOUSE DIET. DID NOT ATTEMPT TO GIVE PATIENT ANY MEDS/FOOD [**2-24**] MS.
+
+GU: 60-120CC/HR YELLOW WITH SEDIMENT. BUN/CRE IMROVING NOW 75/2.7 
+
+ID: TMAX 97.9 WITH AM WBC 13.3. CURRENTLY NOT ON ANY ABX.
+
+FEN: STARTED ON .45% NS @250/HR WITH NA 169. 4AM NA WAS 162, SPOKE WITH DR [**First Name (STitle) **] AND GTT DECREASED TO 175CC/HR. CL REMAINS HIGH AT 131, K+ IS 3.7. 
+
+SKIN: STG 2 ON LEFT HEEL WET TO DRY DSG APPLIED. BILAT BUTTOCKS WITH LGE STG 2 COVERING ENTIRE AREA PINK BASE WITH YELLOW/TAN SLOUGH. 
+
+ACCESS: LEFT FEM INTRODUCER.
+
+SOCIAL: LIVES IN [**Location **], FATHER IS [**Name2 (NI) 991**]/PROXY. MD SPOKE WITH FAN=THER LAST NOC TO UPDATE. PATIENT IS A FULL CODE.
+
+PLAN: FOLLOW NA LEVEL Q6-8HRS AND ADJUST IVF ACCORDINGLY. 
+      FOLLOW BUN/CRE FOR RESOLUTION OF ARF.
+      NEEDS PIV'S SO FEM LINE CAN BE D/C'D.
+      IF LOOKS LIKE LONG TERM HOSPITAIZTION THEN WILL NEED SPECIAL BED
+      SKIN NURSE CONSULT NEEDED FOR TX OF BUTTOCKS PRESSURE SORE.
+
+
+",,
+5278,14558,6547,0,2813-02-23 17:33:00 EST,2813-02-23 17:44:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO:  Pt confused and oriented to person only.  Pt follows simple commands with purposeful movement of extremites noted.  
+CV:  Monitor shows NSR with no extopy noted.  SBP into 80's while sleeping.  
+RESP:  LS with bibasilar crackles noted.  No sob or resp distress noted.  
+GI:  Abd soft and distended.  +BS noted.  Inc lg stool this am.  Pt with good po intacke however appetite poor and 1:1 with meals.  
+GU:  Foley intact and patent draining yellow urine with sedimentation noted.
+SKIN:  Pt with R leg ? rotated.  Pt had films of pelvis and r hip to r/o fx.  Pt with recent fall and eccymotic area noted on r hip.  L foot dsg d+i with no drainage noted.  Coccyx with stage 4 ulcer with yellow wound bed.  Team notifed and plastics consulted.  Awaiting arrival of kinair bed and to start on Dakins w-d dsg's this eve.  
+HEME:  IVF decreased to 150 cc/hr as ordered.  Most recent serum na of 155 and will need repeat lab work this eve @ 2200.
+I-D:  Afebrile.  No abx at this time.  WBC elevated with L shift and team aware.  
+PSY-SOC:  Supportive family in to visit in afternoon and updated on status and plan of care.  Father expressing feeling overwhelmed with the situation.  Psych consulted and spoke with father and will follow. PT is c/o'd to medical floor, however bed not available at this time.  Pt with 1:1 sitters.
+",,
+5278,14558,6547,1,2813-02-23 17:33:00 EST,2813-02-23 18:36:00 EST,-1,"Y",69,"Nursing/Other",,"
+
+L foot dsg removed and wound bed with superficial open area noted and duoderm applied.  Pt placed on kinair bed.  WIll need coccyx dsg done this eve (awaiting from pharm).
+",,
+5278,14558,,,2813-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-26**] 3:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9860**]
+     Reason: r/o pneumonia vs atelectasis                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      48 year old man with hypernatremia, hypovolemia, AMS, new rising WBC with 
+      crackles at lung bases.
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia vs atelectasis                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 49 y/o man with a history of hyponatremia and altered mental status
+     with an elevated white count and crackles in the lung bases.
+     
+     COMPARISON: Portable AP chest radiograph of [**2813-2-22**].
+     
+     AP PORTABLE CHEST RADIOGRAPH: The heart size is within normal limits. The
+     patient is slightly rotated to the right. There is widening of the middle
+     mediastinum, at the suprahilar level, that was present on the previous chest
+     radiograph, but not present on a prior study of [**2813-2-2**]. It is unlikely to be
+     pleural collection, lung collapse or a mediastinal mass, however, clinical
+     correlation and CT should be considered to evaluate the nature of this widened
+     mediastinum. No pleural effusions are seen. The pulmonary vascularity appears
+     normal.
+     
+     IMPRESSION: 1) No evidence of CHF. 2) Mediastinal widening as described above.
+     Clinical correlation and CT should be considered to evaluate its nature.
+
+",,
+5278,14558,,,2813-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-27**] 10:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9861**]
+     Reason: NG tube placement                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old man with hypernatremia, hypovolemia, AMS, new rising WBC with  
+      crackles at lung bases. NG tube placed tonight for decompression for IR PEG 
+      tomorrow.
+     REASON FOR THIS EXAMINATION:
+      NG tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2813-2-27**]:
+     
+     CLINICAL INDICATION:  NGT placement.  Rising white blood cell count.
+     
+     A NGT has been placed, and coils in the upper stomach with the distal tip
+     directed cephalad within the lower thoracic esophagus.
+     
+     There is extreme rightward rotation of the patient limiting assessment of
+     cardiac and mediastinal contours.  The lungs appear grossly clear.
+     
+     IMPRESSION:  Malpositioned NGT, coiling in the proximal stomach with distal
+     tip directed cephalad in the lower thoracic esophagus.  Findings communicated
+     with the clinical service caring for the patient.
+
+",,
+5278,14558,,,2813-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-28**] 7:36 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9862**]
+     Reason: please place feeding tube.                                  
+     ********************************* CPT Codes ********************************
+     * 76000 FLUORO 1 HR W/RADIOLOGIST                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with AMS, baseline Mental retardation who has had a few months 
+      of decreased po intake and sacral decub ulcer.
+     REASON FOR THIS EXAMINATION:
+      please place feeding tube.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  AMS, baseline mental retardation, a few months of decreased PO
+     intake, sacral decubitus ulcer, dehydration, requires percutaneous gastrostomy
+     tube.
+     
+     RADIOLOGISTS:  The procedure attempted by Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1562**] and [**Doctor Last Name 294**]-D'Othee,
+     staff radiologist present and supervising the procedure.
+     
+     TECHNIQUE:  The patient's daughter was informed of the details and associated
+     risks of the procedure and witnessed telephone consent was obtained.  The
+     patient was placed supine on the angiographic table and abdomen sterile
+     prepped and draped in the usual fashion.  Prior to study a NGT was placed and
+     gastric viscus suctioned.  Under fluoroscopy the stomach was insufflated and
+     fluoroscopy demonstrated the stomach to be between the 10th and 12th ribs with
+     colon positioned at the side of the stomach.  With examination in multiple
+     obliquities it was decided that a good window for percutaneous gastrostomy was
+     not present and the procedure was aborted.
+     
+     IMPRESSION:  Unable to place percutaneous gastrostomy tube due to patient's
+     anatomy.
+
+",,
+5278,14558,,,2813-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-2-28**] 10:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9863**]
+     Reason: NG tube placement - pulled back about 10cm                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        48 year old man with hypernatremia, hypovolemia, AMS, new rising WBC with   
+      crackles at lung bases. NG tube placed tonight for decompression for IR PEG  
+      tomorrow.
+     REASON FOR THIS EXAMINATION:
+      NG tube placement - pulled back about 10cm                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Repositioning of NG tube.
+     
+     PORTABLE CHEST:  Comparison is made to [**2813-2-27**].  Allowing for differences in
+     rotation, the cardiac and mediastinal contours are stable.  There is a NG
+     tube, which extends below the diaphragm. However, the tip reverts back
+     superiorly and is above the diaphragm. The position is not significantly
+     changed from the previous exam. The lungs are clear.
+
+",,
+5278,14558,,,2813-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-1**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9864**]
+     Reason: Please place PICC for TPN.                                  
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered mental status with malnutrition and sacral decub 
+      ulcer.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC for TPN.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Requires TPN.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**Last Name (STitle) 2221**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee
+     with Dr. [**Last Name (STitle) 294**] [**Name (STitle) **] (the staff radiologist) present and supervising.
+     Dr. [**Last Name (STitle) 1078**] reviewed the case.
+     
+     TECHNIQUE AND FINDINGS: The right upper arm was prepped in a sterile fashion.
+     No suitable superficial veins were visible so ultrasound was used for
+     localization of a suitable vein. The brachial vein was patent and
+     compressible.  After local anesthesia with 2 ml of 1% Lidocaine, the brachial
+     vein was entered under ultrasonographic guidance with a 21 gauge needle.  A
+     0.018 guidewire was advanced under fluoroscopy into the superior vena cava.
+     Based on the markers on the guidewire, it was determined that a length of 34
+     cm was suitable.  The PICC was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the SVC.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic image was obtained.
+     The film demonstrates the tip to be in the lower SVC, proximal atrium.  The
+     line is ready is use. A Statlock was applied and the line was Heplocked.
+     
+     IMPRESSION: Successful placement of a 34 cm long, 5 French, double lumen PICC
+     with tip in the proximal right atrium. The line is ready for use. 
+
+",,
+5278,14558,,,2813-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-1**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9864**]
+     Reason: Please place PICC for TPN.                                  
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered mental status with malnutrition and sacral decub 
+      ulcer.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC for TPN.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Requires TPN.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**Last Name (STitle) 2221**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee
+     with Dr. [**Last Name (STitle) 294**] [**Name (STitle) **] (the staff radiologist) present and supervising.
+     Dr. [**Last Name (STitle) 1078**] reviewed the case.
+     
+     TECHNIQUE AND FINDINGS: The right upper arm was prepped in a sterile fashion.
+     No suitable superficial veins were visible so ultrasound was used for
+     localization of a suitable vein. The brachial vein was patent and
+     compressible.  After local anesthesia with 2 ml of 1% Lidocaine, the brachial
+     vein was entered under ultrasonographic guidance with a 21 gauge needle.  A
+     0.018 guidewire was advanced under fluoroscopy into the superior vena cava.
+     Based on the markers on the guidewire, it was determined that a length of 34
+     cm was suitable.  The PICC was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the SVC.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic image was obtained.
+     The film demonstrates the tip to be in the lower SVC, proximal atrium.  The
+     line is ready is use. A Statlock was applied and the line was Heplocked.
+     
+     IMPRESSION: Successful placement of a 34 cm long, 5 French, double lumen PICC
+     with tip in the proximal right atrium. The line is ready for use. 
+
+",,
+5278,14558,,,2813-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-1**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9864**]
+     Reason: Please place PICC for TPN.                                  
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered mental status with malnutrition and sacral decub 
+      ulcer.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC for TPN.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Requires TPN.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**Last Name (STitle) 2221**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee
+     with Dr. [**Last Name (STitle) 294**] [**Name (STitle) **] (the staff radiologist) present and supervising.
+     Dr. [**Last Name (STitle) 1078**] reviewed the case.
+     
+     TECHNIQUE AND FINDINGS: The right upper arm was prepped in a sterile fashion.
+     No suitable superficial veins were visible so ultrasound was used for
+     localization of a suitable vein. The brachial vein was patent and
+     compressible.  After local anesthesia with 2 ml of 1% Lidocaine, the brachial
+     vein was entered under ultrasonographic guidance with a 21 gauge needle.  A
+     0.018 guidewire was advanced under fluoroscopy into the superior vena cava.
+     Based on the markers on the guidewire, it was determined that a length of 34
+     cm was suitable.  The PICC was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the SVC.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic image was obtained.
+     The film demonstrates the tip to be in the lower SVC, proximal atrium.  The
+     line is ready is use. A Statlock was applied and the line was Heplocked.
+     
+     IMPRESSION: Successful placement of a 34 cm long, 5 French, double lumen PICC
+     with tip in the proximal right atrium. The line is ready for use. 
+
+",,
+5278,14558,,,2813-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-1**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9864**]
+     Reason: Please place PICC for TPN.                                  
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered mental status with malnutrition and sacral decub 
+      ulcer.
+     REASON FOR THIS EXAMINATION:
+      Please place PICC for TPN.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Requires TPN.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**Last Name (STitle) 2221**] and [**Name5 (PTitle) 294**] [**Name5 (PTitle) **]'Othee
+     with Dr. [**Last Name (STitle) 294**] [**Name (STitle) **] (the staff radiologist) present and supervising.
+     Dr. [**Last Name (STitle) 1078**] reviewed the case.
+     
+     TECHNIQUE AND FINDINGS: The right upper arm was prepped in a sterile fashion.
+     No suitable superficial veins were visible so ultrasound was used for
+     localization of a suitable vein. The brachial vein was patent and
+     compressible.  After local anesthesia with 2 ml of 1% Lidocaine, the brachial
+     vein was entered under ultrasonographic guidance with a 21 gauge needle.  A
+     0.018 guidewire was advanced under fluoroscopy into the superior vena cava.
+     Based on the markers on the guidewire, it was determined that a length of 34
+     cm was suitable.  The PICC was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the SVC.  The sheath was
+     removed.  The catheter was flushed.  A final fluoroscopic image was obtained.
+     The film demonstrates the tip to be in the lower SVC, proximal atrium.  The
+     line is ready is use. A Statlock was applied and the line was Heplocked.
+     
+     IMPRESSION: Successful placement of a 34 cm long, 5 French, double lumen PICC
+     with tip in the proximal right atrium. The line is ready for use. 
+
+",,
+5278,14558,,,2813-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5278,14558,,,2813-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with encephalopathy p/w persistent tachycardia and some SOB 
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      r/o abscess                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Encephalopathy with persistent tachycardia and shortness of
+     breath.  Fevers without source.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multiple axial images from the thoracic inlet to the pubic
+     symphysis were obtained following the administration of oral contrast as well
+     as 150 cc of Optiray due to patient debility.
+     
+     CHEST WITH CONTRAST:  Several small lymph nodes are present within the left
+     axilla and the mediastinum.  There is no right axillary lymphadenopathy. There
+     is consolidation in the posterior segment of the right upper lobe. Adjacent to
+     this, in the superior segment of the right upper lobe, there is a rounded
+     focus of mass-like density which may be related to infection, but follow up to
+     resolution is recommended to exclude TB or lung cancer.  In the right lower
+     lobe, there is a patchy change consistent with aspiration.  The left lung is
+     relatively clear. There are no pleural effusions.  There is a large hiatal
+     hernia.
+     
+     ABDOMEN WITH CONTRAST:  The liver, gallbladder, adrenal glands, and kidneys
+     are within normal limits.  The pancreas is fatty infiltrated.  The spleen
+     appears to have been removed and there is a small amount of residual splenic
+     tissue just below the diaphragm.  There is no retroperitoneal lymphadenopathy.
+     There is no free or loculated fluid.  The opacified loops of abdominal bowel
+     are unremarkable.
+     
+     PELVIS WITH CONTRAST:  The bladder, distal ureters, and pelvic loops of bowel
+     are unremarkable.  There is no pelvic free fluid or fluid collections.
+     
+     In the soft tissues just anterior to the inferior pubic ramus, there is a 2.3
+     X 3.7 cm collection with active IV contrast extravasation.  Please correlate
+     with any recent femoral punctures.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     1)  Aspiration pneumonia.  Irregular, somewhat more mass-like opacity in the
+     superior segment of the right upper lobe which may be related to the
+     aspiration pneumonia, but follow up to resolution is recommended to exclude
+                                                                 (Over)
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lung cancer or TB.
+     2)  Large hiatal hernia.
+     3)  Extrapelvic fluid collection on the right with active extravasation. These
+     findings were discussed with Dr. [**First Name8 (NamePattern2) 6**] [**Last Name (NamePattern1) **], who was covering for the patient,
+     at the time of the interpretation.
+
+",,
+5278,14558,,,2813-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with encephalopathy p/w persistent tachycardia and some SOB 
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      r/o abscess                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Encephalopathy with persistent tachycardia and shortness of
+     breath.  Fevers without source.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multiple axial images from the thoracic inlet to the pubic
+     symphysis were obtained following the administration of oral contrast as well
+     as 150 cc of Optiray due to patient debility.
+     
+     CHEST WITH CONTRAST:  Several small lymph nodes are present within the left
+     axilla and the mediastinum.  There is no right axillary lymphadenopathy. There
+     is consolidation in the posterior segment of the right upper lobe. Adjacent to
+     this, in the superior segment of the right upper lobe, there is a rounded
+     focus of mass-like density which may be related to infection, but follow up to
+     resolution is recommended to exclude TB or lung cancer.  In the right lower
+     lobe, there is a patchy change consistent with aspiration.  The left lung is
+     relatively clear. There are no pleural effusions.  There is a large hiatal
+     hernia.
+     
+     ABDOMEN WITH CONTRAST:  The liver, gallbladder, adrenal glands, and kidneys
+     are within normal limits.  The pancreas is fatty infiltrated.  The spleen
+     appears to have been removed and there is a small amount of residual splenic
+     tissue just below the diaphragm.  There is no retroperitoneal lymphadenopathy.
+     There is no free or loculated fluid.  The opacified loops of abdominal bowel
+     are unremarkable.
+     
+     PELVIS WITH CONTRAST:  The bladder, distal ureters, and pelvic loops of bowel
+     are unremarkable.  There is no pelvic free fluid or fluid collections.
+     
+     In the soft tissues just anterior to the inferior pubic ramus, there is a 2.3
+     X 3.7 cm collection with active IV contrast extravasation.  Please correlate
+     with any recent femoral punctures.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     1)  Aspiration pneumonia.  Irregular, somewhat more mass-like opacity in the
+     superior segment of the right upper lobe which may be related to the
+     aspiration pneumonia, but follow up to resolution is recommended to exclude
+                                                                 (Over)
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lung cancer or TB.
+     2)  Large hiatal hernia.
+     3)  Extrapelvic fluid collection on the right with active extravasation. These
+     findings were discussed with Dr. [**First Name8 (NamePattern2) 6**] [**Last Name (NamePattern1) **], who was covering for the patient,
+     at the time of the interpretation.
+
+",,
+5278,14558,,,2813-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with encephalopathy p/w persistent tachycardia and some SOB 
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      r/o abscess                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Encephalopathy with persistent tachycardia and shortness of
+     breath.  Fevers without source.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multiple axial images from the thoracic inlet to the pubic
+     symphysis were obtained following the administration of oral contrast as well
+     as 150 cc of Optiray due to patient debility.
+     
+     CHEST WITH CONTRAST:  Several small lymph nodes are present within the left
+     axilla and the mediastinum.  There is no right axillary lymphadenopathy. There
+     is consolidation in the posterior segment of the right upper lobe. Adjacent to
+     this, in the superior segment of the right upper lobe, there is a rounded
+     focus of mass-like density which may be related to infection, but follow up to
+     resolution is recommended to exclude TB or lung cancer.  In the right lower
+     lobe, there is a patchy change consistent with aspiration.  The left lung is
+     relatively clear. There are no pleural effusions.  There is a large hiatal
+     hernia.
+     
+     ABDOMEN WITH CONTRAST:  The liver, gallbladder, adrenal glands, and kidneys
+     are within normal limits.  The pancreas is fatty infiltrated.  The spleen
+     appears to have been removed and there is a small amount of residual splenic
+     tissue just below the diaphragm.  There is no retroperitoneal lymphadenopathy.
+     There is no free or loculated fluid.  The opacified loops of abdominal bowel
+     are unremarkable.
+     
+     PELVIS WITH CONTRAST:  The bladder, distal ureters, and pelvic loops of bowel
+     are unremarkable.  There is no pelvic free fluid or fluid collections.
+     
+     In the soft tissues just anterior to the inferior pubic ramus, there is a 2.3
+     X 3.7 cm collection with active IV contrast extravasation.  Please correlate
+     with any recent femoral punctures.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     1)  Aspiration pneumonia.  Irregular, somewhat more mass-like opacity in the
+     superior segment of the right upper lobe which may be related to the
+     aspiration pneumonia, but follow up to resolution is recommended to exclude
+                                                                 (Over)
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lung cancer or TB.
+     2)  Large hiatal hernia.
+     3)  Extrapelvic fluid collection on the right with active extravasation. These
+     findings were discussed with Dr. [**First Name8 (NamePattern2) 6**] [**Last Name (NamePattern1) **], who was covering for the patient,
+     at the time of the interpretation.
+
+",,
+5278,14558,,,2813-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with encephalopathy p/w persistent tachycardia and some SOB 
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      r/o abscess                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Encephalopathy with persistent tachycardia and shortness of
+     breath.  Fevers without source.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multiple axial images from the thoracic inlet to the pubic
+     symphysis were obtained following the administration of oral contrast as well
+     as 150 cc of Optiray due to patient debility.
+     
+     CHEST WITH CONTRAST:  Several small lymph nodes are present within the left
+     axilla and the mediastinum.  There is no right axillary lymphadenopathy. There
+     is consolidation in the posterior segment of the right upper lobe. Adjacent to
+     this, in the superior segment of the right upper lobe, there is a rounded
+     focus of mass-like density which may be related to infection, but follow up to
+     resolution is recommended to exclude TB or lung cancer.  In the right lower
+     lobe, there is a patchy change consistent with aspiration.  The left lung is
+     relatively clear. There are no pleural effusions.  There is a large hiatal
+     hernia.
+     
+     ABDOMEN WITH CONTRAST:  The liver, gallbladder, adrenal glands, and kidneys
+     are within normal limits.  The pancreas is fatty infiltrated.  The spleen
+     appears to have been removed and there is a small amount of residual splenic
+     tissue just below the diaphragm.  There is no retroperitoneal lymphadenopathy.
+     There is no free or loculated fluid.  The opacified loops of abdominal bowel
+     are unremarkable.
+     
+     PELVIS WITH CONTRAST:  The bladder, distal ureters, and pelvic loops of bowel
+     are unremarkable.  There is no pelvic free fluid or fluid collections.
+     
+     In the soft tissues just anterior to the inferior pubic ramus, there is a 2.3
+     X 3.7 cm collection with active IV contrast extravasation.  Please correlate
+     with any recent femoral punctures.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     1)  Aspiration pneumonia.  Irregular, somewhat more mass-like opacity in the
+     superior segment of the right upper lobe which may be related to the
+     aspiration pneumonia, but follow up to resolution is recommended to exclude
+                                                                 (Over)
+
+     DATE: [**2813-3-8**] 3:58 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9865**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: FEVERS W/OUT SOURCE, SEPTIC
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lung cancer or TB.
+     2)  Large hiatal hernia.
+     3)  Extrapelvic fluid collection on the right with active extravasation. These
+     findings were discussed with Dr. [**First Name8 (NamePattern2) 6**] [**Last Name (NamePattern1) **], who was covering for the patient,
+     at the time of the interpretation.
+
+",,
+5278,14558,,,2813-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-11**] 6:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9866**]
+     Reason: assess RUL consolidation                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       48 year old man with ?developmental delay, with pna                            
+     REASON FOR THIS EXAMINATION:
+      assess RUL consolidation                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2813-3-11**]:
+     
+     CLINICAL INDICATION:  Pneumonia.
+     
+     Comparison is made to previous chest radiograph from [**2813-2-28**].
+     
+     The right PICC line is present, terminating at the junction of the superior
+     vena cava and right atrium.  There is an area of consolidation in the right
+     upper lobe which is partially obscured by the mediastinum.  This corresponds
+     to an area of consolidation as seen on recent CT torso.
+     
+     The lungs are otherwise clear.  Note is made of some motion artifact resulting
+     in blurring of the vascularity.
+     
+     Retrocardiac rounded opacity is seen and corresponds to known hiatal hernia.
+     
+     IMPRESSION:  Right upper lobe consolidation.  This is a persistent finding
+     going back to [**2813-2-3**].  Given its persistence over time, atypical
+     infection such as TB should be considered.  Noninfectious etiology such as a
+     bronchoalveolar cell carcinoma is also possible.
+
+",,
+5278,14558,,,2813-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-13**] 2:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9867**]
+     Reason: r/o worsening right PNA                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         48 year old man with hypernatremia, hypovolemia, AMS, persistent fever 
+      despite 6days of ABX - found to have asp PNA on rul and rll on last CT chest.
+     REASON FOR THIS EXAMINATION:
+      r/o worsening right PNA                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Prior right upper lobe pneumonia, evaluate for change.
+     
+     Comparison is made to the AP chest radiograph from [**2813-3-11**].
+     
+     SUPINE AP CHEST RADIOGRAPH:  The patient is extremely rotated.  Again seen is
+     a right-sided PICC line with the tip at the junction of the right atrium in
+     the SVC.  The heart size, mediastinal contours, and pulmonary vasculature are
+     unchanged in appearance.  There is near complete resolution of the previously
+     seen right upper lobe opacity.  No new areas of consolidation are present.  No
+     pleural effusions are seen.  The osseous structures are unchanged.
+     
+     IMPRESSION:  Near complete resolution of right upper lobe opacity.
+
+",,
+5278,14558,,,2813-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      reasses area of extravastion R groin in setting persistent WBC. IV constrast 
+      only
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Patient with encephalopathy and fever without source, with
+     becoming septic.
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lung bases
+     to the level of the symphysis pubis.  Delayed images were taken from the
+     pelvis and upper thigh area.
+     
+     COMPARISON:  Previous examination from [**2813-3-8**].
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:
+     
+     Parenchymal opacities are noticed in the right lower lobe with no significant
+     change in comparison with the previous examination.  No pleural effusion is
+     seen.  A big hiatal hernia is seen.  This hernia contains part of the stomach.
+     
+     The liver is normal.  No focal lesion is seen inside it.  The spleen is small
+     with normal enhancement.  The pancreas and both adrenals are unremarkable.
+     There is normal enhancement of both kidneys.  The bowel loops are
+     unremarkable.  No enlarged lymph nodes are noticed.  There are no fluid
+     collections inside the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST AND DELAYED IMAGES:
+     
+     A big abscess with necrotic tissue and wall enhancement is noticed
+     posteroinferior to the anal canal.  There is a big connection between the
+     abscess and the skin with evacuation of part of the necrotic tissue.  The
+     measurement of this abscess is 3.3 x 2.8 cm.
+     
+     A fluid collection with peripheral enhancement is noticed in the superomedial
+     aspect of the right thigh.  No extravasation of contrast material was noted in
+     this fluid collection on the delayed images.  The measurement of this finding
+     is 4 x 1.8 cm in comparison with 3.7 x 2.8 cm on the previous examination.
+     This finding is consistent with an abscess.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows are unremarkable.  Multiplanar reconstructions were performed for
+     better delineation of the exact relation between the fluid collections and the
+     normal organs.
+     
+     IMPRESSION:
+     
+     1) Fluid collection with enhancing wall on the upper-medial aspect of the
+     right thigh.  This is consistent with an abscess.
+     
+     2) Perianal abscess with a wide neck to the skin.
+     
+     3) Parenchymal changes on the right lower lobe with no change from the
+     previous examination.
+     
+     4) Big hiatal hernia.
+     
+     5) Those findings were discussed in detail with the patient's doctor.
+
+",,
+5278,14558,,,2813-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-18**] 6:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9869**]
+     Reason: spiked temp, ro pna                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          48 year old man with hypernatremia, hypovolemia, AMS, persistent fever  
+      despite 6days of ABX - found to have asp PNA on rul and rll on last CT chest.
+     REASON FOR THIS EXAMINATION:
+      spiked temp, ro pna                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Hypernatremia, hypovolemia, altered mental status, persistent
+     fever despite antibiotics.  Recent CT showed right upper lobe and right lower
+     lobe pneumonia.  Check current status. 
+     
+     PORTABLE AP  CHEST:   A single supine, AP view.  Comparison is made to
+     previous films from  [**2813-3-13**].  The patient is again rotated to the right.
+     There has been some resolution of the patchy infiltrates previously
+     demonstrated in the right lower lobe and there has also been substantial pain
+     of the right upper lobe infiltrate with slight radicular changes. No new
+     pulmonary infiltrates are identified.  Allowing for the patient's rotation and
+     the supine posture the appearances of the heart and pulmonary vessels are
+     unremarkable.
+     
+     IMPRESSION:   Significant resolution of pulmonary infiltrates in the right
+     lower lobe and right upper lobe. No acute cardiopulmonary abnormality.
+     Retrocardiac hiatal hernia again noted.
+
+",,
+5278,14558,,,2813-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      reasses area of extravastion R groin in setting persistent WBC. IV constrast 
+      only
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Patient with encephalopathy and fever without source, with
+     becoming septic.
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lung bases
+     to the level of the symphysis pubis.  Delayed images were taken from the
+     pelvis and upper thigh area.
+     
+     COMPARISON:  Previous examination from [**2813-3-8**].
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:
+     
+     Parenchymal opacities are noticed in the right lower lobe with no significant
+     change in comparison with the previous examination.  No pleural effusion is
+     seen.  A big hiatal hernia is seen.  This hernia contains part of the stomach.
+     
+     The liver is normal.  No focal lesion is seen inside it.  The spleen is small
+     with normal enhancement.  The pancreas and both adrenals are unremarkable.
+     There is normal enhancement of both kidneys.  The bowel loops are
+     unremarkable.  No enlarged lymph nodes are noticed.  There are no fluid
+     collections inside the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST AND DELAYED IMAGES:
+     
+     A big abscess with necrotic tissue and wall enhancement is noticed
+     posteroinferior to the anal canal.  There is a big connection between the
+     abscess and the skin with evacuation of part of the necrotic tissue.  The
+     measurement of this abscess is 3.3 x 2.8 cm.
+     
+     A fluid collection with peripheral enhancement is noticed in the superomedial
+     aspect of the right thigh.  No extravasation of contrast material was noted in
+     this fluid collection on the delayed images.  The measurement of this finding
+     is 4 x 1.8 cm in comparison with 3.7 x 2.8 cm on the previous examination.
+     This finding is consistent with an abscess.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows are unremarkable.  Multiplanar reconstructions were performed for
+     better delineation of the exact relation between the fluid collections and the
+     normal organs.
+     
+     IMPRESSION:
+     
+     1) Fluid collection with enhancing wall on the upper-medial aspect of the
+     right thigh.  This is consistent with an abscess.
+     
+     2) Perianal abscess with a wide neck to the skin.
+     
+     3) Parenchymal changes on the right lower lobe with no change from the
+     previous examination.
+     
+     4) Big hiatal hernia.
+     
+     5) Those findings were discussed in detail with the patient's doctor.
+
+",,
+5278,14558,,,2813-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      reasses area of extravastion R groin in setting persistent WBC. IV constrast 
+      only
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Patient with encephalopathy and fever without source, with
+     becoming septic.
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lung bases
+     to the level of the symphysis pubis.  Delayed images were taken from the
+     pelvis and upper thigh area.
+     
+     COMPARISON:  Previous examination from [**2813-3-8**].
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:
+     
+     Parenchymal opacities are noticed in the right lower lobe with no significant
+     change in comparison with the previous examination.  No pleural effusion is
+     seen.  A big hiatal hernia is seen.  This hernia contains part of the stomach.
+     
+     The liver is normal.  No focal lesion is seen inside it.  The spleen is small
+     with normal enhancement.  The pancreas and both adrenals are unremarkable.
+     There is normal enhancement of both kidneys.  The bowel loops are
+     unremarkable.  No enlarged lymph nodes are noticed.  There are no fluid
+     collections inside the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST AND DELAYED IMAGES:
+     
+     A big abscess with necrotic tissue and wall enhancement is noticed
+     posteroinferior to the anal canal.  There is a big connection between the
+     abscess and the skin with evacuation of part of the necrotic tissue.  The
+     measurement of this abscess is 3.3 x 2.8 cm.
+     
+     A fluid collection with peripheral enhancement is noticed in the superomedial
+     aspect of the right thigh.  No extravasation of contrast material was noted in
+     this fluid collection on the delayed images.  The measurement of this finding
+     is 4 x 1.8 cm in comparison with 3.7 x 2.8 cm on the previous examination.
+     This finding is consistent with an abscess.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows are unremarkable.  Multiplanar reconstructions were performed for
+     better delineation of the exact relation between the fluid collections and the
+     normal organs.
+     
+     IMPRESSION:
+     
+     1) Fluid collection with enhancing wall on the upper-medial aspect of the
+     right thigh.  This is consistent with an abscess.
+     
+     2) Perianal abscess with a wide neck to the skin.
+     
+     3) Parenchymal changes on the right lower lobe with no change from the
+     previous examination.
+     
+     4) Big hiatal hernia.
+     
+     5) Those findings were discussed in detail with the patient's doctor.
+
+",,
+5278,14558,,,2813-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+      with fevers without source who is becoming septic.    
+     REASON FOR THIS EXAMINATION:
+      reasses area of extravastion R groin in setting persistent WBC. IV constrast 
+      only
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Patient with encephalopathy and fever without source, with
+     becoming septic.
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lung bases
+     to the level of the symphysis pubis.  Delayed images were taken from the
+     pelvis and upper thigh area.
+     
+     COMPARISON:  Previous examination from [**2813-3-8**].
+     
+     FINDINGS:
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:
+     
+     Parenchymal opacities are noticed in the right lower lobe with no significant
+     change in comparison with the previous examination.  No pleural effusion is
+     seen.  A big hiatal hernia is seen.  This hernia contains part of the stomach.
+     
+     The liver is normal.  No focal lesion is seen inside it.  The spleen is small
+     with normal enhancement.  The pancreas and both adrenals are unremarkable.
+     There is normal enhancement of both kidneys.  The bowel loops are
+     unremarkable.  No enlarged lymph nodes are noticed.  There are no fluid
+     collections inside the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST AND DELAYED IMAGES:
+     
+     A big abscess with necrotic tissue and wall enhancement is noticed
+     posteroinferior to the anal canal.  There is a big connection between the
+     abscess and the skin with evacuation of part of the necrotic tissue.  The
+     measurement of this abscess is 3.3 x 2.8 cm.
+     
+     A fluid collection with peripheral enhancement is noticed in the superomedial
+     aspect of the right thigh.  No extravasation of contrast material was noted in
+     this fluid collection on the delayed images.  The measurement of this finding
+     is 4 x 1.8 cm in comparison with 3.7 x 2.8 cm on the previous examination.
+     This finding is consistent with an abscess.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-18**] 1:40 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9868**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: reasses area of extravastion R groin in setting persistent W
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows are unremarkable.  Multiplanar reconstructions were performed for
+     better delineation of the exact relation between the fluid collections and the
+     normal organs.
+     
+     IMPRESSION:
+     
+     1) Fluid collection with enhancing wall on the upper-medial aspect of the
+     right thigh.  This is consistent with an abscess.
+     
+     2) Perianal abscess with a wide neck to the skin.
+     
+     3) Parenchymal changes on the right lower lobe with no change from the
+     previous examination.
+     
+     4) Big hiatal hernia.
+     
+     5) Those findings were discussed in detail with the patient's doctor.
+
+",,
+5278,14558,,,2813-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered MS [**First Name (Titles) **] [**Last Name (Titles) 9871**] wbc                                
+     REASON FOR THIS EXAMINATION:
+      CT guided drainage of R thigh abscess (scheduled for 0830 on [**3-19**])              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with fluid collection on the right thigh.
+     
+     COMPARISON:  Previous CT scan of the pelvis and groin area from [**2813-3-18**].
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lower
+     pelvis to the proximal part of the thigh.  No IV contrast was injected.
+     
+     FINDNINGS:  A small hypodense area is noted in the superior medial part of the
+     thigh on the right side.
+     
+     Informed consent was obtained by phone from the patient's father.  The patient
+     is not consentable.  Using fluoro-CT the right spot for tapping was found in
+     the medial part of the superior thigh on the right side.  A total of 20
+     seconds of fluoro CT was used.
+     
+     The skin was prepped and draped in the sterile fashion and numbed with 5 cc of
+     Lidocaine 1%.  Additional conscious sedation was administered by the Radiology
+     nurse.
+     
+     CT LOCALIZATION:
+     
+     Using a 21-gauge needle, the right spot was localized for insertion of the
+     drainage needle.
+     
+     CT PROCEDURE:
+     
+     Using the track of the 21-gauge needle, a spinal 18-gauge, 15 cm long needle
+     was used and one pass was performed within the fluid collection.  0.5 cc of
+     bloody material was tapped.  The fluid was sent to Bacteriology for gram stain
+     and culture.
+     
+     No immediate complications were observed. Dr. [**Last Name (STitle) 9872**], the attending, was
+     present for the entire procedure.
+     
+     IMPRESSION:
+     
+     Successful tap of a fluid collection on the right thigh was performed.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5278,14558,,,2813-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered MS [**First Name (Titles) **] [**Last Name (Titles) 9871**] wbc                                
+     REASON FOR THIS EXAMINATION:
+      CT guided drainage of R thigh abscess (scheduled for 0830 on [**3-19**])              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with fluid collection on the right thigh.
+     
+     COMPARISON:  Previous CT scan of the pelvis and groin area from [**2813-3-18**].
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lower
+     pelvis to the proximal part of the thigh.  No IV contrast was injected.
+     
+     FINDNINGS:  A small hypodense area is noted in the superior medial part of the
+     thigh on the right side.
+     
+     Informed consent was obtained by phone from the patient's father.  The patient
+     is not consentable.  Using fluoro-CT the right spot for tapping was found in
+     the medial part of the superior thigh on the right side.  A total of 20
+     seconds of fluoro CT was used.
+     
+     The skin was prepped and draped in the sterile fashion and numbed with 5 cc of
+     Lidocaine 1%.  Additional conscious sedation was administered by the Radiology
+     nurse.
+     
+     CT LOCALIZATION:
+     
+     Using a 21-gauge needle, the right spot was localized for insertion of the
+     drainage needle.
+     
+     CT PROCEDURE:
+     
+     Using the track of the 21-gauge needle, a spinal 18-gauge, 15 cm long needle
+     was used and one pass was performed within the fluid collection.  0.5 cc of
+     bloody material was tapped.  The fluid was sent to Bacteriology for gram stain
+     and culture.
+     
+     No immediate complications were observed. Dr. [**Last Name (STitle) 9872**], the attending, was
+     present for the entire procedure.
+     
+     IMPRESSION:
+     
+     Successful tap of a fluid collection on the right thigh was performed.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5278,14558,,,2813-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered MS [**First Name (Titles) **] [**Last Name (Titles) 9871**] wbc                                
+     REASON FOR THIS EXAMINATION:
+      CT guided drainage of R thigh abscess (scheduled for 0830 on [**3-19**])              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with fluid collection on the right thigh.
+     
+     COMPARISON:  Previous CT scan of the pelvis and groin area from [**2813-3-18**].
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lower
+     pelvis to the proximal part of the thigh.  No IV contrast was injected.
+     
+     FINDNINGS:  A small hypodense area is noted in the superior medial part of the
+     thigh on the right side.
+     
+     Informed consent was obtained by phone from the patient's father.  The patient
+     is not consentable.  Using fluoro-CT the right spot for tapping was found in
+     the medial part of the superior thigh on the right side.  A total of 20
+     seconds of fluoro CT was used.
+     
+     The skin was prepped and draped in the sterile fashion and numbed with 5 cc of
+     Lidocaine 1%.  Additional conscious sedation was administered by the Radiology
+     nurse.
+     
+     CT LOCALIZATION:
+     
+     Using a 21-gauge needle, the right spot was localized for insertion of the
+     drainage needle.
+     
+     CT PROCEDURE:
+     
+     Using the track of the 21-gauge needle, a spinal 18-gauge, 15 cm long needle
+     was used and one pass was performed within the fluid collection.  0.5 cc of
+     bloody material was tapped.  The fluid was sent to Bacteriology for gram stain
+     and culture.
+     
+     No immediate complications were observed. Dr. [**Last Name (STitle) 9872**], the attending, was
+     present for the entire procedure.
+     
+     IMPRESSION:
+     
+     Successful tap of a fluid collection on the right thigh was performed.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5278,14558,,,2813-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered MS [**First Name (Titles) **] [**Last Name (Titles) 9871**] wbc                                
+     REASON FOR THIS EXAMINATION:
+      CT guided drainage of R thigh abscess (scheduled for 0830 on [**3-19**])              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with fluid collection on the right thigh.
+     
+     COMPARISON:  Previous CT scan of the pelvis and groin area from [**2813-3-18**].
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lower
+     pelvis to the proximal part of the thigh.  No IV contrast was injected.
+     
+     FINDNINGS:  A small hypodense area is noted in the superior medial part of the
+     thigh on the right side.
+     
+     Informed consent was obtained by phone from the patient's father.  The patient
+     is not consentable.  Using fluoro-CT the right spot for tapping was found in
+     the medial part of the superior thigh on the right side.  A total of 20
+     seconds of fluoro CT was used.
+     
+     The skin was prepped and draped in the sterile fashion and numbed with 5 cc of
+     Lidocaine 1%.  Additional conscious sedation was administered by the Radiology
+     nurse.
+     
+     CT LOCALIZATION:
+     
+     Using a 21-gauge needle, the right spot was localized for insertion of the
+     drainage needle.
+     
+     CT PROCEDURE:
+     
+     Using the track of the 21-gauge needle, a spinal 18-gauge, 15 cm long needle
+     was used and one pass was performed within the fluid collection.  0.5 cc of
+     bloody material was tapped.  The fluid was sent to Bacteriology for gram stain
+     and culture.
+     
+     No immediate complications were observed. Dr. [**Last Name (STitle) 9872**], the attending, was
+     present for the entire procedure.
+     
+     IMPRESSION:
+     
+     Successful tap of a fluid collection on the right thigh was performed.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5278,14558,,,2813-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with altered MS [**First Name (Titles) **] [**Last Name (Titles) 9871**] wbc                                
+     REASON FOR THIS EXAMINATION:
+      CT guided drainage of R thigh abscess (scheduled for 0830 on [**3-19**])              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with fluid collection on the right thigh.
+     
+     COMPARISON:  Previous CT scan of the pelvis and groin area from [**2813-3-18**].
+     
+     TECHNIQUE:  Helical contiguous axial images were obtained from the lower
+     pelvis to the proximal part of the thigh.  No IV contrast was injected.
+     
+     FINDNINGS:  A small hypodense area is noted in the superior medial part of the
+     thigh on the right side.
+     
+     Informed consent was obtained by phone from the patient's father.  The patient
+     is not consentable.  Using fluoro-CT the right spot for tapping was found in
+     the medial part of the superior thigh on the right side.  A total of 20
+     seconds of fluoro CT was used.
+     
+     The skin was prepped and draped in the sterile fashion and numbed with 5 cc of
+     Lidocaine 1%.  Additional conscious sedation was administered by the Radiology
+     nurse.
+     
+     CT LOCALIZATION:
+     
+     Using a 21-gauge needle, the right spot was localized for insertion of the
+     drainage needle.
+     
+     CT PROCEDURE:
+     
+     Using the track of the 21-gauge needle, a spinal 18-gauge, 15 cm long needle
+     was used and one pass was performed within the fluid collection.  0.5 cc of
+     bloody material was tapped.  The fluid was sent to Bacteriology for gram stain
+     and culture.
+     
+     No immediate complications were observed. Dr. [**Last Name (STitle) 9872**], the attending, was
+     present for the entire procedure.
+     
+     IMPRESSION:
+     
+     Successful tap of a fluid collection on the right thigh was performed.
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-19**] 8:15 AM
+     CT PELVIS W/O CONTRAST; CT LOC BX                               Clip # [**Clip Number (Radiology) 9870**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     CT ABD BX
+     Reason: CT guided drainage of R thigh abscess (scheduled for 0830 on
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5278,14558,,,2813-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with [**Hospital Unit Name 9858**] disorder, altered MS, sacral decub ulcer, and 
+      fever/elevated WBC
+     REASON FOR THIS EXAMINATION:
+      CT chest/abd/pelvis for further eval of R thigh abscess/perirectal area         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 49-year-old man with sacral decubitus ulcer and elevated
+     white blood cell count.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the thoracic inlet
+     through the pubic symphysis following the administration of 150 cc of Optiray.
+     COMPARISON: [**2813-3-18**].
+     
+     CT OF THE CHEST WITH IV CONTRAST: Once again, there is consolidation within
+     the right lower lobe which does not appear to be significantly changed in the
+     interval. There is no pleural effusion. The heart and great vessels appear
+     grossly normal. Note is made of the large hiatal hernia.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear grossly normal. The stomach and visualized
+     loops of small and large bowel are unremarkable. There is no significant
+     mesenteric or retroperitoneal lymphadenopathy. No abnormal fat stranding or
+     fluid collections are present within the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The urinary bladder and distal ureters
+     appear grossly normal. The pelvic loops of small and large bowel are notable
+     for chronic submucosal changes involving the upper rectum and distal sigmoid,
+     suggestive of some sort of chronic inflammatory process. Within the distal
+     rectum, there is a nonspecific soft tissue density filling the lumen. Although
+     it may represent retained stool, it has been present in all of the previous
+     examinations dating back to [**3-8**]. Alternatively, this may represent a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are present throughout
+     the visualized bony structures.
+     
+     IMPRESSION:
+     1. Persistent right lower lobe consolidation.
+     2. Chronic inflammatory changes involving the distal sigmoid and upper rectum
+     of uncertain etiology. Associated with this is a soft tissue structure within
+     the lumen of the rectum which may represent chronic retained stool versus a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation of both
+     of these findings. There is no evidence of a perirectal or perianal abscess.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5278,14558,,,2813-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-22**] 8:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9873**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           48 year old man with hypernatremia, hypovolemia, AMS, persistent fever   
+      despite 6days of ABX - found to have asp PNA on rul and rll on last CT chest.
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:
+     
+     INDICATION:  Persistent fever despite six days of antibiotics.
+     
+     Comparison is made to the prior examination of [**2813-3-18**].
+     
+     FINDINGS:  The patient is markedly rotated to the right.  Allowing for this,
+     the cardiomediastinal borders are unchanged.  A right PICC line is seen with
+     its tip in the right atrium.  There is no pneumothorax.  There is continued
+     appearance of a right upper lobe opacity, and less so of a right lower lobe
+     opacity.  The left lung is clear.  There are no pleural effusions.  The
+     pulmonary vasculature is normal.  Note is made of right degenerative changes
+     of the shoulder.
+     
+     IMPRESSION:  Continued opacity of the right upper lobe, and less so the right
+     lower lobe, that could represent continued pneumonia.  However, follow up to
+     ensure resolution after treatment is recommended to exclude the possibility of
+     TB infection or neoplasm.
+
+",,
+5278,14558,,,2813-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with [**Hospital Unit Name 9858**] disorder, altered MS, sacral decub ulcer, and 
+      fever/elevated WBC
+     REASON FOR THIS EXAMINATION:
+      CT chest/abd/pelvis for further eval of R thigh abscess/perirectal area         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 49-year-old man with sacral decubitus ulcer and elevated
+     white blood cell count.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the thoracic inlet
+     through the pubic symphysis following the administration of 150 cc of Optiray.
+     COMPARISON: [**2813-3-18**].
+     
+     CT OF THE CHEST WITH IV CONTRAST: Once again, there is consolidation within
+     the right lower lobe which does not appear to be significantly changed in the
+     interval. There is no pleural effusion. The heart and great vessels appear
+     grossly normal. Note is made of the large hiatal hernia.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear grossly normal. The stomach and visualized
+     loops of small and large bowel are unremarkable. There is no significant
+     mesenteric or retroperitoneal lymphadenopathy. No abnormal fat stranding or
+     fluid collections are present within the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The urinary bladder and distal ureters
+     appear grossly normal. The pelvic loops of small and large bowel are notable
+     for chronic submucosal changes involving the upper rectum and distal sigmoid,
+     suggestive of some sort of chronic inflammatory process. Within the distal
+     rectum, there is a nonspecific soft tissue density filling the lumen. Although
+     it may represent retained stool, it has been present in all of the previous
+     examinations dating back to [**3-8**]. Alternatively, this may represent a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are present throughout
+     the visualized bony structures.
+     
+     IMPRESSION:
+     1. Persistent right lower lobe consolidation.
+     2. Chronic inflammatory changes involving the distal sigmoid and upper rectum
+     of uncertain etiology. Associated with this is a soft tissue structure within
+     the lumen of the rectum which may represent chronic retained stool versus a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation of both
+     of these findings. There is no evidence of a perirectal or perianal abscess.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5278,14558,,,2813-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with [**Hospital Unit Name 9858**] disorder, altered MS, sacral decub ulcer, and 
+      fever/elevated WBC
+     REASON FOR THIS EXAMINATION:
+      CT chest/abd/pelvis for further eval of R thigh abscess/perirectal area         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 49-year-old man with sacral decubitus ulcer and elevated
+     white blood cell count.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the thoracic inlet
+     through the pubic symphysis following the administration of 150 cc of Optiray.
+     COMPARISON: [**2813-3-18**].
+     
+     CT OF THE CHEST WITH IV CONTRAST: Once again, there is consolidation within
+     the right lower lobe which does not appear to be significantly changed in the
+     interval. There is no pleural effusion. The heart and great vessels appear
+     grossly normal. Note is made of the large hiatal hernia.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear grossly normal. The stomach and visualized
+     loops of small and large bowel are unremarkable. There is no significant
+     mesenteric or retroperitoneal lymphadenopathy. No abnormal fat stranding or
+     fluid collections are present within the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The urinary bladder and distal ureters
+     appear grossly normal. The pelvic loops of small and large bowel are notable
+     for chronic submucosal changes involving the upper rectum and distal sigmoid,
+     suggestive of some sort of chronic inflammatory process. Within the distal
+     rectum, there is a nonspecific soft tissue density filling the lumen. Although
+     it may represent retained stool, it has been present in all of the previous
+     examinations dating back to [**3-8**]. Alternatively, this may represent a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are present throughout
+     the visualized bony structures.
+     
+     IMPRESSION:
+     1. Persistent right lower lobe consolidation.
+     2. Chronic inflammatory changes involving the distal sigmoid and upper rectum
+     of uncertain etiology. Associated with this is a soft tissue structure within
+     the lumen of the rectum which may represent chronic retained stool versus a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation of both
+     of these findings. There is no evidence of a perirectal or perianal abscess.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5278,14558,,,2813-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with [**Hospital Unit Name 9858**] disorder, altered MS, sacral decub ulcer, and 
+      fever/elevated WBC
+     REASON FOR THIS EXAMINATION:
+      CT chest/abd/pelvis for further eval of R thigh abscess/perirectal area         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 49-year-old man with sacral decubitus ulcer and elevated
+     white blood cell count.
+     
+     TECHNIQUE: Contiguous axial images were obtained from the thoracic inlet
+     through the pubic symphysis following the administration of 150 cc of Optiray.
+     COMPARISON: [**2813-3-18**].
+     
+     CT OF THE CHEST WITH IV CONTRAST: Once again, there is consolidation within
+     the right lower lobe which does not appear to be significantly changed in the
+     interval. There is no pleural effusion. The heart and great vessels appear
+     grossly normal. Note is made of the large hiatal hernia.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear grossly normal. The stomach and visualized
+     loops of small and large bowel are unremarkable. There is no significant
+     mesenteric or retroperitoneal lymphadenopathy. No abnormal fat stranding or
+     fluid collections are present within the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The urinary bladder and distal ureters
+     appear grossly normal. The pelvic loops of small and large bowel are notable
+     for chronic submucosal changes involving the upper rectum and distal sigmoid,
+     suggestive of some sort of chronic inflammatory process. Within the distal
+     rectum, there is a nonspecific soft tissue density filling the lumen. Although
+     it may represent retained stool, it has been present in all of the previous
+     examinations dating back to [**3-8**]. Alternatively, this may represent a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are present throughout
+     the visualized bony structures.
+     
+     IMPRESSION:
+     1. Persistent right lower lobe consolidation.
+     2. Chronic inflammatory changes involving the distal sigmoid and upper rectum
+     of uncertain etiology. Associated with this is a soft tissue structure within
+     the lumen of the rectum which may represent chronic retained stool versus a
+     villous adenoma. A sigmoidoscopy is recommended for further evaluation of both
+     of these findings. There is no evidence of a perirectal or perianal abscess.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2813-3-22**] 3:54 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 9874**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CT chest/abd/pelvis for further eval of R thigh abscess/peri
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5278,14558,,,2813-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-25**] 10:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9875**]
+     Reason: pls evaluate for possible new pneumonia                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            48 year old man with hypernatremia, hypovolemia, AMS, persistent fever    
+      despite 6days of ABX - found to have asp PNA on rul and rll on last CT chest. 
+      Now with T=102
+     REASON FOR THIS EXAMINATION:
+      pls evaluate for possible new pneumonia                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  Hypernatremia, hypovolemia, persistent fever, altered mental
+     status.  Not responded to antibiotics.  Previous CT found evidence of
+     aspiration pneumonia in right upper lobe and right lower lobe.  Check current
+     status.
+     
+     A single AP supine view.  Comparison study dated [**2813-3-22**].  The
+     patient is again slightly rotated to the right.  Allowing for this, the heart
+     size and shape are within normal limits.  The aorta is slightly unfolded.  The
+     pulmonary vessels are unremarkable.  There is again evidence of ill-defined
+     infiltrate in the right upper lobe and a further improvement of the
+     infiltrate/atelectasis in the right lower lobe.  No new cardiopulmonary
+     abnormalities are detected.
+     
+     IMPRESSION:  Probable partial resolution of infiltrates in right upper lobe
+     and right lower lobe.  Appearances otherwise unchanged.  No new
+     cardiopulmonary abnormality.
+
+",,
+5278,14558,,,2813-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-28**] 4:36 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 9876**]
+     Reason: RUQ US to r/o acalculous cholecystitis                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with underlying [**Hospital Unit Name 9858**] disorder, h/o JRA, and persistent 
+      fever/elevated WBC, on TPN
+     REASON FOR THIS EXAMINATION:
+      RUQ US to r/o acalculous cholecystitis                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   A 49-year-old man with underlying psychiatric disorder and
+     persistent fever and white count.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  The liver appears unremarkable, without
+     evidence of focal abnormality.  The gallbladder is visualized without evidence
+     of cholelithiasis.  There is no evidence of gallbladder distention or wall
+     edema.  There is no pericholecystic fluid.  The CBD is measured at 5 mm. There
+     is no intra- or extra-hepatic ductal dilatation.
+     
+     IMPRESSION:   Unremarkable right upper quadrant ultrasound.  No evidence of
+     acalculus cholecystitis.
+     
+     
+
+",,
+5278,14558,,,2813-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-29**] 10:01 AM
+     SMALL BOWEL ONLY (BARIUM)                                       Clip # [**Clip Number (Radiology) 9877**]
+     Reason: ?small bowel mucosal changes, terminal ileum. IBD?          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with chronic colitis (by biopsy in splenic flexure, sigmoid, 
+      and rectal), ?IBD.
+     REASON FOR THIS EXAMINATION:
+      ?small bowel mucosal changes, terminal ileum. IBD?                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 49 year old with chronic colitis, assess the terminal ileum for
+     evidence of inflammatory bowel.
+     
+     SMALL BOWEL FOLLOWTHROUGH: There is a large sliding hiatal hernia, as
+     previously described on previous CT exams of [**2813-3-22**] and [**2813-3-18**]. Barium
+     passes freely through the small bowel, and entering the colon within
+     approximately 4 hours. The small bowel is normal in caliber and mucosal
+     pattern. The terminal ileum is unremarkable.
+     
+     IMPRESSION: 1. Large hiatal hernia.
+     
+     2. Delayed transit time through the small bowel, with no abnormalities in the
+     caliber or mucosal pattern of the small bowel.
+     
+
+",,
+5278,14558,,,2813-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-29**] 10:26 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 9878**]
+     Reason: Please r/o fluid collection/abscess of R thigh. Area of ?abs
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 yo M with underlying [**Hospital Unit Name 9858**] d/o and persistent fever/leukocytosis             
+     REASON FOR THIS EXAMINATION:
+      Please r/o fluid collection/abscess of R thigh. Area of ?abscess/hematoma had 
+      been visualized on [**3-18**] CT scan
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluation of the right thigh for fluid collection.
+     
+     Duplex ultrasound of the right lower extremity was performed. The right common
+     femoral vein, superficial femoral vein and popliteal vein are widely patent.
+     There is no evidence of thrombi within them. The flow and augmentation are
+     normal. Compressibility was achieved. There is no evidence of fluid
+     collections.
+     
+     IMPRESSION: No evidence of DVT or fluid collections in the right upper thigh.
+
+",,
+5278,14558,,,2813-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-30**] 2:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9879**]
+     Reason: does pt have worsening pneumonia?                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             48 year old man with hypernatremia, hypovolemia, AMS, persistent fever   
+        despite 6days of ABX - found to have asp PNA on rul and rll on last CT chest. 
+       Now with T=101.4
+     REASON FOR THIS EXAMINATION:
+      does pt have worsening pneumonia?                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST ON [**2813-3-30**] - 14:29.
+     
+     INDICATION:  Persistent fevers.
+     
+     COMPARISON:  [**2813-3-25**] at 22:35.
+     
+     FINDINGS:  There is increased patchiness in the right upper lobe somewhat
+     vague but apparently changed vs. prior.  The right mid lung field also
+     demonstrates a very subtle but increased density, as well.  Left lung is
+     without infiltrate.  Pulmonary vascular markings are normal.  Lateral
+     costophrenic sulci are sharply delineated.  Contrast was visualized in the
+     colon.
+     
+     The cardiac silhouette is unchanged.  Tip of CVL seen at junction of SVC and
+     right atrium.  No pneumothorax.
+     
+     IMPRESSION:
+     
+     Worsening air-space disease with focal opacities in the right upper lobe and
+     right mid lung zone representing a change from prior.  With persistent fevers
+     this would be consistent with pneumonia.
+
+",,
+5278,14558,,,2813-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-3-31**] 2:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9880**]
+     Reason: check NGT placement                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              48 year old man with hypernatremia, hypovolemia, AMS, persistent fever  
+          despite 6days of ABX - found to have asp PNA on rul and rll on last CT 
+      chest.   Now with T=101.4
+     REASON FOR THIS EXAMINATION:
+      check NGT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2813-3-31**] 15:46
+     
+     INDICATION:  Nasogastric tube placement.
+     
+     FINDINGS:  Tip of the nasogastric tube is seen in the gastric fundus. Oral
+     contrast is identified in loops of large bowel; technique is underpenetrated
+     and assessment of the abdomen is limited.
+     
+     IMPRESSION:   NG tube in fundus of stomach.
+
+",,
+5278,14558,,,2813-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-1**] 9:43 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9882**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: does pt have abcess or osteo of the right pelvis?           
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+       with fevers without source 
+     REASON FOR THIS EXAMINATION:
+      does pt have abcess or osteo of the right pelvis?                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 49 year old man with enceophalopathy, shortness of breath and
+     fever.  Evaluate for osteomyelitis or abscess of the right pelvis.
+     
+     TECHNIQUE: Multiple axial images from the lung bases through the pelvis were
+     obtained following the administration of 150 cc of Optiray.  Optiray was used
+     secondary to patient's history of debility.
+     
+     COMPARISON: [**2813-3-22**]
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is minimal atelectasis at the
+     bases bilaterally.
+     
+     The liver, gallbladder, adrenal glands, and kidneys are normal in appearance.
+     Again seen is fatty infiltration of the pancreas. There is a small splenic
+     residual.  No free air or free fluid is identified in the abdomen.  The
+     opacified loops of small bowel and large bowel are normal in appearance. The
+     stomach appears normal.
+     
+     CT PELVIS WTH CONTRAST: The distal ureters and bladder are normal. There is
+     sediment present in the bladder. No free air or free fluid is seen in the
+     pelvis. Again seen is stool in the rectum. There are degenerative changes in
+     the right hip. In addition, there is a subcapital fracture of the right femur
+     whose age is indeterminate. Decubitis ulcer versus excavated stool.
+     
+     IMPRESSION: No evidence of abscess or osteomyelitis of the right pelvis.
+     Right femoral subcapital fracture whose age is indeterminate.
+
+",,
+5278,14558,,,2813-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-1**] 4:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9881**]
+     Reason: NGT placement                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 yo man with persistent fevers. need to check placement of ngt for po contast 
+      for ct.
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2813-4-1**]
+     
+     Compared to one day earlier.
+     
+     CLINICAL INDICATION:  Nasogastric tube placement.
+     
+     A nasogastric tube is present, and appears coiled at the thoraco-abdominal
+     junction.  The distal tip is directed cephalad and terminates at the level of
+     the left clavicle.
+     
+     A right PIC line remains in place, terminating in the proximal right atrium
+     just beyond the junction with the superior vena cava.  There are multifocal
+     patchy areas of increased opacity within the lungs, right greater than left.
+     
+     IMPRESSION:
+     1.  Malpositioned nasogastric tube, with distal tip directed cephalad at level
+     of left clavicle as described above.  Findings communicated with clinical
+     service caring for the patient.
+     2.  Multifocal patchy opacities within the lungs, which may be due to
+     multifocal pneumonia in the appropriate clinical setting.
+
+",,
+5278,14558,,,2813-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-1**] 9:43 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9882**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: does pt have abcess or osteo of the right pelvis?           
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+       with fevers without source 
+     REASON FOR THIS EXAMINATION:
+      does pt have abcess or osteo of the right pelvis?                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 49 year old man with enceophalopathy, shortness of breath and
+     fever.  Evaluate for osteomyelitis or abscess of the right pelvis.
+     
+     TECHNIQUE: Multiple axial images from the lung bases through the pelvis were
+     obtained following the administration of 150 cc of Optiray.  Optiray was used
+     secondary to patient's history of debility.
+     
+     COMPARISON: [**2813-3-22**]
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is minimal atelectasis at the
+     bases bilaterally.
+     
+     The liver, gallbladder, adrenal glands, and kidneys are normal in appearance.
+     Again seen is fatty infiltration of the pancreas. There is a small splenic
+     residual.  No free air or free fluid is identified in the abdomen.  The
+     opacified loops of small bowel and large bowel are normal in appearance. The
+     stomach appears normal.
+     
+     CT PELVIS WTH CONTRAST: The distal ureters and bladder are normal. There is
+     sediment present in the bladder. No free air or free fluid is seen in the
+     pelvis. Again seen is stool in the rectum. There are degenerative changes in
+     the right hip. In addition, there is a subcapital fracture of the right femur
+     whose age is indeterminate. Decubitis ulcer versus excavated stool.
+     
+     IMPRESSION: No evidence of abscess or osteomyelitis of the right pelvis.
+     Right femoral subcapital fracture whose age is indeterminate.
+
+",,
+5278,14558,,,2813-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-1**] 9:43 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9882**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: does pt have abcess or osteo of the right pelvis?           
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         49 year old man with encephalopathy p/w persistent tachycardia and some SOB  
+       with fevers without source 
+     REASON FOR THIS EXAMINATION:
+      does pt have abcess or osteo of the right pelvis?                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 49 year old man with enceophalopathy, shortness of breath and
+     fever.  Evaluate for osteomyelitis or abscess of the right pelvis.
+     
+     TECHNIQUE: Multiple axial images from the lung bases through the pelvis were
+     obtained following the administration of 150 cc of Optiray.  Optiray was used
+     secondary to patient's history of debility.
+     
+     COMPARISON: [**2813-3-22**]
+     
+     CT ABDOMEN WITH INTRAVENOUS CONTRAST: There is minimal atelectasis at the
+     bases bilaterally.
+     
+     The liver, gallbladder, adrenal glands, and kidneys are normal in appearance.
+     Again seen is fatty infiltration of the pancreas. There is a small splenic
+     residual.  No free air or free fluid is identified in the abdomen.  The
+     opacified loops of small bowel and large bowel are normal in appearance. The
+     stomach appears normal.
+     
+     CT PELVIS WTH CONTRAST: The distal ureters and bladder are normal. There is
+     sediment present in the bladder. No free air or free fluid is seen in the
+     pelvis. Again seen is stool in the rectum. There are degenerative changes in
+     the right hip. In addition, there is a subcapital fracture of the right femur
+     whose age is indeterminate. Decubitis ulcer versus excavated stool.
+     
+     IMPRESSION: No evidence of abscess or osteomyelitis of the right pelvis.
+     Right femoral subcapital fracture whose age is indeterminate.
+
+",,
+5278,14558,,,2813-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-2**] 1:31 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 9883**]
+     Reason: Subcapital fracture of right femur seen on CT an old film.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        49 year old man with [**Hospital Unit Name 9858**] history, rheumatoid arthritis, found nonresponsive 
+        with severe hypernatremia, now with externally rotated right leg and pain.
+     REASON FOR THIS EXAMINATION:
+      Subcapital fracture of right femur seen on CT an old film.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of rheumatoid arthritis. Externally rotated right leg and
+     pain. Subcapital fracture right femur seen on CT and old film.
+     
+     COMPARISON: Hip radiographs from [**2813-2-23**], and CT from [**2813-4-1**].
+     
+     AP PELVIS AND RIGHT HIP:  There are severe degenerative changes in the right
+     hip compared with the left. Severe joint space narrowing and osteophytes, as
+     well as subchondral sclerosis, and cortical irregularity of the right femoral
+     head. In addition there is sclerosis at the femoral neck which likely
+     represents the subcapital fracture seen on the CT. No acute fracture is seen,
+     though limited assessment.
+     
+     IMPRESSION: Severe degenerative changes in right hip, and sclerosis along
+     femoral neck that likely represents the old subcapital fracture seen on CT.
+     Though no acute fracture is identified on these plain radiographs, an MR may
+     be helpful to exclude a subtle acute fracture.
+
+",,
+5278,14558,,,2813-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-4**] 8:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9884**]
+     Reason: Recurrent fever spikes                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 yo man with persistent fevers. need to check placement of ngt for po 
+      contast  for ct.
+     REASON FOR THIS EXAMINATION:
+      Recurrent fever spikes                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2813-4-4**]:
+     
+     CLINICAL INDICATION:  Recurrent fever spikes.  NGT placement.
+     
+     Comparison is made to previous study of one day earlier.
+     
+     The examination is limited as the patient was unable to cooperate with
+     standard radiographic positioning.  This resulted in incomplete imaging of the
+     right lung.
+     
+     A NGT is no longer visualized.  The right PICC line remains in place
+     terminating near the junction of the SVC and right atrium.  The cardiac and
+     mediastinal contours are stable allowing for rightward rotation of the
+     patient.  The left lung appears grossly clear.  The imaged portion of the
+     right lung demonstrates some persistent patchy areas of increased opacity, but
+     this is difficult to compare due to differences in positioning.
+     
+     IMPRESSION:
+     1)  No NGT is visualized.  If one is indeed present, it may be coiled within
+     the oropharynx.  Clinical correlation is suggested.
+     2)  Limited assessment of the lungs due to incomplete imaging of the right
+     lung.  Repeat radiograph is suggested to allow better comparison to the
+     previous study.
+
+",,
+5278,14558,,,2813-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2813-4-12**] 9:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9885**]
+     Reason: 49 yo male with recurrent fever and ?aspiration. eval lung f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 yo man with above                                                            
+     REASON FOR THIS EXAMINATION:
+      49 yo male with recurrent fever and ?aspiration. eval lung fields for 
+      infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, AP PORTABLE, SINGLE VIEW, [**2813-4-12**]:
+     
+     INDICATION:  Recurrent fever and possible aspiration.  Evaluate for pulmonary
+     infiltrates.
+     
+     FINDINGS:  AP view now obtained in reasonable straight position of the patient
+     demonstrates remarkable asymmetry with smaller size of right-sided hemithorax
+     than on left.  There is a suggestion of a mild mediastinal shift towards the
+     right-sided smaller hemithorax which also shows a crowded pulmonary
+     vascularity.  There is no conclusive evidence of any acute parenchymal
+     infiltrates.  A suggested increased density in the mid portion of the right
+     lung is coinciding with the apical portion of the scapula and therefore very
+     questionable.  There is no evidence of pleural effusion in the right-sided
+     lateral sinus and no evidence of apical pneumothorax is present.  A right-
+     sided central venous line apparently introduced in the axillary vein reaches
+     with its tip in the lower portion of the SVC terminating just at the expected
+     entrance into the right atrium.  The left-sided hemithorax has a more normal
+     appearance and there are no acute parenchymal infiltrates, vascular
+     abnormalities or evidence of pleural effusion.  Remarkable is moderate
+     widening of the thoracic aorta with a prominence of its contour overlying the
+     medial portion of the left diaphragm.  The cause of this finding is unclear.
+     
+     Degenerative changes are seen in the right shoulder joint.  No other gross
+     skeletal abnormalities short of the described asymmetry of the chest on AP
+     view.
+     
+     Previous chest x-rays are not available for comparison.  The previous chest CT
+     dated [**2813-3-22**] exists in our records but again the films cannot be
+     assessed immediately.  The accompanying report describes the presence of a
+     sizable hiatal hernia which can explain the prominence seen medially on the
+     left lung base.
+     
+     IMPRESSION:  No conclusive evidence for acute pulmonary infiltrates or CHF on
+     single AP chest examination.  Unexplained asymmetric presentation.
+     
+
+",,

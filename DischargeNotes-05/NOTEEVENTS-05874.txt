@@ -1,0 +1,74 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5874,20862,,,3084-06-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5874,20862,7314,0,3084-06-18 04:43:00 EST,3084-06-18 05:31:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 2000-0700","
+CCU NPN 2000-0700
+S: ""When I was an intern here, I had to run around putting in IVs just like this...""
+O: please see carevue and admit note for complete assessment data.
+PMH: MV prolapse, trivial MR, HTN, hypercholesterolemia, LBBB, glaucoma, scoliosis, Prostate CA. 
+HPI: presented to ED via EMS after wife called w/ c/o weakness (reportedly x 1mo) and dyspnea x 1 day=> checked vitals @ home and found stable BP but HR 30. EMS found to be in CHB w/ vent rate 30s, tx'd to ED where pt. reportedly experienced 3 short bursts torasdes w/ underlying CHB. Tx'd to CCU for transvenous temp wire placement awaiting permanent PCM placement today. 
+
+NEURO: A&Ox3, MAE, assists w/ turning although extremely uncomfortable d/t lumbar scoliosis. Pleasant and cooperative w/ NSG care. PERRL 3mm/brisk. No c/o pain, declining PRN ativan (takes @ home PRN). 
+
+CV: Temp transvenous balloon tip pacing cath floated under fluro @ 2015 w/o complication. Pacing 100% @ 60 w/ occasional PVCs, mA 10, mV .6, (unable to further assess [**Last Name (un) **]. threshold after placement d/t supression of vent escape rhythm) appropriate sensing and capture noted. Underlying rhythm CHB w/ rate 33-47 w/ intermittent vent. bigeminy. BP stable, MAP 65-85. +3 pitting edema BLE R>L, RLE US completed, unread. DPs +2, PTs absent, extremities W/D. 
+
+RESP: 98-100% on 2L NC, NAD, no c/o SOB. LSCTA upper lobes, faint bibasilar rales resolved w/ diuresis. No cough. 
+
+GI/GU: abdomen soft, nontender, nondistended. NPO since MN for PCM placement today. Poor appetite lately d/t chemo tx. Condom cath draining CYU -1.5L since MN. 
+
+ENDO: AM BG 86. 
+
+ID: afebrile, tmax 98.1 PO. No abx. 
+
+SKIN: intact, no breakdown noted, ooze from RIJ venous introducer stable. 2 18G PIVs for access. 
+
+SOC: Married w/ 3 kids, lives in [**Location (un) 1489**]. Retired pathologist, formerly worked @ [**Hospital1 **]. Wife is psychologist, accompanied pt. to ED and visited briefly on arrival to CCU. 
+
+LABS: not ordered pre-op, most recent values from [**6-17**] @ 1800: Hct/Hgb 41.4/13.3, WBC 5.1; PT/PTT 12.4/26.8. CHEM 7: 134/4.4/100/24/13/0.8/117, Ca/Mg/PO4: 9.1/1.9 (2gm MgSO4)/3.0. CK 27
+A: 82yo presenting to ED in CHB requiring transvenous pacing wire as bridge to perm. PCM placement. Currently afebrile, and HD stable. 
+P: on call for EP lab. Cont to monitor HDs, and temp pacing wire. To recieve 5mg IV diazepam when called down to EP. Pre-op checklist done and in green chart. 
+",,
+5874,10180,7315,0,3085-07-16 04:44:00 EST,3085-07-16 05:08:00 EST,7748,"N",69,"Nursing/Other",,"
+
+83 yr old male with Metastic prostate CA  came to ED from home with N/V  tacypnenic Found to to right middle lobe infiltrate hyper kalemia @ 7.0  ARF lactate 3.8  Given 3L of fluid in ED for hypotension @ 77 pt baseline in high 80's. Was given anzmet flagyl and levo in ED Has pacemaker in left side Possible Asp/PNA 
+
+Neuro ALert and oriented x3 answer questions appropriately. Pupil are equal and reactive. Given .05mg ativan last night.  Woke up alittle confused wanted to get OOb @ 4am Told him time and went backto [**Doctor Last Name 5**]
+
+Resp Pt sat 98-100% on 3l N/C .  Becomes very anxious at times and has sensation of ""CHoking""Sated Iam very worried that I will choke to death in hospital"" .  Chest xray findings concern for asp?PNA with airspace opacities right mid lung and left lingula.  Pt gieven lidocain liquid for throat irriation.  Having difficulty swallowing Speech and swallow consult today.  Sputum culture sent.  AMLab called to report  CO2 @14 
+
+CV pacemaker left side atrial /vent paced. for complete HB  HX of hypotension baseline low 70-90/40 HR 70's with occasional PVC Hyperkalemiac with lab trending down 
+
+GI/GU Foley in place  pt with poor U/O Team aware Rec'd D51/2 NS @ 75 for 1L will reevaualte Had nauseau vomiting in ED 
+BUN 2 58 and creat 1.9 in ED.
+bS present abd soft N/D NPO except for ice chips
+
+Skin very dry duoderm on sacral area    
+ reevaulate upon lab results. Urine amber and clear. 
+
+Social lives with wife in [**Name2 (NI) **] Retried physician from [**Name9 (PRE) 275**] and BIMC        
+",,
+5874,10180,7315,0,3085-07-16 12:30:00 EST,3085-07-16 12:47:00 EST,1445,"N",69,"Nursing/Other",,"
+
+0700-1500 NPN
+See carevue for subjective/objective data.
+Neuro:  Pt lethargic, responding to loud verbal stimuli.  Intermittently answers questions but often just states ""mama"".  Intermittently responds to commands.  Per wife Fentanyl patch was placed on pts R hip [**3085-7-14**] PM--pt has never worn Fent patch prior to this one.  Patch DC'd at 1200--no change in mental status thus far.  Pt has hx cataracts and glaucoma--per wife has had surgery for both, does not use any type of eye gtts.  L eye cloudy (not new).  
+
+CV/Pulm:  MP=AV paced with occ PVC's noted.  BP 80's-90's/40's-50's.  Baseline SBP high 80's.  PIV x2 in place.  NS boluses total 2liters given thus far this shift with no change in BP (boluses given for low u/o).  NP at 4l cont with sats mid to high 90's.  Breath sounds clear, diminished bil.  Need sputum spec--unable to obtain thus far.  
+
+GI/GU:  Abd soft, flat, no grimacing to palpation.  Bowel sounds present.  No feedings or PO's given.  Awaiting evual by speech and swallow.  U/O poor-->5-20ml/hr.  Pt has rec'd total 2liters NS bolus as noted above with no increase in u/o.  Spoke with Dr. [**Last Name (STitle) 1490**] re: same--Dr. [**Last Name (STitle) 1490**] to speak with team and enter any orders team decides on.  
+
+ID/Integ:  Tmax 102.2PO and rectally this AM.  Blood cultures x2 sent, urine culture sent.  Unable to obtain sputum spec thus far.  Tylenol given with temp decreased to 100.7 PO.  Started on Flagyl and Levoquin after blood and urine sent to lab.  One sm stage 1 decubti noted on coccyx.  Team aware, duoderm applied, pt kept off of back/buttocks.  No other open areas noted.  
+
+Psychosocial/Plan:  Wife and daughter in to visit.  Emotional support given to pt and family.  Plan is to continue to monitor low u/o, boluses [**Name8 (MD) 34**] MD orders, monitor mental status, VS, breath sounds, abx as ordered.  Obtain sputum spec if possible.  Pt remains full code.
+",,
+5874,10180,7315,0,3085-07-16 18:17:00 EST,3085-07-16 18:22:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN [**2-24**]
+
+Pt cont to be aneuric, foley flushed, he was given another liter of IVF but he remained aneuric.  His SBP was 80s-90s and still not urinating.  His foley was again flushed, he was given another liter of IVF, after 400cc he became hypoxic to the upper 80s, the fluid was stopped and hew as put on 100% NRB, now with a wet cough, a CXR was ordered.
+",,
+5874,,7315,0,3085-07-17 06:02:00 EST,3085-07-17 06:08:00 EST,7748,"N",69,"Nursing/Other",,"
+
+Dr [**Known patient lastname 1491**] having resp distress last night CHXR showed left lung field opacity with fluid  Placed on non rebrether mask and then switched to Hi flow and C-pap mask  COntinued to breath 38-40 BPM O2 sat declining Pt was original full code  team contacted family and they made decision to change status to DRN/DNI. Pt given ativan for comfort overnight. Wife and daughter returned to hospital with wife remaining overnight.  Pt continued in resp distress with O2 sats and B/P declining Wife made decision not to administer pressors.  Pt expired about 6""45am  Wife awaiting daughter to arrive     
+",,

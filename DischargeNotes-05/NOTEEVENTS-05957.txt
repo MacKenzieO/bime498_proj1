@@ -1,0 +1,401 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5957,2760,,,2570-09-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2570-9-8**]       Discharge Date:  [**2570-9-19**]
+
+Date of Birth:   [**2481-11-17**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is an 88-year-old Caucasian
+female patient of Dr. [**Last Name (STitle) 1010**] with a history of rheumatic
+heart disease status post AVR in [**2557**], who presented to the
+ED after an episode of diaphoresis and feeling faint.  The
+patient also had associated nausea and left arm pain.  The
+patient denies any chest pain, shortness of breath, fevers,
+chills, night sweats, nausea, vomiting, abdominal pain,
+diarrhea, bright red blood per rectum, melena, loss of
+consciousness, lightheadedness, dysuria, and frequency.
+Patient has had vertigo for many years and takes meclizine
+for diagnosis of labyrinthitis.  She has occasional headaches
+over her left eyebrow, and more of a sharp [**10-19**] pain
+minimally relieved with Tylenol, last 2-3 minutes.
+
+PAST MEDICAL HISTORY:
+1. Rheumatic heart disease with an echocardiogram in [**2570-1-10**] which showed an EF of over 55%, mild left ventricular
+hypertrophy, AVR with mildly thickened leaflets and
+transaortic gradient, mild MR, PR, ascending aorta 4.2.
+2. Status post MI with a negative stress test in [**2568-1-11**].
+3. GERD.
+4. Vertigo/labyrinthitis.
+5. Fibroid uterus.
+6. Scoliosis.
+7. Hyperlipidemia.
+8. Atrial fibrillation.
+9. Anemia.
+10. Osteoporosis.
+11. AVR in [**2557**].
+
+MEDICATIONS:
+1. Ecotrin q.o.d.
+2. Atorvastatin 10 mg q.d.
+3. Diovan 160 mg q.d.
+4. Ditropan XL 5 q.d.
+5. Meclizine 25 q.h.s.
+6. Tums 500 q.i.d.
+7. Iron sulfate 325 q.d.
+8. Tylenol 325 as needed.
+
+ALLERGIES:  Codeine.
+
+SOCIAL HISTORY:  The patient lives alone in a second floor
+apartment.  She denies alcohol, tobacco, or drug use.
+
+PHYSICAL EXAMINATION:  Vitals:  97.1, 126/26, 75, 23, and 99%
+on room air.  General:  Elderly female in no acute distress,
+alert and oriented times three.  HEENT:  Pupils are equal,
+round, and reactive to light.  Extraocular movements are
+intact.  Oropharynx is clear.  Moist mucous membranes.  Neck:
+Supple, full range of motion, and no evidence of carotid
+bruits, lymphadenopathy, or jugular venous distention.
+Lungs:  Bibasilar rales, but otherwise clear to auscultation.
+Cardiovascular:  Regular, rate, and rhythm, normal S1, S2.
+There is a [**2-15**] holosystolic murmur at the left lower sternal
+border and a [**3-15**] diastolic murmur over her right upper
+sternal border.  No gallops or rubs.  Abdomen:  Normoactive
+bowel sounds, soft, nontender, nondistended.  Extremities:
+No evidence of clubbing, cyanosis, or edema.  Neurologic:
+alert and oriented times three.  Cranial nerves II through
+XII intact.  Motor strength is [**5-14**] diffusely.  Sensation is
+intact to light touch and proprioception.
+
+LABORATORIES:  White blood cells 5.9, hematocrit 33.3,
+platelets 156.  PT 12.8, PTT 25.6, INR 1.1.
+
+Sodium 138, potassium 3.7, chloride 104, CO2 25, BUN 25,
+creatinine 1.0, glucose 124.
+
+CK 83, troponin less than 0.01.
+
+CHEST X-RAY:  Pleural effusions bilaterally.  No evidence of
+consolidation or signs of failure.
+
+CTA:  No evidence of aortic dissection, ascending aorta
+dilated to 4.3 cm tapers to normal on the descending section,
+no evidence of pulmonary emboli, no pericardial effusion,
+there is a small right pleural effusion, no pneumothorax.
+There is a mild intrahepatic ductal dilation and simple
+kidney cysts.
+
+EKG:  Normal systolic rhythm with a rate of 70 beats per
+minute.  There are Q waves in V1 to V2 and T-wave inversions
+in I and aVL.  There are no ST changes.
+
+HOSPITAL COURSE:
+1. CHF:  Patient was admitted with bibasilar rales on lung
+examination with a loud diastolic murmur.  She was initially
+evaluated in the Emergency Department with a CTA for a
+question of pulmonary embolus.  The patient did not tolerate
+the dye load and had a creatinine that bumped to 2.2 and was
+acutely short of breath requiring a face mask.
+
+Given her loud murmur; an echocardiogram was performed on
+[**9-11**], which showed new deterioration of his LV
+systolic function with focal hypokinesis of the basal
+inferior lateral wall.  Overall LV ejection fraction was over
+55%.  She had a mildly dilated ascending aorta with
+prosthetic aortic valve leaflets thickened, but not stenotic.
+There is a noted focal fluttering echo density on the left
+ventricular side of the leaflet consistent with valve tissue
+or vegetation.
+
+The patient was given gentle hydration on her first hospital
+day for her intolerance of the contrast during her CTA.  She
+was noted to have an increasing short of breath, and was
+requiring high amounts of oxygen.  She was placed on Lasix
+and nesiritide drip.  The CCU was contacted for transfer.
+
+On transfer to the MICU, the patient was maintained on the
+nesiritide and Lasix with a urine output that gradually
+increased.  The etiology of her CHF was thought to be
+secondary to worsened aortic regurgitation with a possibly
+small contribution from her non-ST-elevation myocardial
+infarction, which eventually ruled in for.
+
+The patient was briefly maintained on the nitroglycerin drip
+for mean arterial pressures over 80% while in the CCU.
+During her brief stay in the CCU, the patient was eventually
+switched over to Lasix IV and chlorothiazide IV and had a
+good urine output.  Her sats were noted to be stable in the
+90s on 4-6 liters of oxygen by nasal cannula, and the patient
+was transferred back to the floor on [**9-14**].
+
+Patient diuresed 2-3 liters on her first several days back on
+the floor and was eventually switched over to p.o. diuretic
+regimen with Lasix 20 q.a.m. and hydrochlorothiazide 25 q.d.
+The patient's urine output decreased slightly over the next
+several days, but she remains stable with good oxygen
+saturations and improving lung examination with a decreased
+jugular venous distention.
+
+2. MI:  The patient was admitted for a rule out MI and
+eventually ruled in with a peak CK of 339 and troponin of
+0.91.  The patient was maintained on aspirin and a beta
+blocker throughout her hospitalization.  A cardiac
+catheterization was postponed given the patient's development
+of acute renal failure and CHF.  It was decided toward the
+end of her hospitalization, to delay cardiac catheterization
+until the patient is out of the hospital.  She remained
+stable throughout her hospitalization without nausea, which
+was considered to be her anginal equivalent.
+
+3. Atrial fibrillation:  The patient was in normal sinus
+rhythm until [**9-16**] when she went into a brief episode
+of atrial fibrillation.  The covering team started the
+patient on low dosed digoxin.  The patient was maintained on
+digoxin and on beta blocker throughout the rest of her
+hospitalization, and self converted the following day into
+normal sinus rhythm and was noted to be in a normal rhythm
+throughout the remainder of hospitalization.
+
+4. Renal:  On admission to the hospital, the patient received
+a CTA for evaluation for pulmonary embolus.  After receiving
+a small amount of contrast, the patient became acutely
+hypoxic and required a face mask, and it was noted that her
+creatinine jumped to 2.2 from her initial creatinine of 1.0.
+Patient was given IV fluids, and was noted to go into heart
+failure.  Patient's renal function slowly resolved throughout
+the rest of her hospitalization, and her creatinine drifted
+down to 1.7.  The patient was maintained on diuretics
+throughout her hospitalization, and was eventually switched
+over to p.o.
+
+The etiology of her acute renal failure was thought likely
+secondary to contrast-induced ATN versus congestive heart
+failure causing transient hypotension and decreased perfusion
+of her kidneys.
+
+5. ID:  The patient was noted to have Citrobacter in her
+urine on hospital day #4.  She was placed on renally dosed
+levofloxacin and should receive a total of seven doses of
+levofloxacin.  Her blood cultures were negative throughout
+her hospitalization, and the patient remained afebrile.
+
+6. Heme:  The patient had decreasing hematocrits throughout
+her hospitalization.  She was initially placed on Heparin and
+Integrilin after she ruled in for a MI, but given hematuria
+and melanic stools, the Heparin and Integrilin were D/C'd.
+The patient received 2 units of packed red blood cells on
+transfer to the CCU for a hematocrit of 27.4.  Throughout the
+rest of her hospitalization, the patient was noted to have no
+further blood loss, and her hematocrit was stable around 33.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:
+1. Non-ST-elevation myocardial infarction.
+2. Congestive heart failure with aortic valve insufficiency.
+3. Acute renal failure.
+4. Rheumatic heart disease status post atrioventricular
+replacement.
+
+DISCHARGE MEDICATIONS:
+1. Atorvastatin 10 mg p.o. q.d.
+2. Meclizine 25 mg p.o. q.h.s.
+3. Ferrous sulfate 325 mg p.o. q.d.
+4. Ranitidine 75 mg p.o. q.d.
+5. Colace 100 mg p.o. b.i.d.
+6. Senna two tablets p.o. b.i.d.
+7. Bisacodyl 10 mg p.o. q.d. prn.
+8. Simethicone 40-80 mg p.o. q.i.d. prn.
+9. Calcium carbonate 1 gram p.o. t.i.d. with meals.
+10. Nitroglycerin 0.3 mg sublingual prn.
+11. Aspirin 325 mg p.o. q.d.
+12. Metoprolol 12.5 mg p.o. b.i.d.
+13. Digoxin 125 mcg p.o. q.d.
+14. Furosemide 20 mg p.o. q.a.m.
+15. Miconazole powder t.i.d.
+16. Hydrochlorothiazide 25 mg p.o. q.d.
+17. Levofloxacin 250 mg p.o. q.48h. x7 doses.
+
+FOLLOWUP:  Patient is encouraged to followup with her primary
+care doctor and cardiologist, Dr. [**Last Name (STitle) 1010**].  Dr. [**Last Name (STitle) 1010**] would
+like the patient to call [**Telephone/Fax (1) 1014**] to schedule an
+appointment.  She has an appointment with him on [**2570-11-21**] at 11 a.m.  She also has an appointment with Dr.
+[**Last Name (STitle) **] on [**2570-10-17**] at 10:30 a.m.
+
+DISCHARGE INSTRUCTIONS:  The patient will be discharged to
+[**Hospital3 **] Facility, where she will hopefully have daily
+physical therapy to increase her activity level.  She should
+be fluid restricted to 1500 cc and be maintained on a low
+cholesterol, low saturated fat, salt-free diet.
+
+
+
+                            [**First Name11 (Name Pattern1) 470**] [**Last Name (NamePattern4) 1013**], M.D.  [**MD Number 7499**]
+
+Dictated By:[**Last Name (NamePattern1) 3626**]
+MEDQUIST36
+
+D:  [**2570-9-19**]  11:20
+T:  [**2570-9-19**]  11:35
+JOB#:  [**Job Number 7500**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 470**] [**Last Name (NamePattern1) **]
+ on: TUE [**2570-10-9**] 9:07 AM
+(End of Report)
+
+
+",,
+5957,2760,,,2570-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2570-9-8**] 8:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 15765**]
+     CTA PELVIS W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST
+     Reason: cp, low bp, evaluate for aortic dissection
+     Field of view: 35 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with avr, cardiac perforation, s/p mi with stent placement, 
+     REASON FOR THIS EXAMINATION:
+      cp, low bp, evaluate for aortic dissection
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EKEK SUN [**2570-9-9**] 8:38 AM
+      no dissection
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 88 year old female with aortic valve replacement and history of
+     myocardial infarct with cardiac perforation and stent placement. Patient with
+     chest pain and hypotension.  Evaluate for aortic dissection.
+     
+     TECHNIQUE: CT imaging of the torso from the thoracic inlet to the level of the
+     iliac bifurcation performed after the intravenous administration of 150 cc of
+     Optiray.  Nonionic contrast was used due to patient debility.  Additional
+     reformatted images in multiple planes were also obtained.
+     
+     CT CHEST WITH CONTRAST: There is no evidence of aortic dissection. There is
+     focal dilatation of the ascending thoracic aorta which measures 4.3 cm in
+     greatest dimension. There is an aortic valve prosthesis in place. The thoracic
+     aorta tapers to a normal caliber within the descending portion of the thoracic
+     aorta and the abdominal aorta. There is no evidence of mediastinal hematoma or
+     pulmonary embolism. There is no evidence of pericardial effusion.
+     
+     There is a small right sided pleural effusion.  There is atelectasis and/or
+     scarring throughout both lungs. There is a subcentimeter noncalcified
+     pulmonary nodule in the right lung base.  There is no evidence of
+     pneumothorax.
+     
+     CT ABDOMEN WITH CONTRAST: There is mild intrahepatic biliary ductal dilatation
+     with no evidence of intrahepatic biliary ductal dilatation. The liver is
+     normal in contour and attenuation with no evidence of hepatic mass. There is a
+     subcentimeter low attenuation lesion within the right lobe of the liver likely
+     representative of a simple hepatic cyst. The gallbladder, pancreas, and spleen
+     are within normal limits.  There are multiple simple cysts within both
+     kidneys. Both kidneys enhance and excrete contrast promptly and symmetrically
+     with no evidence of renal mass. There is no evidence of retroperitoneal lymph
+     node pathologic enlargement. There is no abnormal dilatation or wall
+     thickening within the visualized portions of large and small bowel. There are
+     calcified fibroids identified within the visualized portion of this patient's
+     post menopausal uterus.
+     
+     Bone windows show no suspicious lytic or sclerotic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2570-9-8**] 8:03 PM
+     CTA CHEST W&W/O C &RECONS; CTA ABD W&W/O C & RECONS             Clip # [**Clip Number (Radiology) 15765**]
+     CTA PELVIS W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST
+     Reason: cp, low bp, evaluate for aortic dissection
+     Field of view: 35 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT RECONSTRUCTIONS: Images reformatted in the coronal plane demonstrate
+     aneurysmal dilatation of the ascending portion of the thoracic aorta which
+     tapers to a normal caliber within the descending portion of the thoracic aorta
+     and the abdominal aorta. These reconstructed images demonstrate no evidence of
+     aortic dissection.
+     
+     IMPRESSION:
+     
+     1) No evidence of aortic dissection.
+     2) Aortic valve prosthesis in place with focal aneurysmal dilatation  of the
+     ascending aorta which measures 4.3 cm in greatest dimension.
+     3) Subcentimeter noncalcified pulmonary nodule within the right lung base.
+     4) Mild intrahepatic biliary ductal dilatation.
+     5) Fibroid uterus.
+
+",,
+5957,2760,7420,0,2570-09-12 14:53:00 EST,2570-09-12 15:20:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR no ectopy- HR 61-71- C/O one episode of nausea when feeling like moving her bowels this am- SBP 88- no diaphoresis-  instructed to give Pt ntg sl with next episode if SBP > 80- no further c/o this shift- Hct 29.3 this am- K 4.8- Mg 2.6- B/P 94-117/29-62- MAP's 44- 72.
+
+resp- In 02 3L via NC- lung sounds with crackles 1/3 up bilaterally- resp even, non-labored-  RR-16-22- Sp02 94-97%.
+
+gi- abd soft non-tender (+) bowel sounds- no stool today- PO intake fair- con't on 1500cc fld restriction.
+
+gu- foley draining yellow colored urine with sediment- U/A & C&S sent to lab- BUN 71 Crea 3 this am- repeat labs pending- con't on lasix gtt @ 24mg/hr- U/O 15-80cc/hr- I&O presently = at present- seen by renal team- diuril 250mg IV ordered BID in addition to lasix gtt- U/O trending up last few hrs.
+
+neuro- A&O X3- moving all extremities- pleasant & cooperative- follows command.
+
+A- S/P MI complicated by renal failure
+
+P- monitor vs, lung sounds, I&O, & labs- assess for further episodes of nausea/diaphoresis- give ntg sl & note effect- repeat labs due @ 2100- offer emotional support to Pt & family- keep them updated on plan of care.
+
+
+",,
+5957,2760,7420,0,2570-09-13 03:53:00 EST,2570-09-13 04:09:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I feel its hard to breath ""
+O:  afeb. 
+pt. developed increasing SOB after turning side to side with linen change.  sats down to 92% on 3lnc.  BP 125/40.  HR 70's.  EKG no change.  pt. denied CP/diaphoresis/nausea at that time.  appearing tired and slightly labored breathing pattern.  LS crackles 1/2 up.
+given SL NGT x1 with no relief.  given .5mg morphine with better relief.  However, one hour later at 2100, pt. again c/o SOB, this time assoc. with mild nausea.  no diaphoresis or CP.  BP contin. 120's/40.  given sl NGT and 1mg morphine.  lasix gtt inc. to 30mg/hr.  FIO2 inc. to NC 4l in addition to 100% face tent.  symptoms improved and pt. fell asleep.  
+HR down to 60's.  BP 103-113/30's.  O2 changed to 6lNC with sats 92-96%.  pt. c/o face tent bothering her.
+K+ 4.0 given 20meq KCL
+GU:  u/o 60-150cc/hr on 30mg lasix gtt.   (-) 500 for [**9-12**].  currently ~ 400cc neg.  given 250mg diurel at 0400 per BID order.
+GI:  tried on bedpan with no success.  on colace.
+neuro:  A/Ox3.  pt. tachypnic with little effort.  needs HOB at 30-45degrees.  slept for ~ 4hours.
+access:  one PIV.  
+A:  episode of worsening symptoms during eve, req. inc. in FIO2 and inc. dose of lasix.  improvment with morphine.
+P:  contin. to try SL TNG / morphine for acute SOB episodes.  follow u/o, sats, lytes.  HCT.  may need better access.  both arms very bruised.  very difficult venepunture. 
+",,
+5957,2760,7420,0,2570-09-13 14:44:00 EST,2570-09-13 14:53:00 EST,187,"N",1,"Nursing/Other",,"
+
+SR NO ECTOPY. BP STABLE .NO CO CP,SOB BUT DOE. HCT 27,NO TRANSFUSION TODAY .PICC PLACED .K REPLETED .
+
+SAT 90 TO 95 6LNP. CRACLKES PERSIST . 
+
+FAIR APPETITE .SENSCKOT,DULCLAX SUPP ,PAST GAS ,MORE COMFORTABLE NO STOOL.
+
+NEG 1300 ,GOAL 1L NEG,LASIX GTT WEANED . 
+
+A,OX3,ANXIOUS CONCERNING CATH CHF RESPONDING TO DIURESIS 
+
+FOLLOW HCT
+WEAN LASIX TO MAINTAIN 1L NEG .
+ 
+",,
+5957,2760,7420,0,2570-09-14 02:42:00 EST,2570-09-14 02:57:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I feel better tonight ""
+O:  pt. verbalizing improved symptoms tonight.  no episodes of acute SOB although contin. with general slight DOE.  no nausea/dizziness/diaphoresis.
+HR 60's SR.  BP 103-118/50.
+
+LS crackles 1/3 up.  Sats 94-97% on 6lnc.  occas. dry cough.  
+
+remains off lasix gtt.  u/o 60-70cc/hr.  (-) 2L for [**9-13**].  currently ~ 300cc neg. 
+K+ 3.9 in eve.  repleted with 20meq KCL IV.  Mg+ 2.3.  Cr 2.2
+
+bedpan x1 with no results.  abd flat, soft.  (+) BS.  
+
+pt. able to pull self up to sitting position in bed.  may be ready to dangle at bedside today and possibly get OOB.  
+
+A:   improved symptoms.  lasix off.
+P:  wean O2 as tol.  monitor u/o, lytes.  try to dangle.  bowel regimen.  
+",,

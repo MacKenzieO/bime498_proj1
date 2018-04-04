@@ -1,0 +1,426 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5939,,,,2609-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2609-4-5**] 1:44 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 15537**]
+     Reason: dx: cad, proc: cabg
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with 
+     REASON FOR THIS EXAMINATION:
+      dx: cad
+      proc: cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PA AND LATERAL DATED [**2609-4-5**].
+     
+     INDICATION:  Pre-op CABG.
+     
+     COMPARISON:  [**2607-1-5**].
+     
+     FINDINGS:  The heart and mediastinal contours are normal.  The lungs are
+     clear.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+5939,6833,,,2609-04-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2609-4-11**]        Discharge Date: [**2609-4-17**]
+
+Date of Birth:  [**2568-12-11**]        Sex:  M
+
+Service:  CSU
+
+
+SERVICE:  Cardiothoracic Surgery.
+
+HISTORY OF PRESENT ILLNESS:  This is a 40-year-old male with
+2-3 month history of chest pain and dyspnea on exertion. He
+had a positive stress test and underwent a cardiac
+catheterization which revealed three-vessel coronary artery
+disease with an ejection fraction of approximately 35
+percent. He was referred to Dr. [**Last Name (STitle) **] for evaluation of
+coronary artery bypass graft.
+
+PAST MEDICAL HISTORY:  Diabetes mellitus, status post
+cadaveric renal transplant, hypertension, high cholesterol,
+hepatitis C.
+
+SOCIAL HISTORY:  Positive for smoking and positive alcohol
+abuse.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Captopril 50 mg p.o. b.i.d.
+2. Imdur 60 mg p.o. q d.
+3. Aspirin 81 mg p.o. q d.
+4. Zantac 150 mg p.o. q d.
+5. Prograf 2 mg p.o. b.i.d.
+6. Folate 1 mg p.o. q d.
+7. CellCept 1,000 mg p.o. b.i.d.
+8. Lipitor 10 mg p.o. q d.
+9. Atenolol 100 mg p.o. q a.m. and 50 mg p.o. q p.m.
+10.      Protonix 40 mg p.o. q d.
+11.      Humalog insulin sliding scale.
+12.      Bactrim one tablet p.o. Monday, Wednesday and
+   Friday.
+13.      Prednisone 5 mg p.o. q d.
+14.      Lantus insulin.
+
+
+PHYSICAL EXAMINATION:  He was afebrile with stable vital
+signs. His lungs were clear. Heart was regular. Abdomen was
+soft, nontender, nondistended with bowel sounds present. He
+had a well healed renal transplant scar.
+
+LABORATORY DATA:  His labs are all within normal limits.
+
+HOSPITAL COURSE:  The patient was seen in consultation and it
+was decided that the patient would undergo a coronary artery
+bypass graft. The patient was taken to the Operating Room on
+[**2609-4-12**] for a coronary artery bypass graft times three.
+Please see the Operative Report for further details. The
+patient was transferred to the Cardiac Surgery Recovery Unit
+postoperatively and was slowly weaned from his ventilator and
+extubated. He was put on multiple agents to enhance his blood
+pressure. These were slowly weaned over the next couple of
+days. The Transplant Renal service was consulted for
+management of his renal transplant medications and they
+followed him throughout his hospital course. The patient was
+weaned from the ventilator and weaned from his cardiac
+medications over the next couple of days. He had chest tubes
+placed intraoperatively and those were ultimately removed
+prior to discharge.
+
+Also, the [**Hospital6 7466**] was consulted for
+management of his insulin during this hospital stay. They
+followed him throughout and managed his insulin accordingly.
+The patient continued to do well. His blood pressure
+medications were slowly titrated up as he was able to be
+weaned from his pressors. His chest tubes were removed.
+
+Psychiatry was consulted on [**2609-4-14**] because the patient
+was combative and there was a question of whether or not he
+was withdrawing. They felt that this patient was delirious
+likely due to postoperative and postanesthesia effects, as
+well as nicotine and questionable alcohol withdrawal. His
+delirium slowly resolved and the patient was normal without
+any signs of agitation prior to discharge. The patient
+continued to do well and Physical Therapy was consulted. He
+was ambulating significantly on his own and continued to
+improve. He was able to do stairs and actually ultimately was
+going outside on his own to smoke and was active. The patient
+was discharged to home on [**2609-4-17**] and he was doing well.
+The patient was discharged to home in stable condition on
+[**2609-4-17**].
+
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease, status post coronary artery
+   bypass graft times three.
+2. Diabetes mellitus.
+3. Renal insufficiency, status post cadaveric renal
+   transplant.
+4. Hypertension.
+5. High cholesterol.
+6. Hepatitis C.
+7. Positive for smoking.
+8. Positive for alcohol use.
+
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg p.o. q d.
+2. Percocet 1-2 tablets p.o. q four hours p.r.n.
+3. Atenolol 100 mg p.o. q a.m. and 50 mg p.o q p.m.
+4. Imdur 60 mg p.o. q d.
+5. Plavix 75 mg p.o. q d.
+6. CellCept 1,000 mg p.o. b.i.d.
+7. Prednisone 5 mg p.o. q d.
+8. Lipitor 10 mg p.o. q d.
+9. Folic acid 1 mg p.o. q d.
+10.      Protonix 40 mg p.o. q d.
+11.      Prograf 2 mg p.o. b.i.d.
+12.      Lantus.
+13.      Bactrim one tablet p.o. Monday, Wednesday and
+   Friday.
+14.      Reglan 10 mg p.o. q.i.d. with meals.
+15.      Vitamin C 500 mg p.o. b.i.d.
+16.      Captopril 50 mg p.o. t.i.d.
+
+
+CONDITION ON DISCHARGE:  Stable condition.
+
+FOLLOW UP:  The patient is to follow-up with his primary care
+physician [**Last Name (NamePattern4) **] 1-2 weeks and with his renal doctor as well, as
+well as with his cardiologist and follow-up with Dr.
+[**Last Name (STitle) **] in 4-6 weeks.
+
+
+DISPOSITION:  The patient is discharged to home in stable
+condition.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD 2358
+
+Dictated By:[**Doctor Last Name 6274**]
+MEDQUIST36
+D:  [**2609-4-17**] 14:21:40
+T:  [**2609-4-17**] 15:00:30
+Job#:  [**Job Number 7467**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2609-5-19**] 7:51 AM
+(End of Report)
+
+
+",,
+5939,6833,,,2609-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2609-4-12**] 3:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15538**]
+     Reason: postop film                                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;S/P RENAL TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man s/p cabg x3; renal transplant pt.                               
+     REASON FOR THIS EXAMINATION:
+      postop film                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Post-op film post CABG, renal transplant patient.
+     
+     AP CHEST DATED [**2609-4-12**] IS COMPARED WITH THE PA AND LATERAL CHEST DATED
+     [**2609-4-5**]:  The ET tube is in satisfactory position approximately 4.5 cm
+     above the carina.  The NG tube tip overlies the stomach.  The right IJ Swan-
+     Ganz catheter tip overlies the main pulmonary artery.  There is a mediastinal
+     drain present.  There are low lung volumes.  The lungs appear clear.  The
+     cardiac and mediastinal contours are unremarkable given a recent CABG.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary disease.  Lines and tubes as
+     described.
+
+",,
+5939,6833,7402,0,2609-04-12 21:46:00 EST,2609-04-12 21:58:00 EST,3118,"N",54,"Nursing/Other","ALTERED CARDIAC STATUS","
+ALTERED CARDIAC STATUS
+S: ""I'M SO THIRSTY""
+O: CARDIAC: SR 80-90'S WITH RARE PAC'S/PVC'S. 2000 ST RECIEVED ADDITIONAL LR WITHOUT EFFECT. LOPRESSOR 5 MG GIVEN HR 98-102. SBP REQUIRING NTG PRESENTLY @ 3 MCQ . CI >2.5 CVP 11. MINIMAL CT DRAINAGE. DSGS D+I. PALP PP FEET WARM TO TOUCH. HCT 35. K 20 MEQ X 1. A+V WIRES SENSE AND CAPTURE APPROPRIATELY. 
+   RESP: EXTUBATED WITHOUT INCIDENT. O2 @ 3 L NP WITH O2 SAT>96%. BS DIMINISHED BIBASILAR CLEAR UPPER. NO CT LEAK. COUGHING WITHOUT RAISING. IS TO 1250. 
+   NEURO: EASILY AROUSABLE, PERL, MAE, FOLLOWING COMMANDS. GRASPS STRONG AND EQUAL.
+   GI: TAKING H20, 1700 C/O NAUSEA+ RECIEVED 10 MG IV REGLAN, NO FURTHER NAUSEA. ABD SOFT. HYPOACTIVE BOWEL SOUNDS.
+   GU: ADEQUATE UO,
+   ENDO: INSULIN GTT ON UNTILL 2000 OFF UNTIL 2230 PRESENTLY @ 2 UNITS. 
+   ID: VANCO 1 GM @ 2200.
+   SOCIAL: MOTHER AND FIANCE INTO VISIT AND UPDATED. 
+   PAIN: MSO4 2-4 MG DOSE INCREASED TO 2-10MG Q2 HOURS.
+   ETOH: ON ALCOHOL GTT @ 25ML/HR 
+A: ST, HTN, REQUIRING INCREASED MSO4, ADEQUATE UO.
+P: MONITOR COMFORT, HR AND RYTHYM, SBP-NTG TO KEEP MAP<90, CI, CT DRAINAGE, DSG, RESP STATUS-PULM TOILET, NEURO STATUS. I+O, 2230 LABS PENDING. AS PER ORDERS.      
+  
+",,
+5939,6833,7402,0,2609-04-13 04:49:00 EST,2609-04-13 04:56:00 EST,3120,"N",54,"Nursing/Other",,"
+
+NEURO: PT ALERT ORIENTED FOLLOWING COMMANDS. REMAINS ON ALCOHOL DRIP 
+RESP: O2 SATS 98% ON 3L NP BREATH SOUNDS DIMINISHED IN BASES COUGHING BUT NOT RAISING. CHEST TUBES PATENT DRAINING SEROUSSANGUINOUS DRAINAGE MODERATE AMOUNTS.
+C/V: HEMODYNAMICALLY STABLE ON 1 MCG OF NITRO FOR BP CONTROL. HR REMAINS ELEVATED 100-108 SINUS TACH TO START LOPRESSOR THIS AM. GOOD CO/CI.
+GI: PT COMPLAINED OF NAUSEA AFTER DRININKING GINGERALE LAST NIGHT TREATED WITH REGLAN NPO THROUGH NIGHT EXCEPT FOR ICE CHIPS WILL ATTEMPT TO ADVANCE THIS AM.
+ENDO: INSULIN DRIP TITRATED TO PROTOCOL OFF AT PRESENT 2ND TO BLOOD SUGAR DIPPED TO 58 BY LAB 72 BY GLUCOMETER. PT GIVEN [**12-2**] AMP OF D50.
+GU: URINE OUTPUT ADEQUATE, CR 0.9 TODAY PT WILL RESTART ANTI REJECTION DRUGS THIS AM LEVEL SENT TO LAB.
+SKIN: INCISION INTACT NO DRAINAGE.
+PAIN: GOOD PAIN CONTROL WITH MORPHINE 6-8MG SC 
+PLAN: WEAN OFF NITRO AND DELINE WHEN READY.
+",,
+5939,6833,7402,0,2609-04-13 16:36:00 EST,2609-04-13 16:48:00 EST,3114,"N",54,"Nursing/Other",,"
+
+PROB: S/P CABG
+
+CV: SR-ST NO VEA NOTED. LOPRESSOR TODAY WITH LITTLE EFFECT ON RATE. NTG WEANED TO OFF. CT DRAINING S/S DRAINAGE, NO LEAK NOTED. 
+
+RESP: C/DB Q 1-2HR, NON-PRODUCTIVE COUGH. O2 SATS ADEQUATE. LUNGS COARSE, DIM IN BASES.
+
+GU: UOP ADEQUATE. CLEAR YELLOW URINE.
+
+GI: APPETITE FAIR, REQUESTING REGLAN-TAKES AT HOME. ETOH DRIP WEANED TO OFF. ONE BEER WITH DINNER.
+
+NEURO: ALERT AND ORIENTED X3. MAE, APPROPRIATE. CIWA SCALE=0.
+
+SOCIAL: AUNT IN TO VISIT.
+
+ENDO: INSULIN DRIP TITRATED TO BS. SEE FLOW SHEET. [**Last Name (un) **] CONSULT.
+
+ASSESSMENT: LOPRESSOR STARTED, WILL NEED MORE.
+
+PLAN: CONT. 
+MONITOR BS.
+MONITOR HEMODYNAMICS.
+
+  
+",,
+5939,6833,7402,,2609-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2609-4-14**] 11:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15539**]
+     Reason: r/o  ptx s/p ct's removed                                   
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;S/P RENAL TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old man s/p cabg x3; renal transplant pt.                              
+       
+     REASON FOR THIS EXAMINATION:
+      r/o  ptx s/p ct's removed                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Removal of left chest tube.  Patient is S/P CABG.
+     
+     AP SEMI-UPRIGHT SINGLE VIEW OF THE CHEST.
+     
+     FINDINGS:  There is interval removal of the left-sided chest tube.  There is
+     also removal of mediastinal tube NG tube and ET tube.  The Swan-Ganz catheter
+     was also removed and right IJ vascular catheter sheath was left in place with
+     the tip in right innominate vein.  The patient is S/P median sternotomy and
+     CABG.  The cardiac size is enlarged but unchanged in the interval. Pulmonary
+     vascularity is normal.  There is no evidence of CHF.  There is no evidence of
+     pneumothorax.  There are bibasilar discoid atelectasis.  There are no focal
+     consolidations.
+     
+     IMPRESSION:  There is no evidence of pneumothorax.  Low lung volumes and
+     discoid atelectasis in bilateral bases.
+     
+     
+     
+
+",,
+5939,6833,7402,0,2609-04-14 04:07:00 EST,2609-04-14 04:13:00 EST,3120,"N",54,"Nursing/Other",,"
+
+Neuro: pt alert oriented following commands. 
+Resp: o2 sats 96% on 3l np. IS 1000 x10 coughing but not raising. Chest tubes patent draining small to moderate amounts of serous sangunious drainage. No air leak detected.
+C/V: hr 90's sinus BP elevated pt received 25mg lopressor and nitro drip increased to 2.5mcg/kg/min. 
+GI: tolerating diet well.
+Endo: Insulin gtt d/c 3hours after NPH given [**First Name8 (NamePattern2) 34**] [**Last Name (un) **]. Blood sugars 86-146 through night. Pt to resume lantus this am.
+GU: adequate urine output. Cr 1.0 today. Pt continues on anti rejection medications.
+Pain: good pain control with percocets 2 tabs every 6hours.
+Activity OOB to chair with minimal assist.
+Skin: Dsg intact no drainage.
+Plan: Resume preop antihypertensives. ? transfer to floor.  
+",,
+5939,6833,7402,0,2609-04-14 15:56:00 EST,2609-04-14 16:27:00 EST,3952,"N",54,"Nursing/Other",,"
+
+See Carevue for objective data.
+
+Pt OOB until 10AM and returned to bed at pt's request. AT this time,pt
+alert and oriented and coopertive. SR with no ectopy and on IV NTG to control BP. Lopressor dose increased to 50mg and tolerated well.
+As the day progressed pt became very demanding and restless regarding needing to go outside for a cigarette. Explanation provided but pt adamant he would go outside despite MD [**First Name (Titles) **] [**Last Name (Titles) **] in room for 30 minutes
+explaining his condition and medical equipment would make it dangerous. Pt pulling on epi wires/arterial line. It was decided for safety to dc epi wires/arterial line/foley/cortis/chest tube. Pt tolerated the removal of latter well and was cooperative at this time.
+Social worker notified and spoke to pt.
+Pt found at the foot of the bed 10 minutes after epi wires were pulled
+trying to get OOB. Explanation provided to pt prior to removal of epi wires of the need for bedrest and again when pt found attempting to get OOB. After trying to assist pt back to bed safely, with a closed fist pt hit RN left forearm. Returned to bed with help. Pt agitated/restless/verbally abusive at this time. Pulled peripheral IV out and MD called. IV re-established and 5 mg haldol given IV with total of 2 mg ativan IV. Pt drowsy but arousable at this time.
+However, approximately one hour later pt became extremely agitated
+and attempting to get OOB. (5) staff members were required to return pt to bed.Pt on all 4's in bed trying to evade restraints. MD aware of the concern for sternal incision and pt's activity.. An additional 5 mg haldol was given IV with fair effect. At this point, a psyche consult was initiated. 
+Evaulation was completed. See chart for recommendations and full note.
+It was felt that a security 1:1 was necessary to protect the staff due to this pt's verbal/physical abuse. This was initiated as well as 4 point soft restraints. CSM adequate to extremities. Belt lap restraint added when pt attempting to sit up in bed despite verbal explanation and IV medications.
+Pt at this time now confused. Yelling out, ""MA!"" Again,verbally abusive and not responding to any verbal explanations/orientation efforts.
+
+IV NTG remains infusing for BP control. QTC .37 after 4 doses of haldol. Dressings dry and intact. Afebrile. FSBS per SS. Making adequate urine but has not voided since foley removed. 
+
+Plan: Maintain safety for pt and staff with security 1:1,monitor and support BP and HR,monitor FSBS with coverage SS,assess sternal incisions for stress,support/calm pt/administer haldol as needed and monitor QTC.
+
+
+
+
+
+ 
+",,
+5939,6833,7402,,2609-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2609-4-15**] 12:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15540**]
+     Reason: s/p r subclavian line insertion                             
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;S/P RENAL TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        40 year old man s/p cabg x3; renal transplant pt.                             
+         
+     REASON FOR THIS EXAMINATION:
+      s/p r subclavian line insertion                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of renal transplant and CV line placement.
+     
+     Status post CABG. Right subclavian CV line is in right jugular vein with tip
+     not included on film. No pneumothorax. There are bibasilar atelectases.
+
+",,
+5939,6833,7402,,2609-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2609-4-15**] 3:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15541**]
+     Reason: evaluate line position R Subclavian                         
+     Admitting Diagnosis: CORONARY ARTERY DISEASE;S/P RENAL TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         40 year old man s/p cabg x3; renal transplant pt.                            
+           
+     REASON FOR THIS EXAMINATION:
+      evaluate line position R Subclavian                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of CABG and renal transplant with subclavian CV line placement.
+     
+     The right subclavian CV line is in the distal SVC. No pneumothorax. Status
+     post CABG. There is slight cardiomegaly. Linear atelectases are present at
+     both lung bases. No evidence for CHF.
+     
+
+",,
+5939,6833,7402,0,2609-04-15 04:17:00 EST,2609-04-15 04:48:00 EST,4219,"N",54,"Nursing/Other",,"
+
+[**2609-4-15**] B:
+
+Neuro: alert and oriented to person and place but not time, does at times also become confused to place ""I'm at home not the hospital"", pt is very agitated yelling out "" get me the f--k out of here I do not belong here"" and ""mom get me out of here"" nomerous times throughout the shift, pt is in 4 point restraints and bed posey, all extremities have good circulation, did attempt to loose up wrist restraints and pt began to pull off ekg leads and attempt to push himself up in bed and attempt to pull off iv and other leg restraints, did then need hands restrained back by his sides,  pt does follow commands correctly, did ask pt about drinking hx and pt reported "" I drink about 15 beers a day"", pt on prn haldol and prn ativan, bed side security sitter in place in room throughout shift, pt dinies any pain, will have [**Name8 (MD) 849**] md staff to talk with pt this am about his desire to go home.
+
+Cardiac: nsr in the 90's to st in the low 100's with agitation, no ectopy noted, sbp's on the high normal end requiring nitro gtt, bp's do increase with agitation and come back down with rest, palpible pedial pulses, skin warm dry and intact, a-febrile, +1 edema inextremities, qt interval .44.
+
+Resp: on ra satting at 95%, lungs are clear throughout, pt refusing to cough and deep breath and refusing to use i/s.
+
+Sklin: chest with dsd that is cdi, abd with dsd over old ct sites dsd is cdi, left leg ace is cdi.
+
+Gi/Gu: tolerating po's, abd soft round and nontender, good bowel sounds, on riss, failed to void ths shift and was straight cathed for 600cc.
+
+Plan: monitor qt's, continue with security sitter, continue with restraints and continue to monitor for need, continue with haldol and ativan prn, ? psych consult, continue to reorient pt if he becomes confused. 
+
+
+
+    
+",,
+5939,6833,7402,0,2609-04-15 16:14:00 EST,2609-04-15 17:03:00 EST,3202,"N",54,"Nursing/Other","POD #3 S/P CABG","
+POD #3 S/P CABG
+NSR THROUGHOUT THE SHIFT WITH RARE PVC. SBP AS HIGH AS 171 VIA NEW R RADIAL A LINE. NTG GTT TURNED OFF EARLIER (NO CHANGE IN BP). METOPROLOL DISCONTINUED. ATENOLOL, CAPTOPROL AND ISOSORBIDE STARTED. GOAL TO KEEP SBP ~ 120-140. MAY NEED PRN ANTIHYPERTENSIVE.
+
+R SUBCLAVIAN MTL INSERTED BUY CXR REPORTED TO SHOW MTL NOT IN CORRECT POSITION. R SUBCLAVIAN MTL CHANGED BY DR. [**Last Name (STitle) **]. CXR DONE. AWAITING CXR REPORT FOR LINE POSITION.
+
+REPETITIVE IRREGULAR BREATHING PATTERN NOTED THIS AM. RESPIRATIONS NOTED TO BE PERIODS OF SHALLOW TO DEEP THEN SHALLOW BREATHS FOLLOWED BY APNEA. DR. [**Last Name (STitle) **] CALLED TO BEDSIDE TO EVALUATE. PHARMACIST CONSULTED TO VIEW SEDATIVES AND HIS OTHER MEDICATIONS. RADIAL ABG ATTEMPTED IN BOTH WRISTS UNSUCCESSFUL BY RESPIRATORY THERAPIST. ANTECUBITAL ABG SENT BUT PROBABLY VENOUS. R RADIAL A LINE INSERTED BY DR. [**Last Name (STitle) **]. PA02 70 ON ROOM AIR. NC @ 2L/MIN STARTED. 
+
+PT APPEARED VERY SEDATE MOST OF SHIFT. HE COULD STATE HIS FULL NAME, ""[**Hospital1 **] HOSPITAL"", ""MAY"" AND ""2004"". HE DID OCCASIONALLY REQUIRE HIS NAME CALLED OUT SEVERAL TIMES BEFORE RESPONDING TO QUESTIONS. SECURITY SITTER WITH PATIENT THROUGHOUT THE SHIFT TILL ~ 1500/HR. PT SEDATE APPEARING. NO PROFANITY THIS SHIFT, NO COMBATIVENESS, NO DISORIENTATION. SECURITY SITTER CHANGED TO SITTER @ 1500. SOFT ANKLE RESTRAINTS REMOVED. ABD SOFT RESTRAINT REMOVED. SOFT WRIST RESTRAINTS CONTINUED AND REMOVED AND REAPPLIED DURING THE DAY. 
+ASSISTED OOB TO CHAIR WITH MINIMAL ASSIST. NO ATTEMPTS BY PT TO GET OUT OF CHAIR. PT ADMITTED THAT HE WAS ANGRY (REFERRING TO HIS PERIOD IN THE ICU WHEN MOST RESTLESS AND COMBATIVE) BECAUSE HE ""COULDN'T GO HAVE A CIGARETTE"". HIS MOM PHONED TODAY AND COMMENTED THAT HER SON HAD BEHAVIOR ISSUES FOLLOWING HIS KIDNEY TRANSPLANT ALSO. 
+
+STRAIGHT CATHED @ 0300. PT STATED THAT HE MUST STAND TO VOID. HE VOIDED 1000CC @ 1300/HR!
+
+BS CONTINUE TO BE ELEVATED. SEEN BY [**Hospital **] CLINIC TODAY. SEE NEW INSULIN ORDER FLOWSHEET FOR GLARGINE AND SLIDING SCALE.
+
+POOR PO INTAKE TODAY. PT FALLING ASLEEP WITH FOOD IN HIS MOUTH AT BREAKFAST AND STILL SLEEPY AT LUNCH (NO SOLID FOOD DELIVERED TO PT).
+PLAN TO REASSESS WAKEFULNESS AT SUPPER.
+
+PLAN TO CONTINUE TO WATCH FOR HALLUCINATIONS, DIAPHORESIS WITH ETOH WITHDRAWAL. PLAN TO MONITOR BS QID AND 0300 AS ORDERED BY [**Hospital **] CLINIC. PLAN TO KEEP SBP 120-140 WITH ANTIHYPERTENSIVES. PLAN TO CONTINUE TO WATCH CAREFULLY WITH SITTER. PLAN TO CONTINUE SAFTEY PRECAUTIONS WITH SIDERAILS UP AND SOFT RESTRAINTS. 
+
+
+",,
+5939,6833,7402,0,2609-04-16 05:04:00 EST,2609-04-16 05:05:00 EST,4020,"N",54,"Nursing/Other","Shift NOTE","
+Shift NOTE
+Neurologically pt is intact, MAE to command. Pt pleasant, slept most of night. Hemodynamically pt is hypertensive, HO aware, PO anti-HTN's increased. Lungs are CTA. U/O qs. See flowsheet for details. 
+",,

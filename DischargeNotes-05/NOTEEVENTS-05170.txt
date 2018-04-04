@@ -1,0 +1,934 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5170,,,,2594-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-2-11**] 10:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8738**]
+     Reason: Eval for PNA                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         52 year old woman with s/p seizure                                           
+     REASON FOR THIS EXAMINATION:
+      Eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: A 52 year old female status post seizure.  Rule out pneumonia.
+     
+     COMPARISON: [**2594-1-26**].
+     
+     The heart and mediastinum are unchanged in appearance, allowing differences in
+     technique and rotation of the patient.  The lung fields are clear.  There are
+     no consolidations, pneumothorax or pleural effusions.  Again noted, the bony
+     abnormality in the left scapula is unchanged when compared to previous study.
+     
+     IMPRESSION:
+     No active lung disease.  No pneumothorax.
+
+",,
+5170,,,,2594-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5170,1275,,,2594-03-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+Unit No:  445994
+Admission Date: [**2594-3-4**]        Discharge Date: [**2594-3-25**]
+
+Date of Birth:                    Sex:
+
+Service:  [**Company **]
+
+
+ADDENDUM:
+
+HOSPITAL COURSE:  Seizures - The patient did not have any
+further seizures.  She was maintained on Keppra and Dilantin
+and was therapeutic on Dilantin.  Her Dilantin level was
+checked approximately three days prior to discharge.
+
+Electrolyte imbalances - The patient was continued on
+Florinef and, while there was some fluctuation in her sodium
+and potassium, they were within a stable range not requiring
+any other treatment.
+
+Hypertension - The patient's hypertension remained stable.
+She was continued on Nifedipine and Lopressor.  The ace
+inhibitor was held due to renal insufficiency and
+hyperkalemia.
+
+Aspiration pneumonia - Approximately one week prior to
+discharge, the patient developed hypoxia and tachypnea.
+Chest x-ray showed multifocal pneumonia likely due to
+aspiration.  The patient was started on Levaquin and Flagyl
+and had gradual improvement over the week.  On discharge, she
+did not require any supplemental oxygen and was breathing
+comfortably.  There was no evidence of pulmonary embolism or
+congestive heart failure.
+
+Alcohol abuse - The patient was seen by psychiatry and social
+work with a plan to discharge her to detoxification facility.
+
+Diabetes mellitus - The patient was maintained on insulin,
+Glargine and sliding scale regular insulin with relatively
+well controlled blood glucose.  There was an increase in her
+Lantus, but the patient did not tolerate this becoming
+hypoglycemic.
+
+Chronic renal insufficiency - The patient's creatinine was
+stable between 1.3 and 1.7.
+
+DISCHARGE STATUS:  The patient was discharged to a
+detoxification facility by Section 35.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:  Seizure disorder.
+
+Alcohol abuse.
+
+Aspiration pneumonia.
+
+Diabetes mellitus.
+
+Hypertension.
+
+MEDICATIONS ON DISCHARGE:
+1. Nifedipine 90 mg sustained release p.o. once daily.
+2. Lopressor 50 mg twice a day.
+3. Florinef 100 mcg once daily.
+4. Flagyl 500 mg three times a day for one day after
+   discharge.
+5. Levaquin 500 mg once daily for one day after discharge.
+6. Keppra 1000 mg twice a day.
+7. Dilantin 300 mg twice a day.
+8. Thiamine one tablet once daily.
+9. Folic Acid 1 mg once daily.
+10.      Multivitamin one tablet once daily.
+11.      Calcium Carbonate 500 mg three times a day.
+12.      Menthol Lozenges p.r.n.
+13.      Guaifenesin Syrup as needed.
+14.      Benzonatate 100 mg three times a day as needed.
+15.      Trazodone 150 mg p.o. q.h.s.
+16.      Colace p.r.n.
+17.      Senna p.r.n.
+18.      Celexa 20 mg once daily.
+19.      Insulin Glargine 4 units subcutaneous at bedtime.
+20.      Regular insulin per sliding scale.
+
+
+
+DISCHARGE INSTRUCTIONS:  The patient is to continue her
+antibiotics of Levaquin and Flagyl for one day after
+discharge.  She will follow-up with Dr. [**First Name8 (NamePattern2) 4279**] [**Last Name (NamePattern1) **].
+
+
+
+
+                        [**First Name11 (Name Pattern1) 4279**] [**Last Name (NamePattern4) 5946**], [**MD Number 5947**]
+
+Dictated By:[**Doctor Last Name 5948**]
+MEDQUIST36
+D:  [**2594-6-24**] 17:43:21
+T:  [**2594-6-24**] 18:31:43
+Job#:  [**Job Number 5949**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (un) 30**]
+ on: WED [**2594-6-25**] 7:42 AM
+(End of Report)
+
+
+",,
+5170,1275,6419,0,2594-03-04 17:42:00 EST,2594-03-04 17:53:00 EST,1474,"N",69,"Nursing/Other","Nursing Progress/Admission Note","
+Nursing Progress/Admission Note
+
+Please see Carevue and MARs for further details.
+
+Pt admitted from ED around 1630 today. Diagnosis: DKA, Sz Disorder and Abdominal Pain.
+
+NEURO: Pt alert oriented X's 3. MAEW, equal strength, appropriate, quiet, flat affect. PEARL. No deficits noticed at this time. nPt had a seizure at home unwitnessed, pt had witnessed tonic-clonic seizure in ED, head jerking and right upward gaze, ativan given in ED. Phenytoin load PO given this shift at 1700. Pt has not had any visible sz activity in ICU.
+
+CV: HR ST 100-115. SBP 140-170. ON BP meds at home for HTN. MEtoprolol 50mg po given just recently. Temp 100.3f orally, suspected UTI, started on Levofoxacin PO. All pulses palpable, pt warm and well-perfused. 
+
+RESP: Pt on room air, SaO2 99%, no resp distress. Lung sounds clear bilaterally.
+
+GI/GU: Bowel sounds present. NPO except meds. Foley to gravity, urine output wnl. Urine yellow, very cloudy. 
+
+Access: Right femoral TLC placed in ED. 20g PIV in Left wrist. 
+
+Endocrine: Insulin gtt stopped upon arrival to ICU per ICU resident, BG was 28, one amp D50 given IV, 5 units NPH given SC. Last BS at 1700 was 144. D5W running at 150cc/hr per order. Resident in to assess pt , aware of blood glucose as well as blood pressure.
+",,
+5170,1275,6419,0,2594-03-05 05:53:00 EST,2594-03-05 06:01:00 EST,892,"N",69,"Nursing/Other",,"
+
+MICU-NPN
+
+NEURO: A&OX3, FLAT AFFECT,FOLLOWS COMMANDS APPROPRIATELY. NO SEIZURE ACTIVITY NOTED, EQUAL STRENGTHS [**Last Name (un) 8267**]. CONTINUES ON DILANTIN PO.
+
+CV: TMAX: 100.1PO, HR 70'S-80'S NSR, NO ECTOPY NOTED. SBP 120'S-170'S, CONTINUES ON LOPRESSOR AND NIFEDIPINE PO. 
+
+RESP: LS CLEAR, NO ISSUES.
+
+GI: ABDOMEN SOFT AND NON-DISTENDED, +BS, TOL. PO'S, CAN HAVE DIABETIC DIET TODAY. NO STOOL OVER NOC.
+
+GU: BRISK UOP >100CC/HR.
+
+ENDO: CONTINUES ON INSULIN GTT, BS RANGE FROM 57-210. D5NS INFUSING @ 150CC/HR, INSULIN GTT CURRENTLY @ 3U/HR. Q1/HR FINGERSTICKS. AGAP 15.
+",,
+5170,1275,6419,0,2594-03-05 18:49:00 EST,2594-03-05 19:00:00 EST,1016,"N",69,"Nursing/Other",,"
+
+NPN ADDENDUM TO TRANSFER NOTE.
+ PT BS 29 AT 16 30 GIVEN DEXTROSE 50 I AMP . IV CHANGED TO D5NS 
+REPEAT BS 90 BS 1HR LATER 70 . GIVEN OJ AND SUPPER. C/O OF FEELING LIGHT HEADED.
+VITAL SIGNS STABLE   HAS PASSED URINE SINCE  FOLEY D/C MIXED WITH LIQUID STOOL  WILL TRY AND ISOLATE STOOL AND SEND SPEC FOR CDIFF.
+A/P UNSTABLE BS REQUIRING Q 1HR   ENCOURAGE INCREASE DIET INTAKE RECHECK LABS  AND POSS INCREASE I.V FLUIDS TO D 10 
+PT CALLED BACK INTO UNIT. HUSBAND WILL CALL LATER.
+FEMEROL SITE INTACT NO HEMATOMA NOTED OOB TO CHAIR AFTER 2 HOURS. 
+",,
+5170,1275,6419,0,2594-03-05 19:40:00 EST,2594-03-05 19:42:00 EST,1016,"N",69,"Nursing/Other",,"
+
+ADDEANDUM TO ABOVE NOTE.
+FEMORAL LINE D/C'D NO HEMATOMA NO BLEEDING NOTED POSPEDAL PULSES NOTED.
+CSWA SCALE 0-1 Q2
+
+",,
+5170,1275,6419,0,2594-03-06 05:32:00 EST,2594-03-06 05:40:00 EST,693,"N",69,"Nursing/Other",,"
+
+neuro: alert and oriented. Angry and noncompliant at start of shift. Refusing all bloods to be drawn. Finger sticks ok. MD notified.
+cv/resp. nsr no ectopy. bp stable. on room air good o2 sats. 
+gi/gu no stools. voiding large amts clear yellow urine. tol. [**Doctor First Name 75**] diet. 
+integ skin intact.
+glucose's covered by ss insulin. See carevue for glucose values.
+? transfer out to floor if glucoses remain stable.
+left piv very positional and occluding easily. Pt. needs to be reminded to keep arm strait.
+
+",,
+5170,1275,6419,0,2594-03-06 06:53:00 EST,2594-03-06 06:56:00 EST,693,"N",69,"Nursing/Other",,"
+
+pt. climbed oob. took iv out and refuses to have another reinserted. pulled off leads and was clearly agitated. Wanting to call husband. Almost combative with R.N. pt. calmed down and phone provided and she called husband. fingerstick at this time 62. 8 0z orange juice given. Pt. ambulating ad lib in room taking her sheets off the bed. Needs repeat fingerstick. 
+",,
+5170,1275,,,2594-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-15**] 1:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8739**]
+     Reason: any infiltrates                                             
+     Admitting Diagnosis: SEIZURE,NAUSEA,VOMITING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with s/p seizure now with temp to 100.3 and increased oxygen 
+      requirement.                                       
+     REASON FOR THIS EXAMINATION:
+      any infiltrates                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Seizure and elevated temperature.
+     
+     Comparison to study of three hours previously.
+     
+     FINDINGS: There are bibasilar opacities medially. The heart size is normal and
+     there is no redistribution of the pulmonary blood flow. There is no
+     pneumothorax.
+     
+     IMPRESSION: Bibasilar opacities suspicious for aspiration given the clinical
+     scenario.
+     
+
+",,
+5170,1275,,,2594-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-16**] 11:31 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8740**]
+     Reason: Look for evidence of chf and/or pna compared to yesterday.  
+     Admitting Diagnosis: SEIZURE,NAUSEA,VOMITING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with s/p seizure, now febrile and increasing O2 requirements. 
+     REASON FOR THIS EXAMINATION:
+      Look for evidence of chf and/or pna compared to yesterday.                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Seizure history.  Worsening oxygen requirement to
+     development of fever.  
+     
+     Compared to [**2594-3-15**].
+     
+     The cardiac silhouette is upper limits of normal in size.  There is slight
+     upper zone vascular redistribution with perihilar haziness.  Bibasilar areas
+     of increased opacity are again demonstrated, particularly in the retrocardiac
+     regions.  There is also a new hazy area of increased opacity in the right
+     upper lobe.  Small bilateral pleural effusions are present and are new in the
+     interval.
+     
+     On the lateral view, note is made of a severe compression deformity in the
+     upper thoracic spine. This was present on an older chest x-ray of [**2594-1-26**], as well.
+     
+     When comparison is made to the older study of [**1-15**], the cardiac
+     silhouette has increased in size.
+     
+     IMPRESSION:
+     
+     1. Interval development of CHF with associated bilateral small pleural
+     effusions. There is probably a component of underlying aspiration pneumonia,
+     as basilar consolidative changes preceded the congestive heart failure
+     findings.
+     
+
+",,
+5170,1275,,,2594-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-16**] 8:33 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8741**]
+     Reason: Evaluate for possible cause(s) of dyspnea, chest pain, tachy
+     Admitting Diagnosis: SEIZURE,NAUSEA,VOMITING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with s/p seizure, now febrile and increasing O2 
+      requirements. 
+     REASON FOR THIS EXAMINATION:
+      Evaluate for possible cause(s) of dyspnea, chest pain, tachypnea.               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:  Compared to previous studies of 4/4 and [**3-15**]
+     
+     CLINICAL INDICATION:  Seizure.  Fever.
+     
+     The cardiac silhouette is mildly enlarged and there is upper zone vascular
+     redistribution.  There are multifocal areas of consolidation present in the
+     right upper lobe and both lower lobes, the latter mostly in the retrocardiac
+     regions.  There is also perihilar haziness present and a small right pleural
+     effusion.  Previously noted small left pleural effusion is no longer
+     visualized.  As compared to the recent study, there has been slight worsening
+     of consolidation in the right upper lobe.
+     
+     IMPRESSION:
+     
+     1)  Multifocal consolidation in the right upper and both lower lobe regions.
+     As noted previously, this may be due to a multifocal pneumonia from
+     aspiration.
+     2)  Mild congestive heart failure.   
+
+",,
+5170,,,,2594-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-4-30**] 11:05 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8742**]
+     Reason: MS CHANGES, SEIZURES, H/O ETOH ABUSE, R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with MS changes and h/o EtOH abuse and seizures               
+     REASON FOR THIS EXAMINATION:
+      bleed, mass effect?                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm WED [**2594-4-30**] 3:08 PM
+      No acute intracranial pathology. No hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic changes.
+     
+     TECHNIQUE:   Head CT without contrast.
+     
+     COMPARISON: [**2594-1-10**]
+     
+     FINDINGS:  There are no intracranial mass lesions, hydrocephalus, shift of
+     normally midline structures, minor or major vascular territorial infarct.  The
+     density values of the brain parenchyma are within normal limits.  The
+     grey/white matter differentiation is preserved.
+     
+     The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:   No evidence of acute intracranial pathology, including no sign
+     of intracranial hemorrhage.  The study is unchanged.
+     
+
+",,
+5170,,,,2594-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-4-30**] 7:58 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8743**]
+     Reason: infiltrate: cough and ? aspiration                          
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with s/p seizure, has cough.                                 
+     REASON FOR THIS EXAMINATION:
+      infiltrate: cough and ? aspiration                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of seizure and cough.
+     
+     FINDINGS: Heart size is normal.  The lungs are clear and there are no pleural
+     effusions.  Speifically, the multilobar consolidation noted on the prior film
+     of [**2594-3-16**] has resolved.
+     
+     IMPRESSION: No evidence of pneumonia or aspiration.
+
+",,
+5170,,,,2594-05-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-5-24**] 4:28 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8744**]
+     Reason: r/o pneumonia, chf, effusions                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52yoF p/w pleuritic chest pain and occasional productive cough w/ fever.        
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia, chf, effusions                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pleuritic chest pain and occasional productive cough with fever.
+     
+     COMPARISON:  [**2594-4-30**].
+     
+     FINDINGS:  The heart, mediastinum and pulmonary vessels are within normal
+     limits.  Incidental note is made of bilateral nipple shadows. The lung
+     parenchyma appears clear. There is no pleural effusion or pneumothorax. There
+     is evidence of old trauma in the right acromioclavicular joint.
+     
+     IMPRESSION:  No evidence of pneumonia or other acute cardiopulmonary
+     abnormality.
+
+",,
+5170,,,,2594-05-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-5-24**] 6:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8745**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CHEST PAIN,PANCREATITIS,R/O PE,N,V,DIARRHEA
+     Admitting Diagnosis: RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman h/o etoh abuse c/b pancreatitis and hepatitis, with upper 
+      abdominal pain w/N and vomiting w/diarrhea and fevers since yesterday. Also, 
+      with CP worse with inspiration. 
+     REASON FOR THIS EXAMINATION:
+      r/o pulmonary embolism                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:   53 y/o female with history of alcohol abuse complicated by
+     pancreatitis and hepatitis, now with worsening abdominal pain and pleuritic
+     chest pain.
+     
+     TECHNIQUE:   Contiguous axial images were obtained from the thoracic inlet
+     through the upper abdomen prior to and following the administration of 150 cc
+     of Optiray.  Non-ionic contrast was used due to rapid bolus infusion required
+     for the CTA protocol.   Multiplanar reformatted images were included.
+     
+     Non- contrast enhanced and delayed images of the abdomen were obtained as
+     well.
+     
+     CTA OF THE CHEST:  The opacified pulmonary arterial tree does not demonstrate
+     any filling defects indicative of pulmonary embolus to the level of the
+     subsegmental pulmonary arteries bilaterally.  The heart and great vessels are
+     normal in appearance.  There is no pathologically enlarged mediastinal, hilar,
+     or axillary lymphadenopathy.  Note is made of a small calcified right apical
+     granuloma.  The lungs are otherwise clear.  There are no pleural effusions.
+     
+     CT OF THE ABDOMEN WITHOUT/WITH CONTRAST:   The liver demonstrates diffuse low
+     attenuation, compatible with fatty infiltration.  There is a tiny calcific
+     density within the right lobe of the liver which is consistent with a small
+     granuloma.  The liver is otherwise unremarkable, without evidence of intra or
+     extrahepatic ductal dilatation.  The portal vein is patent.  The gallbladder,
+     spleen, adrenal glands, and kidneys are grossly normal.  The stomach and
+     visualized bowel loops are unremarkable.  The pancreas is markedly atrophic
+     and calcified with a prominent duct, consistent with the patient's history of
+     alcoholic pancreatitis.  No peripancreatic inflammatory changes or fluid
+     collections are identified.  
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder, distal ureters and
+     pelvic loops of bowel are unremarkable.  There is a large calcified uterine
+     fibroid measuring approximately 5 cm.  No free fluid is present within the
+     pelvis.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are identified.
+     
+                                                                 (Over)
+
+     DATE: [**2594-5-24**] 6:26 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8745**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: CHEST PAIN,PANCREATITIS,R/O PE,N,V,DIARRHEA
+     Admitting Diagnosis: RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT RECONSTRUCTIONS:  Multiplanar reformatted images were reviewed and
+     confirmed the above findings.
+     
+     IMPRESSION:
+     1)  No evidence of pulmonary embolism.
+     2)  No acute intraabdominal pathology to account for the patient's symptoms.
+     Findings compatible with patient's history of chronic pancreatitis.
+
+",,
+5170,,,,2594-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-6-13**] 4:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8746**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with fever, MS [**Last Name (Titles) 8747**].                                        
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever and mental status changes.
+     
+     COMPARISON:  [**2594-5-24**].
+     
+     FINDINGS:  AP semi-upright view.  There is a right internal jugular central
+     venous catheter terminating in the proximal right atrium.  It could be pulled
+     back by 2-3 cm.  There is no pneumothorax.  The heart, mediastinum and
+     pulmonary vessels are within normal limits.  There is no parenchymal
+     consolidation.  There is no pleural effusion.  The visualized osseous
+     structures appear unremarkable.
+     
+     IMPRESSION:
+     
+     1.  No evidence of pneumonia.
+     2.  The right internal jugular central venous catheter terminates in the
+     proximal right atrium.
+
+",,
+5170,,,,2594-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-6-13**] 4:14 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8748**]
+     Reason: r/o bleed / mass                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       53 year old woman with MS changes and h/o EtOH abuse and seizures              
+       
+     REASON FOR THIS EXAMINATION:
+      r/o bleed / mass                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb FRI [**2594-6-13**] 4:45 PM
+      no bleed or mass effect.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Change in mental status and seizures.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no evidence of intra or extraaxial hemorrhage.  There is
+     no shift of normally midline structures or mass effect.  The brain parenchyma
+     is again noted to be normal and the extraaxial spaces are normal.  The bones,
+     soft tissue structures, and paranasal sinuses are unremarkable.
+     
+     IMPRESSION:  No evidence of acute hemorrhage or mass effect.
+
+",,
+5170,,,,2594-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-6-19**] 3:19 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8749**]
+     Reason: please place midline IV for prehydration for cardiac cathete
+     Admitting Diagnosis: CHANGE IN MENTAL STATUS;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with alcohol withdrawal seizure, recent new wall motion 
+      abnormality on echocardiogram. 
+     REASON FOR THIS EXAMINATION:
+      please place midline IV for prehydration for cardiac catheterization tomorrow.  
+      IV access nurse could not place at bedside
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: Patient dehydrated, needs PICC placement for precardiac
+     catheterization, rehydration.
+     
+     TECHNIQUE: The procedure was performed by Dr. [**First Name4 (NamePattern1) 1376**] [**Last Name (NamePattern1) 1377**] and Dr. [**First Name4 (NamePattern1) 369**]
+     [**Last Name (NamePattern1) 179**] with Dr. [**Last Name (STitle) 179**], the Attending Radiologist, being present and
+     supervising. The left upper arm was prepped and drapped in a sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein. The brachial vein was patent and
+     compressible.  After local anesthesia with 2- mm of 1% Lidocaine, the left
+     brachial vein was entered under ultrasonographic guidance with a 21 gauge
+     needle.  Hard copies of ultrasound images were obtained, documentating patent
+     vein before and after establishing an access. An 0.018 guide wire was advanced
+     under fluroscopy into the superior vena cava.
+     Based on the marker on the guide wire, it was determined that a length of 43-
+     cm would be suitable.  The PICC line was trimmed to length and advanced over a
+     4 french introducer sheath under fluoroscopic guidance into the superior vena
+     cava.  The shaeth was then removed.  The cathether was flushed.  The line is
+     ready for use.
+     
+     FINDINGS: An AP view of the chest demonstrated the tip to be in the superior
+     vena cava just above the atrium.
+     
+     IMPRESSION: Successful placement of a left brachial vein 43-cm 4 french single
+     lumen PICC line with tip in the superior vena cava, ready for use.
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2594-6-19**] 3:19 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8749**]
+     Reason: please place midline IV for prehydration for cardiac cathete
+     Admitting Diagnosis: CHANGE IN MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5170,12212,,,2594-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-28**] 12:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8752**]
+     Reason: assess for bleed, cva                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        53 year old woman with MS changes and h/o EtOH abuse and seizures             
+         
+     REASON FOR THIS EXAMINATION:
+      assess for bleed, cva                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DCsc MON [**2594-7-28**] 12:24 PM
+      no bleed no mass effect
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Mental status changes.
+     
+     TECHNIQUE:  Axially acquired images through the brain without priors.
+     
+     FINDINGS:  There is prominence of the ventricles and sulci, out of proportion
+     to the patient's age, probably relating to atrophy secondary to stated history
+     of ETOH abuse.  There are no abnormal extraaxial fluid collections.  There is
+     no intraparenchymal or subarachnoid hemorrhage.  There is no shift of normally
+     midline structures.  The [**Doctor Last Name 20**]/white matter differentiation is preserved
+     throughout.  There are bilateral basal ganglia calcifications.  The imaged
+     portions of the paranasal sinuses, including the mastoid air cells and middle
+     ear cavities are normally aerated.
+     
+     IMPRESSION:  No intracranial hemorrhage or mass effect.  Mild atrophy of the
+     brain.
+     
+
+",,
+5170,12212,,,2594-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-28**] 10:37 AM
+     ABDOMEN U.S. (COMPLETE STUDY) PORT                              Clip # [**Clip Number (Radiology) 8751**]
+     Reason: SEPTIC, ABDOMINAL PAIN, ASSESS FOR CHOLECTYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with ruq pain                                                 
+     REASON FOR THIS EXAMINATION:
+      assess for cholecystitis please                                                 
+     ______________________________________________________________________________
+     WET READ: LAab MON [**2594-7-28**] 12:09 PM
+      no stones or signs of acute cholecystitis
+      normal bile ducts
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain.
+     
+     FINDINGS:  The liver is normal in echo texture.  No focal lesions are seen.
+     Portal vein is patent with hepatopetal flow.  Gallbladder is normal with no
+     evidence of stones or wall thickening.  No intra or extrahepatic biliary
+     dilatation is seen, CBD measures 4 mm.  Both kidneys show increased
+     echogenicity of the cortex consistent with diffuse chronic parenchymal
+     disease.  No stones or hydronephrosis.  Both kidneys measures 10.5 cm.  Spleen
+     and pancreas are unremarkable.  No ascites is seen.
+     
+     IMPRESSION:  Normal appearing gallbladder with no evidence of cholecystitis.
+     Increased echogenicity of kidneys consistent with diffuse chronic parenchymal
+     disease.
+
+",,
+5170,12212,,,2594-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-28**] 9:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8750**]
+     Reason: S/P LINE PLACEMENT/ ALSO ASSESS FOR PNA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       53 year old woman with fever, MS [**Last Name (Titles) 8747**].                                       
+       
+     REASON FOR THIS EXAMINATION:
+      assess for pna                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, mental status changes.
+     
+     PORTABLE UPRIGHT AP CHEST:  Comparison is made to [**2594-6-13**]. The right
+     internal jugular central venous line appears to have been retracted several
+     centimeters, and is now in the distal SVC. Cardiac size is not changed. No
+     pleural effusions or parenchymal consolidations are seen. Osseous structures
+     are unchanged.
+     
+     IMPRESSION:   No pneumonia.
+
+",,
+5170,12212,,,2594-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-28**] 8:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8753**]
+     Reason: NGT placement                                               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        53 year old woman with fever, MS changes.                                     
+          
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever and mental status changes.  NG tube placement.
+     
+     CHEST AP:  The tip of the NG tube is in the body of the stomach.  The tip of
+     the right IJ line is in the distal SVC.  The heart size, mediastinal and hilar
+     contours are unremarkable.  There are two rounded opacities visualized in both
+     bases.  These likely represent nipple shadows.  No lung masses are identified
+     on the CT chest obtained on [**2594-5-24**].  There is some minimal left basilar
+     atelectasis.  No pneumothorax is visualized.
+     
+     IMPRESSION:  Appropriate position of the NG tube.
+     
+
+",,
+5170,12212,6420,0,2594-07-28 17:58:00 EST,2594-07-28 18:09:00 EST,1640,"N",69,"Nursing/Other","MICU NPN Admit to MICU","
+MICU NPN Admit to MICU
+53y.o. female admitted today from the EW with changes in MS, ?seizures. Put into the sepsis protocol when her lactate came back 5.0 and pt noted to have tachycardia to 130's and temp 101. Pt was also noted to have elevated glucose without ketones. 
+
+PMH: Seizure disorder, ETOH hepatitis, ETOH pancreatitis, pepression, hyponatremia, ETOH withdrawal seizures, type 4 renal tubular necrosis, HTN, osteoporosis.
+
+Allergies: Glyburide
+
+Pt admitted to EW today with changes in MS. Pt found today by her neighbor to have swollen lip and depressed mental status and neighbor thought she may have had a seizure. Arrival to EW temp was 101, BP 213/144 with HR 130's. Pt is thought to be non-compliant with her meds. Her dilantin level was 0. She was given loading dose of dilantin 1gm IV. Pt was enterred into the sepsis protocol when her lactate level came bback 5.0. A central line was placed and she was given a total of 7 liters NS in EW for CVP in the 0-2 range. She had elevated glucose in the 300's with negative acetone and her ABG was acidotic. Up here in MICU she was started on insulin drip to keep blood glucose 100-120. Source of sepsis still unclear. She has head CT to rule out abnormalities. Also abdominal US was done. She is to have abdominal CT done this evening after she gets barocat (pt is having nausea and vomiting so team needs to get NGT placed first) and mucomist PO. 
+
+
+",,
+5170,12212,6420,0,2594-07-28 19:36:00 EST,2594-07-28 19:54:00 EST,1640,"N",69,"Nursing/Other","MICU NPN Review of Systems:","
+MICU NPN Review of Systems:
+Neuro: Pt awake and alert, oriented times three but c/o diffuse body aches and pains. Pt saying she has tremendous HA, blurry vision, feels shaky and requesting her ativan for withdrawal symptoms. CIWA scale was 16 at about 7PM so pt given 2mg IV ativan with good effe4ct. She also had c/o nausea and vomited when I attempted to give her barocat fot the CT of the abdomen ordered for this eve. The ativan helped this also. She is strong, MAE PEARL.
+
+CV: BP 160-170/70-90. HR 90's-120's depending on level of agitation/anxiety. CVP was [**3-18**] upon arrival to floor and pt had received 7 liters NS in EW. IVF switched to D5w with 150meq bicarb at 150cc/hr due to pt being acidotic with relatively low serum bicarb. SVO2 monitor hooked up to pt and reading in the 72-76 range. She is being ruled out by enzymes and next draw is at 10PM along with the chem 7 and CBC needed for the sepsis protocol labs. Magnesium repleted as ordered.
+
+Resp: Pt is on 2L N/C with good sats. Lungs are clear. RR 20, non-labored.
+
+Endo: Pt is on insulin drip and requires Q1hr fingersticks to keep sugars at goal 90-110. Currently drip is at 2u/hr with glucose 112.
+
+GI/Heme: Pt has had NGT inserted for barocat and is scheduled for abdominal CT tonight. Pt is to get mucomist doses times four for renal protection. She had c/o nausea and vomited once for me after getting PO meds and one cup of barocat. MD has changed most of her meds to IV but the rest can be given PO once CT is done. She had large amt diarrhea stool in EW and has +Bowel sounds. Will be NPO for now until source of infection determined.
+
+GU: UO is excellent via foley and urine is clear straw colored.
+
+Social: I was not able to get to the phone to update her husband when he called and when I tried to call him he was not there. I will try again later to give him an update on his wifes condition.
+
+ID: Still febrile to 101 rectal upon arrival to MICU. Pt is on IV vanco/ceftaz/flagyl/levo.
+
+Plan: Pt has been scheduled for cardiac echo tomorrow to look for possible vegitation on her valve.. Continue antibiotics/fluids/meds as ordered. Follow CIWA scale Q2-4hrs and treat with ativan 1-4mg as needed for CIWA > 10. 
+",,
+5170,12212,6420,,2594-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-7-29**] 12:11 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8754**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: please evaluate for intra-abdominal infection / fluid collec
+     Admitting Diagnosis: SEPSIS
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 yo F with signs of infection + abdoinal pain / N+V                           
+     REASON FOR THIS EXAMINATION:
+      please evaluate for intra-abdominal infection / fluid collections               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS WITH CONTRAST
+     
+     INDICATION: Abdominal pain, nausea, and vomiting.  Signs of infection.
+     
+     Comparison is made to the previous examination of [**2594-5-24**].
+     
+     TECHNIQUE: Contrast enhanced images of the abdomen and pelvis following the
+     administration of 150 cc of IV Optiray were performed.
+     
+     IV CONTRAST:  Nonionic IV Optiray contrast was used for the patient's
+     debility.
+     
+     CT ABDOMEN WITH CONTRAST:  There are very small bilateral pleural effusions
+     seen at the lung bases, with associated minor atelectasis.  There is diffuse
+     fatty infiltration of the liver, but no liver masses or biliary ductal
+     dilatation.  Compared to previous exam, the gallblader is noted to be
+     distended and there is wall edema and/or pericholecystic fluid. No gallstones
+     are seen.  The pancreas is atrophied with multiple calcifications and an
+     irregular enlarged pancreatic duct, consistent with the patient's known
+     history of chronic pancreatitis.  The spleen, kidneys, adrenal glands,
+     stomach, and bowel loops are normal.  The appendix is identified and normal.
+     There mild ascites and diffuse edema of the mesentery.  Contrast reaches the
+     rectum and there is no evidence of obstruction.  No free air.  No focal fluid
+     collections are seen.
+     
+     CT PELVIS WITH CONTRAST:  Again noted is a large calcified fibroid in the
+     uterus, which is otherwise unremarkable and unchanged.  Pelvic bowel loops are
+     normal.  The bladder and distal  ureters are unremarkable.  A Foley balloon
+     catheter tip is in the bladder.
+     
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1) Distended gallbladder with wall edema and/or adjacent pericholecystic
+     fluid.
+     
+     2) Mild ascites and edema of the mesentery.  No focal fluid collections.
+     
+     3) Very small bilateral pleural effusions.
+                                                                 (Over)
+
+     DATE: [**2594-7-29**] 12:11 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8754**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: please evaluate for intra-abdominal infection / fluid collec
+     Admitting Diagnosis: SEPSIS
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5170,12212,6420,0,2594-07-29 04:35:00 EST,2594-07-29 04:55:00 EST,2749,"N",69,"Nursing/Other","NPN 19:00-07:00 MICU","
+NPN 19:00-07:00 MICU
+*Please refer to Carevue for additional patient information
+*Full Code
+*On Sepsis protocol, Lactic Acid now 1.2 (down from 5.0 on admit)
+*Allergic to Glyburide
+
+?C/O to floor today
+
+CT of abdomen done o/n, per Dr. [**Last Name (STitle) 1287**] showing ""enlarged gallbladder""; no apparent abscess seen.
+
+ROS: 
+Neuro: A/O x3, sleeping on and off throughout night. No siezure activity noted, speech clear, gag and cough intact. CIWA scale done q 2-4 hr, minimal c/o of slight HA however no Ativan given. MAE's w/out difficulty, assisting w/ turns. Continues on Dilantin and Keppra. 
+
+CV: HR 75-82 NSR, no ectopy, BP 130/58-160/77 (on lopressor and hydralazine). CVP ~[**2-13**], Dr. [**Last Name (STitle) 1287**] aware. SVO2 62-75. K+ and Mag repleted, pndg am labs. Afebrile. Pulses weak palpable.
+
+Resp: 2L NC, O2 sat's 100%. RR~20, LS clear upper, coarse lower, non-productive cough. No c/o sob.
+
+GI/GU: NGT in place per auscultation (placed last evening d/t pt vomiting when taking barocet.) +BS, BM x2 loose/liquid yellow (baricet and mucomist given o/n.) U/o good, clear yellow. 
+
+Endo: Insulin gtt, on and off o/n, pt very rigid, please see carevue. currently on 1.0u/hr.
+
+Access: TLC RIJ, L neck 18g, both wnl. 
+
+skin: Intact
+
+Social: Pt has husband, however no contact from him o/n.
+",,
+5170,,,,2594-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-8-9**] 1:33 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8755**]
+     Reason: SEIZURE HX,R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         53 year old woman with MS changes and h/o EtOH abuse and seizures            
+           
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2594-8-9**] 2:35 PM
+      No mass effect or hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status changes, and history of alcohol abuse and seizures.
+     
+     TECHNIQUE:  Head CT without contrast.
+     
+     FINDINGS:  There is no intracranial mass effect, hydrocephalus, shift of the
+     normally midline structures, or major vascular territorial infarction.  The
+     [**Doctor Last Name 20**]/white differentiation is preserved.  The density values of the brain
+     parenchyma are within normal limits.  The surrounding soft tissue and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No mass effect or hemorrhage.
+
+",,
+5170,,,,2594-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-8-9**] 6:47 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 8756**]
+     Reason: ELEV. ALK PHOS., EVAL FOR DILATED DUCTS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       53 year old woman with ruq pain, elevated alk phos.                            
+                          
+     REASON FOR THIS EXAMINATION:
+      eval for ductal dilation                                                        
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2594-8-9**] 9:25 PM
+      No ductal dilatation.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Upper quadrant pain with elevated alkaline phosphatase.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND: Comparison is made to a study from [**2594-7-28**]. The liver is of normal echotexture without evidence of focal lesions.
+     The gallbladder is normal without evidence of stones. The common duct is not
+     dilated. There is no evidence of intra or extrahepatic biliary ductal
+     dilatation.
+     
+     IMPRESSION: No evidence of ductal dilatation or acute cholecystitis.
+     
+
+",,
+5170,,,,2594-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-8-10**] 4:43 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8757**]
+     Reason: cardiomyopathy, PE, infiltrate, effusion?                   
+     Admitting Diagnosis: S/P  SEIZURES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old woman with seizure, now with chest pain.                            
+     REASON FOR THIS EXAMINATION:
+      cardiomyopathy, PE, infiltrate, effusion?                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of seizure and chest pain.  Evaluate for cardiomyopathy,
+     PE, infiltrate, or effusion.
+     
+     PA AND LATERAL CHEST X-RAY:  Comparison made to study from [**2594-7-28**].  There has
+     been interval removal of a right-sided central venous catheter.  No opacities,
+     pleural effusions, or pneumothoraces are seen.  Some polychamber increase in
+     cardiac size is noted on today's exam.  Some left basilar atelectasis is
+     identified with slight elevation of the left diaphragm.  Minimal upper zone
+     redistribution of the pulmonary vasculature is possible.  The mediastinal
+     contours are unchanged.  A compression fracture deformity is again seen of the
+     T4 vertebral body.
+     
+     IMPRESSION:  No evidence of pneumonia or effusions.  Pulmonary embolism cannot
+     be excluded on this study.
+
+",,

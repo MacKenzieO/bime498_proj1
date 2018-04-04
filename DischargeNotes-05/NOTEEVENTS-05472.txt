@@ -1,0 +1,2404 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5472,11987,,,3394-04-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3394-4-8**]              Discharge Date:   [**3394-4-18**]
+ 
+Date of Birth:  [**3316-5-4**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / Amoxicillin
+ 
+Attending:[**First Name3 (LF) 1089**] 
+Chief Complaint:
+Bright red blood per rectum
+ 
+Major Surgical or Invasive Procedure:
+Tunnel Catheter Placement
+Intubation 
+Colonoscopy
+Endoscopy 
+Pill Endoscopy
+Hemodialysis
+
+ 
+History of Present Illness:
+77 year old male with hx of CAD, CRI, HTN and afib, presents to 
+teh [**Hospital1 83**] on [**3394-4-8**] for evaluation of GIB. Patient presented to 
+[**Hospital3 865**] on [**3394-3-30**] with BRBPR and a HCT of 25.5. A 
+colonoscopy perfromed there revealed blood and old clots 
+throughout with no obvious source identified. The rectosigmoid 
+was noted to look inflamed with ? of mild ischemia. Patient had 
+an EGD that revealed esophagitis and gastritis. 4 U PRBC and 
+transferred to the [**Hospital1 83**] for management. Patient was abmitted to 
+the SICU. Here his abmission HCT was 38.3. Here bleeding scan 
+negative for source of active bleeding, but study limited due to 
+contrast in the abdomen. Patient also noted at that time to be 
+hypotensive, and started on dopamine-changed to lepaphed and 
+neosenephrine. Patient also received Vit K, 4U FFP. Patient's 
+HCTs in the SICU as follows: 38.3 ([**4-8**]), 26.0 (txd 2 U PRBC), 
+31.6, 27.9 , 34.6. Patient has been off pressors since [**4-9**]/ at 
+0400, and has remained hemodynamically stable. Cards, GI and 
+Renal consulted in SICU and following. Patient with Maroon stool 
+in SICU, but no BRBPR or active bleeding. Patient was 
+transferred out to the floor on [**3394-4-11**] and went into respiratory 
+failure secondary to flash pulmonary edema from diastolic 
+dysfunction. Patient was intubated and transferred to the MICU. 
+Patient was exubated the following day after diuresis and 
+hemodialysis. Patient was transfused 2 more units of blood and 
+had a colonoscopy on [**3394-4-14**] before being transferred to the 
+floor. 
+ 
+Past Medical History:
+1. CRI-with hx of chronic obstructive nephropathy, AV fistula 
+placed [**Date range (1) 6532**] at [**Hospital3 865**], chronic foley  
+2. HTN  
+3. Mod AS  
+4. Afib-on coumadin  
+5. Type II DM  
+6. CHF [**1-8**] depressed EF  
+7. CAD- EF 35% with inclear history-here ECHO witn EF 55-60%  
+8. Prostate CA  
+9. Bipolar D/o and schizoacffective d/o  
+10. chronic bladder neack obstruction secondary to BPH  
+11. Colon CA s/p colonic resection  
+12. H/o NSVT  
+
+ 
+Social History:
+No etoh or tobacco use 
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+PE: VS 97.0 HR 75 BP 170/69 O2Sat 95% 3L NC  
+GEN: Lying in bed, sligthly confused, with NGT in place  
+HEENT: Pupils small reactive, sclera anicteric EOMI, MM dry, 
+poor dentation  
+CV: RRR cresendo-decresendo murmur heart greatest at apex  
+Pulm: Clear to auscultation ant/lat  
+Abd: soft NT normal apparant bowel sounds  
+Ext: Hyper-pigmentation of LE b/l. Fistula on left arm, no 
+thrill felt. Swelling of right arm.  
+Neuro: Awake and alert  
+
+ 
+Pertinent Results:
+[**3394-4-8**] 10:46PM   FIBRINOGE-330
+[**3394-4-8**] 10:46PM   PT-14.6* PTT-32.6 INR(PT)-1.4
+[**3394-4-8**] 10:46PM   PLT SMR-LOW PLT COUNT-128*
+[**3394-4-8**] 10:46PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL BURR-1+
+[**3394-4-8**] 10:46PM   NEUTS-90* BANDS-1 LYMPHS-2* MONOS-6 EOS-0 
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0 NUC RBCS-1*
+[**3394-4-8**] 10:46PM   WBC-18.3* RBC-4.37* HGB-13.3* HCT-38.3* 
+MCV-88 MCH-30.4 MCHC-34.8 RDW-15.4
+[**3394-4-8**] 10:46PM   ALBUMIN-2.9* CALCIUM-6.8* PHOSPHATE-4.8* 
+MAGNESIUM-1.7
+[**3394-4-8**] 10:46PM   LIPASE-174*
+[**3394-4-8**] 10:46PM   ALT(SGPT)-13 AST(SGOT)-15 LD(LDH)-232 ALK 
+PHOS-50 AMYLASE-109* TOT BILI-0.7
+[**3394-4-8**] 10:46PM   GLUCOSE-175* UREA N-101* CREAT-3.0* 
+SODIUM-141 POTASSIUM-3.7 CHLORIDE-115* TOTAL CO2-12* ANION 
+GAP-18
+
+Colonoscopy: Polyps found in the transverse and distal colon; 
+polypectomy not done given recent GI bleed.
+
+Endoscopy: Linear erythema of mucosa was noted in the stomach 
+body.  Findings consistent with gastritis
+
+Right upper extremity ultrasound: FINDINGS: [**Doctor Last Name 264**]-scale and 
+Doppler sonograms of the right internal jugular, subclavian, 
+axillary, brachial, and left subclavian veins were performed. A 
+small amount of non-occlusive fibrinous material is demonstrated 
+within the right internal jugular vein. No thrombus is 
+identified in the right subclavian or axillary veins. There are 
+small hypoechoic subcutaneous collections demonstrated in the 
+right upper arm consistent with hematomas. Note is made of a 
+right cephalic to brachial AV fistula, which limits evaluation 
+of the distal waveforms. Limited evaluation of the right 
+brachial vein demonstrates no evidence for occlusive thrombus
+
+Echocardiogram [**3394-4-9**]: Conclusions: The left atrium is 
+moderately dilated. The right atrium is markedly dilated.  There 
+is moderate symmetric left ventricular hypertrophy. The left 
+ventricular cavity size is normal. Overall left ventricular 
+systolic function is mildly depressed. Right ventricular chamber 
+size and free wall motion are normal. The aortic root is mildly 
+dilated. The aortic valve leaflets are severely 
+thickened/deformed. There is moderate aortic valve stenosis. 
+Mild (1+) aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened.  Moderate (2+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is moderate pulmonary artery systolic 
+hypertension.  There is no pericardial effusion.  LVEF 50-60%  
+
+ 
+
+ 
+Brief Hospital Course:
+## GI bleed:  Workup at outside hospital negative.  Patient had 
+colonscopy and endoscopy done while in hospital.  The 
+colonoscopy showed polyps in the transverse and distal colon and 
+the EGD was showed gastritis.  Patient was put on Protonix bid.  
+The polyps that were found were not removed given the fact that 
+the patient had recent GI bleed.  Patient will need a repeat 
+colonoscopy in about 1 month to have polyps removed.  Patient 
+also underwent pill endoscopy to find a possible source of 
+bleeding in the small bowel, results will be forwarded to 
+patient's primary care doctor for further follow up if needed.
+.  
+## Resp Failure - When patient was initially transferred to 
+floor from surgery ICU he became hypoxic and needed to be 
+intubated.  The most likely cause was flash pulmonary edema 
+since patient was getting IVF.  In the MICU patient was started 
+on hemodialysis and his respiratory status greatly improved.  He 
+was extubated after 24 hours.  Serial chest xrays showed that 
+the patient has bilateral pleural effusions which improved after 
+dialysis.  Once patient was continued on HD his O2 requirements 
+greatly decreased.   
+.  
+# Renal Failure: Most likely secondary to HTN and DM. Patient 
+had tunnel cath placed and initiated on hemodialysis which he 
+will now need permanantly.  Continued nephro caps.  Patient has 
+been setup with outpatient HD and will continue to see his 
+primary nephrologist outpatient.    
+.  
+## HTN: Patient's BP well controlled with Toprol XL and 
+dialysis. Added lisinopril 2.5mg to patient's regimine.  
+.  
+## Afib: Patient remained rate controlled throughout hospital 
+course. Anti-coagulation for Afib was held since patient with 
+active GI bleed in hospital.  Continued patient on BBlocker.
+  
+## CHF - Patient intially started on Coreg which was later 
+changed to Toprol XL 50mg. Patient with LVEF of 55%-60%. He most 
+likely has diastolic dysfunction.  Patient should avoid access 
+salt/volume administration. Continue dialysis to help remove 
+access fluid. Kept patient fluid restricted to 1500ml/day  
+.  
+## Leukocytosis/UTI - While in the ICU patient with elevated WBC 
+and hypothermic.  Cultures were sent which came back positive 
+for Proteus species in urine, sputum, and femoral line tip.  
+Patient was started on Ceftaz while in hospital, should complete 
+14 day course at rehab.
+.  
+## RUE fistula - Patient right upper extremity continued to be 
+swollen.  A RUE U/S was done which was negative for clot. A 
+venogram was performed since patient had fistula and central 
+cath on right side to assess if patient has any stenosis.  
+Venogram did show stenosis and PTA was performed by IR which 
+improved swelling.  HOwever IR did state that graft may have to 
+be revised.  Patient should follow up with his outpatient 
+nephrologist and surgeon about possible revision of graft.
+.  
+## DM-2: ISS and QID FS. Blood sugars have been on the low to 
+normal while in hospital.  Patient blood sugars should be 
+monitored carefully and if blood sugars remain low may not 
+require insulin.  
+.  
+## Psych - Patient kept on outpatient regimine of risperidol 
+0.25mg bid, and prn ativan.  
+
+ 
+Medications on Admission:
+risperidol, protonix, nephrocaps, colace, bumex, avodart, 
+procrit, carvediol, phoslo, renagel, ativan, insulin 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 1092**] Pines Extended Care - Facility (Spec)
+ 
+Discharge Diagnosis:
+Colonic Polyps
+Gastritis
+Renal Failure
+Atrial Fibrillation
+Congestive Heart Failure
+
+ 
+Discharge Condition:
+Stable 
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] will need to continue to get hemodialysis as directed by 
+your doctor.
+
+Polyps were found in your colon.  [**Doctor First Name 10**] will need a repeat 
+colonoscopy outpatient to have polypectomy.  Please contact your 
+primary care doctor to have this setup and done outpatient after 
+patient complete rehab.  [**Doctor First Name 10**] should also ask your primary care 
+doctor to set [**Doctor First Name **] up with neurology follow up for the hand 
+clamping.
+
+ 
+Followup Instructions:
+Please contact [**Doctor First Name **] primary nephrologist after rehab to follow 
+your dialysis treatment and care and also to setup appointment 
+with outpatient surgery to evaluate right arm graft: Dr. [**Last Name (STitle) 6533**] 
+[**Telephone/Fax (1) 6534**]; [**Telephone/Fax (1) 6535**] - [**Doctor First Name 10**] will continue to have 
+outpatient dialysis at [**Location (un) 6397**] Wellsley
+
+Please follow up with your primary care doctor after rehab to 
+setup repeat colonoscopy and to further evaluate your CHF.  Also 
+please have your primary care doctor evaluate your hands and 
+setup [**Doctor First Name **] up with a possible neurology follow up. Dr. [**Last Name (STitle) 6536**] 
+[**Telephone/Fax (1) 6537**] 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1096**] MD [**MD Number 1097**]
+ 
+Completed by: [**Doctor First Name 6538**] [**Name6 (MD) 6539**] [**Name8 (MD) 6540**] MD [**Doctor First Name 6541**] [**3394-4-18**] @ 1055
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SUN [**3394-4-27**] 9:53 PM
+(End of Report)
+
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 150 CC                                                         *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with multiple medical problems w/ significant lower GI bleed    
+     REASON FOR THIS EXAMINATION:
+      Please eval for GI bleed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MESENTERIC ANGIOGRAM.
+     
+     INDICATION:  Low GI bleeding.
+     
+     Details of the procedure and possible complications were explained to the
+     patient's wife over the phone and informed consent was obtained.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 863**] and Dr. [**Last Name (STitle) 156**].  Dr. [**Last Name (STitle) 156**], staff radiologist, was
+     present for the entire procedure.
+     
+     TECHNIQUE:  Pre-procedure fluoroscopy of the pelvis and abdomen demonstrated
+     large amount of contrast material within the colon, which makes mesenteric
+     angiography study markedly limited for subtle extravasation.
+     
+     Using sterile technique and local anesthesia, the right common femoral artery
+     was punctured and a 5-French sheath was introduced over a guidewire using
+     Seldinger technique.  A 5-French Glide C2 catheter was introduced over the
+     wire through the sheath and its tip engaged into the origin of the superior
+     mesenteric artery.  Several injections were performed with filming in
+     different projections.  The catheter was then exchanged for a 5-French Sos
+     Omni catheter and its tip engaged into the origin of the inferior mesenteric
+     artery.  Several injections were done for arteriography of the inferior
+     mesenteric artery in different projections.  The catheter and the sheath were
+     then removed from the femoral artery and hemostasis was achieved.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     CONTRAST MATERIAL:  150 cc of Visipaque was used.
+     
+     FINDINGS:  The study is markedly limited due to presence of large amount of
+     contrast material in the colon.  No obvious areas of extravasation are seen
+     within the superior and inferior mesenteric arterial territories.  Note is of
+     made of replaced hepatic artery from the superior mesenteric artery.
+                                                                 (Over)
+
+     DATE: [**3394-4-9**] 12:23 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 11423**]
+     Reason: Please eval for GI bleed                                    
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: NON IONIC Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:  Markedly limited study.  No obvious active bleeding in the SMA
+     and [**Female First Name (un) **] territories.
+                                                                           
+
+",,
+5472,11987,6802,0,3394-04-09 05:47:00 EST,3394-04-09 07:11:00 EST,3570,"N",54,"Nursing/Other","TSICU NPN 11p-7a","
+TSICU NPN 11p-7a
+    Pt is a 77y/o male admitted from [**Hospital **] Hosp w/ lower GIB.  Had been admitted to MWMC on [**4-1**] from the nsg home where he lives for lower GIB, transfused w/ 5units PC's and stablized, no clear site of bleeding visualized on colonoscopy, pt stabilized after a few days and was getting ready to transfer back to nsg home when he had another episode of bleeding from rectum w/ associated hypotention.  He was started on Dopa and Neo and ultimately transfused w/ 7units of PC's and one unit of FFP.  He was later transfered to [**Hospital1 2**] for possible embolization.  Please see FHAP for additional PMHx and meds.  Allergic to amoxacillin and percocet, apples and citrus. 
+
+  ROS
+
+Neuro- pt alert, calm and cooperative.  Oriented times [**1-9**], oriented to person, hospital (although thought he was still at MWMC ), yet thought the year was 1958 at one point. Reoriented frequently.  Pt appropriately asking questions about his condition, PERL at 3mm, MAE's.  No sedation required overnight, pt dozing intermittantly.
+
+CV- pt in Afib w/ HR 50-60's, frequent PVC's.  Pt initially on Neo to maintain SBP > 120, switched to levo after return from angio yet weaned to off w/o difficulty.  BP between 120-140/47-60.  Pt  w/ angio site in right groin w/ small soft hematoma, leg immobilizer kept on right leg after procedure, pulses in LE's intact.  Hct last night 29.6 (from 38 on arrival just after transfusion), INR up to 1.5 this AM, plan for pt to get one unit of FFP when thawed.
+
+Resp- pt denies diff w/ breathing, satting well on 3l NC.  RR nonlabored at 14-20, breath sounds clear in upper lobes diminished at bases, weak cough.
+
+GI- abd soft, nondistended, rectal bag in place w/ small amt thick marroon stool, angio not able to visualized specific bleeder so no intervention done.  Pt on protonix, NGT repositioned secondary to pt burping when checking placement.
+
+GU- pt voiding cloudy urine w/ much sediment via foley cath.  Sufficient quantities.  AV fistula in right arm w/ thrill and bruit present,  Creat 3.0 this AM.  One amp sodium bicarb given for met acidosis per team.
+          
+ID- pt con't hypothermic, bair hugger and warm blankets applied.
+
+Endo- no coverage required.
+
+Skin- pt w/ ecchymosis on bilateral upper arms, pink around coccyx yet not broken through.
+
+A/P- stable over night , tolerated procedure well.  Met acidosis r/t renal failure.  Plan per team, con't to monitor hcts q 4hrs.
+",,
+5472,11987,6802,0,3394-04-09 15:57:00 EST,3394-04-09 16:13:00 EST,4450,"N",54,"Nursing/Other","nursing prog note","
+nursing prog note
+
+neuro: pt alert, oriented x1. follows commands, note short term memory deficit. tremors noted to bue with movement, limbs very stiff with turning/repositioning.
+
+resp: ls dimin to bases, clear to upper fields. note after blood products, ls slightly more coarse. o2 sats remain 100% w/ 3l nc o2. denies sob/distress. 
+
+cv: remains off pressors, bp stable.  remains in afib, freq. pvc's noted. lytes repleted per orders. doppler signals present to pedals bilat. hct cont. to drop slowly, transfused 2u prbc without incident. inr remains elevated, given 2u ffp this far, additional units ordered. will follow. surface echo done this am, cards consult ongoing.  AV graft to right upper arm very edematous, tender, indurated. +thrill, bruit.
+
+gi: belly soft, nt/nd. bs hypoactive. denies nausea, remains npo. ng with bilious output. rectal bag remains, sm amt soft maroon stools continue. metabolic acidosis continues, icu team aware. 
+
+gu: foley patent for yellow cloudy sedimented urine, good volumes.
+
+id: hypothermic this am, pt initially refusing blankets. temp this aft improved, stable. wbc stable.
+
+endo: bg's stable.
+
+skin: area above rectal bag slightly reddened, no breakdown noted. no other issues.
+
+social: pt's wife, son in to visit this afternoon, updated, all ques answered. 
+
+a: 77 yo male w/ signif. cardiac hx w/ persistent lower GI bleed. continues to drop hct slowly. stooling decreased today. hemodynamics stable, remains without pressor support. 
+
+p: cont serial hcts, coags. replete lytes per renal suggestions. blood products as needed to normalize inr, maintain hct. full icu monitoring.
+
+
+",,
+5472,11987,6802,,3394-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 1375**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CRF                                                        
+     REASON FOR THIS EXAMINATION:
+      please place tunneled cath for HD                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 77-year-old man with chronic renal failure, multiple medical
+     problems, needs tunneled line for hemodialysis.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 862**] [**Name (STitle) 863**] and Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 293**] [**Doctor Last Name 294**] d'Othee, with Dr. [**Last Name (STitle) 294**] [**Name (STitle) 295**] (attending radiologist) present
+     and supervising the procedure.
+     
+     PROCEDURE AND FINDINGS: Consent was obtained from the patient's wife and the
+     patient was placed supine on the angiographic table. The right neck and upper
+     chest were prepped and draped in standard sterile fashion. The right internal
+     jugular vein was accessed using a 21-gauge micropuncture needle after local
+     administration of 1% lidocaine. A 0.018 guidewire was advanced through the
+     needle into the superior vena cava under fluoroscopic guidance. The needle was
+     exchanged for a 4.5-French micropuncture sheath with inner dilator.
+     
+     Attention was then turned to creation of the tunnel. 1% lidocaine was
+     administered in the designated tunnel tract. A skin incision was made with a
+     #11 blade scalpel. The hemodialysis catheter (24 cm, measuring 19 cm tip to
+     cuff) was connected to a tunneling device, and advanced through the tunnel,
+     and out adjacent to the venous insertion site. The tunneling device was
+     removed.
+     
+     The tract was sequentially dilated with 8, 10, 12 and 14-French dilators. A
+     14-French peel-away sheath with inner dilator was advanced under fluoroscopic
+     guidance. The inner dilator, and guidewire were removed. The catheter was
+     advanced through the peel-away sheath through the superior vena cava. The
+     peel-away sheath was removed. Final fluoroscopic spot film demonstrates the
+     tip of the catheter to be in the high right atrium. The catheter was flushed,
+     capped, and hep-locked, and secured to the skin using 0- silk sutures. The
+     venous insertion site was closed with Dermabond. The catheter was covered with
+     dry sterile dressing and Op-Site.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of right internal jugular 14-French, 19 cm
+     tip to cuff, tunneled hemodialysis catheter with tip in the high right atrium,
+     ready for use.
+                                                                 (Over)
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5472,11987,6802,,3394-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 1375**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CRF                                                        
+     REASON FOR THIS EXAMINATION:
+      please place tunneled cath for HD                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 77-year-old man with chronic renal failure, multiple medical
+     problems, needs tunneled line for hemodialysis.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 862**] [**Name (STitle) 863**] and Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 293**] [**Doctor Last Name 294**] d'Othee, with Dr. [**Last Name (STitle) 294**] [**Name (STitle) 295**] (attending radiologist) present
+     and supervising the procedure.
+     
+     PROCEDURE AND FINDINGS: Consent was obtained from the patient's wife and the
+     patient was placed supine on the angiographic table. The right neck and upper
+     chest were prepped and draped in standard sterile fashion. The right internal
+     jugular vein was accessed using a 21-gauge micropuncture needle after local
+     administration of 1% lidocaine. A 0.018 guidewire was advanced through the
+     needle into the superior vena cava under fluoroscopic guidance. The needle was
+     exchanged for a 4.5-French micropuncture sheath with inner dilator.
+     
+     Attention was then turned to creation of the tunnel. 1% lidocaine was
+     administered in the designated tunnel tract. A skin incision was made with a
+     #11 blade scalpel. The hemodialysis catheter (24 cm, measuring 19 cm tip to
+     cuff) was connected to a tunneling device, and advanced through the tunnel,
+     and out adjacent to the venous insertion site. The tunneling device was
+     removed.
+     
+     The tract was sequentially dilated with 8, 10, 12 and 14-French dilators. A
+     14-French peel-away sheath with inner dilator was advanced under fluoroscopic
+     guidance. The inner dilator, and guidewire were removed. The catheter was
+     advanced through the peel-away sheath through the superior vena cava. The
+     peel-away sheath was removed. Final fluoroscopic spot film demonstrates the
+     tip of the catheter to be in the high right atrium. The catheter was flushed,
+     capped, and hep-locked, and secured to the skin using 0- silk sutures. The
+     venous insertion site was closed with Dermabond. The catheter was covered with
+     dry sterile dressing and Op-Site.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of right internal jugular 14-French, 19 cm
+     tip to cuff, tunneled hemodialysis catheter with tip in the high right atrium,
+     ready for use.
+                                                                 (Over)
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5472,11987,6802,,3394-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 1375**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CRF                                                        
+     REASON FOR THIS EXAMINATION:
+      please place tunneled cath for HD                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 77-year-old man with chronic renal failure, multiple medical
+     problems, needs tunneled line for hemodialysis.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 862**] [**Name (STitle) 863**] and Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 293**] [**Doctor Last Name 294**] d'Othee, with Dr. [**Last Name (STitle) 294**] [**Name (STitle) 295**] (attending radiologist) present
+     and supervising the procedure.
+     
+     PROCEDURE AND FINDINGS: Consent was obtained from the patient's wife and the
+     patient was placed supine on the angiographic table. The right neck and upper
+     chest were prepped and draped in standard sterile fashion. The right internal
+     jugular vein was accessed using a 21-gauge micropuncture needle after local
+     administration of 1% lidocaine. A 0.018 guidewire was advanced through the
+     needle into the superior vena cava under fluoroscopic guidance. The needle was
+     exchanged for a 4.5-French micropuncture sheath with inner dilator.
+     
+     Attention was then turned to creation of the tunnel. 1% lidocaine was
+     administered in the designated tunnel tract. A skin incision was made with a
+     #11 blade scalpel. The hemodialysis catheter (24 cm, measuring 19 cm tip to
+     cuff) was connected to a tunneling device, and advanced through the tunnel,
+     and out adjacent to the venous insertion site. The tunneling device was
+     removed.
+     
+     The tract was sequentially dilated with 8, 10, 12 and 14-French dilators. A
+     14-French peel-away sheath with inner dilator was advanced under fluoroscopic
+     guidance. The inner dilator, and guidewire were removed. The catheter was
+     advanced through the peel-away sheath through the superior vena cava. The
+     peel-away sheath was removed. Final fluoroscopic spot film demonstrates the
+     tip of the catheter to be in the high right atrium. The catheter was flushed,
+     capped, and hep-locked, and secured to the skin using 0- silk sutures. The
+     venous insertion site was closed with Dermabond. The catheter was covered with
+     dry sterile dressing and Op-Site.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of right internal jugular 14-French, 19 cm
+     tip to cuff, tunneled hemodialysis catheter with tip in the high right atrium,
+     ready for use.
+                                                                 (Over)
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5472,11987,6802,,3394-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 1375**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CRF                                                        
+     REASON FOR THIS EXAMINATION:
+      please place tunneled cath for HD                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 77-year-old man with chronic renal failure, multiple medical
+     problems, needs tunneled line for hemodialysis.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 862**] [**Name (STitle) 863**] and Dr. [**Last Name (STitle) 294**]
+     [**Name (STitle) 293**] [**Doctor Last Name 294**] d'Othee, with Dr. [**Last Name (STitle) 294**] [**Name (STitle) 295**] (attending radiologist) present
+     and supervising the procedure.
+     
+     PROCEDURE AND FINDINGS: Consent was obtained from the patient's wife and the
+     patient was placed supine on the angiographic table. The right neck and upper
+     chest were prepped and draped in standard sterile fashion. The right internal
+     jugular vein was accessed using a 21-gauge micropuncture needle after local
+     administration of 1% lidocaine. A 0.018 guidewire was advanced through the
+     needle into the superior vena cava under fluoroscopic guidance. The needle was
+     exchanged for a 4.5-French micropuncture sheath with inner dilator.
+     
+     Attention was then turned to creation of the tunnel. 1% lidocaine was
+     administered in the designated tunnel tract. A skin incision was made with a
+     #11 blade scalpel. The hemodialysis catheter (24 cm, measuring 19 cm tip to
+     cuff) was connected to a tunneling device, and advanced through the tunnel,
+     and out adjacent to the venous insertion site. The tunneling device was
+     removed.
+     
+     The tract was sequentially dilated with 8, 10, 12 and 14-French dilators. A
+     14-French peel-away sheath with inner dilator was advanced under fluoroscopic
+     guidance. The inner dilator, and guidewire were removed. The catheter was
+     advanced through the peel-away sheath through the superior vena cava. The
+     peel-away sheath was removed. Final fluoroscopic spot film demonstrates the
+     tip of the catheter to be in the high right atrium. The catheter was flushed,
+     capped, and hep-locked, and secured to the skin using 0- silk sutures. The
+     venous insertion site was closed with Dermabond. The catheter was covered with
+     dry sterile dressing and Op-Site.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of right internal jugular 14-French, 19 cm
+     tip to cuff, tunneled hemodialysis catheter with tip in the high right atrium,
+     ready for use.
+                                                                 (Over)
+
+     DATE: [**3394-4-10**] 9:06 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 11424**]
+     Reason: please place tunneled cath for HD                           
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5472,11987,6802,0,3394-04-10 05:25:00 EST,3394-04-10 05:34:00 EST,3660,"N",54,"Nursing/Other",,"
+
+nsg note:
+neuro; pt oriented times 2 at beginning of shift but duing night becme confused and dropped to times 1. calling out for help, pulling at ng tube, soft wrist restraints imployed.  given 2.5 of haldol times one with good effect. pt very rigid with fine tremors  with activity only not at rest.
+cv stable bp 130's to 150's. hr 60's to 80's af with lots of v ectopy ca repleted k dropped to 2.9 repleted with 40 meq kcl with decrease in amt of v ectopy.
+resp lungs clear, sats >96 on 3 l np's. rate 12 to 18.
+gi ngt draining bilious drainage.sm amt of maroon stool in rectal bag. 
+abd soft with active bowel sounds 
+ivf of d5w with bicarb at 100ccs per hr.  metabolic acidosis slowly improving on bicarb gtt. on sliding scale. no insulin required.
+ uo brisk. cloudy with sediment. 
+hct 27.8 given one unit packed cells. coags within norm limits.
+a stable, hct drop but no signs of active bleeding. 
+p continue to monitor. serial hcts.
+",,
+5472,11987,6802,,3394-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-11**] 7:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11425**]
+     Reason: r/o CHF                                                     
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with history of CHF getting fluid HCO3 for met acidosis         
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     INDICATION:  Patient with history of CHF.  
+     
+     No prior films available for comparison.  A right large bore catheter is
+     present in the right IJ vein terminating in the lower SVC. The heart is
+     enlarged and there is evidence of bilateral pulmonary edema and pleural
+     effusions.  An endotracheal tube terminates 7 cm above the carina.  An NGT
+     terminates in the upper stomach with the distal side port at the
+     gastroesophageal junction.  Increased density at the left base may be a
+     developing area of pneumonia.
+     
+     IMPRESSION:  Congestive heart failure with pulmonary edema.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-11**] 1:15 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11426**]
+     Reason: confirm left subclavian tlc placement                       
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CHF, respiratory failure now s/p left subclaviant tlc 
+      placement                                 
+     REASON FOR THIS EXAMINATION:
+      confirm left subclavian tlc placement                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     A left subclavian catheter has been inserted terminating in the mid SVC. 
+     There is no apparent pneumothorax.  A right IJ line, NGT, and ETT are
+     unchanged as are the parenchymal changes in the lungs compared to the earlier
+     chest x-ray this morning at 8 a.m.
+     
+     IMPRESSION:  No pneumothorax following left subclavian catheter insertion.
+     
+     Otherwise, no change in the chest.
+                                                                           
+
+",,
+5472,11987,6802,,3394-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-11**] 1:15 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11426**]
+     Reason: confirm left subclavian tlc placement                       
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CHF, respiratory failure now s/p left subclaviant tlc 
+      placement                                 
+     REASON FOR THIS EXAMINATION:
+      confirm left subclavian tlc placement                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     A left subclavian catheter has been inserted terminating in the mid SVC. 
+     There is no apparent pneumothorax.  A right IJ line, NGT, and ETT are
+     unchanged as are the parenchymal changes in the lungs compared to the earlier
+     chest x-ray this morning at 8 a.m.
+     
+     IMPRESSION:  No pneumothorax following left subclavian catheter insertion.
+     
+     Otherwise, no change in the chest.
+                                                                           
+
+",,
+5472,11987,6802,0,3394-04-11 00:54:00 EST,3394-04-11 01:01:00 EST,4297,"N",54,"Nursing/Other",,"
+
+pt confused,ox1 only.yelling out inappropriately,""help me."" L arm restrained for continuous removal of o2 equipment.follows commands but needs frequent reminders.lethargic at this time,but responds to voice. did not [**Doctor Last Name 65**] previous night.
+hypertensive,up to sbp 180s.hr 70-80s,a-fib w/ freq multi-focal pvcs and short runs of v-tach.p iv x 2 wnl.changed R femoral tlc drsg. oozing small amt sang drng.
+respirations noted to be labored,rate in upper 20s.crackles heard and non-productive wet cough.given 60mg ivp lasix resulting in 500ml cloudy,yellow urine.ivf stopped.weaned to 100% face tent w/ sao2 97% at this time.rr 25.
+given most of go-lightly through ngt.stool remains loose,brown.
+coccyx red,unbroken.open to air r/t freq stooling.
+no family contact this shift.wife's name is [**Name (NI) 833**].
+
+",,
+5472,11987,6802,0,3394-04-11 15:12:00 EST,3394-04-11 15:42:00 EST,2078,"N",69,"Nursing/Other",,"
+
+Pt. admitted to MICU service to MICU B after short (5 hour) stay on [**Hospital Ward Name **] 5 from 2:30a-7:30a.  Previously, pt. in TSICU for LGIB.  Please see nursing note from [**4-9**] for admission info and PMH.  Reportedly, pt. was a medical pt. on [**Hospital Ward Name **] 5 who transfered from TSICU d/t emergent trauma bed needed- and pt. was deemed stable.  Pt. reportedly arrived to [**Wardname **] with increasing O2 requirements, poor lung exam (crackles) and lethargy (also hypernatremic).  Pt. received 60mg of lasix prior to departure from TSICU with unclear amount of output.  Pt. later required 100% NRB for desaturations.  At approx. 6am, during routine am care, pt. experienced witnessed decreased responsiveness leading to unresponsiveness and sat's of 60%.  MDs aware and ordered an add'l 40mg of lasix.  Significantly- of note, pt. receiving IVF (bicarb for acidosis). Pt. was intubated on [**Hospital Ward Name **] 5 for sat's 80% on 100% and change in MS.  Pt. transfered to MICU at 7:30am for further w/u of resp. fx and fluid status management.  Of note, pt. was scheduled for HD today and colonscopy for which he was prepped.  
+
+Pt. arrived to MICU hypothermic to 92.9 PO (would not register PR), in Slow AF with BP >130's.  AM labs revealing of high WBC.  Throughout the am, pt. was cultured.  HD put on hold as well as colonoscopy in the setting of high troponin (elevated CREAT as well).  Lasix given X 1 and to be repeated.  ABX to be started d/t ""dirty"" urine and sputm.  
+
+Review of Systems-
+
+Neuro-  Pt. observed making purposeful movements towards ETT, moving all extremeties requiring use of Propofol at 10mcg/kg/min.  Pupils not examined b/c pt. not cooperating with exam.  Pt. has signficant PMH of Bipolar disorder and lives in [**Location **].  Written in notes that pt. is usually alert and confused about time.  
+
+Resp-  Pt. remains intubated on A/C 600X16 30% (reduced from 100%)- on 60% ABG 7.35/34/157/20.  LS- coarse/crackles/diminshed.  CXR significant for interstitial markings, infiltrate in LUL and perhilar pattern, pleural effusions.  Sputum sent and appears contaminated- will start triple abx for now.  Sx'ing pink frothy sputum, occ thick tan.  Sat's maintained >95%.  Probable cause of resp. fx is CHF w/ significant diastolic dysfunction from AS and fluid overloaded state.  Will consider extubation tom'row.
+
+CV-  HR low of 48-60's AFIB with occ PVC.  BP 90's-120 systolic via NBP.  CVP 12 this afternoon after lasix.  Labs repeated and K found to be low- repleted with 80meQ infusing now.  To receive another 200mg of Lasix.  Troponin high in the setting of elevated creat and flat CK, will continue r/o with 1800 labs.  Skin compromised- on coccyx and at right new fistula sight- poor bruit, poor color and very edemedous extremeties +4.  Weak pulses.  Right femoral line changed to left subclavian triple lumen- line cx'd.  Pt. with thromobocytopenia so oozing at new line site.  
+
+GI/GU-  No evidence of LGIB (HCT stable)- stool golden to clear.  NGT clamped.  NPO for now, possible scope tom'row if stable and r/o MI.  Receivi
+",,
+5472,11987,6802,0,3394-04-11 15:13:00 EST,3394-04-11 15:42:00 EST,2078,"N",69,"Nursing/Other",,"
+
+(Continued)
+ng D5W IVF for hypernatremia (147, 149).  Replete e-lytes and checking frequently d/t lasix administration.  U/O 80-240cc/hr, slightly negative since MN. 
+
+ID-  Hypothermic requiring warming blanket- now normothermic.  To receive triple abx vanco, levo, flagyl.  BC samples taken from old fem line (tip cx'd) and new subclavian. Sputum and urine sent.  
+
+Social-  Wife called periodically and updated on pt. status.  Will most likely visit tom'row.   
+",,
+5472,11987,6802,0,3394-04-11 15:39:00 EST,3394-04-11 15:41:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient intubated and sedated on propofol. Appears comfortable. BS=bilat with scattered crackles t/o. Suctioned for thin yellow secretions that were frothy and blood tinged this am. A sputum culture was sent. He is on full vent support to compensate for a metabolic acidosis. Oxygenation is very good with patient weaned to 30%. Plan to maintain support, provide pulmonary hygiene and continue monitoring.
+",,
+5472,11987,6802,,3394-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-12**] 6:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11427**]
+     Reason: assess interval improvement of CHF                          
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CHF, respiratory failure                                   
+     REASON FOR THIS EXAMINATION:
+      assess interval improvement of CHF                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up CHF.
+     
+     Comparison to a prior chest x-ray at 8 a.m. on [**3394-4-11**] demonstrates clearing
+     of the airspace consolidation in the left upper lobe.  The remainder of the
+     chest is unchanged.
+     
+     IMPRESSION:  Improvement in the appearance of the chest with interval clearing
+     of the airspace disease in the left upper lobe.  Persistent airspace disease
+     throughout the remainder of the lungs are noted.
+
+",,
+5472,11987,6802,0,3394-04-12 04:20:00 EST,3394-04-12 04:32:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT LIGHTLY SEDATED ON 10MCQ OF PROPOFOL. PT EASILY AROUSED BUT RESTED COMFORTABLY ON THIS AMT. OPENS EYES TO VOICE AND STIMULATION. ABLE TO MOVE LEGS ON THE BED, DOES NOT MOVE ARMS VERY MUCH, POSSIBLY BECAUSE THEY ARE SO EDEMATOUS. PUPILS SMALL REACTIVE TO LIGHT. 
+
+RESP: PT INTUB/VENTED ON PRESSURE SUPPORT ALL NIGHT. ABLE TO TOLERATE THESE SETTINGS WITH O2 SATS UP TO 100%. LUNG SOUNDS COARSE AND HAS BEEN SX FOR SM AMT'S OF TAN SECRETIONS. WILL ATTEMPT TO EXTUBATED THIS AM. 
+
+CV: PT HAS BEEN IN AFIB WITH OCC PVC'S. RATES IN THE 60'S TO 70'S. BP WITHIN NORMAL LIMITS BY CUFF. CVP 11-13. TEMP 99 AX. 
+
+GI: PT STARTED ON NEPRO TUBE FEEDINGS AT 10CC/HR AND INC TO 20/HR. TUBE FEEDS STOPPED AT 0500 FOR POSSIBLE EXTUBATION TODAY. PT HAS MUSHROOM CATH IN PLACE AND IS DRAINING MOD AMT'S OF LIQ BROWN STOOL. GUIAIC POS. 
+
+SKIN: COCCYX REDENNED. PT VERY EDEMATOUS. 
+
+ENDO: NO INSULIN COVERAGE OVERNIGHT. 
+
+ACCESS: LEFT SC TLC PATENT. NO BLEEDING FROM SITES. RIGHT SC QUINTON WITHIN NORMAL LIMITS. 
+
+SOCIAL: HAVE NOT HEARD FROM FAMILY OVERNIGHT. PT REMAINS FULL CODE.
+
+",,
+5472,11987,6802,0,3394-04-12 17:46:00 EST,3394-04-12 17:55:00 EST,6648,"N",69,"Nursing/Other",,"
+
+NURSING SUMMARY:
+
+NEURO: PT LIGHTLY SEDATED THIS AM WHILE INTUBATED. PROPOFOL OFF FOR EXTUBATION. PT NOW ALERT, ORIENTED TO PERSON ONLY, FOLLOWING COMMANDS. REORIENTED FREQUENTLY. RESTRAINTS REMOVED ONCE EXTUBATED. C/O THROAT DISCOMFORT.
+
+PULM: PT EXTUBATED THIS PM AND FACE TENT 35% PLACED. TOLERATING WELL SO FAR. LUNGS COARSE WITH SCATTERED CRACKLES AT TIMES. PREVIOUSLY SUCTIONING TAN SECRETIONS-LESSENED THROUGHOUT THE AFTERNOON. 
+
+CVS: VSS IN CONTROLLED AFIB. CVP 7-12. BUE CONTINUE W/EDEMA. R>L. RUE SLIGHTLY OOZY OF SEROUS FLUID.  AV FISTULA IN RUE-NOT MATURED YET. SCD'S ON.
+
+GI:TF ON HOLD SINCE LAST NOC. NGT REMAINS AFTER EXTUBATION. PT GIVEN ICE CHIPS-TOLERATED FINE. NO ADDITIONAL STOOL FROM RECTAL TUBE. GI TEAM CAME BY THIS PM. TO HAVE EGD AND COLONOSCOPY ON MONDAY R/T PREVIOUS GI BLEED. Q6HOUR FS-ON SSI
+
+GU: PT RECEIVED HD TODAY USING DIALYSIS CATH. TOLERATED WELL-2.5L FLUID REMOVED. UO CONTINUED TO BE MORE THAN ADEQUATE.
+
+SOCIAL: SPOKE WTIH WIFE AND UPDATED ON STATUS AND PLAN. VERBALIZED UNDERSTANDING.
+",,
+5472,11987,6802,0,3394-04-12 17:55:00 EST,3394-04-12 17:56:00 EST,6648,"N",69,"Nursing/Other",,"
+
+NURSING NOTE ADDENDUM:
+
+PT ON D5W @ 100ML/HR X2L FOR HYPERNATREMIA. PM CHEM 10 AND CBC DRAWN.
+",,
+5472,11987,6802,0,3394-04-13 05:00:00 EST,3394-04-13 05:08:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT MORE ALERT BUT CONT TO BE CONFUSED. UNABLE TO HAVE REAL CONVERSATION WITH [**Doctor First Name **]. CAN GIVE SIMPLE ONE WORD ANSWERS. DID COMPL THAT HIS HANDS HURT HIM. BOTH HANDS VERY EDEMATOUS. 
+
+RESP: PT WITH COOL MIST FACE TENT WITH O2 SAT'S IN THE HIGH 90'S. LUNG SOUNDS COARSE AT TIMES, CLEAR THROAT WITH WEAK COUGH. NO O2 ISSUES.
+
+CV: REMAINS IN AFIB WITH FREQ TO OCC PVC'S. PT'S K+ LOW AND WAS REPLETED WITH 40MEQ VIA NGT. BP ELEVATED WILL RESUME PO BP MEDS. AFEBRILE. 
+
+GI: PT RESUMED TUBE FEEDS CURRENTLY AT 20/HR AND WILL INC BY 10CC Q 4/HRS. MINIMAL RESIDUALS. PASSING MOD AMT OF LOOSE BROWN STOOL, MUSHROOM CATH IN PLACE. 
+
+GU: FOLEY CATH DRAINING LRG AMT'S OF LIGHT YELLOW URINE. 
+
+SKIN: VERY ECHYMOTIC GROIN AND SCROTUM. SM BREAKDOWN ON COCCYX. AREA IS REDDENED. 
+
+ON SSRI RECEIVED ONE DOSE OVERNIGHT. 
+
+ID: RECEIVED DOSE OF VANCO/CEFTRIAXONE. 
+
+SOCIAL: HAVE NOT HEARD FROM FAMILY MEMBERS OVERNIGHT. FULL CODE.
+",,
+5472,11987,6802,0,3394-04-13 16:15:00 EST,3394-04-13 16:26:00 EST,6648,"N",69,"Nursing/Other",,"
+
+Nursing summary:
+
+Neuro: Pt slept most of day, easily arousable. Oriented to person only despite reorientation frequently. Cooperative, not pulling at tubes or lines, restraints not in place at this time. NO c/o pain or discomfort.
+
+Pulm:PT remains on 35% fact tent. Attempted to wean to 4L NC but pt desat to 88-91% r/t mouth breathing. PT with weak cough-unable toexpectorate secretions earlier but this evening able to have productive cough of yellow sputum-assisted pt with yankeur. PT remained in ICU r/t unable to clear secretions-to eval tomorrow for possible transfer to floor.
+
+CVS: Pt in controlled AF with frequent pvc's.  K/MG repleted this am by noc staff. Edema continues in BUE, 1+ in BLE. Pt oozy from RUE of sanguinous drainage-small amt. cvp 9-12. Repeat hct sent todya-stable @ 31. PT bp rising-restarted on carvedilol and responded well.
+
+GI/GU:  UO in adequate amounts via foley. Repeat UA and culture sent. Pt incontinent of small amt of stool x2-brown, guaic neg. Rectal bag placed.  GoLYtely prep started r/t pt to have egd/colonoscopy tomorrow. Pt to be npo after mn with golytely prep. Hypernatremia continues-to hold free water boluses r/t golytely with 4L free water.
+
+Skin: Scrotal area with echymosis, perianal area reddened.
+
+ID: PT with proteus growing in previous urine culture(repeat sent today), gram ng rods, gram pos cocci in sputum. On vanco. PT with previous h/o mrsa in urine from osh?-contact precautions.
+
+SocialL:Spoke with wife via phone and updated this am. No further calls
+
+Plan: Encourage deep breathing/coughing/pulmonary toilet. Wean FIO2 if able overnoc. Continue golytely prep until clear.  PT for egd/colonoscopy in am.
+",,
+5472,11987,6802,0,3394-04-13 17:02:00 EST,3394-04-13 17:03:00 EST,6648,"N",69,"Nursing/Other",,"
+
+nursing addendem:
+
+GI: PT with weak gag this am-kept npo w/TF-consult for speech/swallow eval ordered.
+",,
+5472,11987,6802,,3394-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-14**] 12:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11428**]
+     Reason: eval for PNA or CHF                                         
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with CHF, respiratory failure .                               
+     REASON FOR THIS EXAMINATION:
+      eval for PNA or CHF                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF and respiratory failure, question edema or pneumonia.
+     
+     An upright AP chest radiograph shows no change in positioning of a left
+     subclavian central venous catheter, low right IJ tunneled catheter and
+     nasogastric tube.  The endotracheal tube is not seen in the view of the film
+     and has apparently been removed.  Again noted is large right pleural effusion
+     with a different appearance today on this upright view.  The retrocardiac area
+     of the left base is obscured, otherwise, the left lung and the visible
+     portions of the right lung appear clear.  Central pulmonary, vascular
+     congestion is largely decreased.  Note is made of a left ventricular
+     configuration to the heart and significant calcified atherosclerotic plaque in
+     the thoracic aorta. Note that in addition to the very large right pleural
+     effusion, a smaller left pleural effusion appears present as well and could be
+     confirmed on the lateral view.
+     
+     CONCLUSION:  Large right pleural effusion and probable small left pleural
+     effusion.  A left for retrocardiac consolidation, which may represent
+     atelectasis or pneumonia.  When patient is able, lateral view in addition to
+     the AP view PA view would be helpful.
+
+",,
+5472,11987,6802,,3394-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-14**] 1:10 PM
+     UNILAT UP EXT VEINS US RIGHT PORT                               Clip # [**Clip Number (Radiology) 11429**]
+     Reason: RT ARM SWELLING
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE edema and R IJ in place.                               
+     REASON FOR THIS EXAMINATION:
+      eval for DVT                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity edema and history of right internal jugular
+     catheter.
+     
+     There are no prior studies available for comparison.
+     
+     FINDINGS:  [**Doctor Last Name **]-scale and Doppler sonograms of the right internal jugular,
+     subclavian, axillary, brachial, and left subclavian veins were performed.  A
+     small amount of non-occlusive fibrinous material is demonstrated within the
+     right internal jugular vein.  No thrombus is identified in the right
+     subclavian or axillary veins.  There are small hypoechoic subcutaneous
+     collections demonstrated in the right upper arm consistent with hematomas.
+     Note is made of a right cephalic to brachial AV fistula, which limits
+     evaluation of the distal waveforms.  Limited evaluation of the right brachial
+     vein demonstrates no evidence for occlusive thrombus.
+     
+     IMPRESSION:
+     
+     1.  Nonocclusive fibrinous material in the right internal jugular vein, most
+     consistent with sequela of prior line.
+     
+     2.  No evidence of thrombus in the subclavian or axillary veins with no gross
+     evidence of thrombus in the limited evaluation of the right brachial vein.
+     
+
+",,
+5472,11987,6802,0,3394-04-14 04:36:00 EST,3394-04-14 04:42:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT MORE AWAKE AND TALKATIVE. CONT TO BE CONFUSED, OREIENTED TO WHO HE IS AND WHAT TOWN HE CAME FROM. PT VERY COOPERATIVE WITH CARE. SLEPT WELL OVERNIGHT. MAE WITH HELP.
+
+RESP: PT WEANED DOWN TO 4LNC. O2 SAT'S IN THE HIGH 90'S TO 100%. LUNG SOUNDS COARSE, ABLE TO COUGH AND RAISE TO SWALLOW. 
+
+CV: REMAINS IN AFIB WITH FREQ PVC'S. BP WITHIN NORMAL LIMITS WITH BLOOD PRESSURE MEDS ON BOARD. RESP RATE IN THE TEENS TO TWENTIES. AFEBRILE. 
+
+GI: PT WITH NGT AND IS NPO, BUT HAS TAKEN SOME ICE CHIPS WITHOUT DIFF. PT RECEIVED GOLYTELY AND HAS PASSED COPIOUS AMT'S OF LIQ STOOL VIA FECAL BAG. 
+
+SKIN: PT HAS ECHYMOTIC GROIN AND SCROTUM. ALSO HAS SOME OOZING FROM OLD GROIN SITE. DSD APPLIED. 
+
+ENDO: DID NOT REQUIRE ANY SSRI. 
+
+SOCIAL: WIFE UPDATED OVERNIGHT. WILL CALL IN AM. PT IS FULL CODE. PLAN FOR ENDOSCOPY TODAY.
+",,
+5472,11987,6802,0,3394-04-14 17:11:00 EST,3394-04-14 17:12:00 EST,6648,"N",69,"Nursing/Other",,"
+
+Colonoscopy/EGC done at bedside. Total of 2mg versed and 75 Fentanyl give for procedure. See gi report for detail.  Polyps found in colon-no active bleeding. Will need follow up colonoscopy. BP stable throughout proceduree. During endoscopy, pt with decreased o2 sats to 88-90%. 100% nrb eventually placed to mainatin sats 95%. Will monitor closely.
+",,
+5472,11987,6802,0,3394-04-14 17:54:00 EST,3394-04-14 17:55:00 EST,6648,"N",69,"Nursing/Other",,"
+
+Pt more awake, able to wean o2 to 3L NC. VSS post procedure- stable to transfer to floor. TLC site still without ooze-pressure dressing remains in place. See transfer note and careview for more details.
+",,
+5472,11987,,,3394-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-15**] 3:06 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11430**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: LOWER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with history of CHF s/p EGD and retrocardiac opacity on 
+      portable
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of CHF, status post EGD and retrocardiac opacity noted on
+     portable radiograph, assess for pneumonia.
+     
+     PA AND LATERAL RADIOGRAPH.  Comparison is made to one day earlier.
+     
+     FINDINGS:  Cardiac and mediastinal contours are normal.  There are bilateral
+     pleural effusions, right greater than left.  The right effusion has, however,
+     decreased since yesterday.  There is associated bibasilar
+     atelectasis/consolidation.  Two central venous catheters are unchanged in
+     position.  Pulmonary vasculature is slightly prominent and there is mild
+     perihilar haziness.  There is no pneumothorax.  The NG tube has been removed. 
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     Bilateral pleural effusions with associated bibasilar
+     atelectasis/consolidation.  Associated perihilar haziness suggests an element
+     of pulmonary edema.
+                                                                           
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,
+5472,11987,,,3394-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 35476 PTA VENOUS                     79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * -59 DISTINCT PROCEDURAL SERVICE      36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75978 PTA VENOUS                     -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75790 ART VENEOUS SHUNT              -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        NON-IONIC 100 CC                    *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with RUE fistula placed in [**3394-3-24**] and has tunnel cath on right 
+      side.  Patient with RUE swelling 
+     REASON FOR THIS EXAMINATION:
+      assess for stenosis or central problem                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  77-year-old male with right upper extremity fistula, now
+     with right upper extremity edema.  Assess for stenosis.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1085**] and Dr. [**Last Name (STitle) 156**].  Dr.
+     [**Last Name (STitle) 156**], staff radiologist, was present and supervising.  Written informed
+     consent was obtained from the patient's wife.  A preprocedure timeout was
+     performed to ensure patient identity and appropriateness of the procedure. The
+     patient was placed supine on the angiography table.  The right upper arm was
+     prepped and draped in the usual sterile fashion.  Approximately 3 cc of 1%
+     lidocaine were used for local anesthesia.  Access was achieved with a 21-gauge
+     micropuncture needle.  A 0.035 [**Last Name (un) 129**] wire was advanced with ease into the
+     superior vena cava, and the needle was exchanged for a 4-French sheath.
+     Initial fistulogram demonstrates a two tight, irregular stenoses, one at the
+     anastomosis and the second at the proximal fistula.  It was felt to be
+     unlikely that either of these lesions would respond to angioplasty.  An
+     additional area of stenosis was visualized in the fistula at the level of the
+     mid humerus.  A tight, long stenosis of the brachiocephalic vein was
+     identified as well.
+     
+     Based on these diagnostic findings, it was decided that the patient would
+     benefit from and was a good candidate for angioplasty.  The 4- French sheath
+     was then exchanged for a 6- French bright tip sheath. The more distal mid-
+     humerus fistula stenosis was dilated with 6 and then 8 mm balloons, with
+     immediate angiographic results. The area of stenosis of the right
+     brachiocephalic vein was dilated with both 8 and 10 mm balloons, with minimal
+     response identified.
+     
+     The patient was transferred to the recovery area, where the sheath was
+                                                                 (Over)
+
+     DATE: [**3394-4-17**] 7:16 AM
+     AV FISTULOGRAM SCH                                              Clip # [**Clip Number (Radiology) 11431**]
+     Reason: assess for stenosis or central problem                      
+     Admitting Diagnosis: LOWER GI BLEED
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     removed. Continuous pressure was maintained until hemostasis was achieved.  No
+     immediate post- procedure complications were noted.
+     
+     MEDICATIONS:  Conscious sedation was provided by members of nursing staff
+     under continuous hemodynamic monitoring.  A total of 100 cc of Optiray
+     nonionic contrast material at 60% concentration were administered.
+     
+     IMPRESSION:
+     1)  Two tight, irregular areas of stenoses at the fistula anastomosis and
+     proximal fistula. It is unlikely that either of these areas will respond well
+     to angioplasty. These most likely require surgical revision.
+     2)  Stenosis in the fistula at the level of the mid humerus dilated with 6 and
+     8 mm balloons with good, immediate angiographic results.
+     3)  Tight, long stenosis of the right brachiocephalic vein, which did not
+     respond well to 8 and 10 mm balloons. Cutting balloon or stenting was not used
+     due to indwelling dialysis catheter in place on the same side. If the decision
+     is made to surgically revise the arterial anastomosis and save the graft, this
+     area of stenosis will likely require a stent after the catheter
+     removal/repositioning.
+     
+
+",,

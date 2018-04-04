@@ -1,0 +1,543 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5766,21422,,,2503-09-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2503-9-4**]       Discharge Date:  [**2503-9-10**]
+
+Date of Birth:   [**2429-11-4**]       Sex:  F
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 74 year old
+female with a history of chronic obstructive pulmonary
+disease, hypothyroidism, atrial fibrillation and depression,
+who presents with decreased mental status and fevers to 102.
+The patient apparently was in her usual state of health until
+the day prior to admission.  She was found on the morning of
+admission by her husband to be unresponsive in bed, with
+empty pill bottles near her head.
+
+The patient was brought to the Emergency Room by ambulance
+and noted to be febrile to 102 on arrival.  Prescription
+medications at home included Paxil, lithium, Prednisone,
+Nardil and verapamil.  In the Emergency Room, the patient was
+hemodynamically stable, however, was noted to be rigid on
+examination.  Concern was for serotonin syndrome.  The
+patient was then treated with charcoal and sorbitol,
+paralyzed and intubated.
+
+Toxicology consultation was obtained with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+The patient was then admitted to the Medical Intensive Care
+Unit for further management.  Of note, the husband states
+that the patient has been depressed, and the drug overdose
+likely represents a suicide attempt.
+
+PAST MEDICAL HISTORY:  1.  Chronic obstructive pulmonary
+disease.  2.  Atrial fibrillation.  3.  Hypothyroidism.  4.
+Depression versus bipolar disorder.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Paxil, Synthroid, ?Prednisone,
+Nardil, verapamil, lithium and Colace.
+
+SOCIAL HISTORY:  The patient is married and resides with her
+husband in [**Name2 (NI) 486**].  She was educated at [**Location (un) 7098**] and
+previously worked as a line reader at [**Location (un) 3748**]-[**Last Name (un) 7099**].  She
+has a remote tobacco history and quit 20 years ago.  She has
+occasional alcohol use.
+
+FAMILY HISTORY:  Family history is noncontributory.
+
+PHYSICAL EXAMINATION:  On physical examination prior to
+paralysis, the patient had a temperature of 102, pulse 100,
+sinus rhythm, blood pressure 130/70 and oxygen saturation
+100%.  General:  Elderly female in no acute distress.  Head,
+eyes, ears, nose and throat:  Normocephalic, atraumatic,
+pupils equal, round, and reactive to light and accommodation,
+extraocular movements intact, oropharynx clear, no
+lymphadenopathy, no jugular venous distention, trachea
+midline.  Cardiovascular:  Normal S1 and S2, no S3, II/VI
+systolic ejection murmur at left lower sternal border, no
+rubs.  Pulmonary:  Bilateral coarse upper airway sounds, no
+wheezes or rales noted.  Abdomen:  Soft, nontender,
+nondistended, positive bowel sounds, no hepatosplenomegaly.
+Extremities:  Cool to touch, pulses intact, no edema.
+Neurologic examination:  Lethargic and unresponsive, upper
+extremities rigid with slightly flexed forearm posture, lower
+extremities rigid with extension and bilaterally upgoing
+toes, unable to evaluate sensation.
+
+LABORATORY DATA:  White blood cell count was 7.1, hematocrit
+34.2, platelet count 336,000, sodium 141, potassium 4.5,
+chloride 106, bicarbonate 28, BUN 16, creatinine 0.6, glucose
+109, prothrombin time 12, partial thromboplastin time 24, INR
+1.1, lactate 1.7, free calcium 1.15, lithium 1.1,
+acetaminophen 25, and serum toxicology screen positive for
+opiates.  AST was 1,243, ALT 455, alkaline phosphatase 132,
+lipase 104, calcium 8.8, phosphorous 3.3, magnesium 2.1, CPK
+326, vitamin B12 701, folate 7.3, serum osmolarity 298, TSH
+2.1, free T4 0.9, digoxin level 2.1, rechecked on [**2503-9-8**] 0.3, and lithium 1.3 on admission, rechecked on [**2503-9-6**] 0.2.
+
+On transfer, white blood cell count was 7.9, hematocrit 30.6,
+platelet count 335,000, glucose 90, BUN 17, creatinine 0.5,
+sodium 145, potassium 3.9, chloride 106, bicarbonate 32, ALT
+91, AST 20, alkaline phosphatase 89, CK 76, total bilirubin
+0.2, calcium 8.4, phosphorous 3.8 and magnesium 1.8.  Head CT
+scan on admission showed evidence of white matter disease, no
+evidence of hemorrhage or mass effect.  Chest x-ray the day
+prior to transfer showed no evidence of consolidation of
+effusion, no evidence of pneumothorax; there was evidence of
+osteopenia with no evidence of vertebral compression
+fractures in the thoracic spine.
+
+HOSPITAL COURSE:  The patient is a 74 year old female with a
+history of chronic obstructive pulmonary disease,
+hypothyroidism, atrial fibrillation and depression, who
+presents with decreased mental status and fever to 102,
+having overdosed on her prescription medications.
+
+1.  Overdose:  The patient was found unresponsive at home and
+brought to the Emergency Room, where she was responsive only
+to painful stimuli.  She was then paralyzed, sedated and
+intubated for airway protection.  Given the multiple empty
+bottles of medications near her at the time she was found,
+this is likely a complicated overdose.  A toxicology screen
+was positive for opiates with an elevated acetaminophen
+level.  She was given 1 mg of Narcan.  She was given charcoal
+with sorbitol, followed by Mucomyst, which was continued
+every four hours over the first 72 hours during her hospital
+course.
+
+Toxicology consultation was obtained was obtained with Dr.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  The patient was given a single dose of
+N-acetylcysteine.  She was admitted to the Medical Intensive
+Care Unit for further management.  This is a complicated drug
+overdose with likely serotonin syndrome, precipitated by
+Paxil and MAO inhibitors and complicated by other
+medications, given the patient's presentation.  Her liver
+function tests, APAP and lithium levels were initially
+elevated, but were followed and trended downward.  The
+patient was extubated without difficulty on [**2503-9-6**].
+
+2.  Psychiatry:  Given the patient's history of depression
+and suicide attempt, a psychiatric consultation was
+requested.  The patient had a one-to-one observer out of the
+Intensive Care Unit and all psychotropic medications were
+held.  Her delirium continued to progressively resolve post
+extubation.  She continued to have a blunted affect and
+depressed mood, feeling bad about attempting to end her life.
+She denied any further suicidal ideation, but was still
+clearly depressed.  It was felt that the patient would
+require inpatient psychiatric hospitalization after her
+medical issues were resolved.
+
+3.  Gastrointestinal:  The patient's transaminases were
+elevated secondary to acetaminophen toxicity and were
+followed, with downward trend.  She was noted to have guaiac
+positive stools and gastroenterology was consulted regarding
+this issue in the setting of a complicated overdose.  They
+did not feel that she had any signs of any significant
+gastrointestinal bleed and recommended a colonoscopy as an
+outpatient.
+
+4.  Pulmonary:  The patient was paralyzed and intubated on
+arrival for airway protection.  She was extubated without
+difficulty on [**2503-9-6**].  Post extubation, she had
+oxygen saturations in the low 90s.  A chest x-ray was noted
+to be without evidence of consolidation or infiltrates.  The
+patient was encouraged to use her incentive spirometer, with
+improvement in her oxygen saturations.
+
+5.  Cardiovascular:  The patient has a history of atrial
+fibrillation.  Her digoxin level was noted to be elevated on
+arrival and digoxin was held during the course of her
+hospitalization.  Her digoxin level was subsequently
+decreased.  She will need to be restarted on her digoxin
+sometime in the future.  Her CKs were elevated on admission,
+thought to be secondary to her paralysis and drug overdose.
+Her CK/MB was not elevated and her electrocardiogram showed
+no ischemic changes.
+
+DISPOSITION:  The patient will be transferred to an inpatient
+psychiatric unit for further treatment.
+
+DISCHARGE MEDICATIONS:
+Levoxyl 0.025 mg p.o.q.d.
+Colace 100 mg p.o.b.i.d.p.r.n.
+Albuterol nebulizers p.r.n.
+Protonix 40 mg p.o.b.i.d.
+
+CONDITION ON DISCHARGE:  The patient was transferred in
+stable condition.
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 923**], M.D.  [**MD Number **]
+
+Dictated By:[**Name8 (MD) 7100**]
+MEDQUIST36
+
+D:  [**2503-9-10**]  10:45
+T:  [**2503-9-10**]  10:53
+JOB#:  [**Job Number 7101**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 929**] [**Doctor Last Name **]
+ on: WED [**2503-10-10**] 5:17 PM
+(End of Report)
+
+
+",,
+5766,21422,7173,0,2503-09-04 15:34:00 EST,2503-09-04 15:46:00 EST,118,"N",1,"Nursing/Other","CCU Nursing Admission Note","
+CCU Nursing Admission Note
+73 yr admitted through EW today after being found at home this AM unresponsive by husband, contacted EMS. In EW remained unresponsive was maintaining airway, was febrile to 102R, given tylenol pr, BC sent, urine sent(-), WBC 7.1. CXR neg. Lower ext. rigid, head CT neg. ABG: 97/64/7.30/33/2, decision made to intubate for airway protection. Serum Toxic screen poitive for opiates and tylenol level 24.8([**4-27**]). NGT placed and pt given charcoal and mucomist @1430. Husband brought in a number of empty pill bottles. LFT's elevated. Pt was given Ceftriaxone and Vanco. VSS: HR 70's A.fib, BP 120/70, maintaining good sats on ventilator suppport. Admitted to CCU for further care.
+
+PMH: depression on multiple meds, COPD, A.fib, hypothyroidism on synthroid.
+
+*to be continued*
+",,
+5766,21422,7173,0,2503-09-04 21:43:00 EST,2503-09-04 22:05:00 EST,118,"N",1,"Nursing/Other","Nursing Adm note/Progress Note Cont:","
+Nursing Adm note/Progress Note Cont:
+ALL: NKDA
+
+Soc: married, lives with husband. Son visited as well as husband. Health care proxy in green chart.
+
+Reveiw of systems:
+
+Neuro: arrived sedated and paralyzed, cont sedation with propofol gtt, and paralyzed with Rocuronium gtt started at 5ug/kg/min increased to 10ug/kg/min later in eve. At this time was raising eyebrows with suctioning, and still was sl rigid with turning. PERL. Feet in hyperextended position. 
+
+CV: hemodynamically stable, hypertensive on adm to 170/70, BP down to 120-140/60 after propofol added. HR 70's NSR. 
+
+Resp: abg good on AC 40%/600x10, 5 peep. Suctioned for tenacious white sputum. LS course. 
+
+GI: no stool, BS(+). OGT, NPO. LFT's ^, ALT 393, AST 1141. When diet resumed, needs MAO-1 diet.
+
+GU: foley
+
+ID: Febrile in EW to 102, was cultured. T 101.6R here, sputum sent, T later 100.1 po. No AB ordered(given in EW). Holding emperic AB for now, will reculture if cont to spike.
+
+Skin: intact. Pneumoboots on.
+
+Lines: # 20 in R arm, #18 in L arm. 
+
+Status: full code.
+
+A/P: Polypharmicalogical OD with serotonin syndrome, cont paralytic and sedation overnight with mechanical ventilation. IV hydration. Support to family.
+",,
+5766,21422,7173,0,2503-09-05 04:43:00 EST,2503-09-05 04:46:00 EST,660,"N",1,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds scat rhonchi bilat & louder R vs L. Suct large amt th pale yellow sput. No changes made overnoc. Cont mech vent and wean when more awake.
+",,
+5766,21422,7173,0,2503-09-05 05:05:00 EST,2503-09-05 05:12:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NURSING PROGRESS NOTE 11P-7A
+
+Neuro: Pt opening eyes to verbal stimuli and noted to be moving extremities. Propofol gtt increased back to 22mcg with good effect. Pt remains on rocuronium as well.
+
+Resp: Remains vented on same settings. Is not overbreathing set rate of 10. Maintained sats >95%. Suctioned once for thick white sputum.
+
+Cardiac: VSS. K+ 3.2 at 12:30 am-> presently rec'g 40meqKCL replacement. 
+
+GI: NGT with minimal charcoal colored aspirates. Conts on mucomyst q4hrs. Abd soft, no stool overnight. Conts on D5NS @125cc/hr x2 liters.
+
+GU: foley cath noted to be completely dislodged; therefore replaced with new 14Fr cath. Draining clear yellow urine. 
+
+ID. T max 100.6po. 
+
+",,
+5766,21422,7173,0,2503-09-05 13:54:00 EST,2503-09-05 14:02:00 EST,-1,"N",1,"Nursing/Other",,"
+
+RESPIRATORY----Pt. maintained on cmv ventilation at 40% with good oxygenation and stable vitals. Pt. had a good am abg. Chest is clear.Plan is to keep pt sedated on cmv ventilation for tonight, slowly wean propophal in a.m. and extubate. 
+",,
+5766,21422,7173,0,2503-09-05 17:17:00 EST,2503-09-05 17:19:00 EST,175,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+Addenda: Pt. will probably extubate in the AM 
+
+",,
+5766,21422,7173,0,2503-09-05 17:28:00 EST,2503-09-05 17:59:00 EST,226,"N",1,"Nursing/Other",,"
+
+Nursing Progress Note 7a-7p:
+
+Neuro: Pt conts to sedated on propofol gtt currently at 24mcg. Paralytic weaned off to assess neuro status and rigidity. Pt opening eyes to name following commands ie squeezing hands. Pt able to nod appropriately to questions asked. 
+Moving all extremities spontaneously. Upper extremties w/o rigidity. Lower extremities with slight rigidity including feet.
+Cont propofol overnoc night for seizure proph.
+
+CV: NSR HR 78-97. No ectopy. Repeat K+ this am 3.6, repleted with 40meq KCL IV.  Repeat K+ tonight pending. 
+HCT 31.7
+
+PULM: Mechanically ventilated now on CMV 600x10 5 peep 40% fi02. ABG on AC ABG 148/43/7.40/28.  Pt w/o a-line therefore ABG not checked on current settings. H.O. to obtain ABG tonight. 
+LS coarse throughout. Pt sxn'd for thick yellow sputum in moderate amts. Sats 98%.  Plan for possible extubation [**9-6**]. 
+  
+ID: 99.0-100.8R. Blood cultures pending. UA neg.  Follow temp curve closely. 
+
+GI: Abd soft with hypoactive BS. Pt remains NPO receiving mucomyst q4hr for overdose via OGT. No residuals.
+Pt with brown stool in rectum.  
+
+GU: Foley cath patent draining cyu. +1403cc since mn +3130cc LOS.
+
+LINES: 2 PIV. 
+
+SKIN: skin very dry and flaky. Intact.
+
+PROPH: Pneumoboots and zantac.  
+
+DISPO: Full code
+
+SOCIAL: Family visited and phoned today. Family would like to be present for extubation.
+
+A:  improving s/p overdose. 
+    Following commands.
+    hemodynamically stable. 
+
+P: Follow temp curve. 
+   monitor VS. 
+   mucomyst ATC.
+   f/u with am labs.                     
+",,
+5766,21422,7173,0,2503-09-06 05:07:00 EST,2503-09-06 05:09:00 EST,75,"N",1,"Nursing/Other",,"
+
+resp care note: pt received intubated, oet is secure and patent. pt also mech ventilated, current settings are: ac 600 x 10, peep5, and 40%. pt received general ventilator maintence, and suctioning t/o the shift. all is well at this time.
+",,
+5766,21422,7173,0,2503-09-06 05:25:00 EST,2503-09-06 05:48:00 EST,514,"N",1,"Nursing/Other",,"
+
+O. NEURO PEARLA AROUSABLE MAE FC ON  28 MCG OF PROPOFOL BP INCREASED TO 170/ TEMP 101.8 RECTALLY AT 5A PT WAS PUT ON  ROCURONIUM 5MCG/KG/MIN INCREASED TO 6MCG/KG/MIN EXTREMITIES DID NOT BECOME RIGID, MUCOMYST CONTINUES Q4HR
+CARDIAC HR 70'S NSR WITHOUT ECTOPY HCT 28.9 K+ 3.4 INR 1.3 SKIN WARM DRY PEDAL PULSES PRESENT  BP 170/-95/
+RESP CMV 40% TV 600 RR 10 PEEP 5 O2 SAT 99-100% SX FOR A SCANT AMT OF YELLOW THICK SECRETION LUNGS CTA DIMINISH BASES SPINE KYPHOTIC
+GI ORAL NGT CLAMPED ABD SNT BS+ HYPO STOOL DARK BROWN OB+ AST 12MN 137 DOWN TO 104 4:30 AM, ALT 268 DROPPED TO 248 ALK PHOS 103 DOWN TO 97 CPK 281 DOWN TO 233
+GU FOLEY U/O> 30CC Q HR BUN 5 CR 1.4
+ID TEMP MAX 101.8 RECTAL PAN CX WBC 9.9 CXR DONE NEG
+A. POLYSUBSTANCE OD
+FEBRILE, HYPERTENSION NEG MUSCULAR RIGIDITY
+P. PT PARALYZED AT 5AM PROPOFOL TITRATED FOR SEDATION PT PAN CX CHECK TEMP Q 2 HRS CONT MUCOMYST AS ORDERED MONITOR FOR MUSCULAR RIGIDITY
+SUPPORT PT AND FAMILY
+",,
+5766,21422,7173,0,2503-09-06 17:35:00 EST,2503-09-06 18:09:00 EST,226,"N",1,"Nursing/Other",,"
+
+Nursing Progress Note 7a-7p:
+
+Neuro: Sedation and paralytics weaned off this afternoon prior to extubation. Pt w/o noticeable rigidity. Pt currently alert and oriented x 2. Moving all extremites sponataneously. Pt restless kicking legs off bed and taking mask off.  Pt with soft wrist restraints in place to maintain integrity of lines.  Flat affect and slow to answer questions. Await 1:1 sitter at 7pm ordered by psychiatry  Pt is admitting to SA.
+Family present today and underwent meeting with hospital pyschiatry dept.  Team to connenct pt's primary healthcare team. Please see note for details.
+
+CV: Pt with hx of HTN on verapamil PTA.  NSR HR 60's prior to extubation currently HR 90-107 ST. Pt denies CP. K+ replaced with 40meq IV over 4hr.  Await pm lab results. 
+HCT 28.9 transfuse <26.0.  Ck's trending down. BUN 5 Cr 0.4.
+
+PULM: Extubated at 2:15pm. LS clear diminished bibasilary. Pt conts on face tent with sats 100%.  RR initially in the 30's currently 20-26. Breathing appears shallow.  Pt denies SOB.
+
+GI: OGT changed to NGT. Await CXR results to verify placement of NGT prior to administering meds. 
+No stool this shift. Pt conts to be NPO. d51/2NS infusing at 100cc/hr. Abd soft NT with hypoactive BS.  LFT's trending down.     
+
+GU: Foley cath patent draining cyu.  +2990 LOS. 
+
+ID: t max 99.4 R. Cultures pending. 
+
+SKIN: Very dry and flaky. No breakdown noted.
+
+LINES: 2 PIV.
+
+PROPH: Protonix IV and pneumoboots.
+
+DISPO: Full Code
+
+SOCIAL: Family at bedside.  
+
+A: extubated tolerating face tent. 
+   admitting to SA.
+   Restless. 
+P: 1:1 sitter. Follow resp status. 
+   Await verification of CXR for NGT placement.
+   Keep NPO.  Maintain safety precautions.     
+",,
+5766,21422,7173,0,2503-09-07 05:08:00 EST,2503-09-07 05:33:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P OVERDOSE.","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P OVERDOSE.
+
+S-  GESTURING FOR WATER, ASKING FOR BEDPAN
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT REMAINS HEMODYNAMICALLY STABLE- HR- 90-70 SR/ST; BP- 140-160 - OFF ALL ANTIHTN CURRENTLY- ?RESUME.
+
+EVE LABS SENT- APPEAR TO BE WNL.
+
+RESP- PT WITH 30% FACE TENT ON- 100% SAT /
+APPEARING COMFORTABLE S/P EXTUBATION.
+RHONCHI/SOME DIMINSIHED AT BASES- LUNG SOUNDS.
+
+ID- AFEBRILE- 
+
+GU- GREAT DIURESIS- 200'HOUR SINCE LAST EVE.
+CHECKING STAT LYTES AGAIN THIS AM.
+
+GI- NEW FEEDING TUBE INSERTED- CXR (+) FOR GOOD PLACEMENT.
+GIVING MEDS- MUCOMYST AS ORDERED.
+NO STOOL AS OF THIS EVE.
+
+MS- PT SOMEWHAT ALERT, YET LETHARGIC- EASILY AWAKENED- 
+COMPLIANT WITH TURNING, ASSISTING-
+ASKED APPROPRIATELY FOR BEDPAN X 1-2 TIMES.
+WRIST RESTRAINTS BILATERALLY AND SITTER 1:1.
+
+SOCIAL- NEPHEW [**Name (NI) **] CALLED AND SPOKE AT LENGTH OVER DESIRE TO BE PART OF ALL DISCUSSIONS RE: PLAN OF CARE, AS HE IS THE HEALTH CARE PROXY, NOT THE HUSBAND AND ONE OTHER SON.REFERED TO DR [**First Name (STitle) 1139**]/MICU RESIDENT TO SPEAK WITH AND CLARIFY PT REPORTED WISHES FOR DNR.
+
+A/P- PT S/P OVERDOSE- CURRENTLY TOLERATING EXTUBATION.
+
+CONTINUE MUCOMYST AS ORDERED FOR DRUG OVERDOSE.
+CONTINUE TO CLOSELY ASSESS RESP STATUS/MENTAL STATUS-
+SITTER/SAFETY ISSUES.
+INCREASE ACTIVITY AS MENTAL STATUS IMPROVED.
+FAMILY MEETING WITH ATTNENDING TODAY TO CLARIFY PLAN OF CARE/PT DNR WISHES ETC.
+",,
+5766,21422,7173,0,2503-09-07 10:49:00 EST,2503-09-07 11:14:00 EST,351,"N",1,"Nursing/Other",,"
+
+CCU NURSING TRANSFER NOTE
+
+73 YO FEMALE WITH PMH AFIB, COPD, HYPOTHROID, AND BIPOLAR DISORDER ADMITTED TO [**Hospital1 22**] [**9-4**] AFTER BEING FOUND BY HUSBAND  UNRESPONSIVE AT HOME. HUSBAND FOUND EMPTY PILL BOTTLES OF VICODIN, LITHIUM, PAXIL, NARDIL (MAO-I), PREDNISONE, A JUICE BOTTLE FULL OF WHITE WINE AND ANOTHER EMPTY BOTTLE WITH CLEAR LIQUID (? PAINT THINNER) PT INTUBATED IN ED FOR AIRWAY PROTECTION. PT PARALYZED FOR RIGIDITY AND ? SEROTONIN SYNDROME. ADMITTED TO CCU (MICU BORDER). SUCCESSFULLY EXTUBATED [**9-6**].
+HEMODYNAMICALLY STABLE FOR TRANSFER TO FLOOR.
+
+NEURO: ALERT/LETHARGIC, EASILY AROUSABLE. ORIENTED TO NAME AND PLACE. COOPERATIVE AND FOLLOWING COMMANDS APPROPRIATELY. BILAT WRIST RESTRAINTS DC'D THIS AM, PT NOT PULLING AT TUBES. 1:1 SITTER PRESENT AT ALL TIMES.
+
+CV: HR 70-90'S SR. FREQ PVC'S AND PAB'S NOTED. BP 140-160/60'S. NO CV MEDS OREDERED.
+
+PULM: LS CLEAR, DIMISHED AT BASES. ENCOURAGED PT TO TAKE DEEP BREATHS. O2 SATS 100% ON 3LNC. WILL C/O SOB WHEN ASKED, RR 16-20, NO APPARENT DISTRESS, NO FURTHER C/O IF NOT INITIATED.
+
+GI/GU: ABD SOFT, +BS. LG STOOL THIS AM. NGT INTACT, TO BE DC'D ONCE MUCOMYST DOSES FINISHED. TOLERATING PO'S WELL. TYRAMINE FREE DIET. FOLEY DRAINING >300CC/HR CLEAR YELLOW URINE, TO BE DC'D THIS AFTERNOON.
+
+SOCIAL: NEPHEW IS HEALTH CARE PROXY. SON, HUSBAND AND NEPHEW INVOLVED IN CARE. ? PT WISHES TO BE DNR. FULL CODE AT PRESENT.
+
+ID: AFEBRILE. WBC NORMAL. NO ABX.
+
+ACCESS: PIV X1
+
+LABS: K 3.6 REPLETED 40 KCL. MG 1.7 REPLETED 2GMS TODAY, IVF DC'D THIS AM.
+
+PLAN: HEMODYNAMICALLY STABLE FOR TRANSFER TO MEDICAL FLOOR. COMMUNICATION WITH FAMILY. MONITOR LYTES AND PULM STATUS. CONT 1:1 OBSERVATION FOR SAFETY.
+",,
+5766,22262,7174,0,2504-09-29 16:52:00 EST,2504-09-29 17:15:00 EST,-1,"N",53,"Nursing/Other","ADMISSION NOTE","
+ADMISSION NOTE
+PATIENT POD 8 ILIEO-COLONIC INTUSSEEPTION SUFFERED MELANIC STOOL WITH LARGE HCT DROP, EVOLVING HYPOTENSIVE STATE.  TRANSFERED TO TSICU FOR FLUID RESUSITATION AND CLOSER HEMODYNAMIC MONITORING.
+
+PMH:CAD, COPD, CVA, MI, HYPOTHYROIDISM, BIPOLAR DISORDER WITH MULTIPLE PSYCH HOSPITALIZATIONS
+PSH:CHOLECYSTECTOMY.  
+
+ROS:
+
+NEURO- CONFUSED/COMBATIVE. PUPILS 4MM/BSK. COUGH GAG INTACT. MAE.
+
+CV:110-120 AFIB AMNIO GTT PND LINE PLACEMENT. BP INITALLY 80/40. 4UNITS PRBC 500CC LR BOLUS BP-> 130/80'S.
+RUNNING CPK'S MB TROPONIN.
+
+RESP: LUNG SOUNDS CLEAR DIMINSHED AT BASES SATS 100% 5LNC. MDI'S.
+
+GI: ABD SOFT/OBESE. BOWEL SOUNDS PRESENT. NPO. +FLATUS. HAD BEDSIDE ENDOSCOPY TO POTENTIALLY INDENTIFY SOURCE OF BLEED.-> UNREMARKABLE
+
+GU: FOLEY PLACED U/O 300CC CLEAR YELLOW URINE.
+
+ID: TMAX 97.6 NO IVAB COVERAGE.
+
+SKIN: RLQ INCISION INTACT WITH STERI STRIPS WITHOUT DRAINAGE.
+OTHERWISE SKIN GROSSLY INTACT WITHOUT SIGNS AND SYMPTOMS OF BREAKDOWN.
+
+HEME: HCT 18 INR 1.3 -> CURRENTLY UNDEGOIING FLUID RESUS WITH PRBC/IVF. CONT TO FOLLOW.
+
+ENDO: SSRI FOR ESCALATING GLUCOSE LEVELS;
+
+TLD: TRAUAM CORDIS PLACED LEFT SC.  RIGHT RADIAL ALINE PLACED. FOLEY.
+
+SOCIAL: LIVES IN [**Hospital1 1140**] WITH HUSBAND. HAS SUPPORTIVE CHILDREN.  HAD SCREEN AND ACCEPTION AT [**Hospital1 14**]. SOCIAL WORK AND CASEMANAGEMENT FOLLOWING. PSYCH ALSO FOLLOW HAS LARGE COMPLEX HX
+
+A/P: PLAN TO CONTINUE CLOSE HD MONITORING PLAN TO START AMNIO GTT FOLLOW HCTS/CPK'S.
+
+
+",,
+5766,22262,7174,0,2504-09-29 23:02:00 EST,2504-09-29 23:16:00 EST,3246,"N",53,"Nursing/Other","Nsg Note-","
+Nsg Note-
+Brief ROS:
+Neuro- Pt. is MAE. She is cooperative and has been calm this shift. She occ wakes up from naps sl confused, trying to get out of bed. She quickly follows commands when spoken to and re-oriented. PERL, 3-4mm. 
+
+CV- SBP has been stable this shift with a slight elevation in her diastolic BP(80's - 90's), HO aware and we will monitor. HR remains rapid, 115 in an A fib. Started her po dose of amioderone this evening. Skin warm and dry. Scant periph edema, palpable periph pulses. EKG done. IVF presently up to 60cc/hr(low u/o). She had been dropped to a KVO with earlier bld products and HO auscultated some crackles. Serial hcts in progress, improved after bld products. Awaiting FFP, has had melana x 2.
+
+Resp- NC at 4L with gd sats. Breath sounds sound reletively clear at present. No SOB or dyspnea.
+
+GI- Melana x 2 this evening. Abd soft and sl distended. NPO. 
+
+GU- Decreasing u/o this evening, will see if there is any improvement with 60cc/hr of fluid, she'll also be recieving FFP when available. Foley replaced this evening after earlier one fell out. 
+
+Integ- Skin is intact. Pale and fragile in appearance.
+
+A: Stable at present. Hct wasimproved after earlier transfusions. Hct pending. Sl benign confusion. Melana x 2.
+
+P: Monitor hct. Give bld products as needed.
+",,
+5766,22262,7174,0,2504-09-30 07:35:00 EST,2504-09-30 08:11:00 EST,-1,"N",53,"Nursing/Other",,"
+
+T/SICU NPN 23:00->07:00:
+
+REVIEW OF SYSTEMS:
+
+S/O: ""I TOLD [**Doctor First Name **] ALREADY. . . SCRAM!!!""
+
+NEURO: PT SOMNOLENT OVER NOC ->AROUSES W/VERBAL STIMULI, OCCASIONAL TACTILE STIMULI REQUIRED TO GET PT RESPONSE. CONFUSED/AGITATED WHEN WAKING - COMBATIVE AT TIMES, SEMI-EASILY REORIENTED-A&O X2. MAE'S - PERRLA 3MM/BRISK. SOFT WRIST RESTRAINTS ON FOR PT SAFETY->PT TRIES TO GET OOB INDEPENDENTLY.
+
+CV: HR A-FIB 110-120'S - PO AMIODARONE GIVEN, RARE ECTOPY NOTED ON TELEMETRY. HYPOTENSIVE OVER NOC - REQUIRED 500CC NS BOLUS X3 FOR SBP 70-90'S W/ FAIR RESPONSE - TRANFUSED 2U FFP AND 2U PRBC'S W/ BETTER RESPONSE - SBP 110-120'S. PULSES PALPABLE - PB'S ON FOR DVT PROPHYLAXIS. CK'S/TRIPONIN CYCLED->FLAT. CA+ REPLETED.
+
+HEME: HCT 29.6(32.3) - AWAITING POST TRANSFUSION HCT RESULTS. INR 1.3(1.5).
+
+RESP: LUNG SOUNDS CLEAR IN UPPER FIELDS, DIMINISHED @B/L BASES W/OCCSAIONAL EXP WHEEZE - RT FLLOWING FOR NEB TX'S W/(+)EFFECT. SATS 96-99% ON 2L O2 VIA NC. RR 20'S. ABG 7.31-63-173-33-3: HO & ATTDING AWARE. DENIES DOE/SOB.
+
+GI: NPO EXEPT MEDS. ABD SOFTLY DISTENDED - APPROPRIATELY TENDER @ RLQ INCISION SITE. NPO W/ IVF HYDRATION: LR@80CC/HR. DENIES N/V. BS(+), NO BM/RF NOTED.
+
+GU: U/O SCANT AY START OF SHIFT 10-15CC/HR - BOLUS GIVEN W/EFFECT. HOURLY AVG 40CC, CLEAR/YELLOW/CONCENTRATED. FOLEY CATHETER INTACT.
+
+ENDO: GLUCOSE LEVELS <110 - NO SSRI COVERAGE REQUIRED.
+
+ID: AFEBRILE. WBC'S 13.5(9.6). NO ABX ORDERED.
+
+SKIN: ABD INCISION TO RLQ WELL APPROXIMATED - STERI STRIPS SECURELY IN PLACE. C/D/I-OTA. BACK/BUTTOCKS INTACT.
+
+SOCIAL: NO FAMILY CONTACT OVER NOC.
+
+A/P: AFEBRILE - LABILE HEMODYNAMICS - IMPAIRED RESP STATUS. CONTINUE PER PLAN OF CARE - MONITOR SYSTEMS/LABS FOR CHANGES - MONITOR HCT/BP'S CLOSELY. REPLETE LYTES AS NEEDED. PULMONARY HYGEINE/PAIN MGT. MEDS AS ODERED. COMFORT/SUPPORT.
+",,
+5766,22262,7174,0,2504-09-30 14:40:00 EST,2504-09-30 15:12:00 EST,-1,"N",53,"Nursing/Other",,"
+
+T-SICU Nursing Transfer and Progress Note 7a-3p
+
+Very stable day w/o evidence of GI bleeding.  More coherent although still sl. confused.  R/o MI by enzymes. Day #8 p-op
+
+Neuro- A&O x1; smtms confused to place, knows she is in hospital but not correct one, not oriented to time,date or current events; MAE, FC; Pleasantly confused today,but not combative as was overnight. 
+
+Resp- 1lNP, sat 92-96 % w/long hx COPD, BS clear upper, exp wheezes lower.  Alb/atr q3-4h, flovent bid.
+
+CV- Afib 90-120's no VEA; BP stable all day100-126/70's. One episode of SBP 88/ while asleep this am. No other episodes. r/o MI by [**Last Name (un) 1141**]/trop.  K+4.6 IVF LR@ 60/hr, stopped @ 12 for line change of 3lumen from trauma cordis @LSC. Restarted in L arm IV +LR 60/hr.  u/o 40-80 cc/hr. CXRY pending for placement.
+
+GI- REmains NPO, no stool, min flatus. HCT 34.2 @ 8am. +BS, soft-very sl distended, no pain to palp x @ inc site.. Inc site w/ steri stp, D&I, no ery, no d/c- tender to palp locally only.
+TPN to start this evening. IV site saved, see below.
+
+ID- afebrile, no antibiotics.
+
+Lines- 3lumen placed @12 noon- cxry done, final read pending for use. Aline @ R; L arm IV inplace. Foley inplace.
+
+Skin- Intact, no breakdown.
+Social- comes from home, lives w/ husband.  Hsbnd visited this afternoon, now has returned home.
+A/P- 
+GI--GI Bld Day #8 s/p colon surgery for intusception from Adenoca involving pancreas and small bowel. Endoscopy [**9-29**] unremarkable. Hemodyn stable all day, hct 34, +flatus, no stool, non tender. Monitor Hct and GI status.  Plan- Oozing> GI consult for scope; briskly bldg> angiography.
+CV- Stable- r/o'd MI by [**Last Name (un) 1141**]; good u/o.
+REsp-1L NP sat tempermental w/ plcmnt,finger, toe, scalp.
+
+
+
+
+
+",,
+5766,22262,7174,0,2504-09-30 16:24:00 EST,2504-09-30 16:25:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Transferred to SICU in stable condition. See previous note for review of systems.  Remains pleasantly confused but cooperative.
+Plan: ? Transfer to floor tomorrow.
+",,
+5766,22262,7174,0,2504-10-01 03:29:00 EST,2504-10-01 03:33:00 EST,3423,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+   CONTINUES CONFUSED BUT NOT ALWAYS PLEASANTLY. COMBATIVE AT TIMES IS UNAWARE OF SURROUNDIGS FROM TIME TO TIME. ORIENTED TO HERSELF ANF HOSPITAL BUT UNSURE OF DATE/YEAR.
+   TOLERATING SIPS OF CLEARS. GOOD U/O. FLATUS BUT NO STOOL. 
+  PLAN MAY INCLUDE TRANSFER TO THE FLOOR TODAY.
+    CONTINUE TO MONITOR ALL PARAMETERS
+",,

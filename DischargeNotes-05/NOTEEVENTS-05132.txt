@@ -1,0 +1,287 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5132,33331,,,2574-06-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2574-6-10**]              Discharge Date:   [**2574-6-10**]
+ 
+Date of Birth:  [**2474-3-15**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Nsaids
+ 
+Attending:[**Last Name (NamePattern4) 597**] 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+[**Age over 90 **] y.o. woman with unclear PMH, notable for 
+transfusion-dependent anemia and HTN noted two weeks of 
+increasing non-productive cough and accompanying shortness of 
+breath.  Patient says that the cough would come on for 2-3 days, 
+then resolve for 2-3 days, then return.  The SOB was only 
+associated with the cough and pt says on days when she didn't 
+have her cough she wasn't SOB.  Denies any sniffling, runny 
+nose, or objective fevers.  She does say she has had some 
+mild-moderate diaphoresis x 2 weeks, at first only with the 
+cough and now every night.  About 1 week ago she began to 
+experience fecal incontinence with the cough, which she says is 
+new for her.  Denies any past hx of urinary or fecal 
+incontinence.  Also reports  a burning sensation while urinating 
+and while defecating, which is also new.  No 
+hematuria/melana/BRBPR. + abdominal pain localized to ""a hard 
+spot"" in her lower R quadrant.  Denies nausea or vomiting.   
+Patient became concerned about her continuing SOB and called an 
+ambulance.  She was taken to [**Hospital 1863**] hospital where she was found 
+to be hyperkalemia and to have a UTI.  She was treated with 
+kayexalate and levaquin and transferred to [**Hospital1 83**].
+
+Of note, patient is an extremely poor historian who knows few 
+details about her medical history, the medications she's on, and 
+gave me multiple timelines and conflicting stories about her 
+symptoms.  Her confusion is relatively subtle but became very 
+apparent during our interview.
+ 
+Past Medical History:
+anemia (transfusion dependent)
+UTI (pt denies)
+HTN (pt denies)
+SOB (pt denies)
+COPD (pt denies)
+COPD (pt denies)
+breast CA, s/p L mastectomy
+s/p appendectomy
+G7P0, s/p tubal ligation
+ 
+Social History:
+Social Hx: Widow x 2; no children; next of [**Doctor First Name **] is her niece 
+[**Doctor First Name **], who lives in [**State 3599**] ([**Telephone/Fax (1) 5877**]) Smoked a pack per 
+week x 25 years but quit 50 years ago; 1 glass of wine with 
+dinner; no other drugs 
+.
+
+ 
+Family History:
+Family Hx: NC
+ 
+Physical Exam:
+VS: T: HR: 81 BP: 151/61 RR: 18 O2 sat: 99% on 2 L
+HEENT: OP clear, MM pale and dry, neck supple
+CV: RRR, no m/r/g
+CHEST: CTAB on anterior exam
+ABD: obese, firm, TTP in distal RLQ, otherwise NT, hyperactive 
+bowel sounds
+EXT: no c/c/e BL, warm, +2 distal pulses
+NEURO: alert and oriented to person, location, and year
+ 
+Pertinent Results:
+[**2574-6-10**] 12:05AM   GLUCOSE-107* UREA N-57* CREAT-2.3* SODIUM-138 
+POTASSIUM-5.3* CHLORIDE-109* TOTAL CO2-16* ANION GAP-18
+[**2574-6-10**] 05:01AM   GLUCOSE-114* UREA N-51* CREAT-2.1* SODIUM-141 
+POTASSIUM-4.8 CHLORIDE-113* TOTAL CO2-17* ANION GAP-16
+[**2574-6-10**] 05:02AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-MOD
+[**2574-6-10**] 05:01AM   WBC-9.2 RBC-2.22* HGB-7.6* HCT-23.5* MCV-106* 
+MCH-34.4* MCHC-32.6 RDW-21.2*
+
+Urine Cx pending at time of dictation:
+
+LENI: No DVT
+ 
+Brief Hospital Course:
+[**Age over 90 **] y.o. woman with transfusion-dependent anemia and HTN 
+presents with two week history of intermittent SOB and worsening 
+cough, found to have anemia, ARF and Hyperkalemia.
+.
+#SOB/cough: CXR was neg for PNA and remained without 
+leukocytosis nor fever while admitted.  Patient was resumed on 
+her COPD regiment with good effect and resolution in her 
+symptoms. Cardiac enzymes were neg. for ACS. A LENI was neg for 
+DVT and EKG was without evidence of right heart strain.
+
+# Hyperkalemia: K+ on admission was 5.3. Lisinopril was held and 
+patient received 1 dose of Kayexalate. EKG was without peaked 
+TW's. Repeat am K+ was 4.8. Patient instructed to hold 
+lisinopril until PCP checks Chem 7 in on Tuesday.
+
+#UTI: UA + at OSH and on repeat here. Was started on Levaquin 
+for a 7 day course.
+.
+#ARF: Baseline Crea 1.7-1.9; Current elevation of 2.3 felt 
+secondary to UTI and volume depletion. Repeat Cr after 2 units 
+of P RBC's returned cr to 2.0. He was asked patient to hold her 
+lisinopril and lasix until she follows up with her PCP [**Last Name (NamePattern4) **] 1 week 
+for repeat Chem7 check.
+
+.
+#Fecal incontinence: Initially seemed to be associated only with 
+coughing but then patient said that she'd been having difficulty 
+with fecal incontinence x 1 month.  Described as ""having no 
+warning"" before a BM.  D[**MD Number 3604**] have any occurrence while 
+admitted. Instructed to f/u with PCP if symptoms return. Resumed 
+outpatient colace and senna.
+.
+#Anemia: Patient has history of transfusion dependent anemia.  
+Baseline HCT is 30 but has been as low as 21.  Guaiac (-) in the 
+ED.  Was given 2 units of P RBC's without complications and d/c 
+HCT was 30. Will follow up with PCP [**Last Name (NamePattern4) **] 1 week to have HCT 
+checked.
+.
+# CODE: DNR, DNI per patient
+.
+Patient discharged to home at Foxhill Village.
+
+ 
+Medications on Admission:
+Advair
+ASA
+citalopram
+combivent
+duonebs PRN
+cyanocobalamin
+iron
+lasix
+lidoderm
+lisinopril
+omeprazole
+docusate
+senna
+seroquel
+robitussin
+tylenol
+MVI
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+3. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical  QD () as needed for 
+back pain.  
+4. Advair Diskus  Inhalation
+5. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-20**] 
+Puffs Inhalation Q6H (every 6 hours) as needed for shortness of 
+breath or wheezing.  
+6. Omeprazole  Oral
+7. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+8. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO once a day 
+for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+9. Colace and Senna
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transfusion dependent anemia
+Acute renal failure
+Hyperkalemia
+
+ 
+Discharge Condition:
+To [**Doctor Last Name 3560**] [**Doctor Last Name **] Village in stable conditions.
+
+ 
+Discharge Instructions:
+Please do not take your lisinopril or your lasix (water pill) 
+until [**Doctor First Name **] follow up with your PCP. [**Name10 (NameIs) 10**] may resume all of your 
+other prior medications.
+
+Please call your PCP or go to the ED if [**Doctor First Name **] experience any chest 
+pain, shortness of breath or any worsening of your symptoms.
+ 
+Followup Instructions:
+Please call your PCP and arrange an appointment in 1 week. 
+Again, do NOT take your lisinopril or lasix (water pill) until 
+[**Doctor First Name **] see your PCP nad have your blood checked.
+
+ 
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 364**] [**Name8 (MD) **] MD [**MD Number 361**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2859**] MD [**MD Number 2860**] [**2574-6-10**] @ 1523
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 364**] [**Doctor Last Name **]
+ on: WED [**2574-6-22**] 9:32 AM
+(End of Report)
+
+
+",,
+5132,33331,,,2574-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-6-10**] 1:35 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8494**]
+     Reason: r/o chf                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with sob                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o chf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with shortness of breath.
+     
+     COMPARISON:  None.
+     
+     PA AND LATERAL CHEST RADIOGRAPH
+     
+     Cardiac and mediastinal contours appear unremarkable.  Slight bulge
+     of aortic contour possibly represents tortuous aorta vs. aneurysmal
+     dilations.  Pulmonary vascularity appears within normal limits. No focal
+     consolidations are seen within the lungs. Rounded calcific densities seen in
+     the right lower lung likely represents granulomas. There is mild loss of
+     height in the mid thoracic vertebral bodies.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary process.
+
+",,
+5132,33331,,,2574-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-6-10**] 11:24 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 8495**]
+     Reason: ?DVT                                                        
+     Admitting Diagnosis: ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with SOB, asymmetrical swelling in her legs                  
+     REASON FOR THIS EXAMINATION:
+      ?DVT                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with shortness of breath, right leg swelling.
+     
+     UNILATERAL LOWER EXTREMITY VEINS, RIGHT:  The right common femoral,
+     superficial femoral, and popliteal veins demonstrate normal compressibility,
+     patency, color flow, and pulsed Doppler waveform, respiratory variation, and
+     augmentation.  No intraluminal thrombus is identified.  The left common
+     femoral vein also demonstrates normal patency, compressibility, color flow,
+     respiratory variation, and augmentation.
+     
+     IMPRESSION:  No evidence for deep vein thrombosis.
+                                                                           
+
+",,
+5132,,6370,0,2574-06-10 04:27:00 EST,2574-06-10 04:52:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900 -0700
+
+NEURO: ALERT AND ORIENTED X2, REPEATS HERSELF , IS NOTED TO HAVE MILD DEMENTIA.HAS PRIVATE DUTY CAREGIVER [**Last Name (Titles) **].
+
+RESP: 2L NC LCTA.
+
+C/V: SR NO ECTOPY, BP STABLE.
+
+F/E/N:UO ~ 30-50CC HR, RENAL DIET, AM LYTES PENDING .INCT OF 2 SM STOOLS.
+
+PLAN:TRANSFUSE 1 UNIT PRBC.MONITOR HEMODYNAMICS. 
+",,

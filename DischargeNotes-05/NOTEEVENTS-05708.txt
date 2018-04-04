@@ -1,0 +1,113 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5708,7261,,,2650-09-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2650-9-30**]     Discharge Date: [**2650-10-1**]
+
+Date of Birth:   [**2560-8-31**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a [**Age over 90 **]-year-old female
+who fell from standing at approximately 4:45 on the afternoon
+of [**2650-9-30**].  Patient did experience loss of consciousness.
+No seizure activity was noted.
+
+PAST MEDICAL HISTORY:
+1. Prostate cancer.
+2. Left total hip replacement.
+3. History of falls.
+
+ALLERGIES:  No known drug allergies.
+
+EXAM:  Right orbital ecchymosis.  Pupils fixed and dilated
+and nonreactive.  Cervical spine:  No stepoffs, C collar in
+place, no bruits, no JVD.  Chest was clear to auscultation
+bilaterally, equal breath sounds.  Abdomen is soft,
+nontender, nondistended, no masses.  Pelvis:  No instability.
+Perineum and rectal:  No bruising, no tone, and guaiac
+positive.  Foley in place.  Extremities:  2+ radial and
+femoral pulses.  No deformity.  Neurologic:  No gag, no
+corneal, and no spontaneous movement.  Back and spine:  No
+stepoffs.  [**Location (un) 138**] coma score 3.
+
+Chest x-ray showed no pneumothorax or effusions.
+
+CT of the head showed a large right subdural hematoma with
+midline shift.
+
+The patient was admitted to the Intensive Care Unit.  Patient
+was already intubated at the time of transfer.  Patient's
+family was contacted regarding the patient's status and lack
+of possibility of recovery.  Decided not to go forward with
+any further extraordinary measures.  Patient died
+subsequently on [**2650-10-1**] at 5:04 a.m.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 397**], M.D.
+
+Dictated By:[**Last Name (NamePattern4) 6972**]
+
+MEDQUIST36
+
+D:  [**2650-10-1**]  06:02
+T:  [**2650-10-3**]  05:03
+JOB#:  [**Job Number 6973**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**2650-10-18**] 5:39 PM
+(End of Report)
+
+
+",,
+5708,7261,,,2650-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2650-9-30**] 7:19 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 13346**]
+     Reason: trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     CHEST X-RAY, PORTABLE AP:  Limited film secondary to overlying trauma board.
+     An endotracheal tube is identified with tip approximately 4 cm above the
+     carina.  The mediastinum is not widened.  Hazy opacity is appreciated at both
+     lung apices, raising the suspicion of bilateral layering effusions.  No
+     pneumothorax is seen.  There is a nasogastric tube with tip immediately below
+     the level of the diaphragm.  No identifiable fractures.
+     
+     PELVIS, SINGLE VIEW:  Limited view of the pelvis secondary to overlying trauma
+     board.  The extreme left hemipelvis and superior pelvis are not included on
+     the film.  The patient has a right hip prosthesis.  No acute fractures are
+     identified.  The bones are diffusely osteopenic.
+
+",,
+5708,7261,7095,0,2650-09-30 21:15:00 EST,2650-09-30 21:30:00 EST,3063,"N",53,"Nursing/Other","T-SICU Nsg admit note","
+T-SICU Nsg admit note
+   Pt was found on floor of grocery store, R facial trauma, incontinent, combative.  During transfer to [**Hospital 936**] Hospital, pt decompensated, intubated.  CT shows large subdural hematoma with midline shift.  Transfered to [**Hospital1 22**].  In EW, pupils fixed & dilated, no spontaneous movement nor respiration.  Transfered to T-SICU and enroute, had spont resp & cough.
+    Currently, pupils remain 6mm and non-reactive.  MOving R arm & R leg spont on bed, does not appear purposeful.   Withdraws both feet to touch.  Has spont resp and cough.  Does not open eyes.
+   ROS - CV - NSR to sinus brady with pauses, some junctional escape beats.  Initially hypertensive to 195 sys, Nitroglycerin started, but quickly weaned off.  Sys BP 130's.
+   Resp - coarse breath sounds, on IMV 12, taking spont breaths.  Positive cough and has gag, though impaired.  suctioned for mod amt blood tinged sputum.  O2 sats 97-98% on 100% FIO2.
+   GU - adequate u/o via foley.
+  GI - abd soft, flat, no bowel sounds.  OG tube to low constant suction with pink to coffed grounds drainage.
+   Skin - has edematous, echymotic R eye.  Wearing ""Pur-fit"" cervical collar.
+  Social - Pt'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 937**], [**First Name8 (NamePattern2) 938**] [**Last Name (NamePattern1) 939**] called about 2215, having just found out that pt had fallen, and had a large bleed in his head and grave prognosis.  [**Doctor First Name 938**] will call pt's other daughter and come in to see pt.  [**Doctor First Name 940**] # ([**Telephone/Fax (1) 941**] cell ([**Telephone/Fax (1) 942**].
+A: pt with spont respirations, cough and limb movement.  Pupils non-reactive.
+P: Neuro-[**Doctor First Name 4**] team to re-evaluate.  Pt's daughters on way to hospital.
+   
+",,
+5708,,7095,0,2650-10-01 04:19:00 EST,2650-10-01 04:30:00 EST,4190,"N",53,"Nursing/Other",,"
+
+Daughters were notified/arrived to TSICU 2330, pt was made a DNR at that time and daughters updated by Neuro team/trauma team that pts prognosis was poor. Per pts wishes communicated by the daughters At 0200 daughters collectively decided to make pt comfort measures only and to withdraw ventilatory support, daughters stated that father did not want to be on any machines. Questions were answered by this RN and by Dr.[**Last Name (STitle) **]. Morphine gtt started for comfort. 
+
+Neuro status remained unchanged from previous exam, pupils fixed and dilated/ pt had - corneals, + cough, -gag, + shallow respirations, non purposeful spontaneous movement, does not follow commands, proceeded to no movement/respiratory cessation 0504. Dr. [**Last Name (STitle) **] notified and at bed side.
+
+Social: Questions answered and support provided to daughters by this RN and multiple MDS. Clinical advisor called to retrieve pts valuables, all belongings sent home with family.
+
+
+",,

@@ -1,0 +1,69 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5632,21885,,,3496-08-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3496-8-29**]     Discharge Date:  [**3496-9-1**]
+
+Date of Birth:   [**3410-7-2**]     Sex:  F
+
+Service:  MED-[**Hospital1 720**]
+
+ADDENDUM:  On discharge medications, please remove or delete
+the Lasix 40 mg per G-tube q PM daily and then please add
+supplemental oxygen titrate to room air.
+
+
+
+                          DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-664
+
+Dictated By:[**Last Name (NamePattern1) 2763**]
+
+MEDQUIST36
+
+D:  [**3496-9-1**]  08:15
+T:  [**3496-9-1**]  10:22
+JOB#:  [**Job Number 6857**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3496-10-19**] 3:42 PM
+(End of Report)
+
+
+",,
+5632,21885,7000,0,3496-08-29 04:40:00 EST,3496-08-29 04:59:00 EST,2108,"N",69,"Nursing/Other","p-micu nursing admission note","
+p-micu nursing admission note
+pt is a 86 yo nh resident admitted tonight for sob/hypoxia. 
+pmh: chf, htn, afib--on coumadin at home, s/p gtube placement for mult asp pneumonias. 
+pt w/co sob after going to the bathroom this afternoon. reportedly spiked fever to 102 at the nh, she was given tylenol and sent to [**Hospital1 **]. sats 68% on ra. bp 200/96. emt's gave 80 lasix for ?chf. ~150cc urine out. started on bipap and 
+admitted to the micu for further w/u.
+
+ros
+
+neuro: intact, moves all extremeties. alert and oriented.
+cv: hr 60-80's sinus occ pac's noted. k 3.8. bp mid 90's-100sys. 
+resp: pt admitted on 6l nasal cannula. sats 94-95%. rr 20-24. ls exp wheezes/crackles at the bases. to be put back on bipap if deteriorates. sputum spec sent for gm stain.
+gi: g tube intact. abd soft/distended, non tender.
+gu: foley draining sm amts cl yellow urine. sent for ua c+s.
+id: wbc 19.4. temp 98.9 po. received clinda in the er also levofloxacin for r sided infiltrate.
+heme: ptt 50.3, inr 8.7. to repeat labs, also send d dimer/fibrinogen.
+social: pt lives at [**Location **], has mult family members. children, grandchildren. dr. [**First Name (STitle) **] to call family this am to inform of admission. patient is a dnr/dni per her wishes.
+
+",,
+5632,21885,7000,0,3496-08-29 12:04:00 EST,3496-08-29 12:20:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress,transfer
+mrs [**Last Name (STitle) **] was admitted to the micu early this am,please see her admit note for PMH,allergies,HPI
+reveiw of systems
+CV-vs have been stable with hr 52 when asleep to 83 when coughing, has been in NSR with some PACs.bp has been 100-111/.Enalapril was held this am.received amiodarone as ordered.no c/o chest pain.
+RESP-lungs sound much improved.her o2 has been weaned to 3 litres nasal cannula. resp rate has been 20-25. sats 93-95%.pt able to do inhalers with minimal guidance.team reports improved cxr.
+ID-low grade temp 99-99.8 po. wbc=14.2 down from 19.2 with a left shift.on iv clindamycin and po levoquin.
+GI-has positive bowel sounds.G-tube intact.pt is npo.on protonix.all po meds given by g-tube.
+F/E-has maintainence ivf infusing.voiding via foley catheter in sufficient quantities.please see labs as per carevue. the hemolyzed K+ was redrawn 12n.
+HEME-redrawn INR=2.3.stable hct.
+NEURO-a+o x 3.very pleasant and cooperative.
+IV access-has 2 heplocks in place.
+SOCIAL-concerned son and daughter in early this am-their siblings live out of town.daughter [**Name (NI) 614**] is the spokesperson(phone #s on front of chart)
+DISPO-pt will return to the nursing home
+
+A-stable, ready for transfer to telemetry floor.
+P-will assess response to antibx,continue to wean o2..
+
+",,

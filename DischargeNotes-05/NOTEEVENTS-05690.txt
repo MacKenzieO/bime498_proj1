@@ -1,0 +1,724 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5690,29483,,,2594-03-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2594-3-28**]              Discharge Date:   [**2594-4-1**]
+ 
+Date of Birth:  [**2512-4-27**]             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 18**] 
+Chief Complaint:
+angina for one day, in back, and anteriorly as well as abd. pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+81 yo male presented to OSH with abd. pain radiating to his 
+back. Also had a fever with temp of 103. He described pain as 
+intermittent,pulsating, and gripping with associated SOB. CT 
+scan at OSH suggestive of intramural hematoma of aorta. 
+Transferred here for further management. 
+ 
+Past Medical History:
+Abd. aortic aneurysm
+HTN
+? bronchitis
+
+PSH: none
+ 
+Social History:
+widowed, lives with son
+quit smoking 3 years ago ( unclear as to amount)
+no ETOH
+ 
+Physical Exam:
+T  97.2  HR  78   SR with freq. PVCs   106/53  RR 18   3L NC sat 
+100%
+awake, uncomfortable, poor historian, but oriented
+neuro grossly non-focal
+RRR, no rub or murmur
+BS clear with scattered wheezes
++ BS, initially firm to palpation associated with pain. but 
+subsequently soft and NT
+extrems warm, knees mottled
+fem 1+ bil., popl. NP, 1+ bil/ DP/PT, 2+ bil. radials
+ 
+Pertinent Results:
+[**2594-3-27**] 11:45PM BLOOD WBC-20.0* RBC-3.13* Hgb-10.0* Hct-28.8* 
+MCV-92 MCH-31.8 MCHC-34.7 RDW-14.2 Plt Ct-118*
+[**2594-3-29**] 04:42AM BLOOD WBC-16.4* RBC-2.68* Hgb-8.6* Hct-24.0* 
+MCV-90 MCH-32.2* MCHC-35.9* RDW-14.4 Plt Ct-92*
+[**2594-3-27**] 11:45PM BLOOD Neuts-62 Bands-25* Lymphs-3* Monos-10 
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2594-3-27**] 11:45PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2594-3-29**] 04:42AM BLOOD Plt Ct-92*
+[**2594-3-27**] 11:45PM BLOOD Glucose-138* UreaN-31* Creat-2.6* Na-139 
+K-3.5 Cl-103 HCO3-22 AnGap-18
+[**2594-3-29**] 04:42AM BLOOD Glucose-153* UreaN-39* Creat-2.4* Na-136 
+K-3.4 Cl-100 HCO3-27 AnGap-12
+[**2594-3-28**] 08:04AM BLOOD ALT-11 AST-24 LD(LDH)-238 AlkPhos-44 
+Amylase-23 TotBili-0.7
+[**2594-3-28**] 08:04AM BLOOD Lipase-8
+[**2594-3-27**] 11:45PM BLOOD CK-MB-5 cTropnT-0.02*
+[**2594-3-28**] 08:04AM BLOOD Calcium-7.6* Phos-2.4* Mg-1.6
+[**2594-3-31**] 05:25AM BLOOD Vanco-12.7
+[**2594-3-27**] 11:51PM BLOOD Lactate-2.8*
+
+RADIOLOGY  Final Report
+
+ESOPHAGUS  [**2594-3-28**] 9:27 AM
+
+ESOPHAGUS
+
+Reason: R/O esophageal perforation, use thin barium 
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+81 year old man with 
+REASON FOR THIS EXAMINATION:
+R/O esophageal perforation, use thin barium 
+HISTORY: 81-year-old male with probable infected aortic 
+hematoma. Evaluate for esophageal perforation.
+
+Comparison is made to prior CT examination dated earlier on same 
+day.
+
+ESOPHAGRAM.
+
+Multiple thin sips of Optiray contrast was administered followed 
+by thin barium. No abnormal extravasation of contrast is noted 
+outside of the esophageal lumen, which displayed normal primary 
+peristaltic contractions and diffuse tertiary contractions. No 
+evidence of hiatal hernia or reflux is noted on this limited 
+exam. Contrast and thin barium was noted to pass freely through 
+the esophagus into the stomach.
+
+IMPRESSION:
+
+No evidence of esophageal perforation.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name4 (NamePattern1) 1999**] [**Last Name (NamePattern1) 5112**]
+DR. [**First Name8 (NamePattern2) 2665**] [**Last Name (NamePattern1) 2666**]
+Approved: FRI [**2594-3-28**] 2:14 PM
+
+RADIOLOGY  Final Report
+
+CTA CHEST W&W/O C&RECONS, NON-CORONARY  [**2594-3-28**] 12:49 AM
+
+CTA CHEST W&W/O C&RECONS, NON-; CTA ABD W&W/O C & RECONS
+
+Reason: please characterize aorta 
+Field of view: 36 Contrast: VISAPAQUE
+
+UNDERLYING MEDICAL CONDITION:
+81 year old man with known AAA and ? thoracic hematoma 
+REASON FOR THIS EXAMINATION:
+please characterize aorta 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 81-year-old with known AAA and chest pain radiating 
+to the back, evaluate for dissection.
+
+COMPARISONS: None.
+TECHNIQUE: Axial MDCT images of the chest, abdomen, and pelvis 
+with and without 90 cc of nonionic Visipaque contrast. Please 
+note that despite the patient's elevated creatinine of 2.6, the 
+ED and the covering vascular surgery team thought that the study 
+with emergent enough to rule out a type A dissection for which 
+contrast was warranted. The risks and benefits were discussed 
+with the patient prior to the study.
+
+CT VASCULAR: On the non-contrast images, there is an extensive 
+type B aortic intramural hematoma, extending from the takeoff of 
+the left subclavian artery, to just proximal to the celiac axis. 
+There is a tiny linear area of non- enhancement involving the 
+arch distal to the takeoff of the left subclavian, which could 
+represent a very early dissection flap. There is a large 
+penetrating ulcer involving the proxiaml descending thoracic 
+aorta. Additionally, there is a large amount of air within the 
+aortic wall at this level and also at several other locations in 
+the abdominal aorta. Specifically, there is prominent air 
+involving the posterior aortic wall just inferior to the renal 
+artery takeoff. another focus involving the anterior aortic wall 
+just inferior to this. Finally, there is air seen within the 
+proximal right common iliac artery. Note is made of stenosis at 
+the celiac artery origin. The SMA and [**Female First Name (un) 613**] are widely patent.
+
+CTA CHEST WITH IV CONTRAST: There are small bilateral pleural 
+effusions and atelectasis. The heart, pericardium, and great 
+vessels are unremarkable. There is no evidence of hematoma 
+within the mediastinum nor pericardium. There is trace coronary 
+artery calcification. This nongated study does not provide 
+optimal evaluation of the coronary arteries. The pulmonary 
+arteries enhance normally.
+
+CT ABDOMEN WITH IV CONTRAST: Hypodense lesion in segment III of 
+the liver anteriorly, likely a cyst or hemangioma but not fully 
+characterized. Small hyperenhancing lesion in segment VII. There 
+is left-sided intrahepatic biliary ductal dilatation and mild 
+prominence of the extrahepatic common duct. The native kidneys 
+are minimally atrophic. The spleen, pancreas, adrenal glands, 
+stomach, and proximal bowel are unremarkable.
+
+CT PELVIS WITH IV CONTRAST: No acute abnormalities are seen in 
+the pelvis. There are bilateral fat-containing inguinal hernias. 
+Evaluation of the osseous structures demonstrates only diffuse 
+degenerative changes.
+
+MULTIPLANAR REFORMATS: Coronal and sagittal reformatted images 
+confirm the above findings. There is diffuse atherosclerotic 
+disease throughout the abdominal aorta. There is a large 
+infrarenal aortic aneurysm, measuring up to 5 cm in sagittal AP 
+dimension.
+
+IMPRESSION: 
+1) Extensive type B aortic intramural hematoma, extending from 
+the origin of the left subclavian artery to the upper abdominal 
+aorta. No definite aortic dissection, however, there is a tiny 
+linear hypodensity involving the mid aortic arch medially, which 
+may be the very beginning of an aortic dissection flap.
+2) Multiple foci of air within the aortic wall, highly 
+suspicious for multifocal mycotic aneurysms, the most prominent 
+in the proximal descending aorta adjacent to the large 
+pseudoaneurysm/penetrating ulcer, likely the origin of the 
+patient's intramural hematoma.
+3) No colonic lesion or evidence of diverticulitis to account 
+for the aortic wall air, though colonoscopy may be considered 
+after the patient is stabilized.
+4) 5-cm infrarenal aortic abdominal aneurysm.
+5) Moderate left-sided intrahepatic biliary ductal dilatation.
+6) Hyperenhancing segment VII and hypodense segment III hepatic 
+lesions, not fully characterized on this study, the former could 
+be further assessed by MRI.
+
+Findings were discussed immediately after the study with the 
+covering cardiothoracic surgery fellow, Dr. [**Last Name (STitle) 6947**].
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) 246**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6948**]
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5173**]
+Approved: FRI [**2594-3-28**] 3:57 PM
+
+ 
+ 
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+Admitted to CSRU from ER on [**3-28**] early AM and re-scanned 
+urgently. Results showed the infrerenal AAA as well as a Type B 
+intramural hematoma. Also noted were multiple foci of intramural 
+air consistent with a possible mycotic process, and a 
+penetrating ulcer of the thoracic aorta ( please see above 
+results of study). ID consult requested and pt. started on 
+triple antibiotic therapy with blood cultures and RPR sent. 
+Thoracic and vascular surgery also consulted as well as Dr. 
+[**Last Name (STitle) **] from CT surgery. Not a candidate for open repair of TAA 
+per vascular, but endo stent-grafting would be considered if 
+aorta further dilates of symptoms worsened. General surgery also 
+evaluated patient, with no change in plan for abx therapy and BP 
+control. Gram positive rods grew from blood cultures with 
+diagnosis of clostridium aortitis. Barium swallow did not reveal 
+any fistula.
+
+High-risk surgery was discussed with the pt. and his family. 
+They refused surgery and opted for medical therapy. The pt. also 
+declined possible intubation and requested he not be 
+resuscitated. Pt. requested comfort measures only. PICC line 
+placed for continued abx therapy. Transferred to the floor on 
+[**3-29**]. Fentanyl patch and morphine continued for pain/palliative 
+care. BS coarse throughout on [**3-31**] with increasing somnolence. 
+Throughout the night, he became more hypotensive and 
+unresponsive to fluid therapy.
+He did not appear to be in distress. At 5AM, he had cessation of 
+pulse, heart sounds and respirations. He was pronounced expired 
+by Dr. [**First Name8 (NamePattern2) 70**] [**Last Name (NamePattern1) **].
+
+ 
+Medications on Admission:
+HCTZ
+lisinopril
+(doses unknown)
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Mycotic Thoracoabdominal Aneurysm
+HTN
+
+ 
+Discharge Condition:
+expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 27**] MD [**MD Number 28**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1471**] NP[**MD Number 1472**] [**2594-4-1**] @ 0920
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2594-4-1**] 5:38 PM
+(End of Report)
+
+
+",,
+5690,29483,,,2594-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-28**] 9:27 AM
+     ESOPHAGUS                                                       Clip # [**Clip Number (Radiology) 13228**]
+     Reason: R/O esophageal perforation, use thin barium                 
+     Admitting Diagnosis: AORTIC HEMATOMA
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      R/O esophageal perforation, use thin barium                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81-year-old male with probable infected aortic hematoma.  Evaluate
+     for esophageal perforation.
+     
+     Comparison is made to prior CT examination dated earlier on same day.
+     
+     ESOPHAGRAM.
+     
+     Multiple thin sips of Optiray contrast was administered followed by thin
+     barium.  No abnormal extravasation of contrast is noted outside of the
+     esophageal lumen, which displayed normal primary peristaltic contractions and
+     diffuse tertiary contractions.  No evidence of hiatal hernia or reflux is
+     noted on this limited exam.  Contrast and thin barium was noted to pass freely
+     through the esophagus into the stomach.
+     
+     IMPRESSION:
+     
+     No evidence of esophageal perforation.
+                                                                           
+
+",,
+5690,29483,,,2594-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with known AAA and ? thoracic hematoma                          
+     REASON FOR THIS EXAMINATION:
+      please characterize aorta                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb FRI [**2594-3-28**] 1:55 AM
+      Extensive type B aortic intramural hematoma, with a probable very early
+      dissection flap in the arch, not extending proximal the left subclavian. Large
+      penetrating ulcer in descending aorta. Scattered air in the aortic wall of
+      unclear significance but raising the concern for infection.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with known AAA and chest pain radiating to the back,
+     evaluate for dissection.
+     
+     COMPARISONS:  None.
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with and
+     without 90 cc of nonionic Visipaque contrast.  Please note that despite the
+     patient's elevated creatinine of 2.6, the ED and the covering vascular surgery
+     team thought that the study with emergent enough to rule out a type A
+     dissection for which contrast was warranted.  The risks and benefits were
+     discussed with the patient prior to the study.
+     
+     CT VASCULAR:  On the non-contrast images, there is an extensive type B aortic
+     intramural hematoma, extending from the takeoff of the left subclavian artery,
+     to just proximal to the celiac axis. There is a tiny linear area of non-
+     enhancement involving the arch distal to the takeoff of the left subclavian,
+     which could represent a very early dissection flap. There is a large
+     penetrating ulcer involving the proxiaml descending thoracic aorta.
+     Additionally, there is a large amount of air within the aortic wall at this
+     level and also at several other locations in the abdominal aorta.
+     Specifically, there is prominent air involving the posterior aortic wall just
+     inferior to the renal artery takeoff. another focus involving the anterior
+     aortic wall just inferior to this. Finally, there is air seen within the
+     proximal right common iliac artery. Note is made of stenosis at the celiac
+     artery origin. The SMA and [**Female First Name (un) **] are widely patent.
+     
+     CTA CHEST WITH IV CONTRAST:  There are small bilateral pleural effusions and
+     atelectasis.  The heart, pericardium, and great vessels are unremarkable.
+     There is no evidence of hematoma within the mediastinum nor pericardium. There
+     is trace coronary artery calcification.  This nongated study does not provide
+     optimal evaluation of the coronary arteries.  The pulmonary arteries enhance
+     normally.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Hypodense lesion in segment III of the liver
+                                                                 (Over)
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     anteriorly, likely a cyst or hemangioma but not fully characterized. Small
+     hyperenhancing lesion in segment VII. There is left-sided intrahepatic biliary
+     ductal dilatation and mild prominence of the extrahepatic common duct. The
+     native kidneys are minimally atrophic. The spleen, pancreas, adrenal glands,
+     stomach, and proximal bowel are unremarkable.
+     
+     CT PELVIS WITH IV CONTRAST:  No acute abnormalities are seen in the pelvis.
+     There are bilateral fat-containing inguinal hernias.  Evaluation of the
+     osseous structures demonstrates only diffuse degenerative changes.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.  There is diffuse atherosclerotic disease throughout the
+     abdominal aorta.  There is a large infrarenal aortic aneurysm, measuring up to
+     5 cm in sagittal AP dimension.
+     
+     IMPRESSION: 
+     1) Extensive type B aortic intramural hematoma, extending from the origin of
+     the left subclavian artery to the upper abdominal aorta.  No definite aortic
+     dissection, however, there is a tiny linear hypodensity involving the mid
+     aortic arch medially, which may be the very beginning of an aortic dissection
+     flap.
+     2) Multiple foci of air within the aortic wall, highly suspicious for
+     multifocal mycotic aneurysms, the most prominent in the proximal descending
+     aorta adjacent to the large pseudoaneurysm/penetrating ulcer, likely the
+     origin of the patient's intramural hematoma.
+     3) No colonic lesion or evidence of diverticulitis to account for the aortic
+     wall air, though colonoscopy may be considered after the patient is
+     stabilized.
+     4) 5-cm infrarenal aortic abdominal aneurysm.
+     5) Moderate left-sided intrahepatic biliary ductal dilatation.
+     6) Hyperenhancing segment VII and hypodense segment III hepatic lesions, not
+     fully characterized on this study, the former could be further assessed by
+     MRI.
+     
+     Findings were discussed immediately after the study with the covering
+     cardiothoracic surgery fellow, Dr. [**Last Name (STitle) 13227**].
+     
+
+",,
+5690,29483,,,2594-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with known AAA and ? thoracic hematoma                          
+     REASON FOR THIS EXAMINATION:
+      please characterize aorta                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb FRI [**2594-3-28**] 1:55 AM
+      Extensive type B aortic intramural hematoma, with a probable very early
+      dissection flap in the arch, not extending proximal the left subclavian. Large
+      penetrating ulcer in descending aorta. Scattered air in the aortic wall of
+      unclear significance but raising the concern for infection.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with known AAA and chest pain radiating to the back,
+     evaluate for dissection.
+     
+     COMPARISONS:  None.
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with and
+     without 90 cc of nonionic Visipaque contrast.  Please note that despite the
+     patient's elevated creatinine of 2.6, the ED and the covering vascular surgery
+     team thought that the study with emergent enough to rule out a type A
+     dissection for which contrast was warranted.  The risks and benefits were
+     discussed with the patient prior to the study.
+     
+     CT VASCULAR:  On the non-contrast images, there is an extensive type B aortic
+     intramural hematoma, extending from the takeoff of the left subclavian artery,
+     to just proximal to the celiac axis. There is a tiny linear area of non-
+     enhancement involving the arch distal to the takeoff of the left subclavian,
+     which could represent a very early dissection flap. There is a large
+     penetrating ulcer involving the proxiaml descending thoracic aorta.
+     Additionally, there is a large amount of air within the aortic wall at this
+     level and also at several other locations in the abdominal aorta.
+     Specifically, there is prominent air involving the posterior aortic wall just
+     inferior to the renal artery takeoff. another focus involving the anterior
+     aortic wall just inferior to this. Finally, there is air seen within the
+     proximal right common iliac artery. Note is made of stenosis at the celiac
+     artery origin. The SMA and [**Female First Name (un) **] are widely patent.
+     
+     CTA CHEST WITH IV CONTRAST:  There are small bilateral pleural effusions and
+     atelectasis.  The heart, pericardium, and great vessels are unremarkable.
+     There is no evidence of hematoma within the mediastinum nor pericardium. There
+     is trace coronary artery calcification.  This nongated study does not provide
+     optimal evaluation of the coronary arteries.  The pulmonary arteries enhance
+     normally.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Hypodense lesion in segment III of the liver
+                                                                 (Over)
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     anteriorly, likely a cyst or hemangioma but not fully characterized. Small
+     hyperenhancing lesion in segment VII. There is left-sided intrahepatic biliary
+     ductal dilatation and mild prominence of the extrahepatic common duct. The
+     native kidneys are minimally atrophic. The spleen, pancreas, adrenal glands,
+     stomach, and proximal bowel are unremarkable.
+     
+     CT PELVIS WITH IV CONTRAST:  No acute abnormalities are seen in the pelvis.
+     There are bilateral fat-containing inguinal hernias.  Evaluation of the
+     osseous structures demonstrates only diffuse degenerative changes.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.  There is diffuse atherosclerotic disease throughout the
+     abdominal aorta.  There is a large infrarenal aortic aneurysm, measuring up to
+     5 cm in sagittal AP dimension.
+     
+     IMPRESSION: 
+     1) Extensive type B aortic intramural hematoma, extending from the origin of
+     the left subclavian artery to the upper abdominal aorta.  No definite aortic
+     dissection, however, there is a tiny linear hypodensity involving the mid
+     aortic arch medially, which may be the very beginning of an aortic dissection
+     flap.
+     2) Multiple foci of air within the aortic wall, highly suspicious for
+     multifocal mycotic aneurysms, the most prominent in the proximal descending
+     aorta adjacent to the large pseudoaneurysm/penetrating ulcer, likely the
+     origin of the patient's intramural hematoma.
+     3) No colonic lesion or evidence of diverticulitis to account for the aortic
+     wall air, though colonoscopy may be considered after the patient is
+     stabilized.
+     4) 5-cm infrarenal aortic abdominal aneurysm.
+     5) Moderate left-sided intrahepatic biliary ductal dilatation.
+     6) Hyperenhancing segment VII and hypodense segment III hepatic lesions, not
+     fully characterized on this study, the former could be further assessed by
+     MRI.
+     
+     Findings were discussed immediately after the study with the covering
+     cardiothoracic surgery fellow, Dr. [**Last Name (STitle) 13227**].
+     
+
+",,
+5690,29483,,,2594-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with known AAA and ? thoracic hematoma                          
+     REASON FOR THIS EXAMINATION:
+      please characterize aorta                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb FRI [**2594-3-28**] 1:55 AM
+      Extensive type B aortic intramural hematoma, with a probable very early
+      dissection flap in the arch, not extending proximal the left subclavian. Large
+      penetrating ulcer in descending aorta. Scattered air in the aortic wall of
+      unclear significance but raising the concern for infection.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with known AAA and chest pain radiating to the back,
+     evaluate for dissection.
+     
+     COMPARISONS:  None.
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with and
+     without 90 cc of nonionic Visipaque contrast.  Please note that despite the
+     patient's elevated creatinine of 2.6, the ED and the covering vascular surgery
+     team thought that the study with emergent enough to rule out a type A
+     dissection for which contrast was warranted.  The risks and benefits were
+     discussed with the patient prior to the study.
+     
+     CT VASCULAR:  On the non-contrast images, there is an extensive type B aortic
+     intramural hematoma, extending from the takeoff of the left subclavian artery,
+     to just proximal to the celiac axis. There is a tiny linear area of non-
+     enhancement involving the arch distal to the takeoff of the left subclavian,
+     which could represent a very early dissection flap. There is a large
+     penetrating ulcer involving the proxiaml descending thoracic aorta.
+     Additionally, there is a large amount of air within the aortic wall at this
+     level and also at several other locations in the abdominal aorta.
+     Specifically, there is prominent air involving the posterior aortic wall just
+     inferior to the renal artery takeoff. another focus involving the anterior
+     aortic wall just inferior to this. Finally, there is air seen within the
+     proximal right common iliac artery. Note is made of stenosis at the celiac
+     artery origin. The SMA and [**Female First Name (un) **] are widely patent.
+     
+     CTA CHEST WITH IV CONTRAST:  There are small bilateral pleural effusions and
+     atelectasis.  The heart, pericardium, and great vessels are unremarkable.
+     There is no evidence of hematoma within the mediastinum nor pericardium. There
+     is trace coronary artery calcification.  This nongated study does not provide
+     optimal evaluation of the coronary arteries.  The pulmonary arteries enhance
+     normally.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Hypodense lesion in segment III of the liver
+                                                                 (Over)
+
+     DATE: [**2594-3-28**] 12:49 AM
+     CTA CHEST W&W/O C&RECONS, NON-CORONARY; CTA ABD W&W/O C & RECONSClip # [**Telephone/Fax (1) 13226**]
+     CTA PELVIS W&W/O C & RECONS
+     Reason: please characterize aorta                                   
+     Field of view: 36 Contrast: VISAPAQUE Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     anteriorly, likely a cyst or hemangioma but not fully characterized. Small
+     hyperenhancing lesion in segment VII. There is left-sided intrahepatic biliary
+     ductal dilatation and mild prominence of the extrahepatic common duct. The
+     native kidneys are minimally atrophic. The spleen, pancreas, adrenal glands,
+     stomach, and proximal bowel are unremarkable.
+     
+     CT PELVIS WITH IV CONTRAST:  No acute abnormalities are seen in the pelvis.
+     There are bilateral fat-containing inguinal hernias.  Evaluation of the
+     osseous structures demonstrates only diffuse degenerative changes.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.  There is diffuse atherosclerotic disease throughout the
+     abdominal aorta.  There is a large infrarenal aortic aneurysm, measuring up to
+     5 cm in sagittal AP dimension.
+     
+     IMPRESSION: 
+     1) Extensive type B aortic intramural hematoma, extending from the origin of
+     the left subclavian artery to the upper abdominal aorta.  No definite aortic
+     dissection, however, there is a tiny linear hypodensity involving the mid
+     aortic arch medially, which may be the very beginning of an aortic dissection
+     flap.
+     2) Multiple foci of air within the aortic wall, highly suspicious for
+     multifocal mycotic aneurysms, the most prominent in the proximal descending
+     aorta adjacent to the large pseudoaneurysm/penetrating ulcer, likely the
+     origin of the patient's intramural hematoma.
+     3) No colonic lesion or evidence of diverticulitis to account for the aortic
+     wall air, though colonoscopy may be considered after the patient is
+     stabilized.
+     4) 5-cm infrarenal aortic abdominal aneurysm.
+     5) Moderate left-sided intrahepatic biliary ductal dilatation.
+     6) Hyperenhancing segment VII and hypodense segment III hepatic lesions, not
+     fully characterized on this study, the former could be further assessed by
+     MRI.
+     
+     Findings were discussed immediately after the study with the covering
+     cardiothoracic surgery fellow, Dr. [**Last Name (STitle) 13227**].
+     
+
+",,
+5690,29483,7071,0,2594-03-28 04:23:00 EST,2594-03-28 04:27:00 EST,7318,"N",54,"Nursing/Other","CSRU NPN","
+CSRU NPN
+ADMITTED FROM ED @ 0325 FOR AAA W/AIR IN AORTA. ASSESSMENT AS DOCUMENTED. SR, PVC'S OCCASIONALLY. NEW LEFT RADIAL A-LINE PLACED BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 433**] PA-C, CORRELATED W/CUFF PRESSURE. STARTED ON NTG FOR B/P CONTROL, CHANGED TO LABETALOL. NTG NOW OFF, LABETALOL @ 0.5MG/MIN WITH GOAL OF SBP < 110. EXP WHEEZE T/O BILAT LUNGS. C/O ABD PAIN IN ""TWINGES"" W/COUGHING - MEDICATED W/MORPHINE 1MG SQ W/GOOD RELIEF; PT NOW SLEEPING. MEDS AS DOCUMENTED IN MAR. DETAILED ASSESSMENT/VS/LABS IN CAREVUE.
+
+PLAN: KEEP SBP < 110. THORACIC [**Doctor First Name **] C/S. ID C/S. KEEPING NPO.
+",,
+5690,29483,7071,1,2594-03-28 13:01:00 EST,2594-03-28 13:48:00 EST,1711,"Y",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+UO LOW ~5CC HR X3 HRS. 500 CC BOLUS OF LR GIVEN AT 245PM.
+",,
+5690,29483,7071,0,2594-03-28 13:01:00 EST,2594-03-28 13:12:00 EST,1711,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+NEURO--PT IS ALERT AND ORIENTED X3. MAE SPONT AND TO COMMAND. FOLLOWS COMMANDS CONSISTENTLY.
+
+RESP--INS/EXP WHEEZING WHEN BODY IS STRESSED. RHONCHEROUS BREATH SOUNDS WHEN SLEEPING. GIVEN ALB NEB TREATMENTS. NON-PRODUCTIVE COUGH. SAO2 ON 3L NC >97%.  
+
+GI--REMAINS NPO. GIVEN SIPS OF WATER. DOWN TO XRAY FOR BARIUM SWALLOW. NO FISUTLA SEEN. NO STOOL. HYPOACTIVE BS.
+
+CARDIAC--SBP <110/55. PT RECIEVED STANDING LOPRESSOR DOSE. HR 65-70'S SR WITHOUT OBSERVED ECTOPY.
+
+GU--FOLEY CATH PATENT DRAINING SMALL AMTS <20 CC HR. TEAM AWARE. IVF OF NAHCO3 AT 75 CC HR INFUSING.
+
+ENDO--BS 138. PT IS NOT ON SSRI. LABS SENT. CR 2.3 K+4.4
+
+SKIN--INTACT. ABD DISTENDED BUT NON-TENDER.BUTTOCKS AND BACK WITHOUT BREAKDOWN. INC. OF LIQUID STOOL X1.
+
+ID--AFEBRILE. ON PIPERCILLIN. WBC 25.
+
+PAIN--C/O BACK AND ABD PAIN WHICH IS STABBING. MEDICATED X2 WITH 2MG SC MSO2. RELIEF OBTAINED AS PT FELL ASLEEP.
+
+COPING--SON AND DAUGHTER PHONED AND HAVE BEEN UPDATED ABOUT BARIUM SWALLOW STUDY. THEY WILL BE IN TOMORROW TO VISIT.
+
+A--TENIOUS RESP STATUS. GOAL IS TO KEEP SBP <110.
+
+P--CON'T TO MONITOR. KEEP SBP <110. OFFER SUPPORT TO PT AND FAMILY. CHECK LABS LATER.
+",,
+5690,29483,7071,0,2594-03-28 16:21:00 EST,2594-03-28 16:26:00 EST,2345,"N",54,"Nursing/Other",,"
+
+Dr.[**Last Name (STitle) 862**] called daughter and had a discussion with her and then he talked with patient, Dr. [**Last Name (STitle) **]. explained to patient that he probably would not survive surgery and if he did he probably would need to be on dialysis. Patient stated that he would not want to be kept alive on a ventilator nor would he want dialysis. Patient said that he was old and just wanted to be comfortable. Patient was made DNR/DNI by attending. Attending attempted to call son at work/home without success.
+Daughter hopes to come in tonight, in not tomorrow.
+",,
+5690,29483,7071,0,2594-03-28 20:29:00 EST,2594-03-28 20:37:00 EST,2345,"N",54,"Nursing/Other",,"
+
+NEURO: LETHARGIC, ROUSABLE, ORIENTED X 3.
+
+CARDIAC: HEART RATE NSR WITHOUT ECTOPY. SB/P ~110. GIVEN 1 DOSE OF IV LOPRESSOR 2.5 MG IV ~1600. 
+
+RESP: CS DIMINISHED IN BASES, EXP. WHEEZE. C/R THICK WHITE EARLY PM.
+
+GI: TOLERATED SMALL AMT REGULAR DIET. + BOWEL SOUNDS.
+
+GU: FOLEY IN PLACE, PATENT FOR CLEAR YELLOW URINE, SMALL AMTS. IV FLUID EARLY WITH LITTLE EFFECT.
+
+ENDO: FOLLOWING INSULIN PROTOCOL.
+
+PAIN: DENIES, MORPHINE PCA, UNUSED.
+
+DAUGHTER IN TO VISIT.
+
+PLAN: COMFORT MEASURES ONLY.
+
+
+",,
+5690,29483,7071,0,2594-03-29 05:25:00 EST,2594-03-29 05:32:00 EST,2301,"N",54,"Nursing/Other",,"
+
+Pt. awakens easily and is very cooperative and thankful for everything. Pt. had one episode of resp. stridor whereby he became hypertensive to SBP 150's. Pt. was given a racemic epi treatment by RT and IV lopressor 2.5 mg iv. Pt. improved after treatment and BP returned to 90-110 syst. He was repositioned and then he fell off to [**Doctor Last Name 5**].Morphine PCA i use. Comfortable remainder of shift; started to sound wheezy at early morning and racemic treatment repeated. Pt.'s IV fluid changed to D51/2NS w/20kcl at 75cc/hr due to K+ 3.4. 
+Plan: transfer to F2; continue triple antibiotics. Morphine PCA for comfort.
+",,
+5690,29483,7071,0,2594-03-29 05:38:00 EST,2594-03-29 05:48:00 EST,5268,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt presents in [**Doctor Last Name 863**] position W 2L NC sleeping, bilateral BS clear. Upon arrival of visitors became a little anxious and stridorous. Racemic epi neb given W good effect. Two additional doses required when pt awoke suddenly w increased wob. In conjunction with neb, pt easy  to console RR decreased no wheezing or stridor. Plan; transfer to floor today
+",,
+5690,29483,,,2594-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2594-3-30**] 9:12 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 13229**]
+     Reason: please check placement of left PICC line 51 cm  please page 
+     Admitting Diagnosis: AORTIC HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      please check placement of left PICC line 51 cm  please page IV nurse [**First Name (Titles) 2508**] [**Last Name (Titles) 3081**] 
+      reading  thanks  [**Doctor Last Name **]  [**8-/3026**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**3-30**]
+     
+     HISTORY:  Left PICC line.
+     
+     FINDINGS:  There is a left subclavian PICC line with tip in the superior vena
+     cava.  There is no pneumothorax.  There is patchy alveolar infiltrates in
+     bilateral lower lobes, could represent early infiltrates.  The aorta is
+     prominent as seen on the recent CT.  There is some residual contrast in the
+     colon.
+                                                                           
+
+",,

@@ -1,0 +1,629 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5331,,,,3453-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-3-30**] 1:24 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 10284**]
+     Reason: cabg
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with cad
+     REASON FOR THIS EXAMINATION:
+      cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pre-op for CABG.
+     
+     COMPARISON:  None.
+     
+     FRONTAL AND LATERAL CHEST:  There is fairly marked left ventricular
+     enlargement.  Atelectasis is noted in the upper, middle and lower lobes.
+     There is no CHF or pneumonia.
+     
+     IMPRESSION:  No CHF or pneumonia.  Scattered atelectasis.
+
+",,
+5331,23052,,,3453-04-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3453-4-5**]       Discharge Date: [**3453-4-14**]
+
+Date of Birth:   [**3384-7-7**]       Sex:  M
+
+Service:  CARDIAC S.
+
+DATE OF DISCHARGE:  Pending awaiting rehabilitation bed.
+
+CHIEF COMPLAINT:  Increased chest pain and shortness of
+breath.
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 68-year-old
+gentleman with a known history of coronary artery disease and
+recent onset of atrial fibrillation.  The patient complained
+of increased symptoms of dyspnea and angina.  He underwent
+cardiac catheterization, which revealed three-vessel disease.
+He is now admitted for coronary artery bypass graft.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease status post myocardial infarction
+2.  Recent onset atrial fibrillation in the past eight weeks.
+3.  Tuberculosis.  The patient was hospitalized for two
+months in the 1980s.
+4.  Hypertension.
+5.  Noninsulin dependent diabetes mellitus.
+6.  Gastroesophageal reflux disease.
+7.  Prostate carcinoma status post XRT and brachytherapy.
+8.  CVA times three in [**3433**], [**3443**], and 1996.
+9.  Hypercholesterolemia.
+
+PAST SURGICAL HISTORY:
+1.  Right carotid endarterectomy in [**3444**].
+2.  Stomach repair status post multiple stab wounds in the
+1960s.
+3.  Benign tumor left axillary area, probably 1960s.
+4.  Back surgery in [**3424**].
+
+MEDICATIONS ON ADMISSION:
+1.  Plavix discontinued [**3-28**].
+2.  Detrol 2 mg b.i.d.
+3.  Atenolol 75 mg in the AM; 50 mg q.PM.
+4.  Glyburide 3 mg b.i.d.
+5.  Lipitor 10 mg h.s.
+6.  Amitriptyline 10 mg q.d.
+7.  Zestril 30 mg q.a.m. and 10 mg q.p.m.
+
+ALLERGIES:  The patient is allergic to ASPIRIN, WHICH CAUSES
+INCREASED FACIAL SWELLING AND INCREASED SHORTNESS OF BREATH.
+
+HOSPITAL COURSE:  The patient underwent coronary artery
+bypass graft times on [**3453-4-5**].  The patient was taken to the
+CSRU intubated and on Milrinone and nitroglycerin drips.  The
+patient was extubated on postoperative day #1.  He was
+started on Amiodarone for atrial fibrillation.
+
+On postoperative day #2, the patient was slightly agitated
+and required Haldol.  The blood pressure was labile and he
+needed antihypertensive medication.  The patient continued to
+be in atrial fibrillation.  He made slow progress over the
+next couple of days.  He had some episodes of wheezing, which
+improved with treatment with nebulizers.  The patient
+progressively improved in his mental status and he was more
+oriented in the next couple of days.
+
+On [**3453-4-10**], while on the bedside commode, the patient had a
+brief period of unresponsiveness for about 30 seconds.  The
+heart rate and blood pressure were stable at this point.  The
+patient was transferred to the regular floor in stable
+condition on postoperative day #6.  While on the floor, the
+mental status again improved significantly.  He was left
+confused and more oriented.  He was started on heparin drip
+for atrial fibrillation and on Coumadin.  The pacing wires
+were discontinued on postoperative day #7.  He stayed in
+house until he became therapeutic on his Coumadin.  He was
+ready for discharge to rehabilitation on postoperative day
+#9.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lopressor 75 mg b.i.d.
+2.  Lasix 20 mg q.d. times one week.
+3.  [**First Name5 (NamePattern1) 122**] [**Last Name (NamePattern1) 123**] 20 mEq q.d. times one week.
+4.  Colace 100 mg b.i.d.
+5.  Zantac 150 mg b.i.d.
+6.  Amiodarone 400 mg q.d. times one month.
+7.  Atrovent and Albuterol nebulizers q.4h.p.r.n.
+8.  Lisinopril 30 mg q.a.m., 10 mg q.p.m.
+9.  Coumadin 3 mg q.d. with goal INR 1.8 to 2.5.  The primary
+care physician is to follow the INR after discharge from
+rehabilitation.
+10.  Glyburide 3 mg b.i.d.
+11.  Lipitor 10 mg h.s.
+12.  Tylenol with codeine one to two tablets q.4h. to
+6h.p.r.n.
+
+CONDITION ON DISCHARGE:  Stable.  The patient is being
+discharged to a rehabilitation facility.
+
+
+
+
+
+
+
+
+FO[**Last Name (STitle) 165**]P CARE:  The patient is to followup with Dr. [**First Name (STitle) **],
+primary care physician in two weeks and Dr. [**Last Name (Prefixes) **] in
+four weeks.  INR has to be checked twice q.week at
+rehabilitation and will be followed by the primary care
+physician post discharge.
+
+
+
+
+                            [**Doctor Last Name 127**] [**Last Name (Prefixes) 128**], M.D.  [**MD Number 129**]
+
+Dictated By:[**Last Name (NamePattern1) 247**]
+MEDQUIST36
+
+D:  [**3453-4-14**]  11:43
+T:  [**3453-4-14**]  14:15
+JOB#:  [**Job Number 6254**]
+Signed electronically by: DR. [**First Name (STitle) 127**] [**Last Name (Prefixes) 128**]
+ on: MON [**3453-5-16**] 5:12 PM
+(End of Report)
+
+
+",,
+5331,23052,,,3453-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-5**] 8:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10285**]
+     Reason: post op cabg
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with postop cabg
+     REASON FOR THIS EXAMINATION:
+      post op cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  CABG.
+     
+     There is post CABG.  Endotracheal tube is 5 cm above carina.  Swan-Ganz
+     catheter is in proximal right pulmonary artery.  Introducer sheath is in
+     proximal left brachiocephalic vein.  NG tube is in proximal stomach.  Chest
+     tube in left upper hemithorax.  No pneumothorax.  There are bibasilar
+     atelectases and small left pleural effusion.
+     
+
+",,
+5331,23052,6618,0,3453-04-05 18:21:00 EST,3453-04-05 18:27:00 EST,3204,"N",54,"Nursing/Other",,"
+
+DARK VENOUS APPEARRING BLOOD NOTED FROM MED. CT THAT SLOWED AFTER FFP & WARMING. LABILE BP W LOW FILLING PRESSURES THAT RESPONDED TO VOLUME ALLOWING WEANING OF EPI & LEVO. HEMODYNAMICALLY STABLE ON MILRINONE. AWOKE,MAE X 4 WEAKLY TO COMMAND BUT LETHARGIC UNLESS STIMULATED.  FAILED WEAN ATTEMPT W POOR SPONT. TV'S DESPITE IPS,RESP. ACIDOSIS,INCREASED WOB. BS COARSE,SUCTIONED FOR THICK WHITISH PLUGS W IMPROVEMENT.TONGUE PROTRUDING & EDEMATOUS.WEANING DEFERRED UNTIL A.M. 
+",,
+5331,23052,6618,0,3453-04-05 18:45:00 EST,3453-04-05 18:51:00 EST,3204,"N",54,"Nursing/Other",,"
+
+AFTER RETURN TO SIMV SUDDEN DROP IN BP TO 70'S W EPISODE OF ATRIAL BIGEMINY W RATE IN YHE 60'S.A PACED AT 90, LEVO RESUMED,LR THEN PRBC'S STARTED(HCT 24%)W IMMED. IMPROVEMENT. CONTINUES TO HAVE OCCAS. PAC'S AS EARLIER,MG++ GIVEN.REMAINS HEMODYNAMICALLY STABLE,MILRINONE DECREASED FOR BP SUPPORT.DUMP OF ~ 200 CC DARK BLOOD FROM MED. CT AFTER SUCTIONING WITH NO FURTHER SEQUELAE.SEE FLWO SHEET.
+",,
+5331,23052,6618,1,3453-04-06 04:25:00 EST,3453-04-06 04:33:00 EST,3090,"Y",54,"Nursing/Other",,"
+
+hypotension.
+",,
+5331,23052,6618,0,3453-04-06 04:25:00 EST,3453-04-06 04:31:00 EST,3090,"N",54,"Nursing/Other",,"
+
+68 years old male s/p cabg attempted to wean last night without success. patient went into slow rate and hypotensioin, rested last night on Simv 700*10-40-5p-5ps.Abg normal will attemt to wean to extubate today.
+",,
+5331,23052,6618,0,3453-04-06 04:58:00 EST,3453-04-06 05:15:00 EST,3248,"N",54,"Nursing/Other","CSRU Update","
+CSRU Update
+Neuro:  Initially sleepy.  ^^^Anxious when awake.  Versed given early AM.  Currently wide awake.  MAE.  Follows commands.
+
+Cardiac:  Remains on Milrinone.  NTG off and on several times during the noc for HTN.  Continues in NSR w/ PAC's.  CT's still oozey, coags pending.  Incisions clean, dsgs D+I  Pacemaker on v-demand of 60 - occas paced this pm.    
+
+Pulm:  Remains intubated.  Suctioned x 2 for sml wht.  0555 - pressure support 15.  Sats 97% and greater.  Will wean and extubate today. 
+
+GI:  OGT to WS - drng bilious.  
+
+GU:  Foley drng boaderline uops    
+",,
+5331,23052,6618,0,3453-04-06 13:36:00 EST,3453-04-06 13:53:00 EST,3083,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  PT IS S/P CABG ON [**4-5**].
+  
+  NEURO: PT VERY ANXIOUS THIS AM BEFORE EXTUB. ANXIOUS AFTER BEING EXT. ALSO; SEEMS SLIGHTLY BETTER THIS AFTERNOON. A&O X3. COOPERATIVE.
+
+   RESP: PT EXTUB. THIS AM. INITIALLY PO2 77; UP TO 89 ON 5LNP THIS AFTERNOON. SATS 94-96. BS CLEAR. PT HAS STRONG, NON-PRODUCTIVE COUGH.
+
+   CARDIAC: PT TACHYCARDIC THIS AM-100-110. GIVEN 500 LR; AND THEN 1 PC WITH NO CHANGE IN HR. AFTER PT EXTUB.-HR DOWN TO 70-ATRIAL BIGEMINY. THEN BACK UP TO ST. PT ATTEMPTING TO GO INTO AFIB. GIVEN LOAD DOSE 150MG AMIODARONE-THEN HR BACK DOWN TO 60-PT NOT STARTED ON IV AMIODARONE AS ORDERED ([**Initials (NamePattern5) 8444**] [**Last Name (NamePattern5) 643**]). PT STAYED IN ST UNTIL 1300-INTO AFIB. RATE CONTROLLED 100-115 AND HAS BEEN IN EVER SINCE. PT WAS STARTED ON PO AMIODARONE THIS AFTERNOON. CI HAS REMAINED GOOD. PT VERY HYPERTENSIVE-TO 170 THIS AM WHEN ANXIOUS. STARTED BACK ON NTG WITH NO EFFECT. SNP STARTED-TITRATED DURING DAY.
+
+   GU: U/O DOWN THIS AM. STARTED ON LASIX WITH GOOD DIURESIS. WEIGHT IS UP 9 KG.
+
+   GI: PT TAKING LIQUIDS W/O DIFFICULTY. HAS NOT STARTED ON SOLIDS YET.
+
+   LAB: K 5.4 0400-DOWN TO 4.4 THIS AFTERNOON. CA REPLETED. BS 150-180. COVERED WITH SS INSULIN. HCT 24.9 THIS AM-GIVEN 1 PC-UP TO 27 THIS AFTERNOON.
+
+   OTHER: PT HAVING MUCH PAIN. MED WITH MSO4 AND PERCOCET WITH SOME RELIEF.(NOT A TORADOL CANDIDATE). MIN CT DRG. OOZING MOD AMT SEROSANG FROM AROUND CT SITE-DSD CHANGED THIS AM AND OOZING SEEMS TO HAVE STOPPED. WIFE IN THIS AM. TO COME BACK LATER. PT TO STAY IN CSRU TONIGHT.
+",,
+5331,23052,6618,,3453-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-7**] 12:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10286**]
+     Reason: r/o ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with postop cabg and ct removal
+     REASON FOR THIS EXAMINATION:
+      r/o ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE UPRIGHT CHEST
+     
+     COMPARISONS: Previous study two days earlier.
+     
+     HISTORY:  Coronary artery bypass surgery. Status post chest tube removal.
+     
+     The patient is status post median sternotomy and coronary artery bypass
+     surgery. There has been interval removal of a left sided chest tube, ET tube,
+     NG tube and swan ganz catheter.  A left internal jugular vascular sheath
+     remains in place.
+     
+     Cardiac and mediastinal contours are stable allowing for differences in
+     technique.  There has been interval increase in size of a small left pleural
+     effusion.  Hazy increased opacity in the right hemithorax may represent a
+     component of pleural fluid as well.  Atelectatic changes are seen in both lung
+     bases.
+     
+     IMPRESSION:
+     1. No evidence of pneumothorax following chest tube removal, but slight
+     increase in size of left pleural effusion is noted. Bibasilar atelectasis is
+     also noted.
+
+",,
+5331,23052,6618,0,3453-04-07 07:05:00 EST,3453-04-07 07:20:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**4-6**] SHIFT SUMMARY;
+
+NEURO; ALERT, INITALLY PLEASANT THEN HAD PERIODS OF NOT BEING COOPERATIVE. AS EVENING PROGRESSED BECAME MORE AGGITATED PULLING AT LINES ALMOST PULLED LT IJ TRAUMA LINE OUT, KICKING AT STAFF, AND WOULD NOT LET ANY ONE TOUCH HIM. DR [**Last Name (STitle) 8445**] AND DR [**Last Name (STitle) **] IN TO SEE PT AND PT GIVEN HALDOL 5MG IVP WITH EXCELLENT EFFECT.  LATER A 2ND DOSE OF HALDOL GIVEN FOR INCREASING AGGITATION WITH GOOD EFFECT AND SLEPT MOST OF NOC.
+
+CARDIOVAS; IN AFIB ALL NOC RATES 90-115 BUT INCREASED TO 120-130'S BEGINNING OF SHIFT WITH HYPERTENSION WITH MAP >90-100 AND SBP UP AS HIGH AS 200 WITH HIS AGGITATION. DR [**Last Name (STitle) 8445**] AWARE AND PT GIVEN TOTAL OF LOPRESSOR 5MG IVP X3 AND RESTARTED ON NIPRIDE AND TITRATED WITH DIFFICULTY D/T PT'S ALINE POSITIONAL AND KEEPS DAMPENING OUT. NBP ALSO USED.  ADDITONAL DOSE OF LOPRESSOR 25MG PO GIVEN THIS AM ALONG WITH USUAL AM DOSE OF LOPRESSOR 25MG PO. PT ALSO ON AMIODARONE 400MG PO.
+
+GU; URINE OP MARGINAL ALL NOC AND AVG IN THE 20CC HR RANGE DR [**Last Name (STitle) **] AWARE THIS AM.  CREAT. ALSO 1.3 THIS AM.
+
+ENDO; BLD SUGARS IN THE 130 RANGE AND PT REFUSED TO TAKE INSULIN.
+
+PLAN; TO CONTROL HYPERTENSION WEAN NIPRIDE AND TRANSFER TO [**Hospital Ward Name 53**] 6.
+",,
+5331,23052,6618,0,3453-04-07 12:56:00 EST,3453-04-07 13:01:00 EST,3114,"N",54,"Nursing/Other",,"
+
+PROB: S/P CABG
+
+CV: AFIB NO VEA NOTED. BP STILL HIGH, UNABLE TO WEAN NIPRIDE TO OFF DESPITE INCREASED LOPRESSOR AND RESTART OF ZESTRIL. PACER IN OFF MODE, V WIRES CAPTURE AT 13 MA.
+
+RESP: O2 SATS ADEQUATE ON 2L/NP.
+
+GI: APPETITE POOR, BOWEL SOUNDS HYPOACTIVE.
+
+GU: CLEAR YELLOW URINE, ADEQUATE AMOUNTS.
+
+NEURO: PT STILL HAS A SITTER AT BEDISDE. PT HAS BEEN CALM AND COOPERATIVE ALL DAY. ORIENTED X2, EASILY REORIENTED. MAE. FOLLOWS COMMANDS.
+
+ASSESSMENT: NEURO STATUS IMPROVED.
+
+PLAN: MOVE TO NSICU AS BORROWED BED.
+D/C SITTER.
+REORIENT PT.
+MONITOR BP, WEAN NIPRIDE AS TOLERATED.
+",,
+5331,23052,6618,0,3453-04-07 17:47:00 EST,3453-04-07 17:56:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Pt A/o x3. Moves all extremities. Follows commands. VSS. Remains in afib, rate 100-115. No ectopy noted. SBP 120-170. Nipride increased to 1.25mcg/kg/min, goal of MAP <90. No c/o chest pain. Epicardial wires intact, pacer off. Sternal incision c/d, steri's intact. No drainage noted. L leg ace wrap intact. No drainage noted. Chest tube wounds oozing small amt s/s drainage. Pressure dsgs changed. Good peripheral pulses all extremities. Abd soft, with + BS. Poor appetite, ref PO. Foley patent, draining QS clear yellow urine.  Denies pain. L IJ patent. Site WNL. L aline placed for monitoring. Site benign. Sharp tracing. Peripheral IV intact L hand. Site WNL.
+Plan: monitor SBP. Increase Nipride PRN to keep MAP <90. Monitor for pain.
+",,
+5331,23052,6618,0,3453-04-08 04:11:00 EST,3453-04-08 04:22:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p to 7a Nsg Progress Note
+
+Resp - 02 sats 97-99% on 4lnc. Sats decreased to 90% when pt removed 02. Lungs with expir wheezing and occas crackles at the bases. Given albuterol neb by resp with improvement. Pt expectorating greenish sputum at the beginning of the noc which gradually became more clear. ABG this am on 4lnc 120/40/7.46/29/5. 
+
+Neuro - Awake most of the noc. Oriented x 2. Assumed people outside his room were talking to him. Continuously reoriented. MAE. c/o incisional chest pain. Medicated x 2 with 2 mg mso4 iv and pt slept for short periods.
+
+C-V - HR 114-124 afib with rare pvcs. SBP 140-150. IV Nipride titrated and currently infusing at 2.0mcgs/kg/min. Pacer wires attached but off.
+
+GU - Voiding > 30cc/hr clear yellow urine. Receives 20 lasix iv bid.
+
+
+
+GI - Abd soft. + BS. No stool. Poor appetite. Drinking h20 freq throughout the noc. 
+
+Skin - Coninues to ooze through former chest tube site. Dssg reinforced x 2. No drainage noted from mediastinum or leg.
+
+
+Endo - RISS.
+
+Social - No phone calls or visits this shift.
+",,
+5331,23052,6618,0,3453-04-08 05:41:00 EST,3453-04-08 05:44:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Respiratory care
+2.5mg Albuterol neb was giving at 12:30 am and 6:45 am HR 100
+RR 12 O2 sat 98% BS exp wheez crackls @ the bas bil.
+",,
+5331,23052,6618,0,3453-04-08 13:55:00 EST,3453-04-08 14:04:00 EST,3600,"N",54,"Nursing/Other","Cardiac/Resp","
+Cardiac/Resp
+D: pt doing well and OOB easily this a.m. with P.T. while up in cardiac chair pt. c/o feeling ""awful"". B/P via left radial a-line 82/ with HR con't @ baseline af. SNP immediately off, pt returned to bed with subsequent removal of a-line inadvertently.(cuff correlating) C/O vague Substernal/mediastinal discomfort associated with coughing this afternoon. Breath sounds intermittently wheezey both insp and exp.
+A:EKG performed with above a.m. B/P drop
+[**Initials (NamePattern5) **] [**Last Name (NamePattern5) **] made aware
+SNP titrated to off
+Lasix 40 mg IVP this a.m.(20 mg to add to standing 20 mg dose)
+Nebs by Resp
+Lopressor increased
+Norvasc 10 mg started
+MSO4 1 mg IVP
+R: pt B/P improving when back to bed, wheezes decreased after neb treatment, C+R thick green to yellow sputum, pt encouraged to save sample however using tissue. MSO4 decreasing discomfort assoc. with cough. remains off SNP to keep SBP < 150
+",,
+5331,23052,6618,,3453-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-9**] 9:40 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10287**]
+     Reason: Asses for pleural effusion or PTX                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with postop cabg and productive cough and low O2 sats           
+     REASON FOR THIS EXAMINATION:
+      Asses for pleural effusion or PTX                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Productive cough.  
+     
+     COMPARISON: 2 days earlier
+     
+     CHEST, PORTABLE: A left internal jugular vascular sheath is present
+     terminating at the junction of the left internal jugular and brachiocephalic
+     veins, unchanged in position.
+     
+     The heart is mildly enlarged but stable in size.  There are persistent
+     bilateral pleural effusions and minor atelectatic changes in the lung bases.
+     Allowing for respiratory motion there is no definite congestive heart failure.
+     
+     IMPRESSION: Persistent bilateral pleural effusions and basilar atelectatic
+     changes.
+     No evidence of pneumothorax.
+     
+
+",,
+5331,23052,6618,0,3453-04-09 03:26:00 EST,3453-04-09 03:32:00 EST,3772,"N",54,"Nursing/Other","resp. status","
+resp. status
+d: pt is alert and oriented x 2. During the night pt became disoriented to place and time. However he is easily reoriented. Pt continues to require sitter at bedside. pt with insp. wheezes heard throughout. coughing and raising thick yellow sputum. o2 sat remains in the high 90s.
+a: abg drawn due to poor pick up of sat on finger. continue with pulmonary toilet. albuterol nebs q4 as needed. lasix 40mg iv bid. 
+r: pt remains wheezy throughout the night. resp rate 16. wheezes increase with activity. medicated for pain with 2mg of ms04 with relief. po2 in the 60's on abg and pt changed to 35% face mask. pt appears comfortable with mask.  02 sat is 97% on face mask. pt continues to cough and raise. 
+",,
+5331,23052,6618,0,3453-04-09 05:24:00 EST,3453-04-09 05:26:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient with audible wheezes treated with albuterol atrovent Q4 switched [**Last Name (un) 203**] n/c to cool mist,still wheezy but sounds better will continue to treat patient for wheezes.
+",,
+5331,23052,6618,0,3453-04-09 16:09:00 EST,3453-04-09 16:11:00 EST,3497,"N",54,"Nursing/Other",,"
+
+Resp. Care:
+Pt. treated q2-4hrs. for wheezing with 2.5 mg alb/0.5mg atrovent via neb. with mask.  Little relief post rx. 
+",,
+5331,23052,6618,0,3453-04-09 16:44:00 EST,3453-04-09 17:09:00 EST,-1,"N",54,"Nursing/Other","nursing progress note","
+nursing progress note
+NEURO; pt more oriented today 
+CARDIO; pt still on nipride because  map 101 goal < 90.. pt had 2 episodes chest pain today ? r/t anxiety- tx mso4, haldol. dp/ptp present. a fib- receiving po amiodarone. lasix 40 iv bid. pacer attached to pacing wires. pacer off. 
+RESP; had cxr- wet bilat bases. had extra dose of lasix x1 this pm. . pt has  exp. wheeze . received neb tx q2 in am.  last done at 16pm. pt has thick yellow secretions. had chest pt done.
+GI; pt didn't eat today felt ""bloated"" abd. tender- bs present and  + flatus. no bm x three days. on colace -may need more laxative.
+ENDO; fs with ss x2 151, 161.
+INTEGUMENT; dressing changed three small incision wound dry and intact.
+MED; lopressor decreased to 75 mg tid, add hydralazine to 25 mg qid. 
+",,
+5331,23052,6618,0,3453-04-10 05:41:00 EST,3453-04-10 05:49:00 EST,3439,"N",54,"Nursing/Other",,"
+
+data/action: map 84-100-only able to wean snp.7mcg from 1mcg/kg/min.
+hydralazine increased to 50mg q6hrs. 
+cs-exp. wheezes-upper airway congestion-cough weak-neb albuterol tx q4hrs-o2sats 98% on 3np.  Lasix 40mg iv scheduled dose given w/ good duiresising 200-400 x6hrs.  K=low-repleted x2. 
+Pt restless @ times-easily oriented. tried to get oob x1-sitter @ bedside to protect pt from harm. 
+",,
+5331,23052,6618,0,3453-04-10 17:30:00 EST,3453-04-10 17:31:00 EST,3123,"N",54,"Nursing/Other",,"
+
+RESP CARE
+ADMIN ALBUT/ATROVENT NEBS Q4PRN. PT WITH END EXP WHEEZES/RALES. MINIMALLY EFFECTIVE COUGH. WILL FOLLOW.
+",,
+5331,23052,6618,0,3453-04-10 17:43:00 EST,3453-04-10 18:11:00 EST,3441,"N",54,"Nursing/Other","nursing progress note","
+nursing progress note
+NEURO; PT  AXO X3. GOT AGITATED BRIEFLY THIS PM-REC HALDOL X1 I/V. 
+HAD UNRESPONSIVE EPISODE OF 45 SEC.WHILE HAVING A BM ON THE COMMODE ? VASOVAGAL RESP.  HR STAYED WNL. SBP DEC TO 90'S.  PT PUT BACK TO BED.  BP RETURN TO BASELINE. SLIGHTLY GROOGGY POST EVENT BUT NO NEURO DEFICITS AND ABLE MOVE EQUAL EXTREMITIES,  CLEAR SPEECH, A+0 X2 -TEAM AWARE AND SAW PT. 
+
+RESP/CARDIAC- AFIB, REC LASIX 40 BID AND PRN DOSES PR MD. REC 1 EXTRA DOSE THIS PM WITH GOOD RESULTS. CONT BILAT EXP WHEEZE, RR INC TO 30'S PRE NEED OF LASIX. O2 SATS >95. RECEIVING ALB NEBS Q4/PRN.  
+",,
+5331,23052,6618,,3453-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-11**] 3:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10288**]
+     Reason: Asses for CVL placement.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with postop cabg.
+     REASON FOR THIS EXAMINATION:
+      Asses for CVL placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Assess CVL placement.  Postop CABG.
+     
+     PORTABLE AP CHEST:  Comparison is made to exams of [**3453-4-9**] and [**3453-3-30**].  Status
+     post median sternotomy.  A left-sided central venous catheter is in place with
+     the tip overlying the junction of the distal left brachiocephalic vein and
+     superior vena cava.  No evidence of pneumothorax.  There is persistent
+     cardiomegaly.  There are small bilateral pleural effusions with improved
+     aeration of both lung bases compared to the most previous exam.  When compared
+     to the exam of [**3453-3-30**], the opacities at the right lung base are likely
+     chronic.
+     
+     IMPRESSION:  Tip of left-sided central venous catheter overlies confluence of
+     distal left brachiocephalic vein/SVC.  No evidence of pneumothorax.  Improved
+     aeration of lung bases compared to exam of [**3453-4-9**].
+     
+
+",,
+5331,23052,6618,0,3453-04-11 15:33:00 EST,3453-04-11 16:06:00 EST,-1,"N",54,"Nursing/Other","NURSING TRANSFER NOTE  A:","
+NURSING TRANSFER NOTE  A:
+PMH: HTN, ^chol, NIDDM, PVD s/p (L) CEA, Parox Afib, known 3 VD w/ increased SOB. Cath -> 50% LM, 90% 1st & 2nd diag, 100% OM1, 90% OM2, 100 % RCA. NL LV function, EF 60%, MVP w MR.
+
+NKDA
+
+[**4-5**] s/p CABG x3, LIMA->LAD, SVG->OM, SVG->dRCA.  2A2V wires, CT's x3. Ooozy->plts, RBC's, Add'l protamine. Off on Milrinone and EPI for ""sluggish"" RV, Levo for BP support.
+
+Transferred to NSICU on [**4-7**]. During ICU labile BP, had been on milrinone, Levo, nipride ggts. Aggitated at times requring haldol, soft wrist restraint, sitter. [**4-9**] CXR wet, received ext5ra lasix w/ good effect. [**4-10**] ? vagal response w/ BM when pt unrespnsive (30-45 sec). No change in HR, SBP 90's. BP return to baseline after returned to bed.
+
+ROS:
+NEURO: Primary [**Doctor Last Name **] spanish. Pt wax/wane orientation. When wax pt can be lethargic, whispering if answers questions, blowing bubbles into cup instead of sipping.. Dr. [**Last Name (STitle) 863**] and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], PA  notified this morning, and came down to assess pt. Pt more alert this afternoon, oriented x3, MAE, speach clearer.PERL 3mm/3mm brisk. 
+
+CARDIO: tmax 100.6 po. Chronic afib 95-109, no ectopy. BP 120-140/60-81. Epicardial pacer intact, off since arrival in NSICU. Weak palp pedal pulses. c/o pain this morning, pointing to stomach. Dr. [**Last Name (STitle) 863**] in to assess, EKG obtained, no changes per Dr. [**Last Name (STitle) 863**]. LIJ - 3L CVL placed over wire at 1500. Heparin gtt 900u/h started at 1500 w/ PTT due 2100. 
+
+RESP: LS CTA. RR tachy  21-32. Pos cough unable to raise secretions. CPT done. Deep breathing. CXR done this afternoon, (P).
+
+GI/GU: Cardiac diet, decline to eat. Drank milk and water w/out diff. Likes to chew pills. BS present, LBM [**4-10**]. Foley patent draining >35cc/h clear yellow urine. FSBS QID. 1200 = 150, no tx per CSRU insulin protocol.
+
+SKIN: Sternal inc w/ SS C&D OTA. LLE inc healed covered w/ ace tp protect. Medialstinal old CT sites and pacer wires covered w/ elastoplast, intact.
+
+PLAN: Transfer to floor when bed available. PTT due at 2100. 
+
+
+
+
+",,
+5331,,,,3453-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-23**] 8:55 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10289**]
+     Reason: Assess sternal closure                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with cad, sternal wound infection                              
+     REASON FOR THIS EXAMINATION:
+      Assess sternal closure                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 68 year old man with coronary artery disease and sternal wound
+     infection assess sternal closure.
+     
+     PA and lateral chest [**3453-4-23**] at 9 PM.
+     
+     Comparison is made to prior study dated [**3453-4-11**]. The patient has taken a poor
+     inspiration on the AP film. Therefore, there are increased basilar opacities.
+     There is no evidence of vascular redistribution to the apices suggesting that
+     no congestive failure is present. Sternal wound closure cannot be assessed on
+     this study.
+
+",,
+5331,,,,3453-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-27**] 10:43 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 10290**]
+     Reason: pt with r picc placed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with long term iv abx needs please page [**Pager number 732**] with result
+     REASON FOR THIS EXAMINATION:
+      pt with r picc placed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P PICC placement for long term IV antibiotics.
+     
+     COMPARISON STUDY: [**3453-2-21**].
+     
+     CHEST SINGLE VIEW: The heart is enlarged but stable in appearance. There has
+     been interval resolution of the pulmonary edema. There is some persistent
+     small bilateral pleural effusions present. There has been interval insertion
+     of a right sided PICC. It turns inferiorly from the axillary vein into a
+     tributary likely a subscapular vein. This PICC demonstrates fracture of and
+     separation of the distal fracture fragment by approximately 1 cm. The distal
+     fracture fragment is approximately 4 cm in length. No fracture fragment is
+     identified within the pulmonary parenchyma. Patient is s/p median sternotomy.
+     
+     IMPRESSION:
+     
+     1) Interval insertion of a right sided PICC which turns inferiorly from the
+     axillary vein and terminates within a probable subscapular vein. There is a
+     fracture of the PICC leaving the distal fracture fragment approximately 1 cm
+     from the PICC. The distal fracture fragment is approximately 4 cm in length.
+     
+     2) Stable cardiomegaly with resolved pulmonary edema and small bilateral
+     pleural effusions.
+     
+     These findings were communicated to the IV access service.
+
+",,
+5331,,,,3453-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-28**] 8:07 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10291**]
+     Reason: Fractured PICC line. Assess for removal/ replacement        
+      Contrast: CONRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 36005 INJ-[**Last Name (un) **]/PAC/HICKMAN INCL INTR 75820 EXTREM UNILAT VENOGRAPHY      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with sternal wound infection s/p CABG                           
+     REASON FOR THIS EXAMINATION:
+      Fractured PICC line. Assess for removal/ replacement                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  Fractured PICC line, please assess.
+     
+     RADIOLOGISTS:  Attending Radiologist Dr. [**First Name4 (NamePattern1) 369**] [**Last Name (NamePattern1) 179**], Interventional
+     Radiology Fellow Dr. [**First Name (STitle) 8810**] [**Name (STitle) 7759**].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 179**]
+     was present for the entirety of the procedure.  The patient was placed in
+     supine position with the right upper extremity sterilely prepped and draped.
+     Fluoroscopy demonstrated no apparent fragment at the PICC line, which was
+     located in a vein near the tip of the scapula.  Venogram did not demonstrate
+     evidence of fragmented PICC line.  The PICC was removed, and measured and
+     found to be 55 cm.  As the insertion note recorded the PICC length as 55 cm,
+     no fragment was lost.  Sterile dressing was applied on the site.
+     
+     MEDICATIONS:  No medications were given.
+     
+     COMPLICATIONS:  No complications were evident.
+     
+     FINDINGS:  No free fragment of PICC was seen, and venogram demonstrated the
+     current PICC line to have its tip in the veins near the scapula.
+     
+     IMPRESSION:
+     
+     1) Removal of PICC line measures 55 cm, no free fragment seen.  The insertion
+     note documents the PICC line was 55 cm at insertion, thus no fragmentation
+     occurred.
+
+",,
+5331,,,,3453-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3453-4-28**] 8:07 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10291**]
+     Reason: Fractured PICC line. Assess for removal/ replacement        
+      Contrast: CONRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 36005 INJ-[**Last Name (un) **]/PAC/HICKMAN INCL INTR 75820 EXTREM UNILAT VENOGRAPHY      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with sternal wound infection s/p CABG                           
+     REASON FOR THIS EXAMINATION:
+      Fractured PICC line. Assess for removal/ replacement                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  Fractured PICC line, please assess.
+     
+     RADIOLOGISTS:  Attending Radiologist Dr. [**First Name4 (NamePattern1) 369**] [**Last Name (NamePattern1) 179**], Interventional
+     Radiology Fellow Dr. [**First Name (STitle) 8810**] [**Name (STitle) 7759**].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 179**]
+     was present for the entirety of the procedure.  The patient was placed in
+     supine position with the right upper extremity sterilely prepped and draped.
+     Fluoroscopy demonstrated no apparent fragment at the PICC line, which was
+     located in a vein near the tip of the scapula.  Venogram did not demonstrate
+     evidence of fragmented PICC line.  The PICC was removed, and measured and
+     found to be 55 cm.  As the insertion note recorded the PICC length as 55 cm,
+     no fragment was lost.  Sterile dressing was applied on the site.
+     
+     MEDICATIONS:  No medications were given.
+     
+     COMPLICATIONS:  No complications were evident.
+     
+     FINDINGS:  No free fragment of PICC was seen, and venogram demonstrated the
+     current PICC line to have its tip in the veins near the scapula.
+     
+     IMPRESSION:
+     
+     1) Removal of PICC line measures 55 cm, no free fragment seen.  The insertion
+     note documents the PICC line was 55 cm at insertion, thus no fragmentation
+     occurred.
+
+",,

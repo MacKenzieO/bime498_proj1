@@ -1,0 +1,1920 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5228,,,,2574-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-8**] 10:45 AM
+     LUMBO-SACRAL SPINE (AP & LAT)                                   Clip # [**Clip Number (Radiology) 9347**]
+     Reason: SEVERE LB PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Severe back pain.
+     
+     AP and lateral views of the L/S spine. There is loss of height of the superior
+     portion of L2 which is non-symmetric involving predominantly the left side of
+     this body with extensive sclerosis. There are associated calcifications in the
+     adjacent soft tissues. Generalized demineralization with all vertebral bodies
+     showing biconcavity in lateral projection. No discrete areas of bone
+     destruction and pedicles intact including those of L2. The poorly visualized
+     hips are probably normal as are the SI joints. Extensive bilateral pleural
+     calcifications. Posterior degenerative changes in the facet joints of the
+     lower lumbar spine with probably diminution in the AP diameter of the spinal
+     canal. No acute fracture identified. Since similar examination [**2573-1-5**] the
+     loss of T2 height and sclerosis have progressed.
+     
+     IMPRESSION: Unusual T2 fracture which has progressed but I doubt pathologic
+     etiology other than osteoporosis. Asbestos exposure. No bone destruction.
+     Possible spinal stenosis.
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2574-9-9**]     Discharge Date:
+
+Date of Birth:   [**2484-11-10**]     Sex:  M
+
+Service:
+
+DISCHARGE DIAGNOSIS:
+Staphylococcus coag positive septicemia, treated.
+
+
+
+                          [**Known patient firstname **] [**Last Name (NamePattern1) 1567**], M.D.  [**MD Number 1568**]
+
+Dictated By:[**Last Name (NamePattern1) 1062**]
+
+MEDQUIST36
+
+D:  [**2574-10-9**]  17:17
+T:  [**2574-10-12**]  09:33
+JOB#:  [**Job Number 6059**]
+Signed electronically by: DR. [**Known patient firstname **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**2574-11-3**] 6:52 AM
+(End of Report)
+
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o AAA in patient with back pain radiating  to abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 year old man with back pain.
+     
+     TECHNIQUE: Axial 7 mm images of the abdomen and pelvis were obtained before
+     and after the administration of 100 cc Optiray per fast bolus technique.
+     
+     There are no prior CTs available for comparison.
+     
+     FINDINGS:
+     CT ABDOMEN W/O&W IV CONTRAST: The heart is enlarged, there are coronary artery
+     calcifications.  Also noted are pericardial calcifications and a small amount
+     of fluid within the pericardium.  There are extensive bilateral pleural
+     calcifications, as well as small bilateral pleural effusions, right greater
+     than left.  There is a large hiatal hernia.  The right lower lobe is partially
+     atelectatic.
+     
+     The liver is normal in size, without evidence of focal lesions.  The
+     gallbladder is present, there is high attenuation material in the dependent
+     portion which may represent tiny gallstones.  The pancreas is atrophic, the
+     common bile duct is slightly prominent at the level of the head of the
+     pancreas, there is no intrahepatic ductal dilatation.  The right kidney is
+     normal.  The left kidney has two small low attenuation lesions consistent with
+     cysts.  There is no evidence of hydronephrosis.
+     
+     There is extensive soft tissue density material surrounding a large infrarenal
+     aortic aneurysm which measures approximately 8 x 7 x 10 cm.  The aneurysm ends
+     before the bifurcation, both iliac arteries appear ectatic, especially the
+     right proximal portion.  Contrast enhanced CT is suggestive of a contained
+     leak which extends towards the right posterior aspect of the aneurysm and is
+     best seen in series three, image 24.  There is a second contained collection
+     which is posterior to the one described that enhances during the arterial
+     phase and probably represents part of this contained leak.  The extensive
+     stranding of the soft tissue surrounding the aneurysm extends along the psoas
+     muscle and anterior to the aorta.  There is intraabdominal free fluid
+     surrounding the liver and within the pelvis.  Loops of small bowel and large
+     bowel are not dilated.
+     
+     CT PELVIS W/O&W IV CONTRAST:   The bladder and both ureters are  normal.  The
+     prostate is unremarkable.  There are extensive degenerative changes throughout
+     the spine and in bilateral SI joints.
+     
+                                                                 (Over)
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: 1) 8 x 7 cm infrarenal abdominal aortic aneurysm with a loculated
+     contained leak.  Extensive soft tissue density material and fat stranding
+     surround the aneurysm and there is a small amount of free fluid within the
+     abdomen and pelvis.
+     
+     2) Bilateral ectatic iliac arteries.
+     
+     3) Bilateral pleural and pericardial extensive calcifications with associated
+     bilateral pleural effusions, right greater than left.
+     
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 2:40 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9348**]
+     Reason: r/o pna
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o pna
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     2 VIEWS CHEST:
+     
+     INDICATION: Symptoms of pneumonia.
+     
+     The heart is enlarged. The aorta is tortuous. There is a very large hiatal
+     hernia present.
+     
+     The pulmonary vascularity appears attenuated in the upper lobes, suggesting
+     background emphysema. There are numerous calcified pleural plaques
+     bilaterally. There are also small bilateral pleural effusions. There is some
+     volume loss in the right lower lobe with inferior
+     displacement of fissure and right hilum.
+     
+     The bones demonstrate diffuse demineralization.
+     
+     IMPRESSION: 1) Bilateral calcified pleural plaques, consistent with previous
+     asbestos exposure. 2) Small bilateral pleural effusions. 3) Large hiatal
+     hernia. 4) Volume loss in right lung with fissural displacement and inferior
+     displacement of right hilum. Comparison to older chest radiographs of [**2570-12-24**]
+     is suggested when they become available (the prior films have been requested).
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o AAA in patient with back pain radiating  to abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 year old man with back pain.
+     
+     TECHNIQUE: Axial 7 mm images of the abdomen and pelvis were obtained before
+     and after the administration of 100 cc Optiray per fast bolus technique.
+     
+     There are no prior CTs available for comparison.
+     
+     FINDINGS:
+     CT ABDOMEN W/O&W IV CONTRAST: The heart is enlarged, there are coronary artery
+     calcifications.  Also noted are pericardial calcifications and a small amount
+     of fluid within the pericardium.  There are extensive bilateral pleural
+     calcifications, as well as small bilateral pleural effusions, right greater
+     than left.  There is a large hiatal hernia.  The right lower lobe is partially
+     atelectatic.
+     
+     The liver is normal in size, without evidence of focal lesions.  The
+     gallbladder is present, there is high attenuation material in the dependent
+     portion which may represent tiny gallstones.  The pancreas is atrophic, the
+     common bile duct is slightly prominent at the level of the head of the
+     pancreas, there is no intrahepatic ductal dilatation.  The right kidney is
+     normal.  The left kidney has two small low attenuation lesions consistent with
+     cysts.  There is no evidence of hydronephrosis.
+     
+     There is extensive soft tissue density material surrounding a large infrarenal
+     aortic aneurysm which measures approximately 8 x 7 x 10 cm.  The aneurysm ends
+     before the bifurcation, both iliac arteries appear ectatic, especially the
+     right proximal portion.  Contrast enhanced CT is suggestive of a contained
+     leak which extends towards the right posterior aspect of the aneurysm and is
+     best seen in series three, image 24.  There is a second contained collection
+     which is posterior to the one described that enhances during the arterial
+     phase and probably represents part of this contained leak.  The extensive
+     stranding of the soft tissue surrounding the aneurysm extends along the psoas
+     muscle and anterior to the aorta.  There is intraabdominal free fluid
+     surrounding the liver and within the pelvis.  Loops of small bowel and large
+     bowel are not dilated.
+     
+     CT PELVIS W/O&W IV CONTRAST:   The bladder and both ureters are  normal.  The
+     prostate is unremarkable.  There are extensive degenerative changes throughout
+     the spine and in bilateral SI joints.
+     
+                                                                 (Over)
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: 1) 8 x 7 cm infrarenal abdominal aortic aneurysm with a loculated
+     contained leak.  Extensive soft tissue density material and fat stranding
+     surround the aneurysm and there is a small amount of free fluid within the
+     abdomen and pelvis.
+     
+     2) Bilateral ectatic iliac arteries.
+     
+     3) Bilateral pleural and pericardial extensive calcifications with associated
+     bilateral pleural effusions, right greater than left.
+     
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o AAA in patient with back pain radiating  to abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 year old man with back pain.
+     
+     TECHNIQUE: Axial 7 mm images of the abdomen and pelvis were obtained before
+     and after the administration of 100 cc Optiray per fast bolus technique.
+     
+     There are no prior CTs available for comparison.
+     
+     FINDINGS:
+     CT ABDOMEN W/O&W IV CONTRAST: The heart is enlarged, there are coronary artery
+     calcifications.  Also noted are pericardial calcifications and a small amount
+     of fluid within the pericardium.  There are extensive bilateral pleural
+     calcifications, as well as small bilateral pleural effusions, right greater
+     than left.  There is a large hiatal hernia.  The right lower lobe is partially
+     atelectatic.
+     
+     The liver is normal in size, without evidence of focal lesions.  The
+     gallbladder is present, there is high attenuation material in the dependent
+     portion which may represent tiny gallstones.  The pancreas is atrophic, the
+     common bile duct is slightly prominent at the level of the head of the
+     pancreas, there is no intrahepatic ductal dilatation.  The right kidney is
+     normal.  The left kidney has two small low attenuation lesions consistent with
+     cysts.  There is no evidence of hydronephrosis.
+     
+     There is extensive soft tissue density material surrounding a large infrarenal
+     aortic aneurysm which measures approximately 8 x 7 x 10 cm.  The aneurysm ends
+     before the bifurcation, both iliac arteries appear ectatic, especially the
+     right proximal portion.  Contrast enhanced CT is suggestive of a contained
+     leak which extends towards the right posterior aspect of the aneurysm and is
+     best seen in series three, image 24.  There is a second contained collection
+     which is posterior to the one described that enhances during the arterial
+     phase and probably represents part of this contained leak.  The extensive
+     stranding of the soft tissue surrounding the aneurysm extends along the psoas
+     muscle and anterior to the aorta.  There is intraabdominal free fluid
+     surrounding the liver and within the pelvis.  Loops of small bowel and large
+     bowel are not dilated.
+     
+     CT PELVIS W/O&W IV CONTRAST:   The bladder and both ureters are  normal.  The
+     prostate is unremarkable.  There are extensive degenerative changes throughout
+     the spine and in bilateral SI joints.
+     
+                                                                 (Over)
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: 1) 8 x 7 cm infrarenal abdominal aortic aneurysm with a loculated
+     contained leak.  Extensive soft tissue density material and fat stranding
+     surround the aneurysm and there is a small amount of free fluid within the
+     abdomen and pelvis.
+     
+     2) Bilateral ectatic iliac arteries.
+     
+     3) Bilateral pleural and pericardial extensive calcifications with associated
+     bilateral pleural effusions, right greater than left.
+     
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o AAA in patient with back pain radiating  to abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 year old man with back pain.
+     
+     TECHNIQUE: Axial 7 mm images of the abdomen and pelvis were obtained before
+     and after the administration of 100 cc Optiray per fast bolus technique.
+     
+     There are no prior CTs available for comparison.
+     
+     FINDINGS:
+     CT ABDOMEN W/O&W IV CONTRAST: The heart is enlarged, there are coronary artery
+     calcifications.  Also noted are pericardial calcifications and a small amount
+     of fluid within the pericardium.  There are extensive bilateral pleural
+     calcifications, as well as small bilateral pleural effusions, right greater
+     than left.  There is a large hiatal hernia.  The right lower lobe is partially
+     atelectatic.
+     
+     The liver is normal in size, without evidence of focal lesions.  The
+     gallbladder is present, there is high attenuation material in the dependent
+     portion which may represent tiny gallstones.  The pancreas is atrophic, the
+     common bile duct is slightly prominent at the level of the head of the
+     pancreas, there is no intrahepatic ductal dilatation.  The right kidney is
+     normal.  The left kidney has two small low attenuation lesions consistent with
+     cysts.  There is no evidence of hydronephrosis.
+     
+     There is extensive soft tissue density material surrounding a large infrarenal
+     aortic aneurysm which measures approximately 8 x 7 x 10 cm.  The aneurysm ends
+     before the bifurcation, both iliac arteries appear ectatic, especially the
+     right proximal portion.  Contrast enhanced CT is suggestive of a contained
+     leak which extends towards the right posterior aspect of the aneurysm and is
+     best seen in series three, image 24.  There is a second contained collection
+     which is posterior to the one described that enhances during the arterial
+     phase and probably represents part of this contained leak.  The extensive
+     stranding of the soft tissue surrounding the aneurysm extends along the psoas
+     muscle and anterior to the aorta.  There is intraabdominal free fluid
+     surrounding the liver and within the pelvis.  Loops of small bowel and large
+     bowel are not dilated.
+     
+     CT PELVIS W/O&W IV CONTRAST:   The bladder and both ureters are  normal.  The
+     prostate is unremarkable.  There are extensive degenerative changes throughout
+     the spine and in bilateral SI joints.
+     
+                                                                 (Over)
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: 1) 8 x 7 cm infrarenal abdominal aortic aneurysm with a loculated
+     contained leak.  Extensive soft tissue density material and fat stranding
+     surround the aneurysm and there is a small amount of free fluid within the
+     abdomen and pelvis.
+     
+     2) Bilateral ectatic iliac arteries.
+     
+     3) Bilateral pleural and pericardial extensive calcifications with associated
+     bilateral pleural effusions, right greater than left.
+     
+
+",,
+5228,21243,,,2574-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o AAA in patient with back pain radiating  to abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 year old man with back pain.
+     
+     TECHNIQUE: Axial 7 mm images of the abdomen and pelvis were obtained before
+     and after the administration of 100 cc Optiray per fast bolus technique.
+     
+     There are no prior CTs available for comparison.
+     
+     FINDINGS:
+     CT ABDOMEN W/O&W IV CONTRAST: The heart is enlarged, there are coronary artery
+     calcifications.  Also noted are pericardial calcifications and a small amount
+     of fluid within the pericardium.  There are extensive bilateral pleural
+     calcifications, as well as small bilateral pleural effusions, right greater
+     than left.  There is a large hiatal hernia.  The right lower lobe is partially
+     atelectatic.
+     
+     The liver is normal in size, without evidence of focal lesions.  The
+     gallbladder is present, there is high attenuation material in the dependent
+     portion which may represent tiny gallstones.  The pancreas is atrophic, the
+     common bile duct is slightly prominent at the level of the head of the
+     pancreas, there is no intrahepatic ductal dilatation.  The right kidney is
+     normal.  The left kidney has two small low attenuation lesions consistent with
+     cysts.  There is no evidence of hydronephrosis.
+     
+     There is extensive soft tissue density material surrounding a large infrarenal
+     aortic aneurysm which measures approximately 8 x 7 x 10 cm.  The aneurysm ends
+     before the bifurcation, both iliac arteries appear ectatic, especially the
+     right proximal portion.  Contrast enhanced CT is suggestive of a contained
+     leak which extends towards the right posterior aspect of the aneurysm and is
+     best seen in series three, image 24.  There is a second contained collection
+     which is posterior to the one described that enhances during the arterial
+     phase and probably represents part of this contained leak.  The extensive
+     stranding of the soft tissue surrounding the aneurysm extends along the psoas
+     muscle and anterior to the aorta.  There is intraabdominal free fluid
+     surrounding the liver and within the pelvis.  Loops of small bowel and large
+     bowel are not dilated.
+     
+     CT PELVIS W/O&W IV CONTRAST:   The bladder and both ureters are  normal.  The
+     prostate is unremarkable.  There are extensive degenerative changes throughout
+     the spine and in bilateral SI joints.
+     
+                                                                 (Over)
+
+     DATE: [**2574-9-9**] 5:05 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9349**]
+     CT PELVIS W/O CONTRAST; CT 100CC NON IONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o AAA in patient with back pain radiating  to abdomen
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION: 1) 8 x 7 cm infrarenal abdominal aortic aneurysm with a loculated
+     contained leak.  Extensive soft tissue density material and fat stranding
+     surround the aneurysm and there is a small amount of free fluid within the
+     abdomen and pelvis.
+     
+     2) Bilateral ectatic iliac arteries.
+     
+     3) Bilateral pleural and pericardial extensive calcifications with associated
+     bilateral pleural effusions, right greater than left.
+     
+
+",,
+5228,21243,6488,,2574-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-10**] 1:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9350**]
+     Reason: s/p AAA repair -- check Swan placement, r/o PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair -- check Swan placement, r/o PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of repaired ruptured AAA with Swan-Ganz placement.
+     
+     Endotracheal tube is 4 cm above carina with prominencew of inflated cuff.
+     Swan- Ganz catheter overlies main pulmonary artery . Introducer sheath is in
+     the right brachiocephalic vein. No pneumothorax. Therearebilateral pleural
+     thickening/plaques and calcifications in the diaphragmatic pleura indicative
+     of prior asbestos exposure. Ill-defined loss of lucency in the right lung of
+     uncertain significance in this rotated film. There is a large hiatal hernia.
+     There is atelectasis at the left base. NG tube extends below diaphragm.
+     
+     IMPRESSION: No pneumothorax. Diffuse ill-defined opacity on right side
+     possibly due to layering effusion on this supine film. Bilateral calcified
+     pleural plaques and large hiatal hernia as described.
+
+",,
+5228,21243,6488,0,2574-09-10 03:59:00 EST,2574-09-10 04:06:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient arrived from or intubated with a 7.0 ETT taped and secured at 23cm lip. Patient placed on mechanical ventilation with the following settings:  A/C 800 * 12 50% 5 peep. ABG on these settings: 169/36/7.35/21 -4. BS Equal bilaterally but decreased in L lower lobe.
+Please see respiratory section of carevue for further data.
+Plan: Patient is a [**Age over 90 843**] Y.o. Male s/p AAA repair. We will continue mechanical ventilation. Wean as tolerated.
+",,
+5228,21243,6488,0,2574-09-10 07:35:00 EST,2574-09-10 07:46:00 EST,3399,"N",54,"Nursing/Other","FOCUS: S/P AAA REPAIR","
+FOCUS: S/P AAA REPAIR
+DATA: FROM OR AT 2245. SUBTHERMIC TEMP, BAIR HUGGER AND WARM BLANKETS APPLIED.  IN NSR-SB WITH FREQUNT PAC'S.  BP 150-190, NTG ON BY ANESTH RESIDENT, OFF BY 2400 F0R DECR IN SBP TO 110.  U/O LOW, TX WITH 5500 CC NS FLUID BOLUSES. SEE FLOW SHEET FOR FILLING PRESSURES AND VS, CO/CI.  SATS 98-100 ON 50%, ABG'S GOOD.  U/A, C+S, EKG, CXR DONE.  ON PROPOFOL AND MS [**First Name (Titles) **] [**Last Name (Titles) 2129**], VECURONIUM FOR VENT CONTROL.  CA REPLETED.  ABD DISTENDED BUT QUITE SOFT WITH BOWEL SOUNDS PRESENT ON ADM TO SICU.  BY 0600 ABD TAUT, DISTENDED. NG DRAINED 125 CLEAR TAN LIQ.  DSG D+I.  BILAT DP PALP. SERIAL CK ENZYMES SENT. HCT DOWN TO 28 THIS AM.  HO AWARE.
+",,
+5228,21243,6488,0,2574-09-10 16:20:00 EST,2574-09-10 16:33:00 EST,3062,"N",54,"Nursing/Other",,"
+
+Nuero:   VENCOURIUM SHUT OFF AND PROPFOL SHUT OFF. PT ON ATIVAN AT 2MG/HR, AND MS04 AT 2MG/HR. PT IS SEDATED. PT PUPILS REMAIN 1MM AND BOTH REACT BRISKLY. NO SPONTANOUES MOVEMENT IN LEGS, BUT PT DOES WITH DRAW ALL FOUR EXTRETIES TO PAINFUL STIMULI.   PULM:  PT CONTINUES TO BE ON CMV ON 40% RATE OF 12 LAST ABG 7.32/32/98/17 DR. [**Last Name (STitle) **] [**Last Name (STitle) 206**], RATE DECREASED TO 10, ABG TO BE CHECKED AT 1800.CARD: PT REMIANS IN SR WITH FREQUENT PAC'S. SBP HAS BEEN 112-128/ 58-60(PLEASE SEE FLOW SHEET). CO 5.37 CI 2.62, SVR 909, PCWP 20 DR. [**Last Name (STitle) **], DR. [**Last Name (STitle) 8325**] AWARE.(PLEASE SEE FLOW SHEET FOR OTHER HEMODYAMNICS.) GI NG TUBE REMAINS TO LCWS. GU: URINEOUTPUT EARLIER IN DAY ONLY 8CC/HR DR. [**Last Name (STitle) **] , DR. [**First Name (STitle) 680**] AWARE, PT RECIEVED 500CC OF NS BOLUS, AND BLOOD INFUSING. BLADDER PRESSURE 19, DR. [**Last Name (STitle) **], DR. [**Last Name (STitle) **], DR. [**Last Name (STitle) 8325**] AWARE. URINEOUTPUT THEN PICKED UP TO 30CC OR GREATER THAN U/O 22,DR. [**Last Name (STitle) **] [**Last Name (STitle) 206**] PT RECIEVED 500CC NS BOLUS, URINEOUTPUT OVER NEXT HR 26, DR. [**Last Name (STitle) 6222**], DR. [**Last Name (STitle) **] [**Last Name (STitle) 206**], TO  CONTINUE TO MONITOR(PLEASE SEE FLOW SHEET FOR URINE OUTPUT). F/E HCT 28.7 RECIEVED 2UNITS OF BLOOD, REPEAT HCT 35.3. MG 1.6 TX WITH 2GM OF MAG. SULFATE. ICA 1.02 RECIEVED 2GM OF CALICUM GLUCONATE. PULSES.  RIGHT FOOT IS COOLER THAN LEFT, DR. [**Last Name (STitle) 8325**], DR. [**Last Name (STitle) **], DR. [**Last Name (STitle) **] AWARE, ABLE TO PALAPATE DP PULSES ON BOTH FEET,  EARLIER IN DAY WAS ABLE TO GET PT PULSES ON RIGHT AND LEFT PT PULSES   BY DOPPLER, THIS EVENING UNABLE TO GET DOPPLER PT PULSES, DR. [**Last Name (STitle) 6222**], DR. [**Last Name (STitle) **] [**Last Name (STitle) 206**]. LEFT ARM IS ALSO SLIGHTLY COOLER THAN RIGHT ARM ABLE TO PALAPATE RADIAL PULSES, DR. [**Last Name (STitle) **] ,DR.[**Last Name (STitle) 8325**] AWARE.
+",,
+5228,21243,6488,,2574-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-11**] 9:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9351**]
+     Reason: r/o infiltrate/effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate/effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of ruptured triple AAA with intubation and Swan-Ganz
+     placement.
+     
+     CHEST, PORTABLE: Endotracheal tube is 5cm above the carina.  Swan-Ganz
+     catheter is in right main pulmonary artery.  Introducer sheath is in right
+     brachiocephalic vein.  NG tube is in proximal stomach.  No pneumothorax. There
+     are bilateral pleural effusions as well as calcified pleural plaques
+     bilaterally as previously demonstrated. There is illdefined opacity in the
+     right upper lower zones which could in part be due to layering pleural
+     effusions but underlying pulmonary consolidations cannot be ruled out.
+
+",,
+5228,21243,6488,0,2574-09-11 01:02:00 EST,2574-09-11 01:08:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: AVSS - A/C 10/700/.40/5.
+ABG C/W PARTIALLY COMPENSATED METABOLIC
+ACIDOSIS. TX'D W/ BICARBONATE. OXYGENATION
+IS GOOD. UO IMPROVED A BIT BUT STILL
+QUITE FLUID POSITIVE. PLATEAU P 30.
+
+                      [**First Name11 (Name Pattern1) 40**] [**Last Name (NamePattern1) 41**], RRT
+",,
+5228,21243,6488,0,2574-09-11 01:42:00 EST,2574-09-11 01:49:00 EST,3772,"N",54,"Nursing/Other","FLUID STATUS","
+FLUID STATUS
+D: VS REMAIN STABLE. MAP IS IN THE 80'S. URINE OUTPUT REMAINS 30-45CC/HR. CVP IS 13-16 AND PCWP IS 23. PAD IS 24. BS ARE CLEAR TO ASCULTATION. SUCTIONED FOR SMALL AMTS OF THIN  WHITE SPUTUM. EXTREMITIES ARE COOL TO TOUCH BUT GOOD CSM AND PALPABLE PULSES, DP ARE STRONGER THAN PT. ABG   WITH PH   OF 7.27. 
+A: CONTINUE TO MONITOR FILLING PRESSURES. FLUID BOLUSES AS ORDERED. AND IV FLUID CONTINUES AT  150CC/HR. ONE AMP OF SODIUM    BICARB  GIVEN. 
+R:  URINE OUTPUT IS ADEQUATE AT THIS TIME. FILLING PRESSURE ARE UP AND  PH UP TO 7.30
+A:   ONE AMP OF SODIUM BICARB. 
+R:   RECHECK ABG AT 4AM WITH MORNING LABS.  
+",,
+5228,21243,6488,0,2574-09-11 16:25:00 EST,2574-09-11 16:34:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NUERO:  PT [**Last Name (un) **] SEDATED, ATIVAN DECREASED TO 1MG/HR, MS04 ALSO DECREASED TO 1MG/HR. PUPILS [**Last Name (un) **] EQUAL AND REACTIVE TO LIGHT. CARDS: REMAINS  IN SR, WITH PAC'S NOTED. SBP HAS BEEN LESS THAN 150(PLEASE SEE FLOW SHEET FOR VS) CO 6.38, CI 3.11 SVR 865 WEDGE 19, DR. [**First Name (STitle) **] AWARE.  PULM: PT CONTINUES ON AC, RATE 10 FI02 40%, LAST ABG 7.31/36/92/19, DR. [**First Name (STitle) **] AWARE. SUCTIONED PT FOR SCANT AMT OF CLEAR/TANNISH SECRETIONS. GI PT NGTUBE CONTINUES AT LCWS DRAINING BILOUS SECRETIONS. GU: URINE OUTPUT HAS BEEN 27-40CC/HR, DR. [**First Name (STitle) **] AWARE. F/E ICA 1.04 TX WITH 2GM OF CALICUM GLUCONATE. PT HAS PALABLE DP PULSES IN RIGHT AND LEFT FOOT. RIGHT FOOT REMIANS SLIGHTLY COOLER THAN LEFT.  UNABLE TO PALAPATE OR DOPPLER PT PULSES IN RIGHT AND LEFT FOOT, DR. [**First Name (STitle) **] AWARE.
+",,
+5228,21243,6488,0,2574-09-11 17:29:00 EST,2574-09-11 17:33:00 EST,3039,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated and mechanically ventilated, no vent changesmade today please see carevue flowsheet for specific info. Sx infrequently for small thick plugs. Episode of decreased 02 sats this pm, along w/ difficulty passing sx cath. Await ABG and continue to lavage and sx. Plan to continue with mechanical support. 
+",,
+5228,21243,6488,0,2574-09-12 01:19:00 EST,2574-09-12 01:23:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 7.0 ETT @ 23 LIP.
+AC 10/700/.50/5 - ABG C/W METABOLIC ACIDOSIS
+AND GOOD OXYGENATION. QUESTION OF ETT OBSTRUCTION
+BUT R/O BY PAP - PLATEAU P ONLY 4-5 CM H20.
+
+                        [**First Name11 (Name Pattern1) 40**] [**Last Name (NamePattern1) 41**], RRT
+",,
+5228,21243,6488,0,2574-09-12 05:58:00 EST,2574-09-12 06:08:00 EST,3772,"N",54,"Nursing/Other","HEMODYNAMICS","
+HEMODYNAMICS
+D: PT DOING WELL POST TRIPLE AAA REPAIR. URINE OUTPUT UP TO 60CC/HR. PAD IS 23 AND CVP IS 17. SWAN WILL NOT WEDGE AT THIS TIME. FIO2 INCREASED TO 50% AND PO2 IS GREATER THAN 100.  PT'S  FEET ARE COOL AND 
+PULSE ARE PALPABLE. PT REMAINS SEDATED ON 1MG OF MS02 AND 1MG  ATIVAN 
+ABD CONTINUES TO BE DISTENDED WITH NO BOWEL SOUNDS. 
+A: ATIVAN DC'D. LR CONTINUES AT 150CC/HR ? BEGIN TO DIURISE TODAY. 
+R: DOING WELL POSTOP. AWAIT TO SEE HOW MUCH PT WAKES UP OFF ATIVAN.    
+",,
+5228,21243,6488,0,2574-09-12 13:32:00 EST,2574-09-12 13:42:00 EST,3409,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+SEE FLOWSHEET FOR SPECIFICS
+
+CV-AFEBRILE. HR 70-80'S, NSR WITH OCC PAC'S AND RARE PVC'S. SBP SUSTAINED > 150, ADDITIONAL 2.5MG LOPRESSOR GIVEN, NOW SBP MOSTLY 140'S. PAD 19-27. CVP 11-18. 40MG IV LASIX GIVEN THIS AM WITH +DIURESIS. PT CON'T EDEMATOUS THROUGHOUT. L FOOT SL COOLER THAN RIGHT AND SOMEWHAT MOTTLED LOOKING. +PP. PBOOTS ON. 
+
+RESP-PT CON'T ON CMV RATE 10, TV 700, 50% FIO2. O2 SAT 98%. LS COARSE. 
+
+GI-ABD LARGE, DISTENDED. HYPOACTIVE BS. TF STARTED. TOL WELL. WILL INCREASE TO GOAL 60CC/HR. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS.
+
+COMFORT-ATIVAN GTT OFF. CAN GET ATIVAN PRN. PT STARTING TO WAKE. OPENS EYES SPONT AT TIMES. RESPONDS TO VOICE AND PAIN. MAE SL ON BED. PT GRIMACING AT TIMES. MSO4 GTT INCREASED TO 2MG/HR.
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. ASSESS PAIN CONTROL. INCREASE TF AS TOL. TO START TPN TONOC. MONITOR EFFECTS OF LASIX. 
+",,
+5228,21243,6488,0,2574-09-13 03:46:00 EST,2574-09-13 03:57:00 EST,3495,"N",54,"Nursing/Other","system update","
+system update
+d: hemodynamics- t max 99.6. hr 70-85 nsr with frequent pac and rare pvc's. sbp 130-170- continues on lopressor q6hrs. pad 20-14, wedge 12, ci>2.2. bppp by doppler
+resp- changed to simv with adequate abg's, pt biting on tube- oral airway placed, sx for sm amts tan secretions. bs coarse throughout
+gi- started on tf at 20cc/hr- residual 130- tf held for 4 hrs,    repeat residual 5cc, tf again restarted at 20cc/hr, hypoactive bs present, also started on tpn tonight
+gu- clear amber via foley- uo>80cc/hr
+neuro- ativan gtt d/c'd on days, ms gtt d/c'd at 2000. pt attempts to open eyes when name called, minimal movement of extremities seen
+wound- abd incision clean and dry, dressing changed for old sang drainage, 
+a: hemodynamics monitored with goal of sbp<150-160, tpn started, tf restarted 
+r: hemodynamically stable, bp slightly higher at times- ? increase lopressor dose, continue to monitor tf residual- increase as ordered
+",,
+5228,21243,6488,0,2574-09-13 16:30:00 EST,2574-09-13 16:45:00 EST,3409,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+SEE FLOWSHEET FOR SPECIFICS.
+
+NEURO-PT SL MORE AWAKE TODAY. OCC OPENS EYES SPONT. RESPONDS TO VOICE AND TACTILE STIMULI. MSO4 AND ATIVAN PRN FOR COMFORT. 
+
+CV-LOW GRADE TEMP. TMAX 100.8. HR 70-80'S, NSR WITH FREQ PAC'S AND RARE PVC'S. LYTES WNL. SBP CONSISTENTLEY 170'S. LOPRESSOR DOSE INCREASED, VASOTEC AND HYDRALAZINE STARTED. 40MG IV LASIX GIVEN THIS AM WITH + DIURESIS. PAD 18-24, CVP 9-15. +PP. 
+
+RESP-VENT CHANGED TO CPAP, PEEP 5, IPS 15, FIO2 50%. SPONT TV 400'S. RR 16-22. O2 SAT 96-98%. LS COARSE, DECREASED AT BASES. SXN PRN FOR THICK TAN SPUTUM.
+
+GI-TF HELD TODAY. TPN CON'T. ABD DISTENDED, BUT SOFTER THAN [**2574-9-12**]. +BS. +FLATUS. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS. 
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. WEAN VENT AS TOL. ? RESTART TF. MONITOR EFFECT OF ADDED ANTIHYPERTENSIVES. ASSESS PAIN CONTROL. 
+",,
+5228,21243,6488,0,2574-09-14 12:41:00 EST,2574-09-14 12:52:00 EST,3409,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+SEE FLOWSHEET FOR SPECIFICS
+
+NEURO-PT MORE AWAKE TODAY. BUT CON'T LETHARGIC. OPENS EYES SPONT. MAE SPONT ON BED. FOLLOWS COMMANDS AT TIMES. MSO4 PRN FOR PAIN CONTROL. 
+
+CV-AFEBRILE. HR 70-90'S, NSR WITH OCC PAC'S. SBP 130-160, UP TO 200'S WITH STIMULATION. CON'T ON IV LOPRESSOR AND VASOTEC. SKIN W+D. +PP. CON'T WITH EDEMA BUT IMPROVING. SWAN D/[**Name6 (MD) **] BY MD. [**First Name (Titles) **] [**Last Name (Titles) 8326**] TRAUMA LINE IN PLACE. IV LASIX DOSE GIVEN WITH + DIURESIS. 
+
+RESP-T PIECE TRAIL THIS AM. PT UNABLE TO TOL AND PLACED BACK ON VENT AFTER 10 MINUTES. SLOW VENT WEAN TODAY. CON'T ON CPAP, PEEP 5, IPS CURRENTLY AT 12 TO KEEP SPONT TV >400. FIO2 50%. RR 10-24. O2 SAT 95-97%. SXN PRN FOR THICK TAN SPUTUM. 
+
+GI-ABD SOFTLY DISTENDED, NONTENDER. +BS. TF RESTARTED. WILL ADVANCE AS TOL. TPN CON'T. 
+
+GU-VOIDING VIA FOLEY.
+
+PLAN-CON'T WITH CURRENT PLAN. VENT WEAN AS TOL. ADVANCE TF AS TOL. 
+",,
+5228,21243,6488,0,2574-09-15 04:58:00 EST,2574-09-15 05:02:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+7.0 OET patent/secure.  B/S with scattered rhonchi>>ETS for moderate, thick, yellow.  ABG's well oxygenated with a fully compensated respiratory acidosis>>weaned to low level PS, with VT's 300-400cc.  RR in mid to high 20's.  Pt. appears synchronous with current level of support.  Will recheck ABG's, and evaluate for possible extubation.
+",,
+5228,21243,6488,0,2574-09-15 14:32:00 EST,2574-09-15 14:37:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt intubated with 7.0ETT, received on CPAP 5 PSV 8 with ABG 7.41/42/117. Good ABG's but RR up to 28-30 and Pt hypertensive so placed up to PSV 10 to rest. Although BP came down RR remained about 28 so PSV further increased up to 12 with good effect. RR coming down to 22-24 and TV 400 range. Sxn for yellow secretions. Plan is to rest today on settings of CPAP5 PSV 12 50%, diurese, and reeval in AM for wean to extubation.
+",,
+5228,21243,6488,1,2574-09-15 14:32:00 EST,2574-09-15 17:26:00 EST,3568,"Y",54,"Nursing/Other",,"
+
+Increased RR to 28-30 again on PSV 12. Level increase to 15 with good result. Cont PSV 15 overnight as tolerated.
+",,
+5228,21243,6488,0,2574-09-15 15:17:00 EST,2574-09-15 15:34:00 EST,3409,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+SEE FLOWSHEET FOR SPECIFICS
+
+NEURO-PT MUCH MORE AWAKE TODAY. OPENS EYES SPONT. FOLLOWS COMMANDS. MSO4 PRN FOR PAIN CONTROL.
+
+CV-TMAX 100.5. HR 80-90, NSR WITH PAC'S. SBP 120-150'S, ALTHOUGH UP TO 230'S WITH STIMULATION. CON'T ON IV LOPRESSOR AND VASOTEC. SKIN W+D. +PP. FEET WARM. EDEMA IMPROVING. CVP 8-12. LASIX DOSE GIVEN WITH + DIURESIS. 
+
+RESP-PT INITIALLY ON CPAP 5, IPS 8, 50%FIO2 THIS AM. TOL FAIRLY WELL. PT PLACED ON 10 THEN 12 OF IPS. PT RESP APPEAR MUCH MORE COMFORTABLE. RR 22-28. O2 SAT 95-98%. TV LOW 400'S. PLAN IS TO REST ON THESE SETTINGS TODAY AND ? EXTUBATE IN AM.
+
+GI-ABD SOFTLY DISTENDED. +BS. TF D/C'D. CON'T ON TPN. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS. 
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. ASSESS PAIN. FOLLOW EFFECTS OF IV LASIX.  ? EXTUBATE IN AM. TPN.
+",,
+5228,21243,6488,,2574-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-16**] 6:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9352**]
+     Reason: R/O INFILTRATE/EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      R/O INFILTRATE/EFFUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ruptured AAA, decreased oxygen saturation.
+     
+     PORTABLE AP CHEST:  ETT is well-positioned.  The NGT courses into the stomach.
+     There is a small amount of air adjacent to the NGT, likely within a hiatal
+     hernia.  There has been interval removal of the right Swan-Ganz catheter.
+     There remains right internal jugular cordis with tip in the right
+     brachiocephalic vein.  No pneumothorax.  There are bilateral pleural effusions
+     and bibasilar atelectasis.  There is central opacity and indistinctness of the
+     pulmonary vessels, representing mild CHF.  There are bilateral calcified
+     pleural plaques.
+     
+     IMPRESSION:  1)  Lines and tubes as above.  2)  Bilateral pleural effusions
+     with bibasilar atelectasis.  3)  Mild CHF.  4)  No significant change in the
+     lung fields compared with [**2574-9-11**].
+
+",,
+5228,21243,6488,,2574-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-16**] 1:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9353**]
+     Reason: ETT CHANGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      ETT CHANGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change ETT.
+     
+     A single view of the chest was submitted. The ETT, right jugular introducer as
+     well as the NGT are in the appropriate position.  The cardiomediastinal
+     contours are difficult to assess because of patient rotation to the left.
+     There is bilateral hazy opacity which obscured both hemidiaphragms.  These are
+     unchanged from the prior examination.  There is no pneumothorax.  The osseous
+     structures are grossly unremarkable.  There is calcific densities at both
+     bases suggesting pleural plaques.
+     
+     IMPRESSION:  Appropriately positioned ETT.  Bilateral stable pleural effusion.
+
+",,
+5228,21243,6488,,2574-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5228,21243,6488,0,2574-09-16 02:45:00 EST,2574-09-16 02:53:00 EST,3495,"N",54,"Nursing/Other","SYSTEM UPDATE","
+SYSTEM UPDATE
+D: HEMODYNAMICS: T MAX 99.5. REMAINS IN NSR WITH FREQUENT PAC'S AND RARE PVC'S. SBP 108 WHEN SLEEPING TO 208 WHEN TURNING PATIENT. CONTINUES ON IV ENALAPRIL AND IV LOPRESSOR. 
+RESP: CPAP WITH 15 IPS. SX FOR MOD AMTS THIN YELLOW SECRETIONS. BS COARSE AND DIMINISHED IN BASES. SATS >98%
+GI- NPO, NGT CLAMPED. BS+, NO STOOL
+GU- LASIX 40MG IV GIVEN WITH EXCELLENT DIURESIS. HUO AFTER DIURESIS 80-200.
+NEURO- OPENS EYES TO NAME AND SPONT, LETHARGIC BUT AROUSABLE, ABLE TO LIFT AND FALL BACK WITH ALL EXTREMITIES.
+INTEGIMENTARY= ABD INCISION CLEAN AND DRY WITH SM AMT SEROSANG DRAINAGE FROM LOWER ASPECT. PT HAS BLISTER SITE ON RIGHT ABD- WOUND GEL APPLIED AND DSD. SCROTUM REMAINS EDEMATOUS AND PURPLE IN COLOR- HO AWARE. PLACED ON AIR BED TONIGHT
+A: HEMODYNAMICS MONITORED, SX Q2HRS AND PRN, AIR BED 
+R: STABLE, ATTEMPT TO WEAN IPS IN AM, PT NEED PT/OT CONSULT, ? OOB TO CHAIR 
+",,
+5228,21243,6488,0,2574-09-16 05:14:00 EST,2574-09-16 05:18:00 EST,3495,"N",54,"Nursing/Other","RESP","
+RESP
+D: AT 0500- PT TURNED TO LEFT SIDE, SAT 98-100%. BY 0530- SAT 88%. PT AMBU'ED AND LAVAGED FOR THICK YELLOW SECRETIONS. SAT SLOWLY INCREASED TO 97%. WITHIN 5 MINUTES, SATS AGAIN DROPPING TO 91%. DR [**First Name (STitle) **] IN TO SEE PATIENT, ABG SENT, PT AGAIN SX'D FOR LARGE AMT THICK YELLOW. PO2 60 ON ABG- FIO2 INCREASED TO 100%,  CXR ORDERED. BS FAIRLY CLEAR AT THIS TIME. 
+R: OXYGENATION POOR=? PE, AWAIT CXR RESULTS
+",,
+5228,21243,6488,0,2574-09-16 12:46:00 EST,2574-09-16 12:57:00 EST,-1,"N",54,"Nursing/Other",,"
+
+RESP CARE NOTE
+PT RECEIVED INTUBATE WITH 7.O ETT SECURE/PSV15/PEEP 5/50% PT WAS REINTUBATED AT 11AM WITH #8.0 ETT. TO FACILITATE BRONCH AND WEANING BRONCH DONE WITHOUT  INCIDENT   FINDINGS  AIRWAYS SLIGHTLY EDEMATOUS. PT PEEP INCREASED TO 7.5 DUE TO BIBASILAR ATELECTASIS. CURRENT VENT SETTING CPAP 7.5/PSV15/50% WITH VT 500 RANGE AND RR15. PLAN TO MAINTAIN CURRENT VENT SETTING AND CONT. TO DIURESIS  WITH PLANS TO EXTUBATE 1-2 DAYS. 
+
+",,
+5228,21243,6488,0,2574-09-16 15:58:00 EST,2574-09-16 16:07:00 EST,3775,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D: PT REMAINS INTUBATED ON CPAP 5 WITH IPS 15CMS  O2 SAT 96% REMAINS HYPERTENSIVE 160-180'S DESPITE LOPRESSOR AND ENALOPRIL Q 6HRS  DIURESED MOST OF THE DAY WITH HUO >100CC  HE IS MORE ALERT AND APPEARS TO BE APPROPRIATE MOUTHING WORDS AND NODDING TO QUESTIONS.  ABD INCISION DRNG SM AMT FROM LOWER POLE.  FEET WARM WITH PALPABLE PULSES.
+A:  REINTUBATED WITH #8 ETT FOR BRONCH AND WEANING.  INCREASED CPAP TO 7.5CMS DUE TO BILATERAL ATELECTASIS.  MEDICATED WITH ATIVAN AND MS PRN
+GIVEN DIAMOX Q 8HRS X 24HRS.  
+R:  TOLERATED BRONCH WELL AND O2 SAT 100% ON CPAP 7.5  SPONT TV'S 440-550CC RR REASONABLE AT 12-24
+PLAN:  TO MONITOR BP, REEVAL MEDS.  TO BEGIN SLOW WEAN ON IPS TOMORROW.  DIURESE WITH DIAMOX X 2 MORE DOSES
+",,
+5228,21243,6488,0,2574-09-17 02:04:00 EST,2574-09-17 02:12:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: VS=BP 150-180'S. ENALAPRIL INCREASED TO 5MG IV Q6HR. LOPRESSOR 15MG IV Q QHRS. MSO4 4MG IV FOR PAIN. SKIN JAUNDICED. URINE >100CC/HR AND AMBER IN COLOR. OPENS EYES TO VOICE AND COMMANDS. MOVES ALL EXTREMITIES. TPN INFUSING. ABD INCISION INTACT. SUCTIONED FOR MOD-COPIUS AMTS OF THICK BLOOD TINGE SPUTUM. LAVAGED AND AMBUED. BRONCH DONE TODAY AND EDEMA SEEN IN LUNGS. HO NOTIFIED. 
+ACTION: ENALPRIL AND LOPRESSOR FOR BP CONTROL. HYDRALAZINE 10MG IV X1 GIVEN. ATIVAN AND MSO4 IV FOR COMFORT. LABS PRN. 
+RESPONSE: MONITOR CLOSELY. 
+",,
+5228,21243,6488,0,2574-09-17 16:39:00 EST,2574-09-17 16:45:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NUERO: PT DOES OPEN HIS EYES WHEN [**Doctor First Name **] CALL HIS NAME, PT PUPILS BOTH EQUAL AND REACTIVE TO LIGHT, PT FOLLOWS COMMANDS. PT RECIEVED 2MG OF IV  MORPHINE FOR PAIN X2 WITH GOOD RESULTS. CARDS: PT REMAINS IN SR WITH PAC'S NOTED AT TIMES.  BP 130'S-150'S. PT CONTINUES ON LOPRESSOR, HYDRALAZINE, AND VASOTEC FOR BP CONTROL(PLEASE SEE FLOW SHEET FOR VS). PT RECIEVED ONE DOSE OF DIAMOX TODAY. RESP: PT CONTINUES ON CPAP, PS DECREASED TO 12(PLEASE SEE FLOW SHEET FOR VENT SETTINGS).  ABG 7.38/40/95/25 DR. [**First Name (STitle) **] AWARE. PS DECREASED TO  10. THIS MORNING SUCTIONING FOR BLOODY SPUTUM, THIS AFTERNOON MORE TANNISH IN COLOR. GI: PT REMIANS NPO, NG TUBE TO LWCS. GU: URINEOUTPUT HAS BEEN 60CC OR GREATER PER HOUR.  PT WITH PALABLE PULSES PEDAL, FEET WARM BILATERALLY. 
+",,
+5228,21243,6488,,2574-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-18**] 12:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9354**]
+     Reason: S/P LINE CHANGEMENT. PLEASE ASSESS LOCATION.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      S/P LINE CHANGEMENT. PLEASE ASSESS LOCATION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Central venous catheter change.
+     
+     Comparison is made to previous study of two days earlier.
+     
+     A nasogastric tube is present, with the side port terminating well above the
+     GE junction level and the distal tip near the thoracoabdominal junction.  ET
+     tube is in satisfactory position.  There is a new right internal jugular
+     central venous catheter present, which courses into the SVC.  No pneumothorax
+     is identified.
+     
+     The heart is enlarged.  There is increased pulmonary vascularity and bilateral
+     perhilar haziness.  There remain bilateral pleural effusions, right greater
+     than left, superimposed upon diffuse areas of bilateral pleural calcification.
+      There remains dense left retrocardiac opacification.
+     
+     IMPRESSION:
+     
+     1. Satisfactory placement of central venous catheter with no evidence of
+     pneumothorax.
+     
+     2. Proximal location of NG tube with side port well above the GE junction
+     level.
+     
+     3. Congestive heart failure with bilateral pleural effusions.
+     
+     4. Persistent retrocardiac opacity, which may relate to atelectasis, but
+     pneumonia cannot be excluded in the appropriate clinical setting.
+
+",,
+5228,21243,6488,,2574-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-18**] 5:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9355**]
+     Reason: S/P l sc LINE PLACEMENT. PLEASE EVAL.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      S/P l sc LINE PLACEMENT. PLEASE EVAL.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Central venous catheter placement in patient status post
+     repair of aneurysm.
+     
+     Comparison is made to previous study of earlier the same date.
+     
+     A left subclavian central venous catheter has been placed in the interval.  It
+     courses into the left brachiocephalic vein, but the distal tip is not well
+     demonstrated beyond this level.  A right internal jugular central venous
+     catheter and nasogastric tube remain in place.
+     
+     Cardiac and mediastinal contours are stable.  There is a persistent moderate
+     right and small left pleural effusion, superimposed upon underlying changes of
+     pleural plaque calcifications.
+     
+     No pneumothorax is identified.
+     
+     IMPRESSION:  1)  Left subclavian central venous catheter enters left
+     brachiocephalic vein but is not well demonstrated beyond this level.  Repeat
+     non rotated view may be helpful to better assess catheter tip.
+     
+     2)  Persistent bilateral pleural effusions and extensive pleural
+     calcifications.   
+
+",,
+5228,21243,6488,0,2574-09-18 04:09:00 EST,2574-09-18 04:20:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: BP IN BETTER CONTROL TONITE. ON IV LOPRESSOR, IV HYDRALAZINE AND IV ENALAPRIL. SUCTIONED FOR LG AMT OF TAN SPUTUM. GOOD U.O. HA INFUSING. MORE AWAKE AND FOLLOWS CONMMANDS. ABD DISTENDED AND NGT DRAINING BILIOUS DRAINAGE. SKIN JAUNDICED. 
+ 
+ACTION: LABS DRAWN. ATIVAN AND IV MSO4 FOR PAIN AND AGITATION CONTROL.ANTIHYPERTENSIVES AS ORDERED. 
+RESPONSE: MONITOR CLOSELY. 
+",,
+5228,21243,6488,0,2574-09-18 05:38:00 EST,2574-09-18 05:46:00 EST,3508,"N",54,"Nursing/Other","Repiratory care:","
+Repiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. ABG on the following settings of cpap/ps. Peep of 7.5 PS 12 Fio2 40% was 141/41/7.38/25/0. Patient became restless around 0515. BS Coarse at this time. Patient was manually vented and suctioned via ETT for copious amounts of thick yellow/Blood tinged secretions. Patient was also suctioned for a large blood tinged plug. Patient more comfortable after suctioning. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Continue aggressive pulmonary hygiene.
+",,
+5228,21243,6488,0,2574-09-18 15:11:00 EST,2574-09-18 15:18:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NUERO: PT OPEN HIS EYES WHEN [**Doctor First Name **] CALL HIS NAME, PT FOLLOWS COMMANDS. PUPILS BOTH EQUAL AND REACTIVE TO LIGHT. ASKED PT IF HE WAS IN PAIN HE NODDED HIS HEAD YES, RECIEVED 2MG OF IV MORPHINE X2 WITH GOOD EFFECT. CARDS: PT REMIANS IN SR, PAC'S NOTED AT TIMES, BP HAS BEEN 120-150'S(PLEASE SEE FLOW SHEET FOR VS), PT CONTINUES ON VASOTEC, HYDRALAZINE,LOPRESSOR. RESP: PT REMIANS ON CPAP PS DECREASED TO 10 THIS MORNING, PT TOLERATING DECREASED PRESSURE SUPPORT. SUCTIONING PT FOR BROWNISH SPUTUM.  GI: NGTUBE PULLED BACK BY DR. [**Last Name (STitle) 8327**]. PT CONTINUES TO DRAIN BILOUS DRAINAGE. GU: PT MAKING 30-60CC OF AMBER COLOR URINE PER HOUR. LINES. RIGHT IJ TRAUMA LINE CHANGED OVER A WIRE BY DR. [**Last Name (STitle) 8327**], LINE CONFIRMED BY CXR PLACEMENT. 
+",,
+5228,21243,6488,0,2574-09-18 19:57:00 EST,2574-09-18 19:59:00 EST,3062,"N",54,"Nursing/Other",,"
+
+ADD:  RIGHT IJ TRIPLE LUMEN LEAKING IV FLUID, DR. [**Last Name (STitle) 8327**] CALLED AND INTO ASSESS PATIENT, LINE RESITED TO LEFT SUBCLAVIN, LINE CONFIRMED BY CXR. 
+",,
+5228,21243,6488,0,2574-09-19 03:08:00 EST,2574-09-19 03:12:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Settings: Cpap/PS IP of10 peep 7.5 fio2 40%. Vt are around 500-600 with respiratory rates in the20's. BS Are coarse. Suctioned for large amounts of thick yellow secretion.
+Plan: Continue mechanical ventilation.
+",,
+5228,21243,6488,0,2574-09-19 13:54:00 EST,2574-09-19 14:13:00 EST,3409,"N",54,"Nursing/Other","NSG PROGRESS NOTE","
+NSG PROGRESS NOTE
+SEE FLOWSHEET FOR SPECIFICS.
+
+NEURO-AWAKE AND ALERT. FOLLOWS COMMANDS. NODS AND MOUTHS WORDS APPROP. ABLE TO WRITE , BUT WITH MUCH DIFFICULTY D/T LINES IN RIGHT ARM. 
+
+CV-AFEBRILE. HR 70'S. SBP 100-130, ALTHOUGH OCC DOWN TO HIGH 80'S, WHICH RESOLVES SPONT. ENALAPRIL D/C'D. CON'T ON LOPRESSOR AND HYDRALAZINE. CVP 12-16. SKIN W+D. +PP BILAT. FEET WARM. 
+
+RESP-VENT WEANED TO CPAP 5/5. FIO2 40%. PT APPEARS COMFORTABLE ON THESE SETTINGS. RR 22. O2 SAT 97%. SPONT TIDAL VOL 350-420. ABG CHECKED, WNL, SEE FLOWSHEET. WILL KEEP PT ON [**3-26**] AS TOL. LS COARSE. SXN X FEW FOR THICK TANISH SL BLOODTINGED SPUTUM. 
+
+GI-ABD DISTENDED. +BS. NGT TO LWS WITH BILIOUS DRG. TPN CON'T. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS AMBER URINE. 
+
+COMFORT-MSO4 PRN WITH ADEQ EFFECT. 
+
+SKIN-CON'T ON AIRBED. REPOSTIONED FREQ. SCROTUM REMAINS EDEMATOUS AND PURPLE. NO BREAKDOWNN NOTED. PT WITH AREA OF ECCHYMOSIS ON L FLANK. MD AWARE.
+
+PLAN-CON'T WITH CURRENT PLAN. CON'T ON CPAP 5/5 AS TOL. TO REST ON GREATER IPS OVER NOC. TPN. MONITOR FOR CHANGES. ASSESS PAIN CONTROL.
+",,
+5228,21243,6488,0,2574-09-19 18:20:00 EST,2574-09-19 18:23:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings CPAP5 PSV 5 40% with TV 400-500 and RR 24-28. Pt weaned to these settings today and has tolerated well with good ABG. Plan to rest on PSV 10 overnight and possibly extub. in AM
+",,
+5228,21243,6488,0,2574-09-19 22:09:00 EST,2574-09-19 22:26:00 EST,3775,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D:  PT IS AWAKE AND ALERT AND VERY COOPERATIVE.  REMAINS ON CPAP 5 WITH IPS 5 RR 18-26 TV'S 410-450  LUNGS DIMINISHED LOWER LOBES.    
+HYPOTENSIVE SBP 80'S  HUO 35-60CC
+A: GIVEN A 250CC NS BOLUS.  LOPRESSOR AND HAYDRALAZINE HELD
+IPS 610CMS TO ALLOW PT TO REST OVERNIGHT
+R:  BP IMPROVED TO 106-120 REST OF THE EVENING  SPONT TV'S ^510-600CC VOLUME ON IPS 10.  RR 17
+PLAN:  TO EXTUBATE TOMORROW AM.  CONTINUE HYPERAL TIL BOWEL FUNCTIONING AND CAN TOLERATE TF.  MAY WANT TO GIVE PT DULCOLAX SUPP
+MONITOR BP CLOSELY WHILE HOLDING ANTIHYPERTENSIVES.  MONITOR URINE OUTPUT
+
+",,
+5228,21243,6488,0,2574-09-20 03:57:00 EST,2574-09-20 04:02:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: VSS. IV HYDRALAZINE AND IV ENALPRIL D/C'D. IV LOPRESSOR ON HOLD. ALERT AND ORIENTED. FOLLOWS COMMANDS. REMAINS INTUBATED. SUCTIONED FOR MOD AMT OF THICK TAN SPUTUM. GOOD U.O. COMPLAINED OF BACK DISCOMFORT. MSO4 SC X2 GIVEN WITH GOOD RELIEF. PT SLEPT WELL. HA INFUSING. 
+ACTION: MOS4 FOR PAIN CONTROL WITH RELIEF. NGT TO LCWS. TPN INFUSING. LABS PRN. MONITOR ABG FOR ?EXTUBATION. 
+RESPONSE: MONITOR CLOSELY. 
+",,
+5228,21243,6488,0,2574-09-20 05:50:00 EST,2574-09-20 05:54:00 EST,-1,"N",54,"Nursing/Other","RESP CARE","
+RESP CARE
+PT RESTED ON CPAP/PS 10/5 FOR THE NIGHT.BS: COARSE RHONCHI ANT. SXN'D X1 FOR MOD. TAN THICK. VTS 450-700 T/O NIGHT ON THESE SETTINGS WITH STABLE SPO2 96-99% AND ACCEPTABLE ABGS. PLACED BACK ON [**3-26**] THIS MORNING @0530, TOLERATING WELL, PLAN IS TO EXTUBATE ON DAYS.
+",,
+5228,21243,6488,0,2574-09-20 18:33:00 EST,2574-09-20 18:42:00 EST,3360,"N",54,"Nursing/Other","Nsg progress note","
+Nsg progress note
+Neuro:A+O x3 post extubationl Pt aware of surgery and events PTA. Speech clear. MSO4 SQ PRN for pain. 
+CV:Lop restrated at 10mg q6. SBP 140-15-/50's. NSR 70's, no ectopy. OOB to chair with 2 assist-pivot. Pt able to bear weight but weak in stepping. A-line d/c'd. Triple lumen central line intact. benign.
+RESP:Extubated this AM without incidence. On 4lNC with o2sat's 96-98%+productive cough of thick white sputum. pt indep using yankauer to raise secrestions. CPT done with position changes.
+GI:abd remains distended semi-firm. Tube feeds initally started via NGT and on x1hour then D/C'd per vascular requests. +bs, No flatus, No BM. NGT to LCWS drng dark bilious drng.
+GU:foley patent drng amber dark urine. ? foley leaking this eve- balloon reinflated, no further drng.  
+SKIN:remains slightly jaundiced. Liver enzymes per team indicative of abd blood reabsorption. Abd incision OTA wtih staples. Scrotum remains edematous with bruising.
+
+PLAN:Cont CPT/C+DB, encourage yankauer use. PT/OT following. CM to see wed. SBP goal 150.
+ 
+",,
+5228,21243,6488,,2574-09-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-21**] 3:14 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 9356**]
+     Reason: [**Age over 90 **] year old male s/p ruptured AAA repair with highly elevate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with elevated bilirubin of 9.0 s/p ruptured AAA repair.  Please
+      eval RUQ. 
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] year old male s/p ruptured AAA repair with highly elevated bilirubin of 9.0
+      Please eval RUQ.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of ruptured AAA with right upper quadrant pain.
+     
+     FINDINGS:  The gallbladder is distended, containing multiple gallstones and
+     sludge.  The gallbladder wall is normal.  There is no pericholecystic fluid.
+     The common bile duct is normal and measures 6 mm.  The visualized liver is
+     unremarkable.
+     
+     IMPRESSION:  Distended gallbladder with cholelithiasis and sludge, without
+     evidence of acute cholecystitis.
+     
+
+",,
+5228,21243,6488,0,2574-09-21 06:27:00 EST,2574-09-21 06:30:00 EST,3772,"N",54,"Nursing/Other","resp. status","
+resp. status
+d: pt continues to do well extubated on 4l of nc. he continues to cough and raise thick white sputum . bs remain clear,. 02 sast is 95% on 4l of nasel cannula and pt's breathing appear comfortable. 
+a:  cpt as tolerated, encourage to cough and deep  breeathe. oob  with pt/ot. continue to hold tf at this time. 
+r: doing well extubated. pt with strong cough and raising large amts. of thick white sputum.   
+",,
+5228,21243,6488,0,2574-09-21 10:59:00 EST,2574-09-21 11:21:00 EST,3409,"N",54,"Nursing/Other","nsg transfer note","
+nsg transfer note
+SEE FLOWSHEET FOR SPECIFICS.
+
+PT IS A 89 Y/O MALE ADMITTED TO [**Hospital1 2**] ON [**2574-9-9**] AND UNDERWENT AN EMERGENT REPAIR OF A RUPTURED AAA. INTRA OP PT WITH LG EBL AND RECEIVED SEVERAL BLOOD PRODUCTS. POST OP COURSE SIGNIFICANT FOR HYPERTENSION REQUIRING LG DOSES OF HYDRALAZINE, VASOTEC AND LOPRESSOR, AS WELL AS A CLONIDINE PATCH. BP NOW MUCH IMPROVED AND PT ONLY ON LOPRESSOR AND CLONIDINE PATCH. PT WAS SLOW TO WEAN FROM VENT. HE WAS EXTUBATED ON [**2574-9-20**]. PE AS FOLLOWS:
+
+PMH: CHRONIC BACK PAIN FORM COMPRESSION FRACTURES, OTHERWISE HEALTHY.
+
+ALLERGIES: NKDA.
+
+CV-AFEBRILE. HR 70'S, NSR. SBP 140-150'S. DENIES CARDIAC COMPLAINTS. +PP. +1 EDEMA. PBOOTS ON. TLCL INTACT, SITE WNL. 
+
+RESP-O2 SAT 97% 4LNC. RR 23-28. LS COARSE. PT WITH FAIRLY PRODUCTIVE COUGH. USING YANKEAR INDEPENDENTLY FOR THICK WHITE SPUTUM. NARD NOTED.
+
+GI-ABD DISTENDED. +HYPOACTIVE BS. NGT TO LWS WITH BILIOUS DRG. ON TPN.
+
+GU-VOIDING VIA FOLEY ADEQ AMTS AMBER URINE.
+
+ACT-MAE. OOB TO CHAIR. PT/OT FOLLOWING.
+
+COMFORT-MSO4 PRN FOR C/O BACK PAIN, REPORTEDLY PER BASELINE.
+
+SKIN-ABD INC WITH STAPLES, C/D/I, PINK AT EDGES. SCROTUM EDEMATOUS BUT IMPROVING, PINK.  OTHERWISE SKIN INTACT. ON AIRBED.
+
+PLAN-CON'T WITH CURENT PLAN. MONITOR FOR CHANGES. OOB AS TOL. PT/OT. PULM HYGIENE. TRANSFER TO VICU.
+",,
+5228,21243,,,2574-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-22**] 10:25 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 9357**]
+     Reason: S/P AAA REPAIR, R/O OBSTR. VS. ILEUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p intra-abd AAA repair, now w/ continued hi NGT output. please r/o
+      obstruction vs ileus.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Repair of AAA with persistent ING output.  Evaluate for intestinal
+     obstruction.
+     
+     Gas and fecal residue are present throughout the colon and there is no
+     evidence for intestinal obstruction.  No free intraperitoneal gas.  NG tube is
+     in region of esophagogastric junction.  There are bilateral pleural plaques
+     and calcification indicative of prior asbestos exposure and probable bilateral
+     pleural effusions.
+     
+     IMPRESSION:  No evidence for intestinal obstruction.
+     
+
+",,
+5228,21243,,,2574-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-23**] 6:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9358**]
+     Reason: s/p AAA repair. now w/ tachypnea. please r/o pna.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair. now w/ tachypnea. please r/o pna.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 y/o man s/p ruptured AAA with decreased O2 sats now with
+     tachypnea, please r/o pneumonia.
+     
+     CHEST PORTABLE: Comparison is made to a prior study of [**2574-9-18**]. The film is
+     underpenetrated. There is cardiomegaly. The mediastinum and hilar contours are
+     unremarkable. The pulmonary vasculature is within normal limits. There are
+     bilateral pleural effusions which are stable. There is opacification of the
+     retrocardiac region. Extensive pleural calcifications are noted.
+     
+     IMPRESSION: 1) Persistent opacification of the retrocardiac region. Pneumonia
+     in this area cannot be excluded.
+     
+     2) Bilateral pleural effusions unchanged. Extensive pleural calcifications
+     bilaterally.
+
+",,
+5228,21243,,,2574-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-24**] 7:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9359**]
+     Reason: f/u of patient with CHF and resp distress.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA W/ DECREASED O2 SATS
+     REASON FOR THIS EXAMINATION:
+      f/u of patient with CHF and resp distress.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ruptured AAA increasing oxygen requirements, CHF.
+     
+     There is no appreciable change in the appearance of the chest since the last
+     chest xray of 6:25 AM on [**2574-9-23**].
+     
+     IMPRESSION: No change over the past 25 hours.
+
+",,
+5228,21243,,,2574-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-24**] 9:05 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9360**]
+     Reason: PLEASE E4VAL ILEUS AND NGT PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      please eval ileus and NGT placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Ileus, NG tube placement.
+     
+     Supine view of the abdomen is submitted.  There is a sclerosis of L2. There is
+     loss of height of multiple lumbar vertebral bodies.  There is a nonspecific
+     bowel gas pattern. There is a paucity of air within the right colon, however
+     there is no evidence of significantly dilated loops of bowel.  The tip of the
+     NG tube is just at the GE junction and the proximal port of the NG tube is
+     within the esophagus.  The NG tube should be advanced approximately 10 - 15
+     cm. Evaluation for free air is limited as there was no upright film obtained.
+     
+     IMPRESSION:  Nonspecific bowel gas pattern.  The tip of the NG tube is just at
+     the GE junction and should be advanced.
+
+",,
+5228,21243,,,2574-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-28**] 2:38 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 9361**]
+     Reason: ELEVATED BILIRUBEN AND ALK PHOS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with elevated bilirubin of 9.0 s/p ruptured AAA repair.  Please
+      eval RUQ. 
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] y/o M pod #18 s/p AAA repair, now with markedly elevated t. bili and alk
+      phos.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Elevated bilirubin, status post abdominal aortic aneursym repair.
+     
+     FINDINGS: Comparison study dated [**2574-9-21**]. Again seen is a mildly distended
+     gallbladder containing sludge and multiple dependent gallstones extending to
+     the level of the neck. The common hepatic duct measures .63 which is within
+     normal limits for a patient of this age. There is no gallbladder wall
+     thickening or pericholecystic fluid. Remainder of the exam appears unchanged
+     as well.
+     
+     IMPRESSION:  Findings consistent with cholelithiasis only no current evidence
+     of cholecystitis.
+
+",,
+5228,21243,,,2574-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-9-29**] 9:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9362**]
+     Reason: s/p L IJ CVL placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p leaking AAA repair pod#19.  Line change
+     REASON FOR THIS EXAMINATION:
+      s/p L IJ CVL placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89 y/o man s/p leaking, AAA repair, s/p line change.
+     
+     CHEST, PORTABLE:  Comparison is made to a prior study of [**2574-9-24**].  There is
+     mild cardiomegaly unchanged.  Some upper zone vascular redistribution is noted
+     and there is atelectasis at the lung base which is unchanged.  An NGT has been
+     removed.  A left central venous line is seen.  The tip is not well identified
+     in the mediastinum but the catheter is definitely seen in the left
+     brachiocephalic vein.  No evidence of a pneumothorax.
+     
+     IMPRESSION:  1)  S/P central venous line placement.  The tip of the catheter
+     is not well seen in the mediastinum but the catheter is definitely in the left
+     brachiocephalic vein.  No evidence of pneumothorax.  2)  No change in the
+     appearance of heart and lungs.
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair now w/ acute onset SOB and tachycardia. please r/o PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AAA repair. Acute onset shortness of breath and tachycardia.
+     Metabolic acidosis. 
+     
+     TECHNIQUE: Unenhanced abdominal and pelvic CT was followed by contrast
+     enhanced chest, abdomen and pelvis. 150cc of Optiray were administered for
+     indication of rapid bolus CTA. Multi planar reformations were created.
+     
+     COMPARISON: [**2574-9-9**] abdominal and pelvic CT.
+     
+     CT CHEST WITH CONTRAST: There is no axillary, mediastinal or hilar
+     lymphadenopathy. The thoracic vessels are normal in contour and caliber. The
+     pulmonary vessels are well opacified without evidence of emboli. There is a
+     small to moderate-sized right pleural effusion, with associated compressive
+     atelectasis of the dependent portion of the right lobe. Innumerable pleural
+     based and diaphragmatic plaque calcifications are noted, consistent with
+     history of asbestos exposure. On lung windows, there is a 3cm focus of
+     reticular groundglass attenuation adjacent to the anterior pleura of the right
+     upper lobe. This is non specific, but may represent parenchymal lung changes
+     of asbestosis. There is minimal atelectasis at the left base and a minute
+     pleural effusion. There is a large hiatal hernia.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST: The liver and spleen are normal in
+     appearance. The gallbladder is distended, with the distal tip interposed
+     between the inferior edge of the liver and the right antero-lateral abdominal
+     wall. There is no evidence of obvious cholecystitis by CT criteria, although
+     ultrasound would be more sensitive. There are three low attenuation foci in
+     the pancreas, one in the tail and two in the head, measuring approximately 1cm
+     each. Note that no calcifications were noted within the pancreas on unenhanced
+     exam. There has been interval repair of the AAA. The stent extends from the
+     infra-renal aorta to the iliac bifurcation. There is a heterogeneous
+     collection anterior to the aorta, consistent with hematoma which
+     interdigitates into the fat planes of the retroperitoneum. Although the
+     hematoma within the native aorta appears smaller, the retroperitoneal hematoma
+     appears larger. There is no active extravasation, foci of gas, or convincing
+     rim enhancement to suggest abscess formation. The collection measures 3 x 10cm
+     in largest cross section diameter, at the level of the proximal anastomosis.
+     The adrenals and right kidney are normal. The left kidney demonstrates two
+     rounded low attenuation foci consistent with parapelvic cysts.
+     
+     CT PELVIS WITH CONTRAST: The unopacified pelvic bowel loops are normal in
+                                                                 (Over)
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     appearance. The bladder is decompressed. The prostate contains calcifications
+     but is otherwise unremarkable.
+     
+     BONE WINDOWS: There is marked degeneration of the thoraco-lumbar spine, with
+     rotoscoliosis of the lumbar spine, osteophyte formation and vacuum
+     degeneration. There is a densely sclerotic focus in the L2 vertebral body,
+     extending into the right pedicle. This is described on the [**2573-1-8**] lumbar
+     spine MRI and is consistent with a benign focus of ossification.
+     
+     RECONSTRUCTIONS: S/P AAA repair, with hematoma anterior to the mid abdominal
+     aorta. Extensive pleural calcifications. Lumbar degeneration.
+     
+     IMPRESSION: 1) No evidence of PE.
+     2) Moderate right pleural effusion; small left pleural effusion; pleural
+     calcifications consistent with asbestos exposure.
+     3) Small focus of groundglass attenuation in the right upper lobe. This is non
+     specific, and may represent prior infection/inflammation or scarring.
+     Recommend clinical correlation.
+     3) Soft tissue attenuation consistent with hematoma anterior to the AAA
+     repair. No contrast extravasation seen currently.
+     4) Small pancreatic cysts and left renal cysts.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 2:27 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US PORT                      Clip # [**Clip Number (Radiology) 9366**]
+     Reason: 89 M POD#20 s/p AAA repair, now w/ metabolic acidosis and re
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      89 M POD#20 s/p AAA repair, now w/ metabolic acidosis and respiratory failure.
+      CT abd shows very distended GB w/ no thickening. US shows some stones. please
+      percutaneous drain GB and send for GS and culture. do not place cholecystostomy
+      tube. 
+      thanks
+      90062
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND-GUIDED FINE NEEDLE ASPIRATION OF GALLBLADDER [**2574-10-2**].
+     
+     INDICATION:  Status post AAA repair.  Septic.
+     
+     TECHNIQUE:  After verbal consent had been obtained by phone from the patient's
+     daughter-in-law, 5 ml of normal-looking bile was aspirated from gallbladder
+     under direct visualization.  A sample was sent for culture and sensitivity.
+     
+     The procedure was tolerated well by the patient and there were no
+     complications.
+     
+     IMPRESSION:  Uneventful ultrasound-guided aspiration of gallbladder.
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 2:27 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US PORT                      Clip # [**Clip Number (Radiology) 9366**]
+     Reason: 89 M POD#20 s/p AAA repair, now w/ metabolic acidosis and re
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      89 M POD#20 s/p AAA repair, now w/ metabolic acidosis and respiratory failure.
+      CT abd shows very distended GB w/ no thickening. US shows some stones. please
+      percutaneous drain GB and send for GS and culture. do not place cholecystostomy
+      tube. 
+      thanks
+      90062
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND-GUIDED FINE NEEDLE ASPIRATION OF GALLBLADDER [**2574-10-2**].
+     
+     INDICATION:  Status post AAA repair.  Septic.
+     
+     TECHNIQUE:  After verbal consent had been obtained by phone from the patient's
+     daughter-in-law, 5 ml of normal-looking bile was aspirated from gallbladder
+     under direct visualization.  A sample was sent for culture and sensitivity.
+     
+     The procedure was tolerated well by the patient and there were no
+     complications.
+     
+     IMPRESSION:  Uneventful ultrasound-guided aspiration of gallbladder.
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 1:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9365**]
+     Reason: Patient is in [**Hospital Unit Name 698**]!!!!  NOT [**Hospital Ward Name 2599**] 9., s/o intubation
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p leaking AAA repair pod#19.  
+     REASON FOR THIS EXAMINATION:
+      Patient is in [**Hospital Unit Name 698**]!!!!  NOT [**Hospital Ward Name 2599**] 9.
+      s/o intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Leaking AAA repair postop day 19.
+     
+     SUPINE AP CHEST, ONE VIEW:  Comparison is made to study of 5 hours earlier.
+     Since the prior study, the patient has been intubated.  The ET tube abuts the
+     right lateral wall of the trachea, and lies approximately 8.5 cm above the
+     carina.  There is an NG tube with sideport in the region of the GE junction
+     and tip in the region of the gastric fundus.  There is a right subclavian
+     Swan-Ganz catheter with tip in the region of the right main pulmonary artery.
+     There is no pneumothorax.  There are extensive pleural calcifications.  There
+     is no overt CHF or focal areas of consolidation.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 8:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9363**]
+     Reason: SOB, mental status changes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p leaking AAA repair pod#19.  
+     REASON FOR THIS EXAMINATION:
+      SOB, mental status changes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Leaking AAA repair postop day 19.  Shortnes of breath.
+     
+     PORTABLE AP CHEST, ONE VIEW:  Comparison [**2574-9-29**].  Since the prior study,
+     there has been interval removal of the left central line.  Otherwise, there is
+     no appreciable interval change allowing for differences in technique.  Again
+     seen are extensive pleural and diaphragmatic calcifications.  There is no
+     overt CHF.  There are no definite areas of consolidation, although pleural
+     calcifications at the bases slightly limit evaluation in this region.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair now w/ acute onset SOB and tachycardia. please r/o PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AAA repair. Acute onset shortness of breath and tachycardia.
+     Metabolic acidosis. 
+     
+     TECHNIQUE: Unenhanced abdominal and pelvic CT was followed by contrast
+     enhanced chest, abdomen and pelvis. 150cc of Optiray were administered for
+     indication of rapid bolus CTA. Multi planar reformations were created.
+     
+     COMPARISON: [**2574-9-9**] abdominal and pelvic CT.
+     
+     CT CHEST WITH CONTRAST: There is no axillary, mediastinal or hilar
+     lymphadenopathy. The thoracic vessels are normal in contour and caliber. The
+     pulmonary vessels are well opacified without evidence of emboli. There is a
+     small to moderate-sized right pleural effusion, with associated compressive
+     atelectasis of the dependent portion of the right lobe. Innumerable pleural
+     based and diaphragmatic plaque calcifications are noted, consistent with
+     history of asbestos exposure. On lung windows, there is a 3cm focus of
+     reticular groundglass attenuation adjacent to the anterior pleura of the right
+     upper lobe. This is non specific, but may represent parenchymal lung changes
+     of asbestosis. There is minimal atelectasis at the left base and a minute
+     pleural effusion. There is a large hiatal hernia.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST: The liver and spleen are normal in
+     appearance. The gallbladder is distended, with the distal tip interposed
+     between the inferior edge of the liver and the right antero-lateral abdominal
+     wall. There is no evidence of obvious cholecystitis by CT criteria, although
+     ultrasound would be more sensitive. There are three low attenuation foci in
+     the pancreas, one in the tail and two in the head, measuring approximately 1cm
+     each. Note that no calcifications were noted within the pancreas on unenhanced
+     exam. There has been interval repair of the AAA. The stent extends from the
+     infra-renal aorta to the iliac bifurcation. There is a heterogeneous
+     collection anterior to the aorta, consistent with hematoma which
+     interdigitates into the fat planes of the retroperitoneum. Although the
+     hematoma within the native aorta appears smaller, the retroperitoneal hematoma
+     appears larger. There is no active extravasation, foci of gas, or convincing
+     rim enhancement to suggest abscess formation. The collection measures 3 x 10cm
+     in largest cross section diameter, at the level of the proximal anastomosis.
+     The adrenals and right kidney are normal. The left kidney demonstrates two
+     rounded low attenuation foci consistent with parapelvic cysts.
+     
+     CT PELVIS WITH CONTRAST: The unopacified pelvic bowel loops are normal in
+                                                                 (Over)
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     appearance. The bladder is decompressed. The prostate contains calcifications
+     but is otherwise unremarkable.
+     
+     BONE WINDOWS: There is marked degeneration of the thoraco-lumbar spine, with
+     rotoscoliosis of the lumbar spine, osteophyte formation and vacuum
+     degeneration. There is a densely sclerotic focus in the L2 vertebral body,
+     extending into the right pedicle. This is described on the [**2573-1-8**] lumbar
+     spine MRI and is consistent with a benign focus of ossification.
+     
+     RECONSTRUCTIONS: S/P AAA repair, with hematoma anterior to the mid abdominal
+     aorta. Extensive pleural calcifications. Lumbar degeneration.
+     
+     IMPRESSION: 1) No evidence of PE.
+     2) Moderate right pleural effusion; small left pleural effusion; pleural
+     calcifications consistent with asbestos exposure.
+     3) Small focus of groundglass attenuation in the right upper lobe. This is non
+     specific, and may represent prior infection/inflammation or scarring.
+     Recommend clinical correlation.
+     3) Soft tissue attenuation consistent with hematoma anterior to the AAA
+     repair. No contrast extravasation seen currently.
+     4) Small pancreatic cysts and left renal cysts.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair now w/ acute onset SOB and tachycardia. please r/o PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AAA repair. Acute onset shortness of breath and tachycardia.
+     Metabolic acidosis. 
+     
+     TECHNIQUE: Unenhanced abdominal and pelvic CT was followed by contrast
+     enhanced chest, abdomen and pelvis. 150cc of Optiray were administered for
+     indication of rapid bolus CTA. Multi planar reformations were created.
+     
+     COMPARISON: [**2574-9-9**] abdominal and pelvic CT.
+     
+     CT CHEST WITH CONTRAST: There is no axillary, mediastinal or hilar
+     lymphadenopathy. The thoracic vessels are normal in contour and caliber. The
+     pulmonary vessels are well opacified without evidence of emboli. There is a
+     small to moderate-sized right pleural effusion, with associated compressive
+     atelectasis of the dependent portion of the right lobe. Innumerable pleural
+     based and diaphragmatic plaque calcifications are noted, consistent with
+     history of asbestos exposure. On lung windows, there is a 3cm focus of
+     reticular groundglass attenuation adjacent to the anterior pleura of the right
+     upper lobe. This is non specific, but may represent parenchymal lung changes
+     of asbestosis. There is minimal atelectasis at the left base and a minute
+     pleural effusion. There is a large hiatal hernia.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST: The liver and spleen are normal in
+     appearance. The gallbladder is distended, with the distal tip interposed
+     between the inferior edge of the liver and the right antero-lateral abdominal
+     wall. There is no evidence of obvious cholecystitis by CT criteria, although
+     ultrasound would be more sensitive. There are three low attenuation foci in
+     the pancreas, one in the tail and two in the head, measuring approximately 1cm
+     each. Note that no calcifications were noted within the pancreas on unenhanced
+     exam. There has been interval repair of the AAA. The stent extends from the
+     infra-renal aorta to the iliac bifurcation. There is a heterogeneous
+     collection anterior to the aorta, consistent with hematoma which
+     interdigitates into the fat planes of the retroperitoneum. Although the
+     hematoma within the native aorta appears smaller, the retroperitoneal hematoma
+     appears larger. There is no active extravasation, foci of gas, or convincing
+     rim enhancement to suggest abscess formation. The collection measures 3 x 10cm
+     in largest cross section diameter, at the level of the proximal anastomosis.
+     The adrenals and right kidney are normal. The left kidney demonstrates two
+     rounded low attenuation foci consistent with parapelvic cysts.
+     
+     CT PELVIS WITH CONTRAST: The unopacified pelvic bowel loops are normal in
+                                                                 (Over)
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     appearance. The bladder is decompressed. The prostate contains calcifications
+     but is otherwise unremarkable.
+     
+     BONE WINDOWS: There is marked degeneration of the thoraco-lumbar spine, with
+     rotoscoliosis of the lumbar spine, osteophyte formation and vacuum
+     degeneration. There is a densely sclerotic focus in the L2 vertebral body,
+     extending into the right pedicle. This is described on the [**2573-1-8**] lumbar
+     spine MRI and is consistent with a benign focus of ossification.
+     
+     RECONSTRUCTIONS: S/P AAA repair, with hematoma anterior to the mid abdominal
+     aorta. Extensive pleural calcifications. Lumbar degeneration.
+     
+     IMPRESSION: 1) No evidence of PE.
+     2) Moderate right pleural effusion; small left pleural effusion; pleural
+     calcifications consistent with asbestos exposure.
+     3) Small focus of groundglass attenuation in the right upper lobe. This is non
+     specific, and may represent prior infection/inflammation or scarring.
+     Recommend clinical correlation.
+     3) Soft tissue attenuation consistent with hematoma anterior to the AAA
+     repair. No contrast extravasation seen currently.
+     4) Small pancreatic cysts and left renal cysts.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair now w/ acute onset SOB and tachycardia. please r/o PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AAA repair. Acute onset shortness of breath and tachycardia.
+     Metabolic acidosis. 
+     
+     TECHNIQUE: Unenhanced abdominal and pelvic CT was followed by contrast
+     enhanced chest, abdomen and pelvis. 150cc of Optiray were administered for
+     indication of rapid bolus CTA. Multi planar reformations were created.
+     
+     COMPARISON: [**2574-9-9**] abdominal and pelvic CT.
+     
+     CT CHEST WITH CONTRAST: There is no axillary, mediastinal or hilar
+     lymphadenopathy. The thoracic vessels are normal in contour and caliber. The
+     pulmonary vessels are well opacified without evidence of emboli. There is a
+     small to moderate-sized right pleural effusion, with associated compressive
+     atelectasis of the dependent portion of the right lobe. Innumerable pleural
+     based and diaphragmatic plaque calcifications are noted, consistent with
+     history of asbestos exposure. On lung windows, there is a 3cm focus of
+     reticular groundglass attenuation adjacent to the anterior pleura of the right
+     upper lobe. This is non specific, but may represent parenchymal lung changes
+     of asbestosis. There is minimal atelectasis at the left base and a minute
+     pleural effusion. There is a large hiatal hernia.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST: The liver and spleen are normal in
+     appearance. The gallbladder is distended, with the distal tip interposed
+     between the inferior edge of the liver and the right antero-lateral abdominal
+     wall. There is no evidence of obvious cholecystitis by CT criteria, although
+     ultrasound would be more sensitive. There are three low attenuation foci in
+     the pancreas, one in the tail and two in the head, measuring approximately 1cm
+     each. Note that no calcifications were noted within the pancreas on unenhanced
+     exam. There has been interval repair of the AAA. The stent extends from the
+     infra-renal aorta to the iliac bifurcation. There is a heterogeneous
+     collection anterior to the aorta, consistent with hematoma which
+     interdigitates into the fat planes of the retroperitoneum. Although the
+     hematoma within the native aorta appears smaller, the retroperitoneal hematoma
+     appears larger. There is no active extravasation, foci of gas, or convincing
+     rim enhancement to suggest abscess formation. The collection measures 3 x 10cm
+     in largest cross section diameter, at the level of the proximal anastomosis.
+     The adrenals and right kidney are normal. The left kidney demonstrates two
+     rounded low attenuation foci consistent with parapelvic cysts.
+     
+     CT PELVIS WITH CONTRAST: The unopacified pelvic bowel loops are normal in
+                                                                 (Over)
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     appearance. The bladder is decompressed. The prostate contains calcifications
+     but is otherwise unremarkable.
+     
+     BONE WINDOWS: There is marked degeneration of the thoraco-lumbar spine, with
+     rotoscoliosis of the lumbar spine, osteophyte formation and vacuum
+     degeneration. There is a densely sclerotic focus in the L2 vertebral body,
+     extending into the right pedicle. This is described on the [**2573-1-8**] lumbar
+     spine MRI and is consistent with a benign focus of ossification.
+     
+     RECONSTRUCTIONS: S/P AAA repair, with hematoma anterior to the mid abdominal
+     aorta. Extensive pleural calcifications. Lumbar degeneration.
+     
+     IMPRESSION: 1) No evidence of PE.
+     2) Moderate right pleural effusion; small left pleural effusion; pleural
+     calcifications consistent with asbestos exposure.
+     3) Small focus of groundglass attenuation in the right upper lobe. This is non
+     specific, and may represent prior infection/inflammation or scarring.
+     Recommend clinical correlation.
+     3) Soft tissue attenuation consistent with hematoma anterior to the AAA
+     repair. No contrast extravasation seen currently.
+     4) Small pancreatic cysts and left renal cysts.
+     
+
+",,
+5228,21243,,,2574-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p AAA repair now w/ acute onset SOB and tachycardia. please r/o PE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AAA repair. Acute onset shortness of breath and tachycardia.
+     Metabolic acidosis. 
+     
+     TECHNIQUE: Unenhanced abdominal and pelvic CT was followed by contrast
+     enhanced chest, abdomen and pelvis. 150cc of Optiray were administered for
+     indication of rapid bolus CTA. Multi planar reformations were created.
+     
+     COMPARISON: [**2574-9-9**] abdominal and pelvic CT.
+     
+     CT CHEST WITH CONTRAST: There is no axillary, mediastinal or hilar
+     lymphadenopathy. The thoracic vessels are normal in contour and caliber. The
+     pulmonary vessels are well opacified without evidence of emboli. There is a
+     small to moderate-sized right pleural effusion, with associated compressive
+     atelectasis of the dependent portion of the right lobe. Innumerable pleural
+     based and diaphragmatic plaque calcifications are noted, consistent with
+     history of asbestos exposure. On lung windows, there is a 3cm focus of
+     reticular groundglass attenuation adjacent to the anterior pleura of the right
+     upper lobe. This is non specific, but may represent parenchymal lung changes
+     of asbestosis. There is minimal atelectasis at the left base and a minute
+     pleural effusion. There is a large hiatal hernia.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST: The liver and spleen are normal in
+     appearance. The gallbladder is distended, with the distal tip interposed
+     between the inferior edge of the liver and the right antero-lateral abdominal
+     wall. There is no evidence of obvious cholecystitis by CT criteria, although
+     ultrasound would be more sensitive. There are three low attenuation foci in
+     the pancreas, one in the tail and two in the head, measuring approximately 1cm
+     each. Note that no calcifications were noted within the pancreas on unenhanced
+     exam. There has been interval repair of the AAA. The stent extends from the
+     infra-renal aorta to the iliac bifurcation. There is a heterogeneous
+     collection anterior to the aorta, consistent with hematoma which
+     interdigitates into the fat planes of the retroperitoneum. Although the
+     hematoma within the native aorta appears smaller, the retroperitoneal hematoma
+     appears larger. There is no active extravasation, foci of gas, or convincing
+     rim enhancement to suggest abscess formation. The collection measures 3 x 10cm
+     in largest cross section diameter, at the level of the proximal anastomosis.
+     The adrenals and right kidney are normal. The left kidney demonstrates two
+     rounded low attenuation foci consistent with parapelvic cysts.
+     
+     CT PELVIS WITH CONTRAST: The unopacified pelvic bowel loops are normal in
+                                                                 (Over)
+
+     DATE: [**2574-10-2**] 9:55 AM
+     CT CHEST W/CONTRAST; CT RECONSTRUCTION                          Clip # [**Clip Number (Radiology) 9364**]
+     CT 150CC NONIONIC CONTRAST; CT ABD W&W/O C
+     CT PELVIS W&W/O C 
+     Reason: s/p AAA repair now w/ acute onset SOB and tachycardia. pleas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     appearance. The bladder is decompressed. The prostate contains calcifications
+     but is otherwise unremarkable.
+     
+     BONE WINDOWS: There is marked degeneration of the thoraco-lumbar spine, with
+     rotoscoliosis of the lumbar spine, osteophyte formation and vacuum
+     degeneration. There is a densely sclerotic focus in the L2 vertebral body,
+     extending into the right pedicle. This is described on the [**2573-1-8**] lumbar
+     spine MRI and is consistent with a benign focus of ossification.
+     
+     RECONSTRUCTIONS: S/P AAA repair, with hematoma anterior to the mid abdominal
+     aorta. Extensive pleural calcifications. Lumbar degeneration.
+     
+     IMPRESSION: 1) No evidence of PE.
+     2) Moderate right pleural effusion; small left pleural effusion; pleural
+     calcifications consistent with asbestos exposure.
+     3) Small focus of groundglass attenuation in the right upper lobe. This is non
+     specific, and may represent prior infection/inflammation or scarring.
+     Recommend clinical correlation.
+     3) Soft tissue attenuation consistent with hematoma anterior to the AAA
+     repair. No contrast extravasation seen currently.
+     4) Small pancreatic cysts and left renal cysts.
+     
+
+",,
+5228,21243,6489,0,2574-10-02 17:22:00 EST,2574-10-02 17:31:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. CareNote
+Pt intubated by Anesthesia in VICU today with 7.5ETT secured at 23cm lip. Pt then transported to N-SICU via ambu and 100% O2. Transport delayed due to elevator becoming stuck between floors. Airway and 100% O2 maintained  during delay, elevator opened via the fire dept. and Pt arrived in SICU in stable condition. BS equal bilat. Current vent settings A/C 700x 12x 50% peep 5. ABG's with significant metabolic acidosis. Pt with probable new sepsis of ? etiology. Cont vent support.
+",,
+5228,21243,6489,0,2574-10-02 19:10:00 EST,2574-10-02 19:20:00 EST,3085,"N",54,"Nursing/Other","ADMISSION NOTE","
+ADMISSION NOTE
+D. PT ADMITTED TO SICU AT 1230 INTUBATED AND WITH 2 PERIPH IV'S..ALINE AND SWAN INSERTED.. SBP 70-80 WITH LOW PA #'S.. HESPAN GIVEN WHICH INCREASED BP TRANGIENTLY.. PT TRANSFUSED WITH 2 FFP FOR CORRECTION OF COAGS IN ANTICIPATION OFNEEDLE ASPIRATE OF GALLBLADDER UNDER ULTRASOUND AS POSSIBLE SOURCE OF SEPSIS AND VOLUME. TEMP AS HIGH AS 103.. ULTIMATELY NEO STARTED AND TITRATED TO OBTAIN SBP >100.
+ HUO 5-120. MAINTANENCE FLUID AT 100ML/HR AND TPN AT 66ML/HR.
+ ABG ACCEPTABLE AFTER 2 NABICARB'S AND A/C VENTILATION (SEE FLOW SHEET FOR SETTINGS.)
+ HR INCREASED AS HIGH AS 130 WITH TEMP AND AGITATION. PT MEDICATED WITH MSO4 X2 AND LOPRESSOR AS PER DR. [**First Name (STitle) **].
+ PT AWOKE SHORTLY AFTER ARRIVING TO UNIT AND MOVED ALL EXTREMITIES SPONTANEOUSLY BUT REQUIRED SEDATION
+A. MAINTAIN SBP >100.TYLENOL GIVEN 
+R. CONDITION GUARDED. FAMILY AWARE..
+",,
+5228,21243,6489,0,2574-10-03 05:57:00 EST,2574-10-03 05:59:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds rhonchi clearing w/ suct mod th white. No changes made overnoc. Cont to vent and wean as tol.
+",,
+5228,21243,6489,0,2574-10-03 07:43:00 EST,2574-10-03 07:52:00 EST,-1,"N",54,"Nursing/Other","NPN: SEE ICU FLOWSHEET","
+NPN: SEE ICU FLOWSHEET
+NEURO: FOLLOW COMMANDS, WORKS HARD TO OPEN EYES BUT USUALLY REMAINS CLOSED. QUICK TO ANSWER QUESTIONS WITH HEAD NODS. HAS PERIODS OF RESTLESSNESS WITH SL INCREASE AND RESP RATE, REPETATIVE MOVEMENT OF EXTREMITIES; MEDICATED WITH PRN MSO4 WITH GOOD RESULTS.
+
+CV: PA READINGS INDICATIVE OF SEPSIS. CONTINUES TO HAVE TEMP TREATED WITH TYLENOL. REMAINS ON LOW DOSE NEO FOR VASCULAR TONE AND WAS HYDRATED WITH LARGE VOLUMES OF IVF. RECEIVED 2 UNITS OF PRBC WITN NO APPARENT REACTION. 
+
+RESP: TOLERATINE VENT SETTINGS. NO CHANGES MADE. ABG'S INDICATIVE OF MET ACIDOSIS. SUCTION RARELY FOR SMALL AMOUNT OF WHITE SECRETIONS.
+
+GI/GU: ABD SL FIRM AND ROUNDED WITH ACTIVE BS. NO STOOL. NG TO LWS EXCEPT WHEN CLAMPED FOR MEDS. AFTER RETURNING TO SUCTION AFTER CLAMPING, DRAINAGE APPEARED SL MAROON IN COLOR. GUIAC POSITVE AND pH 7+. MD NOTIFIED. RECEIVED SCHEDULE PROTONIX AND SECRETIONS RETURNED TO A BILIOUS COLOR. FOLEY PATENT OF DARK YELLOW/AMBER URINE IN GOOD AMOUNTS.
+
+SKIN: ABD INCISION A PPEARS HEALED AND STERISTIPS REMAIN INTACT. ECCYMOTIC AREAS TO ABD AND L SIDE OF ABD TOWARD FLANK ALONG ABD FOLD.
+
+PSYCH/SOC: DAUGTHTER-IN-LAW CALLED FOR CONDITION REPORT AND EXPRESSED UNDERSTANDING OF CONDITION.
+",,
+5228,21243,6489,0,2574-10-03 13:56:00 EST,2574-10-03 14:06:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. TEMP GRADUALLY INCREASING TODAY TO 100.6,SR 70-99(LOPRESSOR EFFECTIVE IN DECREASING HR WITH TEMP),SBP >100 ALLOWING NEO TO BE WEANED DOWN TO 0.5MCQ DESPITE LOW PCWP=4. PT WAS TRANSFUSED WITH 1 PC WITHOUT REACTION FOR HCT 27 AND VOLUME.. PCWP UNCHANGED AFTER TRANSFUSION. SVR 600-900.HUO 80-120.
+ PT IS AWAKE AND COOPERATIVE..REQUIRED MSO4 FOR BACKACHE WITH RELIEF.
+ PT PLACED ON C-PAP 5 WITH 12 IPS .ABG ACCEPTABLE PER DR.[**Last Name (STitle) **] HOWEVER TCO2 AGAIN DROPPING AS TEMP RISING..IPS DECREASED TO 8 MAINTAINING STV>400. SX FOR MOD AMT TENACIOUS WHITE SECRETIONS.
+ ABD REMAINS DISTENDED BUT SOFT.. NO CHANGE IN OLD ECCHYMOTIC AREAS ON ABD AND FLANKS.
+ BC DRAWN FROM NEW SITE PA LINE AND NEW SITE A-LINE [**10-2**] SHOWING GM + COCCI.. DR. [**Last Name (STitle) **] AWARE.
+ A. PT WILL NOT BE EXTUBATED TODAY PER DR. [**Last Name (STitle) **].PT TO BE EXAMINED FOR RECTAL ABCESS BY GI.ID CONSULT IN.. NEW ANTIBIOTICS ORDERED. STOO TO BE SENT FOR C-DIFF.NO REPEAT HCT AT THIS TIME PER DR. [**Last Name (STitle) **].
+R.PT REMAINS SEPTIC AT THIS TIME.
+",,
+5228,21243,6489,0,2574-10-03 18:23:00 EST,2574-10-03 18:26:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 7.5 ORAL ETT @ 23 LIP.
+PS 8/.40/5 W/ PART. COMP. METABOLIC ACIDOSIS/
+GOOD OXYGENATION. POSSIBLE EXTUBATION IN AM
+DEPENDING ON ACID/BASE STATUS. WILL DROP TO
+PS 5/.40/5 @ 4 AM.
+                  [**First Name11 (Name Pattern1) 40**] [**Last Name (NamePattern1) 41**], RRT
+",,
+5228,21243,6489,0,2574-10-03 23:33:00 EST,2574-10-03 23:41:00 EST,3775,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D;  FEBRILE 101.1 NSR 75-86  REMAINS ON LOW DOSE NEO TO MAINTAIN SBP >100 FILLING PRESSURES PAD 13-16 WITH PCWP 8-9 CO 7.96 CI 3.88 SVR 653  REMAINS ON CPAP WITH IPS 8CMS O2 SAT 98-99% 
+A:  NS LAVAGED AND SX FOR THICK WHITE SECRETIONS ABG'S SENT ON IPS 8
+7.37 36 111 22 WEANING NEO SLOWLY TO MAINTIAN SBP >100  REPEAT BLOOD CULTURES TONIGHT
+R:  NEO AT .125MCG/KG  HR 60'S AND BP 90'S AFTER LOPRESSOR EARLIER
+TOLERATING IPS 8 WELL MAINTAINING TV'S 420-550CC REASONABLE RATE 18-29
+PLAN:  TO REMAIN ON CPAP 40% WITH IPS 8 AND WEAN TO IPS 5 EARLY AM FOR EXTUBATION TOMORROW.  
+
+",,
+5228,21243,6489,,2574-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-4**] 9:25 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 9367**]
+     Reason: PT WITH TPN ON RT AND CENTRAL LINE ON LT, NOW WITH SEPTIS, EVALUATE BL SC CLOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p ruptured AAA repair c/b sepsis of undetermined origin, high
+      grade gram positive bacteremia. Pt w long term central access for TPN. 
+      Please r/o upper SC clot.
+     REASON FOR THIS EXAMINATION:
+      R/O BL SC clot
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Ruptured AAA repair.  Sepsis of undetermined origin.
+     
+     FINDINGS: Grey scale, color, and Doppler sonographic evaluation was performed
+     of bilateral subclavian, internal jugular, and cephalic veins.  Noted within
+     the left jugular vein distally is an eccentric filling defect without flow,
+     compatible with thrombus in this location that is felt to be chronic.  The
+     remainder of the venous structures demonstrate normal flow, without evidence
+     for thrombus.
+     
+     IMPRESSION: Non-occlusive thrombus within the left jugular vein.
+
+",,
+5228,21243,6489,,2574-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-4**] 1:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9368**]
+     Reason: S/P LINE CHANGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man s/p leaking AAA repair pod#19.  
+     REASON FOR THIS EXAMINATION:
+      S/P LINE CHANGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89 y/o man status post leak and triple A repair.  Status post line
+     change.
+     
+     CHEST PORTABLE:  Comparison is made to prior study of [**2574-10-2**].  There is
+     cardiomegaly.  The mediastinal and hilar contours are unremarkable.  The
+     pulmonary vasculature is normal.  There is increased haziness over the lower
+     lung zones bilaterally.  Calcified pleural plaques are noted bilaterally.  The
+     ET tube is in satisfactory position.  NG tube is seen with the tip in the
+     stomach.  A right central venous line can be followed into the SVC however the
+     tip is not identified.
+     
+     IMPRESSION:  1)  Right central venous line passing into the SVC however the
+     tip is not definitely identified and a repeat film is recommended for
+     documentation of the tip position.
+     
+     2)  No evidence of pneumothorax.
+     
+     3)  Increase in the bilateral pleural effusions.
+     
+
+",,
+5228,21243,6489,0,2574-10-04 05:39:00 EST,2574-10-04 05:43:00 EST,3681,"N",54,"Nursing/Other",,"
+
+RESP CARE NOTE:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse suct th white sput. MDI given as per order. Weaning PSV.
+",,
+5228,21243,6489,0,2574-10-04 06:58:00 EST,2574-10-04 07:05:00 EST,3647,"N",54,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: vss. on neo and weaned to off sbp >100. suctioned for mod amt of tan sputum. u.o ok amber in color. alert and oriented. medicated x2  with mso4 2mg iv. pain med effective. co/cil/svr ok. tpn infusing. 
+action: on iv vanco, iv flagyl and iv zosyn. kcl replaced. abd incision intact with steri strips  in place. ngt lcws and draining bilious drainage. 
+response: ? extubation today. 
+",,
+5228,21243,6489,0,2574-10-04 18:31:00 EST,2574-10-04 18:46:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Pt alert, oriented x3. Periods of anxiety. LS coarse throughout.  Suctioned for mod amts thick yellow sputum prior to extubation at 4PM. O2 sats 98-99% on 40% via shovel mask. PD done, coughing encouraged. Cough remains weak. Post extubation gas good.  Abd softly distended with hypoactive bowel sounds present.  NGT in place draining small amts bile looking fluid.  No BM this shift.  Urine clear/amber. OP stable at 100-150cc. Swan changed to TLC. CXR done.  US of subclavians done. Neg for clots in subclavian, pos for small clot in IJ. MD aware. FSBS remain stable. 
+",,
+5228,21243,6489,0,2574-10-05 06:04:00 EST,2574-10-05 06:06:00 EST,3683,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+S/O: ALERT AND ORIENTED X3.  VSS, AFEBRILE, NO C/O SOB. LUNGS CLEAR THROUGHOUT W/ EXP WHEEZES AUSCULTATED OVER UPPER LOBES.  NGT TO LWS W/O DRAINAGE.  ABD SOFT.  C/O BACK PAIN X1 - MEDICATED W/ MSO4 [**Name8 (MD) **] MD'S ORDERS - W/ GOOD EFFECT.  U/O QS VIA FOLEY.
+A/P:  CONT TO MONITOR FOR S/S OF INFECTION. MONITOR FOR RESP DISTRESS. CONT ICU CARE AND ASSESSMENT.
+",,
+5228,21243,6489,0,2574-10-05 16:40:00 EST,2574-10-05 16:46:00 EST,3229,"N",54,"Nursing/Other",,"
+
+TRANSFER NOTE
+
+PT S/P TRIPLE A REPAIR, WAS OUT ON FLOOOR AND EXPERIENCED RESPIR DISTRESS, EMERGENTLY INTUBATED AND ADMITTTED TO SICU, GRAM POS RODS FROM LINE CLUT, ON NEO BRIEF COURSE FOR BP CONTROL, NOW ON LOPRESSOR, RECEIVING TPN, EXTUBATED [**2574-10-4**], HCT 27.5 THIS AM, SICU RESIDENTS INFORMED, ABG THIS PM REFLECTS RESP ALKALOSIS WITH PC02 32, P02 89, PH 7.44, BICARB 22, PT IS LETHARGIC BUT EASILY AROUSEABLE, A&0 X 3, FOLLOWS COMMANDS, SYS BP 120'S-140'S, OCCAS UP TO 170'S WITHOUT STIMULATION BUT QUICKLY RESOLVES TO 140'S AND LOWER, PT STATES OCCAS LOWER BACK DISCOMF BUT HAS BEEN LETHARGIC THROUGHOUT DAY, SERUM BS 153 AT NOON-RX VIA SLIDING SCALE, ON ROOM AIR WITH 02 SAT 96%, VANCO TROUGH LEVEL DONE BUT THEN VANCO DC'D VIA SICU TEAM, RECEIVING TPN, SIGMOIDOSCOPY DONE LATE THIS PM  VERBAL REPORT NO ABNORMALITIES, WILL TRANSFER OUT OF SICU TO VICU THIS PM
+",,
+5228,21243,,,2574-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2574-10-7**] 11:03 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 9369**]
+     Reason: Please check 4fr v cath picc tip left basilic, and page iv w
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with bacteremia requiring long term iv abx.
+     REASON FOR THIS EXAMINATION:
+      Please check 4fr v cath picc tip left basilic, and page iv with wet read,
+      [**Pager number 732**].  Patient also has right subclavian line.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 89 y/o man with bacteremia requiring long term antibiotics s/p PICC
+     placement.
+     
+     CHEST PORTABLE: Comparison is made to prior study of [**2574-10-4**]. There is
+     cardiomegaly. Upper zone vascular redistribution is noted and there is
+     pulmonary edema. Increasing densities are seen in the lung bases bilaterally
+     consistent with pleural effusions. There are calcified pleural plaques
+     bilaterally. A left PICC is identified with its tip in the proximal SVC. There
+     is no pneumothorax.
+     
+     IMPRESSION: 1) PICC with its tip in the proximal SVC. No evidence of
+     pneumothorax.
+     
+     2) Cardiomegaly and CHF unchanged.
+     
+     3) Increasing pleural effusions.
+     
+     4) Large hiatal hernia.
+
+",,

@@ -1,0 +1,1580 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2626-9-29**]              Discharge Date:   [**2626-10-2**]
+ 
+Date of Birth:  [**2538-10-19**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2122**] 
+Chief Complaint:
+Fatigue, melena
+ 
+Major Surgical or Invasive Procedure:
+EGD
+Angiography with chemoembolization to L gastric artery
+
+ 
+History of Present Illness:
+87 yo F with h/o CAD s/p MI [**2621**], CHF EF 30-40%, AR, MR, TR, 
+GERD, remote history of breast cancer who presented with 4 
+episodes of melena. The patient reported feeling fatigued for 
+several days, and then having first episode of melena on the 
+evening of 10/14 and then had additional 3 episodes. She denies 
+any prior episodes of melena or bright red blood per rectum. On 
+presentation, vital signs were stable and the patient's initial 
+hematocrit was 26.6. NG lavage did not clear with 1000 cc NS, 
+clots present. She denied nausea, vomiting and abdominal pain. 
+She also denied any NSAID use or additional aspirin use (takes 1 
+full dose aspirin/day). 
+ 
+Past Medical History:
+1. CAD, QWMI 2000. Subsequent P-MIBI with slightly rev [**First Name (Titles) **] [**Last Name (Titles) 7282**]t in distal anterior/inferior walls and apex. EF 30-40% at 
+that time.  
+2. MR, TR, AI  
+3. Breast cancer 1990 s/p excision/radiation/tamoxifen  
+4. Depression  
+5. Gout  
+
+ 
+Social History:
+Widow. Lives in elderly housing.
+ 
+Family History:
+Non-contributory
+ 
+Pertinent Results:
+[**2626-9-29**] 01:30AM BLOOD WBC-15.7*# RBC-2.69* Hgb-8.5* Hct-26.7* 
+MCV-99* MCH-31.8 MCHC-32.1 RDW-17.1* Plt Ct-295
+[**2626-9-29**] 01:30AM BLOOD Plt Ct-295
+[**2626-9-29**] 01:30AM BLOOD Neuts-76.6* Bands-0 Lymphs-18.8 Monos-3.3 
+Eos-0.8 Baso-0.4
+[**2626-9-29**] 01:30AM BLOOD PT-13.2 PTT-22.7 INR(PT)-1.1
+[**2626-9-29**] 01:30AM BLOOD Glucose-155* UreaN-57* Creat-0.9 Na-142 
+K-4.5 Cl-106 HCO3-23 AnGap-18
+[**2626-9-29**] 01:30AM BLOOD CK(CPK)-42
+[**2626-9-29**] 01:30AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2626-9-29**] 06:00AM BLOOD Calcium-8.0* Phos-3.9 Mg-1.7
+[**2626-9-29**] 01:30AM BLOOD VitB12-435 Folate-GREATER TH
+
+EKG: Normal sinus rhythm. Q waves in leads V1-V3 suggest prior 
+anterior myocardial 
+infarction. Q waves in leads III and aVF consistent with prior 
+inferior 
+myocardial infarction. Non-specific ST-T wave flattening. 
+Compared to the 
+previous tracing of [**2626-3-30**] the ST segment elevations in leads 
+V2-V3 are no 
+longer present. Otherwise, no diagnostic interval change. 
+
+ 
+Brief Hospital Course:
+87 yo female with history of CAD, HTN, CHF and breast cancer 
+admitted with melena.
+
+1. UGIB- The patient presented with fatigue and melena. Her 
+initial hematocrit was 26. An NG lavage in the ED did not clear 
+with >1 liter saline. GI and surgery were consulted and 
+recommended urgent EGD. Her initial EGD showed diffuse red blood 
+in the fundus and body of the stomach with no identifiable 
+source. She was then taken emergently to IR for angiography. 
+Angiogram showed no obvious source of bleeding; however, the 
+left gastric artery was prophylactically emoblized with gel 
+foam. The patient subsequently had no further bleeding episodes 
+and her hematocrit stablilized. Her aspirin was discontinued. 
+She received a total of 4units of PRBCs and was started on 
+protonix. An H.pylori was sent and is pending at the time of 
+discharge. She had a re-look EGD on [**10-2**] which showed severe 
+diffuse gastritis with contact bleeding. She will need 
+outpatient GI follow-up. 
+  
+2. CAD: The patient denied chest pain however given her history 
+of CAD she was ruled out for MI with serial cardiac enzymes. She 
+had no events on telemetry. Her aspirin and beta blocker were 
+held on admission; however, once her hematocrit stabilized her 
+beta blocker was restarted.
+
+3. HTN: Restarted on beta blocker.  
+
+4. Depression: The patient was continued on celexa and remeron 
+with trazadone prn at night.   
+
+5. Access: 2 large bore IVs were maintained at all times. 
+
+6. Px- Pneumoboots, PPI  
+
+7. Code: Full, HCP: daughter-[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7283**] [**Telephone/Fax (1) 7284**].  
+
+8. Dispo: She is being discharged to home with PCP and GI 
+[**Name9 (PRE) 818**]. VNA services have been arranged for a hematocrit 
+check 2-3 days after discharge.
+ 
+Medications on Admission:
+lopressor 25 BID  
+lasix 20 every other day  
+ecasa 325 daily
+mvi  
+celexa 20 daily
+remeron 15 daily
+trazadone 25 daily
+
+ 
+Discharge Medications:
+1. Citalopram Hydrobromide 20 mg Tablet Sig: One (1) Tablet PO 
+HS (at bedtime).  
+2. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+3. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO QD (once a 
+day).  
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO every twelve (12) 
+hours.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Trazodone HCl 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) 
+as needed.  
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+UGIB 
+
+Secondary diagnosis:
+CAD
+Depression
+HTN
+
+ 
+Discharge Condition:
+No further episodes of melena. HD stable. Hct stable x 48 hours.
+ 
+Discharge Instructions:
+Please take your medications as prescribed and keep all 
+scheduled appointments.
+
+Call your doctor or return to the ER if [**Doctor First Name **] experience worsening 
+fatigue, abdominal pain, chest pain, black stools or bloody 
+stools.
+
+Do not take any aspirin or NSAIDs until further notice.
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) 7285**],[**Name11 (NameIs) **] [**Name12 (NameIs) **] Where: APG Date/Time:[**2626-10-12**] 1:30
+
+ 
+                             [**First Name11 (Name Pattern1) 1715**] [**Last Name (NamePattern1) 1716**] MD [**MD Number 1717**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number 7286**] [**2626-10-2**] @ 1450
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: SUN [**2626-10-8**] 8:33 PM
+(End of Report)
+
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,,,2626-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36246 INITAL 2ND ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * -59 DISTINCT PROCEDURAL SERVICE      C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with h/o CHF w/ active GIB - unable to localize source on EGD 
+      - blind epi injection failed to resolve bleeding
+     REASON FOR THIS EXAMINATION:
+      localize and embolize gastric bleed                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  87-year-old woman with a history of melena since yesterday. Presents
+     to the ED this morning with evidence of upper gastrointestinal bleeding. Upper
+     GI endoscopy identified active bleeding in the fundus/body of the stomach, but
+     was not able to control it with epinephrine.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**] and [**First Name8 (NamePattern2) 3669**]
+     [**Doctor Last Name 156**].  Dr. [**Last Name (STitle) 156**], the attending radiologist, was present and supervising
+     throughout the procedure.
+     
+     CONSENT:  Since the patient was sedated for previous endoscopy, informed
+     consent was obtained over the phone from the patient's health proxy, her
+     daughter, [**First Name8 (NamePattern2) 350**] [**Last Name (NamePattern1) 14709**]. The explanation of benefits and risks of the
+     procedure and the consent were witnessed.
+     
+     TECHNIQUE:  The patient was placed supine on the angiography table. The right
+     groin was prepared in sterile fashion.  Using the Seldinger technique, the
+     right common femoral artery was accessed with a 19 gauge needle.  A 0.035
+     [**Last Name (un) 129**] wire was advanced through the needle into the abdominal aorta.  After
+     that, a 4 French sheath was introduced into the common femoral artery.  A 4
+     French C2 Cobra catheter was advanced through the sheath into the abdominal
+     aorta and was introduced into the celiac axis.  A selective celiac arteriogram
+     was performed.  Then, a Renagade high flow microcatheter was advanced through
+     the C2 into the celiac axis and the left gastric artery was accessed.  A
+     superselective arteriogram of the left gastric artery was performed.
+     Embolization of the left gastric artery was performed with 4 cc of gelfoam
+     slurry.  A final superselective arteriogram of the left gastric artery was
+     obtained as a post-embolization control.  Also, a selective arteriogram of the
+     superior mesenteric artery was performed to rule-out any other branches
+     supplying the stomach.
+     
+                                                                 (Over)
+
+     DATE: [**2626-9-29**] 8:51 AM
+     OTHER EMBO                                                      Clip # [**Clip Number (Radiology) 14708**]
+     Reason: localize and embolize gastric bleed                         
+     Admitting Diagnosis: UPPER GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 120
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     FINDINGS: A diffuse vascular blush was seen over the stomach, however no
+     active bleeding was seen on the angiograms. Decision was made to perform
+     prophylactic embolization of the left gastric artery with gelfoam, based on
+     the localization of the bleeding seen on the upper GI endoscopy.  The post-
+     embolization arteriogram showed decreased flow into the branches arising from
+     the left gastric artery as well as slow flow.
+     
+     COMPLICATIONS: There were no immediate complications.
+     
+     IMPRESSION:
+     
+     Celiac and superior mesenteric artery selective arteriography with no
+     angiographic evidence of active bleeding. Prophylactic embolization of the
+     left gastric artery with gelfoam was successfully performed.
+     
+     
+     
+
+",,
+5860,7797,7294,0,2626-09-29 05:15:00 EST,2626-09-29 05:23:00 EST,2108,"N",69,"Nursing/Other","micu admission note","
+micu admission note
+pt is an84 yo female. lives independantly in assisted care in [**Location (un) **]. 
+pt in usoh until yesterday after lunch when she had several melanotic stools and felt queasy. she left her assisted living facility yest eve to come to the er. hct was 26. she was lavaged for brb not clearing after 1 l. presently admitted to the micu for endoscopy. attempted ng lavage again in the micu, she vomited ~200cc brb and lg clots. gi here now, plan is to scope when clear.
+neuro- intact, alert and oriented x3
+cv- hr 70's no ectopy, lytes wnll. hypertensive as baseline 160-170's sys.
+resp- 2 l nasal cannula, sats 98%. ls clear
+gi- ngt currently getting lavaged. +bs. currently receiving 2nd unit of prbc's.
+gu- foley in place draining cl yellow urine
+plan to scope pt this am as asoon as clears
+",,
+5860,7797,7294,0,2626-09-29 17:15:00 EST,2626-09-29 17:28:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Note","
+Micu Nursing Progress Note
+GI:  Pt had endoscopy at 8am which showed active bleeding within the stomach.  She was emergently taken to angiography.  They were successfully able to locate the bleeder in the left gastric artery, gelfoam was placed in the artery and the bleeding was stopped.  She received 2 units of RBC (unit # [**Unit Number **] & 5) and repeat HCT was 39.  She had one black stool at 1800, no other S&S of bleeding.  The angio site, the right femoral is dry, w/o any hematoma, all pulses easily palpable in both feet.  She was able to start clear liquids at 1700, she had some cranberry juice and jello.
+
+Cardiac:  B/P 120-150/40's, HR 70's SR.  K+ 5.6 at 06am which came down to 5.2 at 1600.
+
+Resp:  RR 18-22, O2 sats on 2l NC 98-100%.  Breath sounds clear.
+
+GU:  Foley in place.  She autodiuresed following angio with U/O up to 200cc/hr for a few hours.  Her U/O in now ~50-75cc/hr.  
+
+Neuro:  A&O x3, very pleasant and cooperative.  No obvious deficits.
+
+ID:  Her temp was 100.3 at 1600 (last transfusion ended at 1430) which came down without treatment to 99.8 at 1800.  She is on no antibotics.
+
+Social: Her daughter and son-in-law in most of afternoon, all questions answered and support given.  Son called from [**State **].
+
+Plan:  watch for S&S of bleeding, HCT at 2000, probable C/O in AM.
+
+
+",,
+5860,7797,7294,0,2626-09-30 03:36:00 EST,2626-09-30 03:40:00 EST,2487,"N",69,"Nursing/Other",,"
+
+MICU NPN 1900-0730:
+
+  Pt slept well overnight with no s/sx of bleeding.  Anticipate progression of diet, OOBTC today and c/o to floor.
+
+  Neuro:  Pt alert and oriented X 3, slept well X 6-7 hours overnight.  No c/o pain.
+
+  CV:  Afebrile.  Pt in NSR, no ectopy.  BP stable.  L AC #16 g red and leaking at site--replaced with new #18 g PIV (pt has two).  Clot current in BB.  2 u prbc crossmatched.  ? continue q 6 hour hct's today if they remain stable?  R angio site benign with bandaid in place.  Pulses palpable (3+ bilaterally).
+
+  Pulm:  Pt on 2 L NP.  Sats 100%, lungs CTA.
+
+  GI:  Pt tollerating clr liquids well, though pt not interested in taking much PO overnight.  Abd benign.  No stool/N/V.  
+
+  GU:  Foley to gravity.  UOP brisk but slowing overnight.  
+
+  
+
+  GU
+",,
+5860,,,,2626-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-10-6**] 12:06 PM
+     HAND (AP, LAT & OBLIQUE) BILAT                                  Clip # [**Clip Number (Radiology) 14710**]
+     Reason: gout, tophus rt. thumb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+      gout
+     REASON FOR THIS EXAMINATION:
+      gout
+      tophus rt. thumb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of gout, evaluate for gout tophus in right thumb.
+     
+     FINDINGS:
+     
+     ***** DICTATION ENDED HERE ****
+
+",,
+5860,,,,2626-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-10-6**] 12:06 PM
+     FOOT AP,LAT & OBL RIGHT; ANKLE (2 VIEWS) RIGHT                  Clip # [**Clip Number (Radiology) 14711**]
+     Reason: gout, tophus rt. thumb, gout, tophus rt. thumb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+      gout
+     REASON FOR THIS EXAMINATION:
+      gout
+      tophus rt. thumb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of gout.
+     
+     FIVE VIEWS OF THE RIGHT ANKLE AND FOOT:  There is diffuse soft tissue edema.
+     No evidence of acute fracture or dislocation.  The joint spaces are preserved.
+     There are no focal destructive lesions.
+
+",,
+5860,,,,2626-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-10-6**] 12:06 PM
+     FOOT AP,LAT & OBL RIGHT; ANKLE (2 VIEWS) RIGHT                  Clip # [**Clip Number (Radiology) 14711**]
+     Reason: gout, tophus rt. thumb, gout, tophus rt. thumb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+      gout
+     REASON FOR THIS EXAMINATION:
+      gout
+      tophus rt. thumb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of gout.
+     
+     FIVE VIEWS OF THE RIGHT ANKLE AND FOOT:  There is diffuse soft tissue edema.
+     No evidence of acute fracture or dislocation.  The joint spaces are preserved.
+     There are no focal destructive lesions.
+
+",,
+5860,,,,2626-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 14712**]
+     Reason: METASTATIC BREAST CARCINOMA.  EVALUATE RESPONSE TO THERAPY. RESTAGING.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with metastatic breast carcinoma.  Evaluate response to  
+     therapy.  Restaging.
+     
+     METHODS: Approximately 1 hour after intravenous administration of F-18 
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 124 mg/dL. The area
+     imaged spanned the region from the base of the skull to the proximal thighs.
+      
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake. 
+     
+     FINDINGS:  There are no prior PET-CT studies for comparison.
+     
+     There is focal abnormal radiotracer uptake in the right anterior 4th rib in an
+     area of a lytic lesion on bone windows.  In addition, there is a focal
+     radiotracer uptake in the right clavicular head with a maximum SUV of 3, which
+     is suspicious for metastatic lesion.  There are focal areas of radiotracer
+     uptake on image #47 and image #49, likely within T6 and T7 vertebral bodies,
+     also worrisome for metastatic disease.
+     
+     There is mild, heterogeneous radiotracer uptake within the facet joints of the
+     cervical spine, likely degenerative in nature.
+     
+     Below the diaphragm, there is focal uptake of radiotracer within the cecum.  The
+     maximum SUV is approximately 11.7.  This is more concerning in the focality of
+     its nature and intense radiotracer uptake for a lesion such as an adenoma.  A
+     colonoscopy is suggested, if clinically indicated.
+     
+     CT images demonstrate a prior right mastectomy.  A calcified lesion is seen in
+     the left breast.  There is a solid appearing left renal lesion.  There are other
+     renal cysts identified.
+      
+     IMPRESSION:  1) Evidence for skeletal metastases in the rib and vertebral body,
+     as described above.  2) Focal uptake within the cecum, concerning for a possible
+     adenoma, colonoscopy suggested if clinically indicated.  3) Solid appearing
+     renal lesion with no abnormal radiotracer uptake should be followed by
+     diagnostic and clinical criteria.
+     
+     /nkg
+                                                                           
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 14712**]
+     Reason: METASTATIC BREAST CARCINOMA.  EVALUATE RESPONSE TO THERAPY. RESTAGING.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             [**Name6 (MD) 14713**] [**Last Name (NamePattern4) 14714**], M.D.
+             [**First Name11 (Name Pattern1) 8**] [**Last Name (NamePattern1) 9**], M.D.        Approved: WED [**2626-11-29**] 3:00 PM
+
+
+             Date Mailed: [**2626-11-30**]                     West [**Medical Record Number 14715**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5860,,,,2626-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-12-28**] 10:53 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 14717**]
+     Reason: evaluate for brain metastases. metastatic lobluar breast can
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with breast cancer
+     REASON FOR THIS EXAMINATION:
+      evaluate for brain metastases. metastatic lobluar breast cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  lobular breast cancer.
+     
+     CT scan of the brain before and after the administration of contrast.
+     
+     FINDINGS:  There is no evidence of abnormal contrast enhancement to suggest
+     the presence of metastatic disease.  Some prominence of ventricles and sulci
+     are consistent with mild brain atrophy.  There is no evidence of mass effect
+     or hemorrhage.  There is no displacement of normally mid-line structures.
+     There is no evidence of a focal extra-axial lesion or a fluid collection.
+     There is no definite evidence of calvarial metastatic disease.
+     
+     IMPRESSION:  Mild brain atrophy.  No evidence of metastatic disease.
+
+",,
+5860,,,,2626-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 14716**]
+     Reason: LOBULAR BREAST CA, EVAL FOR BONE METS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Eighty-eight year old with h/o lobular breast cancer, post lumpectomy
+     and radiation therapy.
+     
+     INTERPRETATION:  Whole body and spot views of the ribs demonstrate a focus of  
+     increased tracer activity seen in the anterior 5th rib and the anterior 11th or
+     12th left rib.  Increased linear tracer uptake is also seen in the T5 and T6
+     vertebral bodies.  A low level of increased tracer uptake is also seen in both
+     shoulder joints, both wrists, both knees, and both ankles, consistent with
+     degenerative changes. 
+     
+     In comparison to the prior study of [**2618-4-2**], the previously seen areas of
+     activity in the T12 vertebral body and left greater trochanter have resolved.
+     
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.
+     
+     IMPRESSION:  Findings most consistent with compression fracture of the T5 and T6
+     vertebral bodies and fractures of the ribs, as described above.  The patient
+     also states that she did fall in the recent past.  Resolution of activity seen
+     in the T12 vertebral body suggests that this activity from the prior study was
+     due to a compression fracture as well.  No definite evidence of metastatic
+     disease on the current study though this is not completely excluded.
+     
+     /nkg
+                                                                           
+
+             [**Name6 (MD) 6757**] [**Name8 (MD) 341**], M.D.
+             [**Last Name (NamePattern5) 267**], M.D.          Approved: [**First Name9 (NamePattern2) **] [**2626-12-29**] 3:54 PM
+
+
+             Date Mailed: [**2627-1-1**]                     West [**Medical Record Number 14715**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5860,,,,2626-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2626-12-28**] 10:53 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 14717**]
+     Reason: evaluate for brain metastases. metastatic lobluar breast can
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with breast cancer
+     REASON FOR THIS EXAMINATION:
+      evaluate for brain metastases. metastatic lobluar breast cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  lobular breast cancer.
+     
+     CT scan of the brain before and after the administration of contrast.
+     
+     FINDINGS:  There is no evidence of abnormal contrast enhancement to suggest
+     the presence of metastatic disease.  Some prominence of ventricles and sulci
+     are consistent with mild brain atrophy.  There is no evidence of mass effect
+     or hemorrhage.  There is no displacement of normally mid-line structures.
+     There is no evidence of a focal extra-axial lesion or a fluid collection.
+     There is no definite evidence of calvarial metastatic disease.
+     
+     IMPRESSION:  Mild brain atrophy.  No evidence of metastatic disease.
+
+",,

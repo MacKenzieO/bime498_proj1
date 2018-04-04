@@ -1,0 +1,183 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5848,19276,,,3267-11-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3267-11-17**]     Discharge Date:  [**3267-11-23**]
+
+Date of Birth:   [**3200-10-18**]     Sex:  M
+
+Service:  O-MED
+
+HISTORY OF PRESENT ILLNESS:  This is a 66-year-old male with
+a history advanced squamous cell carcinoma of the skin,
+status post partial axillary lymph node resection after local
+spread, who was then treated with carboplatin and
+doxorubicin, and presented with left axillary pain and
+drainage as well as an increased white blood cell count to
+clinic on [**11-15**] for his weekly doxorubicin dose.  He
+was afebrile at that point but started on Keflex for a
+question of cellulitis.  Two days later he became febrile and
+weak, and his white blood cell count increased from 20 to 40.
+He noted no increase in his left axillary pain or redness.
+He noted no cough, no shortness of breath, nausea, vomiting,
+diarrhea, or abdominal pain.
+
+He presented to the Emergency Department where he was
+hemodynamically stable and received Ancef.  He was admitted
+for workup.  He became hypotensive and hypoglycemic, so he
+was transferred to the Intensive Care Unit.  There, he
+responded to fluids with an increase in his blood pressure
+and improved urine output.  He did not require pressors.  His
+initial chest x-ray was negative.
+
+PAST MEDICAL HISTORY:
+1.  Psoriasis for the past 40 years that was treated with
+PUVA.
+2.  Squamous cell carcinoma of the skin; multiple skin
+lesions, complications of PUVA treatment, status post
+resection of many of the lesions.  A left arm cutaneous
+lesion was removed by wide local excision in [**3266-11-19**]
+and then he underwent radiation therapy to the area.  It was
+a moderately to poorly differentiated tumor on histology.  He
+had a recurrent left axillary lymph node which was partially
+resected in [**3267-6-19**].  His metastatic without at this
+time was negative.  He then underwent four cycles of
+carboplatin and doxorubicin.  His carboplatin was stopped for
+an increased creatinine.  He is currently still on the
+doxorubicin but has been dose adjusted for his renal failure.
+3.  Diabetes, on Amaryl.
+4.  Hypertension.
+5.  Hypercholesterolemia.
+6.  Chronic renal insufficiency.
+7.  Glaucoma.
+
+
+MEDICATIONS ON ADMISSION: Keflex since [**3267-11-15**],
+Univasc, Amaryl, hydrochlorothiazide, morphine, Coumadin 1 mg
+p.o. q.d. for Port-A-Cath prophylaxis.
+
+ALLERGIES:  No known drug allergies.
+
+FAMILY HISTORY:  His sister died of lung cancer, and his
+brother died of a myocardial infarction at age 57.
+
+SOCIAL HISTORY:  He is a retired priest who lives in his old
+[**Doctor Last Name 7257**].
+
+PHYSICAL EXAMINATION ON PRESENTATION:  This was a pleasant
+obese man in no apparent distress, who was afebrile with a
+temperature of 97.2, blood pressure of 72/35 to 90/50, pulse
+of 55, and a respiratory rate of 20.  His oxygen saturation
+was 93% on room air.  He head, ears, nose, eyes and throat
+examination was unremarkable.  His lungs were clear to
+auscultation bilaterally with decreased breath sounds at the
+bases.  His left axilla was warm with a purplish hue to skin
+and chronic skin changes with surrounding erythema.  There
+was a firm 5-cm X 5-cm nodular area with a fluctuant portion
+just anterior.  There was a small break in the skin at the
+site of his old [**Location (un) 1275**]-[**Location (un) **] drain from his axillary
+dissection that was weeping with yellow drainage.  His heart
+was regular in rate and rhythm with no murmurs.  His abdomen
+was benign.  His extremities were without edema and with good
+distal pulses.  His neurologic examination revealed intact
+cranial nerves, 5/5 strength bilaterally in all four
+extremities, and normal sensation bilaterally.  His skin
+examination revealed multiple lesions, namely the stigmata of
+PUVA treatment.  There was no active scoriatic lesions.  He
+had a brown scabrous lesion on his left shin.
+
+LABORATORY DATA ON PRESENTATION:  Laboratories revealed a
+white blood cell count of 42.2, with a differential of 85%
+neutrophils, 1% bands, and 2% lymphocytes.  His hematocrit
+was 31.3 (which was at his baseline).  His platelet count
+was 387.  He had normal electrolytes and glucose.  His blood
+urea nitrogen was 40, and his creatinine was 1.8 (which was
+up from his baseline of 1.4 to 1.7).  His liver function
+tests were within normal limits.  His albumin was 3.8.  His
+calcium was 10.1.  His urinalysis was positive for protein
+and occasional bacteria, but otherwise negative.  His urine
+culture was negative.  His wound culture was negative.  His
+blood cultures were negative.
+
+RADIOLOGY/IMAGING:  Chest x-ray was negative for acute
+airspace disease.
+
+Electrocardiogram revealed normal sinus rhythm at 100 beats
+per minute with no acute changes.
+
+A chest CT was  performed which showed left axillary necrotic
+area with a peripheral enhancing lesion as well as a small
+right axillary and bilateral inguinal lymphadenopathy.
+
+HOSPITAL COURSE:   Father [**Known patient lastname **] was admitted to the
+Intensive Care Unit and started on broad spectrum antibiotics
+as well as hydrated with normal saline.  His blood pressure,
+creatinine, and urine output improved overnight.  He did not
+require pressors.  He was then transferred to the floor.
+
+His hydrochlorothiazide, Univasc, and Amaryl were held as he
+was normoglycemic and normotensive.  He was started on
+vancomycin and ceftazidime and received five days of those
+antibiotics before being changed to levofloxacin and
+clindamycin p.o.  The plan was for a 2-week course of p.o.
+antibiotics for a total course of 19 days of antibiotics.
+
+The surgeon who performed his partial left axillary lymph
+node resection was consulted and came to see him and evaluate
+him.  She noted that he was not a surgical candidate for
+further resection but thought that radiologic drainage of his
+axillary mass could be helpful.
+
+A dedicated axillary CT was performed which showed a mass
+which central fluid collection with a question of necrotic
+lymph node core.  This was then drained under
+ultrasound-guidance of serosanguineous fluid that was culture
+negative but cytology positive for malignant cells.  His
+doxorubicin was continued every week as prior to admission.
+
+After he was switched to p.o. antibiotics, he was sent home
+to complete his course with close Visiting Nurse [**First Name (Titles) 7258**]
+[**Last Name (Titles) 7131**] for blood pressure and temperature checks.
+
+CONDITION AT DISCHARGE:  Condition on discharge was improved.
+
+DISCHARGE DIAGNOSES:
+1.  Advanced squamous cell carcinoma including a left
+axillary recurrent tumor.
+2.  Soft tissue infection of the area around his left
+axillary tumor.
+3.  History of psoriasis.
+4.  Diabetes.
+5.  Hypertension.
+
+MEDICATIONS ON DISCHARGE:
+1.  Levaquin 500 mg p.o. q.d. times 13 days.
+2.  Clindamycin 300 mg p.o. q.i.d. times 13 days.
+3.  Coumadin 1 mg p.o. q.d.
+4.  Port-A-Cath prophylaxis.
+5.  MS Contin 15 mg p.o. b.i.d.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6893**], M.D.  [**MD Number 6894**]
+
+Dictated By:[**Name8 (MD) 2624**]
+
+MEDQUIST36
+
+D:  [**3267-12-4**]  22:17
+T:  [**3267-12-6**]  13:33
+JOB#:  [**Job Number 7259**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1012**]
+ on: WED [**3267-12-7**] 6:07 PM
+(End of Report)
+
+
+",,
+5848,19276,7281,0,3267-11-18 06:41:00 EST,3267-11-18 06:52:00 EST,252,"N",69,"Nursing/Other",,"
+
+P-MICU NURSING ADMISSION NOTE:  PT IS A LOVELY 63 Y/O RETIRED PRIEST W/ [**Name2 (NI) 1405**] OF PSORIASIS, AODM, HTN, CRI  WHO WAS FAIRLY RECENTLY DX'D W/ SQUAMOUS CELL CA OF THE L AXILLA.  HE HAS UNDERGONE XRT AND IS CURRENTLY UNDERGOING CHEMO.  ADMITTED TO 4S YESTERDAY W/ FEVER AND WBC OF 40K.  THIS IS THOUGHT TO PERHAPS BE  R/T AN ABSCESS IN THE TUMOR AREA.  WILL GET CT TODAY.  ANYWAY, HE BECAME HYPOTENSIVE TO THE 70'S AND ADMITTED TO MICU FOR FURTHER OBSERVATION.
+     ON ARRIVAL TO THE MICU AND SINCE THEN HAS MAINTAINED SBP'S ABOVE 90.  HAS NOT NEEDED PRESSORS.  RECEIVED A TOTAL OF 3 LITERS NS YESTERDAY AND IS CURRENTLY GETTING NS AT 100 CC'S/HR.  HAS PUT OUT 1100 CC'S OF URINE OVERNOC.  AFEBRILE.  CX'D ON 4S.  TOL PO FLUIDS WELL.  AM FS = 69, SO HE IS HAVING A CUP OF OJ NOW.  L AXILLARY AREA IS DISCOLORED AND INDURATED.  IT HAS ALSO DRAINED A MOD AMT OF SEROSANG.  DSD CHANGED X2.  
+     SOCIALLY, PT IS A RETIRED PRIEST.  HE HAS A NEPHEW WHO IS HIS HEALTH CARE PROXY.  
+",,

@@ -1,0 +1,395 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5532,8587,,,3027-03-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3027-3-17**]              Discharge Date:   [**3027-3-19**]
+ 
+Date of Birth:  [**2949-12-12**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Iodine; Iodine Containing / Cardizem / Calan
+ 
+Attending:[**First Name3 (LF) 2052**] 
+Chief Complaint:
+ruptured AAA
+ 
+Major Surgical or Invasive Procedure:
+ex lap
+AAA tube graft
+swan ganz catheter
+arterial line placement
+endotracheal intubation
+ 
+History of Present Illness:
+77F NH resident with known AAA, presented to OSH with sharp 
+midback pain.  Her imaging revealed an enlarged confined rupture 
+of her AAA (8cm from baseline 5.2cm).  She opted for a surgical 
+intervention.
+ 
+Past Medical History:
+IDDM
+HTN
+CAD s/p MI s/p CABG
+h/o L ACA infarct
+CRI (creatinine 1.5)
+known AAA
+DNR/DNI
+ 
+Social History:
+NH resident
+ 
+Family History:
+daughter [**Name (NI) **] health care proxy
+ 
+Physical Exam:
+Elderly, chronically ill patient
+RRR
+CTA bilat
+Distended tender epigastrium
+Cool mottled extremities
+ 
+Pertinent Results:
+see carevue for specifics
+ 
+Brief Hospital Course:
+[**3-17**]: Taken to OR directly from ED. Intraop events included 
+repair of abdominal aorta c/b brief episode of ventricular 
+arrhythmia.  Admitted to SICU postop.
+
+SICU course: Aggressively resuscitated with IV fluid & blood 
+products.  
+NEURO: She did not awake following removal of all sedating 
+medications.  CT head showed chronic & subacute infarcts.
+
+CV: Initial postop hypertension controlled with esmolol, nipride 
+& milrinone gtts.  On POD#2, her blood pressure slowly dropped 
+despite fluid & pressors.  Her heart rate slowed until she 
+became asystolic.  Her family was notified & they refused 
+resuscitation at this point, given her numerous complications.  
+She was pronounced dead at 11:07am on [**3-19**].  NEOB & OME refused 
+case.  Family denied autopsy.
+
+RESP: mechanical ventilation
+
+FEN: postop renal failure [**2-1**] ATN
+
+GI: NPO
+
+HEME: multiple transfusions
+
+ID: no issues
+
+ENDO: poorly controlled diabetes
+ 
+Medications on Admission:
+cozaar, effexor, [**Doctor First Name **], allopurinol, levoxyl, lipitor, 
+norvasc, protonix, labetalol, ativna
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+ruptured AAA
+myocardial infarction
+acute renal failure
+ARDS
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1567**] MD [**MD Number 1568**]
+ 
+Completed by: [**First Name8 (NamePattern2) 1795**] [**Last Name (NamePattern1) 1796**] MD [**MD Number 1797**] [**3027-3-19**] @ 1433
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3027-3-20**] 6:32 AM
+(End of Report)
+
+
+",,
+5532,8587,,,3027-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-3-17**] 2:35 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 11958**]
+     Reason: 1430
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with new line and ETT and NGT s/p repair ruptured AAA         
+     REASON FOR THIS EXAMINATION:
+      s/p repair AAA                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Port line placement.
+     
+     CHEST:  A single AP supine view of the chest is compared to previous
+     examination of [**3020-4-20**].  The patient is status post median sternotomy.
+     There is a right IJ Swan-Ganz catheter with the tip in right interlobar
+     artery.  The endotracheal tube is approximately 2.5 cm proximal to carina. The
+     tip of the nasogastric tube is at the level of the diaphragm and needs to be
+     advanced.  There is left basilar linear atelectasis.  The lungs are otherwise
+     clear.  Note is made of skin staples in the abdomen.
+
+",,
+5532,8587,6873,0,3027-03-17 17:35:00 EST,3027-03-17 17:37:00 EST,3960,"N",54,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt from OR s/p AAA weaning fio2, Replacing fluilds, Met. acidosis. Ordered for MDI's awaiting inhalers.
+",,
+5532,8587,6873,0,3027-03-17 19:26:00 EST,3027-03-17 19:50:00 EST,3433,"N",54,"Nursing/Other","Admit Note","
+Admit Note
+  Pt is a 77 yo who was known to have small infrarenal AAA from previous admissions. Has been living at a nursing home since last admission to hospital for a fall when she fractured hip, for safety concerns and rehab. Today pt rushed to OSH with ruptured AAA and medflighted to [**Hospital1 **]. Dr [**Last Name (STitle) 340**] preformed AAA repair. Intraop pt was labile and Vtach arrested x 1min. Resusitated with epi, lido, calcium and sodium bicarb. pt had EBL 2000cc with 4500c PRBCs, cell [**Doctor Last Name 341**], 3L crystalloid, cryoprecipitate and FFP. Pt brought to ICU postop.
+ 
+Pt arrived on propofol. As time progressed pt still not responding to pain and at 1700 propofol off. Still without reflexes and movement. At 1830 pt noted to have cough and corneals. Pupils NR. Team aware.
+ Vent rate decreased. Freq ABGs per Dr [**Last Name (STitle) 342**] orders. Lungs clear with diminished LLL. Suction but no secrtions.
+
+  Cv status very labile. gaol SBP<120 and HR in 70s. Pt very sensitive to fluid boluses, esmolol and nipride. Hypotensive at times but responds quickly to fluid only SBP >120s, then need to start gtts. Requiring freq titration. CO 1.19, wedge 6 and CVP 4 and pt recieved fluid with last CO 1.9, cvp 13 and wedge 15. UO total for last 4 hours 19cc. HO aware. INR 1.6 and low platelet count. Recieved 1 bag plts and 2u FFP with repeat INR 1.5 and plts in 130s. HCT 31. No DP or PT pulses and RLE had been mottled. Poor cap refill. Weakly palp popiteals and fm pulses. Insulin gtt titrated for tight BG control.
+
+  GI/GU- Abd firm and distended without BS. OGT to LWS with no output. 
+Midline incision with DSD intact and scant bloody drainage. Foley patent.
+
+Social- Daughter in to visit and called at shift change. Updated on pt condition.
+
+ Plan- Tight BP and HR control. Fluid resusitation and freq neuro exam until pt responsive.
+",,
+5532,8587,6873,,3027-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-3-18**] 9:48 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11961**]
+     Reason: eval for edema, e/o CVAPlease do CT tonight at 10 pm        
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman s/p AAA repair now with difficulty arousing from surgery      
+     REASON FOR THIS EXAMINATION:
+      eval for edema, e/o CVAPlease do CT tonight at 10 pm                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      Rising Cr from surgery 
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post AAA repair with difficulty arousing from surgery,
+     evaluate for edema or CVA.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the head were obtained without IV
+     contrast.
+     
+     FINDINGS:  There is white and [**Doctor Last Name 20**] matter hypodensity in the territory of the
+     left anterior cerebral artery consistent with chronic/previous infarction.
+     There is white matter hypodensity in the right frontal lobe with extension to
+     the [**Doctor Last Name 20**] matter.  There is a round hypodensity in the left basal ganglia
+     consistent with a lacunar infarct.  There are multiple areas of hypodensity in
+     the right and left cerebellum consistent with infarcts, age indeterminate.
+     There is ventricular white matter hypodensity that may represent sequela of
+     chronic small vessel ischemic disease.  There are basal ganglia
+     calcifications.  No hydrocephalus or shift of normally midline structures is
+     noted.  The basal cisterns appear patent.  The patient is intubated with
+     opacification of the nasopharynx as well as mucosal thickening of the ethmoid
+     sinuses noted.
+     
+     IMPRESSION:
+     1.  Chronic left anterior cerebral artery infarction.
+     2.  Multiple areas of hypodensity in both cerebellar hemispheres consistent
+     with infarction, age indeterminant.
+     3.  Hypodensity in the right frontal lobe with extension to the [**Doctor Last Name 20**] matter,
+     consistent with infarction, favor subacute to chronic.
+     4.  Lacunar infarct in the left basal ganglia.
+     
+     If there is continued clinical concern for acute infarction, an MRI scan with
+     diffusion-weighted images may be considered.
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: The left anterior cerebral artery infarction
+     is subacute. There is effacement of sulci, and local mass effect, with no
+     tissue loss. Therefore, this is not a chronic infarct. These findings were
+     discussed with Dr. [**Last Name (STitle) 11962**] 0n [**3027-3-23**].
+                                                                 (Over)
+
+     DATE: [**3027-3-18**] 9:48 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11961**]
+     Reason: eval for edema, e/o CVAPlease do CT tonight at 10 pm        
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+5532,8587,6873,,3027-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-3-18**] 5:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11959**]
+     Reason: eval effusions                                              
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old woman with new line and ETT and NGT s/p repair ruptured AAA        
+       
+     REASON FOR THIS EXAMINATION:
+      eval effusions                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post repair of ruptured AAA.
+     
+     CHEST:  A single supine AP view at 6 a.m. is compared to previous examination
+     a day ago.  Again seen is a right IJ Swan-Ganz catheter with the tip in right
+     interlobar artery. The endotracheal and nasogastric tubes are in satisfactory
+     position.
+     
+     Since the previous exam, there has been engorgement of hilar pulmonary
+     vessels, suggesting mild failure. There are new bilateral pleural effusions,
+     right greater. There is linear atelectasis in left lower lung.  The patient is
+     status post median sternotomy.
+
+",,
+5532,8587,6873,,3027-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-3-18**] 11:56 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11960**]
+     Reason: PA catheter changed to CCO catheter. Assess for placement   
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old woman with new line and ETT and NGT s/p repair ruptured AAA       
+         
+     REASON FOR THIS EXAMINATION:
+      PA catheter changed to CCO catheter. Assess for placement                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Status post AAA repair.
+     
+     CHEST:  A single supine view at 11:55 a.m. is compared to previous examination
+     earlier from the same day.  The Swan-Ganz catheter is likely slightly pulled
+     back to the proximal aspect of the right interlobar artery.  The endotracheal
+     and NG tubes are in place.  There are bilateral pleural effusions, right
+     greater, with bibasilar atelectasis.  There is also linear atelectasis in left
+     midlung.  The heart size is enlarged.  Again note is made of interstitial
+     pulmonary edema.
+
+",,
+5532,8587,6873,,3027-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-3-18**] 11:56 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 11960**]
+     Reason: PA catheter changed to CCO catheter. Assess for placement   
+     Admitting Diagnosis: ABDOMINAL AORTIC ANEURYSM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old woman with new line and ETT and NGT s/p repair ruptured AAA       
+         
+     REASON FOR THIS EXAMINATION:
+      PA catheter changed to CCO catheter. Assess for placement                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Chest.
+     
+     HISTORY:  Status post AAA repair.
+     
+     CHEST:  A single supine view at 11:55 a.m. is compared to previous examination
+     earlier from the same day.  The Swan-Ganz catheter is likely slightly pulled
+     back to the proximal aspect of the right interlobar artery.  The endotracheal
+     and NG tubes are in place.  There are bilateral pleural effusions, right
+     greater, with bibasilar atelectasis.  There is also linear atelectasis in left
+     midlung.  The heart size is enlarged.  Again note is made of interstitial
+     pulmonary edema.
+
+",,
+5532,8587,6873,0,3027-03-18 03:55:00 EST,3027-03-18 03:58:00 EST,4312,"N",54,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt remains intubated and fullt ventilated on AC settings.  ABG shows adequate ventilation and mild hypoxemia.  Plan to continue full vent support until stabilized.  Sxn for scant white secretions.
+
+                                 [**First Name11 (Name Pattern1) 343**] [**Last Name (NamePattern4) 344**], RRT
+",,
+5532,8587,6873,0,3027-03-18 04:43:00 EST,3027-03-18 04:56:00 EST,3259,"N",54,"Nursing/Other","TSICU NPN","
+TSICU NPN
+Pt remains very labile post-op from emergent AAA repair.
+
+Cardiac: Pt extremely labile yesterday eve into this AM. Multiple changes made to pt's med infusions, see flowsheet for thorough data. Pt with low CO/CI and elevated SVR with labile BP. Pt initially started on esmolol for rate control, nipride added to keep SBP <120. Per HO, Milrinone added in attempts to improve CO/CI, but after team spoke with cardiology, milrinone weaned to off. Esmolol weaned down, nipride continues at range of 3-5mcg/kg/min to keep SBP >120. 12 lead EKG obtained and reviewed by HO. Cardiac enzymes continue to be cycled, troponin up to 1.09. CO/CI sl imroved with aggressive fluid rescussitation, see carevue for values. Pt rec'd 2 U PRBCs and 1U FFP overnight, pt also started on albumin.  HR 90-100's, ST with occasional PVCs. Pedal pulses not dopplerable, HO aware. BLE remain cool, pale, intermittantly mottled. Weak femoral pulses easy to obliterate.
+
+Neuro: Pt slowly beginning to wake, opens eyes to voice but does not follow commands. Pt noted to have some resistance with BUE during AM care. Pupils 4mm and reactive, impaired corneals, gag and cough. Pt started on fentanyl gtt at 25mcg/hr for post-op pain management.
+
+Resp: Pt remains intubated and vented, CMV with rr 18, tv500 and FIO2 60. ABGs improved. Lungs diminished in bilat bases.See carevue for ABGs.
+
+GI: Abd firm, distended without BS. Abd incision with dsd, bloody drainage circled and timed. NGT advanced and retaped by dr [**Last Name (STitle) **]. Pt remains NPO
+
+GU/renal: Pt with very low u/o. IVF increased to 500cc/hr, foley catheter flushed to maintain patency. Pt rec'd multiple fluid boluses/blood products/albumin without much improvement in u/o. See flowsheet for thorough data.
+
+Endo: Labile BS per report; BS remains low, insulin gtt weaned to off. Pt given [**1-1**] am D50 per Insulin gtt order sheet, insulin gtt not restarted as of yet.
+
+ID: afebrile, no abx ordered.
+
+Skin: Grossly intact other than abd incision.
+
+Social: No family contact
+",,
+5532,8587,6873,0,3027-03-18 17:52:00 EST,3027-03-18 17:54:00 EST,3960,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on a/c vent fio2 decreased to 50 peep increased to 10cm. Pt with minimal response to pain. Will continue support as ordered.
+",,
+5532,8587,6873,0,3027-03-18 18:05:00 EST,3027-03-18 18:38:00 EST,3433,"N",54,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+ Events- Swan changed to CCO swan for continuous monitoring.
+
+Neuro- Pt remains mostly unresponsive. Pupils [**3-3**] briskly reactive with nystagmas in both eyes. Opens occ to voice, no focus or tracking. Rare nonpurposeful movement of RUE on bed, moves both UEs to sternal rub, lifts and falls back. Remains on fent gtt at 25mcg/hr for postop pain control. 
+
+Resp- Poor PaO2 unresponsive to higher PEEP. Lungs clear with occ rales in bases. Difficult to maintain cont sat due to perp vasoconstriction with underlying PVD. Vent setting presently A/Cx500x18x50% PEEP 10. See flowsheet for serial ABGs.
+
+CV- Pt sr to st in low to 102. Bp initially treated with nipride to maintain SBP less than 130 and CI 2.0 with desired afterload reduction to decrease SVR. see flowsheet for hemodynamic #s. Changed to nicardapine in light of toxicity risk of nipride and cardiac benefit of nicardipine. Esmolol gtt at 100mcg/kg/min. ASA started due to + troponin. SVO2 50-60s. swan at 51cm. HCT cont to drop 2 points and given 1u PRBCs. CPKs cont to rise into 7000s, set pending from 1800. Creat up to 2.2 and UO averaging 4-8cc/h. LFTs elevated indicative of shock liver. Temp increasing, presently 38.5. BG running low side and insulin gtt off most of day.
+ Pt has persists with absent pulses in PT and DP, feet cool, poor cap refill and progressively looking more dusky. Weakly palp popiteals and femorals very difficult, palpation futher complicated by edema. No movement of BLEs, unable to assess sensation to LEs. 
+
+GI/GU- Abd firm, distended, no BS. Bladder pressures Q4- 16-18. NGT to LWS with brown to coffee ground drainage in small amts. Foley patent poor UO.
+
+Social- daughter visited for several hours today, updated by RN and Dr [**Last Name (STitle) 345**]. Dr [**Last Name (STitle) 342**] trying to get in touch with daughter this evening to discuss plan of care.
+
+Plan- Cont serial enzymes and hct. Q 8H labs. May need head CT when more stable to travel. ? need for aggressive treatment of CPKs. 
+  
+",,
+5532,,6873,0,3027-03-19 06:14:00 EST,3027-03-19 06:33:00 EST,4422,"N",54,"Nursing/Other",,"
+
+assesment as noted
+
+cv:dropped bp to 80s last night, was given ivf with +response and esmolol was stopped, nicardipine gtt on hold, albumin was started, svr down to 800-900s this am, remains in s.tach, no pulsses on both feet, pale skin, 
+
+res: persistant worsening met. acidosis  with co2 compensation, settings was changed to pcv overnight to improve po2, svo2 also came up after that, ls coarse/dim at bases
+
+neuro: ct head was done 2200 last night which showed old stroke, pt remains mostly unresponsive/obtunded
+
+gu: renal consult in last night to suggest lasix iv which produced no urine
+
+gi: firm abd, no bs, bladder pressure last-28, ngt to lws  with minimal drainage
+
+skin: oozing from a/line site, red coccyx
+
+id: no fever, pt was cultured blood+urine
+
+endo: ri iv was given for k>5 together with d50%, extra ca was given
+
+social: ho talked to daughter who told to make pt dnr-no official order yet
+
+plan: ? code status, ?dialysis, monitor cv, res, neuro
+",,
+5532,,6873,0,3027-03-19 11:36:00 EST,3027-03-19 11:46:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+PT'S STATUS DECLINING RAPIDLY. HYPOTENSIVE DESPITE FLD BOLUSING. INITIATED NEO GTT..AT 11AM, PT STARTING TO BLOCK DOWN->PEA. DR [**Last Name (STitle) 81**] AT BEDSIDE AND PT'S DAUGHTER JUST ARRIVING. DECISION MADE FOR DNR. PT ASYSTOLIC AT 11:07AM. EMOTIONAL SUPPORT GIVEN TO DAUGHTER.
+",,

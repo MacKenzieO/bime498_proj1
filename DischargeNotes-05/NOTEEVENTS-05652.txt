@@ -1,0 +1,222 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5652,,,,2904-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2904-8-9**] 10:04 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13017**]
+     Reason: shortness of breath, r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o rectal cancer in addition to above. also hx aplastic
+      anemia and emphysema
+     REASON FOR THIS EXAMINATION:
+      shortness of breath, r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PA AND LATERAL
+     
+     INDICATION: Shortness of breath.
+     
+     COMPARISON STUDY: [**2904-6-22**].
+     
+     FINDINGS:
+     The heart is normal in size.  The pulmonary vascularity is not engorged.  In
+     the interval there has been development of large air space infiltrate within
+     the right middle lobe, and smaller infiltarte in the right lower lobe.
+     
+     IMPRESSION: Findings compatible with pneumonia in the right middle and lower
+     lobes.
+
+",,
+5652,,,,2904-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2904-8-12**] 11:44 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 13018**]
+     Reason: evaluate for aspiration
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with RML/RLL pneumonia and pancytopenia
+     REASON FOR THIS EXAMINATION:
+      evaluate for aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72 YEAR OLD MALE WITH MULTILOBAR PNEUMONIA AND PANCYTOPENIA.
+     QUERY ASPIRATION.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:
+     
+     This study was performed in conjunction with the speech therapist.  Various
+     consistencies of barium were administered orally.  No aspiration or laryngeal
+     penetration is seen with any of the barium consistencies.  Mild oral and
+     vallecula residue is seen with the barium paste.  An extrinsic impression upon
+     the posterior wall of the esophagus in its mid portion.
+     
+     IMPRESSION:  No evidence of aspiration of the consistencies tested.
+     
+     Extrinsic impression upon the posterior esophagus is due to the aberrant right
+     subclavian artery which was demonstrated on the recent CT scan of [**2904-6-14**].
+
+",,
+5652,,,,2904-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2904-8-20**] 5:09 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 13019**]
+     Reason: evaluate improvement of pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o rectal cancer in addition to above. also hx aplastic
+      anemia and emphysema returns to BID after being d'ced one week ago for the
+      treatment of a bilobar pneumonia.
+     REASON FOR THIS EXAMINATION:
+      evaluate improvement of pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumonia. ? resolution status post treatment.
+     
+     Comparison study dated [**2904-8-9**].
+     
+     CHEST, TWO VIEWS: The heart size, mediastinal and hilar contours are within
+     normal limits. The previously seen consolidative process in the right base has
+     improved on the present study. There is however persistent infiltrate
+     obscuring the medial right hemidiaphragm and right heart border. No pleural
+     effusions are appreciated.
+     
+     IMPRESSION:  Improved right basilar pneumonia but with persistent infiltrate
+     obscuring the right medial hemidiaphragm and right heart border.
+
+",,
+5652,,,,2904-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2904-8-21**] 5:11 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 13020**]
+     Reason: PICC LINE PLACEMENT,PLEASES ASSESS TIP
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with aplastic anemia who needs picc for chemotherapy.
+     REASON FOR THIS EXAMINATION:
+      pt had a SL picc line placed in r basilic vein, pt is an outpt on the [**Hospital 13021**]
+      clinic and will be going to the 4th floor [**Hospital Ward Name **] for cxry. He needs
+      confirmation of tip before he can go home. please page [**Doctor First Name **] [**Pager number 304**] with wet
+      read thanks. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  PICC line.
+     
+     SINGLE AP VIEW OF THE CHEST:  The right PICC line terminates in the mid-SVC.
+     The cardiomediastinal silhouette is stable.  There is no significant change in
+     the patchy infiltrate along the right heart border and right hemidiaphragm
+     since yesterday. 
+     
+
+",,
+5652,21896,,,2904-08-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2904-8-25**]     Discharge Date:  [**2904-9-1**]
+
+Date of Birth:   [**2831-9-18**]     Sex:  M
+
+Service:  OMED
+
+HOSPITAL COURSE ADDENDUM:  Mr. [**Known patient lastname 91**] was scheduled to be
+discharged on [**2904-8-29**], but was actually discharged on
+[**2904-9-1**].  In the interim, his hematocrit and platelet count
+were carefully monitored.  No transfusions were given.  The
+protocol to transfuse has been changed.  We will transfuse
+platelets if the patient is currently bleeding and we will
+transfuse packed red blood cells if he is symptomatic with
+shortness of breath.
+
+The patient continued to have thrush despite Nystatin
+swish-and-swallow q.i.d.  He was started on Fluconazole 200
+mg p.o. on Sunday, which will be decreased to 100 mg p.o.
+from Monday to the next Thursday.  His PICC line was
+discontinued on [**2904-8-30**].  He had some oozing at the PICC
+line site and also had some nosebleeds, which were very
+sparse and easily stopped.  However, platelets were not given
+at that time.
+
+It is to be noted that Mr. [**Known patient lastname 6892**] blood was sent for DRA
+antibody screen and HLA typing.  The DRA was 63% reactive.
+
+DISCHARGE STATUS:  The patient was discharged to [**Hospital 436**]
+Rehabilitation.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSES:
+History of rectal cancer, status post resection, radiation
+therapy and chemotherapy.
+Hypocellular myelodysplastic syndrome, transfusion dependent,
+status post anaphylactic shock to antithrombocyte globulin.
+
+DISCHARGE MEDICATIONS:  Discharge medications are as noted
+above, as well as prednisone 40 mg p.o., which will be
+described by 10 mg every day until stopped and fluconazole
+100 mg p.o. q.d. until [**2904-9-4**].
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6893**], M.D.  [**MD Number 6894**]
+
+Dictated By:[**Name8 (MD) 6841**]
+
+MEDQUIST36
+
+D:  [**2904-9-1**]  09:19
+T:  [**2904-9-1**]  10:42
+JOB#:  [**Job Number 6895**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1012**]
+ on: WED [**2904-9-17**] 12:12 AM
+(End of Report)
+
+
+",,
+5652,21896,,,2904-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2904-8-25**] 10:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 13022**]
+     Reason: BMT pt became acutely SOB while walking to bathroom.  Has h/
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o rectal CA here for APG chemo.
+     REASON FOR THIS EXAMINATION:
+      BMT pt became acutely SOB while walking to bathroom.  Has h/o emphysema and
+      recent RML/RLL pneumonia.  Uses inhalers at home.   Please evaluate for
+      pneumothorax or other pathology.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Rectal cancer and acute sob in patient with emphysema and recent
+     pneumonia.
+     
+     CV line is in mid-SVC.  Heart size is normal.  No evidence for CHF. Allowing
+     for suboptimal detail due to motion, the lungs are grossly clear.  No
+     pneumothorax.
+     
+     IMPRESSION:  No evidence for CHF or pneumonia.
+     
+
+",,
+5652,21896,7022,0,2904-08-26 06:00:00 EST,2904-08-26 06:17:00 EST,1775,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT IS A 72 Y/O MAN W/ PMHX OF HTN, COPD, ASBESTOSIS, CRI AND RECTAL CA WHO DEVELOPED MYELODYSPLASTIC SYNDROME, HYPOPLASTIC TYPE THIS SPRING.  HE WAS ADMITTED TO 4S MON TO BEGIN TREATMENT W/ ATG.  HE TOL THIS FOR ~ 5HRS, THEN DEVELOPED TACYPNPEA, SOB, AND HYPOTENSION.  PT PLACED ON O2 AT 5 LITERS, RECEIVED 1.5 LITERS OF NS, DOPA BEGUN AT 3 MCG'S AND PT ADMITTED TO MICU AT ~ 4AM.  
+     ON ARRIVAL TO MICU, RR 36/MIN, + DOE, NO COUGH.  SATS IN HIGH 90'S ON 5 LITERS NC.  BS'S CLEAR.  CEFTAZ BEGUN D/T RECENT HOSPITALIZATION FOR RML AND RLL PNX, ALTHOUGH CXR LAST NIGHT IS REPORTEDLY IMPROVED.  WEANED OFF DOPA BY 6AM.  HR'S NOW IN 80'S, SBP 113.  PT VOIDED X 1 BUT MISSED THE URINAL SO AMT NOT KNOWN.  PT IS LETHARGIC, BUT EASY TO AROUSE AND ORIENTED.  VERY WEAK, UNABLE EVEN TO USE URINAL ALONE.  IS NOW GETTING FLUIDS AT KVO.  ALSO TOL 1 GLASS H2O WELL.  AM LABS NOTABLE FOR K OF 3.4, PO4 OF 2.1, MG OF 1.2, HCT 24.8%, PLT CT OF 9K.  DR. [**Last Name (STitle) 770**] NOTIFIED.  ONLY WANTS TO GIVE 2 AMPS MG FOR NOW.  PT HAS EXHIBITED NO S/[**Last Name (un) **] OF BLEEDING (RECENT HX OF RECTAL BLEEDING W/ THROMBOCYTOPENIA.)  TMAX 101.9.  CX'D LAST NIGHT ON 4S.  NO OBVIOUS S/[**Last Name (un) **] OF INFECTION NOTED.  ANC 1120 THIS AM.  
+     SOCIAL HX.  PT HAS A WIFE AND GROWN SON WHO ARE SUPPORTIVE. HE IS RETIRED.  BEING TREATED BY PSYCH FOR DEPRESSION.      
+",,
+5652,21896,7022,0,2904-08-26 17:01:00 EST,2904-08-26 17:07:00 EST,2284,"N",69,"Nursing/Other","Pmicu nursing progress note...transfer out","
+Pmicu nursing progress note...transfer out
+ Respiratory: per wife..pt is at baseline..rr 20's..decreased 02 to 2l..sats high 90's..diminished bs...non productive cough..no wheezing.
+ Cardiac: hr 70's..nsr..bp 110-120/60-70..no c/o
+ Heme: Hct 24..recieving 1 of 2 rpc...plats 9..recieved i bag..repeat plt ct 16..to recieve 2nd bag...pt has r antecube picc line... and 1 r peripheral line
+ GI: Very poor appetite..taking small amts liquids..
+ GU: Incontinent of urine..attempts to use urinal unsuccessfully..
+Increased Bun/creat..following...
+Pt ready for transfer to floor..pt family with him.
+",,

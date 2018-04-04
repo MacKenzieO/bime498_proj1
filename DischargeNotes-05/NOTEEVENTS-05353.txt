@@ -1,0 +1,1007 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5353,11308,,,2826-06-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2826-6-24**]              Discharge Date:   [**2826-7-7**]
+ 
+Date of Birth:  [**2736-12-30**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Tetanus Toxoid / Azithromycin
+ 
+Attending:[**First Name3 (LF) 4315**] 
+Chief Complaint:
+flank and back pain
+ 
+Major Surgical or Invasive Procedure:
+CT HEAD W/O CONTRAST   
+MR HEAD W/O CONTRAST  
+MRA BRAIN & NECK W/O CONTRAST   
+Cardiology ECHO 
+RENAL U.S.   
+CT CHEST W/O CONTRAST   
+CT ABDOMEN W/O CONTRAST   
+CT CHEST W/O CONTRAST  
+CTA ABD W&W/O C & RECONS   
+CTA PELVIS W&W/O C & RECONS  
+ 
+History of Present Illness:
+The patient is an 89 year old woman with CAD s/p IMI in [**2819**], 
+PVD, HTN who initially presented to [**Hospital 934**] hospital with left 
+sided chest/flank pain. A CT scan without contrast was performed 
+which showed a possible intramural thrombus with a 5 cm aneurism 
+extending to the left renal vein, with 2 areas of ulceration. 
+She continued to have back pain so she was transferred to the 
+vascular surgery service at [**Hospital1 83**]. CTA of the abdomen/pelvis 
+here with contrast confirmed the findings. CT scan of the chest 
+without contrast showed possible extension to the thoracic 
+aorta.  
+.  
+During this admission she developed a different pain in the 
+chest, which lasted minutes. Her cardiac enzymes were checked 
+which showed CK peak of 468 on [**7-1**] with MB of 41, index 8.8, 
+and troponin climbing to 5.15. Her renal function also 
+deteriorated during this time, with creatinine from 1.3 to 3.4 
+today. She was transferred to cardiology for possible cardiac 
+catheterization.  
+.  
+ROS: Currently, she feels frustrated that she's in the hospital. 
+Denies chest pain, flank pain, urinary symptoms. At home she is 
+able to perform activities of daily life without difficulty. She 
+did have previous chest pain, DOE, occasional SOB, and LE edema. 
+All other ROS are negative.  
+
+ 
+Past Medical History:
+PVD, gout, [**Last Name (un) 6292**] esophagus, GERD, atrial fibrillation, 
+vetigo, skin squamous cell CA s/p excision, Dyslipidemia, 
+Hypertension  
+ 
+Social History:
+Social history is significant for previous tobacco use (25 pack 
+years). There is no history of alcohol abuse. . 
+ 
+Family History:
+Her son had CABG age 50
+ 
+Physical Exam:
+O: T: 97.5 BP: 1160/80 HR:89  R  14  O2Sats 100% RA
+               Gen: opens eyes to voice. Moans, agitated and 
+attempting to climb
+               out of bed.
+               HEENT:  Has left gaze preference and eyes cross 
+just past midline
+               on right with Doll's. Right lower facial droop. 
+Mouth dry. 
+               Neck: Supple. No bruits appreciated
+               Lungs: CTA bilaterally.
+               Cardiac: Irreg irreg. +M  S1/S2.
+               Abd: Soft, NT, BS+
+               Extrem: Warm and well-perfused.
+               Neuro:
+               Mental status: Moans to voice. Agitated, moaning. 
+Does not regard
+               examiner in the right hemispace. Not following 
+midline or
+               appendicular commands. 
+               Cranial Nerves:
+               I: Not tested
+               II: 4mm on left and 4.5 mm on right, reactive. 
+Does not blink to
+               threat in right visual fields. 
+               III, IV, VI: Moves eyes just past midline when 
+called from right.
+               
+               V, VII: right facial palsy. VIII: Hearing intact 
+to voice.
+               IX, X: severe dyasrthia
+               [**Doctor First Name **]: def
+               XII: Tongue midline without fasciculations.
+
+ 
+Pertinent Results:
+[**2826-6-24**] 02:30AM BLOOD WBC-9.7 RBC-3.94* Hgb-12.4 Hct-36.7 
+MCV-93 MCH-31.4# MCHC-33.7 RDW-14.8 Plt Ct-164
+[**2826-6-24**] 02:30AM BLOOD Neuts-84.1* Lymphs-12.3* Monos-2.6 
+Eos-0.8 Baso-0.3
+[**2826-6-24**] 02:30AM BLOOD PT-11.7 PTT-23.5 INR(PT)-1.0
+[**2826-6-24**] 02:30AM BLOOD Glucose-167* UreaN-29* Creat-1.4* Na-140 
+K-4.4 Cl-100 HCO3-28 AnGap-16
+[**2826-6-24**] 02:30AM BLOOD CK(CPK)-67
+[**2826-6-30**] 05:05PM BLOOD ALT-29 AST-65* AlkPhos-99 Amylase-79 
+TotBili-0.3
+[**2826-6-30**] 05:05PM BLOOD Lipase-44
+[**2826-6-24**] 08:11AM BLOOD Calcium-8.4 Phos-3.7 Mg-1.4*
+[**2826-6-30**] 05:05PM BLOOD Albumin-3.7
+[**2826-7-1**] 04:30AM BLOOD Cholest-121
+[**2826-7-1**] 04:30AM BLOOD Triglyc-80 HDL-56 CHOL/HD-2.2 LDLcalc-49
+[**2826-6-26**] 08:57PM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) 20**]-1.018
+[**2826-6-26**] 08:57PM URINE Blood-LG Nitrite-POS Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-8.0 Leuks-MOD
+[**2826-6-26**] 08:57PM URINE RBC-0-2 WBC-[**4-6**] Bacteri-MANY Yeast-NONE 
+Epi-0-2
+ 
+Brief Hospital Course:
+Patient is a 89 yo RHF with ho PVD, HTN, hyperlipidemia, afib, 
+DMII who was admitted aneurysmal dilatation with intramural 
+thrombus formation complicated by NSTEMI and now clinical left 
+MCA syndrome s/p IV TPA. Patient's event recorded at 11:11 AM 
+[**2826-7-5**]. Patient exam prior TPA is significant for left eye gaze 
+deviation, right hemianopsia, severe dysarthia, not following 
+commands and left arm/face > leg motor weakness. Patient 
+received IV TPA at 1:58 pm. Likely etiology of stroke is 
+cardioembolic with known Afib and recent MI with known 
+hypokinesis/akiniesis in the inferior lateral ventricle (no 
+thrombus visualized on TTE) or thrombus visualized in 
+intraabdominal aortic aneurysm.  
+.
+#. Neuro:  There was minimal improvement in exam the morning 
+following TPA administration (L gaze deviation, weak withdrawal 
+R arm, no speech, does not follow any commands), repeat Head CT 
+at 24 hours showed some R cerebellar hemorrhage and hemorrhage 
+into infarct.  Results were discussed with family and she was 
+subsequently made her CMO.  She was given Ativan PRN anxiety, 
+Morphine PRN pain and Scopolamine and Levsin for secretions.  
+Palliative care was following.  Patient passed away from 
+cardiorespiratory failure on [**2826-7-7**]. 
+.
+#. NSTEMI with elevated troponin to >5, CK peak at 468 
+continuing to trend down. likely unstable plaque. Continue to 
+hold on cath until renal failure resolves. currently chest pain 
+free.  Continued telemetry.  Continued ASA, plavix, BB (target 
+HR 60-70, sbp <130) heparin gtt.  Held ACE given renal failure.
+.  
+#. Pump EF 40% - Received hydration to improve creatinine.  
+Increased BB, held ACEi.
+.  
+#. Rhythm - NSR, no arrhythmias. monitor by tele  
+.  
+# Acute renal failure - likely secondary to contrast or prerenal 
+etiology. Renal ultrasound showed patent right artery; left 
+kidney old and small in size. Cr starting to trend down 
+following hydration supporting initial CIN likely exacerbated by 
+pre-renal azotemia.  Continued to dose adjust meds.  Needed to 
+place foley catheter with regard to urinary retention and renal 
+failure.
+.
+#. AAA with intramural thrombus - stable per vascular surgery. 
+No plans for OR at this time. Heparin OK.  Appreciated vascular 
+recs.  
+.  
+# Bladder spasm - likely related to UTI given spasm, dysuria, 
+and +UA. had 3 days of cipro with no significant improvement in 
+symptoms. Given baseline urinary dysmotility and retention, 
+would prefer to treat as ""complicated"" UTI and use 7 days of 
+therapy. the current symptoms appear acute worsening of her 
+chronic urinary problems.  No growth on multiple UCxs.  Treated 
+with empiric cipro x 7 days.  Needed foley as above.
+.  
+#. FEN - PO, low salt diet  
+.  
+#. Access: PIV  
+.  
+#. PPx: heparin GTT, PPI, bowel regimen 
+ 
+Medications on Admission:
+1. Allopurinol 300 mg daily
+2. Aspirin 325 mg daily
+3. Centrum 1 tab daily
+4. Crestor 10 mg daily
+5. Hydrochlorothiazide 25 mg daily
+6. Lisinopril 20 mg daily
+7. Metoprolol 12.5 mg BID
+8. Prilosec 20 mg daily
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Left middle cerebral artery infarct
+Thoracoabdominal aortic aneurysm
+NSTEMI
+Acute renal failure
+Peripheral vascular disease
+
+Secondary:
+GERD
+gout
+
+ 
+Discharge Condition:
+Deceased
+ 
+                             [**Name6 (MD) 2178**] [**Last Name (NamePattern4) 2179**] MD, [**MD Number 4320**]
+ 
+Completed by: [**Name6 (MD) 971**] [**Name8 (MD) **] MD [**MD Number 972**] [**2826-7-13**] @ 1803
+Signed electronically by: DR. [**First Name8 (NamePattern2) 2178**] [**Name (STitle) **]
+ on: FRI [**2826-7-17**] 10:38 AM
+(End of Report)
+
+
+",,
+5353,11308,,,2826-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman desc ao dissection                                            
+     REASON FOR THIS EXAMINATION:
+      assess from diaphram to groin for intimal irregularity                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  CTA of the abdomen and pelvis with and without contrast, [**2826-6-24**].
+     
+     COMPARISON:  None.
+     
+     INDICATION:  89-year-old woman with aortic dissection. 
+     
+     TECHNIQUE:  Axial imaging was obtained through the abdomen and pelvis before
+     and after the administration of IV contrast.  Images were reformatted in the
+     coronal and sagittal planes as well as three dimensionally.
+     
+     FINDINGS FOR CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  Limited imaging
+     of the lung bases demonstrates bibasilar atelectasis.  There are coronary
+     artery calcifications.  There is no pleural or pericardial effusion.  There is
+     a small hiatal hernia.  The lower thoracic aorta is tortuous and demonstrates
+     a penetrating atherosclerotic ulcer along its left lateral wall, this ulcer
+     measures approximately 2.8 cm in craniocaudal extent x 1.4 cm in transverse
+     dimension.  Second smaller penetrating atherosclerotic ulcer is demonstrated
+     just inferiorly in the thoracic aorta.  The thoracic aorta is aneurysmal,
+     measuring 4.9 cm x 4 cm in maximum dimension.  Irregular mural thrombus is
+     demonstrated.
+     
+     The aorta at the level of the hiatus measures 4.3 cm x 4 cm and demonstrates
+     irregular mural thrombus.  There is severe stenosis involving the celiac axis
+     which opacifies distally.  There is moderate stenosis involving the SMA with
+     irregular mural thrombus involving the most proximal SMA.  The abdominal
+     aortic aneurysm continues from the chest and extends through the abdomen to
+     the level of the aortic bifurcation, the maximum dimensions infrarenally are
+     4.7 cm x 5.2 cm.  At the level of the renal arteries, the aorta measures 4.6
+     cm x 4.4 cm.  There is mild narrowing of the right renal artery which
+     bifurcates early.  The left kidney is atrophic.  At the lower pole of the
+     right kidney, there is a 3-cm low-density lesion consistent with cyst.
+     Multiple low-density lesions are demonstrated within the atrophic left kidney,
+     also likely cysts.  The subcentimeter lesions are too small to characterize.
+     There is no opacification of the left renal artery.  The liver, spleen,
+     pancreas, and right adrenal gland are unremarkable.  Calcified gallstones are
+     demonstrated within the gallbladder.  There is a 2.6 cm x 1.3 cm left adrenal
+     mass which is not definitely consistent with adenoma, however, may represent a
+     lipid-poor adenoma and is not completely characterized on this examination.
+     Multiple small periportal lymph nodes are demonstrated, none of which are
+                                                                 (Over)
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pathologically enlarged.  The bowel is normal in caliber.  Numerous
+     retroperitoneal lymph nodes are demonstrated, none of which are pathologically
+     enlarged by CT criteria.  Multiple calcified mesenteric lymph nodes are
+     demonstrated, likely from prior granulomatous infection.
+     
+     CT PELVIS WITH AND WITHOUT IV CONTRAST:  The common iliac arteries are
+     tortuous, however, are normal in size.  There is moderate stenosis of the left
+     common iliac artery.  The right internal iliac artery is tortuous.  There is
+     extensive sigmoid diverticulosis without evidence of acute diverticulitis. The
+     uterus and adnexal structures are unremarkable.  A Foley balloon catheter is
+     seen inflated within the bladder and gas is seen within the bladder, likely
+     from catheterization.  There is no ascites, lymphadenopathy, or free
+     intraperitoneal gas.
+     
+     BONE WINDOWS:  There are no suspicious lytic or cystic lesions.  The bones are
+     diffusely osteopenia.  There is degenerative disease of the lower thoracic and
+     lumbar spine.  There is an age-indeterminate compression fracture deformity of
+     the superior endplate of L2.
+     
+     IMPRESSION:
+     
+     1.  Lower thoracic and abdominal aortic aneurysm, maximum dimensions of the
+     abdominal aorta measure 5.2 cm x 4.7 cm.  The aneurysm extends from the
+     thoracic aorta down into the abdominal aorta, further evaluation with CTA of
+     the chest is recommended to fully better evaluate the thoracic aorta.
+     Extensive irregular mural thrombus is demonstrated in the inferior thoracic
+     and abdominal aorta.
+     
+     2.  Two penetrating atherosclerotic ulcers involving the lower thoracic aorta.
+     
+     3.  Severe proximal celiac stenosis and mild SMA stenosis.
+     
+     4.  Mild narrowing of the renal artery.
+     
+     5.  Cholelithiasis.
+     
+     6.  Diverticulosis without evidence of acute diverticulitis.
+     
+     7.  Small hiatal hernia.
+     
+     8.  Atrophic left kidney and nonvisualization of the left renal artery due to
+     chronic atherosclerotic occlusion.
+     
+     9.  Mesenteric calcified lymph nodes consistent with prior granulomatous
+     infection.
+                                                                 (Over)
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     10.  Age-indeterminate compression fracture deformity of superior endplate of
+     L2.
+     
+
+",,
+5353,11308,,,2826-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman desc ao dissection                                            
+     REASON FOR THIS EXAMINATION:
+      assess from diaphram to groin for intimal irregularity                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  CTA of the abdomen and pelvis with and without contrast, [**2826-6-24**].
+     
+     COMPARISON:  None.
+     
+     INDICATION:  89-year-old woman with aortic dissection. 
+     
+     TECHNIQUE:  Axial imaging was obtained through the abdomen and pelvis before
+     and after the administration of IV contrast.  Images were reformatted in the
+     coronal and sagittal planes as well as three dimensionally.
+     
+     FINDINGS FOR CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  Limited imaging
+     of the lung bases demonstrates bibasilar atelectasis.  There are coronary
+     artery calcifications.  There is no pleural or pericardial effusion.  There is
+     a small hiatal hernia.  The lower thoracic aorta is tortuous and demonstrates
+     a penetrating atherosclerotic ulcer along its left lateral wall, this ulcer
+     measures approximately 2.8 cm in craniocaudal extent x 1.4 cm in transverse
+     dimension.  Second smaller penetrating atherosclerotic ulcer is demonstrated
+     just inferiorly in the thoracic aorta.  The thoracic aorta is aneurysmal,
+     measuring 4.9 cm x 4 cm in maximum dimension.  Irregular mural thrombus is
+     demonstrated.
+     
+     The aorta at the level of the hiatus measures 4.3 cm x 4 cm and demonstrates
+     irregular mural thrombus.  There is severe stenosis involving the celiac axis
+     which opacifies distally.  There is moderate stenosis involving the SMA with
+     irregular mural thrombus involving the most proximal SMA.  The abdominal
+     aortic aneurysm continues from the chest and extends through the abdomen to
+     the level of the aortic bifurcation, the maximum dimensions infrarenally are
+     4.7 cm x 5.2 cm.  At the level of the renal arteries, the aorta measures 4.6
+     cm x 4.4 cm.  There is mild narrowing of the right renal artery which
+     bifurcates early.  The left kidney is atrophic.  At the lower pole of the
+     right kidney, there is a 3-cm low-density lesion consistent with cyst.
+     Multiple low-density lesions are demonstrated within the atrophic left kidney,
+     also likely cysts.  The subcentimeter lesions are too small to characterize.
+     There is no opacification of the left renal artery.  The liver, spleen,
+     pancreas, and right adrenal gland are unremarkable.  Calcified gallstones are
+     demonstrated within the gallbladder.  There is a 2.6 cm x 1.3 cm left adrenal
+     mass which is not definitely consistent with adenoma, however, may represent a
+     lipid-poor adenoma and is not completely characterized on this examination.
+     Multiple small periportal lymph nodes are demonstrated, none of which are
+                                                                 (Over)
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pathologically enlarged.  The bowel is normal in caliber.  Numerous
+     retroperitoneal lymph nodes are demonstrated, none of which are pathologically
+     enlarged by CT criteria.  Multiple calcified mesenteric lymph nodes are
+     demonstrated, likely from prior granulomatous infection.
+     
+     CT PELVIS WITH AND WITHOUT IV CONTRAST:  The common iliac arteries are
+     tortuous, however, are normal in size.  There is moderate stenosis of the left
+     common iliac artery.  The right internal iliac artery is tortuous.  There is
+     extensive sigmoid diverticulosis without evidence of acute diverticulitis. The
+     uterus and adnexal structures are unremarkable.  A Foley balloon catheter is
+     seen inflated within the bladder and gas is seen within the bladder, likely
+     from catheterization.  There is no ascites, lymphadenopathy, or free
+     intraperitoneal gas.
+     
+     BONE WINDOWS:  There are no suspicious lytic or cystic lesions.  The bones are
+     diffusely osteopenia.  There is degenerative disease of the lower thoracic and
+     lumbar spine.  There is an age-indeterminate compression fracture deformity of
+     the superior endplate of L2.
+     
+     IMPRESSION:
+     
+     1.  Lower thoracic and abdominal aortic aneurysm, maximum dimensions of the
+     abdominal aorta measure 5.2 cm x 4.7 cm.  The aneurysm extends from the
+     thoracic aorta down into the abdominal aorta, further evaluation with CTA of
+     the chest is recommended to fully better evaluate the thoracic aorta.
+     Extensive irregular mural thrombus is demonstrated in the inferior thoracic
+     and abdominal aorta.
+     
+     2.  Two penetrating atherosclerotic ulcers involving the lower thoracic aorta.
+     
+     3.  Severe proximal celiac stenosis and mild SMA stenosis.
+     
+     4.  Mild narrowing of the renal artery.
+     
+     5.  Cholelithiasis.
+     
+     6.  Diverticulosis without evidence of acute diverticulitis.
+     
+     7.  Small hiatal hernia.
+     
+     8.  Atrophic left kidney and nonvisualization of the left renal artery due to
+     chronic atherosclerotic occlusion.
+     
+     9.  Mesenteric calcified lymph nodes consistent with prior granulomatous
+     infection.
+                                                                 (Over)
+
+     DATE: [**2826-6-24**] 10:45 AM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 10457**]
+     Reason: assess from diaphram to groin for intimal irregularity      
+     Admitting Diagnosis: AORTIC DISSECTION
+      Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     10.  Age-indeterminate compression fracture deformity of superior endplate of
+     L2.
+     
+
+",,
+5353,11308,6645,0,2826-06-24 15:20:00 EST,2826-06-24 15:29:00 EST,8665,"N",54,"Nursing/Other",,"
+
+Neuro: A&O x3; calm & cooperative most of shift, very anxious & agitated in AM when attempting to put in foley catheter, foley put in by 2 female nurses later in AM; MAE's, following commnads consistently
+
+CV: Afebrile; SB 50's; SBP 90's-120's, goal SBP <120; weaned off labetalol gtt in AM, IV htdralazine given x1 for SBP >120 in PM; diastolic BP 20's-30's, team awared, no c/o chest pain, nausea & mentating fine; CTA with contrast pelvics & abdomen done; weak palpable pulses x4, confirmed by doppler; ACE inhibitor DC'd d/t renal status
+
+Resp: Lung sound clear, dim @ bases; 2L NC sat 96%
+
+GI: NPO, and soft, hypo bowel sound, LBM [**6-22**]
+
+GU: Foley to gravity, draining clear yellow urine, UO>30 ml/hr; AM Cr 1.5; D5W with 150 mEq sodium bicarb infusing @ 70 ml/hr for renal protect from contrast dye
+
+Integ: Intact
+
+Pain: c/o back pain post CT scan d/t laying flat on scanner bed, resolved by own when transferred back to bed
+
+Social: Family in for visit, healthcare proxy obtained and copy placed in chart
+
+Plan: Monitor hemodynamics, resp status & lab; BP management, goal SBP <120, 5mg hydralazine PRN; discuss plan with vascula [**Doctor First Name **] team & update family
+",,
+5353,11308,6645,0,2826-06-25 02:24:00 EST,2826-06-25 02:31:00 EST,7609,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+neuro: pt alert, oriented x3. MAE with equal strength, follows commands. +PERRL. c/o back pain at the beginning of the shift, very anxious after family left, vascular md notified, 1 po percocet given with good effect. ivp benadryl given for [**Doctor Last Name 65**] with good effect. 
+
+cv: remains sr without ectopy. sbp 90-120, sbp up to 140 when anxious/pain, treated with prn hydralazine +percocet with good effect. dopplerable pulses bilat. no gtts.
+
+resp: ls clear bilat, o2sats>95% on 2l n/c.
+
+gi/gu: abd soft, +bowel sounds. tolerating liquids well, diet advanced per vascular due to unknown future surgery date. indwelling cath draining clear yellow urine to gravity, sufficient amts>30cc/hr. 
+
+plan: continue to monitor on the floor. continue to keep sbp<120. diet and activity as tolerating per team.
+",,
+5353,11308,,,2826-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-26**] 10:06 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 10458**]
+     Reason: Evalauate for dissection. arch-diaphram. Known AAA , possibl
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with chest pain (stable). NO CONTRAST                         
+     REASON FOR THIS EXAMINATION:
+      Evalauate for dissection. arch-diaphram. Known AAA , possible aortic 
+      dissection. NO CONTRAST (elevated CR.)
+     CONTRAINDICATIONS for IV CONTRAST:
+      NO CONTRAST [**First Name8 (NamePattern2) **] [**Doctor Last Name **]. Elevated cr.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89-year-old woman with chest pain.
+     
+     TECHNIQUE:  Multidetector axial images of the chest were obtained without
+     intravenous contrast.  Coronal and sagittal reformatted images were performed.
+     
+     COMPARISON:  [**2826-6-24**] Abdomen CT.
+     
+     CT CHEST WITHOUT IV CONTRAST:  There is a dumbell shaped, fusiform
+     thoracoabdominal aortic aneurysm extending from the mid descending aorta into
+     the upper abdomen, partially evaluated by the contrast-enhanced Abdomen CT on
+     [**6-24**]. Proximal to the level of the dissected and/or ulcerated portion of the
+     abdomen in the low chest demonstrated on the Abdomen CT, the 3.5cm long, upper
+     component of the aneurysm has a maximum diameter of 47mm approximately 15mm
+     below the level of the carina (2:24, 25).
+     
+     Just above the carina, separation of intimal calcification from the posterior
+     wall suggests dissection, also seen in the normal caliber ascending aorta at
+     the levels of the left coronary orifice (2:29) and intrapericardial right
+     pulmonary artery (2:24). There is no periaortic hematoma or pericardial fluid
+     collection.
+     
+     The pulmonary arteries are at the upper limits of normal in diameter. Coronary
+     artery calcifications and possible right coronary stents are noted.
+     Mediastinal lymph nodes measure up to 10 mm in short axis diameter.  Several,
+     2-3mm wide right upper lobe pulmonary nodules are noted. There is mild
+     emphysema. Dependent atelectasis is identified.  There is a small
+     calcification at the left lung base.  A small axial hiatal hernia is
+     identified.  Imaged portions of the upper abdomen are otherwise unremarkable.
+     There are no bone lesions suspicious for malignancy.
+     
+     IMPRESSION:  
+     
+     1.  Bilobed thoracoabdominal aortic aneurysm measuring up to 4.7 cm in the mid
+     chest.  Multiple areas of elevated intimal calcification raise concern for at
+     least a Type B and possibly Type A dissection.  Further evaluation with non-
+     enhanced MRI is recommended because of renal insufficiency.
+     2.  Several sub 2-3 mm right upper lobe pulmonary nodules.
+                                                                 (Over)
+
+     DATE: [**2826-6-26**] 10:06 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 10458**]
+     Reason: Evalauate for dissection. arch-diaphram. Known AAA , possibl
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5353,11308,,,2826-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-28**] 11:46 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 10459**]
+     Reason: has AAA increased in size                                   
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman known 4.5 cm AAA, now with increasing severe paraspinous 
+      pain                                
+     REASON FOR THIS EXAMINATION:
+      has AAA increased in size                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      patient has renal insufficiency and contrast induced nephropathy from recent CTA w/ contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Known abdominal aortic aneurysm with increasing severe
+     paraspinous pain.  Assess for change in aortic size.
+     
+     TECHNIQUE:  Volumetric CT imaging was performed without oral or IV contrast
+     from the lung apices through the aortic bifurcation.
+     
+     COMPARISON:  Chest CT from two days earlier.  Abdominal CT from four days
+     earlier.
+     
+     CHEST CT:  The aorta is unchanged in appearance with ectasia of the arch and
+     descending thoracic aorta with areas of mural calcification.  No new
+     periaortic hematoma is identified.  Intraluminal detail cannot be assessed on
+     this study if there is clinical concern for dissection.  There is emphysema
+     and areas of bilateral pleural thickening with calcification, left greater
+     than right.  Appearance of lungs is unchanged without new consolidations or
+     pleural/pericardial effusion.  There is a likely small hiatal hernia.
+     
+     ABDOMEN CT:  There is diffuse ectasia of the abdominal aorta, measuring up to
+     5.0 x 4.6 cm at the level of the left renal vein, which is unchanged since the
+     prior abdominal CT allowing for differences in technique.  No areas of acute
+     inflammatory stranding are identified in the abdomen.  As before there is
+     calcified mural plaque at the site of a penetrating atherosclerotic ulcer in
+     the suprarenal aorta, unchanged in position compared to the previous study.
+     There is cholelithiasis without evidence of acute cholecystitis. There is
+     gallbladder distension.  The left kidney is atrophic.  There are multiple
+     likely cysts, which are incompletely assessed without IV contrast. Left
+     adrenal mass (2.6 x 1.3cm) is unchanged in appearance is not further
+     characterized on the current study. There is no free intraperitoneal air.
+     Noncontrast assessment of the liver and spleen is unremarkable. Calcified
+     mesenteric lymph nodes are redemonstrated. There is diffuse colonic
+     diverticulosis.
+     
+     Multilevel degenerative changes are seen within the spine.  There is
+     exaggeration of the thoracic kyphosis.  Compression deformity of L2 is
+     unchanged since [**6-24**], the most remote comparison study available.
+     Multilevel degenerative changes of the thoracolumbar spine are again seen.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2826-6-28**] 11:46 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 10459**]
+     Reason: has AAA increased in size                                   
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Aneurysmal dilatation of the thoracoabdominal aorta, with no evidence of
+     leak or change in aneurysm size compared to [**6-24**].  Internal details of the
+     aneurysm (such as dissection), cannot be assessed by this study.
+     
+     2.  Otherwise unchanged appearance of chest and abdomen, allowing for
+     differences in technique, without acute abnormality identified.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 967**]
+",,
+5353,11308,,,2826-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-28**] 11:46 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 10459**]
+     Reason: has AAA increased in size                                   
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old woman known 4.5 cm AAA, now with increasing severe paraspinous 
+      pain                                
+     REASON FOR THIS EXAMINATION:
+      has AAA increased in size                                                       
+     CONTRAINDICATIONS for IV CONTRAST:
+      patient has renal insufficiency and contrast induced nephropathy from recent CTA w/ contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Known abdominal aortic aneurysm with increasing severe
+     paraspinous pain.  Assess for change in aortic size.
+     
+     TECHNIQUE:  Volumetric CT imaging was performed without oral or IV contrast
+     from the lung apices through the aortic bifurcation.
+     
+     COMPARISON:  Chest CT from two days earlier.  Abdominal CT from four days
+     earlier.
+     
+     CHEST CT:  The aorta is unchanged in appearance with ectasia of the arch and
+     descending thoracic aorta with areas of mural calcification.  No new
+     periaortic hematoma is identified.  Intraluminal detail cannot be assessed on
+     this study if there is clinical concern for dissection.  There is emphysema
+     and areas of bilateral pleural thickening with calcification, left greater
+     than right.  Appearance of lungs is unchanged without new consolidations or
+     pleural/pericardial effusion.  There is a likely small hiatal hernia.
+     
+     ABDOMEN CT:  There is diffuse ectasia of the abdominal aorta, measuring up to
+     5.0 x 4.6 cm at the level of the left renal vein, which is unchanged since the
+     prior abdominal CT allowing for differences in technique.  No areas of acute
+     inflammatory stranding are identified in the abdomen.  As before there is
+     calcified mural plaque at the site of a penetrating atherosclerotic ulcer in
+     the suprarenal aorta, unchanged in position compared to the previous study.
+     There is cholelithiasis without evidence of acute cholecystitis. There is
+     gallbladder distension.  The left kidney is atrophic.  There are multiple
+     likely cysts, which are incompletely assessed without IV contrast. Left
+     adrenal mass (2.6 x 1.3cm) is unchanged in appearance is not further
+     characterized on the current study. There is no free intraperitoneal air.
+     Noncontrast assessment of the liver and spleen is unremarkable. Calcified
+     mesenteric lymph nodes are redemonstrated. There is diffuse colonic
+     diverticulosis.
+     
+     Multilevel degenerative changes are seen within the spine.  There is
+     exaggeration of the thoracic kyphosis.  Compression deformity of L2 is
+     unchanged since [**6-24**], the most remote comparison study available.
+     Multilevel degenerative changes of the thoracolumbar spine are again seen.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2826-6-28**] 11:46 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 10459**]
+     Reason: has AAA increased in size                                   
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Aneurysmal dilatation of the thoracoabdominal aorta, with no evidence of
+     leak or change in aneurysm size compared to [**6-24**].  Internal details of the
+     aneurysm (such as dissection), cannot be assessed by this study.
+     
+     2.  Otherwise unchanged appearance of chest and abdomen, allowing for
+     differences in technique, without acute abnormality identified.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 967**]
+",,
+5353,11308,,,2826-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-6-30**] 5:43 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10460**]
+     Reason: eval chest pain etiology                                    
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 y/o woman presents from [**Hospital **] hospital w chest pain                        
+     REASON FOR THIS EXAMINATION:
+      eval chest pain etiology                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89-year-old female with chest pain.
+     
+     Comparison is made to prior chest radiograph dated [**2819-6-17**] and recent CT
+     examination dated [**2826-6-28**].
+     
+     PA AND LATERAL CHEST RADIOGRAPHS
+     
+     FINDINGS:
+     
+     Other than mild bibasilar atelectasis, the lungs appear clear.  There is a
+     small left pleural effusion.  No evidence of pneumothorax or pulmonary edema.
+     Heart size is within normal limits, and there is a reidentification of
+     calcified tortuous thoracic aorta.  Flattening of the hemidiaphragms,
+     parenchymal architectural distortion, and increased AP diameter are all
+     consistent with underlying emphysema, better demonstrated on recent CT
+     examination.  Superior end plate deformity is stable
+     
+     IMPRESSION:
+     
+     No acute cardiopulmonary process identified.  Small left pleural effusion.
+     Underlying emphysema.
+
+",,
+5353,11308,,,2826-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-7-1**] 4:08 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 10461**]
+     Reason: r/o obstruction. Please do dopplers of renal arteries to ens
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with aortic aneurism with acute on chronic renal failure 
+      after IV contrast
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction. Please do dopplers of renal arteries to ensure patency as 
+      known aneurism with poss dissection
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RENAL ULTRASOUND
+     
+     INDICATION:  Aortic aneurysm with acute on chronic renal failure.  Assess
+     renal arteries.
+     
+     FINDINGS:  The right kidney measures 12.1 cm in maximum length with relatively
+     preserved renal cortical thickness.  Simple cyst is seen in the mid pole of
+     the right kidney measuring 3.7 x 2.6 x 3.4 cm.  There is good flow within the
+     right kidney.  There is a normal arterial waveform with normal systolic and
+     diastolic flow.  The resistive index varies from 0.76 to 0.78.  Normal venous
+     flow is seen within the right kidney.
+     
+     The left kidney is markedly reduced in size at 6 cm.  Comparison is made with
+     the previous CT from [**6-8**] which shows an atrophic left kidney.  Several
+     scattered simple cysts are seen in relation to the left kidney.  No
+     significant arterial or venous flow could be identified. This is consistent
+     with the atherosclerotic nature of the left renal artery as identified on the
+     previous CT.
+     
+     IMPRESSION:  Unremarkable right kidney with normal blood flow, with atrophic
+     left kidney consistent with previous recent CT.
+
+",,
+5353,11308,,,2826-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5353,11308,,,2826-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-7-5**] 11:55 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10462**]
+     MRA NECK W/O CONTRAST
+     Reason: assess for acute stroke                                     
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with HTN,CAD, DM, now w/ acute left facial droop, witnessed 
+      to slump on left side
+     REASON FOR THIS EXAMINATION:
+      assess for acute stroke                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with hypertension, CAD, diabetes, now with
+     acute left facial droop, to evaluate for left-sided acute stroke.
+     
+     No prior studies.
+     
+     TECHNIQUE.  MRI of the head without contrast and MR angiogram of the circle of
+     [**Location (un) 405**] were performed.
+     
+     FINDINGS:
+     
+     Study is extremely limited due to motion artifacts.
+     
+     On the diffusion-weighted images, there is restricted diffusion over a large
+     area in the left temporal lobe, consistent with acute stroke in the left MCA
+     territory.
+     
+     The MR angiogram images are not interpretable.  The left MCA is not
+     visualized, however, it is unclear if this is technical or due to occlusion.
+     
+     IMPRESSION:
+     
+     1.  Extremely limited study due to motion artifacts.
+     
+     2.  Restricted diffusion in the left MCA territory, consistent with acute
+     infarction
+     3.  MR angiogram of the circle of [**Location (un) 405**] - not interpretable; left MCA not
+     visualized unclear if artifactual versus occlusion.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 10463**] by Dr. [**Last Name (STitle) 2408**] on [**2826-7-5**] at 1 p.m.
+
+",,
+5353,11308,,,2826-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-7-5**] 11:55 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10462**]
+     MRA NECK W/O CONTRAST
+     Reason: assess for acute stroke                                     
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with HTN,CAD, DM, now w/ acute left facial droop, witnessed 
+      to slump on left side
+     REASON FOR THIS EXAMINATION:
+      assess for acute stroke                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with hypertension, CAD, diabetes, now with
+     acute left facial droop, to evaluate for left-sided acute stroke.
+     
+     No prior studies.
+     
+     TECHNIQUE.  MRI of the head without contrast and MR angiogram of the circle of
+     [**Location (un) 405**] were performed.
+     
+     FINDINGS:
+     
+     Study is extremely limited due to motion artifacts.
+     
+     On the diffusion-weighted images, there is restricted diffusion over a large
+     area in the left temporal lobe, consistent with acute stroke in the left MCA
+     territory.
+     
+     The MR angiogram images are not interpretable.  The left MCA is not
+     visualized, however, it is unclear if this is technical or due to occlusion.
+     
+     IMPRESSION:
+     
+     1.  Extremely limited study due to motion artifacts.
+     
+     2.  Restricted diffusion in the left MCA territory, consistent with acute
+     infarction
+     3.  MR angiogram of the circle of [**Location (un) 405**] - not interpretable; left MCA not
+     visualized unclear if artifactual versus occlusion.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 10463**] by Dr. [**Last Name (STitle) 2408**] on [**2826-7-5**] at 1 p.m.
+
+",,
+5353,11308,,,2826-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-7-5**] 11:55 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10462**]
+     MRA NECK W/O CONTRAST
+     Reason: assess for acute stroke                                     
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with HTN,CAD, DM, now w/ acute left facial droop, witnessed 
+      to slump on left side
+     REASON FOR THIS EXAMINATION:
+      assess for acute stroke                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old woman with hypertension, CAD, diabetes, now with
+     acute left facial droop, to evaluate for left-sided acute stroke.
+     
+     No prior studies.
+     
+     TECHNIQUE.  MRI of the head without contrast and MR angiogram of the circle of
+     [**Location (un) 405**] were performed.
+     
+     FINDINGS:
+     
+     Study is extremely limited due to motion artifacts.
+     
+     On the diffusion-weighted images, there is restricted diffusion over a large
+     area in the left temporal lobe, consistent with acute stroke in the left MCA
+     territory.
+     
+     The MR angiogram images are not interpretable.  The left MCA is not
+     visualized, however, it is unclear if this is technical or due to occlusion.
+     
+     IMPRESSION:
+     
+     1.  Extremely limited study due to motion artifacts.
+     
+     2.  Restricted diffusion in the left MCA territory, consistent with acute
+     infarction
+     3.  MR angiogram of the circle of [**Location (un) 405**] - not interpretable; left MCA not
+     visualized unclear if artifactual versus occlusion.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 10463**] by Dr. [**Last Name (STitle) 2408**] on [**2826-7-5**] at 1 p.m.
+
+",,
+5353,11308,6646,0,2826-07-05 17:09:00 EST,2826-07-05 18:04:00 EST,804,"N",1,"Nursing/Other","Focus: Stroke","
+Focus: Stroke
+Data:
+89yo woman with a h/o PVD, HTN, Afib, DMII who was admitted for NSTEMI and was ready to be discharged to rehab from the floor when she walked to use the commode and became acutely weak on the left side, slurred speech and was brought back to her bed and code stroke was called at 1111. She was admitted to the SICU at 1330. She was very agitated with garbled speech, unable to make out any words. Moving right leg in bed very slightly, gross movement only when stimulated right upper extremity, lifting and holding left extremities, left sided facial droop and would not follow commands. Pupils equal and reactive at 3mm with a left sided gaze. Tongue deviating to left. Foley placed and PIVx2 inserted and TPA was given at 1358. Monitoring per protocol. Labetolol ivp prn for Bp>180. Post TPA neuro status slightly improved. Patient purposefully lifting and holding right leg in bed and moving right arm in bed. Does not follow commands and continues to be agitated. Family states she did stick out her tongue to command for them. She appears to track at times. Continues with garbled speech. Family meeting with Dr. [**Last Name (STitle) 8463**] from neurology and the with Dr [**Last Name (STitle) 1576**] to discuss plan of care. Family all present and decided to make pt. DNR but continued treatment.   
+
+",,
+5353,11308,6646,,2826-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2826-7-6**] 9:57 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10464**]
+     Reason: assess for intracranial hemorrhage status post tPA          
+     Admitting Diagnosis: AORTIC DISSECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old woman with left MCA stroke status post IV tPA                       
+     REASON FOR THIS EXAMINATION:
+      assess for intracranial hemorrhage status post tPA                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  89-year-old female with left MCA stroke, status post IV TPA.  Assess
+     for intracranial hemorrhage.
+     
+     Comparison is made to prior MRI dated [**2826-7-5**].
+     
+     NON-CONTRAST HEAD CT:
+     
+     FINDINGS:
+     
+     There has been interval development of hyperattenuating material extending
+     within the right cerebellum suspicious for new hemorrhage.  Additional
+     hyperattenuating areas are noted along the sulci within the right parietal and
+     temporal lobes (2A:18, 20) which are suspicious for small areas of petechial
+     hemorrhage.  There has been evolution of the known left MCA stroke with
+     increased cytotoxic edema and mild 4 mm rightward subfalcine shift. Areas of
+     hyperattenuation within the stroke distribution may represent areas of small
+     spared cortex or petechial hemorrhage.  No new infarcts are identified and
+     there is stable appearance to a lacunar infarct involving the right caudate.
+     No evidence of hydrocephalus or intraventricular hemorrhage. Osseous
+     structures and soft tissues appear unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Limited examination due to motion with new right cerebellar hemmorhage and
+     suspicious areas of hyperattenuating material along the sulci within the right
+     parietal and temporal lobes suspicious for new petechial hemorrhage.
+     
+     2. Evolving left MCA distribution stroke with increased surrounding edema and
+     a 4 mm rightward subfalcine shift.  Either areas of spared left cortex or
+     areas of left cortical hemmorhage.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 10465**] on date of exam at approximately 11 a.m.
+
+",,
+5353,11308,6646,0,2826-07-06 02:42:00 EST,2826-07-06 02:53:00 EST,418,"N",1,"Nursing/Other",,"
+
+vss, hr,b/p and rr up w/ increased agitation-having freq. episodes of moaning, very restless and agitated-calming effect w/ repositioning and daugthers @ bedside all shift holding her lt hand to keep from pulling @ ekg leads,foley and oxygen. slight mvmt in rt arm and withdraws to painful stimuli. both legs constantly moving. not following any commands. pupils equal react to light.
+urine output 100-80cc/hr c/y/u.
+to have repeat head ct today 
+",,

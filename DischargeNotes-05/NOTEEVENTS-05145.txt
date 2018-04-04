@@ -1,0 +1,967 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5145,,,,3059-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-13**] 1:23 PM
+     FOOT AP,LAT & OBL RIGHT                                         Clip # [**Clip Number (Radiology) 8564**]
+     Reason: xray - rt foot., dx: s/p [**3059**].
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with 
+     REASON FOR THIS EXAMINATION:
+      xray - rt foot.
+      dx: s/p [**3059**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT FOOT THREE VIEWS [**3059-12-13**].
+     
+     HISTORY:  75-year-old man with trauma and right lateral foot pain.
+     
+     FINDINGS:  No prior studies available for comparison.
+     
+     There are two transverse fracture lines at the base of the fifth metatarsal in
+     a transverse orientation, best seen on the oblique radiograph. There is mild
+     angulation and cortical thickening of the distal shaft of the fifth
+     metatarsal, suggestive of old prior healed fracture.  There is generalized
+     osteopenia.  Vascular calcifications are present.
+     
+     IMPRESSION:
+     1.  Likely acute fracture at the base of the fifth metatarsal.  Would
+     correlate with point tenderness in this region when the patient is examined.
+     2.  Angulation and evidence of prior fracture at the distal shaft of the fifth
+     metatarsal.
+     
+     These findings have been given to the assistant to Dr. [**First Name4 (NamePattern1) 1426**] [**Last Name (NamePattern1) 8565**]
+     office at [**Telephone/Fax (1) 8566**].
+     
+     
+
+",,
+5145,,,,3059-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-13**] 8:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8567**]
+     Reason: assess for pna, ptx                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with hypotension                                                
+     REASON FOR THIS EXAMINATION:
+      assess for pna, ptx                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  72-year-old man with hypotension.
+     
+     CHEST, SEMI-UPRIGHT AP PORTABLE:  Comparison is made to [**3059-7-1**].  The
+     appearance of a three-lead pacemaker device is unchanged, with the leads
+     terminating in the right atrium, right ventricle and coronary sinus.  These
+     appear unchanged.  Marked cardiomegaly has a similar appearance. The lungs are
+     clear.  Again demonstrated is a small left-sided pleural effusion, but no
+     pneumothorax.
+     
+     IMPRESSION:  Marked cardiomegaly.  Similar appearance of pacemaker device.  No
+     significant interval change.
+
+",,
+5145,28342,,,3059-12-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3059-12-14**]              Discharge Date:   [**3059-12-26**]
+ 
+Date of Birth:  [**2984-8-1**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 98**] 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+75 yom h/o DCM, cardiac arrest, VT presents to ED after 
+recurrent sudden LOC with ICD shocks ~4times.
+.
+Cardiac arrest in [**3052**] cathed with clean coronaries and managed 
+with amiodarone. In [**3056**], found to have afib then atrial 
+tachycardia with a 3-4:1 block with ICD implanted on [**3056-5-13**]. Had 
+subsequent VT, underwent EP study with several radiofrequency 
+ablation lesions in attempt to eliminate his VT.
+.
+In 06/05, defibrillator generator replacement and upgrade to 
+biventricular pacemaker. Followed in heart failure clinic on 
+diuretics class III HF.
+.
+Night prior to admission, patient had sudden weakness and 
+lightheadedness, shocked-> collapsed. Afterwards no 
+SOB/CP/orthopnea/PND. Morning of admission, awoken from [**Doctor Last Name 314**] by 
+ICD shock, seen in device clinic adjusted snergy to 5J(?). 
+Evening of admission had recurrent LOC and multiple shocks. 
+Patient had recurrent sudden LOC with ICD shocks ~4 times.
+.
+In ED, VT 130 bpm -> ATP failed -> 18J shock successful. He 
+currently denies any signficant symptoms, reports dyspnea with 
+three flight of stairs. He is sleeping with one pillow and 
+denies LE edema.
+ 
+Past Medical History:
+1. Defibrillator generator replacement and upgrade to biv 
+pacemaker ([**6-12**])
+2. AF/atrial tachycardia with block
+3. History of AF on coumadin
+4. Cardiomyopathy
+5. Hypothyroid
+6. Prostate cancer, treated with lupron/TURP
+7. HTN
+8. 1998: s/p cardiac arrest w/anoxic encephalopathy (resolved), 
+NSVT
+9. Elevated cholesterol
+10. MVP/MVR
+[**65**]. s/p hernia repair
+12. 2005 left ankle fx after a fall
+ 
+Social History:
+Lives w/ wife. Able to perform ADL's No T/A/D. Retired manager 
+ 
+Family History:
++ CAD 
+ 
+Physical Exam:
+VS T BP HR O2sat RA
+GEN: comfortable, cachectic male lying in bed, NAD
+HEENT: PERRL, MMM, OP clear
+Neck: supple, no LAD
+CV: RRR, [**2-13**] holosystolic murmur at apex
+Lungs: CTA b/l
+Abd: +BS, soft, NT/ND
+Ext: no edema
+
+ 
+Pertinent Results:
+U/A negative
+TropT 0.03
+Na 140 Cl 100 BUN 44 Gluc 132
+K 3.7 HCO3 27 Cr 1.8
+CK 62
+ProBNP 5510
+WBC 8.8 HGB 13.3 PLAT 242 HCT 37.3 
+N 71.7 L 15.0 M 5.0 E 7.5 Bas 0.8
+PT 18.7  PTT 28.0   INR 2.5
+
+Urine cx negative x2
+Bld cx negative x2
+Legionella urine Ag negative
+
+Imaging:
+CHEST (PORTABLE AP)  [**3059-12-13**] 8:06 PM
+IMPRESSION: Marked cardiomegaly. Similar appearance of pacemaker 
+device. No significant interval change.
+
+FOOT AP,LAT & OBL RIGHT  [**3059-12-13**] 1:23 PM
+IMPRESSION:
+1. Likely acute fracture at the base of the fifth metatarsal. 
+Would correlate with point tenderness in this region when the 
+patient is examined.
+2. Angulation and evidence of prior fracture at the distal shaft 
+of the fifth metatarsal.
+
+[**3059-12-14**] ECHO
+Conclusions:  
+The left atrium is elongated. The right atrium is markedly 
+dilated. No atrial  septal defect is seen by 2D or color 
+Doppler. Left ventricular wall  thicknesses are normal. The left 
+ventricular cavity is severely dilated. Overall left ventricular 
+systolic function is moderately depressed with aneurysmal basal 
+to mid infero-lateral and inferior walls. The antero-septum and 
+anterior walls appear to contract well (the apex is not well 
+seen) No masses or thrombi are seen in the left ventricle. The 
+right ventricular cavity is dilated. Right ventricular systolic 
+function is borderline normal. The ascending aorta is mildly 
+dilated. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. Moderate (2+) aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Severe (4+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. There is 
+borderline pulmonary artery systolic hypertension. There is no 
+pericardial effusion.  
+
+Compared with the report of the prior study (tape unavailable 
+for review) of  [**3059-6-30**], the overall LVEF has probably 
+improved and the severity of TR detected has decreased.  
+
+.
+CHEST (PA & LAT)  [**3059-12-18**] 12:15 PM
+FINDINGS: There is no significant change in the marked 
+cardiomegaly or the dual lead pacemaker with defibrillator lead. 
+There has been slight interval progression in the right-sided 
+patchy alveolar infiltrate that could represent asymmetric edema 
+or infection.
+IMPRESSION: Slight worsening in right-sided infiltrate.
+.
+[**12-20**]:
+IMPRESSION:
+Improving asymmetrical pulmonary edema, left basilar atelectasis 
+and left effusion
+ 
+Brief Hospital Course:
+75 yom h/o DCM, cardiac arrest and Ventricular tachycardia 
+presents to ED after recurrent sudden LOC with ICD shocks ~4 
+times. Course complicated by increased O2 requirements. 
+.
+## Increased Respiratory Requirements: 
+Initially admitted to the CCU for the VT/defibrillation. After 
+short stay on floor, readmitted to CCU for possible CPAP however 
+only needed non-rebreather and was transferred back to the floor 
+on nasal cannula.
+.
+Felt to be due to pneumonia - CAP vs nosocomial PNA. Covered 
+with broad spectrum antibiotics. Started on zosyn and 
+azithromycin [**12-19**]. Will finish 12 day total course of abx. 
+Changed to PO levoquin upon discharge. 
+-Continue diuresis with home dose of PO Lasix 60mg QAM. 
+-Continued coumadin for goal INR between 2.0 and 3.0.
+.
+- Patient steadily improved with respect to his O2 requirements 
+over the last 4 days of his hospitalization. He was switched 
+from a shovel mask to nasal cannula and was comfortable on 3L 
+and able to ambulate on this O2 requirement without dyspnea.
+Afebrile and blood, urine culture data negative.
+.
+CARDIAC
+## Ischemia:
+Continued on [**Last Name (LF) 5902**], [**First Name3 (LF) 24**], Coreg 3.125 BID. Switched to 
+captopril 12.5 TID for easier titration while in house and 
+resumed on home dose lisinopril 5mg PO QD prior to discharge.
+.
+## pump: 
+Continued coumadin for goal INR [**2-10**] for low EF/hx of afib. 
+Continue PO lasix upon discharge. 
+.
+## rhythm: Slow VT (130's). In ED, VT 130 bpm -> ATP failed -> 
+18J shock successful.
+Electrophysiology service was consulted and continued to follow 
+the patient throughout his hospitalization. He was loaded with 
+lidocaine in ED requiring dopamine drip initially. Dopamine drip 
+was rapidly weaned off and patient switched from lidocaine drip 
+to mexiletine 150mg PO Q8hrs. During hospital stay, no 
+recurrence of episodes of VT/syncope. Aggressive lyte repletion 
+with potassium goal of 4.5. Serial EKGs were checked and patient 
+was monitored on telemetry. Discharged on mexilitine and 
+amiodarone. 
+- INR goal [**2-10**]
+.
+## Hypothyroid: Continued synthroid.
+.
+## Prostrate cancer: s/p TURP on monthly lupron injxns
+.
+## Left ankle fracture after a fall (2005)/now R metatarsal fx: 
+tylenol for pain. Orhtopedics was consulted. No operative 
+intervention indicated. Walking boot to assist in ambulation.
+.
+## CRF: Baseline Cr: 1.6-1.8
+.
+## FEN
+- heart healthy, low Na diet
+- aggressive electrolyte repletion -> K goal of 4.5
+.
+## PPx
+- therapeutic on coumadin
+- bowel regimen 
+.
+## Code
+- patient was full code in house
+ 
+Medications on Admission:
+1. coumadin 1mg MWF, 2mg all other days
+2. [**Month/Day (3) 5902**] 10mg QD
+3. amiodarone 400mg QD
+4. levoxyl 0.88mg QD
+5. calcium 600mg QD
+6. lupron injxn monthly
+7. lasix 60mg QD
+8. KCl 20mEQ
+9. Coreg 6.24mg BID
+10. ASA 81
+11. lisiopril 5mg QD
+12. MVI
+ 
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+6. Mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+7. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+8. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+9. Warfarin 1 mg Tablet Sig: One (1) Tablet PO QMOWEFR (Monday 
+-Wednesday-Friday).  
+10. Warfarin 2 mg Tablet Sig: One (1) Tablet PO QTUTHSA 
+([**Doctor First Name **],TU,TH,SA).  
+11. Ipratropium Bromide 0.02 % Solution Sig: 1-2 puffs 
+Inhalation Q6H (every 6 hours).  
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+13. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO QAM.  
+14. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO 
+DAILY (Daily).  
+15. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-9**] Sprays Nasal 
+QID (4 times a day) as needed.  
+16. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO once a day 
+for 7 days: until [**12-30**].  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 4282**] - [**Location (un) 4283**]
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+1. Syncope [**2-9**] slow VT/ICD defibrillation
+2. Pneumonia
+3. R 5th metatarsal fx
+
+Secondary diagnosis:
+4. CHF
+5. Hypothyroidism
+6. h/o Prostate CA
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please take medications as prescribed.
+
+Please keep follow-up appointments.
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+
+Adhere to 2 gm sodium diet
+ 
+Followup Instructions:
+Provider: [**First Name4 (NamePattern1) 610**] [**Last Name (NamePattern1) 5903**], MD [**MD Number 150**]: [**Telephone/Fax (1) 5904**] Date/Time: 
+[**3059-12-30**] 4:30pm 
+
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number 150**]: [**Telephone/Fax (1) 102**] Date/Time: 
+[**3059-2-3**] 1:30pm Location: [**Hospital Ward Name **] Clinical Center 7th Floor.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 112**] MD [**MD Number 113**]
+ 
+Completed by: [**Name6 (MD) 5905**] [**Name8 (MD) 5906**] MD [**MD Number 5907**] [**3059-12-27**] @ 1728
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Last Name (NamePattern1) **]
+ on: TUE [**3060-1-3**] 2:35 PM
+(End of Report)
+
+
+",,
+5145,28342,6388,0,3059-12-14 05:41:00 EST,3059-12-14 06:18:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0200-0700","
+CCU NPN 0200-0700
+S: ""I feel okay.""
+
+O: 75 y/o male admitted to [**Hospital1 2**] ED evening [**12-13**] after pt had 2 syncopal episodes with SOB at home.  Pt had adjustments to pacer earlier in day. In ED pt SOB, pale, diaphoretic, mentating with SBP 79, HR 80's-BP decreased 54/20-> IVF (approx 3L)given, dopamine gtt started. Pt had runs of VT-> shocked by ICD x 1 to paced rhythm, EP up to interrogate pacer. Pt started on lidocaine gtt and transferred to CCU. Please see careview admit note and careview flowsheet for VS and additional data.
+
+CV: Received pt on dopamine 5 mcg/kg/min and lidocaine 1 mg/min-> dopamine gtt titrated to off at 0500 with goal SBP>80 and MAps>50 (per Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) 8259**] is pt baseline BP). Pt HR 71-77 AV paced, NBP 91-113/44-58 MAPs >60.  Pt preadmit K from ED 3.6, 40 MeQ KCL ordered, labs drawn upon arrival to CCU, 20 MEQ KCL given, K 5.0-partially hemolyzed, K redrawn and additional K held-K pending, DR.[**First Name (STitle) **] aware. Pt bilat distal pulses difficult/weak palp, no edema noted. 
+
+Resp: LS CTA, RR 15-20, O2 sats 96-98 on 3 L n.c.  Pt denies SOB.
+
+Neuro: Pt alert and oriented, pleasant and cooperative with care. Pupils 4mm equal and brisk reactive to light, equal grasp.  Pt sleeping for most of shift, MAE. Pt with some c/o HA-resolved without intervention, pt otherwise denies pain.
+
+GU/GI: Pt with foley cath draining clr yellow u/o approx 35 cc/hr since 0300, Ho aware, see flowsheet.  Am BUN 37, creat 1.6. Abd soft, nontender, + BS x 4, no stool this shift. pt NPO for possible EP procedure later today per Dr. [**First Name (STitle) **].
+
+ID: Pt afebrile, WBC this am 10.2. 
+
+
+Social: Pt wife and daughter in briefly upon pt arrival to CCU, spoke with RN adn updated on POC.
+
+Skin: Bilateral buttocks pink-cream applied, skin intact.  Pt encouraged to turn, assistance offered.
+
+A/P: 75 y/o male s/p syncopal episodes with SOB x 2, ICD fired x 1 for run VT-lidocaine and dopamine gtt's started-dopamine gtt weaned to off at 0500 pt BP tol, ? pt to EP later today. Continue to monitor pt hemodynamics, rhythm, titrate meds as tol, lytes. Cont to monitor resp status, u/o, renal status.  Continue to provide emotional support to pt and family, awaiting further POC from CCU Team. 
+
+",,
+5145,28342,6388,0,3059-12-14 15:51:00 EST,3059-12-14 16:04:00 EST,1665,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""I usually do not [**Doctor Last Name 65**] well in the hospital""
+O-Neuro alert and oriented x3, very pleasant and cooperative. Taking naps through out the day. No c/o pain or SOB.
+CV-VSS SBP 82-100 remains off dopamine gtt. Lidocaine infusion at 1mg/min without further VT. HR 75 AV paced. INR remains elevated 2.7 Vitamin K 5mg given po. Plan for EPS when INR WNL.
+Resp-LS clear on RA with O2 sats 100%.
+ID afebrile
+GU-foley draining 50-100cc/hr
+GI-appetite good without nausea.
+Skin-intact.
+Code status-Full
+Access-2 PIV.
+A/P-ICD/pacer stable without further espisode of VT on lidocaine gtt.
+Follow HR/rhythm for futher episodes of VT/defib 
+Continue to keep pt and family aware of POC and procedures as discussed in multi disciplanary rounds
+",,
+5145,28342,6388,0,3059-12-14 19:47:00 EST,3059-12-14 20:02:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN: 1500-1900
+
+S: ""I don't think I want to go thru with that ablation tomorrow.""
+
+O: See CareVue flowsheet for complete assessment details
+
+CV: HR 70s, AV-paced, no ectopy noted.  SBP stable 90s-110s, MAP >60.  Initially on Lidocaine at 1mg/min - decreased to 0.5mg/min per EP service - plan to discontinue Lidocaine infusion this evening and initiate Mexilitine PO this PM.  Coags/lytes obtained at 1745 - INR elevated to 3.2 from 2.7.    
+
+RESP: Lungs CTA bilaterally.  Denies SOB, DOE.  O2 sat > 95% on RA.
+
+GI/GU: Abd. soft, non-tender, non-distended.  BS active x4 quadrants.  Tolerating PO intake w/o difficulty.  Foley discontinued d/t persistant leakage at catheter insertion site - when removed, noted to have small blood clot at urinary meatus.  Voiding appropriately thereafter w/ urinal. 
+
+ORTHO: Found to have fracture of 5th metatarsal of right foot per x-ray obtained prior to admission [**12-13**] - seen by ortho.  Awaiting splint placement by ortho team.  Right foot slightly swollen and discolored - pt. reports tenderness only w/ manipulation of foot - declined pain medications.  
+
+NEURO: Alert and oriented x3.  Pleasant and cooperative.  No signs of confusion while on Lidocaine infusion.  MAE, +CSM.  Follows commands appropriately - no deficits noted.  
+
+A/P: S/P syncopal episode (during which right foot fracture sustained) - [**Hospital1 **]-V pacemaker/ICD interrogated as an outpatient at device clinic - after visit, pt. w/ further syncope and SOB requiring [**Hospital1 2**] admission. Found to be hypotensive w/ further runs of NSVT (internal defibrillation w/ ICD) - on Dopamine and Lidocaine infusions.  Dopamine weaned to off as BP remains stable - Lidocaine decreased to 0.5mg/min w/ plan to discontinue infusion at 12/8 at 2400 and start Mexilitine PO at 2200 [**12-14**].  INR remains elevated - although at present time, pt. refusing VT ablation as he favors medical management.  Continue to monitor mental status while on Lidocaine.  Awaiting further plans from EP service.  Awaiting splint placement per ortho team.  Emotional support and teaching to pt.   
+
+
+",,
+5145,28342,6388,0,3059-12-15 04:58:00 EST,3059-12-15 05:20:00 EST,1865,"N",1,"Nursing/Other","1900-0700","
+1900-0700
+75 YR. OLD MAN WITH SYNCOPAL EPISODES RELATED TO CHANGES MADE TO PACER [**12-13**]. [**12-14**] ADMITTED TO [**Hospital1 2**] ED WITH SOB, DIAPHORETIC, PALE WITH SBP 79->50'S. TX WITH IVF & DOPA. RUNS VT->SHOCKED BY AICD->PACED RHYTHMN.
+LIDO BOLUS->GTT 1MG/MIN. PACER INTERROGATED BY EP IN ED->TRANSFERRED TO CCU. DOPA WEANED OFF(BASELINE SBP 80-90). SEEN BY CARDIOLOGIST. DISCUSSED VT ABLATION VS MEDICAL MANAGEMENT WITH MEXILITINE. PRESENTLY, BOTH PT & MD LEANING TOWARD MEDICAL MANAGEMENT, AS PT HAS HAD VT ABLATION IN PAST WITHOUT SUCCESS. 
+
+NEURO: A&O X3. PLEASANT & COOPERATIVE.
+
+RESP: O2 SATS 94-100% ON RM. AIR. BS CLEAR. RR 17-22.
+
+CARDIAC: HR 72-76 AVP, NO ECTOPY. BP 82-99/45-59. DENIES CP/SOB. +BPPP. FIRST DOSE OF MEXILITINE GIVEN AT 2200 AS ORDERED. LIDO GTT OFF AT 2400. NO ECTOPY NOTED. K 4.1->KCL 40MEQ PO X1. MG 2.1, PT 21.1, PTT 31.8, INR 3.2(2.7) DESPITE HAVING RECEVED VIT. K ON DAY SHIFT. REPEAT DOSE VIT. K 5MG PO X1 GIVEN.
+
+GI: ABD. SOFT. BS+. NO STOOL.
+
+GU: VOIDING WITHOUT DIFFICULTY AFTER FOLEY REMOVED. URINE TEA COLOR.
+
+ID: T(MAX)99.4(PO).
+
+ORTHO: FX R. 5th METATARSAL DURING SYNCOPAL EPISODE AT HOME. SEEN BY ORTHO, & AWAITING SPLINT FOR R. FOOT.
+
+AM LABS PENDING.
+
+PLAN: MEXILITINE 150MG PO Q8HRS. MONITOR ECTOPY. IF VT RETURNS, WILL ATTEMPT VT ABLATION.
+MONITOR INR--WILL NEED TO BE < 2.0 PRIOR TO ABLATION.    
+",,
+5145,28342,,,3059-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-16**] 8:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8568**]
+     Reason: ? pulm congestion                                           
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with slow VT, A-V paced and hypotension now with increase O2 
+      requirement.                                               
+     REASON FOR THIS EXAMINATION:
+      ? pulm congestion                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:52 A.M. ON [**12-16**]
+     
+     HISTORY:  Hypotension and increasing oxygen requirement.
+     
+     IMPRESSION:  AP chest compared to [**7-1**] and [**3060-1-2**]:
+     
+     The continuity of the left ventricular lead cannot be assessed because of
+     cardiac motion.  The tip is unchanged in its position.  Also unchanged are the
+     courses of the intended right atrial transvenous pacer and right ventricular
+     transvenous pacer defibrillator lead whose proximal electrode extends from the
+     superior vena cava into the right atrium.  Mild interstitial and alveolar
+     abnormality in the right lung could represent asymmetric edema, early
+     pneumonia, or under the appropriate clinical circumstances, hemorrhage.
+     
+     There is no pneumothorax or appreciable pleural effusion.  Very large cardiac
+     silhouette is unchanged in size since [**Female First Name (un) 979**].
+     
+     Dr. [**First Name4 (NamePattern1) 8569**] [**Last Name (NamePattern1) **] and I discussed these findings at the time of dictation.
+
+",,
+5145,28342,,,3059-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-18**] 12:15 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8570**]
+     Reason: ASsess for interval changes                                 
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man with slow VT, A-V paced and hypotension now with increase O2 
+      requirements.                                               
+     REASON FOR THIS EXAMINATION:
+      ASsess for interval changes                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     HISTORY:  Increased oxygenation requirements.
+     
+     REFERENCE EXAM:  [**12-16**].
+     
+     FINDINGS:  There is no significant change in the marked cardiomegaly or the
+     dual lead pacemaker with defibrillator lead.  There has been slight interval
+     progression in the right-sided patchy alveolar infiltrate that could represent
+     asymmetric edema or infection.
+     
+     IMPRESSION:  Slight worsening in right-sided infiltrate.
+                                                                           
+
+",,
+5145,28342,,,3059-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-19**] 5:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8571**]
+     Reason: ? interval change                                           
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man with slow VT, A-V paced and hypotension now with increase O2 
+        requirement.                                               
+     REASON FOR THIS EXAMINATION:
+      ? interval change                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old male with slow ventricular tachycardia presenting
+     with hypertension with increased O2 requirements.
+     
+     COMPARISONS:  Comparison is made to [**3059-12-18**].
+     
+     TECHNIQUE:  Upright single view of the chest.
+     
+     FINDINGS:  There is again noted a left chest wall pacemaker with leads in
+     stable position.  Apparent increase in left base opacity which most likely
+     represents increased pleural effusion with associated lung opacity.  The
+     associated lung opacity could represent atelectasis versus consolidation.
+     Again noted is relatively increase in density of the right hemithorax which
+     could represent asymmetric pulmonary edema versus infection. The cardiac
+     silhouette remains enlarged but is stable in the interval.  The osseous
+     skeletal structures are stable.  There is no evidence of pneumothorax.
+     
+     IMPRESSION:
+     1.  Stable cardiomegaly.
+     2.  Increased opacity in the right hemithorax compared to the left hemithorax
+     could represent asymmetric pulmonary edema. It is stable when compared to the
+     prior study.
+     3.  Stable cardiomegaly.
+     4.  Increased left lower lung zone opacity most likely represents interval
+     increase in left pleural effusion with associated atelectasis or
+     consolidation.
+
+",,
+5145,28342,6389,,3059-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-20**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8572**]
+     Reason: interval change                                             
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man with slow VT, A-V paced and hypotension now with increase O2  
+      requirement.                                               
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension and hypoxia.
+     
+     FINDINGS:  Comparison made to chest radiographs of [**3056-6-20**] and [**3059-12-19**].
+     
+     Enlargement of the cardiac silhouette is unchanged.  A biventricular
+     pacemaking device in the left chest with the electrodes in stable position.
+     Mediastinal contours are unchanged.  Asymmetric pulmonary edema (right greater
+     than left) has improved compared to [**3059-12-18**] and [**3059-12-19**].  Opacity within
+     the left lung base representing atelectasis and effusion has also improved.
+     
+     New areas of consolidation, pulmonary nodules, or pneumothorax is seen.  No
+     osseous abnormalities identified.
+     
+     IMPRESSION:
+     
+     Improving asymmetrical pulmonary edema, left basilar atelectasis and left
+     effusion. 
+     
+
+",,
+5145,28342,6389,0,3059-12-20 05:48:00 EST,3059-12-20 06:09:00 EST,1836,"N",1,"Nursing/Other","ccu nsg admit note.","
+ccu nsg admit note.
+75 yo male transfered from [**Hospital Ward Name **] 6 to ccu w respiratory distress/hypo- tension on [**12-19**]. initially admitted to ccu [**12-14**] w syncope/ hypo- tension. syncope related to vt-rxed w icd/lidocaine. hypotension-rxed w dopa. icd reprogramed & lido weaned/dced & replaced w mexilitine-wo further vt. dopa weaned/dced-baseline sbp low 90's. transfered to [**Hospital Ward Name **] 6 [**12-15**].
+
+pmh:extensive. cadiomyopathy.
+               cardiac arrest 98'-icd placed.
+               hx af/atrial tachycardia on coumadin.
+               htn. 
+               mvp/mr.
+               
+
+allergies:nkda.
+
+socially:married. lives w wife.
+
+present events:[**12-19**] borderline hypotension (variable throughout day), decreased sats w borderline abg-55/34/7.48/26/2, increased rr. ?related to ongoing pneumonia or failure. diuresed w 40 iv lasix @ 2030. transfered to ccu for ?mask ventilation.
+
+o:neuro=responsive/appropriate/cooperative.
+  resp=initially on high flow o2-chged to 100% nrb w improvement in abg-75/29/7.48/22/0 & sats mid 90's. breath sounds=deminished throughoput wo audible crackles. mask vent held.
+  cv=sbp w maps low 90's. hr 70's av paced. heparin 850u w ptt 127-decreased to 700u @ 0600.  
+  gi=cl liq w meds. otherwise npo.  
+  gu=foley. gd response to iv lasix.
+  id=low grade t. abx as ordered.
+  labs=am sent.
+
+a:improving on 100% nrb. ?low 90's sbp-pt baseline.
+
+p:contin present management. support as indicated.              
+",,
+5145,28342,6389,0,3059-12-20 16:24:00 EST,3059-12-20 17:00:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S: ""DO I HAVE TO PAY FOR TUESDAY NIGHT AND WENDSDAY NIGHT AT THIS HOTEL""
+
+O:7
+
+NEURO: PT IN AND OUT OF CONFUSION TODAY. PT ALERT AND ORIENTED X 3 MOST OF THE TIME . PT WILL THEN THINK HE AND HIS WIFE AND FAMILY ARE ON VACATION AND THAT THEY ARE STAYING AT A HOTEL. PT THOUGHT HE HAD TO GO PICK UP HIS FATHER. (PTS FATHER IS DECEASED)PT IS AWARE THAT HE IS GETTING CONFUSED. PT HAS NOT SLEPT ALL DAY. PT DID TRY TO [**Doctor Last Name **] BUT WAS HAVING A HARD TIME. MD AWARE OF THE CONFUSION.
+
+CV: HR 70'S. SBP 70-90'S. HEPARIN OFF @ 1230 INR>2.1 PT K WAS REPLACED X 2. MG REPLACED.
+
+RESP: PT REMAINS ON 15L NONREBREATHER MASK. PT DESAT'S QUICKLY IF MASK IS REMOVED. PT WILL DESAT INTO 70'S. LS CLEAR THROUGHOUT DAY SLIGHT CRACKLES NOTED AT BASES 1600 ASSESSMENT. PT DENIES SOB PT CANNOT PRODUCE SPUTUM SPEC. NO COUGH.
+
+GI: PT CHANGED TO CARDIAC DIET THIS A.M. PTS APPETITE IS GOOD ATE 80% OF MEALS. PT ATTEMPTED BM ON BEDPAN ONLY SMALL AMNT OF LOOSE STOOL.
+
+GU: PT CONT OT PRODUCE URIN 30CC/HR. PTS FOLEY APPEARS TO BE LEAKING A SMALL AMNT. 
+
+ID: TMAX 98.1. PT CONT. ON PIPERACILLIAN AND WAS STARTED ON AZITHROMYCIN.
+
+SKIN: SMALL [**Last Name (un) **] ON COCCYX.PT POSITIONED FREQUENTLY.
+
+A: PT O2 SATS MAINTAINED WELL ON 100%NRB. PTS BASELINE BP LOW 80'S 90'S.
+
+P:CONT TO MONITOR PTS O2 SATS WITH NRB. PT WILL DESAT QUICKLY IF HE REMOVES MASK. CONT. TO SUPPORT GOOD NUTRITION INTAKE. CONT TO BE SUPPORTIVE WITH PTS FAMILY. CONT TO ORIENT PT TO PRESENT SITUATION WHEN HE GETS CONFUSED. CONT TO ENCOURAGE LAYING ON HIS SIDE TO PREVENT FURTHER BREAKDOWN OF REDDEDENED AREA ON COCCYX AND ALSO CONT.TO ENCOURAGE USING INSENTIVE SPIROMETER. 
+",,
+5145,28342,6389,,3059-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3059-12-21**] 8:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8573**]
+     Reason: Assess for interval changes                                 
+     Admitting Diagnosis: SYNCOPE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man with slow VT, A-V paced and hypotension now with increase 
+      O2    requirement.                                               
+     REASON FOR THIS EXAMINATION:
+      Assess for interval changes                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old man with decreased oxygen saturation.
+     
+     COMPARISON:  [**3059-12-20**].
+     
+     UPRIGHT CHEST RADIOGRAPH:  There is stable enlargement of the cardiac
+     silhouette.  A pacing device is seen in the left chest with electrodes in
+     stable position.  Mediastinal contours are unchanged.  Symmetric pulmonary
+     edema has increased compared to the prior examination.  An opacity within the
+     left base representing atelectasis and effusion is stabe.
+     
+     IMPRESSION:
+     
+     1.  Increasing asymmetric pulmonary edema.
+     
+     2.  Left basilar atelectasis and left pleural effusion.
+
+",,
+5145,28342,6389,0,3059-12-21 06:26:00 EST,3059-12-21 07:04:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S/O: ""Can [**Doctor First Name **] call the police"". See careview for all objective data.
+Neuro- A+Ox1, pt became very anxious/confused after wife & son left. Making threats to ""press charges"". Several attempts to get oob unassisted, reminded to stay in bed several times before placing posey belt for safety. HO made aware. 
+CV- Tele AV-paced rare PVCs, HR 70-80s. Remains hypotensive NBPs 86-90s/48-50s. Heparin gtt restarted @ 700U/hr, INR 1.9, PTT 44.7
+Resp- Conts on 15L NRB, sats 93-99%. Desats <85% off mask, needed frequent encouraging to keep mask on. No ABG drawn this shift.
+GI/GU- Abd firm +bs, sat on bedpan x2 only sm bm, ob-. Foley intact voiding qs amber urine. Conts to have sm leak, cath flushed, balloon checked. Cath not to be pulled per HO. 
+A/P: 75yo male admitted with syncopy, desats into 70s. Cont plan of care, attempt to wean NRB as tol, remove posey belt adlib.
+",,
+5145,28342,6389,0,3059-12-21 16:34:00 EST,3059-12-21 16:58:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S: PT DENIES CHEST PAIN, SOB. ""I'M FEELING BETTER TODAY.""
+
+O:CV: HR 70'S, AVPACED. BASELINE BP 70'S-90'S.
+
+RESP: PT INITIALLY ON 100% NRB WITH O2 SAYS DROPPED QUICKLY WHEN MASK REMOVED. TODAY PT WAS CHANGED TO 6L VIA NC WHILE SITTING IN CHAIR WITH GOOD O2 SAT'S IN THE 90'S.PT WENT BACK TO BED AND DESATED PT WAS PUT ON 10L FM WITH GOOD RESULTS PT SATS ARE BETTER WHEN HEAD OF BED IS ELEVATED.PT SHOWED NO S/S WHEN SATS DROP. LS CLEAR 
+
+NEURO: PT WAS CONFUSED AND AGITATED OVERNIGHT.THIS A.M PT WAS CONFUSE NOT AGITATED AND PT MS CLEARED AS DAY WENT ON. PT IS A AND O X 3 BUT WILL FORGET HE IS IN THE HOSPITAL.
+
+GI: PT HAS NOT HAD SIGNIFICANT BM IN PAST FEW DAYS PT WAS STARTED ON SENNA AND DOCUSATE SODIUM PT HAD ONE SMALL BM THIS AFTERNOON. PT APPETITE CONT. TO BE GREAT.
+
+GU: PT CONT. TO PRODUCE AN ADEQUATE AMNT. OF URIN. COLOR IS AMBER. 
+
+ID: PT CONTINUES ON PIPERCILLIAN AND AZITHROMYCIN. TMAX 98.1 AX.
+
+SKIN: PT DOES HAVE SMALL RASH ON COCCYX. LOTION APPLIED AND FREQUENT POSITION CHANGES THROUGHOUT DAY.
+
+A: PT CONT. TO HAVE RESP ISSUES. UNABLE TO MAINTAIN O2 SATS > 90 WHILE LAYING DOWN OR WITH SLIGHT HEAD OF BED ELEVATION WITH NC. PT NEED FM 10L WHILE SLEEPING FOR ADEQUATE O2 SAT SUPPORT. 
+
+P:75YO MALE WITH H/O DCM, CARDIAC ARREST, VT PRESENTED TO ED 0N [**3059-12-14**] AFTER RECURRENT SUDDEN LOC WITH ICD SHOCKS X 4. ADMITTED TO CCU C SYNCOPE/HYPOTENSION. PT WAS TX WITH LIDOCAINE AND DOPA GTT. DC'D LIDO AND DOPA STARTED ON MEXILETINE PO.ICD REPROGRAMED. PT WAS THEN TRANSFERRED TO F6 ON [**3059-12-15**]. PT WAS THEN TRANSFERRED BACK TO CCU ON [**12-19**] FOR HYPOTENSION AND POSSIBLE CPAP INITIATION. PT WAS NOT STARTED ON CPAP MAINTAINED WITH NRB 100%. CONT. TO PROMOTE SLEEPING PT ONLY HAD 3HRS [**Doctor Last Name **] LAST NIGHT AND DID NOT [**Doctor Last Name **] TODAY ONLY FOR A BREIF TIME IN AFTERNOON. PT IS AWOKEN EASY. PT IS NOT ORDERED FOR ANY SEDATION OR SLEEPING AIDS.CONT. TO MONITOR RESP O2 SATS AND CONT TO WEAN TO NC AS TOLERATED. CONT TO MONITOR COCCYX PREVENT MORE PRESSURE TO AREA WITH FREQUENT POSITION CHANGES. CONT TO ENCOURAGE PT TO USE IS. CONT TO PROMOTE GOOD NUTRITION INTAKE. CONT TO MONITOR PT FOR BM
+",,
+5145,15444,,,3060-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3060-1-8**] 3:40 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8574**]
+     Reason: please eval for CHF/PNA                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           75 year old man with hypotension and recent V tach.                        
+     REASON FOR THIS EXAMINATION:
+      please eval for CHF/PNA                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old male with hypertension and recent V-TACH.  Evaluate
+     for CHF or pneumonia.
+     
+     COMPARISONS:  Comparison is made to [**3059-12-21**].
+     
+     TECHNIQUE:  AP semi-upright single view of the chest.
+     
+     FINDINGS:  There is a left chest wall AICD biventricular pacer with leads in
+     unchanged position.  There is again noted cardiomegaly.  The heart size is
+     stable when compared to prior study.  There is interval increase in opacity
+     involving the entire right lung.  There are also more patchy opacities
+     involving the left mid and lower lung zones. There appears to be a left
+     pleural effusion. These findings could represent asymmetric pulmonary edema
+     Vs. an infectious process involving the right lung.
+     
+     IMPRESSION:
+     1.  Findings are most consistent with asymmetric pulmonary edema. However,
+     superimposed infection cannot be excluded.
+     2.  Left pleural effusion.
+     3.  Stable cardiomegaly.
+
+",,
+5145,15444,,,3060-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3060-1-8**] 5:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8575**]
+     Reason: Please eval for RLL/CHF.                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man with satting 94% on NRB.                                     
+     REASON FOR THIS EXAMINATION:
+      Please eval for RLL/CHF.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old male with decreased O2 saturation.
+     
+     COMPARISONS:  Comparison is made to radiograph performed in the same day, two
+     hours earlier.
+     
+     FINDINGS:  There is no significant change in the opacity involving the entire
+     right lung, which could represent asymmetric pulmonary edema or infection.
+     There is also more patchy opacities in the left mid and lower lung zones that
+     could represent atelectasis or pneumonia.  There are bilateral pleural
+     effusions.
+     
+     IMPRESSION:
+     1.  Diffuse increase in density in the right lung, which could represent
+     asymmetric pulmonary. However, superimposed pneumonia cannot be excluded.
+     2. Patchy opacities in the left mid lung zone and lower lung zone could be
+     secondary to asymetric pulmonary edema or could represent atelectasis or
+     pneumonia.
+     3.  Bilateral pleural effusions.
+     
+     
+     
+
+",,
+5145,15444,6390,0,3060-01-09 06:15:00 EST,3060-01-09 06:30:00 EST,428,"N",69,"Nursing/Other",,"
+
+MICU NURSING ADMIT NOTE:
+     Pt is a 75 yr old male admit via EW from Rehab where he has been x 2 weeks recovering from a VT arrest/PNA. He was found unresponsive, agonal breathing yesterday, responded to NRB, and was transported to [**Hospital1 2**] for further care. IN EW CXR shows LLL PNA and ? CHF. Pt received Ceftriaxone/Zithro/Lasix in EW. PLease see FHPA for full details of admit. Pt arrived to MICU tachypneic, + dyspnea on exertion, sats 100% on 100% NRB. Pt weaned to 50% venti mask. 
+REview of Systems:
+     Nuero: pt A+O x 3. able to MAE, requires assistance for turns. 
+     RESP: pt placed on droplet precautions d/t r/o influenza. O2 as noted. LS with crackles L base, otherwise CTA. urine sent for legionella antigen. No sputum production. occasional dry cough. RR 26-38. + dyspnea on exertion.
+     CV: HR V-paced at 70. Pt with one episode of HR up to 90's, appeared to not be sensing pacer.. team saw tele strip.. no further orders at this time. Plan is for EP to evaluate pt. K+ 3.0 this am. pt received 40meq po kcl. needs 20meq more. MEd with 2 amps mgso4 for mg of 1.8.
+     gI: ab softly distended, no bm x 3 days. med with dulcolax supp o/n. small amts hard pellets out x 3.. may need enema today. Pt with orders for thickened fluids.. ? if pt aspirates thin liquids. may need swallow study. meds given in apple sauce, as pt refusing thickened milk (will need to order thicken up packets/thickened h20 from kitchen this am). 
+     Integ: stage 2 decube on coccyx, not new. Please order Kinair bed today for pt. Double guard applied. pt refusing duoderm. Turn and reposition q 2 hrs. 
+      ID: abx as noted. afebrile. 
+      Social: wife and daughter in and updated. pt's wife is HCP, number in chart. 
+      A/p: pt readmitted within 2 wks of d/c with PNA. Cont abx, ? swallow study. wean O2 as able. TEAm plans to further diurese when bp allows. Complete lyte repletion. Kinair bed. 
+",,
+5145,15444,6390,0,3060-01-09 16:00:00 EST,3060-01-09 16:08:00 EST,107,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+d: pt is a&o x3. neurologically intact.
+
+resp: pt on 50% venti mask with o2 sats > 96& but does desat to high 80's quickly when he removes his o2 to eat or drink. coarse bs bil on auscultation wiht crackles at the bases.pt has r/o for influenza and is now off droplet precautions. will need to follow resp status closely. 
+
+cv: remains wiht monitor pattern fo vpaced but sbp has been as low as 68 though with this bp pt was alert and without complaints. electrolytes were repleted this am and repeat lytes are pending and will replete as needed. according to dr. [**Last Name (STitle) 8260**] on reviewing his old charts pt's usual bp is 80's. pt has received a total of 3 boluses of 250cc ns for low bp and low uo. sbp now > 80. will follow hemodynamics closely.
+
+gi: pt tolerating heart healthy diet and will keep hob elevated to prevent aspiration.
+",,
+5145,15444,6390,0,3060-01-09 16:10:00 EST,3060-01-09 16:21:00 EST,107,"N",69,"Nursing/Other",,"
+
+continuation of the above note: pt appears sob but denies sob.
+
+pt initally on thickened liqs but that has since been d/c'd and will supplement diet with chocolate shakes. hct 34.4 pt reportedly constipated and was medicated with lactulose 30 ml x1 with little effect.pt given fllets enema with good results ands will continue with daily bowel regime.
+
+gu: foley cath with less than 30cc's/hr uo so pt was given 3 boluses of ns with good effect and will continue to monitor pt's fluid status and resp status. pt with severe cardiac hx and poor ef so will need to monitor his fluid very closely. bun=28 and creat=1.1. 
+
+id: pt afebrile and wbc=13.1. pt with lll pneumonia and will receive ceftriaxone and azythromycin as ordered.
+
+integumentary: pt with stage 2 pressure area to coccyx and applying double guard cream as needed. pt placed on kinair bed and turned form side to side frequently
+
+social: pt is a full code. both his wife and daughter were in to visit with pt and have been updated regarding plan of  care by  the medical staff.
+
+
+",,
+5145,15444,6390,0,3060-01-10 04:32:00 EST,3060-01-10 04:50:00 EST,1303,"N",69,"Nursing/Other","NPN   1900-0700","
+NPN   1900-0700
+Neuro:  A&O x3.  mae, helping to move self in bed.  Communicates needs well.  No c/o pain.
+
+Resp:  Cont on ventimask at 50%, RR 24-32, uses accessory muscles to breath, but no c/o of dyspnea.  LS clear in upper fields, diminished at bases.  Abx cont for LLL pna.  Sats 91-98.  Team wanted to diuresis since pt given NS boluses yest for low u/o and low bp.  When sbp up to 99 and sats down to 91, lasix 20mg given, diuresed ~500mls.  difficult CHF c EF 20%.
+
+CV:  SBP always low, baseline at clinic is 80s.  84/41 - 99/45.  HR 70, v paced, no ectopy.  K 3.7 yest pnoon, repleted c 40meq kcl.  Am labs sent, pending.
+
+GI:  Abd soft,distended, +BS.  Tol diet well, taking flds well without coughing.  stools x3, 2 small, 1 med, formed, light brown.   Had fleets enema yest.  Held Senna last noc.
+
+GU:  Without lasix, u/o 15-25mls/hr.  Diuresed ~500mls with 20mg lasix, clear, yellow urine.
+
+Pt was up 1.9L yesterday due to extra boluses, negative 587mls thus far today.
+
+Skin:  Coccyx has two stage 2, covering with double guard cr each time after washing.  
+
+Social:  no calls o/n.
+
+Plan:  f/u on am labs.  Monitor resp status, sats, rr, LS.  Monitor BP, fld satus, u/o.  
+",,
+5145,15444,6390,0,3060-01-10 18:26:00 EST,3060-01-10 18:41:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #3","
+MICU/SICU NPN HD #3
+No events today
+
+S: ""My breathing feels fine.""
+
+O:
+
+Neuro: pt is A&OX2-3, MAEW, denies pain, transfers bed to commode with two mod assist
+
+Pulm: LS are diminished all fields, pt rapidly desaturates with any activity and recovers over 5-10 minutes, SpO2 91-97% on 35% Venturi Mask
+
+CV: HR V-paced at 70, BP 84-112/37-91, please see flosheet for data
+
+Integ: coccyx reddened
+
+GI/GU: abd soft, NT, ND, BS present, tolerating cardiac diet, Foley patent for clear yellow urine in adequate amts
+
+Access: PIV x2
+
+A:
+
+altered breathing r/t acute on chronic inflammatory process
+activity intolerence r/t altered breathing
+
+P:
+
+continue to monitor hemodynamic/respiratory status, contninue abx and follow micro data, aggressive pulmonary toilet, transfer to medical bed when available
+",,
+5145,15444,6390,0,3060-01-11 05:41:00 EST,3060-01-11 06:04:00 EST,1303,"N",69,"Nursing/Other","NPN  1900-0700","
+NPN  1900-0700
+Neuro:  Pt is A&O x3.  mae.  No c/o pain.  
+
+CV:  HR 70, V-paced, no deviation.  SBP mostly 80s to low 90s.  One BP drop 79/37 transiently, pt mentating well.  Hct stable at 32.  WBC 11.o down from 13.2.  K 4.6, up from 3.8 with repletion of 40meq kcl po during noc.  Phos remains low at 2.4, will report to team.  Afebrile, abx cont.
+
+Resp:  LS clear in upper fields, diminished at bases.  Received pt on 35% venturi mask, sats . 90 until 3am, pt desating to 88.  At 4:30, pt desated to 87-88 x3, brought up to 50%.  Observed pt breathing while sleeping - RR fluctuates from 18 -35 then back down, cycles over and over with minimal volume then great volume.  Pattern very irregular with use of accessory muscles.  Observed desated only x1 to 88 on 50%.
+
+Gi:  +BS, soft, nt.  Taking liquids without problems.  No stool this shift!  Held stool meds.  
+
+GU:  U/o 15-30mls/hr, clear yellow urine.  Pt had negative fld balance yest of 1.7L.
+
+Skin:  Coccyx c stage 2.  Washed and barrier cr applied.
+
+Social:  Wife and son visited on eves.  
+
+Plan:  Monitor BP, RR, sats, LS, fld balance.  ? if team will call out today.  F/u on low phos.
+",,
+5145,,,,3060-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3060-2-9**] 3:48 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8576**]
+     Reason: r/o obstruction                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Rule out obstruction.
+     
+     ABDOMEN, TWO VIEWS.
+     
+     No previous abdominal films are on PACS record for comparison.
+     
+     There is considerable stool throughout the colon.  No air filled loops of
+     dilated bowel are identified to suggest obstruction.  Gas is seen through to
+     the level of the rectum.  No free air is identified.  There are scattered
+     vascular calcifications including calcification related to the splenic artery.
+     Small calcifications over the right lower quadrant may represent calcified
+     lymph nodes.  Focal sclerotic density in the left supra-acetabular ilium is
+     noted - - in the absence of known malignancy, this likely represents a bone
+     island.
+     
+     IMPRESSION:  Considerable stool.  No findings to suggest obstruction. Blunting
+     of the left costophrenic angle and atelectasis/scarring at the right lung
+     base noted.
+
+",,
+5145,,,,3060-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3060-2-9**] 6:02 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8577**]
+     Reason: Please eval for infiltrate vs. failure.                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man chf, presents with n/v.                                     
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrate vs. failure.                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF, nausea, vomiting.
+     
+     CHEST, TWO VIEWS.
+     
+     Left-sided pacemaker is present.  There are three leads, one over the right
+     atrium and one over the right ventricle.  The third lead overlies the
+     anterolateral wall of the left ventricle.  There is blunting of the left
+     costophrenic angle consistent with a small pleural effusion or small amount of
+     pleural thickening and atelectasis at both bases and in th elingula.  There is
+     no CHF, frank consolidation, or effusion. No right-sided effusion is
+     identified.  The lungs are hyperinflated, consistent with COPD.
+     
+     Am elongated nodular 13-mm density overlies the lower thoracic spine on the
+     lateral view and is associated with atelectasis/scarring.
+     
+     IMPRESSION:
+     
+     1) Blunting of the left costophrenic angle, which may be chronic. Bibasilar
+     atelectasis.  No acute pulmonary process identified.
+     
+     2) Nodular density overlying lower thoracic spine similar to the finding on
+     [**3059-12-18**], but more pr ominent on today's exam.  Chest Ct is recommended to
+     exclude an underlying malignancy.
+     
+
+",,

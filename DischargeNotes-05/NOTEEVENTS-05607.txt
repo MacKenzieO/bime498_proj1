@@ -1,0 +1,181 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5607,3175,,,3199-07-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3199-7-18**]     Discharge Date:  [**3199-7-23**]
+
+Date of Birth:   [**3117-2-10**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 82-year-old
+male with multiple medical problems including coronary artery
+disease (status post percutaneous coronary intervention),
+chronic obstructive pulmonary disease, colon cancer, and
+prostate cancer who presented to [**Hospital 4830**] Hospital on
+[**3199-7-18**] with nausea and vomiting times three days and
+was transferred to [**Hospital1 75**] for
+further evaluation.
+
+His abdomen was found to be distended.  A KUB showed dilated
+loops of bowel.  The patient also had a witnessed aspiration
+of feculent with subsequent desaturations to 87%.  He was
+intubated for airway protection.
+
+Once the patient was stabilized, he had an abdominal computed
+tomography which showed herniation of bowel which was not
+incarcerated.  Surgery was consulted and recommended the
+patient go to the operating room for surgical correction;
+however, the patient's family declined as they did not want
+aggressive measures.
+
+The patient was transferred to the Intensive Care Unit where
+he remained intubated.  However, after discussions with the
+family and health care proximally, the patient was made do
+not resuscitate with focus on comfort care.  During a family
+discussion on [**7-19**], the patient was made comfort measures
+only and was subsequently extubated and started on a morphine
+drip.  However, the decision was made to continue antibiotics
+for the time being.  After extubation, the patient's oxygen
+saturations were approximately 87% to 88%.  Therefore, he was
+placed on supplemental oxygen as to prevent mild hypoxia from
+causing his discomfort.  His nasogastric tube also remained
+in to provide gastric decompensation and also as a comfort
+measure.
+
+PHYSICAL EXAMINATION ON TRANSFER:  Physical examination on
+transfer to the floor (on [**7-20**]) revealed temperature was
+97.8, heart rate was 88, blood pressure was 103 to 140/33 to
+47, breathing at 26 (range 17 to 26), and oxygen saturation
+was 98% on nonrebreather.  Subsequently, the patient was
+intubated, kyphotic, and eyes were closed.  He was not
+arousable.  Cardiovascular examination revealed he had a
+regular rate and rhythm.  Heart sounds were difficult to
+appreciate secondary to high oxygen flow.  His lungs revealed
+coarse upper airway breath sounds anteriorly.  The abdominal
+examination revealed he had no bowel sounds.  The abdomen was
+mildly distended and soft with two midline hernias, which
+were reducible.  His extremities revealed he had 1+ radial
+and dorsalis pedis pulses bilaterally.  His extremities were
+cool.  He did not clubbing, cyanosis, or edema.
+
+MEDICATIONS ON ADMISSION:
+1.  Morphine drip.
+2.  Levofloxacin 500 mg intravenously q.24h.
+3.  Metronidazole 500 mg intravenously q.8h.
+
+HOSPITAL COURSE:  After being transferred to the floor, the
+patient was continued on antibiotics for approximately two
+days.  He remained comfortable and on the morphine drip, and
+a scopolamine patch was added to reduce airway secretions.
+He also received frequent respiratory therapy and suctioning
+to decrease airway secretions.  However, the patient's
+respiratory and clinical status did not improve on
+antibiotics.
+
+Per a family discussion on the [**7-22**], it was agreed that
+the antibiotics would be discontinued.  The patient passed
+away at approximately 5:30 a.m. on [**7-23**].  The night float
+intern pronounced the patient and notified both the attending
+physician and the patient's family.  An autopsy was declined.
+
+
+
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 555**], M.D.  [**MD Number 556**]
+
+Dictated By:[**Last Name (NamePattern1) 6810**]
+
+MEDQUIST36
+
+D:  [**3199-7-23**]  14:25
+T:  [**3199-8-3**]  15:15
+JOB#:  [**Job Number 6811**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**3199-8-20**] 7:03 PM
+(End of Report)
+
+
+",,
+5607,3175,6966,0,3199-07-19 03:10:00 EST,3199-07-19 03:28:00 EST,2519,"N",69,"Nursing/Other","PROGRESS AND NURSING ADMISSION NOTE 2030-0700","
+PROGRESS AND NURSING ADMISSION NOTE 2030-0700
+PMHX:
+CAD, HTN, HIGH CHOLESTEROL, GERD WITH HIATAL HERNIA, SEVERE CERVICAL SPONDYLOSIS, CVA, PROSTATE CA, COLON CA, URINARY INCONTINENCE, VP SHUNT FOR NPH, COPD, DJD OF SPINE, SEVERE KYPHOSIS, DEPRESSION, SBO
+
+NKA
+
+THIS IS AN 82 Y/O MALE THAT LIVES IN AN ASSISTED LIVING FACILITY.  INITIALLY PRESENTED TO [**First Name9 (NamePattern2) 641**] [**Last Name (un) 642**] FOR COMPLAINTS OF N/V AND NO BM FOR 3 DAYS.  DENIED ANY CP OR SOB.  ALSO C/O SEVERE BACK PAIN AND LLE MOTOR WEAKNESS, UNABLE TO WALK DUE TO PAIN, TX TO [**Hospital1 22**] FOR EVALUATION. UPON ARRIVAL TO [**Hospital1 22**] EW- PT WAS NOTED TO BE LETHARGIC, FEBRILE AT 100.7  UNABLE TO DO MRI DUE TO POSITIONING OF BACK, CT HEAD WAS NEGATIVE FOR ANY BLEEDS.  DURING NGT PLACEMENT, PT VOMITED LARGE AMOUNTS OF FECAL MATTER AND ASPIRATED, BECAME HYPOXIC AND WAS INTUBATED FOR AIRWAY PROTECTION.  ABD CT SHOWS EVIDENCE OF SBO, WILL NEED SURGERY.  THIS WAS DISCUSSED WITH FAMILY AND HEALTH CARE PROXY WHO AT THIS TIME CHANGED CODE STATUS TO DNR AND EXPRESSED WISHES FOR NO AGGRESIVE TX AT THIS TIME.  SUBJECT OF SX TO BE REDISCUSSED. 
+
+NEURO:  PT INITALLY ON PROPOFOL DRIP, HAS BEEN WEANED AND IS RECEIVING FENTANYL 25MCG/HR AND ATIVAN 2MG/HR.  PT IS BEING SEDATED FOR SAFETY ISSUES AND ALSO FOR PAIN CONTROL DUE TO INITIAL PRESENTING C/O LEG PAIN.  PERRLA.  3/B, PT WILL RESPOND TO PAIN AND GRIMACES WITH STIMULATION.  IS NOT FOLLOWING COMMANDS.  LOW GRADE TEMPS 99-100.4. 
+
+CV:  NSR 80'S WITH NO SIGNS OF ECTOPY.  S1 AND S2 AS PER AUSCULTATION. SBP > OR = TO 90. WEAK PALPABLE PULSES TO BILATERAL DORSALIS, EASILY PALPABLE TO BILATERAL RADIAL PULSES.  NO SIGNS OF JVD NOTED.  NO SIGNS OF EDEMA NOTED.  PT RECEIVED 2 AMPS OF CA.  
+
+RR:  PT INTUBATED.  OETT IS SECURE AND PATENT.  PT IS VOMITING AROUND TUBE OGT.  BLACK FECAL MATTER NOTED.  [**Doctor Last Name 643**] SUCTIONING IS SIGNIFICANT FOR SIMILAR BLACK SECRETIONS.  PLEASE SEE CAREVUE AS NEEDED FOR ABG RESULTS.  CURRENT VENT SETTINGS ARE CPAP/PS RATES 25-30/TV 400-500/50%/[**5-3**].  SP02 > OR = TO 95%.
+
+GI:  ABD. IS SOFT, DISTENDED WITH TWO VERY LARGE PROTRUDING HERNIAS.  BS X 4 QUADRANTS.  OGT IS SECURE AND PATENT.  PLACEMENT VERIFIED WITH AUSCULTATION OF 30 CC/AIR.  NO BM THIS SHIFT.  GI TEAM EVALUATED.  SIGNIFICANT FOR SBO.  SURGICAL CANDIDATE.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  YELLOW, CLEAR URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED ON BACK OR BUTTOCKS.  
+
+PIV:  #18 PIV TO RIGHT HAND.
+
+SOCIAL:  PT HAS A WIFE AND INVOLVED FAMILY.  
+
+PLAN:  FAMILY MEETING REGARDING SURGICAL PROCEDURE AND PLAN OF TX.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]. 
+
+",,
+5607,3175,6966,0,3199-07-19 03:17:00 EST,3199-07-19 03:20:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt received from ER intub pt placed on mech vent as per Carevue. Lung sounds coarse rhonchi suct sm-mod black sput. Pt switched to PSV with essentially no change in ABGs. Cont PSV.
+",,
+5607,3175,6966,0,3199-07-19 05:31:00 EST,3199-07-19 05:33:00 EST,2519,"N",69,"Nursing/Other","ADDENDUM","
+ADDENDUM
+PT RECEIVING 2 GMS OF MAG FOR 1.4 LEVEL AND 40MEQ OF K FOR A 3.3 LEVEL THIS AM.  PT HAS ALSO RECEIVED 2 UNITS OF PRBC'S DUE TO DROP IN CRIT FROM 32 TO 24.  PLEASE SEE CAREVIEW AS NEEDED FOR COMPLETE LAB PROFILE.  THANK [**Doctor First Name **].
+",,
+5607,3175,6966,0,3199-07-19 16:38:00 EST,3199-07-19 16:53:00 EST,2393,"N",69,"Nursing/Other","npn 7-7pm","
+npn 7-7pm
+
+Family meeting this afternoon with Drs [**Last Name (STitle) 241**] and [**Name5 (PTitle) 528**], [**Name5 (PTitle) 644**], Mrs [**Known patient lastname 645**] and [**Doctor First Name 646**], the patients HCP. The plan is to make  the patient CMO and withdraw the ventilator.
+
+neuro: Pt is sedated on 3mg/h ativan and 50 mcg/h of fentanyl. 
+
+resp: Pt will be extubatedzt 1800.
+
+CV: BP 90/30's. SR in the 70's.
+
+GI/GU: Belly soft with + BS, no BM. 2 hernias. NGT draining brown, bilious liquid. Heme negative.
+
+Skin: Intact
+
+Plan: Extubate and control pain. Continue with fenatnyl and ativan gtts.
+",,
+5607,3175,6966,0,3199-07-19 17:05:00 EST,3199-07-19 17:06:00 EST,1625,"N",69,"Nursing/Other",,"
+
+resp care
+pt received on psv 5/5, which he remained stable on all shift. per family discussion pt extubated to cmo. sxned for blackish/brown secretions. no gag. cmo, O2 for comfort
+",,
+5607,3175,6966,0,3199-07-19 17:10:00 EST,3199-07-19 17:12:00 EST,2393,"N",69,"Nursing/Other","addendum","
+addendum
+
+Pt was extubated at 1800, placed on O2 for comfort. Ativan at 3mg/h and fentanyl at 50mcg/h.
+
+",,
+5607,3175,6966,0,3199-07-20 02:24:00 EST,3199-07-20 02:28:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT APPEARS COMFORTABLE ON ATIVAN 4MG/HR, FENTANYL 50MCG/HR. HR 70'S NSR, SBP 90-120'S. AFEBRILE. .45NS AT 150CC/HR, D/C'D. PT REMAINS ON 100% NRB. PT ENT SUCTIONED X2 IN START OF SHIFT. MINIMAL SECREATIONS THROUGH OUT NIGHT. NO CONTACT FROM FAMILY OVERNIGHT. PT REMAINS IN MICU DNR, CMO.
+",,
+5607,3175,6966,0,3199-07-20 11:34:00 EST,3199-07-20 11:36:00 EST,2393,"N",69,"Nursing/Other","transfer note","
+transfer note
+Pt to transfer to [**Hospital Ward Name 3**] 723.
+He has transitioned from ativan and fentanyl gtts to MSO4 at 3 mg/h and remains comfortable.
+The family is aware of his transfer
+VS remain stable. He is on 100% NRB with sat of 100%.
+
+",,

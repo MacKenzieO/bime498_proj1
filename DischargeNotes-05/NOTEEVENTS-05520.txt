@@ -1,0 +1,350 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 9:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11858**]
+     Reason: CHANGE IN MENTAL STATUS.?BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Resp decompensation--with high lactate no source
+      found down
+       
+      no contrast CR 2.3
+     CONTRAINDICATIONS for IV CONTRAST:
+      HIG CR
+     ______________________________________________________________________________
+     WET READ: DCsc SAT [**2653-7-9**] 11:09 PM
+      NO BLEED OR MASS EFFECT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Decompensation with high lactate.
+     
+     TECHNIQUE: non-contrast images through the brain.
+     
+     No prior studies for comparison.
+     
+     CT HEAD W/O CONTRAST:  There is no intra or extra-axial hemorrhage.  There is
+     encephalomalacia within the distribution of a prior MCA infarction.  There is
+     preservation of the [**Doctor Last Name 20**]/white matter junction.  There is no hydronephrosis.
+     There is no shift of the normally midline structures.  There are
+     calcifications of the intracavernous carotid arteries.  There is some
+     thickening of the ethmoid air cells and nasal passageways.  This could be due
+     to patient's intubation.  No skull fracture is seen.
+     
+     IMPRESSION:  Evidence of old right MCA infarct.  No evidence of acute infarct.
+      No intracranial hemorrhage.
+     
+     
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 8:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11857**]
+     Reason: Post intubation--check tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Post intubation--check tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     AP PORTABLE CHEST:
+     
+     INDICATION:  S/P intubation. Check tube placement.
+     
+     COMPARISON: Prior exams of the same day.
+     
+     FINDINGS:  There has been interval ETT placement which appears in good
+     position a few cm above the carina.  The cardiomediastinal borders are
+     unchanged.  There is some increased bibasilar subsegmental atelectasis since
+     the prior exam, greater on the right.  The pulmonary vasculature is within
+     normal limits.  No pneumothorax.
+     
+     IMPRESSION:  ETT in satisfactory position.  Bibasilar atelectasis, greater on
+     the right.
+     
+     
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Resp decompensation--with high lactate no source
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory decompensation with lactic acidosis.
+     
+     TECHNIQUE:  Helically acquired images were obtained from lung apices to the
+     pubic symphysis without iv contrast.
+     
+     There is no prior study for comparison.
+     
+     CT CHEST W/O CONTRAST: There are no axillary, hilar or mediastinal lymph
+     nodes.  There is no pericardial effusion.  The et tube terminates at the
+     carina and headed towards to right main stem bronchus and could be pulled back
+     several cm.  There is some atelectasis and small effusions within the lungs,
+     but no air-space consolidation.
+     
+     CT ABDOMEN W/O CONTRAST:  Some ascites is seen around the liver.  There is
+     portal venous air.  Punctate foci of air are seen within the mesentety
+     probably within vessels.  There is ""fecalization"" of the proximal jejunum with
+     some surrounding mesenteric air. There is excessive stranding within the
+     lesser sac tracking into the root of the mesentery. Fluid is seen tracking
+     laterally in the left anterior pararenal space. The gallbladder is distended.
+     The wall does not appear thickened. There is a radiopaque gallstone.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is non- specific stranding surrounding
+     both kidneys. There is no hydronephrosis. A small amount of air is seen within
+     the right common femoral vein, likely from attempted line placement. There are
+     no enlarged intraadominal or pelvic lymph nodes. Degenerative changes are seen
+     in the spine, but there are no suspicious lytic or blastic osseous lesions.
+     
+     IMPRESSION:
+     
+     Portal venous air, thickening and fecalization of the proximal jejunum.  This
+     indicates necrotic bowel, probably jejunum. There is extensive inflammation in
+     the root of the mesentery.  The bowel is collapsed no focal thickening is
+     identified.
+     
+     These revised results were discussed with Dr. [**First Name (STitle) 6595**], the attending surgeon on
+     [**2653-7-10**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Resp decompensation--with high lactate no source
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory decompensation with lactic acidosis.
+     
+     TECHNIQUE:  Helically acquired images were obtained from lung apices to the
+     pubic symphysis without iv contrast.
+     
+     There is no prior study for comparison.
+     
+     CT CHEST W/O CONTRAST: There are no axillary, hilar or mediastinal lymph
+     nodes.  There is no pericardial effusion.  The et tube terminates at the
+     carina and headed towards to right main stem bronchus and could be pulled back
+     several cm.  There is some atelectasis and small effusions within the lungs,
+     but no air-space consolidation.
+     
+     CT ABDOMEN W/O CONTRAST:  Some ascites is seen around the liver.  There is
+     portal venous air.  Punctate foci of air are seen within the mesentety
+     probably within vessels.  There is ""fecalization"" of the proximal jejunum with
+     some surrounding mesenteric air. There is excessive stranding within the
+     lesser sac tracking into the root of the mesentery. Fluid is seen tracking
+     laterally in the left anterior pararenal space. The gallbladder is distended.
+     The wall does not appear thickened. There is a radiopaque gallstone.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is non- specific stranding surrounding
+     both kidneys. There is no hydronephrosis. A small amount of air is seen within
+     the right common femoral vein, likely from attempted line placement. There are
+     no enlarged intraadominal or pelvic lymph nodes. Degenerative changes are seen
+     in the spine, but there are no suspicious lytic or blastic osseous lesions.
+     
+     IMPRESSION:
+     
+     Portal venous air, thickening and fecalization of the proximal jejunum.  This
+     indicates necrotic bowel, probably jejunum. There is extensive inflammation in
+     the root of the mesentery.  The bowel is collapsed no focal thickening is
+     identified.
+     
+     These revised results were discussed with Dr. [**First Name (STitle) 6595**], the attending surgeon on
+     [**2653-7-10**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 6:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11856**]
+     Reason: SOB
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      SOB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 87 year old female with shortness of breath.
+     
+     COMPARISON: Compared with exam of the same day at 1719 hours.
+     
+     FINDINGS: The patient is slightly rotated to the left and is in somewhat
+     lordotic position on the current examination.  The cardiomediastinal borders
+     are unchanged. The pulmonary vasculature is normal. Detail is again blurred,
+     but both hemidiaphragms are well seen and there are no focal opacities to
+     suggest pneumonia. No pleural effusions. No pneumothorax.
+     
+     IMPRESSION: No radiographic evidence of pneumonia or cardiac failure.
+     
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 5:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11855**]
+     Reason: Fever, and cough, mental status changes--r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Fever, and cough, mental status changes--r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Fever, cough,mental status changes.  R/O pneumonia.
+     
+     
+     There is no prior for comparison.
+     
+     CHEST, AP PORTABLE:  The study is suboptimal due to blurring related to
+     patient motion.  The heart is enlarged but the pulmonary vasculature is
+     normal. The aorta is unfolded and calcified.  There is mild, blurred hazy
+     opacity in the left lower lung zone, but the diaphragm is still visualized and
+     the appearances are felt to be due to blurred motion.  No pneumothorax. No
+     effusions.
+     
+     IMPRESSION;  No definite evidence of consolidation. 
+
+",,
+5520,4841,,,2653-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Resp decompensation--with high lactate no source
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory decompensation with lactic acidosis.
+     
+     TECHNIQUE:  Helically acquired images were obtained from lung apices to the
+     pubic symphysis without iv contrast.
+     
+     There is no prior study for comparison.
+     
+     CT CHEST W/O CONTRAST: There are no axillary, hilar or mediastinal lymph
+     nodes.  There is no pericardial effusion.  The et tube terminates at the
+     carina and headed towards to right main stem bronchus and could be pulled back
+     several cm.  There is some atelectasis and small effusions within the lungs,
+     but no air-space consolidation.
+     
+     CT ABDOMEN W/O CONTRAST:  Some ascites is seen around the liver.  There is
+     portal venous air.  Punctate foci of air are seen within the mesentety
+     probably within vessels.  There is ""fecalization"" of the proximal jejunum with
+     some surrounding mesenteric air. There is excessive stranding within the
+     lesser sac tracking into the root of the mesentery. Fluid is seen tracking
+     laterally in the left anterior pararenal space. The gallbladder is distended.
+     The wall does not appear thickened. There is a radiopaque gallstone.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is non- specific stranding surrounding
+     both kidneys. There is no hydronephrosis. A small amount of air is seen within
+     the right common femoral vein, likely from attempted line placement. There are
+     no enlarged intraadominal or pelvic lymph nodes. Degenerative changes are seen
+     in the spine, but there are no suspicious lytic or blastic osseous lesions.
+     
+     IMPRESSION:
+     
+     Portal venous air, thickening and fecalization of the proximal jejunum.  This
+     indicates necrotic bowel, probably jejunum. There is extensive inflammation in
+     the root of the mesentery.  The bowel is collapsed no focal thickening is
+     identified.
+     
+     These revised results were discussed with Dr. [**First Name (STitle) 6595**], the attending surgeon on
+     [**2653-7-10**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2653-7-9**] 9:28 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 11859**]
+     CT PELVIS W/O CONTRAST
+     Reason: Resp decompensation--with high lactate no source, Resp decom
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5520,,6860,0,2653-07-10 06:55:00 EST,2653-07-10 07:32:00 EST,2404,"N",69,"Nursing/Other",,"
+
+D 87 YO female adm to ER  MS changes and hypotensive. Despite Fluids and pressures Pt condition continued to deteriorate. CT scan was neg for new injury . CT of chest, ABD, pelvis, revealed air in bilitary tree and peripancreatic straining.Pt arrived on unit Inturbated ,extremely acidotic  on levophed and neo SBP 80""s. pt aggitated.
+Neuro: initially pt moving spontaniously but not purposefully. PERL. currently notmoving despite noxious stimuli. On fentanyl drip at 25mcg and versed 2mg for sedation and comfort.
+CV: initially SBP 80""s on NEO and levophed HO wished vasopression started and neo stopped when able. Neo weaned off and vasopression started at .04u. Levophed .4mcg to 1mcg to maintain MAP > 60. Continued to hydrate with NS. total of 5500 given . K  and CA repleted. MG to be repleted.  skin is mottled increasingly so through the night temp initially 94 know 96-97 several blanket on pt.DP palp with sbp > 115.
+Lungs : Intubated see care view for settings and ABG's. lungs coarse to wheezy. suction for little clear to white sputum. PH 7.2 and lower TX with bicarb a total of 6amp given .
+GI: ABD distended. no BS. NG in place draining bilious liquid.
+GU: Foley Cath in place drained 10cc all night despite 18=liter pt recieved since adm.Cre 1.8 bun 20's.
+Skin: cold mottled and +4 edema.
+A unstable sever metabolic acidosis which has not improved. requires pressors to maintain BP.
+R monitor closley repeat abg and lytes as indicated repleat lytes as indicated When health proxy arrives have meeting to discuss Tx plan.
+continue to maintain airway and hemostasis.
+",,
+5520,,6860,0,2653-07-10 13:32:00 EST,2653-07-10 13:43:00 EST,2748,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+The pt was made CMO after a team discussion c the pts health care proxy ([**First Name4 (NamePattern1) 288**] [**Last Name (NamePattern1) 289**]) and the pts PCP.  [**Name10 (NameIs) 290**] these conversations it was determined that the pt would not want to be kept alive via aggressive life support in which a meaningful recovery was negliable.  CT scan results revealed necrotic bowel which required emergent surgery, unfortunately the pt was not a surgical candidate.  Pt had been profoundly acidemic since admit, fluid overloaded c two pressors in place.  A Catholic priest was paged and visited the pt c the health care proxy @ the BS to give last rites/sacrament of the sick.  The pt was subsequently extubated @ 13:55 c both Fentanyl and Midazolam gtt's in place for comfort/sedation.  At 14:05 the pt became asystolic and expired.  The team was notified.  The team has contacted the health care proxy/PCP to inform them of the pt outcome.  Please see CareVue and the pts blue chart for additional nursing/pt care data.  The pt is wearing a ring on her L index finger -- gold band c three blue stones noted.  Additional personal affects will accompany the pt down to the mourge and consists of: upper dentures, underwear, housecoat, slippers.  
+",,

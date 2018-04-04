@@ -1,0 +1,448 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5194,,,,2686-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-6-16**] 2:15 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9052**]
+     Reason: dx:mitral valve replacement, redo;? cabg/sda, proc:mitral va
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with 
+     REASON FOR THIS EXAMINATION:
+      dx:mitral valve replacement
+      redo;? cabg/sda
+      proc:mitral valve replacement
+      redo, ? cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pre-op for mitral valve replacement.
+     
+     CHEST PA AND LATERAL:  There is moderate cardiomegaly.  Median sternotomy
+     sutures and cardiovascular clips are noted.  A dual chamber pacer is
+     visualized with its leads in the right atrium and ventricle.  The mediastinal
+     and hilar contours are unremarkable.  The lungs are clear.  There are no
+     pleural effusions.  The pulmonary vasculature is normal.  The surrounding soft
+     tissue and osseous structures appear unremarkable.
+     
+     IMPRESSION:  Moderate cardiomegaly.  No acute cardiopulmonary process.
+
+",,
+5194,2415,,,2686-06-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2686-6-30**]        Discharge Date: [**2686-7-6**]
+
+Date of Birth:  [**2604-11-24**]        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a very pleasant 81 year
+old white male with a history of coronary artery disease,
+status post coronary artery bypass graft times one in [**2674**],
+who has been followed by his cardiologist for heart murmur
+over the past several years.  On a routine physical
+examination two weeks prior to admission, echocardiogram
+revealed severe mitral regurgitation with flail leaflet.  He
+was referred for cardiac catheterization and then for redo
+sternotomy, mitral valve replacement, with Dr. [**Last Name (STitle) **].  He
+was complaining of increased fatigue and shortness of breath
+on exertion over a several month period.  He denied chest
+pain or pressure.  Cardiac echocardiogram on [**2686-5-31**], showed
+posterior mitral valve prolapse with four plus mitral
+regurgitation, moderate tricuspid regurgitation, moderate
+biatrial enlargement, flail mitral valve prolapse posterior
+leaflet.  Cardiac catheterization on [**2686-6-7**], showed left
+main 50 percent, left anterior descending coronary artery 40
+percent, right coronary artery 40 percent, widely patent
+functioning left internal mammary artery to the left anterior
+descending coronary artery, dilated left ventricular
+cardiomyopathy with an ejection fraction of 49 percent,
+significant mitral regurgitation, mild to moderate pulmonary
+hypertension.
+
+PAST MEDICAL HISTORY:  Coronary artery disease, status post
+coronary artery bypass graft times one on [**2675-11-1**], with left
+internal mammary artery to left anterior descending coronary
+artery.
+
+Hyperlipidemia.
+
+Mitral regurgitation.
+
+Diverticulitis.
+
+Dilated cardiomyopathy.
+
+Congestive heart failure.
+
+Gastroesophageal reflux disease.
+
+History of myocardial infarction.
+
+Hard of hearing, left greater than right.
+
+Prostate cancer, status post radiation treatment.
+
+PAST SURGICAL HISTORY:  Implantation of a dual chamber
+permanent pacemaker four years ago.
+
+Coronary artery bypass graft times one in [**2674**].
+
+Left fourth finger surgery eight years ago.
+
+MEDICATIONS ON ADMISSION:
+1. Digoxin 0.125 mg once daily.
+2. Monopril 20 mg once daily.
+3. Atenolol 25 mg once daily.
+4. Zocor 10 mg once daily.
+5. Multivitamin once daily.
+6. Nitroglycerin sublingual p.r.n.
+7. Maalox p.r.n.
+
+
+PHYSICAL EXAMINATION:  Vital signs revealed heart rate 61,
+normal sinus rhythm, blood pressure 98/55, height six feet
+four inches tall, weight 175 pounds.  In general, an 81 year
+old male in no acute distress, appearing stated age.  Skin
+well hydrated, no rashes or lesions.  Head, eyes, ears, nose
+and throat examination - The pupils are equal, round and
+reactive to light and accommodation.  Extraocular movements
+are intact.  Normal buccal mucosa.  Full upper and lower
+dentures.  Neck is supple with no jugular venous distention,
+question thyromegaly.  Chest clear to auscultation
+bilaterally.  Sternum stable.  Sternal incision is well
+healed.  The heart is regular rate and rhythm, S1 and S2,
+positive III/VI murmur heard best at the apex radiating to
+the left axilla.  The abdomen is soft, nontender,
+nondistended, normoactive bowel sounds.  Extremities are
+warm, no edema or cyanosis, varicosities on the right thigh
+and right calf with some on the left calf as well.
+Neurologically, cranial nerves II through XII are grossly
+intact.
+
+HOSPITAL COURSE:  The patient was admitted on [**2686-6-30**], with
+diagnosis of coronary artery disease, mitral regurgitation,
+elevated cholesterol, congestive heart failure, dilated
+cardiomyopathy.  He underwent a redo sternotomy with mitral
+valve replacement, number 31 porcine tissue valve, under
+general anesthesia.  Operating room course was uneventful
+with cardiopulmonary bypass time of 76 minutes, cross clamp
+time of 48 minutes, MAP up on transfer out of the operating
+room, MAP was 67 and CVP 12, PAD 17.  He was AV paced at a
+rate of 88 per minute.  He was transferred to the Intensive
+Care Unit on a Dobutamine drip and Neo-Synephrine drip.  The
+underlying heart rhythm on transfer was a complete heart
+block with junctional escape beats.  He was extubated on the
+evening of his operative day.  Postoperative day number one
+was significant for a 16 beat run of ventricular tachycardia
+treated with Lidocaine and Magnesium.  He continued to be AV
+paced with an internal pacer with a rate of 87.  Both his
+Dobutamine and Neo-Synephrine have been weaned and his vital
+signs are stable on no intravenous drip medications.  On
+postoperative day number two, there were no significant
+events.  The patient was seen by the electrophysiology
+doctors [**First Name (Titles) **] [**Last Name (Titles) 5980**] of his pacemaker which showed that
+he does need a new generator but his current pacer is
+appropriate with occasional AV pacing at 61 necessary.  He
+was also on a small Neo-Synephrine drip at 0.5 for blood
+pressure support which was weaned throughout the day on
+postoperative day number two and off completely by
+postoperative day number three.  On postoperative day number
+three, the patient was transferred to the inpatient floor for
+recovery in stable condition.  He continues to be AV paced at
+times with an internal pacemaker with some occasional ectopy
+and premature ventricular contractions.  He was followed by
+physical therapy throughout his hospital course and was found
+to be safe for home by physical therapy on postoperative day
+number five.  On [**2686-7-5**], postoperative day number five, he
+was transfused with one unit of packed red blood cells for a
+hematocrit of 24.8.  On postoperative day number six, the
+patient was stable, ambulating independently in the hallways
+and was discharged home with visiting nurses.
+
+CONDITION ON DISCHARGE:  On discharge, physical examination
+revealed lungs were clear.  Cardiovascular regular rate and
+rhythm with no murmurs, rubs or gallops, occasional AV paced
+with underlying sinus rhythm.  Incision is clean, dry and
+intact.  Sternum is stable.  Abdomen positive bowel sounds,
+positive bowel movement. Laboratories on discharge revealed
+white blood cell count 4.7, hematocrit 27.9, platelet count
+119,000.  Sodium 137, potassium 4.7, chloride 103,
+bicarbonate 26, blood urea nitrogen 20, creatinine 0.9,
+glucose 99.  Chest x-ray on the day of discharge shows small
+bilateral pleural effusions with atelectasis at bilateral
+bases, no evidence of pneumothorax seen.
+
+DISCHARGE STATUS:  Home with visiting nurse.
+
+DISCHARGE DIAGNOSES:  Status post mitral valve replacement on
+[**2686-6-30**].
+
+Coronary artery disease, status post coronary artery bypass
+graft in [**2674**].
+
+Elevated cholesterol.
+
+Congestive heart failure.
+
+Dilated cardiomyopathy.
+
+MEDICATIONS ON DISCHARGE:
+1. Lasix 20 mg p.o. twice a day times seven days.
+2. Potassium Chloride 20 mEq twice a day for seven days.
+3. Colace 100 mg p.o. twice a day.
+4. Aspirin 325 mg once daily.
+5. Vitamin C 500 mg twice a day.
+6. Atenolol 25 mg once daily.
+7. Percocet one to two tablets q4-6hours p.r.n.
+8. Ferrous Sulfate 150 mg once daily.
+
+
+FOLLOW UP:  Appointment with Dr. [**First Name (STitle) 940**] in one to two weeks.
+Appointment with Dr. [**Last Name (STitle) 4732**] in two to three weeks,
+cardiologist, for evaluation and plans for new battery in
+pacemaker within one month.  Follow-up also with Dr. [**Last Name (STitle) **]
+in approximately four weeks.
+
+
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 2898**]
+
+Dictated By:[**Last Name (NamePattern1) 5981**]
+MEDQUIST36
+D:  [**2686-7-6**] 17:00:18
+T:  [**2686-7-6**] 18:47:58
+Job#:  [**Job Number 5982**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2686-7-7**] 9:49 AM
+(End of Report)
+
+
+",,
+5194,2415,,,2686-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-6-30**] 1:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9053**]
+     Reason: r/o PTX/effusion/tamponade. Pt still in OR. Please perform C
+     Admitting Diagnosis: MR\MITRAL VALVE REPLACEMENT; REDO; ? CABG/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with MR s/p redo steronotomy/MVR.                               
+     REASON FOR THIS EXAMINATION:
+      r/o PTX/effusion/tamponade. Pt still in OR. Please perform CXR when pt arrives 
+      CSRU.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post mitral valve replacement, evaluate for pneumothorax,
+     effusion or tamponade.
+     
+     COMPARISON:  [**2686-6-16**].
+     
+     CHEST, PORTABLE SUPINE RADIOGRAPH:  There is stable moderate cardiac
+     enlargement.  The patient is status post median sternotomy with both CABG and
+     mitral valve replacement changes.  There is some limitation of this radiograph
+     due to motion artifacts.  There is patchy atelectasis in both lung bases.
+     There is a small left apical and basilar pneumothorax.  The endotracheal tube
+     tip is approximately 5 cm above the carina.  A nasogastric tube tip descends
+     below the level of the diaphragm and out of the field of view.  The right
+     internal jugular pulmonary arterial venous catheter extends into the right
+     pulmonary artery.  The dual-lead pacemaker tips overlie the right atrium and
+     ventricle.  There is a possible small left pleural effusion.  The osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1) Small left apical and basilar pneumothorax.
+     2) Unchanged cardiomegaly with probable small left pleural effusion.
+     
+
+",,
+5194,2415,6450,0,2686-06-30 17:12:00 EST,2686-06-30 17:13:00 EST,4188,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt arrived from OR & placed on mechanical ventilation via OETT; weaned from ventilator & placed on cool mist after extubation.  Pt did not tolerate & was placed on PCV via full face mask.  ABG pending at this time.
+",,
+5194,2415,6450,0,2686-06-30 21:22:00 EST,2686-06-30 21:55:00 EST,3118,"N",54,"Nursing/Other","S/P MVR","
+S/P MVR
+S: ""WHAT TIME IS IT""
+O: CARDIAC: ARRIVED AV PACED- ATRIALLY EPICARDIAL- V PACED VIA PERM PACER. UNDERLYING RYTHYM CHB WITH JUNCTIONAL ESCAPE BEATS . +PVC'S RECIEVED 20 MEQ KCL X 3, CALCIUM AND MAG REPLACED. INCREASED PVC'S WITH ACIDOSIS +^ CO2. SBP REQUIRING NEO @ 1 MCQ. PAD'S LOW TWENTIES, CVP 8-13. MVO2 89-77. CI > 2.5. DOBUTAMINE @ 5MCQ DECREASED TO 2.5 MCQ @ 1430 AND OFF AT 1800. CI HAS REMAINED ABOVE 2.5. PALP PP. STERNAL DSG WITH SEROSANG DRAINAGE, CT DSG DRAIN SMALL AMOUNT OF SANGUINOUS DRAINAGE. FEET WARM TO TOUCH. SVO2 70. HCT 29.3 RECIEVED 2 L LR.
+   RESP: EXTUBATED @ 1800 WITH LITTLE OR NO AIR MOVEMENT PT NEAR UNRESPONSIVE, PLACED ON PCV WITH IMPROVEMENT OF ABG AND MENTAL STATUS. ACIDOTIC 7.15 CO2 84. 2000 PLACED ON OPEN FACE MASK 50% WITH IMPROVED ABG-REPEAT ABG PENDING. COUGHING AND SWALLOWING. IS 500-750. BS DIMINISHED BIBASILAR. RR MIDDLE TEENS. O2 SAT >95%.
+   NEURO: REVERSED AND PROPOFOL DC'D WITH PT SEDATE BUT AROUSABLE, FOLLOWING COMMANDS, PERL, GRASP EQUAL MAE. POST EXTUBATION PT NEAR UNRESPONSIVE, CLEARED WITH BETTER ABG. PRESENTLY ORIENTED TO PERSON AND PLACE, CALM, MAE, PERL. 
+   GI: BEGINNING TO TAKE ICE CHIPS. ABD SOFT,NONTENDER, HYPOACTIVE BOWEL SOUNDS. DENIES NAUSEA.
+   GU: AUTODIURESING UPON ARRIVAL, ADEQUATE UO PRESENTLY
+   PAIN: TO RECIEV .5 MG IV MSO4 FOR INCISIONAL DISCOMFORT.
+   ENDO: INSULIN GTT @ 5 UNITS/HR. 
+   SOCIAL: WIFE INTO VISIT AND UPDATED.
+A: PRESENTLY STABLE POST OP AND POST EXTUBATION
+P: MONITOR COMFORT, HR AND RYTHYM, SBP WEAN NEO AS TOLERATED, SVO2,CI, PADS, CT DRAINAGE, DGS, PP, RESP STATUS-PULM TOILET, NUERO STATUS, I+O, LABS. AS PER ORDERS.  
+",,
+5194,2415,6450,,2686-07-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-7-1**] 3:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9054**]
+     Reason: s/p CT d/c                                                  
+     Admitting Diagnosis: MR\MITRAL VALVE REPLACEMENT; REDO; ? CABG/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with MR s/p redo steronotomy/MVR.                              
+       
+     REASON FOR THIS EXAMINATION:
+      s/p CT d/c                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81 year old man status post mitral valve replacement.  Now status
+     post chest tube removal.
+     
+     COMPARISON:  [**2686-6-30**].
+     
+     FINDINGS:  There is stable cardiomegaly.  The patient is status post median
+     sternotomy and mitral valve replacement.  There is continued bibasilar
+     atelectasis, greater on the left.  There is a small left pleural effusion.
+     There has been interval removal of the left chest tube.  There is a tiny
+     residual apical pneumothorax, which is less than on the prior examination.
+     Right IJ introducer remains in appropriate position at the proximal SVC.
+     Pacemaker leads remain unchanged in position.  Osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  Interval removal of left chest tube with tiny, but improved,
+     apical pneumothorax.  Slight increase in left lower lobe atelectasis and small
+     pleural effusion.
+     
+
+",,
+5194,2415,6450,0,2686-07-01 05:19:00 EST,2686-07-01 05:37:00 EST,4216,"N",54,"Nursing/Other","csru update","
+csru update
+NEURO: SLEEPING IN NAPS. NEURO INTACT. PLEASANT AND COOPERATIVE TO ALL CARE.
+
+CV: VS/HEMO STABLE AS PER FLOWSHEET. SVO2~70 W/ CI 2.9-3.3. REMAINS ON NEOSYNEPHRINE FOR BP SUPPORT. RT RAD/FEM ART LINES CORRELATE. T MAX 38. PT W/ PERM PACER AND EPICARDIAL WIRES. A PACING W/ EPI WIRES AND PERM PACER VENT RESPONCE. 10 BEAT RUN VT W/ LOSS OF BP-> RESOLVED SPONT. 2 GM MGSO4 AND 100MG LIDOCAINE BOLUS. RARE PVC CONT. 
+
+RESP: PREVIOUS RESP ACIDOSIS RESOLVED. STRONG NON-PRO COUGH W/ ENC. IS  TO ~1000CC. WEAN TO 3 L N/C. CT W/ MIN DNG, NOW SEROSANG. NO AIR LEAK NOTED. 
+
+GI: ABD SOFT. HYPO BSP. BRIEF EPISODE NAUSEA W/ TURNING THIS SHIFT. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] AMT BILOUS EMESIS. NO NEED FOR ANTIEMETIC. TOL FEW ICE CHIPS THIS AM. 
+
+GU; UOP QS VIA FOLEY.
+
+PAIN: MSO4 2 MG IV W/ EFFECT X2. 
+
+ASSESS: HEMO STABLE THOUGH REQUIRING NEO FOR BP. RESP ACIDOSIS RESOLVED.
+
+PLAN: MONITOR VS,HEMOS,LABS. WEAN NEO. DELINE AND INCREASE ACTIVITY, ANALGESIA, PULM HYGIENE.
+",,
+5194,2415,6450,0,2686-07-01 15:50:00 EST,2686-07-01 16:07:00 EST,4007,"N",54,"Nursing/Other",,"
+
+neuro:  a&o x3.  mae.  oob->chair w/assist of 2.  mso4 & percocet given for pain see mar.  
+
+cardiac:  av paced at rate of 88 w/occas pvc noted.  ep in to reprogram perm pacer unable to d/t brand->company to be called by team to reset pacer.  slowly weaning neo.  ci>2.  cco, ct's & fem a-line d/c'd.  +pp bilat.  ca repleated.
+
+resp:  lungs clear but diminished in bases.  sat's>95% on 3l nc.  using is & cdb effectively.  -sputum production.  
+
+gi/gu: +bs.  tolerating po's.  uop 45-120cc/hr.
+
+endo:  no ssri required.
+
+social:  wife into visit update given.
+
+plan:  pain management.  increase mobility.  cont to wean neo as tolerates.  cont cardiac rehab.  i&o.  ?transfer to [**Hospital Ward Name **] 2 in am. 
+",,
+5194,2415,6450,1,2686-07-02 03:29:00 EST,2686-07-02 04:08:00 EST,4183,"Y",54,"Nursing/Other","7p-7a","
+7p-7a
+ADENDUM: 
+
+GI/GU: BS+. Abd soft and nondistended. Tolerating po's. Autodiuresing min amounts of c/y/u. No Bm or flatus. 
+",,
+5194,2415,6450,0,2686-07-02 03:29:00 EST,2686-07-02 03:39:00 EST,4183,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+
+NEURO: Alert and oriented. MAE and following commands. Percocets given for pain control with good relief.
+
+RESP: LS clear with dim bases. Encouraged to c&db. O2 sats 97-99% on 3l nc. Using IS independently. 
+
+CV: AV paced @90 per team. Slow Neo gtt weaned to maintain MAP 60-90 SBP>90. Continues on Neo gtt currently back up to 0.5mccg/kg/min. SBP drop in to 80's with Neo off. Papable pedal pulses. See flow sheet for am labs.
+
+ENDO: Elevated BG's treated per SSRI. 
+
+INT: Incision dressings c&d. No areas of breakdown noted.
+
+ID: Afebrile.
+
+PLAN: Wean Neo as tolerated. ?EP into to adjust perm pacer,wife phoned in information about pacer. Monitor labs. Pulm toileting, increase diet and activity. ?Transfer to [**Hospital Ward Name **] 2. 
+",,
+5194,2415,6450,0,2686-07-02 17:01:00 EST,2686-07-02 17:13:00 EST,5515,"N",54,"Nursing/Other",,"
+
+CV:  A-paced @90 with PVCs, PPM interrogated--HR 60; neo off SBP 100's; Mag repleated; A-Line and cordis dc'ed
+
+Resp:  CTA, good oxygenation, using IS well, still on O2 per NC
+
+GI:  BS hypoactive but taking po well
+
+GU:  Foley out and voiding QS
+
+Endo:  BS 91-162 and covered by SS
+",,
+5194,2415,6450,0,2686-07-02 18:13:00 EST,2686-07-02 18:14:00 EST,5515,"N",54,"Nursing/Other",,"
+
+GI Addendum:  BS normoactive in all four quadrants
+",,
+5194,2415,6450,0,2686-07-02 19:32:00 EST,2686-07-02 19:40:00 EST,4183,"N",54,"Nursing/Other","2000 update","
+2000 update
+
+CV: Pt initally appeared to be AV paced via epicardial wires not perm pacer. Pt actually was A paced via epicardial wires and perm pacer was tracking-> AV paced. Clinical RN educator into the room and MD [**Doctor Last Name 827**] and Pa [**Doctor Last Name 289**] made aware, new orders given to turn off epicardial wires if BP tolerated perm pacer. Underlying rhythm V paced 60-70's. SBP 95-100's. Goal to keep SBP>90 MAP>60 [**Name8 (MD) 17**] MD [**First Name (Titles) 14**] [**Last Name (Titles) **]. (Unable to rest perm pacer as ? EP asked d/t tracking of perm pacer with v's, and inabiltity to pace with epicardial wires-> pt was inaprop pacing.)
+",,
+5194,2415,6450,0,2686-07-03 03:48:00 EST,2686-07-03 04:00:00 EST,4183,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+
+Neuro: Alert and oriented. MAE and following commands. Pain treated with 1 Percocet with good relief. 
+
+RESP: LS clear with dimininshed bases. O2 sats 97-99% on 3L NC. Encouraged to c&db. Using IS to 1250. Nonproductive cough. 
+
+CV: V-paced 60-70's, see previous note for pacemaker settings/info. Occasional PVC noted. SBP 95-110. Papable pedal pulses. Some generalized edema. AM labs platlet count of 72, no change from prior check of 73, team aware. Meds adjusted on day shift yesterday (zantac dc'd).   
+
+ENDO: Elevated BG's treated SSRI.
+
+GI/GU: BS+. Abd soft and nondistended. Tolerating po's. Started on Lasix this evening, diuresing mod amounts of c/y/u. No BM or flatus. 
+
+INT: Sternal dressing taken off per POC (pod#3). Well aprox and c/d. Med dressing d/i. No areas of skin breakdown noted. 
+
+ID: Afebrile. 
+
+PLAN: Awaiting replacement battery for perm pacer reportedly within the next month. ?transfer to [**Hospital Ward Name **] 2. Increase diet and activity. Monitor labs and hemodynamics. Pulm toileting.  
+",,
+5194,2415,,,2686-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-7-6**] 8:13 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9055**]
+     Reason: r/o inf                                                     
+     Admitting Diagnosis: MR\MITRAL VALVE REPLACEMENT; REDO; ? CABG/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o inf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mitral valve repair.
+     
+     COMPARISON: [**2686-7-1**].
+     
+     PA & LATERAL VIEWS CHEST: The right sided dual chamber pacemaker is again
+     noted with leads overlying the right atrium and right ventricle. Patient is
+     s/p median sternotomy, and mitral valve repair. The heart is stably enlarged.
+     There has been slight interval increase in size of small bilateral pleural
+     effusions. There has been interval improvement in the aeration of the left
+     lung base with residual patchy atelectasis seen. Atelectatic changes are also
+     noted within the right lung base. Pulmonary vascularity is within normal
+     limits. The previously seen left pneumothorax is not seen on the current
+     study. The lungs appear hyperinflated with flattening of the diaphragms.
+     
+     IMPRESSION: 1) Slight interval increase in size of small bilateral pleural
+     effusions.
+     
+     2) Improved aeration at the left lung base with continued bibasilar
+     atelectatic changes.
+     
+     3) No appreciable pneumothorax identified.
+
+",,

@@ -1,0 +1,432 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 6:48 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8773**]
+     Reason: bleed                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      bleed                                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb MON [**2827-6-29**] 7:58 PM
+      Diffuse subarachnoid as well as bilateral subdural, bilateral frontal
+      intraparenchymal, and intraventricular hemorrhage.  Subfalcine herniation to
+      left. Effacement of basilar cisterns and uncal herniation. Right skull base
+      fracture which may extend into right jugular foramen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old man status post fall.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the head were obtained
+     without IV contrast.  Bone algorithm images were also obtained.
+     
+     NON-CONTRAST HEAD CT:  There is extensive diffuse subarachnoid hemorrhage as
+     well as small bilateral convexity subdural hematomas.  There are large
+     bilateral frontal parenchymal hemorrhages, which on the right extends into the
+     right lateral ventricle.  There is associated shift of normally midline
+     structures to the left, indicative of subfalcine herniation.  There is
+     effacement of the basilar cisterns including the suprasellar cistern
+     consistent with uncal herniation. There is fluid within the frontal, ethmoid,
+     sphenoid, and maxillary sinuses. The soft tissues demonstrate a subgaleal
+     hematoma of the occipital region. Bone windows demonstrate a comminuted skull
+     base fracture involving the right side of the foramen magnum and extending
+     into the mastoid portion of the right temporal bone as well as into the
+     occipital bone superiorly.  This fracture involves the right jugular foramen.
+     IMPRESSION:
+     
+     1.  Diffuse bilateral subarachnoid, subdural, frontal parenchymal and
+     intraventricular hemorrhages as described.
+     
+     2.  Subfalcine herniation to the left.  Effacement of basilar cisterns
+     including the suprasellar cistern consistent with uncal herniation.
+     
+     3.  Comminuted skull base fracture involving the right foramen magnum
+     extending superiorly into the occiput as well as into the mastoid portion of
+     the right temporal bone and involving the right jugular foramem.
+     
+     4.  Subgaleal hematoma of the occipital region.
+     
+     Wet read of the results of this study was posted immediately to the ER
+     dashboard at time 7:50 p.m.  This study was reviewed with the neurosurgery
+     nurse practitioner at 7:40 p.m., [**2827-6-29**].
+     
+     
+                                                                 (Over)
+
+     DATE: [**2827-6-29**] 6:48 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8773**]
+     Reason: bleed                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Note added at attending review: There are possible fractures of the clivus and
+     sphenoid sinus. There is an 11mm subdural hematoma in rhe posterior fossa
+     adjacent to the right sigmoid sinus.
+     
+     
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 8774**]
+     Reason: ? fx                                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man fell on head                                                    
+     REASON FOR THIS EXAMINATION:
+      ? fx                                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb MON [**2827-6-29**] 8:31 PM
+      No C-spine fracture. Grade I anterolisthesis of C6 over C7.
+      Degenerative changes.
+      
+      Comminuted right skull base fracture involving right foramen magnum, extending
+      into mastoid portion of right temporal bone as well as extending superiorly
+      into occipital bone. This fracture may involve right jugular foramen.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old man status post fall.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the cervical spine were
+     obtained in soft tissue and bone algorithms.  Coronal and sagittal reformatted
+     images were also obtained.
+     
+     CT OF THE C-SPINE WITHOUT IV CONTRAST:  As previously reported on head CT of
+     [**2827-6-29**], again identified is the right skull base fracture involving
+     the right foramen magnum and extending into the mastoid portion of the right
+     temporal bone as well as extending superiorly into the occipital bone.  This
+     comminuted fracture may involve the right jugular foramen.
+     
+     C1 through C7 are well visualized and there is no evidence of cervical spine
+     fracture.  There is minimal grade 1 anterolisthesis of C6 over C7.  There are
+     moderate degenerative changes throughout the cervical spine including disc
+     space narrowing at C4/5 and C5/6 with associated posterior osteophytes at
+     these locations.  There is no encroachment of the spinal canal.  Also noted
+     are proliferative changes of the facet joints. The patient is intubated.  The
+     prevertebral soft tissues are unremarkable.  Please note that CT is not as
+     sensitive as MRI for intrathecal detail.
+     
+     IMPRESSION:
+     1.  Skull base fracture as described.
+     2.  No evidence of cervical spine fracture.
+     3.  Minimal grade 1 anterolisthesis of C6 over C7.
+     4.  Moderate degenerative changes.
+     
+     A wet read of the results of the study was posted to the ER dashboard at time
+     8:25 p.m. on [**2827-6-29**].
+     
+     Note added at attending review: The nasogastric tube is coiled up in the
+     nasopharynx.
+                                                                 (Over)
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 8774**]
+     Reason: ? fx                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man fell on head, LOC                                               
+     REASON FOR THIS EXAMINATION:
+      ? bleed ?lac                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SADk MON [**2827-6-29**] 8:17 PM
+      limited. no iv contrast. multifocal lung opacities ?aspiration. t11 loss of
+      ht, anterolithesis l4-l5
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Loss of consciousness, intracranial hemorrhage, fall.
+     
+     TECHNIQUE:  Axial images through the chest, abdomen and pelvis without IV
+     contrast.  This was done because IV access was not available at the time of
+     the CT scan.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  The endotracheal tube is slightly low,
+     abutting the left side of the trachea.  There are calcifications within the
+     aortic arch, ascending, and descending aorta, as well as coronary artery
+     calcifications.  Assessment of the aorta and pulmonary arteries is limited due
+     to lack of IV contrast.  The heart is enlarged.  There are small bilateral
+     pleural effusions.  There is no pericardial effusion.  Assessment of
+     lymphadenopathy is limited due to lack of IV contrast.  There are multifocal
+     areas of consolidation/collapse including the right upper, right lower, and
+     left lower lobes.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Again assessment of the vasculature
+     and traumatic organ injury is limited due to lack of IV contrast.  On this
+     unenhanced scan, the liver, gallbladder, spleen, pancreas, kidneys, adrenal
+     glands are unremarkable.  There is vascular calcification of the aorta.  The
+     feeding tube terminates within the stomach.  There is bilateral perinephric
+     stranding.  There is no definite free air or free fluid.  The large and small
+     bowel is unremarkable.  Trace amounts of free fluid cannot be excluded to lack
+     of IV contrast and patient motion.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  A Foley catheter is within the bladder.
+     The rectum and sigmoid colon are unremarkable.  There is a trace amount of
+     free fluid within the pelvis.  Extensive vascular calcifications.
+     
+     BONE WINDOWS:  Degenerative changes without evidence of acute fractures.
+     
+     REFORMATTED IMAGES:  Grade I anterolisthesis of L4 on L5, with degeneratice
+     change at this level of the posterior elements. Loss of vertebral body height
+     of T11.
+     
+     IMPRESSION:  Very limited CT due to the lack of IV contrast (lack of IV
+                                                                 (Over)
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     access).  Multifocal areas of opacity and consolidation within the lungs,
+     which given the history could represent aspiration.
+     
+     Small bilateral pleural effusions.
+     
+     Grade I anterolisthesis of L4 on L5 . T11 loss of vertebral body height.
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man fell on head, LOC                                               
+     REASON FOR THIS EXAMINATION:
+      ? bleed ?lac                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SADk MON [**2827-6-29**] 8:17 PM
+      limited. no iv contrast. multifocal lung opacities ?aspiration. t11 loss of
+      ht, anterolithesis l4-l5
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Loss of consciousness, intracranial hemorrhage, fall.
+     
+     TECHNIQUE:  Axial images through the chest, abdomen and pelvis without IV
+     contrast.  This was done because IV access was not available at the time of
+     the CT scan.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  The endotracheal tube is slightly low,
+     abutting the left side of the trachea.  There are calcifications within the
+     aortic arch, ascending, and descending aorta, as well as coronary artery
+     calcifications.  Assessment of the aorta and pulmonary arteries is limited due
+     to lack of IV contrast.  The heart is enlarged.  There are small bilateral
+     pleural effusions.  There is no pericardial effusion.  Assessment of
+     lymphadenopathy is limited due to lack of IV contrast.  There are multifocal
+     areas of consolidation/collapse including the right upper, right lower, and
+     left lower lobes.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Again assessment of the vasculature
+     and traumatic organ injury is limited due to lack of IV contrast.  On this
+     unenhanced scan, the liver, gallbladder, spleen, pancreas, kidneys, adrenal
+     glands are unremarkable.  There is vascular calcification of the aorta.  The
+     feeding tube terminates within the stomach.  There is bilateral perinephric
+     stranding.  There is no definite free air or free fluid.  The large and small
+     bowel is unremarkable.  Trace amounts of free fluid cannot be excluded to lack
+     of IV contrast and patient motion.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  A Foley catheter is within the bladder.
+     The rectum and sigmoid colon are unremarkable.  There is a trace amount of
+     free fluid within the pelvis.  Extensive vascular calcifications.
+     
+     BONE WINDOWS:  Degenerative changes without evidence of acute fractures.
+     
+     REFORMATTED IMAGES:  Grade I anterolisthesis of L4 on L5, with degeneratice
+     change at this level of the posterior elements. Loss of vertebral body height
+     of T11.
+     
+     IMPRESSION:  Very limited CT due to the lack of IV contrast (lack of IV
+                                                                 (Over)
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     access).  Multifocal areas of opacity and consolidation within the lungs,
+     which given the history could represent aspiration.
+     
+     Small bilateral pleural effusions.
+     
+     Grade I anterolisthesis of L4 on L5 . T11 loss of vertebral body height.
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man fell on head, LOC                                               
+     REASON FOR THIS EXAMINATION:
+      ? bleed ?lac                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SADk MON [**2827-6-29**] 8:17 PM
+      limited. no iv contrast. multifocal lung opacities ?aspiration. t11 loss of
+      ht, anterolithesis l4-l5
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Loss of consciousness, intracranial hemorrhage, fall.
+     
+     TECHNIQUE:  Axial images through the chest, abdomen and pelvis without IV
+     contrast.  This was done because IV access was not available at the time of
+     the CT scan.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  The endotracheal tube is slightly low,
+     abutting the left side of the trachea.  There are calcifications within the
+     aortic arch, ascending, and descending aorta, as well as coronary artery
+     calcifications.  Assessment of the aorta and pulmonary arteries is limited due
+     to lack of IV contrast.  The heart is enlarged.  There are small bilateral
+     pleural effusions.  There is no pericardial effusion.  Assessment of
+     lymphadenopathy is limited due to lack of IV contrast.  There are multifocal
+     areas of consolidation/collapse including the right upper, right lower, and
+     left lower lobes.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Again assessment of the vasculature
+     and traumatic organ injury is limited due to lack of IV contrast.  On this
+     unenhanced scan, the liver, gallbladder, spleen, pancreas, kidneys, adrenal
+     glands are unremarkable.  There is vascular calcification of the aorta.  The
+     feeding tube terminates within the stomach.  There is bilateral perinephric
+     stranding.  There is no definite free air or free fluid.  The large and small
+     bowel is unremarkable.  Trace amounts of free fluid cannot be excluded to lack
+     of IV contrast and patient motion.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  A Foley catheter is within the bladder.
+     The rectum and sigmoid colon are unremarkable.  There is a trace amount of
+     free fluid within the pelvis.  Extensive vascular calcifications.
+     
+     BONE WINDOWS:  Degenerative changes without evidence of acute fractures.
+     
+     REFORMATTED IMAGES:  Grade I anterolisthesis of L4 on L5, with degeneratice
+     change at this level of the posterior elements. Loss of vertebral body height
+     of T11.
+     
+     IMPRESSION:  Very limited CT due to the lack of IV contrast (lack of IV
+                                                                 (Over)
+
+     DATE: [**2827-6-29**] 7:02 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 8775**]
+     CT PELVIS W/O CONTRAST
+     Reason: ? bleed ?lac                                                
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     access).  Multifocal areas of opacity and consolidation within the lungs,
+     which given the history could represent aspiration.
+     
+     Small bilateral pleural effusions.
+     
+     Grade I anterolisthesis of L4 on L5 . T11 loss of vertebral body height.
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 7:13 PM
+     CT ORBIT, SELLA & IAC W/O CONTRAST                              Clip # [**Clip Number (Radiology) 8776**]
+     Reason: please do full craniofacila cuts                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with ICH s/p fall and liekly multiple skull/facial fractures    
+     REASON FOR THIS EXAMINATION:
+      please do full craniofacila cuts                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old male status post fall with concern for fracture.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the orbits, sella, and
+     internal auditory canals were obtained without IV contrast.  Soft tissue and
+     bone algorithms were obtained as well as coronal and sagittal reformatted
+     images.
+     
+     FINDINGS:  As previously described in the [**2827-6-29**] Head CT report
+     there is a comminuted right skull base fracture involving the right foramen
+     magnum and extending into the mastoid portion of the right temporal bone as
+     well as extending superiorly into the occipital bone.  This fracture involves
+     the right jugular foramen.  No other fractures are identified. The orbits and
+     internal auditory canals are intact.  There is fluid within all of the
+     paranasal sinuses, likely representing hemorrhage.  The patient is intubated.
+     Regional soft tissues are unremarkable.
+     
+     IMPRESSION:
+     1.  Right skull base fracture as described.  No other fractures identified.
+     2.  Fluid within the paranasal sinuses, likely representing hemorrhage.
+     
+     A wet read of the results of this study was posted to the ER dashboard at time
+     8:50 p.m. [**2827-6-29**].
+     
+     Note added at attending review: The right foramen magnum fracture definitely
+     does involve the right jugular foramen. There are possible fractures of the
+     clivus and sphenoid sinus.
+
+",,
+5173,,,,2929-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2827-6-29**] 6:46 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 8772**]
+     Reason: TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma.
+     
+     COMPARISON:  No previous studies.
+     
+     CHEST:  AP portable supine view.  The lung apices and superior mediastinum,
+     including the superior aspect of the aortic knob, are not included on the
+     image. Evaluation is further limited by the superimposed trauma board
+     structures. The endotracheal tube terminates approximately 3 cm above the
+     carina.  The nasogastric tube terminates in the proximal stomach. There is no
+     pleural effusion or evidence of a pneumothorax in supine position. An opacity
+     is noted in the right mid lung zone.
+     
+     PELVIS:  AP supine portable view.  Evaluation is limited by the superimposed
+     trauma board structures.  No fractures are identified.  Alignment appears
+     normal on the single projection provided.
+     
+     IMPRESSION:
+     1.  Lung apices and superior mediastinum not evaluated.
+     2.  Right mid lung zone opacity.
+     3.  No evidence of pelvic fracture on limited evaluation.
+                                                                           DFDkq
+
+",,

@@ -1,0 +1,1304 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5057,26144,,,2623-05-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2623-5-17**]              Discharge Date:   [**2623-6-3**]
+ 
+Date of Birth:  [**2555-6-2**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Erythromycin Base / Heparin Agents
+ 
+Attending:[**First Name3 (LF) 306**] 
+Chief Complaint:
+Tracheomalacia 
+ 
+Major Surgical or Invasive Procedure:
+[**2623-5-23**]: had rigid bronch, electrocautery and balloon dilatation 
+of trachea, and upsizing of her trach to a #7
+[**2623-6-2**]: rigid bronch, T-tube placement
+L-PICC placement 
+ 
+History of Present Illness:
+Txfer from [**Hospital3 **]  
+In 1/06, patient was difficult to extubate s/p CABG and required 
+a tracheostomy. She was subsequently sent to pulmonary rehab.  
+.  
+She was referred to Dr. [**Last Name (STitle) 1596**] in 6/2 who performed a rigid 
+bronchoscopy here followed by replacement of her tracheostomy 
+tube. She was found to have a circumferential area of stenosis 
+below the cricoid cartilage extending 6cm; it was not felt to be 
+granulation tissue. DEbridement was minimally successful. A CT 
+scan was done which showed that she had:  
+-Focal tracheal stenosis at the inferior extent of the 
+tracheostomy tube.  
+-There was also: proximal narrowing which may relate to 
+granulation tissue versus secretions.  
+-Polypoid soft tissue density just above the insertion of the 
+tracheostomy tube may relate to granulation tissue.  
+.  
+- she was discharged back to rehab  
+.  
+On [**2623-4-27**], she was then admitted to [**Hospital3 875**] with SOB 
+and desatted to the low 90s. She was given O2, suctioning and 
+nebulizers without significant improvement. Initially, she was 
+started on Levoquin and finished a 14 day course for suspected 
+bronchitis. Her respiratatory status improved and hence she did 
+not require ventilation.  
+.  
+She was found on HOD #2 to have Enterococcus bacteremia - via Cx 
+x 2 on [**4-27**] and Cx x 2 on [**4-28**]. (A TTE was negative for 
+vegetations. A TEE was not performed). As such, She was started 
+on Vancomycin with subsequent negative surveillance cultures.  
+.  
+[**5-1**]: ID was consulted. They added on Gent once her urine 
+culture came back positive for Klebsiella UTI. This particular 
+Klebsiella UTI was only sensitive to Gentamicin, Imipenem, Zosyn 
+and Cefotetan.  
+- Started on Imipenem on [**2623-5-17**] for this.  
+.  
+On [**5-12**], she was obtunded and had significant mucous secretions 
+and mucus plugging requiring suctioning; ENT changed her 
+cuffless trach from a #6 to a #4 and transitioned to a trach 
+collar after transient ventilation.  
+.  
+On [**5-12**], she has a IJ TLC placed in OR at [**Hospital1 **].  
+On [**5-15**], noticed to have ""mild stridor"" and mild tachypnea and 
+was replaced on a ventilator.  
+.  
+Of note:  
+- was found to be C Diff + and was started on flagyl  
+.  
+Today, she is transferred to [**Hospital1 83**] for further options regarding 
+placement of a new tracheostomy tube.  
+
+ 
+Past Medical History:
+1. CAD - s/p PTCA [**2619**], NSTEMI [**11-22**], s/p CABGx4 (LIMA->LAD, vein 
+grafts to OM and Distal Cflx, reverse saphenous to post 
+descending artery) [**11-22**]  
+- s/p sternal wound debridement [**2622-12-15**] (Proteus and Staph) -> 
+ID recommended 6 wks of Ceftriaxone and Vancomycin -> ? if 
+finished  
+- brief episode of Afib/aflutter -> Amiodarone -> 2nd degree 
+heart block -> converted back to sinus  
+- complicated by: Proteus Mirabilis sepsis  
+2. L Subdural hematoma ([**2-20**] - s/p fall)with R aneurysm; With R 
+homonymous hemianopsia  
+3. SIADH  
+4. diabetes mellitus II  
+5. Aortic valve replacement (bovine) [**11-22**]  
+6. Pituitary tumor  
+7. GERD  
+8. Urinary tract infection;  
+9. Sternal wound infection.  
+10. s/p tracheostomy for respiratory failure.  
+10. Tracheomalacia -> s/p laser removal of granulation tissue x 
+2 ([**3-21**])  
+11. C Diff colitis  
+12. Renal insufficiency (baseline Cr: ? - Last Cr was 1.5 at 
+[**Hospital3 875**])  
+13. s/p hysterectomy  
+
+ 
+Social History:
+She presently resides in Rehab facility on [**Hospital3 382**]. Son and  
+daughter involved w/ care. Does not drink ETOH. SMoked in past 
+but not at this time.  
+
+ 
+Family History:
+Significant for CAD in her mother at age of 62. [**2-19**] siblings 
+died from heart disease. 
+ 
+Physical Exam:
+T: 97.9 BP: 114/42 P: 63  
+REsp: CPAP + PS : [**8-21**] 20 x 425 @ FiO2 of 0.3  
+Gen: Obese female in NAD  
+HEENT: PERRLA EOMI. OP without upper dentition. Multiple 
+fillings in lower dentition.  
+Neck: Large with trach in place and attached to ventilator.  
+CV: +s1+s2 SEM [**1-20**] heard in multiple fields  
+Resp: Coarse sounds c/w ventilator. No crackles or wheezing 
+heard  
+Abd: Midline scar. Multiple ecchymoses and bruises from 
+injections. Soft NT ND.  
+Ext: 2+ pretibial edema. Patient with 2 healing ulcers on L leg 
+in region of scars from vein removal for CABG. No splinter 
+hemorrhages seen in finger nails.  
+Neuro: AAO x 3  
+
+ 
+Pertinent Results:
+REPORTS:
+.
+CHEST (PORTABLE AP)  [**2623-5-17**] 8:17 PM
+A tracheostomy tube terminates within the trachea just above the 
+level of the clavicles. Left internal jugular vascular catheter 
+terminates in the superior vena cava, and a nasogastric tube 
+courses below the diaphragm. Cardiac silhouette is enlarged. 
+There are patchy and linear areas of atelectasis at the lung 
+bases. There is a questionable small left pleural effusion.
+.
+TEE [**2623-5-19**]   
+Conclusions:  
+No spontaneous echo contrast or thrombus is seen in the body of 
+the left  
+atrium/left atrial appendage or the body of the right 
+atrium/right atrial  
+appendage. No atrial septal defect is seen by 2D or color 
+Doppler. Overall left ventricular systolic function is normal 
+(LVEF>55%). The ascending,  
+transverse and descending thoracic aorta are normal in diameter 
+and free of atherosclerotic plaque. A bioprosthetic aortic valve 
+prosthesis is present. The aortic prosthesis appears well 
+seated, with thin leaflets that display normal motion. There is 
+no aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Mild (1+) mitral 
+regurgitation is seen. There is no pericardial effusion.  
+IMPRESSION: Normal aortic bioprosthesis. Mild mitral 
+regurgitation with mildly thickened leaflets. No vegetation 
+seen.  
+.
+WRIST(3 + VIEWS) RIGHT PORT  [**2623-5-21**] 11:52 AM
+IMPRESSION:
+1. No definite evidence for fractures.
+2. Degenerative changes as described above.
+.
+CHEST PORT. LINE PLACEMENT  [**2623-5-22**] 8:57 AM
+IMPRESSION:
+1. Left-sided PICC with tip in SVC. Findings discussed with 
+[**Doctor First Name 5732**] of IV therapy at 10:30 a.m.
+2. Improving opacity in the left perihilar region could 
+represent improving aspiration or asymmetric edema. Stable 
+bibasilar atelectasis.
+.
+IMAGING:
+[**5-28**] KUB
+IMPRESSION:
+1) Distention of small bowel suggestive of functional colonic 
+abnormality causing small-bowel obstruction.
+2) Interval decrease in size of transverse colon now measuring 4 
+cm in widest diameter.
+.
+.
+
+ADMISSION LABS:
+.
+[**2623-5-17**] 10:02PM URINE  COLOR-Straw APPEAR-Cloudy SP [**Last Name (un) **]-1.012
+[**2623-5-17**] 10:02PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-MOD
+[**2623-5-17**] 10:02PM URINE  RBC->50 WBC->50 BACTERIA-MANY YEAST-MANY 
+EPI-0-2
+[**2623-5-17**] 08:24PM   GLUCOSE-137* UREA N-45* CREAT-1.5* SODIUM-145 
+POTASSIUM-3.9 CHLORIDE-111* TOTAL CO2-26 ANION GAP-12
+[**2623-5-17**] 08:24PM   CALCIUM-8.6 PHOSPHATE-2.8 MAGNESIUM-1.9
+[**2623-5-17**] 08:24PM   VANCO-10.7*
+[**2623-5-17**] 08:24PM   PHENYTOIN-6.7*
+[**2623-5-17**] 08:24PM   WBC-19.7*# RBC-3.33* HGB-9.7* HCT-29.2* 
+MCV-88 MCH-29.1 MCHC-33.1 RDW-17.9*
+[**2623-5-17**] 08:24PM   NEUTS-90.6* LYMPHS-5.8* MONOS-2.2 EOS-1.0 
+BASOS-0.2
+[**2623-5-17**] 08:24PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+ 
+MICROCYT-1+
+[**2623-5-17**] 08:24PM   PLT COUNT-186
+[**2623-5-17**] 08:24PM   PT-13.1 PTT-29.3 INR(PT)-1.1
+.
+DISCHARGE LABS:
+                       WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+[**2623-6-3**] 04:57AM    14.6* 3.79* 11.0* 33.1* 87 29.0 33.2 
+17.9* 264 
+                     Glucose UreaN Creat Na K Cl HCO3 AnGap 
+[**2623-6-3**] 04:57AM    126* 53* 1.6* 134 4.1 106 19* 13 
+.
+LFTs:
+ALT AST LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili 
+[**2623-5-27**] 05:00PM    15 14   20* 127* 21 0.2   
+[**2623-5-18**] 06:03AM    6 7 140   97   0.2 
+                     Lipase 
+[**2623-5-27**] 05:00PM    9 
+.
+                       Albumin Globuln Calcium Phos Mg 
+[**2623-5-31**] 10:13AM      1.6*   7.2* 3.6 2.2   
+.
+HEME:
+                   calTIBC Ferritn TRF 
+[**2623-5-25**] 05:54AM    74* 872* 57 
+.
+PITUITARY:
+                       Prolact TSH 
+[**2623-5-25**] 05:54AM    107*    2.1 
+                     Free T4 
+[**2623-5-25**] 05:54AM    0.6 
+                     Phenyto 
+[**2623-5-30**] 04:00AM    3.0 
+                     freeCa 
+[**2623-5-27**] 11:09AM    1.19 
+.
+.
+
+MICRO:
+.
+[**5-17**] blood cx: negative
+[**2623-5-25**] 5:30 pm BLOOD CULTURE      2 OF 2 NEGATIVE
+.
+[**2623-5-19**] 4:10 pm CATHETER TIP-IV      Source: LIJ triple lumen. 
+-NO GROWTH
+.
+.
+[**2623-5-17**] 9:57 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal. 
+
+                            **FINAL REPORT [**2623-5-23**]**
+
+   GRAM STAIN (Final [**2623-5-18**]): 
+      [**9-10**] PMNs and <10 epithelial cells/100X field. 
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   RESPIRATORY CULTURE (Final [**2623-5-23**]): 
+      OROPHARYNGEAL FLORA ABSENT. 
+      ACINETOBACTER BAUMANNII.    MODERATE GROWTH. 
+         ""Note, for Amp/sulbactam, higher-than-standard dosing 
+needs to be
+         used, since therapeutic efficacy relies on intrinsic 
+activity of
+         the sulbactam component"". 
+      KLEBSIELLA PNEUMONIAE.    SPARSE GROWTH. 
+         WARNING! This isolate is an extended-spectrum 
+beta-lactamase
+         (ESBL) producer and should be considered resistant to 
+all
+         penicillins, cephalosporins, and aztreonam. Consider 
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ACINETOBACTER BAUMANNII
+                             |          KLEBSIELLA PNEUMONIAE
+                             |          |   
+AMPICILLIN/SULBACTAM--  =>32 R     =>32 R
+CEFAZOLIN-------------             =>64 R
+CEFEPIME--------------    16 I          R
+CEFTAZIDIME-----------  =>64 R     =>64 R
+CEFTRIAXONE-----------                  R
+CEFUROXIME------------             =>64 R
+CIPROFLOXACIN---------   =>4 R      =>4 R
+GENTAMICIN------------   <=1 S        4 S
+IMIPENEM--------------  =>16 R      <=1 S
+LEVOFLOXACIN----------     4 I      =>8 R
+MEROPENEM-------------           <=0.25 S
+PIPERACILLIN/TAZO-----                8 S
+TOBRAMYCIN------------   <=1 S     =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+.
+[**5-18**] C.diff: positive
+.
+[**5-18**] urine cx: yeast
+.
+[**2623-5-22**] 12:17 am SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal. 
+
+                            **FINAL REPORT [**2623-5-24**]**
+
+   GRAM STAIN (Final [**2623-5-22**]): 
+      <10 PMNs and <10 epithelial cells/100X field. 
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    IN PAIRS AND CLUSTERS. 
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED. 
+
+   RESPIRATORY CULTURE (Final [**2623-5-24**]): 
+      SPARSE GROWTH OROPHARYNGEAL FLORA. 
+      ACINETOBACTER BAUMANNII.    MODERATE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+2112819L
+         [**2623-5-17**]. 
+      KLEBSIELLA PNEUMONIAE.    SPARSE GROWTH. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+2112819L
+         [**2623-5-17**]. 
+
+.
+[**2623-5-28**] URINE
+URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2623-5-30**]**
+
+   URINE CULTURE (Final [**2623-5-30**]): 
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         WARNING! This isolate is an extended-spectrum 
+beta-lactamase
+         (ESBL) producer and should be considered resistant to 
+all
+         penicillins, cephalosporins, and aztreonam. Consider 
+Infectious
+         Disease consultation for serious infections caused by
+         ESBL-producing species. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------       R
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------       R
+CEFUROXIME------------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   256 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ 
+Brief Hospital Course:
+67 yo female with history of tracheobronchomalacia transferred 
+from OSH for further management.
+MICU Course: Pt followed by IP, tracheomalacia c/w subglottic 
+granulation tissue and Mid trach stenosis. S/P rigid bronch + 
+excision, debridement, dilatation and trach change. She was 
+managed for Acinobacter/Klebsiella VAP, +C-diff and followed by 
+ID. TEE negative for vegetations. Pt back to MICU on [**5-27**] for 
+aggressive fluid resuscitation given C-Diff colitis and poor PO 
+intake with metabolic acidosis. Was given IVF w/bicarb, [**Doctor First Name 668**] 
+following but not surgical candidate given comorbidities, 
+started IVflagyl/PO vanco with slowly improving diarrhea. On 
+[**5-27**] went into RAF, s/p CV now in NSR remains stable. 
+Transferred to floor [**5-30**].
+.  
+# Respiratory:  
+**Tracheomalacia: This was noted on previous admission to [**Hospital1 83**]. 
+ 
+- s/p laser removal of tissue x 2 in the past
+- on [**5-21**]: was switched from vent to trach mask and tolerated 
+this well  
+- on [**5-23**]: had rigid [**Last Name (un) 5733**], electrocautery and balloon dilatation 
+of trachea and upsizing of her trach to a #7 -> Will need a 
+special long trach which was ordered and will be available on 
+[**6-2**]. Per IP underwent a trach change with T-tube placement on 
+[**6-2**] without complications. Her trach was capped with stable 
+O2sats and voice audible. Per IP her trach is to be capped 
+during the day and with humidified O2 at night for her OSA. If 
+pt needs oxygenation she can be oxygenated with nasal cannula O2 
+with capped trach.
+.   
+**Acinobacter/Klebsiella VAP: Started Bactrim on [**5-21**], completed 
+14 day course on [**6-3**]
+-- Continue mucinex PRN mucus buildup   
+-- D/Cd atrovent, albuterol standing nebs  
+-- pt was on solumedrol 60 IV BID prior to admission (unclear 
+reason why, ? COPD flare), and pt was started on taper on [**2623-5-18**] 
+and completed taper without any difficulties
+.  
+# ID:  Pt had hx of enteroccus bacteremia, which was believed to 
+be treated adequately with 23 day course of vanc at OSH.  She 
+had a TEE here, which was negative for vegetation, per ID 
+recommendations the vanc was d/c'd. Surveillance cx's were NGTD. 
+ Pt grew acinetobacter from her sputum, and was started on 
+bactrim on [**5-21**] for 14 day course for Vent Associated PNA.  Pt 
+also had hx of klebsiella UTI, and had been treated with 
+imipenem at OSH. Per ID recommendations, pt was likely colonized 
+from frequent foley catheterizations, and imipenem was d/c'd. Pt 
+had dirty UA on admission here, but urine cx only grew yeast.  
+Attempted to contact [**Hospital1 2716**] to obtain records of antimicrobial 
+succeptibilities of sternal infections and bacteremias in past. 
+Sternal wound infection was Staph and Proteus per surgical 
+summary. However, they did not send the micro data, so will need 
+to call the micro lab at some point in the future for further 
+information.  Pt had hx of C.dif, and was continued on flagyl 
+for additional 14 day course. Pt had low grade temps during her 
+MICU stay (with a Tmax of 100.5), but did not have a significant 
+temp spike. She then had explosive diarrhea with +C-diff in 
+stools. She had persistent diarrhea, resistent to PO flagyl 
+treatment, she was started on PO Vanco as well as IV flagyl on 
+[**5-26**] for C-diff colitis. ID again reconsulted for persistent 
+diarrhea and elevated WBC. Her diarrhea improved with PO Vanco 
+and IVflagyl, her WBC peaked at 29 and came down to 14.4 at time 
+of discharge. She was also started on Meropenem on [**5-27**] for 
+Klebsiella UTI. Per ID she was to continue PO Vanco/flagyl until 
+all other Antibiotics d/c'd and diarrhea improved. She remained 
+afebrile with improving WBC and no new culture data. She will 
+complete a recommended 10day course of meropenem on [**2623-6-5**]. She 
+remained afebrile with improving WBC and no new culture data at 
+time of discharge.
+.
+#. C-DIFF Colitis: pt with explosive diarrhea treated for C-diff 
+as noted above. She was followed closely by surgery, however 
+given her other comorbidities she was not a surgical candidate. 
+She was followed with daily KUBs, her last KUB notable for 
+improvement in loops of bowel size. However, notable for small 
+bowel obstruction on [**2623-5-28**]. Pt was kept on a clear liquid diet 
+with plan to advance when improved colities. Her stool output 
+improved at time of discharge. Continued c-diff precuations.
+.  
+# Neuro:  
+Seizure Prophylaxis  
+- on phenytoin (likely since she had subdural sustained in 4/06) 
+ 
+- continued phenytoin during this admission, increased dose 
+given low albumin and subtherapeutic with corrected dose. 
+Changed dose from 200mgqAM to 300mg qAM and increased 300mg qPM 
+to 400mgqPM. She did not have any siezure activity while 
+hospitalized.
+- CT from OSH revealed mass in supracisternal region on R and 
+patient notes that she has had changes in vision in her R eye - 
+specificially she notes seeing random objects since her fall. Pt 
+had R homonymous hemianopsia and was to follow up with 
+neuroopthamology.  
+- [**5-22**]: contacted Dr. [**First Name4 (NamePattern1) 5734**] [**Last Name (NamePattern1) 5735**] (Endocrine at [**Hospital1 253**]) regarding 
+her pituitary tumor.  restarted her on carbergoline for her 
+prolactinoma. Per Dr. [**Last Name (STitle) 5735**] should reckeck prolactin levels in 
+6 weeks since prolactin levels elevated during this admission. 
+Plan to continue Cabergoline at current dose 0.5mg 2x/week. If 
+her Prolactin levels are persistently elevated may increase dose 
+0.75mg 2x/week.
+- pituitary tumor is a prolactinoma and measures approx 5cm x 
+2.5cm x 3cm  
+.  
+# Renal:  
+- Cr 1.5 on admission; this is similar to level when she left 
+[**Hospital1 **]  
+- Renally dose medications -> increaed Cr on [**5-24**] with peak to 
+2.4 due to poor PO intake and explosive diarrhea. Renal followed 
+pt, found no muddy brown casts, ARF c/w prerenal etiology also 
+ATN in setting of poor forward flow. She was agressively 
+hydrated in the MICU with addition of 50mEq NaHCO3. Her ARF 
+improved with Cr. decreased to 1.6 at time of discharge. Her IVF 
+were discontinued on [**6-2**] as she was significantly volume 
+overloaded and making urine, although poorly ~700cc per day.
+.
+#. Metabolic Acidosis: Pt with explosive diarrhea with low 
+bicarb. She was started on 50mEQ NaHCO3w/1000ml 1/2NS to manage 
+metabolic acidosis. Her HCO3 improved, her hypernatremia 
+corrected. However, she also developed hyponatremia with IVF 
+resuscitation. Her IVF were d/c'd on [**6-2**], her HCO3 at time of 
+discharge was 19.
+.  
+# Cardio:  Pt s/p CABG in the past, she also went into AFlutter 
+for which she was cardioverted on [**5-27**]. She remained in NSR. She 
+did not tolerate a BB throughout her hospital course due to 
+hypotension. she was continued on an ASA and statin. No other 
+antihypertensive medication was added to her medical regimen. 
+Her SBP was stable at time of discharge SBP 115. d/c'd HCTZ 
+during this admission, due to borderline low BP and likely need 
+for BB in the future
+.  
+# DM2:  Her BS was persistently elevated while she was on 
+steroids. She was maintained on an ISS which was titrated for 
+better BS control. Check FS QID  
+.  
+# GERD: continued PPI  
+.  
+# PPX:  PPI, fondaparinaux for DVT PPX (pt has hx of HIT). 
+However fondaparinaux was held prior to IP procedure, but was 
+restarted s/p procedure.  head of bed at 30 degress  
+.  
+# FEN:  Pt grossly volume overloaded. Allow pt to autodierese 
+and holding further IVF. Currenlty receiving TPN since poor PO 
+intake; clear liquid diet until colitis improved. Note on [**5-22**]: 
+had FEES study by speech/swallow team -> OK to have nectar thick 
+liquids and ground solids, however changed diet to clear liq due 
+to colitis. Will need a new nutrition evaluation at [**Hospital1 910**] to advance diet.  
+.  
+# Access: L subclavian - placed in OR on [**5-12**] at [**Hospital3 875**] 
+ 
+- removed on [**5-19**] with no growth on culture data  
+- switched PICC on [**5-22**] because patient has HIT. Hence switched 
+to [**Last Name (un) 5736**] PICC which does not require heparin.  
+.  
+# Code status: DNR/DNI. Evolving discussions with HCP [**First Name8 (NamePattern2) 5737**] 
+[**Known patient lastname 5738**] cell [**Telephone/Fax (1) 5739**]
+home [**Telephone/Fax (1) 5740**]
+ 
+Medications on Admission:
+# Flagyl 250mg PO QID  
+# Pantoprazole 40 mg IV daily  
+# Clonzepam: 0.5mg BID  
+# Albuterol Sulfate (1) neb Q6H:PRN  
+# Ipratropium Bromide (1) neb Q6H: PRN  
+# MVI daily  
+# Fondaparinux 2.5mg SC daily  
+# solumedrol 60mg IV BID  
+# Guaifenasin 600mg NG QID  
+# Ranitidine 150mg PO BID  
+# Phenytoin Sodium : 200mg qAM, 300mg qPM  
+# ativan: 0.5mg -1mg Q6 PRN  
+# Hydrochlorothiazide 75 mg DAILY  
+# Fe SO4 325mg PO DAILY (Daily).  
+# colace 100mg QAM and BID:PRN  
+# Tylenol PRN  
+# Insulin SS  
+# Acetylcysteine: 200mg Q4:PRN  
+# Vancomycin: 1g IV Q48  
+# Nystatin powder to groin  
+# Epoetin Alfa 10000 units QMOWEFR (Monday -Wednesday-Friday).  
+# Imipenem: 250mg Q6hr  
+# Was on carbergoline 0.5mg QTue, QFri  
+
+ 
+Discharge Medications:
+1. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+2. Acetaminophen 160 mg/5 mL Solution Sig: One (1)  PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+3. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One 
+(1)  PO DAILY (Daily).  
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID 
+(3 times a day) as needed.  
+5. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection 
+QMOWEFR (Monday -Wednesday-Friday).  
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Phenol-Phenolate Sodium 1.4 % Mouthwash Sig: One (1) Spray 
+Mucous membrane  Q6H (every 6 hours) as needed.  
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: 2-6 Puffs 
+Inhalation Q4-6H (every 4 to 6 hours) as needed.  
+9. Cabergoline 0.5 mg Tablet Sig: One (1) Tablet PO QTues, 
+QFriday ().  
+10. Fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)  
+Subcutaneous DAILY (Daily).  
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+12. Vancomycin 250 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours).  
+13. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED).  
+14. Phenytoin Sodium Extended 100 mg Capsule Sig: Four (4) 
+Capsule PO QPM (once a day (in the evening)).  
+15. Phenytoin Sodium Extended 100 mg Capsule Sig: Three (3) 
+Capsule PO QAM (once a day (in the morning)).  
+16. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).  
+17. Lidocaine HCl 0.5 % Solution Sig: One (1) ML Injection Q1H 
+(every hour) as needed for cough.  
+18. Lidocaine HCl 1 % Solution Sig: One (1) ML Injection Q1-2H 
+() as needed.  
+19. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN 
+Peripheral IV - Inspect site every shift 
+20. Lorazepam 0.5-1 mg IV Q6H:PRN 
+21. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln 
+Intravenous  Q12H (every 12 hours): will complete 10 day course 
+on [**6-5**].  
+22. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN 
+Peripheral IV - Inspect site every shift 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital1 **] 
+ 
+Discharge Diagnosis:
+Primary:
+Tracheomalacia and Stenosis
+MDR Klebsiella UTI
+C. Difficile Colitis
+Toxic Megacolon
+High output diarrhea
+Acute Tubular Necrosis secondary to hypovolemia
+Acinetobacter/Klebsiella VAP
+Enterococcal/Klebsiella Bactermia (prior to admission)
+Anasarca
+Malnutrition-severe
+AF w/RVR s/p Cardioversion
+.
+Secondary:
+Coronary Artery Disease s/p CABG x 4 [**11-22**]
+Bioprosthetic Aortic Valve Replacement [**11-22**] 
+Sternal Wound Infection 
+Perioperative Paroxsmal Atrial Fibrillation
+Left Subdural Hematoma s/p Fall - R Homonymous Hemianopsia
+SIADH
+Diabetes Mellitus Type II
+Pituitary Tumor - Prolactinoma, on seizure prophylaxis
+Morbid Obesity
+Chronic Kidney Disease Cr~1.5
+Heparin Induced Thrombocytopenia (HIT)
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please take all your medications as directed.
+.
+Always cap trach during the day and humidified oxygen at night 
+for OSA, please see instruction for Trach care noted below to 
+prevent mucous plugging
+.
+Site: Anterior LLE 
+Type: Leg ulcer
+Cleansing [**Doctor Last Name 614**]: Saline
+Change dressing: bid
+Comment: Aquacel dressing 
+.
+Continue Pressure relief measures
+-[**Doctor First Name **] Air bed-low air loss bed
+-Turn and reposition every 1-2hours off back
+-Heels off bed surface at all times
+.
+Cleanse trach site with NS, pat dry
+--Apply No Sting barrier wipe to irritated skin, air dry
+--apply allevyn foam trach sponges around trach, change every 
+2-3days prn
+.
+T-tube care:
+-Keep cap at all times, use nasal canula for oxygenation
+-Apply 204ml of NS q12hours to prevent mucous plugging
+-If need to uncap use humidified O2 at all times
+ 
+Followup Instructions:
+Follow up with Dr. [**First Name (STitle) **] [**Name (STitle) 1596**] in 4 weeks at Bronch Unit at 
+[**Hospital1 83**], please call if [**Doctor First Name **] have further questions at ([**Telephone/Fax (1) 5741**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 322**] MD [**MD Number 323**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5742**] MD [**MD Number 5743**] [**2623-6-3**] @ 1255
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2623-6-3**] 8:00 PM
+(End of Report)
+
+
+",,
+5057,26144,6271,0,2623-05-18 01:27:00 EST,2623-05-18 02:29:00 EST,2049,"N",1,"Nursing/Other","CCU NURSING ADMIT NOTE 1930-0700","
+CCU NURSING ADMIT NOTE 1930-0700
+Please see ICU Adm History/FHP for details of [**Last Name (LF) 8163**], [**First Name3 (LF) **], complicated course for this pleasant 67yo. female transferred from [**Hospital3 1290**] on [**2623-5-17**] at 1930 with tracheomalacia. Transferred to [**Hospital1 2**] MICU green service for further options regarding placement of a new tracheostomy tube planned for [**2623-5-19**]. Pt. arrived via ambulance A/A/O, VSS, ventilated on transfer via trach. 
+Please see carevue for VS and objective data
+Neuro: Pt. fully A/A/O X3, able to mouth words easily. Pleasant, cooperative and appreciative of care. MAE, hand grasps strong and equal. PERRLA. Following commands, assisting with care as able. Requested medication for relaxation and [**Doctor Last Name 65**]. Had received prn Ativan at OSH. Received 1.0mg IV Ativan with good effect for [**Doctor Last Name 65**]. Easily arousable and remains A/A/OX3. Seizure prophylaxis since left subdural hematoma s/p fall in 4/06 at rehab. On Dilantin,Level 6.7 on admission. Micu team aware, repeat in am on standing doses in am and pm. Reportedly, Pt. had additional 500mg IV Dilantinx1 at [**Hospital1 130**] on [**5-17**]. 
+CVS; Hemodynamically stable with HR 60's NSR, no vea noted. Lytes wnl. BP ranges via non-invasive cuff 90's-114/30-40's.
+Resp; Trached with #4 Shiley. Trach care given. Site clean and dry with minimal yellow secrections. Mechanical ventilation with CPAP+PS 10/5peep. Fio2 at 30%. Sats 97-100%. No abg at this time per MICU team. Spont. RR 16-22. TV 400's, down to mid 300's when requiring suctioning. Suctioned q 2-3 hours for small to mod. amount of thick, yellow secretions. Sputum sent for culture and gram stain. Lungs clear with scattered rhonchi when requiring suctioning. Pt. on IV Solumedrol 60mg IV BID from OSH, continued as per orders. HOB 30-45 degrees.
+ID; Pt. with known Enterococcus Bacteremia on IV Vanco because of PCN allergy. Random Vanco level 10.7. MICU team aware. Ordered for IV Vanco 1gm q 48hour to start in am. BC x2 sent, 1 peripheral, 1 from TLC. Known Klebsiella UTI, repeat urine sent for culture, UA. On IV Impipenem-Cilastatin 250mg Q6HR. Known Cdiff on po Flagyl,on precautions. WBC 19.7 (on steriods). 
+Renal; BUN/CREAT 45/1.5 
+Endo; Type II DM. Serum glucose 137, fingerstick 118
+GI:GU: NPO at present, was on TF at OSH, awaiting nutrition consult in am for recommendations of feedings. NGT via left nare in good placement with auscultation, bilious secretions. Confirmed by CXR per MICU team. Abdomen obese with active bowel sounds. PPI. One loose, brown, seedy stool, guaiac neg. +cdiff. Foley to drainage 3way from OSH. Yellow urine with sediment noted. u/o 70-100cc/hour. 
+Skin: Sternum and midline scar clean, dry and healed. Left lower leg with 2 areas of open wounds s/p vein removal for CABG. One site .5cmx.5cm, the other 3cmx1cm. Sites pink without drainage or odor noted. Wet-dry NS dressing done this shift. Coccyx reddened without breakdown noted. Turned q2-3 hours. Skin and oral care provided. Pneumoboots on. 
+Access; Left IJ TLC placed in OR at [**First Name5 (NamePattern1) 130**] [**Last Name (NamePattern1) **] on [**2623-5-12**]. Site clean and dry. DSG. changed
+A; 67yo 
+",,
+5057,26144,6271,0,2623-05-18 01:28:00 EST,2623-05-18 02:29:00 EST,2049,"N",1,"Nursing/Other","CCU NURSING ADMIT NOTE 1930-0700","
+CCU NURSING ADMIT NOTE 1930-0700
+(Continued)
+female with long, complicated course since CABG/AVR [**11-22**], transferred to [**Hospital1 2**] [**2623-5-17**] with tracheomalacia for planned replacement of tracheostomy tube [**2623-5-19**]. 
+P: Cont to monitor resp. status, hemodynamics. Awaiting date/orders for trach. replacement. Follow up with labs and cultures sent. Cont. antibxs and meds as ordered. Comfort and emotional support to Pt. and family. #6 Portex trach (spare) at bedside. Per Resp. dept. that is equivalent to #4 Shiley which [**Hospital1 2**] does not carry. 
+ 
+
+
+
+",,
+5057,26144,6271,0,2623-05-18 05:32:00 EST,2623-05-18 05:40:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient transferred from OSH for further management of tracheomalacia. Pt. trached(4.0 shiley cuffed trach). Cuff pressure 25cm H20. Bs clear bilaterally. Pt. on mechanical support at OSH. Vent settings Psv 10, Peep 5, Fio2 30%. Spont vols 400's with RR mid teens to low 20's. Sx'd for small to moderate amounts of thick white secretions. O2 sats 100%. RSBI 60. No further changes made. 
+Plan: Continue with mechanical support. 
+",,
+5057,26144,6271,0,2623-05-18 15:35:00 EST,2623-05-18 16:29:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Will they do anything today?
+
+O:  Resp - Despite trach, Pt able to mouth words and be understood.  Vent cont 30%, cpap/ps 10/5 with sats 97-100%.  LS are coarse with some exp wheeze on l, which clear with sx and inhalers.  Pt requires trach sx q2-3hrs for which she produces thick clear/whitish sputum.  When trach is in poor position, (i.e when pt turns head), pt's voice is able to be heard over cuff. Resp and MD's aware. Cough is strong.  Pt will use yankaur for oral secretions.  Oral care q4hrs and HOB up 30' with the exception of during turning and positioning. 
+
+ID - t max 99.8 po.  Cont on flagyl 250mg pngt qid, Vancomycin 1000mg q48hrs and Imipenem dose changed to 500mg q8hrs.   Methylprednisolone changed to 60mg q24hrs.  ID consult obtained and will follow. 
+
+CV - HR 1'avb 60-70's with rare single pvc's.  BP 100-120/50-60.  
+
+GU - Foley cath draining cloudy yellow urine 100-130cc/hr.   Pt c/o pain around catheter d/t UTI.  
+
+GI - ngt in good position and is used for medication only.  Nutrition cx requested.  Abd is obese with +bs.  Pt passed lg ob - stool on bedpan.  Had been tolerating ice chips only, but as we are sx clear secretions and had possible cuff leak, it was requested that she not take ice. RISS coverage per order.   
+
+Skin - Abd folds are reddened and peri folds with possible yeast.  Areas cleansed with soap and water followed by antifungal ointment.  Pt has two open surgical areas on l leg which have w>d dsgs in place, which were changed.  Upper area had scant amt serous drainage, and lower small amt.  Areas are clean.   Maintained on BR, although pt had been walking at rehab with walker.  Turned at positioned q2-3hrs.  Pt able to help with positioning, despite obesity.  PT consult requested.
+
+Access - LIJ placed [**5-12**] at osh. 
+
+Social - 3 children vss this am.  Have spoken with MD's and are aware of POC.
+
+A:  67yof awaiting bronch and trachial revision
+
+P:  Maintain NPO for possible proceedure [**5-19**], possible PICC, cont aggressive pulmonary toileting, cont abx per ID, nutrition cx for tf (ordered [**5-18**]),  PT consult for OOB (ordered [**5-18**]) cont support and inform pt and family per multidisiciplinary rounds.
+",,
+5057,26144,6271,0,2623-05-18 16:20:00 EST,2623-05-18 16:25:00 EST,7974,"N",1,"Nursing/Other",,"
+
+Respiratory care: Pt recieved on PSV as recorded on care view. Vt between 400-450, RR 15-20. Pt's breath sounds clear/diminished at bases. Pt suctioned for small amounts of white thick secretions, pt required to be suctioned frequently. MDI's given as ordered. will continue to follow.
+",,
+5057,26144,6271,0,2623-05-19 01:34:00 EST,2623-05-19 02:11:00 EST,2049,"N",1,"Nursing/Other","ccu npn 1900-0700","
+ccu npn 1900-0700
+S: Trached- mouthing words easily for communication 
+O: Please see carevue for VS and objective data
+Neuro: Pt. A/A/0X3, able to mouth word, communicating easily with staff. Very pleasant and cooperative, appreciative of care. Following all commands, MAE, assisting with care as able. 
+CVS: Hemodynamically stable with HR 60's NSR/1st degree AV Block. Rare PVC, APC. BP ranges via non-invasive cuff 110-130/40-50.
+Resp; Trached with #4 Shiley, mechanically ventilated on CPAP/PS 10/5, fIO2 30% with sats 97-100%. Spont. RR 16-22, TV 400's. TV  drop to mid 300's when Pt. needing to be suctioned. Suctioned q 2-3 hours for thick, white secretions. Lungs clear, coarse rhonchi audible when needing to be suctioned. Trach care given, site intact with minimal yellow secretions. 
+GI:GU: Remains NPO for possible OR procedure in am for trach. NGT in good placement with auscultation. Abdomen obese with active bowel sounds, Foley changed this shift per ID recommendation for known UTI. Changed to 22Fr. 5cc balloon (3way allows for larger Fr. size catheter). Urine remains yellow with large sediment. New U/A, C/S sent from new foley. U/O 50-150cc/hour. 
+Endo; blood sugar ranges 120-130. Has SS Humalog scale
+ID: Vanco changed to 1gr. q 12hours. Trough level to be sent in am. Imipenem dc'd, conts on po Flagyl. 
+Access: Awaiting IV evaluation for PICC, to facilitate removal of LSC TLC. 
+Skin: Left lower leg with two incisional areas open since CABG in 1/06, wet to dry dressing change this shift. See carevue. Turned q 2-3 hours, skin/oral mouth care provided. 
+A: tracheomalacia, awaiting intervention of trach, ? in am. 
+P: Cont to monitor resp. status closely. NPO for possible intervention of trach on [**5-19**]. Needs nutritional consult for TF. Follow up with am labs, cultures pnd. Cont antibxs as ordered. Follow up with IV Team regarding PICC evaluation. Remove TLC when possible. Comfort and emotional support to Pt. and family. 
+
+",,
+5057,26144,6271,0,2623-05-19 05:32:00 EST,2623-05-19 05:39:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient trached with 4.0 shiley. Cuff pressure 25cm H2O. Vent settings unchanged. Psv 10, Peep 5, Fio2 30%. Spont vols 400's, RR 16-low 20's. Bs clear bilaterally. Albuterol MDI given Q4hr, Atrovent MDI given Qid. Sx'd for sm amounts of thick white secretions. RSBI 66.7. No further changes made. ? Rigid Bronch today. 
+Plan: Continue with mechanical support. 
+",,
+5057,26144,6271,0,2623-05-19 15:12:00 EST,2623-05-19 15:15:00 EST,2477,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+   Patient continues on PSV 10/5, 30%. She appears comfortable. Suctioned for small amount of pale secretions via # 4 Shiley cuffed trach with non-disposable inner cannula. BS with good aeration bilat. She is s/p TEE and PIC placement this afternoon. She is scheduled for OR Wednesday for tracheal stenosis. Plan to maintain supportive care and monitoring.
+",,
+5057,26144,6271,0,2623-05-19 16:18:00 EST,2623-05-19 16:42:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: "" When will I have the procedure.""
+
+O: Please see flow sheet for objective data. Tele remains in 1 degree 
+AV block. BP stable. NPO for TEE. TEE done without problem. No evidence of vegatation on aortic valve. Lopressor & lipitor restarted. L IJ triple lumen dc'd and PICC placed via L ante. Pt has HIT so line flushed with NS.
+
+Resp: Pt remains ventilated via # 4 shilley cuffed trach. Conts to tolerate PS/CPAP 10/5 RR 18-28. TV 300's. Suctioned for thick white sputum. Lungs clear diminshed in L base. O2 sats > 96%.
+
+Neuro: Pt is alert and oriented x's 3. Able to communicate her needs by speaking. Able to MAE. OOB to chair x's 1.5hrs with PT. Able to weight bear with 2 assist.
+
+GU/GI: Pt NPO for TEE. TF started this pm. Probalance at 25/hr to GR of 65. Tolerated thus far. Abd is obese with bowel sounds present. No BM today. Foley draining clear amber urine. Creat 1.5.
+
+ID: TM 99. WBC 15,000. Bld cultures pending. Vanco dose changed back to Q48hrs. Triple lumen tip sent for culture. Remains on Flagyl for C Dif.
+
+Social: Son and daughter in to visit. Both aware of TEE results and plan for OR on Wed.
+
+Endo: Conts on RISS. Steriods being tappered.
+
+A&P:67 yo women s/p CABG and AVR in 1/06 with HIT, tracheomalatia and entercococial bacteremia. Transferred for rigid bronch. Hemodynamically stable. TEE negative for vegatation. Cont to monitor cultures. Advance tube feedings as tolerated. For rigid bronch on Wed.
+",,
+5057,26144,6271,0,2623-05-20 05:32:00 EST,2623-05-20 05:50:00 EST,1865,"N",1,"Nursing/Other",,"
+
+67 YR. OLD WOMAN S/P CABG & AVR [**11-22**], C/B LENGTHY STAY IN REHAB WITH TRACHEOMYLASIA & ENTEROCOCCAL BACTEREMIA. NOW, TRANSFERRED TO [**Hospital1 2**] FOR RIGID BRONCH(PREVIOUSLY DONE [**4-22**]) TO BE DONE [**5-21**]. TEE (-) FOR VEGETATION.
+
+NEURO: A&O X3. PLEASANT & COOPERATIVE.
+
+RESP: TRACH'D & ON VENT: 30%/IPS 10/PEEP 5. O2 SATS 98-100%. RR 17-24.
+SX FREQUENTLY FOR MOD. AMTS. THICK WHITE-YELLOW SPUTUM. BS CLEAR BUT DIMINISHED AT BASES.
+
+CARDIAC: HR 64-71 FIRST DEGREE AVB, NO ECTOPY. BP 91-127/26-54. 2000 DOSE METOPROLOL HELD FOR SBP 92. 2330->BP 88/24 MAP 48. (-)2L. DECISION MADE TO GIVE 500CC NS BOLUS X1. HCT 27.2
+
+GI: TF: FS PROBALANCE INFUSING AT 45CC/HR WITH MINIMAL RESIDUAL. GOAL RATE IS 65CC/HR. TO BE ADVANCED 10CC Q6HRS IF RESIDUAL <100CC. ABD OBESE. +BS. MED. LIQUID BROWN STOOL X2, G(-).
+
+GU: FOLEY->CD PATENT & DRAINING YELLOW URINE WITH SEDIMENT. U/O 65-95
+CC/HR.
+
+ID: T 99.1->99.8(PO). CONT. ON PO FLAGGYL FOR CDIFF.
+
+ENDO: BS 135->128. NO INSULIN COVERAGE PER SLIDING SCALE.
+
+AM LABS: WBC 13.9(15.0), HCT 27.4, PLAT 204, PT 14.8, PTT 29.6, INR 1.3, K 3.5, BUN/CREAT 40/1.4, CA 8.3, MG 1.8, PO4 2.9.
+
+DAUGHTER WILL CALL TODAY RE: TIME FOR OR [**5-21**].  
+",,
+5057,26144,6271,0,2623-05-20 16:21:00 EST,2623-05-20 16:45:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+O: Please see flow sheet for objective data. Tele 50's -70's first degree AVB. Lopressor dc'd d/t hypotension overnight. K and Mg repleted.
+
+Resp: Conts on CPAP/PS 10/5 via # 4 trach. Suctioned for moderate amts of thick white sputum. Lungs diminshed in bases. O2 sats > 96%. For rigid bronch in am.
+
+Neuro: Pt is alert and oriented x's 3. Able to communicate well. OOB to chair with 2 assist with fair ability to weight bear.
+
+GU/GI: TF of Probalance conts at 45/hr. NPO after MN tonight. Abd is soft with bowel sounds present. 1 sm soft BM this am.  Foley draining dark yellow urine. Creat 1.4.
+
+Endo: Conts on RISSC. BS higher today. Conts on steroid taper.
+
+Social: Daughter called this am. Will call in am regarding possible OR time.
+
+A&P: NPO after mn for rigid bronch and possible trach change. Cont with POC.
+",,
+5057,26144,6271,0,2623-05-20 17:32:00 EST,2623-05-20 17:34:00 EST,5250,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains trached w/ #4 cuffed Shiley on PSV.   Remains on +10PSV/+5PEEP, maintaining Ve ~8-10L.  No vent changes made this shift.  SpO2 remained 90s. MDIs given as ordered.  See resp flowsheet for specifics.
+
+Plan: maintain support; to OR for rigid bronch in AM
+",,
+5057,26144,6271,0,2623-05-21 01:49:00 EST,2623-05-21 02:12:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note (MICU service) 1900-0700","
+CCU Nursing Progress Note (MICU service) 1900-0700
+S:  Mouthing words--c/o pain in right hand, relief with hot pack
+
+O:  see CCU flow sheet for complete objective data
+
+Resp:  remains on vent 30% 10PS/5PEEP, RR 18-21, MV ~7-8L,  PP 15.  Suctioned ~ q 1 hour for thick off white sputum.  O2 sats 98-100%.  Lungs clear, slightly diminished in bases, MDI by RT.  Trache care done.
+
+CV:  HR 60-73, NSR with prolonged PR 0.23.  BP 102-114/42-58
+
+GI:  positive BS, dark brown OB - liquid stool X2.  TF off at midnight pre-op.  BS 157, given 1 U humalog ([**11-18**] usual dose d/t NPO).  
+
+GU:  foley draining 110-140 cc amber colored urine q 2 hours.  BUN, Cr PND
+
+Neuro:  alert, cooperative with requests, able to indicate needs by mouthing words.  Slept in short naps.
+
+Skin:  Left lower leg dressing intact, without drainage.  Upper leg incision healed and left open to air.  Buttocks slightly reddened d/t stool.  Aloe-vesta anti-fungal applied.  c/o pain in right hand, team aware.  Right hand slightly warm and puffy compared to left hand. NBP decreased to q 2 hours as MICU team's note indicate that puffiness/pain might  be related to BP cuff--unable to change placement of NBP cuff as left arm has PICC.  Pain relieved with hot packs.  Turning q 2-3 hours through night.
+
+ID:  T max 98.8 po, remains on flagyl q 8 hours.
+
+Access:  PICC site clean.
+
+Social:  son [**Name (NI) **] called and updated on POC.
+
+A: stable awaiting rigid bronchoscopy, balloon dilatation and tracheostomy change in am (? time), requiring frequent suctioning.  Continues with liquid stool secondary to C.diff.  ? source of pain in hand.
+
+P:  OR this am.  Continue skin care as above.  Change leg incision dressing qd as [**Name6 (MD) 17**] wound RN's recommendation.  Keep NPO pre-op
+",,
+5057,26144,6271,0,2623-05-21 04:51:00 EST,2623-05-21 04:56:00 EST,1942,"N",1,"Nursing/Other",,"
+
+Resp Care
+Reamins trached and ventilated on cpap5/psv10/30%. Breath sounds mostly clear, at times with some scattered exp wheezes. Pt. appeared quite anxious overnight,often with resp rate up into 30s. Given albuterol/atrovent inhalers q6. Currently appears comfortable,nard. Awaiting proceedure later this morning.
+",,
+5057,26144,6271,0,2623-05-21 14:39:00 EST,2623-05-21 14:48:00 EST,5250,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains trached w/ #4.0 cuffed Shiley trach on minimal vent settings. Received this shift on +[**8-21**], currently on +0/+0 per team to assess readiness for trach mask trials.  While sitting up the chair, pt became decannulated...SpO2 never dropped, trach was reinserted by this RT, +ETCO2, +BLBS, SpO2 100%, Vt/RR stable.  Pt also assessed by anesthesia after trach re-insertion. Cuff pressure = 15. BS coarse, suctioned fequently for moderate amounts of thick white sputum.  IP procedure deferred until Friday. Pt aware.  See resp flowsheet for specifics.  
+
+Plan: maintain support; wean to trach mask; pulmonary toilet
+",,
+5057,26144,6271,0,2623-05-21 15:40:00 EST,2623-05-21 16:05:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900 MICU Team pt","
+CCU NPN 0700-1900 MICU Team pt
+S: Pt has trach, pt mouthing words appropriately.
+
+O: Please see careview for VS and additional data.
+
+Resp: Received pt on CPAP PS 10/5 30% TV's 400's, RR 18-27 O2 sats 95-100%. Pt tol SBT 0/0 this afternoon-> pt switched to trach mask 40%, pt tol thus far, RR 20's O2 sats 100%. Pt sxn'd 1-3 hours by RT/RN for thick white sputum. Pt trach/IP procedure rescheduled to Friday-pt daughter and pt aware, spoke with MICU Team MD's. This afternoon pt decannulated while sitting up in chair, pt maintained sats, resp therapist re-inserted trach, pt maintained TV's, CO2 detected, bilat breath sounds, Anesthia up to eval pt after trach re-inserted, MICU Team notified.
+
+CV: Pt HR 70's NSR/1st degree AVB (HR increased to 90's with coughing), NBP 97-147/39-52, hydrochlorothiazide heled this am d/t SBP <100, MICU Md's aware. Bilateral pedal pulses palp.
+
+Neuro: Pt MAE, assists minimally with turning, pt cooperative with care, mouthing appropriate questions regarding care.  Pt with c/o R hand pain, swelling appears decreased from this am-MD's aware, tylenol given and heat packs applied with some effect.  Pt with c/o sore throat, mouth moisturizer used and throat spray ordered. Pt OOB to chair with physical therapy.
+
+GI/GU/ENDO: Pt abd soft, obese, +BS x4, no stool this shift.  TF to resume this afternoon.  Foley cath draining clr yellow u/o approx avg 90 cc/hr. FS 228 this afternoon, ss insulin coverage given as ordered.
+
+ID: T max 100.7, bld cx's x1 sent, pt continues on abx. Pt to start sulfameth/trimethoprim for ? pna. 
+
+A/P: 67 y/o famale s/p CABG/AVR [**11-22**] c/b sternal wound infection and failure to wean requiring trach-pt with prolonged course hospital/rehab. Pt hemodynamically stable, weaned to trach mask )2 this afternoon, IP procedure rescheduled to Friday.  Continue to monitor pt resp status, hemodynamics, u/o, labs.  Continue to monitor cx's, temps, abx.  Continue to provide emotional support to pt and family.
+",,
+5057,26144,6271,0,2623-05-22 02:26:00 EST,2623-05-22 02:51:00 EST,7436,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+S:  patient mouthing words, indicates pain in hand is much better today.
+
+O: see CCU flow sheet for complete objective data
+
+Resp: Remains on trache mask, 40%, trache cuff deflated. Suctioned for off white thick secretions, in small amounts, much less frequently as compared to previous night.  Sputum sample sent for gm stain and C&S. RR 21-28, transiently up to 30.  O2 sats 98-100%.  Receiving atrovent MDI q4-6 hours.  Lungs clear.  Trache care done.
+
+CV:  remains in NSR with 1st degree AVB, pr 0.22.  BP 99-124/39-63
+
+GI: incontinent of large amount liq stool at 2000.  TF turned to off.  Fecal incontinence bag applied, continued with liq stool and flatus.  TF (probalance) restarted at midnight at 10cc/hour.  Positive bowel sounds.  Had pulled NGT out of position after awakening confused.  NGT repositioned-->bilious asps.
+
+Neuro:  alert and oriented.  Given 1 mg IV ativan @ 203--slept for several hours.  Given usual dose of 0.5 mg clonazepam at 2330.  Fell back to [**Doctor Last Name 65**].  Slept much better tonight, but when awoke from [**Doctor Last Name 65**], was disoriented--didn't know where she was, pulled NGT and moving legs to get OOB and go to the bathroom.  Quickly cleared.  
+
+Skin:  Perineal area and abdominal skin folds with red rash.  Miconazole powder applied.  Skin care done and patient repositioned q 2-3 hours.  Heels off of mattress with pillow.
+
+ID:  t max 99.2 po.  Started on Bactrim via NGT.  Sputum sample sent.  Continues of flagyl for c diff.
+
+Pain:  given tylenol X1 for hand pain, pt. indicates that pain is better.  Hand slightly puffy, not as  warm as had been last night.
+
+Activity:  returned to bed at 1900.  Lifted from chair to bed.
+
+Access:  PICC line in place.  Blue port unable to flush or aspirate.  Red port, able to infuse fluid but unable to draw blood.  Order placed by team for PICC line to be changed over a wire to a Ghroshong PICC line today by IV team.  AM bloods drawn by peripheral venipuncture--able to obtain all but PT/PTT.
+
+A: tolerating 40% trache mask overnight.  Diarrhea related to c diff and reinstitution of TF.  Appears to have fungal infection over perineal and in abdominal folds.  Brief confusion with sedation.
+
+P:  page IV team to change PICC over wire this am.  Send PT/PTT when line is replaced.  Continue to advance TF as tolerated.  Skin care as above.  Tylenol prn for hand pain.
+",,
+5057,26144,6271,0,2623-05-22 05:04:00 EST,2623-05-22 05:05:00 EST,1942,"N",1,"Nursing/Other",,"
+
+Resp Care
+Pt remained off the vent overnight, maintaining O2 sats 98-100% on 40% trach collar. Breath sounds mostly clear, suctioning much less often than previous shift. Given Atrovent inahler q6hrs.
+",,
+5057,26144,6271,0,2623-05-22 15:30:00 EST,2623-05-22 15:35:00 EST,7792,"N",1,"Nursing/Other","Respiratory Therapist","
+Respiratory Therapist
+Breath sound diminished, few crackles, suctioned for small thick white, spent whole day off the ventilator, on 40% trach collar, sat in a chair for few hours, afebrile, constantly into 1st degree AV block, patient is hemodynamically stable, will have tracheal reconstruction done tommorrow.
+",,
+5057,26144,6271,0,2623-05-22 16:50:00 EST,2623-05-22 17:08:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Will I get this tube out?
+
+O:  GI - Rec'd pt on tf Probalance at 20cc/hr per ngt.  Increased to 30 cc as redisual 15cc.  Abd is obese with +bs.  Fecal incont bag intact to brown, liquid stool.  Pt passing much flatus.  
+Speech and swallow f/b FEES done and pt has mild oral and pharyngeal dysphagia. Able to tolerate nectar thick liquids and soft solids.  See s/s note.
+NGT dc'd and pt much more comfortable.
+RISS per order
+
+ID - T max 99.8 po today.  Steroid taper continues as well as Abx Bactrim and Metronidazole.  
+
+CV - HR 70's 1'avb with rare pvc.  BP 103-128/50.  HCTZ dc'd as has not been administered over last 2 days d/t low bp.
+
+Resp - cont on trach mask @40%, with cuff deflated.  Freq suctioning post pt coughing.  Producing med amts thick white sputum.  LS are diminished at times, with coarse sounds prior to sx.  Trach care done.
+
+GI - Foley draining clear yellow urine.
+
+Neuro - Alert and oriented throughout day.  Able to mouth words appropriately.  Pleasant and cooperative.  No Ativan required.
+
+Skin- Area under panus is reddened.  Miconazole powder applied to panus and peri folds.  LLL open surgical wound dsg removed.  Aquacell with sylvadine dsg applied covered with wet nss then dsd.  Unable to evaluate for drainage.  LUL surgical wound is dry and healed.  Edges covered with alovesta.  Turned and positioned q2-3hrs.  Tolerated OOB to chair x2.5hrs today, utilizing air pal.
+
+Access - PICC changed today by IVteam for Ghroshong PICC which requires no Heparin. 
+
+A:  Speech and swallow, now able to eat.
+  Revision of trach planned for [**5-23**]
+
+P:  cont freq suctioning as pt is producing mod amts of sputum, monitor po intake, as she is now able to take po's, npo past mn for proceedure [**5-23**], cont aggressive skin care, ativian prn for [**Doctor Last Name 65**] tonight, keep pt and family informed of poc per multidisiciplinary rounds.
+ 
+",,
+5057,26144,6271,0,2623-05-23 03:27:00 EST,2623-05-23 03:47:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I'm sick of everthing ""
+O:  pt. frustrated and having periods of increase anxiety during night...assoc. with freq. suctioning needs, difficulty in communication, etc.  also foley leaking again and needing to be replaced when it was found falling out.  This caused inc. anxiety in pt....given ativan .5mg IV x2 with good effect.  talking and staying with pt. also helps alot.  
+Alert/oriented x3,  mouthing words and occas. writing on board.  
+
+ID:  TM 99.6po.  contin. flagyl and bactrim.  tylenol liquid x1. 
+CV:  HR 68-87 first deg. AV block, BP 99/39-147/62.  
+Resp:  LS clear to diminished.  suctioned q2hours for thin white secretions small amts.  strong cough. breathing becomes labored and with loud expiratory pitch when pt. is anxious...when she is calm, sleeping, breathing is non-labored and quiet.  
+GU:  foley leaking and then found almost out at 0300....taken out and new #22/30ccballoon placed(2 way).  u/o 30-100cc/hr.  
+GI:  FIB intact.  draining liquid dk. stool total 600cc.  guiac neg. 
+skin:  backside intact. abd folds pink/nystatin pdr placed.  leg dsg intact.  
+
+A: inc. anxiety assoc. with frustration etc. - ativan and support. 
+   foley out again and replaced. 
+   diahrea continues....FIB intact. 
+P:  plan trach revision today.  NPO except meds.  ? rectal tube to replace FIB- check with skin care RN.  follow temp., contin. antibiotics.  support through anxious times.  ativan prn. 
+",,
+5057,26144,6271,0,2623-05-23 04:45:00 EST,2623-05-23 04:48:00 EST,1942,"N",1,"Nursing/Other",,"
+
+Resp Care
+Remained off the vent overnight, on 40% trach collar. At times breath sounds with audible high pitched wheezes, correlating with pt being agitated/anxious. Refused inhalers, states they make her feel worse.. Vent remains on stand by in room. Plan is for rigid bronch/tracheal dilation later today.
+",,
+5057,26144,6271,0,2623-05-23 04:53:00 EST,2623-05-23 04:54:00 EST,1942,"N",1,"Nursing/Other",,"
+
+Resp Care
+cuff left deflated overnight.
+",,
+5057,26144,6271,0,2623-05-23 15:16:00 EST,2623-05-23 15:21:00 EST,7792,"N",1,"Nursing/Other","Respiratory Therapist","
+Respiratory Therapist
+Breath sounds diminished bilaterally, suctioned intermittently for small thick white secretions, WBC 20.2 consistent with bacterial infection,spent the whole day into 1st degree AV block, patient cameback sedated from OR where she just had tracheal reconstruction done, immediately put on simv, woke up at 1500 then switched to cpap 5&5 30%, doing well, will put back on Trach collar as soon as she can tolerate it.
+",,
+5057,26144,6271,0,2623-05-23 17:43:00 EST,2623-05-23 17:54:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  What time will I go today?
+
+O:  See careview for all objective data
+
+To OR at 1140am for rigid and flexible bronchoscopy, tumor excision and debridement, tracheal dilation and trach tube change ([**Last Name (un) 3195**] 7mm).
+Pt returned to CCU 1320pm, after PACU monitoring.
+
+Upon return to CCU, Pt initially placed on vent at 30%/12br/600 until she awoke, then placed on CPAP/PS then weaned to 40% face tent.  LS are coarse, and had been suctioned prior to proceedure for mod amts thick white secretions.  After proceedure, minimal white secretions noted.  Sats 97-100%.
+
+CV - HR 1'avb 60-70's with rare pac's.  BP 85-116/50's.
+
+GU - u/o via foley 30-60cc/hr cloudy amber urine.
+
+GI - Tolerated nectar consistency fluids with crushed meds this am with minimal liquid.  After proceedure, we waited for pt to fully awake, cuff on Trach was deflated 4.5cc and she tolerated nectar consistency fluids without difficulty.  Fecal bag intact to brownish/greenish stool.
+
+Skin - OOB to chair for 1.5hrs prior to OR.  LLL dsg changed per plan, washed with NSS, covered with aquacell with sylvadine, packed with nss gauze covered with dsd.  Peri areas treated with miconizole powder.  
+
+Social - Son [**Name (NI) 897**] and spoke with md's.
+
+A:  stable post OR
+
+P:  cont monitor vs, resp status s/p or with new trach.  Plan is for trach replacement  on Monday/Tuesday (longer length trached, ordered by attending), cont freq oob to chair, monitor gi status and aspiration precautions, keep pt and family informed of poc per multidisiciplinary rounds.
+",,
+5057,26144,6271,0,2623-05-23 21:20:00 EST,2623-05-23 21:56:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900- 2300","
+CCU NPN 1900- 2300
+O: 
+afeb.  contin. on bactrim for Klebsiella in sputum and flagyl for C.diff. 
+HR 70's first deg. , BP 90-102/.  
+pt. awake, mouthing approp. able to make needs known.  very cooperative and appreciative.  
+- u/o 50cc/hr.  
+- FIB leaking and taken off.  liq. brown/green stool.  guiac neg.  pt. asking not to have FIB replaced....states very uncomfortable.  will try to use call light for now and agrees to have FIB replaced if necessary.  taking meds crushed with custard and also tol. thickened juice.  
+
+suctioned via trach for small amt. thick tan secretions.  site clean. strong cough.  cuff remains deflated.  sats 98-100% on 40% trach mask. LS diminished bases.  
+
+LLleg dsg D/I.  backside intact.  abd folds reddened but no breakdown. nystatin pdr applied.  
+
+A/P:  VSS s/p trach revision.  sats good on 40%.  cuff to remain down.  FIB off and will try bedpan.  no c/p pain.  
+",,
+5057,26144,6271,0,2623-05-24 05:09:00 EST,2623-05-24 05:11:00 EST,2742,"N",1,"Nursing/Other",,"
+
+RESP CARE: Pt remains on 40% TC all shift, vent pulled from room. Lungs coarse bilat. Sxd mod amts thick yellow/bld tinged sputum. Cuff remains deflated. Pt has [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3195**] #7, adjustable length, air cuff in place. 
+",,
+5057,26144,6271,0,2623-05-24 07:14:00 EST,2623-05-24 07:21:00 EST,1628,"N",1,"Nursing/Other",,"
+
+Nursing Progress Note
+11 pm - 7 am
+Denies resp distress .. RR 28-32...unlabored while sleeping ..insp wheezing with activity ...strong cough but unable to clear sxns on own ..Frequently refuses to be trach suctioned ...snxs thick yellow ..02 sats 96-98% ...
+HR 70-80's..first degree avb .. SBP 90-110's/60's...
+GI c/o diffuse abd/gas pain ...passing much flatus ..inc small amounts of grn/brn stool..rectal bag re-applied per patient's request 
+slept with one mg of iv ativan 
+Continue to monitor 02 sats/suction as needed 
+",,
+5057,26144,6271,0,2623-05-24 15:01:00 EST,2623-05-24 15:23:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: Pt with trach, mouthing words appropriately.
+
+O: Please see careview for VS and additional data.
+
+CV: Pt HR 70's to 80's 1st degree AVB, NBP 83-115/30-47.  SBP dropped to 80's x 2, IVF bolus 500 cc NS given x2 with some response in BP to 90's low 100's, Dr. [**Last Name (STitle) 2180**] aware.  Pt asymptomatic, denies dizzyness, headache. K 3.5 this am, repleted with 20 mEQ KCL. Bilat pedal pulses palp.
+
+Resp: LS clear at apices to coarse at bases, RR 20-34, unlabored.  pt sxn'd approx Q4 hours by resp therapist. Pt able to cough up secretions through trach x 1. 
+
+Neuro: Pt alert and oriented x3, MAE, assists minimally with turning, able to feed self with supervision and brush hair and teeth. Pt refusing to take meds this am, pt mouthed that she would only take them with water (non-thicked), results of speech and swallow test explained to pt (pt failed thin liquids) and importance of meds explained to pt->pt agreed to take meds. Pt OOB to chair with airpal and 4 nsg staff. Pt in chair for approx 1.5 hours, pt back to bed with BP drop. 
+
+GI/GU/ENDO: Pt abd obese, + BS x4, FIB draining liquid green stool, pt ate approx [**11-19**] tuna sandwich and [**11-18**] bannana for lunch. Pt tol meds, soft diet and nectar thick liquids, pt requesting thin liquids (water) see above. Foley cath draining 18-45 cc/hr of dark yellow/amber colored u/o-MD's aware. FS 213 at noon->tx'd with humalog as ordered and FS 309 at 1530, Dr. [**Last Name (STitle) 2180**] aware, FS to be rechecked at 1700.
+
+ID: T max 100.2, pt continues on flagyl and bactrim for cdiff and acinetobacter.
+
+Social: Pt two daughters in at bedside this afternoon.
+
+A/P: 67 y/o female with long hospital/rehab course since CABG/AVR [**11-22**] with failure to wean requiring tracheostomy, pt with tracheomalasia, on [**5-23**] pt had rigid bronch, electrocautery and balloon dilation of trachea and upsizing of trach->pt requiring long trach-> trach ordered and anticipated for Tues.  Today, pt with SBP drop 80's x2, 500 cc IVF boluses with response in BP, diarrhea continues-FIB intact.  Continue to monitor hemodynamics, resp status-manage secretions.  Continue to monitor u/o, neuro status, FS-tx with insulin as ordered and [**Name8 (MD) 8164**] MD's, labs.  Continue to advance diet and activity as tol, provide emotional support to pt and family. 
+",,
+5057,26144,6271,0,2623-05-24 17:22:00 EST,2623-05-24 17:24:00 EST,7624,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remain trached and on a Trach Mask 40%. Pt required multiple suction for small amounts of white thick secretions. Care plan is to continue to sx PRN and MDI's PRN. Atrovent given PRN today. Pt has a #7 [**Last Name (un) 3195**] and the cuff remains deflated. Will continue to follow.
+",,
+5057,26144,6272,0,2623-05-27 03:55:00 EST,2623-05-27 03:59:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. transferred from [**Hospital Ward Name **] 2 for volume replacement.  Pt. has a # 7 [**Last Name (un) 3195**] trache tube in place (patent/secure), cuff is deflated, and a positive leak is noted.  Pt. is on 40% cool aerosol, SPO2 high 90's to 100%, RR mid to high teens, with no apparent respiratory distress noted.  Pt. on call for O.R. for trache tube replacement (possible tracheal dilation).  Will follow.
+",,
+5057,26144,6272,0,2623-05-27 04:45:00 EST,2623-05-27 05:20:00 EST,7972,"N",54,"Nursing/Other",,"
+
+micu west npn 1400-0700 
+
+Allergy: Heparin agents/PCN/Erythromycin base
+Full code
+
+HPI:  Following CABG on [**11-22**], pt. was difficult to extubate, requiring a tracheostomy. On [**4-18**] rigid bronch done at [**Hospital1 2**] followed by replacement of trach tube, in OR pt. was found to have circumferential area of stenosis below cricoid extending 6cm. On [**4-27**], pt. was admitted to [**Hospital 130**] Hosp w/ SOB and desatted to low 90s, consequently pt. started on Levoquin for suspected bronchitis. There she was also found to have enterococcus bacteremia, TTE neg for vegetations, Vanco started. On [**5-1**] gent added once Klebsiella UTI, [**5-17**] started Imipenem. On [**5-12**] she was obtunded and has sig mucous secretions and plugs req suctioning, ENT changed cufless trach from 6 to # 4. On [**5-12**], IJ placd at [**Last Name (un) 7931**], [**5-15**] mild stridor and tachypnea and placed on ventilator. Found to have C. Dificile. On [**5-17**] admitted to [**Hospital1 2**] for new trach. While pt. on [**Hospital Ward Name **] 2 awaiting trach, she cont having diarrhea and suspected to be severly dehydrated, in addition she was requiring frequent suctioning. On [**5-27**] pt was transferred from [**Hospital Ward Name **] 2 to MICU for aggressive fluid resuscitation and close monitoring. Pt. is awaiting OR for new trach and Ct for suspected fistule. 
+
+Neuro: Received pt @ 0200, alert and oriented, opens eyes spontaneously, obeys commands, moves all four extremeties on bed, able to lift and hold, pupils pearl 2mm brisk, 1 mg Lorazeoam given for anxiety.
+
+Resp: PT. Trached 40% humid  trach  mask, suctioning frequentlyy thick white sputum, LS coarse bilaterally. Sat 99%.
+
+CV: HR 80-109 NSR-ST, sbp 98-100, pt. had multifocal PVC on [**Wardname 227**], aggressive fluid resuscitation began in MICu at 0200 LR, liter 3 is currently running. Left PICC-double.Pos for HIT.
+
+GU/GI: Foley (# 22fr) draining 25-40cc/hr Amber/clear urine, in [**Wardname 227**] pt. thought to have Fistula as fecal matter seen in urine?, pt. was prepped for possible Ct but did not go down, Abd obese, pt. complains of cramps s/s C/ Dif. Pt. is NPO for OR today.  pt. diet is nectar and crushed meds.
+
+Id: Temp=100, WBC=29 Abx: IV -Flagyl/PO Vanco, spike [**5-25**] 102.3
+
+Endo: FSBS, Insulin GTT Up @ 0600.
+
+Skin: left leg wound packed w/ wound gel, coccyx abrasion tx w/ double guard, mushroom cath IN tonight draining green liquid stool, [**Doctor First Name **] Air bed ordered.
+
+Plan: OR today for change of trach
+      Ct today for suspected anal-vaginal fistula>?
+        [**Doctor First Name **] Air bed
+      FSSB CONT Insulin GTT
+
+",,
+5057,26144,6272,0,2623-05-27 13:13:00 EST,2623-05-27 13:26:00 EST,3952,"N",54,"Nursing/Other",,"
+
+
+See carevue for objective data.
+
+Awake/alert at beginning of shift-mouthing words following commands.
+At approximately 0900 pt became acutely hypotensive to systolic of 50 with decrease in mental status. LR fluid bolus initiated/team called/up to evaluate. Received 3L of IVF and intermittent infusion of levophed. Urine output poor 5cc's an hour/dark in color despite several liters of IVF overnight and 3L for hypotension episiode.
+Team aware. BP labile throughout the AM requiring intermittent boluses and levophed to maintain systolic BP >90.
+Bovina trach intact. Trach care done/ties changed/avelyn dressing applied. ? if pt is too unstable to go to OR for revision of trach.
+Renal US done at bedside.
+Dr. [**Last Name (STitle) **] from surgery in to evaluate pt re: bowel surgery. Attending concluded that pt is too high of risk for surgical intervention and spoke to pt's son,[**Doctor First Name **] regarding the latter. Son concurs. Son is awaiting 4 sisters to arrive to discuss direction of care with team.
+Rapid aflutter at 1300 requiring cardioversion with 30 Joules. Sedated with versed/fentanyl and tolerated well. Successful with one attempt.
+Returned to SR in 70's with hypotension requiring levophed.
+Central line access attempt in progress currently. Will transduce for CVP reading when placed.
+Rectal tube with 300cc's thus far of liquid stool. + c-diff. Precautions maintained.
+Turned and repositioned fro ksin care. Fungal looking rash to rectum and peri-area. Nystatin applied as needed.
+Foley cath changed and clean urine spec sent.
+Double lumen PIC patent. PHL initiated as well.
+Remains on insulin gtt and FSBS WNL.
+
+Meet with son/daughters to discuss direction of care. Maintain current POC until a decision is made by the family.
+
+
+
+",,
+5057,26144,6272,0,2623-05-27 16:08:00 EST,2623-05-27 16:09:00 EST,3952,"N",54,"Nursing/Other",,"
+
+
+Addendum:
+
+Right SC TLC placed. PCXR confirmed placement. CVP 3-6. Team aware.
+Levophed currently off. See flowsheet for additional details.
+
+",,
+5057,26144,6272,0,2623-05-28 04:07:00 EST,2623-05-28 04:10:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. remains on 40% cool aerosol via trach collar, with # 7 [**Last Name (un) 3195**] air cuff trache tube, patent/secure.  B/S scattered rhonchi, and an occasional wheeze.  Pt. given Atrovent X 1 this shift with some effect.  No maintenance inhalers, or Beta agonists.  Will discuss with team in a.m.
+",,
+5057,26144,6272,0,2623-05-28 04:53:00 EST,2623-05-28 05:26:00 EST,7972,"N",54,"Nursing/Other",,"
+
+Micu west npn 1900-0700
+
+Full Code
+***Allergy: PCN, Erythromycin,Heparin agents
+
+events: Around 2300 pt's sbp 81-83, Dr. [**Last Name (STitle) 7926**] notified and 500cc FB LR given w/ good effect. As a result, pt. sbp has maintained  94-116. At this time, pt. has received 11L of LR, and is now receiving 1/2NS @ 200cc/hr.
+
+neuro: pt. is alert and oriented to person, place, and time, able to move all four extremeties on bed, pupils pearl 3mm brisk, cough reflex intact, gag reflex impaired. pt swallows PO meds and liquids. Pt. received total 2mg Ativan for anxiety. 
+
+resp: Bovina Trach #7 on 40% trach mask, O2 sat 98-100%,RR 19-22 variable rate, upper lobes coarse, lower lobes diminished, some exp wheezes relieved by atrovent inhalers, by bedside. Trach care provided as well as frequent suctioning small to moderate white/thick. 
+
+Cv: HR 80-100 NSR, CVP 7-8, recevied 200cc/hr LR for 2 L this shift and at 0530 1/2NS up @ 200cc/hr. Pt. has right central line inserted [**5-27**], dressing changed. Of note: pt. went into aflutter yesterday [**5-27**] and was cardioverted w/ 30j x 1, Albumin 1.8. CXR done.
+
+Gu/Gi: renal US done [**5-27**], Foley outputting 5-35cc/hr Amber/sediment urine,urine positive for yeast/Klebsiella, bowel sounds distant but present, abd obese, rectal tube draining  green liquid 1L out this shift, stool for C. Dif, pos megacolon, Surgery came in AM - Dr. [**Last Name (STitle) **] and family agree pt. is too unstable for surgery at this time, family meeting  occurred [**5-27**]. Cr=2.3. Pt takes medication PO/liquids.
+
+endo: FSBS 83-120, Insulin GTT currenlty @ 0.5u/hr.
+
+id: lactic: 2.0, WBC 31.9, T=95.9 - Bair Hugger applied, abx: Vanco. Flagyl, Meropenum. 
+
+Social: Family meeting on [**5-27**] Dr. [**Last Name (STitle) **] and family agreed pt. is too            unstable at this time for bowel surgery for C. Dif megacolon.
+        Family does not want dialysis in the future for ARF
+       
+Plan: * please address nutritional needs - TPN?
+      Cont. FSBS q hr - cont insulin gtt or d/c?
+      Suction trach prn 
+      monitor for hypothermia
+      trach revision?
+       bowel [**Doctor First Name **]?
+       ct for possible fistula?
+       monitor uop
+      family meeeting for plan of care
+        
+
+
+",,
+5057,26144,6272,0,2623-05-28 15:15:00 EST,2623-05-28 15:28:00 EST,4160,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Uneventful shift. Pt hemodynamically stable, tolerating trach mask. Insulin gtt dc'ed. 
+
+ROS/PE:
+
+CV: NSR, HR 7-=80's, no ectopy, no Aflutter. NIBP 90-110's systolic. extemities edematous, warm, poor pedal pulses. 
+
+RESP: LS caorse, diminshed bases d/t body habitus. Spo2 >95% on 40% trach mask. good cough, suctioning approx q2hrs for thick yellow secretions. no resp distress. 
+
+NEURO: Grossly intact. weakly MAE on the bed. Follows commands. lethargic most of shift, napped in intervals. easily arouses. oriented x3. Consistently denies pain. 
+
+GI/GU: Pt made NPO. pt wanting to eat/ drink. MICU team in to explain. PER Xray- enlarging sma;ll bowel, needs bowel rest. Nutrition consult for TPN- none today. Mushroom catheter coontinues to put out large amounts liquid brown stool. Poor u/o, 10-15cc/hr dark amber urine, kidneys failing. abd obese, firm. Placed on RISS. 
+
+SKIN: Grossly intact. sacrum erythemic, barrier cream applied. frequent turns/ positioning. 
+
+ACCESS: L AC Picc, R SC TLC, all patent. 
+
+ID: Afebrile. recieved pt on bair hugger- has been normothermic all day. Pt on C diff contact precautions. Remains on many PO/IV abx for toxic CDiff Megacolon and UTI. 
+
+SOCIAL: Met family this am, tearful. Family had been expecting pt's eminent passing. Family informed of pt's stable vitals and stable physical exam. Not actively dying now. MICU team finally entered DNR order during rounds today, as was discussed on family meeting yesterday. Family again met w/ MICU attending/ RN and social work for updates. Offered much support and enc. Discussed hospice option, family deciding. 
+
+PLAN: f/u on BS off of insulin gtt. TPN start tomorrow. Update family as needed. Pt is NPO and DNR but is trach for suctioning. Pt can be c/o to the floor if ICU bed is needed as pt has no acute ICU needs at this time. 
+",,
+5057,26144,6272,0,2623-05-28 16:02:00 EST,2623-05-28 16:03:00 EST,7745,"N",54,"Nursing/Other",,"
+
+Pt continues on 40% trach collar with NAD. BS rhonchi. SaO2 95-100.
+",,
+5057,26144,6272,0,2623-05-29 03:48:00 EST,2623-05-29 04:22:00 EST,5919,"N",54,"Nursing/Other","npn 7p-7a","
+npn 7p-7a
+DNR
+Please see carevue and Fhp for additional data.
+Allergy: PCN, Erythromycin, Heparin
+
+Neuro: Pt Dozing off and on overnight. One episode of anxiety- feeling sob, but VS stable and LS cta, relieved with Ativan 1mg iv. AOx2-3- difficult to assess if PT is requesting to go to [**Hospital1 130**], or if she thinks she is at [**Hospital1 130**]. No c/o pain. 
+Resp: Remains on trach mask 40%. Sats 98-100%. LS clear upper, diminished lower. Sxned Q [**1-18**]/hrs for small, yellow, thick secretions. Occ. removing O2, sats ~95% at this time. 
+CV: NSR 72-81. no ectopy noted. sbp 83-127. HCT stable. am lytes pnding. +pp. (Cardioverted Night before last for a-flutter) 
+GI/GU: abd obese, +BS. Team made NPO [**12-19**] toxic megacolon, able to take meds with H20. surgery following, no interventions at this time per [**Doctor First Name **]. poor candidate. Renal following, ARF fluid at this time at 100cc/hr. Please note if Cr CL <30 renal reqs dc'ing. Fondaparinux. Marginal u/o 15-20cc/hr,team aware, amber, sedimented. KUB done yesterday, reportedly ? toxic megacolon. 
+Endo: RIss
+Social: Daughters at bedside at begining of shift, very concerned about their Mom's health, with many questions. Requested per PT wishes and theirs that Pt be transferred to [**Hospital3 **] where she will be closer to home/family/friends. SW following of note, previously mentioned home with hospice as option, may consider readdressing proir to potential transfer to [**Hospital3 **]. 
+ID: afeb. Flagyl, Meropenum-Klebsiella UTI, Vanco. 
+A/P: Need to readdress dispo, transfer to [**Hospital1 130**] vs. home with hospice. Please f/u with case managament today. Cont. providing emotional support to Pt and family. Cont. pul. toilet. COnt. to follow u/o and f/u with CRE and need for d/cing Fondapinux. Cont. providing supportive care. 
+",,
+5057,26144,6272,0,2623-05-29 04:24:00 EST,2623-05-29 04:28:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient trached with 7.0 [**Last Name (un) 3195**](Air cuff). Cuff deflated. Tolerating well. Sx'd for sm amounts of thick white secretions. Strong cough effort. 40% trach mask in use. Nebulizer full. BS with expiratory wheezes post sxing. Atrovent MDI given X 1 with trach spacer. Tolerated well. Wheezes clearing. No further changes made. 
+Plan: Will continue to follow for trach care and Atrovent MDI Q4-Q6prn/ 
+",,
+5057,26144,6272,0,2623-05-29 16:03:00 EST,2623-05-29 16:18:00 EST,8114,"N",54,"Nursing/Other",,"
+
+MICU-7 Nursing Note
+
+Neuro: Alert and oriented to self, place. Mouthing words and following commands appropriately. Moves all exremities to command-LE's weaker.
+
+Resp: .40 trach mask. Pt cough ineffective-requiring trach sx of sectretion. Moderate amounts of thick tan sputum. Pt T-Tube placement was scheduled for today but cancelled-Not clear if due to poor renal function or if OR schedule full?
+
+CV: Pt 36hrs post cardioversion. NSR with no ectopy noted. Palp pedal pulses bilaterally. Extremities warm, nailbeds pink.
+
+GI: Pt is strict NPO except for meds due to toxic megacolon-TPN ordered for nutrition. Pt. able to swallow meds w/ water. Abdomen is obese, sl tender to palpation. +BS noted, Mushroom cath for liquid brown stool. Flagyl for + C-Dif culture.
+
+GU: BUN=57,creat+2.3. UOP 15-30cc/hr. Foley cath found lying in bed this AM, New #20Fr/5cc placed. 
+
+ID: Bactrim D/C'd. Merepenem IV, Vancomycin PO. T 96. 
+
+Social: Family very anxious, concerned about GI status, renal status, and about returning pt to [**Hospital 130**] hosp. RN spoke extensively to family throughout day, info and reassurance provided; Dr. [**Last Name (STitle) 2720**] spoke to pt and family @ bedside re POC, Social worker [**Location (un) 1069**] also spoke to family today re POC.
+",,
+5057,26144,6272,0,2623-05-29 17:58:00 EST,2623-05-29 17:58:00 EST,7745,"N",54,"Nursing/Other",,"
+
+BS rhonchi. Remains on 40% trach collar.
+",,
+5057,26144,6272,0,2623-05-30 01:20:00 EST,2623-05-30 01:25:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient trached with 7.0 [**Last Name (un) 3195**](air cuff). Cuff remains deflated. 40% trach mask in use. Nebulizer changed due to lack of mist. Bs clear bilaterally. Strong cough effort. Resp status stable. [**Name6 (MD) 4843**] via RN. Ambu bag, sxing equipment available at bedside. Atrovent MDI Q4-Q6prn not indicated at this time. 
+Plan: Will continue to follow for Trach Care. 
+",,
+5057,26144,6272,0,2623-05-30 03:45:00 EST,2623-05-30 04:24:00 EST,5919,"N",54,"Nursing/Other","npn 7p-7a","
+npn 7p-7a
+Allergy: Heparin, PCN, Erythromycin.
+DNR
+Please see carevue and fhp for additional data.
+
+Neuro: Pt remains AOx2, reorients to place easily. Seems more oriented when family at bedside. MAE, lower weaker. No c/o pain. Did recieved Lorazepam 0.5mg x2 [**12-19**] anxiety r/t family not being at bedside, c/o sob feeling w/ sats, wob wnl. (Pt w/ hx of known anxiety.) 
+Resp: Hx of tracheomalacia. Remains on 40% humidified trach mask. LS clear up, diminished lower, occ. exp. wheezes after sxning. Sxn requirements increasing over evening, Sxned for small, tan, thick Q2-3/hrs. Cough unable to adequately raise secretions. Sats 99-100%.  trach revision planned for IP, however family to meet with team to discuss poc and goals. 
+CV: NSR 70-78. No ectopy noted. (s/p cardiversion for aflutter 3 days ago) Sbp 88-125. HCT stable. lytes pnding. .45NS with 50mEq of Bicarb at 100cc/hr per renal reqs. 
+GI/GU: NPO xcept meds. Abd obese, +BS. Mush cath. intact draining large amounts of brown, liquid stool. Foley patent, draining marginal amounts of sedimented, amber urine. Renal following. KUB done yesterday, poor study will repeat today to follow results. (Flagyl resistant C-diff ?Toxic megacolon, poor surgical candidate.) 
+Endo: RISS
+Social: Family at bedside most of day yesterday, visiting hours 12-8pm strictly enforced. Very concerned about their Mom, feel very unsure about plan of care. Requesting family meeting to discuss future goals, poc as r/t Pt's current health state. Please speak with DR. [**Last Name (STitle) 698**] about setting up meeting time for afternoon, and let family know time asap so they can all be present. Dr. [**Last Name (STitle) **]. Stack also made aware of request for meeting. SW following. 
+ID: afeb. Bld cx pnding. GNR UTI on Meropenum. ?Toxic colitis, NPO, not surgical candidate, on Flagyl, f/u KUB. 
+A/P: Tracheomalcia, needing trach revision, however family unsure of poc, and appropriateness of proceding with trach revision. Cont. pul. toilet. ID following, cont. abx for UTI, ?toxic megacolon, c-diff, cont. NPO. F/U with family meeting. Cont. providing supportive care. C/O to floor pnding bed. 
+",,
+5057,26144,6272,0,2623-05-30 15:40:00 EST,2623-05-30 15:52:00 EST,4302,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+NEURO: Pt was very alert this am, interacting with me and asking questions. This afternoon, pt has been much more lethergic and only awakens with sternal rub or turning. HO aware. Pt follows commands. PERRL, 3mm brisk. 
+
+CV: NSR, 60s-70s no ectopy. BP mostly 90s-120/50s-60s, although since being more lethargic BP has dipped to 80s. HO aware and will accept MAP>55. +PP. 
+
+RESP: Pt is trached on cool mist collar 40%. LS coarse, t/o suctioning thick white milky secretions, Q1-2H. Sats>97%. RR 20s. 
+
+GI/GU: ABD is obese, +BS. Pt receiving TPN, as she has been NPO [**12-19**] toxic megacolon. Mushroom cath draining large amounts of brown liquid stool. Pt also receiving 1/2NS with 50mEq bicarb continuous @100cc/hr. Prior to foley becoming dislodged u/o was 10-60cc/hr. pt has not voided since 1400. 
+
+SOCIAL: Pt's family met with DR. [**Last Name (STitle) **], this RN and social worker. Family decided not to go through with trach revision and to transfer to [**Hospital3 **] ASAP for further treatment. family wants pt closer to home. 
+
+PLAN: pt is c/o to floor, but will go to [**Hospital3 **] once move is facilitated. Monitor u/o, pt stated she will ask for bed pan to void. Continue TPN until pt can take in sufficient calories. Monitor secretions, suction prn. 
+",,
+5057,26144,6272,0,2623-05-30 17:34:00 EST,2623-05-30 17:37:00 EST,3090,"N",54,"Nursing/Other",,"
+
+40% T-Mask,patient alert,coop,suctioned for small amount of white thick secretion.Plan to go to floor then to transfer to other med facility.
+",,
+5057,26144,6272,0,2623-05-30 22:27:00 EST,2623-05-30 22:28:00 EST,3885,"N",54,"Nursing/Other","transfer note","
+transfer note
+
+Pt to transfer to [**Hospital Ward Name **] 2.
+Transfer orders written.
+
+Note faxed to [**Hospital Ward Name **] 2. No changes in status since above note.
+",,

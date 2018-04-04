@@ -1,0 +1,241 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5386,15929,,,2674-11-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2674-11-30**]     Discharge Date:  [**2674-12-9**]
+
+Date of Birth:   [**2582-3-12**]     Sex:  M
+
+Service:  .
+
+ADDENDUM:  This is an addendum to the Discharge Summary.
+
+Mr. [**Known patient lastname **] continued to do well from a cardiovascular point of
+view while in the hospital; however, his mental status was
+noted to deteriorate and he became delirious while on the
+floor.
+
+He was noted to have difficulty swallowing.  The patient
+underwent a video swallow study which showed aspiration.  The
+Speech and Language pathologist felt that this was secondary
+to his lack of attention and not a mechanical problem with
+his swallow.
+
+A discussion was had with the patient's wife who reiterated
+that the patient would not want an NG tube or a PEG tube.
+The family elected to carefully feed the patient and accept
+the risk of aspiration.  Currently, the patient is tolerating
+a thickened liquid diet.  He should sit bolt upright for
+meals and should have 1:1 observation.
+
+On the date of discharge, the patient's mental status was
+noted to improve slightly.  He is currently alert and
+oriented to person as well as to hospital.  The patient
+continued to receive Risperidone as needed for agitation
+while in-house.
+
+DISCHARGE DIAGNOSES:
+1.  Congestive heart failure exacerbation.
+2.  Status post non-ST elevation myocardial infarction.
+3.  Status post pneumonia.
+4.  Sick sinus syndrome.
+5.  Atrial fibrillation.
+6.  Mild dementia.
+7.  Aspiration.
+8.  Severe aortic stenosis status post balloon valvuloplasty.
+
+DISCHARGE MEDICATIONS:
+1.  Fluticasone two puffs twice a day.
+2.  Protonix 400 mg p.o. q. day.
+3.  Aspirin 325 mg p.o. q. day.
+4.  Tylenol p.r.n.
+5.  Senna, one tablet p.o. twice a day p.r.n.
+6.  Atorvastatin 10 mg p.o. q. day.
+7.  Heparin 5000 units subcutaneously q. eight hours.
+8.  Colace 100 mg p.o. q. Twice a day.
+9.  Lasix 60 mg p.o. twice a day.
+10. Carvedilol 3.125 mg p.o. twice a day.
+11. Guaifenesin 5 to 10 cc q. six hours p.r.n.
+12. Risperidone 0.5 mg p.o. twice a day p.r.n. for agitation.
+13. Atrovent p.r.n.
+14. Albuterol p.r.n.
+15. Lisinopril 2.5 mg p.o. q. day.
+16. Digoxin 0.125 mg p.o. q.o.d.
+
+CONDITION AT DISCHARGE:   Fair.
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient is being discharged to [**Hospital6 4963**].
+2.  He will follow-up with his primary care physician, [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 3667**], in one to two weeks.
+3.  He will also follow-up with his cardiologist, Dr. [**Last Name (STitle) 6354**]
+in two to three weeks.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 376**]
+
+Dictated By:[**Last Name (NamePattern1) 6355**]
+
+MEDQUIST36
+
+D:  [**2674-12-9**]  12:36
+T:  [**2674-12-9**]  12:41
+JOB#:  [**Job Number 6356**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SUN [**2675-2-7**] 4:33 PM
+(End of Report)
+
+
+",,
+5386,15929,,,2674-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-12-1**] 2:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10771**]
+     Reason: eval for PNA                                                
+     Admitting Diagnosis: NON Q MI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with SOB, s/o MI, reported PNA at OSH.                          
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE.
+     
+     INDICATION:  [**Age over 90 **] year old man with shortness of breath.
+     
+     COMMENTS:  Portable AP radiograph of the chest was reviewed.  No previous
+     study is available for comparison.
+     
+     The tip of the Swan-Ganz catheter is identified in the right main PA.  No
+     pneumothorax is identified.
+     
+     There is prominence of the pulmonary vasculature with cardiomegaly indicating
+     mild congestive heart failure.
+     
+     IMPRESSION:  Mild congestive heart failure.  The tip of the Swan-Ganz catheter
+     in the right main PA.  No pneumothorax.
+
+",,
+5386,15929,6695,0,2674-12-01 18:33:00 EST,2674-12-01 18:52:00 EST,96,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- see fhpa also
+afebrile. cv- hr 60-70s af, with occ. to freq pvcs. bp 97-121/. k-3.8, creat 1.9. re'd 20meq kcl iv. hct 37.2 this eve. ck 40. plts 119 from 121. no cpain or cv c/o. pads 70-80s/20s. ci 1.84 on dobutamine 5mic. dobutamine weaning to off. r groin d+i with venous sheath/pa line. pulses dopp x4. 
+resp- on nrb sats 99-100. l/s coarse with scat whezes, also with audible wheezes. had alb neb in holding area and x2 in ccu with some diminish in wheezes. gets more wheezy w/exertion. diuresed 450cc from cath lab. u/o adeq since, neg about 400cc. 
+gi-abd soft w/bowel sounds. no bm. 
+ms- confused and disoriented on admit, also difficult to understand. was oriented later in eve, although still confused most time. 
+a-s/p avp. 
+p- check co off dobutamine. monitor resp status, nebs prn. pull sheath/pa line in am. ?diurese again tonoct. cont. abx. reorient prn, follow ms.  
+
+",,
+5386,15929,6695,,2674-12-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-12-2**] 7:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10772**]
+     Reason: eval for CHF vs. PNA.                                       
+     Admitting Diagnosis: NON Q MI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with SOB, s/o MI, reported PNA at OSH.  Now tachypnic with 
+      rales.                         
+     REASON FOR THIS EXAMINATION:
+      eval for CHF vs. PNA.                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath, reported pneumonia at outside hospital.
+     Tachypnea with rales.
+     
+     COMPARISON:  [**2674-12-1**].
+     
+     PORTABLE AP SEMI-UPRIGHT CHEST RADIOGRAPH:  There is an improved congestive
+     heart failure pattern with less prominence of the pulmonary vascularity. There
+     are continued patchy opacities within both lungs, probably representing
+     atelectasis.  There is slightly increased opacity within the left lower lobe.
+     The cardiac silhouette, mediastinal and hilar contours are stable.  A
+     transfemoral SG catheter remains in position with its tip in the right main
+     pulmonary artery.
+     
+     IMPRESSION:
+     1. Slightly increased opacity at the left lung base probably represents
+     atelectasis but pneumonia is not excluded.
+     2. Slightly improved CHF pattern.
+     
+
+",,
+5386,15929,6695,0,2674-12-02 04:52:00 EST,2674-12-02 05:01:00 EST,924,"N",1,"Nursing/Other",,"
+
+NEURO: CONFUSED. SLIGHTLY MORE ORIENTED AS NIGHT WENT ON ORIENTED TO PERSON, MONTH AN TIME.  NOT PLACE --REORIENTED SEVERAL TIMES TO ""HOSPITAL"" PT CONT TO BELIEVE AT [**Location (un) 2627**] AIRPORT.  FOLLOWS COMMANDS CONSISTENTLY. MAE. FIDGETLY IN BED ATTEMPT OOB X1.  REACHING FOR CEILING AND PICKING AT IV'S. 
+CV:  BP STABLE.  HR 60-90 AF/ NO FURTHER ECTOPY NOTED.  PERIPHERAL DOPPLERABLE PULSES.  RT GROIN PA/SHEATH SITE INTACT. PA NUMBERS HIGH 68-88/17-26.  (BASELINE)  CI OFF DOBUTAMINE 1.7 HO AWARE. NO TX ORDERED. KNEE IMMOBILIZER ON RT KNEE.
+RESP:  LUNGS W/ CRACKLES THROUGHOUT EXP WHEEZE UPPER LOBES/ SMALL RESPONSE AFTER NEBS.  LOOSE COUGH NON PRODUCTIVE.  PT W/ [**Last Name (un) 309**] [**Doctor Last Name 310**] TYPE RESP OVERNIGHT ? [**Doctor Last Name **] APNEA.  SATS VARYING FROM 87% WHEN HAVING APNEIC EPISODES TO 98% WHEN AWAKE ON 4L NC.  CPT X2. PT TOL WELL. 
+LASIX X2 W/ MARG RESULTS IN RESP STATUS.  WHEN AWAKE RESPIRATORY EFFORT SHALLOW AND LABORED W/ RATES UP TO 30'S.  WHEN ASLEEP NO WHEEZES HEARD.
+GI: NP0 EXCEPT MEDS.  TOOK PILLS WITHOUT DIFFICULTY. ABD SOFT NONTENDER. +BS. +FLATUS.
+GU: FOLEY PATENT UOP ADEQUATE W/ LASIX. 
+PLAN: DELINE AND TX TO FLOOR WHEN APPROPRIATE. CONT ASSESS CARDIO/RESP STATUS.  PULM TOILET.  ? READDRESS  DNR/DNI  
+",,
+5386,15929,,,2674-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-12-7**] 11:13 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 10773**]
+     Reason: eval for swallowing function                                
+     Admitting Diagnosis: NON Q MI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      eval for swallowing function                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status, evaluate for swallowing function.
+     
+     TECHNIQUE:  Video oropharyngeal swallow was performed in conjunction with
+     speech therapy.  Barium of nectar, pudding and thin consistencies was
+     administered.
+     
+     FINDINGS:  The exam was extremely limited due to patient's inability to follow
+     instructions and altered mental status.  The oral phase was severely impaired
+     with poor bolus control, pumping and weakness in tongue movements and
+     decreased oral transit time.  There was premature spillover into the vallecula
+     and piriform sinuses with aspiration into the trachea; minimal cough was
+     elicited and it was not effective.  When the swallow was normally initiated,
+     there was normal laryngeal elevation and epiglottic deflection and at that
+     time, aspiration was not seen.  For further details, refer to report by the
+     speech therapist.
+     
+     IMPRESSION:  Aspiration during and after swallow with ineffective cough.  Exam
+     limited by patient's altered mental status.
+     
+
+",,
+5386,15929,,,2674-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-12-8**] 10:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10774**]
+     Reason: eval for PNA                                                
+     Admitting Diagnosis: NON Q MI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with SOB, s/o MI, reported PNA at OSH.  now with cough and 
+      rales.
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     Portable upright frontal radiograph.  Comparison [**2674-12-2**].
+     
+     FINDINGS:  The patient is post CABG.  The heart is enlarged.  The mediastinal
+     contours are normal.  There has been improvement in congestive heart failure
+     pattern noted on the prior study.  There is persistent bibasilar atelectasis.
+     There has been interval removal of the previously noted Swan-Ganz catheter.
+     There are no new focal consolidations or pneumothorax.
+     
+     IMPRESSION:  Improving congestive heart failure.  Minimal bibasilar
+     atelectasis.
+
+",,

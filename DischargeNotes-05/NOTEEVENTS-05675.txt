@@ -1,0 +1,281 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5675,19367,,,3311-12-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3311-12-1**]       Discharge Date:  [**3311-12-4**]
+
+Date of Birth:   [**3226-12-17**]       Sex:  M
+
+Service:  NEUROSURGERY
+DISCHARGE DIAGNOSIS:  Subdural hematoma.
+
+HISTORY OF PRESENT ILLNESS:  This is an 84 year old male with
+dementia who was recently seen by neurologist for headache,
+speech and gait disturbance.  The patient had a magnetic
+denies trauma.  Headache has been for months to a year.
+Change in speech and gait for one month. The patient denies
+any chest pain or shortness of breath.
+
+PAST MEDICAL HISTORY:
+1.  Status post appendectomy.
+2.  Dementia.
+MEDICATIONS ON ADMISSION:  Aspirin p.r.n.
+
+PHYSICAL EXAMINATION:  On physical examination, temperature
+was 96.7, heart rate 76, blood pressure 187/102, respiratory
+rate 20 and saturation 94% in room air.  The patient was
+awake and alert to the hospital but not year or month and
+could say two days before [**Holiday 3516**].  The pupils are
+equal, round, and reactive to light and accommodation.
+Extraocular movements are intact.  The patient is not
+understanding or following fingers.  Respiratory - air entry
+bilaterally equal.  Cardiovascular - heart sounds, rate and
+rhythm regular, no rub or murmur.  The abdomen is soft,
+nontender, nondistended, bowel sounds felt.  Neurologic - no
+facial asymmetry, tongue midline, no pronator drift.
+
+LABORATORY DATA:  Sodium 136, potassium initially elevated
+because of hemolysis and repeated and was normal, chloride
+100, bicarbonate 31, blood urea nitrogen 26, creatinine 1.2,
+blood sugar 97.  INR was 1.2.  Hematocrit was 37.2.
+
+Magnetic resonance scan showed 13.0 by 4.5 centimeter left
+subdural collection.
+
+CT shows a left subdural hematoma with acute and chronic
+blood.
+
+HOSPITAL COURSE:  The patient was admitted to the
+neurosurgical Intensive Care Unit.  He was given 1 mg of
+Versed and 100 mcg of Fentanyl and was prepped and draped in
+a sterile fashion and drainage procedure was performed.
+
+A drain was placed subdurally and CT scan was repeated the
+next morning which showed resolution or reduction in the size
+of the subdural hemorrhage.
+
+The patient was transferred back to the floor on [**3311-12-4**].
+The patient is being screened for rehabilitation facility.
+Neurological condition is awake, alert and oriented.  He is
+follow-up with Dr. [**Last Name (STitle) 1496**] in two weeks time and a CT of the
+head needs to be repeated prior to follow-up.
+
+
+
+
+                            DR.[**Last Name (STitle) 739**],[**First Name3 (LF) 738**] B. 14-119
+
+Dictated By:[**Name8 (MD) 6919**]
+MEDQUIST36
+
+D:  [**3311-12-4**]  13:51
+T:  [**3311-12-4**]  14:36
+JOB#:  [**Job Number 6920**]
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) 738**] [**Last Name (NamePattern1) 739**]
+ on: WED [**3312-2-10**] 12:20 PM
+(End of Report)
+
+
+",,
+5675,19367,7052,0,3311-12-01 22:30:00 EST,3311-12-01 22:39:00 EST,506,"N",1,"Nursing/Other","CCU NSG ADMISSION NOTE: SUBDURAL HEMATOMA","
+CCU NSG ADMISSION NOTE: SUBDURAL HEMATOMA
+HPA: This 84 y old male who lives alone went to outlying hospital with history of headache for a month and intermittent gait and speach disturbance over the past few days. An MRI showed large L acute on chronic subdural hematoma measureing 13 X 4.5 mm. They transfered him to [**Hospital1 22**] for further treatment. In EW BP was in the 180s/100s. He received 1.2"" NTP and bp has since been in 140s. He had CXR and head CT. He is coming to have burr hole drainage and a-line placement.
+",,
+5675,19367,7052,0,3311-12-02 05:21:00 EST,3311-12-02 05:41:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7p-7a:
+
+Pt arrived to CCU at 11:30p from the EW.
+Please see carevue for objective data. 
+
+Neuro: Pt alert and oriented x2.  Pt with dementia per report.  Pt seen [**11-24**] for c/o speech, HA and gait disturbance. Moving all extremities spontaneously. Pt slow to respond to questions asked. Pt admitted to CCU for drain placement. Pt rec'd fentanyl and versed IV prior to procedure. Pt tolerated placement w/o incidence.  Soft wrist restraints in place. SBP remains <150 please notify H.O. prior to starting nipride gtt.
+Ns at 70cc/hr. 
+Please administer Kefzol IV w/a from pharmacy.
+
+ICP drain to gravity at bedside. HOB flat at all times. ICP drained 60cc of bloody drainage. ICP drain clotted off Neurosurg intern up to evaluate, drain flushed w/o improvement.  Await further plan.  Pt to undergo a head CT this am at appox 9 or 10am.  
+
+CV: SBP <150 off nipride gtt. Pt denies CP. Palpable pulses. NSR HR 60-80's no ectopy.
+
+PULM: LS Clear. Pt denies sob. Pt placed on 100% NRB during procedure. Currently on rm air sating 96%. 
+
+GI: Abd flat NT +BS. Pt maintaing NPO status.
+
+GU: Foley cath placed draining cyu in adequate amts. 
+
+SKIN: intact
+
+PROPH: Pneumoboots and zantac IV
+
+LINES: 1 PIV.
+
+DISPO: Full Code
+
+SOCIAL: No phone calls overnight. Per EW report pt came to hospital accompianed by family.
+
+Pt resting comfortably overnight awoken q1hr for neuro checks.
+
+A: VSS. Neuro exam stable s/p subdural drain placement.
+   Drain clotted off.
+P: Head CT 9 or 10am. Neuro checks q1hr. HOB flat. IVF. NPO. Maintain SBP <150. Call team if nipride indicated.
+
+",,
+5675,19367,7052,0,3311-12-02 07:05:00 EST,3311-12-02 07:07:00 EST,226,"N",1,"Nursing/Other",,"
+
+ADDENDUM TO NURSING PROGRESS NOTE:
+
+Neurosurg intern flushed subdural drain a second time using saline with desired effect. Subdural drain is now draining scant amt of bloody drainage. CPNCP. 
+",,
+5675,19367,7052,0,3311-12-02 18:47:00 EST,3311-12-02 19:15:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 7pm","
+CCU NPN 7am - 7pm
+S: "" My head feels tender where they used the drill.""
+O:  Neuro:  Pt. A&O x2-3.  Answering questions appropriately for most of the day.  Near end of this shift pt. appeared to be slighty confused stating that he didn't know that there was a drain in his head.  wrist restraints remained tied.  PERRlA.  Pt. states some tenderness at the site of the drain.  NSurg in to flush drain 3 times.  95 cc of bloody drainage this shift.  Head CT done.  It showed that there is still significant accumulation in the subdural space.  The drain remains to gravity and the team plans to place a new catheter to attempt to drain the remainder.  
+CVS:  SBP was greater than 150 and the pt. was started on IV lopressor 5 mg IV Q 6 hours and hydralazine 10 mg IV Q 6 hours.  SBP has fluctuated between 124 and 160 since.  HR 70 - 90's SR with some APC's and occ PVC. 
+G.I.:  pt. remains NPO.  c/o of nausea on the way to CT.  Given 0.625 mg of droperidol.  Having some dry heaves and phlegm.  Nausea has improved.  Continues on ranitidine.
+G.U.:  Pt. voiding via foley catheter without problem.  u/o 30 - 100cc/hr.
+Skin:  site around drain has been oozing a small amt as noted by small blood stain on dressing.
+resp:RR low 20's.  O2 sats are 96 - 98% on RA.  Productive cough.
+A:  subdural hematoma with drain.
+P:  continue drain to gravity,  monitor site, continue wrist restraints, lopressor and hydralazine Q 6 hours, droperidol for nausea.
+",,
+5675,19367,7052,0,3311-12-03 05:07:00 EST,3311-12-03 05:24:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: AWAKE & ALERT. ORIENTED X3. ANSWERS QUESTIONS APPROPRIATELY,
+       BUT SEEMS TO EASILY FORGET THINGS (IE) THAT HE IS NPO OR THAT
+       HE HAS A DRAIN IN HIS HEAD. FOLLOWS COMMANDS CONSISTENTLY. 
+       PERL 2mm. MAE & HAS EQUAL STRENGTH ON BOTH SIDES. NEURO DRAIN
+       INTACT WITH MINIMAL BLOODY DRAINAGE. DSG CHANGED AT BEGINNING
+       OF SHIFT D/T INCREASED BLOODY DRAINAGE. SITE C&D. NO FURTHER
+       DRAINAGE. DSG D&I ALL NOC. FLAT IN BED AS ORDERED (IF NEED TO
+       TURN PT., HE IS ONLY TO TURN TO LEFT SIDE). CONT. ON IVP LO-
+       PRESSOR & HYDRALAZINE FOR BP CONTROL.
+RESP: O2 SATS->96-98% ON RM. AIR. RR 12-19. BS CLEAR.
+CARDIAC: HR 78-90 SR WITH OCC. PAC'S. BP 128-150/52-87.  NS INFUSING 
+         AT 70CC/HR.
+GI: NPO WHILE FLAT IN BED. ABD. SOFT. BS +. NO STOOL.
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 20-55CC/HR.
+ID: AFEBRILE. CONT. ON IV KEFZOL.
+LABS PENDING.    
+",,
+5675,26509,7053,0,3312-01-05 06:36:00 EST,3312-01-05 06:40:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT VSS.  NEUROS STABLE.  A&O X3, MAE=W, RIGHT PUPIL SL LARGER THAN LEFT, BOTH REACTIVE APPROP.  NEUROSURG AWARE.  CRANI DRESSING D&I, PROTRUDING SUBDURAL DRAIN DRAINING BLOODY FLUID.  LUNGS CLEAR, SLIGHTLY DECREASED BASES.  GOOD HUO VIA FOLEY.  NIPRIDE ON SEVERAL HOURS THROUGH NIGHT, PT NOW ON LOPRESSOR IV Q6HRS AND NIPRIDE GTT OFF. PTS SBP MAINTAINING <150 AT THIS TIME.
+",,
+5675,26509,7053,0,3312-01-05 16:23:00 EST,3312-01-05 16:46:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO: [**Last Name (un) **] ORIENTED X 3 DURING EARLY HOURS OF DAY. AFTER CT SCAN PERIODS OF FORGETFULNESS--PT UNAWARE OF WHERE HE IS EVEN THOUGH REDIRECTED SEVERAL TIMES DR [**Last Name (STitle) 834**] FROM NEURO CALLED FOR FURTHER ASSESSMENT. NO OTHER NEURO CHANGES NOTED. RESTLESS OVER FEW LAST HOURS RESTRANS APPLIED PER DR[**Last Name (STitle) 835**] REQUEST TO AVOID SELF D/C OF SDS DRAIN.
+
+CV: NORMOTENSIVE, NSR, LOPRESSOR IV CHANGED TO PO C/ GOOD RESULTS. IV FLUIDS TO BE STOPPED WHEN PO INTAKE IS INICIATED.
+
+RESP: LUNG SOUNDS CLEAR SATS 100.
+
+GI/GU: FOLEY PATENT DRAINING YELLOY CLEAR URINE. PO INTAKE NOT INICIATED DUE TO INABILITY OF RAISING PT'S HEAD TO AVOID ASPIRATION.
+
+PLAN CONTINUE TO MONITOR NEURO STATUS, MAINTAIN SBP < 140 
+ 
+",,
+5675,26509,7053,0,3312-01-06 06:37:00 EST,3312-01-06 06:40:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT CONT TO BE ALERT, ORIENTED X1.  PUPILS CONT RIGHT LARGER THAN LEFT, REACTIVE WNL. NOT TO TIME/PLACE/SITUATION.  MULT ATTEMPTS TO SIT UP, GET OOB, PULLING AT LINES AND TUBES.  VSS.  LUNGS CLEAR ON 2L NC.  ABD WNL, THOUGH POOR SWALLOW EVEN WHILE AT 15 DEGREES.  GOOD HUO.  DENIES PAIN/DISCOMFORT.
+",,
+5675,26509,7053,0,3312-01-06 11:22:00 EST,3312-01-06 11:37:00 EST,3085,"N",54,"Nursing/Other","TRANSFER NOTE","
+TRANSFER NOTE
+D.85 YR OLD MALE WITH NO PAST MEDICAL HX EXCEPT APPEY,TONSILS AND DRAINAGE OF SUBDURAL IN [**3311-11-12**].. RECENT MEMORY LOSS,DIFFICULTY IN SPEECH AND WEAKNESS IN LEGS.
+ [**1-4**] LT CRANIOTOMY WITH EVAC.OF SDH AND INSERTIONOF DRAIN. 180ADMITTED TO SICU FROM PACU EXTUBATED RT PUPIL SL LGER THAN LT BUT EQUALLY RESCTIVE.
+ [**1-5**] CT SCAN - SHOWED SOME RESIDUAL BLOOD WHICH DRAIN WAS NOT CLEARING THUS DRAIN PULLED BACK BY NEURO SURGERY.REPEAT CT SHOWED LGE AIR POCKET.DURING NITE PT MORE CONFUSED TO TIME AND PLACE.
+ [**1-6**] THIS AM PT IS AFEBRILE SR-SB ON LOPRESSOR,RR 14-20, RMAIR O2 SAT=99,BP 140-110/ 80-61.
+ PT IS ORIENTED X3 MUCH OF THE TIME.. SPEAKS CLEARLY AT TIMES.ABLE TO WALK TO CHAIR WITH ASSISTANCE OF 2.R?L PUPIL BUT EQUALLY REACTIVE.
+ SUBDURAL DRAIN D/C'D PRIOR TO OOB.. PT DENIES HA.
+ PT WAS ASSSTED WITH BREAKFAST AND ABLE TO EAT WITH OCCASSIONAL COUGHING WITH LIQS.IVF CONTINUES AT 75ML/HR.Q 2HR UO 100-200.
+ PT REQUIRES POSEY IN CHAIR DUE TO BEING VERY FIGIDDY AND PICKING AT ANYTHING IN HIS HANDS AND ATTEMPTING TO GET OUT OF CHAIR ON HIS OWN.. PT TENDS TO BE FORGETFUL.
+ A.PT TO BE MONITORED THRU THE DAY AND IF NEURO SIGNS STABLE,TRANSFER TO FLOOR.
+R.STABLE AT THIS TIME. 
+",,
+5675,22287,7054,0,3313-02-11 03:48:00 EST,3313-02-11 03:49:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont sedated, intub on mech vent as per Carevue. Lung sounds coarse suct mod loose tan sput. Cont mech vent.
+",,
+5675,22287,7054,0,3313-02-11 06:09:00 EST,3313-02-11 06:31:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing admission Note","
+T/SICU Nursing admission Note
+Mr. [**Known patient lastname 836**] is a 86 year old man admitted to T/SICU from the VICU.  He was in the VICU following a AAA repair on [**3314-1-9**].  He had been stable postop until the RN found pt unarousable.  ABG at that time was 152/106/7.06/32/-3.  Pt. was intubated and transferred to T/SICU.  PMH significant for crainiotomy [**12-11**] for subdural hematoma.  Also s/p tonsillectomy, appendectomy.  Htn and slight dementia are noted in medical history. Pt. on no meds before surgery. 
+REVIEW Of Systems:
+Neuro: arousable, moves all extremities, follows commands.  Started on low dose propofol for comfort. Medicated with small doses of fent for incisional discomfort.  Epidural capped at present.
+CVS: In sinus rhythm, initial cpks negative.  BP down to 80 for short time but responded to 500cc fluid bolus.  On no pressures.  Receiving lopressor 5 mg q 6 hours.  Hemodynamic parameters as per carevue.  CO initially low and now returned to baseline.  Lytes repleted Peripheral pulses palpable
+RESP: abg adequate.  CXR shows pleural effusions.
+RENAL; Urine output adequate, wt today 68.3
+GI: og placed, bilious output.  Belly firm but nondistended
+ENDO: bs wnl
+SKIN: belly incision with small amount of staining, otherwise intact
+ID: temp up to 38.6, sputum sent.  On no antibiotics
+Heme: hct stable, on pneumoboots
+A: respiratory failure due to ??epidural or some other unknown cause
+P: lighten and attempt to wean.  Follow hemodynamics.
+",,
+5675,22287,7054,0,3313-02-11 15:53:00 EST,3313-02-11 16:15:00 EST,3327,"N",53,"Nursing/Other","T-SICU Nursing Note","
+T-SICU Nursing Note
+Pt is an 86 yo male s/p AAA repair [**3313-2-9**]. Pt admitted to ICU d/t respiratory depression likely d/t medication (Narcotics & Benadryl) requiring intubation. Pt awake this morning, mainatining adequate oxygenation & ventilation. Patient weaned & extubated ar 1130 am.
+
+ROS/
+
+Neuro: Awake, oriented x [**1-12**], MAE, equal strength BUE & BLE. Pt experiencing visual hallucinations this afternoon. Patient assured that he is safe. No agitation noted. Pain managed with Fentanyl 25mcg IVP prn. Epidural site initially intact, however this afternoon bleeding from epidural site with ? indurated area at site, although site difficult to visualize d/t drng. Patient denies back pain at this time & motor & sensory intact BLE. ICU HO, Dr. [**Last Name (STitle) 609**] & APS notified. Anesthesia to evaluate.
+
+CV: SR-ST no ventricular ectopy. Lopressor increased to 10mg q 6hrs from 5mg IV q 6hrs. CO/CI, filling pressures stable. + weak palp pp BLE. Venodynes BLE. Heparin dc'd d/t low platelets, ? HIT.
+
+Resp: Extubated at 1130. RR reg nonlabored. BS clear, diminished at bases bilaterally. O2 sat 98-99% 3L NC. C, DB, IS with encouragement, assist.
+
+Renal: U/O clear yellow qs
+
+GI: NPO, abdomen firm, nondistended this am, slight distension at this time noted, hypo BS, tender around incision.
+
+Heme: Plt 60's. Hct 31.5 this afternoon. Bleeding from abdominal incision & epidural site. Will transfuse platelets. 
+
+ID: Lograde temps
+
+Skin: Abdominal inc with staples intact, bleeding from incision. 
+
+Social: Pt lives alone, next door to his sister, Pt's sister called to check on pt, information & support provided.
+
+A/P: Pt s/p AAA repair with post op complication of resp depression requiring intubation and now with low platelets & incisional bleeding. Plan continue current monitoring, management in ICU, transfuse platelets.
+",,
+5675,22287,7054,0,3313-02-12 05:26:00 EST,3313-02-12 05:38:00 EST,3826,"N",53,"Nursing/Other",,"
+
+NPN
+N: PT ALERT/ORIENTED X1-2. VERY PLEASANT AND COOPERATIVE. GIVEN FENT BOLUSES X2 FOR C/O PAIN WITH EFFECT. ABLE TO [**Doctor Last Name **] OFF/ON MOST OF SHIFT.
+CV: HYPERTENSIVE REQUIRING INCREASE IN LOPRESSOR AND ADDITION OF HYDRALAZINE. SBP 140-70'S/ AND NSR 80'S WITHOUT ECTOPY. K 3.1 AND GIVEN 60MEQ IV KCL. MG REPLETED.
+R: LUNGS COURSE CLEARING WITH C/DB EXERCISES SL DIM AT BASES. O2 3L AND SATS 94-98%. STRONG PROD COUGH EXPECTORATING SM AMTS.
+GI: NPO. ABD FIRM/TENDER WITH HYPO BS.
+GU: BRISKLY AUTODIURESING AFTER VOLUME FROM BLD PRODUCTS. FLDS KVO.
+HEME: OOZING FROM ABD INCISION AND EPIDURAL SITE STOPPED. PT REC'D 2U FFP->PTT 29/INR 1.1 -- HCT 27->GIVEN 1U->27 -->GIVEN ADD'L UNIT AND HCT 30. WILL CONT TO CHECK Q4HRS. PLT 94.
+ID: LOW GRADE TEMPS. WBC 7
+ENDO: GLUC 110'S
+SOC: PT'S NIECE VISITING LAST EVENING AND UPDATED. NO CONTACT WITH FAMILY OVERNIGHT.
+A/ PT MORE HD STABLE OVERNIGHT WITHOUT S/S FURTHER BLEEDING FROM ABD AND OOZING FROM INSERTION SITES.
+P/ ?D/C SWAN TODAY. D/C EPIDURAL. 
+",,
+5675,22287,7054,0,3313-02-12 16:18:00 EST,3313-02-12 16:28:00 EST,3327,"N",53,"Nursing/Other","T-SICU Nursing Note","
+T-SICU Nursing Note
+ROS/
+
+Neuro: Awake, oriented x [**2-13**]. Mildly confused at times. No agitation, safety maintained. MAE, equal strength BUE & BLE, sensation intact BLE. Epidural clamped - site with sang drng on guaze, dsg intact. Fent 25mcg prn incisional pain with effect reported.
+
+CV: SR no ectopy. BP stable, responds to antihypertensives. + palp pp BLE, venodynes BLE. 
+
+Resp: Lungs clear dimished at bases bilaterally. Resp rate reg nonlabored. O2 sat 9-99% 3L NC. C, DB, IS with assist, encouragement.
+
+Renal: U/O qs clear yellow via foley. 
+
+GI: NPO. Abdomen firm, tender around incision. Hypo BS, no flatus.
+
+Heme: Plt 68 this am, Hct 30, INR 1.1 Plan recheck at 1800. Abdominal inc with serosang drng, epidural dsg with sang drng - small. No other sites bleeding.
+
+ID: Lograde temps. 
+
+Skin: Abd incision with staples intact, dsd changed several times d/t serosang drng. Rt arm & Rt inner thigh ecchymotic.
+
+Social: Pt's sister called, friends visited this afternoon.
+
+Activity: Pt OOB to chair - stand pivot with 1 assist - tolerated activity well.
+
+A/P: Pt s/p AAA repair, post op course complicated by resp depression, bleeding. Pt hemodynamically stable today. Plan continue current monitoring, managemebt, post op care, monitor for S&S bleeding. 
+",,

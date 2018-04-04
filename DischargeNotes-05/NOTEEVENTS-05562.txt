@@ -1,0 +1,451 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5562,,,,2892-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2892-9-6**] 11:02 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 12166**]
+     Reason: post cyberknife radiosurgery, lugn ca w/ brain mets
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with 
+     REASON FOR THIS EXAMINATION:
+      post cyberknife radiosurgery
+      lugn ca w/ brain mets
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRI brain.
+     
+     CLINICAL INFORMATION:  Patient is status post CyberKnife radiosurgery for lung
+     cancer.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR, T2 susceptibility and diffusion
+     axial images were obtained before gadolinium.  T1 sagittal, axial, and coronal
+     images were obtained following the administration of gadolinium.  Comparison
+     was made with the previous MRI of [**2892-7-23**] and [**2892-7-31**].
+     
+     FINDINGS:  Again multiple enhancing lesions are identified consistent with
+     metastatic disease.  The left frontal lobe lesions as well as the lesion in
+     the right parietal lobe, right posterior frontal lobe medially and superiorly,
+     and within the sulcus in the right frontal lobe have slightly decreased in
+     size.  The decrease in size is particularly well noted in the left frontal
+     lobe lesion which was measured at 15 mm on the previous study and measures 11
+     mm on the current study.  In addition, an anterior temporal lobe lesion on the
+     right side is also less apparent and is avidly enhancing on the current study.
+     Diffuse hyperintensities are seen in the white matter which could be related
+     to radiation therapy.
+     
+     There are no new areas of abnormal enhancement seen.  No midline shift or
+     hydrocephalus is identified.
+     
+     IMPRESSION:  Since the previous MRI study, there has been overall slight
+     decrease in size of the multiple enhancing lesions.  No new lesions are
+     identified.  No mass effect or hydrocephalus.
+                                                                           
+
+",,
+5562,26996,,,2892-09-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2892-9-30**]              Discharge Date:   [**2892-10-3**]
+ 
+Date of Birth:  [**2841-3-12**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 6705**] 
+Chief Complaint:
+Respiratory distress
+ 
+Major Surgical or Invasive Procedure:
+n/a
+ 
+History of Present Illness:
+ 51M with metastatic NSC lung CA p/w dyspnea. Wife noted that pt 
+has had dyspnea at home with walking around for the past week. 
+No chest pain, no fevers, chills, does have a chronic cough. 
+Today he went to clinic at PCPs office and was significantly SOB 
+with walking. He was noted to be tachycardic to 150s and satting 
+in low 90s was sent to ED. 
+   In the ED, T98.4 p 130 bp 90/60 satting 80%, was put on NRB. 
+He was given 3L NS. WBC found to be 58, up from 30 2 wks ago and 
+18 the month prior. CXR showed R sided infiltrate vs RML 
+collapse. pt was given levo/flagyl. HR was improved to 100, bp 
+to 113/55.
+   Patient was admitted to FICU for observation. Continued on 
+antibiotics. 
+
+ 
+Past Medical History:
+Past Medical History:  
+COPD never on inhalers 
+.
+Onc Hx:
+Dx in [**2889**]. 
+s/p seventeen cycles of Navelbine chemotherapy between [**2890-6-23**] and [**2891-11-9**].  
+Developed progressive disease and brain mets His CEA was also 
+rising. 
+Seizure: episode of speech arrest on [**2890-11-30**] neuro-onc 
+called it a seizure.
+6 cycles of Taxotere chemotherapy. 
+His treatments for brain metastases is summarized:
+(1) whole brain cranial irradiation from [**2890-1-23**] to [**2890-2-6**] to
+3,000 cGy,
+(2) s/p X-knife stereotactic radiosurgery to a left frontal
+metastasis to 2,000 cGy on [**2891-1-31**],
+(3) s/p Cyberknife radiosurgery to right temporal metastasis to
+1,800 cGy on [**2891-11-1**], and
+(4) s/p Cyberknife radiosurgery to 3 right brain metastases and 
+a
+left frontal brain metastasis on [**2892-4-25**] to 1,800 cGy each.
+Tarceva from [**8-19**] to [**2892-9-9**] andstates that it made 
+him feel much worse.  His CEA which was 80 on [**7-22**] had risen 
+to 145 on [**2892-8-19**].
+ 
+Social History:
+Social History: Smoked sice age 16, no alcochol, drugs. now 
+lives with wife. 
+ 
+Family History:
+Family History: no CA in mom or dad.
+ 
+Physical Exam:
+Physical Exam:  
+VS: Temp:     BP:     HR:   RR: O2sat: L NC  
+GEN: mild resp distress, alert, interactive, appropriate
+RESP: R sided bronchial breath sounds, otherwise fairly clear.
+CV: RR, S1 and S2 wnl, SEM
+ABD:  soft, mild distension, nt 
+EXT: no c/c/e  
+ 
+Pertinent Results:
+[**2892-9-30**] 01:20PM   PT-19.1* PTT-22.8 INR(PT)-1.8*
+[**2892-9-30**] 12:54PM   LACTATE-4.2*
+
+[**2892-9-30**] 12:25PM   K+-4.8
+[**2892-9-30**] 11:45AM   GLUCOSE-127* UREA N-26* CREAT-1.1 SODIUM-136 
+POTASSIUM-4.7 CHLORIDE-100 TOTAL CO2-19* ANION GAP-22*
+
+[**2892-9-30**] 11:45AM   ALT(SGPT)-101* AST(SGOT)-56* ALK PHOS-744* 
+AMYLASE-40 TOT BILI-0.8
+[**2892-9-30**] 11:45AM   CALCIUM-7.6* PHOSPHATE-2.2* MAGNESIUM-2.8*
+
+[**2892-9-30**] 11:45AM   WBC-58.2*# RBC-4.27* HGB-13.2* HCT-39.3* 
+MCV-92 MCH-30.9 MCHC-33.5 RDW-16.9*
+[**2892-9-30**] 11:45AM   NEUTS-38* BANDS-40* LYMPHS-1* MONOS-3 EOS-17* 
+BASOS-0 ATYPS-0 METAS-1* MYELOS-0
+[**2892-9-30**] 11:45AM   HYPOCHROM-NORMAL ANISOCYT-1+ 
+POIKILOCY-OCCASIONAL MACROCYT-1+ MICROCYT-NORMAL 
+POLYCHROM-OCCASIONAL
+[**2892-9-30**] 11:45AM   PLT SMR-LOW PLT COUNT-92*
+
+CXR [**9-30**]:IMPRESSION:  More extensive parenchymal infiltrate in 
+right mid lung field exceeding the previously described hilar 
+prominence and densities related to patient's lung cancer shown 
+by CT.  The now present parenchymal infiltrates may represent 
+the clinically suspected infection and followup chest 
+examinations after treatment is recommended 
+
+CXR [**10-1**]: FINDINGS: Compared with the study of 9/19, there has 
+been further interval consolidation of the right mid lung 
+infiltrate.
+
+LENIs:FINDINGS: Bilateral [**Doctor Last Name **]-scale and color Doppler sonograms 
+of the lower extremities including the common femoral, 
+superficial femoral, and popliteal veins were performed. Normal 
+flow, augmentation and waveforms were demonstrated. Mid portion 
+of the left superficial femoral was poorly compressible, but 
+intraluminal thrombus was not identified.
+
+IMPRESSION: No acute DVT.
+
+ 
+Brief Hospital Course:
+51M with metastatic NSC lung CA with mets to brain admitted with 
+dyspnea.
+
+The patient was admitted for significant respiratory distress 
+which worsened precipitously throughout the first 24-48 hours of 
+his admission. He was on a nonrebreather mask breathing at 40-50 
+bpm, despite being treated with antibiotics for potential 
+pulmonary infection. 
+.
+He was DNR/DNI on admission, and his health care proxy (wife) 
+transitioned his goals of care to comfort measures only in the 
+afternoon of 9/21. The patient was placed on a morphine drip and 
+maintained on a NRB throughout the night. He desaturated over 
+the course of 12 hours and passed away at 0514 on [**10-3**]. The 
+family has declined autopsy.
+ 
+Medications on Admission:
+Medications: 
+Keppra 1750 mg BID
+Vitamins;
+Dexamethasone 3.0 mg QD
+Fluconazole 100'
+Zonegran 100 bid
+tessalon perles
+ambien 10 qHS
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Cardiopulmonary arrest, made CMO for bilateral metastatic non 
+small cell lung cancer.
+
+ 
+Discharge Condition:
+Deceased
+
+ 
+Discharge Instructions:
+Deceased
+ 
+Followup Instructions:
+Deceased
+
+ 
+                             [**Name6 (MD) 2621**] [**Last Name (NamePattern4) 2622**] MD [**MD Number 2623**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 2049**] [**Last Name (NamePattern4) 2050**] MD [**MD Number 2051**] [**2892-10-3**] @ 0729
+Signed electronically by: DR. [**First Name (STitle) 2621**] [**Name (STitle) **]
+ on: WED [**2892-10-29**] 7:33 PM
+(End of Report)
+
+
+",,
+5562,26996,,,2892-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2892-9-30**] 12:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12167**]
+     Reason: r/o infection                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      r/o infection                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  Shortness of breath, evaluate for infective processes.
+     
+     FINDINGS:  AP single view of the chest with patient in semi-upright position
+     is analyzed in direct comparison with a previous AP and lateral chest
+     examination of [**2892-7-24**].  A right subclavian venous access catheter is
+     again noted but in contrast to the previous examination, the catheter reaches
+     clearly within the territory of the right atrium.  No pneumothorax has
+     developed.  Heart size is difficult to determine, but significant cardiac
+     enlargement is unlikely, nor is there any significant pulmonary congestion. In
+     comparison with the previous study, however rather extensive parenchymal
+     infiltrate has developed in the right lung mid portion several more prominent
+     than on the previous examination identified right-sided mediastinal adenopathy
+     and right hilar mass which had been evaluated on CT in [**2892-5-12**].  Sclerotic
+     rib on the right side ([**Doctor Last Name 12168**] VI) again seen without significant progression.
+     Poor inspirational effort can explain the rather crowded pulmonary vasculature
+     on the left base with conclusive evidence for infiltrate is not identified.
+     
+     IMPRESSION:  More extensive parenchymal infiltrate in right mid lung field
+     exceeding the previously described hilar prominence and densities related to
+     patient's lung cancer shown by CT.  The now present parenchymal infiltrates
+     may represent the clinically suspected infection and followup chest
+     examinations after treatment is recommended.  Telephone report delivered to
+     referring physician and [**Hospital Unit Name 877**].
+     
+     
+
+",,
+5562,26996,6908,0,2892-09-30 17:14:00 EST,2892-09-30 17:25:00 EST,1520,"N",69,"Nursing/Other",,"
+
+This is 51 y/o gentleman w/ mets non-small lung ca (mets to brain/liver), seizure (on Keppra at home).  Went to his oncology appt (DR. [**Last Name (STitle) 442**]) this AM and noted to be markedly more SOB and having D.O.E. Sent to [**Hospital1 22**] ED and noted increased Dsypnea at rest, hypotensive, and low sats to mid 80%. Given a total of 2.5 l NS, place on 100% NRB mask.  Found to have RML collapse (? infection) w/ lactate 4.2. Given levaquin and flagyl iv in ED. Pt is DNR/DNI and admitted to MICU EAST Room 405 for re-hydration and preparation for Hospice care at home. 
+
+                  Please see flowsheet for more details
+
+
+Neuro:  AAOx3, PERLA. MAE. C/o lower back pain and given morphine 2mg iv push x 1 w/ good relief. Voice difficult to understand and noted to be slightly slurred per wife (new). h/o seizures.  None since admission or in ED.
+
+Resp:  Initially, he was on 100% NRB and now, weaned to 6 L NC. Maintaining o2 sats > 95%. RR tachypneic to 30's at times. Lungs coarse/rhonchi throughout.  Markedly diminished to R side. 
+
+CV:  SR-ST no ectopy.  BP stable w/ maintain. IVF at 50cc/hr.  Afebrile. Portacath to R chest and #20 left PIV placed in ED. Min. amt of edema noted. 
+
+GI/GU: + BS noted. Abd is obese vs. ascites, NT. NO BM at present.  Voided only 100cc clear urine. Refusing foley at present. 
+
+SOCIAL:  Wife and mother at present. Updated by RN and MICU resident.
+
+Plan: Cont. w/ current plan of care. Notified SW of admission to ICU.  Need Case manager for hospice consult. Monitor per protocol. Wean o2 as tolerated. Needs ECG. 
+",,
+5562,26996,6908,,2892-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2892-10-1**] 7:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12169**]
+     Reason: interval change                                             
+     Admitting Diagnosis: METASTATIC LUNG CANCER;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with met lung cancer now with sob                              
+                                
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, 6:47 A.M., ON [**10-1**] 
+     
+     INDICATION:  Metastatic lung CA.  Shortness of breath.
+     
+     FINDINGS:  Compared with the study of 9/19, there has been further interval
+     consolidation of the right mid lung infiltrate.
+     
+     Otherwise, no obvious significant interval changes.
+                                                                           
+
+",,
+5562,26996,6908,,2892-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2892-10-1**] 3:19 PM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 12170**]
+     Reason: r/o DVT                                                     
+     Admitting Diagnosis: METASTATIC LUNG CANCER;PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with SOB, concern for PE, not a good candidate for CTA.         
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath, concern for PE, not a good candidate for CT.
+     Rule out DVT.
+     
+     COMPARISON:  [**2892-3-29**].
+     
+     FINDINGS:  Bilateral [**Doctor Last Name 20**]-scale and color Doppler sonograms of the lower
+     extremities including the common femoral, superficial femoral, and popliteal
+     veins were performed.  Normal flow, augmentation and waveforms were
+     demonstrated.  Mid portion of the left superficial femoral was poorly
+     compressible, but intraluminal thrombus was not identified.
+     
+     IMPRESSION:  No acute DVT.
+                                                                           
+
+",,
+5562,26996,6908,0,2892-10-01 04:13:00 EST,2892-10-01 04:24:00 EST,1119,"N",69,"Nursing/Other",,"
+
+
+DNR/DNI    Universal Precautions   NKDA
+
+
+Neuro:  Pt is very restless and apprehensive, altho he denies it when asked.  He can't seem to get comfortable and moving about in the bed.  AAOx3, MAE X4.  Speech is difficult to understand.  Morphine 4mg w/ good effect!
+
+CV:  HR=110-130s, ST, no ectopy.  BP=90-110s/50-60s.  +periph pulses, extrems warm, no edema.
+
+Resp:  6l n/p w/ 02sat 95-98%.  Lungs clear but diminished bilat, more so on the R side.  Occ dry cough.  Tachypnic at 26-36.  If 02 off, 02sat down to 80s immed.  Resp Tx x1.
+
+GI/GU:  abd large, round, +hypo BS.  Taking fluids w/ assistance - able to take pills ok.  No foley - voiding amber urine.
+
+Pain:  Denies discomfort but given MS04 4mgx2 w/ good effect. Earlier in the evening, pt had received Ambien w/ absolutely no effect as well as morphine 2mg about 2hrs after ambien, again w/ NO effect.  After morphine 4mg, pt settles down, rests comfortable and breathes much better.
+
+Access:  R subcl POC, PIV x1
+
+Social:  Wife and family at bedside earlier in the shift - updated by nursing and team.
+
+ID:  T=98.9 oral.  Started on flagyl and levaquin.
+
+Labs:  Pending.
+
+Plan:  Monitor resp status - Tx prn.  Monitor cardiax/neuro status.  Case management to work w/ family re: hospice.  Support family.
+
+
+",,
+5562,26996,6908,0,2892-10-01 16:14:00 EST,2892-10-01 16:25:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+neuro:alert, seems oriented but difficult to understand. some confusion with asking for pain med or making needs known. 
+pain: pt states he is in pain then denies, pain med given prn based on pt grimcaing and look of overall discomfort.
+cad hr 115 to 130's pt given 2x 500cc NS boluses for ? dehydration and reason for st. no change in HR with boluses. nbp 88/46 to 117/87. pt reporting feeling dizzy with turning. 
+resp: ls dim. rul with rhonchi in both bases, lul crackles, , on 6l nc with sats mid 90's.
+gi: bs+, pt c/o gas pain, given simthecone 80 mg po  with some effect. no bm this shfit, tolerating some fluids. 
+gu: uo amber clear urine using urinal 600ccout over shift
+id: afebrile , cont on antibiotics for ? infection
+social: wife and mother at bedside
+plan: family was told by Dr. [**Last Name (STitle) 442**] there is no other TX options, at this time case management does not feel family could handle pt at home with hospice. ? transfer to floor and made CMO 
+
+",,
+5562,26996,6908,0,2892-10-02 02:54:00 EST,2892-10-02 03:02:00 EST,1307,"N",69,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+Neuro: Pt. is alert and oriented.  Difficult to understand pt. due to dyspnea.  No seizures.  Moving all extremities.
+
+Resp: Severe dyspnea with minimal exertion such as turning or using the urinal.  Sats 90% on 6L NC, 93% on 100% NRB.  Sats drop to 80's if off 02.  Breath sounds decreased bilaterally. RR in 40's.  Mild cough-weak-unable to raise sputum.  On levo and flagy for pna.
+
+CV: HR 120-140 SR/ST.  No ectopy.  BP 90's/50's.  IV NS at 125cc/hr. x 2L-2nd liter infusing.  Has peripheral edema.  
+
+ID: afebrile
+
+GI: No stool.  Positive bowel sounds.  C/O diffuse abdominal pain which is relieved with MS04 2mg IV.  
+
+GU: Uses urinal.  
+
+Skin: Intact but with edema and diffuse bruising on arms.
+
+Social: Family met with social worker and case management to discuss possible hospice care. Pt. told his wife he does not want to die as he is concerned about what will happen with his young children. Pt. is called out to the floor awaiting bed.
+
+Plan:
+-MS04 for pain and dyspnea
+-transfer to floor when bed available.
+-support family.
+
+
+",,
+5562,26996,6908,0,2892-10-02 03:59:00 EST,2892-10-02 04:04:00 EST,487,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient with severe dyspnea with minimal movement. Continues on 6l nc with sats in the low 90's. does not tolerate mask very well > will pull it off. Breathsounds are decreased to absent on right. Left upper is clear but lower with crackles. Audible wheeses heard after treatment. Please see carevue for further data.
+Plan: Continue bronchodilator treatments. Albuterol held this shift secondary to high HR.
+",,
+5562,26996,6908,0,2892-10-02 10:25:00 EST,2892-10-02 10:39:00 EST,188,"N",69,"Nursing/Other","MICU/SICU NURSING PROGRESS NOTE 0700-1500--1130","
+MICU/SICU NURSING PROGRESS NOTE 0700-1500--1130
+NEURO--ALERT AND ORIENTED X3. MAE SPONT. FOLLOWS COMMANDS CONSISTENTLY.
+
+RESP--AT ONSET OF SHIFT, PT WAS TACHYPNIC AT 50 WITH HR 150'S. MEDICATED Q2 HRS WITH 4-6 MG IV MSO4 WITH GREAT RESPONSE WITH DECREASE IN RR TO HI 20'S AND DECREASE IN HR TO 120'S. BILATERAL BREATH SOUNDS ARE WITH RALES, RHONCHI  IN ALL FIELDS. PT WEARING O2 AT 6L NC AND 100%NRB. IF NRB IS REMOVED, SAO2 DECREASES TO 80'S. SATS DROP WITH ANY MOVEMENT.
+
+CARDIAC--SBP 90/50'S. ST 120'S.
+
+GI--TAKING SIPS OF FLUIDS. BECOMES VERY SOB WITH ANY MOVEMENT.
+
+GU--VOIDING ON OWN SMALL AMTS OF DARK AMBER URINE.
+
+ENDO--RECEIVING CA++ GLU 4 GMS AND KPHOS. BS UNREMARKABLE.
+
+SKIN--BUE EDEMATOUS. BUTTOCKS WITHOUT BREAKDOWN.
+
+ID--AFEBRILE. REMAINS ON ABX.
+
+COPING--WIFE IN TO VISIT. SOBBING. CASE MANAGER INVOLVED. PLAN IS FOR ALL CARE VNA/HOSPICE TO COME AND VISIT PT TODAY. HE WILL THEN BE TRANSFERRED TO TCU AT [**Hospital 443**] HOSPITAL EITHER TODAY OR TOMORROW WHEN PERMITTED TO DO SO. PT AND WIFE HAVE 2 KIDS [**5-20**] YO. WIFE, [**Doctor Last Name 444**] IS PLANNING ON TELLING THE 9YO EVERYTHING TONIGHT. THE CHILDREN WILL BE COMING IN TO SEE THEIR DAD. PLS ALLOW THEM IN TO VISIT OR PASS THIS ON IF PT IS TRANSFERRED TO FLOOR.
+
+A--HOSPICE COMING TO VISIT.
+
+P--TX TO HOSPICE OR FLOOR WHEN IT IS PERMITTED TO DO SO.
+",,
+5562,26996,6908,0,2892-10-02 19:51:00 EST,2892-10-02 20:02:00 EST,117,"N",69,"Nursing/Other","MICU NPN 3PM-11PM:","
+MICU NPN 3PM-11PM:
+ Pt seen by Hospice for possible transfer but they felt pt to be too tenuous at this point and will see pt tomorrow to reassess possibility of transfer. Pt condition continues to deteriorate this evening with O2 sats dropping to 80's and RR increased to 30's requiring morphine drip for comfort. Pt's wife remains at his side and pt's two daughters came in to visit to say good-bye to their father. Pt has been dyspneic at rest requireing MSO4 drip at 4mg/hr with extra boluses for any care or increased distress/moaning respirations.
+
+Team spoke to wife before MSO4 drip was started and wife wants pt's comfort to be top priority and she is aware of his deteriorating resp status. Lots of family and friends have arrived to visit and support them through this difficult time.
+
+Pt continues on 100% NRB and 6L N/C with sats in the high 80's. Lungs sound coarse w/crackles.
+
+Pt has not voided this shift. Condom cath applied due to pt too somnolent to ask for urinal. Pt not able to swallow pills this evening and team aware.
+
+Plan to keep pt comfortable, continue morphine drip for pain, comfort and continue O2 and antibiotics for now. Will need to discuss further withdrawal of care tomorrow if appropriate.
+",,
+5562,,6908,0,2892-10-03 05:24:00 EST,2892-10-03 05:30:00 EST,5932,"N",69,"Nursing/Other","2300-0700 NPN","
+2300-0700 NPN
+Pt. recieved on Morphine gtt of 6 mgm hr.  Appears comfortable through most of night with few 2 mgm Morphine bolus for grunting.  Family actively grieving at bedside. Wife remained until pt. expired at 0515.  Throught shift pt gradually decreased bp, hr and respirations.  Did open eyes at time groaning. Morphine bolus at 0445 and 0500 for groaning.   MD pronounced at 0515. Family at bedside, supportive care given.  Active listening and support.  Wife took belongings including his wedding ring and gold colored chair about neck with small teacup attached.  Holy medal remains with pt. per family request.  Pt. transported via stretched to morgue.  Family will call funeral home this am for arrangements. 
+",,

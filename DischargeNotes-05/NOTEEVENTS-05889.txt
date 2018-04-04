@@ -1,0 +1,286 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5889,13108,,,3482-05-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3482-5-16**]        Discharge Date: [**3482-5-17**]
+
+Date of Birth:  [**3482-5-16**]        Sex:  F
+
+Service:  NB
+
+
+HISTORY:  Baby Girl [**Known patient lastname 11479**] was the 1205 gram product of a 28
+week twin gestation born to a 38-year-old G4, P2, now 4
+mother.  Pregnancy was notable for maternal chronic
+hypertension and late diagnosis of pregnancy (several weeks
+ago) because of this mother remained on Biodan/Hct for
+hypertension until two weeks ago when pregnancy was
+diagnosed.  Diovan relatively contraindicated during
+pregnancy.  Noted to have marked oligo of question duration.
+Prenatal screens O+, antibody negative.  Hepatitis Surface
+antigen negative.  Rubella immune.  GBS unknown.  When seen
+at [**Hospital 2**] Hospital on [**3482-5-16**] had non-reassuring pattern
+and this in conjungation with other portions of history
+prompted transfer to the [**Hospital1 4**]
+and cesarean section, no prenatal steroids were provided.
+
+At delivery emerged with decreased tone and respiratory heart
+rate in the 50's initially rapid response to bag mask
+ventilation, intubated in the delivery room for moderate
+distress.  Apgars were 3 and 6, brought to the newborn
+intensive care unit after visiting with parents.
+
+PHYSICAL EXAMINATION:  Bruised infant, deep furrowed nasal
+bridge, left hand with only two diagonal creases, hand spayed
+like.  Left wrist with adduction abnormality, all joints
+fully mobile.  Hips normal.  Head notable for wide posterior
+fontanel and sutures.  No defect.  Flattened simple ears,
+rocker bottom feet bilaterally.  Sternum appears normal.
+Lungs:  Coarse breath sounds bilaterally.  Abdomen benign.
+Genitalia: Normal preemie female.  Eyes normal.
+Neurological:  Notable for decreased tone throughout,
+nonfocal.  Anus patent.  Spine intact.
+
+HOSPITAL COURSE:  Respiratory:  [**Known patient lastname 7495**] was intubated in the
+delivery room and was placed on high frequency ventilation
+upon arrival to the Newborn intensive care unit.  High
+frequency ventilation escalated to maximum support a mean
+airway pressure of 20, amplitude of 40, Hz 15 requiring 100%
+O2 throughout her hospital stay.  Her blood gases required
+multiple doses of sodium bicarbonate for metabolic acidosis
+and eventually it became apparent that our efforts were
+futile and decision was made with the family to remove
+support.
+
+Cardiovascular:  Infant was initially on Dopamine 15 mcg per
+kg per minute with borderline blood pressures requiring
+normal saline boluses.  She developed EKG changes consistent
+with hyperkalemia.  She was treated with bicarbonate and
+calcium chloride.  She also received packed red blood
+cells in attempt to provide more volume and improve
+perfusion.  Infant was pronounced dead at 11:33.
+
+Concerns for renal function secondary to examination
+findings.  The infant did not pass any urine during her short
+life.
+
+Fluid and Electrolytes:  Birthweight was 1205 and the infant
+was initially started on 80 cc's per kilo per day of D10-W.
+D-sticks were within normal limits ranging from 87 to 105.
+Electrolytes demonstrated a potassium of 7.9, sodium 132,
+chloride of 105, total Co2 of 8 at which time infant received
+calcium bolus and sodium bicarbonate.
+
+Neurological:  Ultrasounds were not performed.  Infant was
+provided pain medication of Fentanyl and Morphine to keep
+comfortable.
+
+Hematology:  Hematocrit on admission was 35.7, infant did
+receive one transfusion of 10 per kilo packed red blood cells
+in attempts to increase perfusion.
+
+Infectious Disease:  A
+CBC and blood culture obtained.  Infant was started on
+Ampicillin and Cefotaxime.
+
+Psychosocial:  The family is involved and was at bedside at
+the time of redirection.  They were involved in all decisions
+being made.
+
+CONDITION ON DISCHARGE:  Infant has expired.
+
+DISCHARGE DIAGNOSIS:  Extreme premature female, 28 week twin.
+
+Severe respiratory distress syndrome.
+
+Hypoplastic lung.
+
+Status post rule out sepsis with antibiotics.
+
+Profound hypotension.
+
+Hyperkalemia.
+
+Metabolic acidosis.
+
+
+
+                        [**First Name11 (Name Pattern1) 17**] [**Last Name (NamePattern4) 18**], MD [**MD Number 19**]
+
+Dictated By:[**Last Name (NamePattern4) 1141**]
+MEDQUIST36
+D:  [**3482-5-17**] 18:47:24
+T:  [**3482-5-17**] 22:03:57
+Job#:  [**Job Number 11480**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 90**] [**3482-5-18**] 11:41 AM
+(End of Report)
+
+
+",,
+5889,13108,,,3482-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-5-16**] 11:44 PM
+     BABYGRAM CHEST & ABD (TOGETHER ONE FILM) PORT                   Clip # [**Clip Number (Radiology) 12681**]
+     Reason: verify ETT placement, UVC placement
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity at 28 weeks
+     REASON FOR THIS EXAMINATION:
+      verify ETT placement, UVC placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AND ABDOMEN:  This is our initial film on this baby born prematurely at
+     28 weeks.  The patient is intubated with the ETT just above the carina.  An
+     umbilical venous line has been introduced and ends projected over the liver.
+     The lung volumes are low and the lungs are quite opaque compatible with
+     hyaline membrane disease.  The bowel gas pattern is grossly normal.
+
+",,
+5889,13108,7332,,3482-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-5-17**] 7:00 AM
+     BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 12683**]
+     Reason: r/o pneumothorax
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity, respiratory distress
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:
+     
+     Comparison is made to previous films from  [**3482-5-16**]. Since that time the lungs
+     have become somewhat clear. The patient remains intubated with the
+     endotracheal tube above the carina. The umbilic venous line is unchanged in
+     position, probably still within the umbilical vein.  There are some new
+     lucencies in the left perihilar region. This could either be due to surfacant
+     deficiency or early pulmonary interstitial air.
+
+",,
+5889,13108,7332,,3482-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-5-17**] 4:42 AM
+     BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 12682**]
+     Reason: evaluate lung fields
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity, on HFOV, increased oxygen and settings
+     REASON FOR THIS EXAMINATION:
+      evaluate lung fields
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     Since our last exam of 6/22 the lungs have cleared somewhat.  The ETT ends
+     above the carina and the umbilical venous catheter remains presumably in the
+     umbilical vein.  There is some lucency in the left perihilar region which may
+     be due to either differential surfactant effect or peharps early interstitial
+     air.
+
+",,
+5889,13108,7332,,3482-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5889,,7332,0,3482-05-17 00:27:00 EST,3482-05-17 00:40:00 EST,4612,"N",75,"Nursing/Other","Neonatology","
+Neonatology
+Patient is 1205 grtam twin B product of 28 week gestation to 38 yo G4P2 woman. Pregnancy was notable for maternal chronic hypertension and late diagnosis of pregnancy (several weeks ago). because of this mo remained on DIOVANHCT for HTN until two weeks ago when pregnancy diagnosed.  Diovan relatively contraindicated durign pregnancy.
+Noted to have marked oligo of ? duration.
+
+Prenatal screens O+, Ab-, Hbsag-, RI, GBS?.
+
+When seen at [**Hospital1 194**] today had non-reassuring patterna nd this in conjunction with other portions of history prompted transfer here and c-section. No prental steroids.
+
+At delivery emereged with decreased toine and resp. HR in 50s initially. Rapid response to BMV. Intubated in DR [**Last Name (STitle) **] moderate distress. Apgars 3,6. brought to NICU afetr vsiting with parents.
+
+On exam pink bruised infant. Deeply furrowed nasal bridge. Left hand with only tywo diagonal creases. Hand spadelike. Left wrist with adduction abnormality. All joints fully mobile. Hisp normal.. Head notable for wide post fontanelle and sutures. No defect. Flattened simple ears. Rocker bottome feet bilaterally. Sternnum appears normal. Lungs coarse BS bilaterally. Avbdomen benighn. Genitalia normal preemie female. Eyes normal. Neuro notable for decreased tone throughout. Non-focal. Anus patent spine intact.
+
+A- 28-29 week infant with resp failure req HFOV and surfactant rx. Most likely cause id=s combination of HMD and pulmonary hypoplasia. Dysmorphisms may be consisten with oligo iinduced deformations, but spectre of aneuploidy is also raised.
+
+P Admit NIUC
+ REsp support with HFOV and surf (at least sevral doses)
+  Titration of above viaclinical, non-invasive and lab monitoring
+ NPO with IV hydration.
+ Abx for 48 h r/o. No gent. WIll use 3rd generation cephalosporin.
+  Chromosomes in am. ? Genetics consult after reexam.
+  HUS for am.
+  Usual attention to metabolic issues and bili.
+  SPoke to parents in RR. They understand curreewnt status and presence of dysmorphisms anas well as our plan for mtreatment moniroitg and dx.
+
+
+
+
+",,
+5889,,7332,0,3482-05-17 05:15:00 EST,3482-05-17 05:47:00 EST,4529,"N",75,"Nursing/Other","Admission Note","
+Admission Note
+Nursing Admit Note
+     Infant admitted to NICU with Prenatal HX and delivery room events as noted in Dr. [**First Name4 (NamePattern1) 7**] [**Last Name (NamePattern1) **] note.Infant admitted to NICU at 2220 intubated in OR and bagged in 100% pressures 40/5 . Color mottled/ [**Doctor Last Name **] and poorly perfused. diminished, squeaky breath sounds, poor air entry. 
+     Resp: Infant placed on Ocillator with FIO2 initially weaned to 65% Map 14 delta P 37 after initial dose of survanta. Initial ABG 7.09/64/51/21/-11. NS bolus given X2 Infant proceeded to decompensate and required Increased MAP 16 Delta P 40 and 100% due to persistent low sats in 75-85 range. Bagged to evaluate and CXR obtained. Infant noted to have complete"" white out"" Pneumo not present. 2nd dose of survanta given at 0600. Infant also recieved neut for acidosis. Most recent ABG 7.25/41/25/19/-9
+   
+     CV: HR 160's, no murmur. BP MAPs low 20's, Dopamine begun at 5ug, quickly advanced to 9-15 ug to maintain BP's in 35-40 range. Color mottled, poorly perfused. Presently reciving 12cc PRBC over 2 hrs.
+
+     FEN: Double UVC and peripheral art placed. Infant recieving fluids in D10  with .5 u hep/cc at 80cc/k/d TF. No voids, passed small mec.Peripheral art infusing 1/2 NS and hep at .8cc/h. One touch 105 /99/87.
+  
+     Sepsis: On ampi and cefotaxime. WBC 14.2/ Hct 35.7/ PLT 296 diff benign.
+
+     Dev/Neuro/ Genetics: Infant noted to have Dysmorphic features. Infant irritable and crying. Fentanyl given X 2. nested in sheepskin. Opens eyes at times. Scalp ""boggy"" with widened sutures and bulging fontanelle. Baby cares given. Plan for HUS and genetics consult.
+
+      Social: Parents seen babies briefly in OR. Mom called and obtained phone consent for PRBC transfusion. Dr. [**Last Name (STitle) **] visited Mom and updated her about poor turn of events. Parents aware of genetics workup.
+  
+
+ 
+
+
+      
+     
+
+",,
+5889,,7332,0,3482-05-17 05:18:00 EST,3482-05-17 05:28:00 EST,4722,"N",75,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+Baby [**Known patient lastname 2721**] #2 28 [**Name2 (NI) 192**] born via C/S apgars 3 & 6. Received PPV in the DR. [**Last Name (STitle) 2722**] in the DR [**Last Name (STitle) 584**] a 2.5 ETT taped at 8cm. Transported to the NICU being bagged with a 100% O2. Once in the NICU baby was given 4.8cc of survanta at 2300 hrs. Placed on HiFi vent MAP 14 AMP 37 FiO2 100%. CxR ETT in good position. Baby received three N/S boluses. Started on dopamine for BP. Received fentanyl for sedation. 12cc of PRBC also given. Bicarb given for acidosis. Baby remains critically ill. Second dose of survanta 4.8cc given at 0545 hrs. Last abg drawn PO2 48 CO2 41 PH 7.19 16 -11. Current vent settings MAP 16 AMP 40 FiO2 100%. Will cont to monitor very closely. 
+",,
+5889,,7332,0,3482-05-17 06:13:00 EST,3482-05-17 06:19:00 EST,4529,"N",75,"Nursing/Other","ADDENDUM TO ABOVE NOTE","
+ADDENDUM TO ABOVE NOTE
+AT 0645 INFANT HAD HR DRIFT INTO THE 80'S WITH DESATURATION TO 50'S, INFANT'S COLOR [**Doctor Last Name 269**] INFANT BAGGED IN 10O% O2 WITH HIGH PRESSURES. PRBC TRANSFUSION PUSHED BY DR [**Last Name (STitle) 269**]. STAT LYTES SENT. 
+
+",,
+5889,,7332,0,3482-05-17 06:38:00 EST,3482-05-17 06:51:00 EST,4612,"N",75,"Nursing/Other","Neonatology","
+Neonatology
+During night has required NS boluses, dopamine infusion and PRBCs for hypotension perfusion. Received second dose of surfactanct, with this Sats into highh 80s and low 90s. MAWP up to 18 and 20. Has received NaHCO3 for metabolic acidosis. THis am had acute event with devlopment of peaked T waves and wide complex bradycardia. Rxed with NaHCO3, CaCL and epinephrine. With this had return to NSR with HR in 110-120 range. Lytes and ABG pending. Have spoken to mother on several occasions during early morning describing critical state of illness and fact that child may not be able to survive. Have offered visit to NICU, but she prefers to wait uyntil father returns to hospital early this am. I spoke wiht him at home this morning to provide similar updates at approx 5 am. After event this am, attempted to call him at home, but he apparently has left as there is no answer there. Mother states he is on his way home.
+
+We continue to provide ICU care as discussed with mother early this am with knowledge that it may not be able to help child survive. We have discussed limiting care if that care appears to be futile.
+
+
+",,
+5889,,7332,0,3482-05-17 10:23:00 EST,3482-05-17 10:45:00 EST,4609,"N",75,"Nursing/Other","Nursing Note","
+Nursing Note
+See flowsheet for calculations, medications, and interventions. 
+
+Code: Pt given bicarb, epi x2, NS bolus for HR in the 40's, Pt bagged and chest compressions started. After several minutes HR increased to 130's. Pt placed back on HIFOV. Pt stabilized temporarily. HR and sat dropped a second time to 106 and 66. bicarb and NS bolus given. BP 22/18(20). Parents in to visit at this time and stated they wanted to hold pt.   
+Social: Parents visiting pt this am @ 0900. Family holding pt. IV fluids turned off and pt extubated by MD [**First Name (Titles) 2723**] [**Last Name (Titles) 2724**] with parents consent. Pictures taken of baby. Family continuing to hold pt at this time. Pt passed @ 1132am.  
+",,
+5889,,7332,1,3482-05-17 10:23:00 EST,3482-05-17 13:52:00 EST,4609,"Y",75,"Nursing/Other","Nursing Note","
+Nursing Note
+Post mortum care performed, pt brought to morgue with 2 RN's.
+",,
+5889,,7332,0,3482-05-17 12:41:00 EST,3482-05-17 12:47:00 EST,4612,"N",75,"Nursing/Other","Neonatology","
+Neonatology
+COntinued critical state throughout morning with refractory hypoxemia at times and development of metabolic acidosis requiring but not responding to multiple doses of NaHCO3. Mother and father here to visit ythis am with babies older siblings. Met with them at bedside to review course over morning. Discussed grim prognosis, expectation that despite all manners of NICU care that [**Known patient lastname 2725**] would succumb to illness. In the unlikely event that this were not the case, briefly discussed concerns for long-term difficulties issues to be faced.
+
+Witht hese discussions, [**Known patient lastname 2726**] family and all members of the care giving team agreed that redirection of care to comfort measures were in best interest.
+
+After being held by her parents and siblings, [**Known patient lastname 2725**] was extubated and held in her fathers arms at 10:35. She expired in their company.
+
+
+",,
+5889,,7332,0,3482-05-17 14:26:00 EST,3482-05-17 14:39:00 EST,5150,"N",75,"Nursing/Other","Death Note","
+Death Note
+Baby [**Known patient lastname 2725**] was held in her father's arm. The clinical situation is clearly delineated in the note above by Dr. [**Last Name (STitle) **]. At 11:33 am [**Known patient lastname 2725**] died. The family was with her at the time.
+",,

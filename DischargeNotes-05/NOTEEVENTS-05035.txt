@@ -1,0 +1,1306 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5035,,,,2517-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-9-9**] 10:35 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7721**]
+     Reason: pe                                                          
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        61 year old man with rectal CA, on chemo, presents with sudden onset 
+      shortness   of breath
+     REASON FOR THIS EXAMINATION:
+      pe                                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 7722**] [**Doctor First Name 70**] [**2517-9-9**] 11:25 PM
+      No pe.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old male with rectal cancer, on chemotherapy, presenting
+     with sudden onset of shortness of breath.
+     
+     COMPARISONS:  Comparison is made to [**2517-8-20**].
+     
+     TECHNIQUE:  64-MDCT axial images of the chest were obtained without and with
+     IV contrast.  100 cc of Optiray 250 were used.  Nonionic IV contrast was used
+     due to rapid bolus necessary for this study.  Multiplanar reconstructions were
+     performed.
+     
+     FINDINGS:  There are no significant axillary or mediastinal lymph nodes. There
+     is no pericardial effusion.  The heart and great vessels are otherwise
+     unremarkable.  The pulmonary artery is of normal size.  There are no filling
+     defects in the pulmonary branches to suggest pulmonary embolism.
+     
+     There are no pleural effusions.  The lung fields are clear.  There is no
+     evidence of focal consolidations or pleural effusions.
+     
+     Limited images of the upper abdomen demonstrate multiple hypodense areas in
+     the liver likely representing metastasis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.  Degenerative
+     changes of the thoracic spine.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions confirm the findings
+     demonstrated in the axial images.
+     
+     IMPRESSION:
+     1. No evidence of pulmonary embolism.
+     2. Multiple liver metastases as seen in prior studies.
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2517-9-9**] 10:35 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7721**]
+     Reason: pe                                                          
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+5035,,,,2517-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5035,26295,,,2517-09-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2517-9-24**]              Discharge Date:   [**2517-10-13**]
+ 
+Date of Birth:  [**2456-1-29**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1374**] 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+61 yo man w/ h/o rectal CA and HTN who presents c/o diarrhea x 5 
+days (started on [**9-20**]). Patient reports persistent, non-bloody, 
+watery diarrhea every 10-30 minutes.  Denies abdominal pain, 
+fever, chills, N/V, cough, rash, dysuria, sick contacts, or 
+recent travel.  No recent medication changes, no antibiotics 
+recently.  Has not eaten in restaraunts recently.  H/o similar 
+diarrhea in the past which he says was due to chemo.
+.
+In the ED, patient's lactate was initially 4.0 and he was 
+tachycardic at 110.  Normotensive at 124/80.  Apparently, he 
+refused central line (sepsis protocol).  Received IVF through 
+peripheral IV, and repeat lactate was 2.4.  His HR also 
+stabilized in the 80's.  BP remained normal.  While in the ED, 
+he spiked to 101.3 so he was given Cefepime, vanco, and flagyl.  
+CT of the abdomen and he was admitted to OMED for further 
+observation.
+.
+
+ 
+Past Medical History:
+1. Rectal metastatic adenocarcinoma with A lytic lesion in T11 
+dx in [**2517-3-12**], CEA was elevated at 329--->1207 ([**2517-8-10**]). 
+s/p 13 XRT therapies. Treated with Avastin (bevacizumab), 5FU, 
+and Leucovorin. Last treatment [**2517-9-15**].  Oncologist: Dr. [**First Name4 (NamePattern1) **] 
+[**Last Name (NamePattern1) **]
+2. Hypertension
+
+ 
+Social History:
+Originally from [**Location (un) 5692**], moved to USA about 30 years ago.  
+Married.  Former restaurant worker, not working presently.  Has 
+a 35 pack year smoking history, quit ~2004. Rarely drinks 
+alcohol.
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS: T=98.6 (Tm=101.3); BP=155/82; HR=88; RR=11; O2=98% (RA)
+GEN: elderly asian man, NAD
+HEENT: PERRL OU, MMM, OP clear, no icterus
+NECK: no JVD
+CV: RRR, NL S1/S2, no murmurs appreciated on exam, no S3/S4 
+heard
+RESP: CTA, no W/R/R
+ABD: NABS, soft, NT, ND, no masses
+EXT: no edema 
+RECTAL: guaiac negative per ED
+NEURO: A&Ox3, CN II-XII intact bilat, motor/sensory exam intact 
+bilat
+ 
+Pertinent Results:
+GLUCOSE-153 UREA N-16 CREAT-0.7 SODIUM-135 POTASSIUM-3.0 
+CHLORIDE-107 TOTAL CO2-20 ANION GAP-11
+CALCIUM-6.9 PHOSPHATE-1.4 MAGNESIUM-2.3
+.
+WBC-1.2 RBC-4.07 HGB-11.8 HCT-33.0 MCV-81 MCH-29.0 MCHC-35.7 
+RDW-18.3 PLT COUNT-153
+.
+PT-15.6 PTT-27.9 INR(PT)-1.7
+.
+[**Last Name (un) 1503**] CT-780
+.
+LACTATE-1.7
+.
+URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) **]-1.021
+URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-TR 
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG RBC-0 WBC-0-2 
+BACTERIA-RARE YEAST-NONE EPI-0-2
+ 
+Brief Hospital Course:
+61 y/o male with metastatic rectal ca diagnosed [**3-16**] s/p xrt 
+(last [**6-15**]) and chemo (last [**2517-9-15**]) who was admitted with 
+diarrhea, fever, and neutropenia who developed hypoxemia, lactic 
+acidosis, and confusion.  Since his admission, the patient's 
+diarrhea and fevers had progressively improved on cefepime, 
+vancomycin, and metronidazole as well as Lomotil.  Since then 
+his course has been complicated by a steadily declining 
+hematocrit (33 to 25 over the admission), worsening 
+thrombocytopenia, and a new coagulopathy (INR up to 5.4).  On 
+[**10-2**], he was noted to be hypoxemic and had chest x-ray showing 
+only a distended stomach and a CTA with no PE (but also a 
+distended stomach and known liver mets).  ABG was 7.44/25/63 
+then 7.32/21/84 that afternoon.  His oxygen requirement waxed 
+and waned, from mid 80's on room air to mid 90's on room air.  
+His hypoxemia persisted and the patient became increasingly 
+tired, confused, and tachypneic.  A repeat ABG was 7.3/19/75 but 
+his lactate had climbed from 3.5 to 8.0. He was transferred to 
+the ICU at which time he was fatigued and appeared disoriented.  
+In this setting, he denied pain (including abdominal) as well as 
+dyspnea despite obvious tachypnea and mild accessory muscle use. 
+He was started on IVF with 3 amps bicarb, lactate trended down, 
+acidosis resolving. CT abdomen showed SBO with no obvious cut 
+off for obstruction a NGT placed and medical management 
+recommeneded by surgery. Primary oncologist Dr. [**Last Name (STitle) **] 
+continued to follow.
+  In the ICU he was found to have guiaic positive NGT 
+secretions.  He was transfused PRBCs for a dropping HCT.  In 
+addition he was noted to have an elevated INR for which he was 
+treated with FFP.  He was evaluated by surgery who felt him to 
+be a poor surgical candidate.  For his confusion a CT of his 
+head was performed which was negative for bleed or other change. 
+ His hypoxia resolved and was felt to be due to aspiration 
+initially.  He was treated with TPN given his poor nutritional 
+status.  He was treated with octroetide per surgery recs with no 
+improvement.  On [**2517-10-8**] a family meeting was held at which 
+time it was decided that the goal of care was maximal comfort.  
+At that meeting it was decided to continue with fluids and 
+analgesia but to limit other medications and TPN.  The family 
+will provide Chinese herbs and prayer.
+.
+# GI: Diarrhea was believed to be chemo-induced diarrhea.  The 
+patient was covered with cefepime, vancomycin, and flagyl given 
+neutropenic fever.  The CT of abdomen on admission did not show 
+any inflammatory processes in the abdomen. The patient was given 
+supportive care with IVF and Lomotil once obtained stool samples 
+for cultures which were negative and his diarrhea improved with 
+lomotil.  However, patient became acidotic and CT abdomen was 
+repeated and revealed SBO. NGT was placed and surgey was 
+consulted but did not feel that the patient was a good surgical 
+candidate. Patient was continued on medical management. 
+Octreotide was added to his regimen to help to relieve 
+obstruction. His lactate continued to trend down and NGT outout 
+began to slow. Patient denied any abdominal pain. 
+    However, while in the ICU he developed bloody stools in the 
+setting of coagulopathy. This was felt to be likely secondary to 
+his rectal cancer. He was tranfused pRBCs and FFP. After several 
+bloody stools and rectal tube placement his bloody bowel 
+movements slowed, his coags improved and his hematocrit was 
+stable.
+.
+Coagulopathy: Likely DIC secondary to cancer. He devloped GI 
+bleed as mentioned above and was transfused several units of FFP 
+and pRBCs and 1 unit of platelets. By tranfer from the ICU his 
+HCT and INR was stable but platelets were 34. The patient and 
+family did not want any further transfusions as their goal was 
+comfort and this would require daily monitoring of his CBC and 
+coags.
+.
+# NEUTROPENIC FEVER: The patient was started on cefepime, vanco, 
+and flagyl on admission. He had some fevers early in his 
+hospitalization but remained afebrile for the rest of his 
+admission. He because hypoxic and acidotic and a CT chest was 
+otained which revealed likely aspiration/pneumonia. He was 
+continue on his antibiotics to complete a 14 day course and 
+received daily neupogen injections. By the 11th day of his 
+antibiotic course he was no longer neutropenic. His neupogen was 
+discontinued and he remained afebrile.
+
+# AG METABOLIC ACIDOSIS: concerning for lactic acidosis [**1-13**] to 
+hypovolemia.  Patient refused central line/sepsis protocol in 
+ED. He was  hemodynamically stable on transfer to the floor.  
+Lactate normalized after IVF. Then the patient continued to have 
+non-anion gap acidosis [**1-13**] to diarrhea.  ABG was obtained and 
+the patient appropriately compensated with decreased CO2 (25) 
+with normal pH 7.4-7.44. He then became more hypoxic and acidotc 
+and was tranferred to the ICU. In the ICU it was discoved that 
+he had an extremely dilated stomach and SBO. It was felt that 
+the lactic acidosis ,may have been secondary to the extreme 
+distension of his stomach given the rapid decline in his lactate 
+on decompression with NGT. His gap closed and his lactate 
+conitnued to tened down.
+.
+# RECTAL CANCER: Last chemotherapy was last avastin/5FU on [**9-15**]. 
+Given that he did not tolerate this well, no further 
+chemotherapy was planned. He also developed what is believed to 
+be lower GI bleed, SBO and DIC during admission all which were 
+thaough to be related to his metastatic disease. Due to his poor 
+prognosis and worsening medical condition a family meeting was 
+held and the family and patient agreed that comfort was the most 
+important goal at this point. He was continued on IVF and the 
+NGGT was kept in place to prevent worsening pain from his SBO. 
+It was decided that no further blood products would be given.  
+.
+FEN: Patient was actively hydrated in the setting of diarrhea 
+and acidosis. He was continued on IVF given his SBO. Given his 
+poor prognosis and that comfort was the goal, he was not started 
+on TPN, but rather hydrated with IVF in the setting of SBO.
+ 
+Medications on Admission:
+1. Aspirin 325 mg PO DAILY 
+2. Atenolol 50 mg PO once a day.  
+3. Buspirone
+4. Compazine prn
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+2. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed.  
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+Q4H (every 4 hours) as needed.  
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+5. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1)  
+Intravenous  Q8H (every 8 hours) as needed.  
+6. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln 
+Intravenous  Q12H (every 12 hours).  
+7. Morphine 2 mg/mL Syringe Sig: [**12-13**]  Injection Q4H (every 4 
+hours) as needed.  
+8. Lorazepam 2 mg/mL Syringe Sig: 0.5 mg Injection Q4H (every 4 
+hours) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Metastatic rectal cancer.
+Small bowel obstruction.
+Hypertension.
+
+ 
+Discharge Condition:
+Stable.  He is appropriate and interactive.  The goal of care is 
+comfort.
+
+ 
+Discharge Instructions:
+Please take all medications as prescribed.  The goal of care is 
+comfort.  
+ 
+Followup Instructions:
+[**Doctor First Name 10**] have the following follow-up appointments
+Provider: [**First Name11 (Name Pattern1) 246**] [**Last Name (NamePattern1) 1379**], MD [**MD Number 150**]:[**Telephone/Fax (1) 647**] 
+Date/Time:[**2517-10-20**] 10:00
+Provider: [**Name Initial (NameIs) 5693**] 22  Date/Time:[**2517-10-20**] 10:30
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5694**], RN Phone:[**Telephone/Fax (1) 647**] 
+Date/Time:[**2517-10-20**] 10:30
+
+ 
+                             [**First Name11 (Name Pattern1) 246**] [**Last Name (NamePattern1) 1379**] MD [**MD Number 1380**]
+ 
+Completed by: [**First Name4 (NamePattern1) 2271**] [**Last Name (NamePattern1) 2272**] MD [**MD Number 2273**] [**2517-10-13**] @ 0842
+Signed electronically by: DR. [**First Name (STitle) 246**] [**Doctor Last Name **]
+ on: WED [**2517-10-13**] 3:27 PM
+(End of Report)
+
+
+",,
+5035,26295,,,2517-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with diarrhea, febrile, on chemo                                
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg FRI [**2517-9-24**] 3:02 AM
+      Multiple air-and-fluid filled loops of small bowel containing air-fluid levels
+      but without definite evidence of small bowel obstruction.  Several loops of
+      small bowel appear edematous and there is mild mesenteric stranding and hazy
+      subcm nodes in the mesentery.  Differential diagnosis includes infectious,
+      inflammatory, ischemic process.  SMA, celiac, [**Female First Name (un) **] are patent.
+      
+      Rectal thickening and perirectal stranding, unusual location of several tiny
+      foci of gas that could be peripherally situated within the lumen versus
+      extraluminal.  While pt has rectal thickening due to malignancy known from
+      prior studies, the possibility of superimposed infectious process is
+      considered.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Diarrhea, febrile, on chemotherapy.  Evaluate for source of
+     infection.
+     
+     COMPARISON:  [**2517-7-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 120 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The visualized portions of the
+     lung bases, heart, and pericardium appear unremarkable.  Again seen are
+     innumerable hypodense lesions located throughout the liver consistent with the
+     patient's known metastatic disease.  In comparison, the examination of [**7-5**], 2005, these are not increased in size or number allowing for differences
+     in bolus timing.  The gallbladder is nondistended.  The pancreas, spleen, and
+     adrenal glands appear unremarkable.  There are symmetric nephrograms
+     bilaterally without evidence of masses or hydronephrosis in either kidney. The
+     ureters are nondilated.
+     
+     There are multiple loops of air and fluid filled small bowel containing air-
+     fluid levels but without evidence of abnormal bowel dilatation to suggest
+     obstruction.  There is wall thickening within the distal ileum. Numerous
+     subcentimeter lymph nodes are seen within the mesentery with hazy stranding in
+                                                                 (Over)
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     the mesentery.  There are multiple surgical clips in the region of the cecum
+     within the right lower quadrant.  The large bowel contains air and fluid and
+     is nondilated.  There is no free intraperitoneal air and no free fluid within
+     the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder with air consistent with Foley insertion.  Apparent
+     thickening of the bladder wall may relate to bladder underdistension.  There
+     is marked thickening of the rectum. Additional tiny foci of gas are seen
+     peripherally, likely representing foci of gas trapped within rectal folds.
+     There is marked stranding within the perirectal fat. There is no pathologic
+     appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Multiplanar reformats demonstrate thickening of the
+     distal ileum. The aorta, celiac trunk, superior and inferior mesenteric artery
+     are patent on the coronal and sagittal reformations.
+     
+     IMPRESSION:
+     1.  Multiple loops of air and fluid filled small bowel containing air-fluid
+     levels with thickening of the terminal ileum.  The findings are nonspecific
+     and could relate to enteritis.  No small-bowel obstruction.
+     
+     2.  Rectal wall thickening and perirectal stranding, consistent with known
+     rectal malignancy.
+     3. Hepatic metastases.
+     
+     Results were communicated to the ED dashboard at 3 a.m.
+     
+
+",,
+5035,26295,,,2517-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with diarrhea, febrile, on chemo                                
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg FRI [**2517-9-24**] 3:02 AM
+      Multiple air-and-fluid filled loops of small bowel containing air-fluid levels
+      but without definite evidence of small bowel obstruction.  Several loops of
+      small bowel appear edematous and there is mild mesenteric stranding and hazy
+      subcm nodes in the mesentery.  Differential diagnosis includes infectious,
+      inflammatory, ischemic process.  SMA, celiac, [**Female First Name (un) **] are patent.
+      
+      Rectal thickening and perirectal stranding, unusual location of several tiny
+      foci of gas that could be peripherally situated within the lumen versus
+      extraluminal.  While pt has rectal thickening due to malignancy known from
+      prior studies, the possibility of superimposed infectious process is
+      considered.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Diarrhea, febrile, on chemotherapy.  Evaluate for source of
+     infection.
+     
+     COMPARISON:  [**2517-7-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 120 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The visualized portions of the
+     lung bases, heart, and pericardium appear unremarkable.  Again seen are
+     innumerable hypodense lesions located throughout the liver consistent with the
+     patient's known metastatic disease.  In comparison, the examination of [**7-5**], 2005, these are not increased in size or number allowing for differences
+     in bolus timing.  The gallbladder is nondistended.  The pancreas, spleen, and
+     adrenal glands appear unremarkable.  There are symmetric nephrograms
+     bilaterally without evidence of masses or hydronephrosis in either kidney. The
+     ureters are nondilated.
+     
+     There are multiple loops of air and fluid filled small bowel containing air-
+     fluid levels but without evidence of abnormal bowel dilatation to suggest
+     obstruction.  There is wall thickening within the distal ileum. Numerous
+     subcentimeter lymph nodes are seen within the mesentery with hazy stranding in
+                                                                 (Over)
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     the mesentery.  There are multiple surgical clips in the region of the cecum
+     within the right lower quadrant.  The large bowel contains air and fluid and
+     is nondilated.  There is no free intraperitoneal air and no free fluid within
+     the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder with air consistent with Foley insertion.  Apparent
+     thickening of the bladder wall may relate to bladder underdistension.  There
+     is marked thickening of the rectum. Additional tiny foci of gas are seen
+     peripherally, likely representing foci of gas trapped within rectal folds.
+     There is marked stranding within the perirectal fat. There is no pathologic
+     appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Multiplanar reformats demonstrate thickening of the
+     distal ileum. The aorta, celiac trunk, superior and inferior mesenteric artery
+     are patent on the coronal and sagittal reformations.
+     
+     IMPRESSION:
+     1.  Multiple loops of air and fluid filled small bowel containing air-fluid
+     levels with thickening of the terminal ileum.  The findings are nonspecific
+     and could relate to enteritis.  No small-bowel obstruction.
+     
+     2.  Rectal wall thickening and perirectal stranding, consistent with known
+     rectal malignancy.
+     3. Hepatic metastases.
+     
+     Results were communicated to the ED dashboard at 3 a.m.
+     
+
+",,
+5035,26295,,,2517-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with diarrhea, febrile, on chemo                                
+     REASON FOR THIS EXAMINATION:
+      r/o source of infection                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg FRI [**2517-9-24**] 3:02 AM
+      Multiple air-and-fluid filled loops of small bowel containing air-fluid levels
+      but without definite evidence of small bowel obstruction.  Several loops of
+      small bowel appear edematous and there is mild mesenteric stranding and hazy
+      subcm nodes in the mesentery.  Differential diagnosis includes infectious,
+      inflammatory, ischemic process.  SMA, celiac, [**Female First Name (un) **] are patent.
+      
+      Rectal thickening and perirectal stranding, unusual location of several tiny
+      foci of gas that could be peripherally situated within the lumen versus
+      extraluminal.  While pt has rectal thickening due to malignancy known from
+      prior studies, the possibility of superimposed infectious process is
+      considered.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Diarrhea, febrile, on chemotherapy.  Evaluate for source of
+     infection.
+     
+     COMPARISON:  [**2517-7-5**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung bases to the pubic
+     symphysis following the administration of 120 cc of intravenous Optiray.
+     Additional coronal and sagittal reformatted images are provided.
+     
+     CONTRAST:  Oral and intravenous nonionic contrast were administered due to the
+     rapid rate of bolus injection required for this examination.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The visualized portions of the
+     lung bases, heart, and pericardium appear unremarkable.  Again seen are
+     innumerable hypodense lesions located throughout the liver consistent with the
+     patient's known metastatic disease.  In comparison, the examination of [**7-5**], 2005, these are not increased in size or number allowing for differences
+     in bolus timing.  The gallbladder is nondistended.  The pancreas, spleen, and
+     adrenal glands appear unremarkable.  There are symmetric nephrograms
+     bilaterally without evidence of masses or hydronephrosis in either kidney. The
+     ureters are nondilated.
+     
+     There are multiple loops of air and fluid filled small bowel containing air-
+     fluid levels but without evidence of abnormal bowel dilatation to suggest
+     obstruction.  There is wall thickening within the distal ileum. Numerous
+     subcentimeter lymph nodes are seen within the mesentery with hazy stranding in
+                                                                 (Over)
+
+     DATE: [**2517-9-24**] 1:08 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7723**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o source of infection                                     
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     the mesentery.  There are multiple surgical clips in the region of the cecum
+     within the right lower quadrant.  The large bowel contains air and fluid and
+     is nondilated.  There is no free intraperitoneal air and no free fluid within
+     the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  A Foley catheter is in place
+     within the bladder with air consistent with Foley insertion.  Apparent
+     thickening of the bladder wall may relate to bladder underdistension.  There
+     is marked thickening of the rectum. Additional tiny foci of gas are seen
+     peripherally, likely representing foci of gas trapped within rectal folds.
+     There is marked stranding within the perirectal fat. There is no pathologic
+     appearing pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Bone windows demonstrate no evidence of suspicious lytic or
+     sclerotic osseous lesions.
+     
+     MULTIPLANAR REFORMATS:  Multiplanar reformats demonstrate thickening of the
+     distal ileum. The aorta, celiac trunk, superior and inferior mesenteric artery
+     are patent on the coronal and sagittal reformations.
+     
+     IMPRESSION:
+     1.  Multiple loops of air and fluid filled small bowel containing air-fluid
+     levels with thickening of the terminal ileum.  The findings are nonspecific
+     and could relate to enteritis.  No small-bowel obstruction.
+     
+     2.  Rectal wall thickening and perirectal stranding, consistent with known
+     rectal malignancy.
+     3. Hepatic metastases.
+     
+     Results were communicated to the ED dashboard at 3 a.m.
+     
+
+",,
+5035,26295,,,2517-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-2**] 10:56 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7724**]
+     Reason: Please eval for Pulmonary embolism                          
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         61 year old man with rectal CA, on chemo, now with desaturation, large A-a 
+      gradient
+     REASON FOR THIS EXAMINATION:
+      Please eval for Pulmonary embolism                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old male with rectal cancer on chemotherapy now presents
+     with desaturation.  Evaluate for pulmonary embolism.
+     
+     COMPARISONS:  Comparison is made to [**2517-9-9**].
+     
+     TECHNIQUE:  Five-MDCT axial images of the chest were obtained without and with
+     administration of IV contrast.  The images were obtained in the pulmonary
+     artery phase.  100 cc of Optiray 350 were administered.  Nonionic contrast was
+     used due to the rapid bolus necessary for this study.
+     
+     CTA OF THE CHEST:  There are no significant axillary or mediastinal lymph
+     nodes.  There are small prevascular and pretracheal lymph nodes that do not
+     meet CT criteria for pathology.
+     
+     No pericardial effusion.  The heart and great vessels are within normal
+     limits.  No filling defects in the pulmonary artery branches to suggest the
+     possibility of pulmonary embolism.
+     
+     There is a small left pleural effusion.  There is no pleural effusion on the
+     right side.  There is partial atelectasis of the bilateral lower lobes.  There
+     is right infrahilar opacity, which could represent atelectasis or aspiration.
+     There are also tree-in-[**Male First Name (un) 1680**] opacities in the left lower lobe posteriorly which
+     could represent aspiration versus early pneumonia.  Trachea collapses slightly
+     during expiration suggesting the possibility of tracheomalacia.  There is also
+     some bronchomalacia in the left main stem bronchus which collapses more than
+     50% during expiration.  However, dedicated tracheal CT could be performed if
+     indicated.  No lung metastases are identified.  The esophagus and stomach are
+     dilated containing a large amount of fluid.  There is a left subclavian
+     central line with the tip in the lower SVC.
+     
+     In the examination of the upper abdomen as described above, the stomach is
+     dilated with a large amount of fluid.  There is are hypodense areas in the
+     right lobe of the liver consistent with patient known metastasis. The liver
+     was not completely imaged in this study. Examination of the bone windows does
+     not demonstrate suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Markedly dilatation of the stomach and duodenum. There is also dilatation
+                                                                 (Over)
+
+     DATE: [**2517-10-2**] 10:56 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7724**]
+     Reason: Please eval for Pulmonary embolism                          
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     of the esophagus with fluid, which suggests reflux. 
+     3.  Bibasilar atelectasis.  There are more patchy and tree-in-[**Male First Name (un) 1680**] opacities in
+     the right infrahilar region and left base that could represent early
+     pneumonia.  However, since the stomach and the esophagus are dilated
+     containing fluid, the possibility of aspiration should be strongly considered.
+     4.  Findings suggestive of mild tracheomalacia and mild left mainstem bronchus
+     bronchomalacia.  Dedicated study could be performed if indicated.
+     5.  Small left pleural effusion. 
+     6.  Low-attenuation lesions in the liver are consistent with known metastases.
+     
+     
+     
+
+",,
+5035,26295,,,2517-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with diarrhea, febrile, on chemo, now w/ incr lactate, gastric 
+      distension                         
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction, ischemia (colitis, gastric), volvulus                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old man with metastatic rectal cancer, on chemotherapy,
+     now with diarrhea, fever, increase in lactate, gastric distention.  Please
+     evaluate for obstruction, ischemia.
+     
+     COMPARISONS:  [**2517-9-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the lung bases to the pubic
+     symphysis were displayed with 5-mm slice thickness with oral and IV contrast.
+     Coronally and sagittally reformatted images were displayed with 5-mm slice
+     thickness.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The small bowel demonstrates progressive
+     dilatation when compared to prior study on [**2517-9-24**].  Small bowel now
+     appears markedly dilated with persistent wall edema.  The distal small bowel
+     does not appear dilated suggesting a transition point somewhere in the mid,
+     distal small bowel.  The distal bowel also demonstrates wall edema.  The colon
+     appears collapsed.  Barium has not passed through to the colon.  These
+     findings are consistent with a small-bowel obstruction.  The stomach appears
+     massively distended, more so than on prior study.  There is no evidence of
+     pneumatosis.  All vessels supplying the bowel appear patent.
+     
+     Again seen are innumerable hypodense lesions located throughout the liver
+     consistent with patient's known metastatic disease.  Gallbladder does not
+     appear distended.  The pancreas, spleen, adrenal glands appear unremarkable.
+     The kidneys enhance symmetrically and excrete contrast appropriately.  Ureters
+     appear nondilated.
+     
+     Bilateral lower lobe consolidations with air bronchograms are seen in the
+     lungs bilaterally.  Heart and pericardium appear unremarkable.
+     
+     There is no evidence of free air or free fluid within the abdomen.  No
+     mesenteric or retroperitoneal lymphadenopathy is identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  A foley catheter is in place within the
+     bladder with air consistent with foley insertion.  The rectum appears markedly
+     thickened.  Again seen is stranding within the perirectal fat.  No pathologic-
+     appearing pelvic or inguinal lymphadenopathy is demonstrated.
+     
+                                                                 (Over)
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  There is no evidence of any suspicious lytic or sclerotic
+     osseous lesions.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  Markedly dilated small bowel, more so than before.  Collapsed colon
+     without barium.  These findings are consistent with small-bowel obstruction.
+     Although a definite transition point is not seen, the nondistended distal
+     small bowel suggests a transition point somewhere in the mid to distal small
+     bowel.  There is persistent wall edema throughout the bowel.
+     2.  Markedly distended stomach, also increased in size from prior study.  No
+     evidence of pneumatosis.
+     3.  All vessels supplying the bowel appear patent.
+     4.  Bilateral lower lobe consolidation in the lungs, consistent with pneumonia
+     or possibly aspiration.
+     5.  Again seen is rectal wall thickening and perirectal stranding consistent
+     with known rectal malignancy.
+     6.  Multiple hepatic metastases.
+     
+     Findings were discussed with [**First Name8 (NamePattern2) 7726**] [**Last Name (NamePattern1) 7727**], M.D., at 4:15 p.m. on [**2517-10-4**].
+
+",,
+5035,26295,,,2517-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7728**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval for head bleed, mets                                   
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with diarrhea, metastatic rectal cancer, coagulopathic         
+     REASON FOR THIS EXAMINATION:
+      eval for head bleed, mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic renal carcinoma.  Assess for intraparenchymal
+     hemorrhage or metastases.
+     
+     TECHNIQUE:  MDCT images of the brain were acquired before and following
+     administration of Optiray IV contrast.
+     
+     COMPARISON:  None.
+     
+     CT OF THE HEAD WITHOUT AND WITH IV CONTRAST:  There is no acute intracranial
+     hemorrhage, hydrocephalus, shift of normally midline structures, or major
+     vascular territorial infarction.  No overt mass lesions or areas of abnormal
+     enhancement are seen within the brain parenchyma.  Osseous and extracranial
+     soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No evidence of metastatic disease or acute intracranial
+     hemorrhage.  MRI is more sensitive in the evaluation of subtle lesions.
+                                                                           
+
+",,
+5035,26295,,,2517-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 7728**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval for head bleed, mets                                   
+     Admitting Diagnosis: DIARRHEA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with diarrhea, metastatic rectal cancer, coagulopathic         
+     REASON FOR THIS EXAMINATION:
+      eval for head bleed, mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic renal carcinoma.  Assess for intraparenchymal
+     hemorrhage or metastases.
+     
+     TECHNIQUE:  MDCT images of the brain were acquired before and following
+     administration of Optiray IV contrast.
+     
+     COMPARISON:  None.
+     
+     CT OF THE HEAD WITHOUT AND WITH IV CONTRAST:  There is no acute intracranial
+     hemorrhage, hydrocephalus, shift of normally midline structures, or major
+     vascular territorial infarction.  No overt mass lesions or areas of abnormal
+     enhancement are seen within the brain parenchyma.  Osseous and extracranial
+     soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No evidence of metastatic disease or acute intracranial
+     hemorrhage.  MRI is more sensitive in the evaluation of subtle lesions.
+                                                                           
+
+",,
+5035,26295,,,2517-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with diarrhea, febrile, on chemo, now w/ incr lactate, gastric 
+      distension                         
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction, ischemia (colitis, gastric), volvulus                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old man with metastatic rectal cancer, on chemotherapy,
+     now with diarrhea, fever, increase in lactate, gastric distention.  Please
+     evaluate for obstruction, ischemia.
+     
+     COMPARISONS:  [**2517-9-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the lung bases to the pubic
+     symphysis were displayed with 5-mm slice thickness with oral and IV contrast.
+     Coronally and sagittally reformatted images were displayed with 5-mm slice
+     thickness.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The small bowel demonstrates progressive
+     dilatation when compared to prior study on [**2517-9-24**].  Small bowel now
+     appears markedly dilated with persistent wall edema.  The distal small bowel
+     does not appear dilated suggesting a transition point somewhere in the mid,
+     distal small bowel.  The distal bowel also demonstrates wall edema.  The colon
+     appears collapsed.  Barium has not passed through to the colon.  These
+     findings are consistent with a small-bowel obstruction.  The stomach appears
+     massively distended, more so than on prior study.  There is no evidence of
+     pneumatosis.  All vessels supplying the bowel appear patent.
+     
+     Again seen are innumerable hypodense lesions located throughout the liver
+     consistent with patient's known metastatic disease.  Gallbladder does not
+     appear distended.  The pancreas, spleen, adrenal glands appear unremarkable.
+     The kidneys enhance symmetrically and excrete contrast appropriately.  Ureters
+     appear nondilated.
+     
+     Bilateral lower lobe consolidations with air bronchograms are seen in the
+     lungs bilaterally.  Heart and pericardium appear unremarkable.
+     
+     There is no evidence of free air or free fluid within the abdomen.  No
+     mesenteric or retroperitoneal lymphadenopathy is identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  A foley catheter is in place within the
+     bladder with air consistent with foley insertion.  The rectum appears markedly
+     thickened.  Again seen is stranding within the perirectal fat.  No pathologic-
+     appearing pelvic or inguinal lymphadenopathy is demonstrated.
+     
+                                                                 (Over)
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  There is no evidence of any suspicious lytic or sclerotic
+     osseous lesions.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  Markedly dilated small bowel, more so than before.  Collapsed colon
+     without barium.  These findings are consistent with small-bowel obstruction.
+     Although a definite transition point is not seen, the nondistended distal
+     small bowel suggests a transition point somewhere in the mid to distal small
+     bowel.  There is persistent wall edema throughout the bowel.
+     2.  Markedly distended stomach, also increased in size from prior study.  No
+     evidence of pneumatosis.
+     3.  All vessels supplying the bowel appear patent.
+     4.  Bilateral lower lobe consolidation in the lungs, consistent with pneumonia
+     or possibly aspiration.
+     5.  Again seen is rectal wall thickening and perirectal stranding consistent
+     with known rectal malignancy.
+     6.  Multiple hepatic metastases.
+     
+     Findings were discussed with [**First Name8 (NamePattern2) 7726**] [**Last Name (NamePattern1) 7727**], M.D., at 4:15 p.m. on [**2517-10-4**].
+
+",,
+5035,26295,,,2517-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old man with diarrhea, febrile, on chemo, now w/ incr lactate, gastric 
+      distension                         
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction, ischemia (colitis, gastric), volvulus                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old man with metastatic rectal cancer, on chemotherapy,
+     now with diarrhea, fever, increase in lactate, gastric distention.  Please
+     evaluate for obstruction, ischemia.
+     
+     COMPARISONS:  [**2517-9-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images from the lung bases to the pubic
+     symphysis were displayed with 5-mm slice thickness with oral and IV contrast.
+     Coronally and sagittally reformatted images were displayed with 5-mm slice
+     thickness.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The small bowel demonstrates progressive
+     dilatation when compared to prior study on [**2517-9-24**].  Small bowel now
+     appears markedly dilated with persistent wall edema.  The distal small bowel
+     does not appear dilated suggesting a transition point somewhere in the mid,
+     distal small bowel.  The distal bowel also demonstrates wall edema.  The colon
+     appears collapsed.  Barium has not passed through to the colon.  These
+     findings are consistent with a small-bowel obstruction.  The stomach appears
+     massively distended, more so than on prior study.  There is no evidence of
+     pneumatosis.  All vessels supplying the bowel appear patent.
+     
+     Again seen are innumerable hypodense lesions located throughout the liver
+     consistent with patient's known metastatic disease.  Gallbladder does not
+     appear distended.  The pancreas, spleen, adrenal glands appear unremarkable.
+     The kidneys enhance symmetrically and excrete contrast appropriately.  Ureters
+     appear nondilated.
+     
+     Bilateral lower lobe consolidations with air bronchograms are seen in the
+     lungs bilaterally.  Heart and pericardium appear unremarkable.
+     
+     There is no evidence of free air or free fluid within the abdomen.  No
+     mesenteric or retroperitoneal lymphadenopathy is identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  A foley catheter is in place within the
+     bladder with air consistent with foley insertion.  The rectum appears markedly
+     thickened.  Again seen is stranding within the perirectal fat.  No pathologic-
+     appearing pelvic or inguinal lymphadenopathy is demonstrated.
+     
+                                                                 (Over)
+
+     DATE: [**2517-10-4**] 1:38 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7725**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for obstruction, ischemia (colitis, gastric), volvulus 
+     Admitting Diagnosis: DIARRHEA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  There is no evidence of any suspicious lytic or sclerotic
+     osseous lesions.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  Markedly dilated small bowel, more so than before.  Collapsed colon
+     without barium.  These findings are consistent with small-bowel obstruction.
+     Although a definite transition point is not seen, the nondistended distal
+     small bowel suggests a transition point somewhere in the mid to distal small
+     bowel.  There is persistent wall edema throughout the bowel.
+     2.  Markedly distended stomach, also increased in size from prior study.  No
+     evidence of pneumatosis.
+     3.  All vessels supplying the bowel appear patent.
+     4.  Bilateral lower lobe consolidation in the lungs, consistent with pneumonia
+     or possibly aspiration.
+     5.  Again seen is rectal wall thickening and perirectal stranding consistent
+     with known rectal malignancy.
+     6.  Multiple hepatic metastases.
+     
+     Findings were discussed with [**First Name8 (NamePattern2) 7726**] [**Last Name (NamePattern1) 7727**], M.D., at 4:15 p.m. on [**2517-10-4**].
+
+",,
+5035,26295,6244,0,2517-10-04 02:31:00 EST,2517-10-04 02:56:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 0210-0700","
+Nursing Assessment Note 0210-0700
+pt is 61 y.o male who was diagnosed with colon CA in [**2517-3-12**], pt worked up including colonoscopy & CT,  during CT of abd, pt was found to have liver lesions suspicious of mets CA, pt has been undergoing chemo and pt has recurrent diarrhea after each dose of chemo, but was always controlled with limotil, this last chemo pt was unable to control his diarrhea and was told to come to EW to be treated by his primary, pt admited to [**Hospital Ward Name **] 11 for fluids, antibiotics, and potassium replacement, pt has had uneventful course, except pt received 2 units PRBC's total since admit, with HCT increasing to 32 after last unit, pt developed sob and hypoxia on floor, R/A sats 88-89%, O2 @ 5 L improved sats to 98-99%, pt had ABG drawn and Ph was 7.30 and lactate was 8.0, pt was then transfered to MICU for further treatment
+",,
+5035,26295,6244,0,2517-10-04 06:24:00 EST,2517-10-04 06:39:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+NEURO: pt lethargic, but arousable with tactile stimuli, pt moves all extremities, but seems to favor left side, pt not on any sedation at this time, pt speaks cantonese, but seems to understand some english and can answer ""yes or no""
+
+CV:  Pt's vss, afebrile, pt denies pain and does not grimace with turning, pt in nsr/st without ectopy, pt's INR was 5.6 and pt received 2 units FFP with good results, INR decreased to ~2.6, but pt's platelet count was 21, and pt will receive 1 unit platelets, skin is pale, warm, and dry, pp + & =, with +3 generalized edema, pt has left subclavian port-a-cath with NS @ KVO and #20 in right wrist, both patent and intact,
+
+RESP:  Pt's lung sounds are clear, pt on O2 @ 5 L v/NC with sats 97-99%, pt has dry non-productive cough
+
+GI:  Pt's abd was firm and distended and bowel sounds are negative, NGT was placed after [**6-18**] attempts and pt connected to low suction and pt drained 1350 cc's bilious material, abd became softer, but pt still remianed without bowel sounds, depiste no bowel sounds pt inc of approximately 175 cc's liquid stool, which was grossly OB positive, fecal inc bag was applied as once pt started being inc of stool pt kept oozing
+
+GU:  Pt had foley placed and is draining icteric urine with sediment qs
+
+INTUG: pt has large eccymosis on inner aspect of left arm, and patechae on right side of abd, peri-area is red, but intact
+",,
+5035,26295,6244,0,2517-10-04 15:44:00 EST,2517-10-04 16:13:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NPN 7A-7P:
+
+THE PT IS A 61Y/O MALE WITH METASTATIC RECTAL CA DX IN 4/05, AND CHEMO LAST [**9-15**]. HE WAS ADMITTED [**9-24**] WITH DIARRHEA,FEVER, NEUTROPENIA. HE BECAME HYPOXIC W/ O2 SAT 80%. HE WAS TX TO THE FICU.
+
+NEURO: PT LETHARGIC AND WILL AROUSE TO TACTILE STIMULUS. AT TIMES HE WILL FOLLOW COMMANDS. HE DOSE OPEN HIS EYES SOMETIMES. HE IS ABLE TO MOVE HIS LEFT ARM. TODAY HE HEAD CT, WHICH WAS NEG.
+
+RESP: LS CLEAR BILAT. HE IS ON RA WITH O2 SAT 95-98%. 
+
+CV: HE IS NSR W/ PVC/PAC. TODAY HE HAD A BURST OF AF. EKD DONE. NO CHANGE IN MEDS.
+
+GI/GI: TODAY HE HAD A ABD CT WHICH WAS + FOR A ILEUS. HE HAS A NG TUBE TO LOW WALL SX. + HYPO BS NOTED. FOLEY CATH W/ DARK YELLOW URINE OUT.
+
+
+SKIN: HE HAS BRUISING UNDER HIS LEFT ARM. THE RIGHT SIDE OF HS ABD HAS BRUISING NOTED.
+
+POC: MONITOR MENTAL STATUS. MONITOR H/H. 
+",,
+5035,26295,6244,0,2517-10-05 03:24:00 EST,2517-10-05 03:47:00 EST,7352,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro: Pt remains lethargic, arousable to voice stimulation, occasionally will open eyes to voice otherwise lifts eye brows and will mumble words. Pt noted to move both arms and wiggle toes bilat. Denies pain by shaking head. tmax 99.8 po, antbx as ordered.
+
+CV/Heme: Remains in SR w/rate 90s, occasional to frequent PVCs noted w/infrequent vent bigem noted also noted rare short bursts of MAT vs afib w/rate 120s. B/p 100-120/40-50. Pt rec'd 2 UFFP w/repeat INR 2 (3), also had HCT check which was 20(22) but had not yet rec'd the 1UPRBC which finished at 0330. K 3.4 and Phos 1.9, currently receiving K+phos 30mmol to infuse over 6hours, will be done by 9am. 
+
+Resp: ABG on RA 7.49/30/66, bicarb in IVF d/c'd and pt placed on O2 2L NC w/bump in O2 sats from 95-100%. LS: CTA, pt has non-productive infrequent cough. Noted snoring @ times, no apnea noted.
+
+GI: ABD soft, NGT to LIS, continues to drain mod amt bile. ABD initially silent but now ausc BS. No BM.
+
+GU: foley patent, dark urine draining.
+
+SKin: pt has 2 small stage 2 decub ulcers on coccyx, both 2cm x 2cm, small amt serosang drainage. Area cleansed and aloe vesta cream applied. Pt appears to require kinair bed w/low albumin and NPO status.
+
+Access: Port-a-cath patent w/one access port. Please f/u w/IV team to see if 2nd access can be obtained via POC. Right peripheral IV patent. Unable to place 2nd peripheral IV d/t poor access. 
+",,
+5035,26295,6244,0,2517-10-05 16:34:00 EST,2517-10-05 17:20:00 EST,7349,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt lethargic, sleeping throughout shift. Responds to voice by opening eyes slightly when name is called. Responds to commands ""Open your eyes, Squeeze my hand"" by saying ""yes"" and does not follow commands. Difficult to assess neuro status due to language barrier, Cantonese speaking only. Opened eyes to wife when she spoke in Cantonese to him, but went right back to sleeping. Moves upper extremites purposely when suctioning mouth, slowly moving left arm up to mouth. Moves lower extremities inconsistently on bed. Noted a sllight tremor in the left arm for 2 minutes. Cough/GAG reflex is impaired. PERRL, 3mm and brisk bilaterally. No response to sternal rub, nail bed stimuli, arterial stick for ABG or fingersticks to test blood sugar. 
+
+CV: Tmax 100.1, last T 98.0. NSR, HR 80-100 with rare PVC's progressing to occasional. 1600: One run of SVT vs MAT noted with HR reaching 134, team aware. Short run of ventricular bigeminy noted 1 hr later. NBP 101/45 - 134/64. Metoprolol held at 1200 for SBP of 100. Mucus membranes dry and pink. Sclera icteric. 2+ edema in all extremities. Skin warm and dry in extremities and torso. IVF maintenance 1/2 NS at 100cc/hr, 24h net balance +1100. Neutropenic precautions d/c'd. Last hct 23, hct and coags pending from 1700.
+
+RESP: RR 14-22. Regular rate with occasional interuptions from snoring and upper airway obstruction. Frequent oral care done to remove thick, tenacious white-yellow secretions from upper airway. Cough is weak and pt is unable to bring up secretions out from oropharynx. Aspiration risk d/t weak cough, impaired GAG and ? LOC. SpO2 96-100% on 2L NC. LS difficult to appreciate d/t upper airway congestion, however sound course throughout. 
+
+GI: Abd soft and distended. Mass felt on right lateral side under rt costal edge with ecchymotic skin in that area. BS extremely hypoactive, only heard in LUQ. NGT to LIS with a 2h clamp time to allow for absorbtion of Mucomyst, aspirates after clamp equaled intake in NGT. Total gastric out for shift is 300cc's. No BM for shift.
+
+GU: Foley catheter draining amber to orange, clear with intermittent clots of urine. UO 60-120cc/hr.
+
+SKIN: Large ecchymotic area on rt side of abd and on left upper arm. Stage II decubiti on coccyx covered with duoderm. See carevue for details. Switched to Kinair bed for skinbreakdown risk.
+
+SOCIAL: Wife visited all afternoon and spoke to team regarding POC and status using the hospital Cantonese interpreter by phone.
+
+PLAN: Awaiting nutrition consult to start TPN. Continue chest pt and oral suctioning to clear upper airway. Closely monitor for aspiration risk. Closely monitor ECG for irregular rhythms and hemodynamic status. Wife to return tomorrow at 12 to talk to Dr. [**Last Name (STitle) **], primary oncologist, regarding POC. 
+
+
+",,
+5035,26295,6244,0,2517-10-06 04:36:00 EST,2517-10-06 04:51:00 EST,7447,"N",69,"Nursing/Other","Shift assessment. 1900-0700","
+Shift assessment. 1900-0700
+61 yo male with CA, rectal with [**Doctor Last Name **] to liver(?). Admitted for uncontrolled diahrrea and electrolyte imbalance, AMS. For more info see pt. admission Hx. 
+  Neuro-Pt. lethargic, garbled speech but with mumble anwsers to yes/no question. No following commands, withdraws/localizes pain. Can trace [**Doctor First Name **] in room with eyes.     
+  Resp- remains on 2L nc, sat 97-100%. No SOB. thick tan/blood tinged oral and NT secretion upon suction.Pt. NT suctioned twice with copious mucous output. Pt. has weak congested cough. No abg ordered this am.
+   CV-HR SR/ST with frequent multifocal PVC's/PAC's. PT. electrolytes checked at 1800, phos low, MD aware, no orders for replacements due to lack of access.  PIV x 3 , 18g Lt AC / 20g Lt fA, 20 rt. FA. Porta cath accessed with TPN infusing at 46 HR. BSG Q 4 hr. on SS insulin.Tmax 100.7 NBP 90-120's. Pt has recieved total 2unit PRBC's, 2 FFP for INR 2.5/ Hct. 19. AM Hct. and all other labs pending. 
+   GI-Abd. distended, soft, hypoactive BS. OGT Rt. nare to low intermitant wall suction with bilious output. Guiac +. Possible scope on [**10-6**] to find out source of bleed. No BM this shift.
+    GU-foley cath to gravity with yellow clear urine, adeq UOP throughout shift.
+     Integ.- Stage 2 to coccyx , pink/reddish in color, no drainage, no odor, Duoderm changed at 2000. Multiple areas of ecchymosis to abd, Left upper ext. Bottom reddened. Somewhat pale complexion. Scleral jaundice visible.
+  Plan- Monitor lab values, replace electrolytes as needed, replace blood products and keep HCT >30. Administer IV antibiotics as scheduled. Family meeting involving pt's ONC. Primary MD [**First Name (Titles) 14**] [**Last Name (Titles) 3725**] interepretor as well as Pt. wife possible tomorrow, [**Name8 (MD) **] RN please follow up. 
+",,
+5035,26295,6244,0,2517-10-06 06:31:00 EST,2517-10-06 06:32:00 EST,7447,"N",69,"Nursing/Other","Addition to AM note","
+Addition to AM note
+During pt's bath, pt. had mucous like BM that was drk red in color. MD made aware. Guiac positive.
+",,
+5035,26295,6244,0,2517-10-06 13:27:00 EST,2517-10-06 13:46:00 EST,188,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE 0700-1500","
+M/SICU NURSING PROGRESS NOTE 0700-1500
+S: PT IS NOT INITIATING CONVERSATION AND IS LETHARGIC.
+
+O: NEURO--PT IS LETHARGIC. INCONSISTENTLY FOLLOWS SIMPLE COMMANDS. ANSWERS SIMPLE YES/NO QUESTIONS. I.E. PAIN,COLD.  MAE SPONT BUT BLE MOVE ON BED AND BUE WILL LIFT AND HOLD. L>R. PEARL AT 2-3MM.
+
+RESP--O2 WEANED DOWN TO 1L NC. SAO2 ON 1L >97%. BREATH SOUNDS ON R ARE COARSE IN UPPER AND LOWER LOBES. L BREATH SOUNDS ARE CLEAR IN UPPER LOBES AND DIMINISHED IN BASES. STRONG PRODUCTIVE COUGH BUT SWALLOWS IT. ORAL CAVITY BLEEDING WITH CLOTTED AREA ON L SIDE OF CHEEK. MOUTH CARE GIVEN.
+
+CARDIAC--REMAINS IN NSR/ST WITH APC'S FREQUENT. HR 90-100. SBP 120-150'S/ 80'S.  LOPRESSOR GIVEN. KPHOS INFUSING OVER 6 HRS BUT PROBABLY NEEDS MUCH MORE.
+
+GI--BOWEL SOUNDS ABSENT. ABD IS FIRM AND DISTENDED. NGT TO LCS DRAINING MODERATE AMTS OF BILIOUS,GUIAC + DRAINAGE. SMALL CLOT PER RECTUM.  REMAINS NPO. ON TPN. NO FURTHER STOOL AT THIS TIME.
+
+GU--FOLEY CATH PATENT DRAINING >70CC HR OF CLEAR ICTERIC URINE.
+
+SKIN-DUODERM ON SACRUM. ECCYMOTIC AREA ON L ANTECUBITAL AREA AS WELL AS POSTERIOR LUE. R FLANK AREA WITH LGR AMTS OF ECCYMOISIS AND PETTICHIAE OVER LIVER AREA. R KNEE BRUISE.
+
+ENDO--Q4HR BS . COVERED AT 1000 WITH SSRI. LOW K+.
+
+ID--FEBRILE TO 99.9 ORAL. REMAINS ON MULTIPLE ABX.
+
+PAIN--DENIES PAIN WHEN ASKED.
+
+COPING--WIFE MET WITH DR [**Last Name (STitle) **] AND INTERPRETER. THEY SPOKE OF PT'S GRAVE CONDITION AND POSSIBILITY OF NOT GETTING OUT OF ICU.  WIFE WOULD WANT PT INTUBATED UNTIL FAMILY CAN COME IN. ATTENDING  DID NOT SPEAK OF ANY 'CODE STATUS' . PER SURGERY, PT IS NOT A SURGICAL CANDIDATE AT THIS TIME. 
+
+A--REMAINS WITH LOW HCT, PLTS. INCREASE IN ECTOPY PROBABLY RELATED TO ELECTROLYTE IMBALANCE.
+
+P--OFFER SUPPORT TO PT AND FAMILY. WIFE WILL BE STAYING THE NIGHT TONIGHT. CON'T TO CHECK LYTES, COAGS. REPLETE WITH BLOOD PRODUCTS AS ORDERED.
+",,
+5035,26295,6244,1,2517-10-06 13:27:00 EST,2517-10-06 17:11:00 EST,188,"Y",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE 0700-1500","
+M/SICU NURSING PROGRESS NOTE 0700-1500
+3pm-7pm...
+
+PT REMAINS LETHARGIC. ANSWERS SIMPLE QUESTIONS. PULLED NGT OUT. NEW NGT INSERTED WITHOUT DIFFICULTY. SMALL CLOT PR MELANA.
+
+COPING--FAMILY IN TO VISIT. WIFE WANTS EVERYTHING DONE NOW TO ""SAVE PT"". SHE IS AWARE OF CRITICAL CONDITION. PT'S COUSIN SPEAKS ENGLISH FLUENTLY AND HAS TRANSLATED FOR PT'S WIFE. 
+
+HCT 22.1. PT TO RECEIVE 2 UPRBC'S. HE IS PRESENTLY RECIEVING 1 UNIT. ALSO RECEIVED 1 BAG PLTS FOR POST TX PLT OF 62.
+
+BILATERAL WRIST RESTRAINTS APPLIED AS PT PULLED OUT NGT.
+",,
+5035,26295,6244,0,2517-10-07 03:23:00 EST,2517-10-07 03:34:00 EST,7447,"N",69,"Nursing/Other","Shift Assessment 1900-0700","
+Shift Assessment 1900-0700
+Pt. is ETOH abuser admitted for seizures/withdrawl, had rt. sided pneumonia. 
+Neuro-remains sedated. Pt. was extremely restless with ABP in 190-200's, restless and aggitated in bed at 1900, even with versed and fent. infusing. Pt. given several prop. boluses to calm down. Pt.continued to be hypertensive and restless until 2100, when MD [**First Name (Titles) **] [**Last Name (Titles) **] Gttp. PT. follows commands at times, other times does not. Moves all ext. 
+Resp-Remains on previous shift vent settings, fio2 50%, Peep-15. Sats mid to high 90's, desaturates with restlessness/coughing up secretions. Copious frothy blood tinged secretions suctioned. Pt. very aggitated when suctioned or coughing. 
+CV-90-120's when sedated, 180-200's when restless and aggitated. Pt. HR 60-80's, NSR. PIV  x 4 intact. Rt. rad aline. Tmax 99.0. AM labs pending. 
+GI-TF's infusing at goal 75/hr, low residuals. Abd. soft/distended. Huge liquid brown BM at 1900. Smaller brown liquid at 0100. 
+GU-UOP from foley to gravity, clear yellow 100-400/hr.
+Integ-grossly intact, some reddness in perineum. Generalized edema.
+For more info, see pt flow sheet as well as notes made on previous shift.
+",,
+5035,26295,6244,1,2517-10-07 03:23:00 EST,2517-10-07 03:38:00 EST,7447,"Y",69,"Nursing/Other","Shift Assessment 1900-0700","
+Shift Assessment 1900-0700
+Disreguard note. This note was written on the wrong patient. this note does not correspond to this pt.
+",,
+5035,26295,6244,0,2517-10-07 03:39:00 EST,2517-10-07 03:49:00 EST,7447,"N",69,"Nursing/Other","Shift Assessment 1900 -0700","
+Shift Assessment 1900 -0700
+Pt. admitted with Rectal/hepatic CA.
+  Neuro-remains lethargic but somewhat more alert, can trace [**Doctor First Name **] with his vision, responds to wife in [**Name2 (NI) **] language. Confused and speech is gargled. Moves all ext, follows commands.
+  CV-Sinus rhythm/ST with some infrequent PVC's. HR 80-100's. Tmax 99.0. Pt. HCT. 23 at 2000. 2 units PRBC given, 2 unit. FFP given. AM labs sent 0400, pending. NBP 120-130's. Porta-cath accessed, 2 PIV intact. 
+  Resp-Nasal cannula 1-2 L, sats 98-100%, no SOB. Pt. with non-productive weak cough. Copious oral secretions. 
+   GI-NPO, TPN stopped 1800. D5 1/2 NS infusing at 100/hr. Pt. has NGT, patent, at low cont. wall suction. one small mucous like BM with frank blood. Abd. soft, distended.
+    Gu-foley cath to gravity with yellow/orange clear urine, adeq uop. 
+   Integ- Pt. has coccyx wound with duoderm intact, no drainage or odor. Oral ulcers in mouth. Multiple areas of bruising especially upper left ext. 
+   Social-wife at bedside all night, translates for pt. Wife to discuss future plans tomorrow.
+
+Plan- Continue to monitor labs, replace electrolytes and blood products as needed. Monitor for s/s bleeding due to high INR. Awaiting discussion with wife tomorrow, along with staff, to decide medical plan.
+
+
+
+
+",,
+5035,26295,6244,0,2517-10-07 16:02:00 EST,2517-10-07 16:15:00 EST,188,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE 0700-1900","
+M/SICU NURSING PROGRESS NOTE 0700-1900
+NEURO--AWAKENS TO VOICE. TRACKS WITH EYES. MAE SPONTANEOUSLY BUT INCONSISTENTLY TO COMMAND. PEARL AT 3MM.  PT KNOWS HIS NAME AND KNOWS THAT HE IS IN HOSPITAL.
+
+CARDIAC--EARLIER IN SHIFT PT WITH ATRIAL BIGEM. K+ REPLETED WITH 40 MEQ IV AND MG++ REPLETED WITH 2 MGS. ATRIAL BIGEM HAS SUBSIDED. HR 980-110. SBP 120-130/60'S.  
+
+GI--STARTED TO HAVE ENORMOUS AMTS OF MELENA. RECEIVED 2U FFP. HCT STABLE FROM 0600-1300. 1600 PENDING. COAGS FROM 1600 PENDING. NGT DRAINING BILIOUS DRAINAGE ~250CC.  RECAL BAG BLEW OFF, MUSHROOM CATH INTACT. PT HAS NOT BEEN FED X24 HRS. 
+
+RESP--RECIEVING NEB TREATMENTS. LUNGS WITH RHONCHI IN UPPER AIRWAYS. PT HAS STRONG PRODUCTIVE COUGH BUT SWALLOWS SPUTUM. WEARING O2 AT 1L NC. SAO2 >98%.
+
+GU--FOLEY CATH PATENT DRAINING >80CC HR OF CLEAR AMBER URINE.
+
+ENDO--NO SSRI GIVEN. LYTES REPLETED AS ABOVE.
+
+SKIN--LGR SIZE DECUBITI ON SACRUM AND EXTENDING TO BILATERAL GLUTEAL CHEEKS. AREA CLEANSED WITH WOUND CLEANSER AND NEW DUODERM APPLIED. R FLANK REMAINS WITH PETTECHIAE WHICH IS RESOLVING. ANASARCA PERSISTS. PLANTAR SURFACE OF BILATERAL FEET ARE DISCOLORED AND PEELING.
+
+ID--REMAINS ON FLAGYL. LEVO ADDED AND VANCO AND CEFAPINE D/CED. AFEBRILE.
+
+PAIN--ASKED FREQUENTLY IF PT IS IN PAIN AND HE SAYS""NO"". 
+
+DISPO--DNR/DNI.
+
+COPING--PT SPOKE WITH DR. [**Last Name (STitle) **] [**Name (STitle) **] INTERPRETER AND SPOKE ABOUT DNR STATUS BUT TO KEEP TREATING WITH BLOOD PRODUCTS FOR THE NEXT 12-24 HRS TO SEE IF COAGULOPATHY CLEARS.  WIFE, CHURI IS AWARE OF PT'S GRAVE PROGNOSIS BUT IS CONCERNED ABOUT FAMILY THINKING THAT SHE IS ""KILLING HIM"" BY MAKING THIS DECISION. (THIS IS [**Name (STitle) **] THE INTERPRETER, [**Doctor Last Name **].)
+WIFE WANTS TO HAVE A MEETING TOMORROW WITH FAMILY MEMBERS AND MD'S TO DISCUSS THAT IT IS THE CANCER THAT IS KILLING MR [**Known patient lastname 56**]. SHE IS AWARE THAT SURGERY IS NOT AN OPTION AT THIS TIME. FAMILY MEETING IS FOR 12 NOON TOMORROW. PLS PAGE CHINESE INTERPRETER.
+
+ACCESS- P-O-C AND R #20 GAUGE ANGIO.
+
+A--MELENA PR BUT AFEBRILE AND MAINTAINING BP AND HR WITHOUT MEDS.
+
+P--CON'T TO CHECK LABS. PLS CHECK K+ WITH NEXT BLOOD DRAW. OFFER SUPPORT TO PT AND FAMILY. OF NOTE, PT DOES NOT WANT TO BE SHAVED. CON'T TO TX BLOOD PRODUCTS AS ORDERED.
+",,
+5035,26295,6244,0,2517-10-08 05:46:00 EST,2517-10-08 05:53:00 EST,7447,"N",69,"Nursing/Other","Shift assessment.","
+Shift assessment.
+Pt. remained unchanged throughout shift. See assessment below-
+Neuro-lethargic, anwsers some questions, other times non-responsive, mae's. Weak. Communicates with wife in [**Name2 (NI) **].
+CV-80-110's with rare PVC's. Pt. has Lsc Port-a-cath. Pt. NBP100-130's. On scheduled metoprolol. Pt. with 2 PIV.
+Resp-remains on RA with sats 97-100%. RR 12-30. No diff breathing.
+GI-Abd. firm distended, non-tender, no abd. pain. Melena draining into collection bag. No nausea. [**Hospital1 **] sump to left nare. 
+GU-adequate uop to foley cath. amber without sediment.
+Integ. -Stage 2 to coccyx, duoderm intact. Bruising to upper ext. and areas of torso.
+  Plan/Social-Wife at bedside throughout shift. Pt. family to arrive today at noon. pt already DNR. Discussion with family/MD's today to determine level of care.
+
+
+",,
+5035,26295,6244,0,2517-10-08 13:44:00 EST,2517-10-08 13:54:00 EST,1016,"N",69,"Nursing/Other",,"
+
+npn 0700-1500;
+pt remained lethargic ans y/n questions  following simple commands  talking minimally with wife in [**Name2 (NI) **].pt denies pain.
+resp; pt on and off n/c for sats 87-99%, rr 8-17. productive cough cleared with yankeur ; lungs coarse upper diminished at bases.
+cvs stable. passing mod amounts amber urine. contimues with melemna via rectal tube. belly distended  hypo bs.
+family meeting held today with [**Name2 (NI) **] interpretor present,[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8145**],palliative care present and pt made cmo. all antibiotics  fingersticks d/c'd  pt to recieve fluids and chinse meds insmall amounts.
+a/p pt with advanced ca made cmo to transfer to floor. with view to transfer to hospice care at a facility. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8145**] will follow. 
+",,
+5035,26295,6244,0,2517-10-09 02:16:00 EST,2517-10-09 02:29:00 EST,7540,"N",69,"Nursing/Other",,"
+
+PT CMO
+see carevue for objective information
+
+Neuro: Contonese speaking understands little english. Wife at bedside interpreting. Pt answers appropriately to wife in [**Name2 (NI) **]. Mae weakly, lethargic arouses to voice. Follows requests. Perrl. Denies pain throught shift.
+
+CV: Tachy 99-124 with freq pac's. bp 134/78-158/88.
+
+Pulm: pt on ra around 0300 [**Last Name (un) 1508**] to 87% placed on 2L nc sats increased to 98%. Pt with weak nonproductive wet cough. Refused neb tx's. 
+
+GI/GU: Pt uop 60-220cc/hr amber-hematuric urine. Generalized edema. Abd firm distended bs present. mod amt of melena loose stool contained by rectal bag. denies nausea.
+
+ID: temp max 98.8. 
+
+PLan: Transfer to floor for cmo care
+      monitor for pain and treat accordingly
+      provide cont emotional support
+",,
+5035,26295,6244,0,2517-10-09 15:41:00 EST,2517-10-09 15:57:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+cardiac: comfort measures only. bp 125-139/73-83 with a pulse of 95-110 sr/st, short runs of atrial bigeminy.  occasional pvcs and pacs.  last k+ on [**10-8**] was 4.0, mag was 1.9 and calcium was 7.3.  iv of d5 1/2 ns was dc'd.  left leg warm to touch but slightly edematous, as is back and buttocks.  + pedal pulses.
+
+resp:  presently on 2L nasal prongs with a resp rate of 19-22 and sats of 96-99%.  lung sounds coarse on the left and clear/deminished in the right upper lobe and deminished in the lower lobe. weak non-productive cough.  10 seconds periods of apnea.  
+
+id:  afebrile.  96.7 po and 96.8 po.  last wbc on [**10-8**] was 15.8 with 10 bands.  
+
+gi:  npo. abdomin not firm or tense, able to palpate.  + bowel sounds.  no ng tube.  loose melanotic stool passed via rectal bag---total of 230cc of stool passed since midnite.  
+
+gu:  foley in place---pt passing approx 120-150cc/hr of yellow urine.  on [**10-8**] bun was 14 and creat was .6. 
+
+access:  portacath in LSC.  
+
+social:  wife at bedside most of the shift---wife appears to understand more english then the pt.  
+",,

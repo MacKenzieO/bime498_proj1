@@ -1,0 +1,1255 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3128-5-6**]        Discharge Date: [**3128-5-10**]
+
+Date of Birth:  [**3042-5-25**]        Sex:  F
+
+Service:  MED
+
+
+HISTORY OF PRESENT ILLNESS:  An 85-year-old female with
+osteoporosis and legally blind who fell while walking with
+family in a mall.  She had no precipitating symptoms, no head
+trauma or seizure activity but did lose consciousness for
+approximately 2 minutes.  After the syncopal episode, she
+felt lightheaded and had a headache; 30 minutes later, she
+had a second syncopal episode.  The patient became
+progressively agitated and confused over the next few hours.
+The patient was in [**Country 6597**] and refused to go to the emergency
+room.  They drove down from [**Country 6597**] to [**Hospital1 83**] Emergency
+Department for evaluation.  On arrival to the emergency
+department, her vital signs were stable, but she quickly
+became hypoxic and hypotensive requiring intubation and
+pressors.  A head CT showed an old right occipital infarct,
+and she had a negative CTA and negative lumbar puncture.  The
+patient had an elevated lactate, and also there was no clear
+source of infection.  She was started on antibiotics.  She
+was admitted to the intensive care unit.
+
+PAST MEDICAL HISTORY:  Legally blind.
+
+Osteoporosis.
+
+Right occipital stroke in [**3125**].
+
+PAST SURGICAL HISTORY:  Femoral hernia repair.
+
+MEDICATIONS:
+1. Aspirin.
+2. Fosamax.
+
+
+FAMILY HISTORY:  Liver cancer.
+
+SOCIAL HISTORY:  She lives at home with her daughter.  No
+tobacco or alcohol use.  The patient walks with a cane at
+baseline.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  On arrival to the ICU, temperature
+98.6 degrees, pulse 100, respiratory rate 18, blood pressure
+97/51, saturation 100 percent.  General, intubated, elderly
+thin female, sedated.  HEENT, pupils 3 mm and sluggishly
+reactive.  Neck, no JVD, no carotid bruits.  Pulmonary, clear
+to auscultation anteriorly.  Cardiovascular, tachycardia,
+regular rhythm, and no murmurs.  Abdomen, soft, nontender,
+nondistended, normoactive bowel sounds.  Extremities, no
+clubbing, cyanosis, or edema; warm, 2 plus dorsalis pedis
+pulses bilaterally.  Skin, no stigmata of endocarditis
+noticed.
+
+LABORATORY DATA:  Significant labs at the time of ICU
+admission, white count 7.5, 0 bands, bicarbonate 17, anion
+gap 10, negative UA, troponin 0.07, CPK 84, albumin 2.9, ABG
+7.21/39/442, lactate 5.2.
+
+RADIOGRAPHIC STUDIES:  EKG, normal sinus rhythm at 100 beats
+per minute with normal axis and intervals; [**Street Address 1217**]
+depressions in V5, V6, and I, new biphasic T-wave in V4
+through V6 and I.  A right upper quadrant ultrasound showed
+positive intrahepatic ductal dilatation with mild gallbladder
+wall thickening.  Chest x-ray showed no cardiopulmonary
+process with some apical scarring.  CT of her head without
+contrast showed no hemorrhage, but an old right posterior
+infarct with chronic small-vessel ischemic changes and a
+possible 1.8 cm aneurysm in her ICA.  A CTA showed no
+pulmonary emboli with small pleural effusions bilaterally,
+right greater than left, questionable ascites with some fluid
+around the pancreas.  An x-ray of her right hand showed no
+fracture.  Hip x-ray showed no fracture.  Echocardiogram
+showed an ejection fraction greater than 55 percent with
+dilated right ventricle and some hypokinesis without any
+evidence of pericardial effusion.
+
+HOSPITAL COURSE:  An 85-year-old female who is status post
+syncope times 2, admitted with hypotension and hypoxia,
+requiring intubation, pressors, and antibiotics that
+completely resolved within 2 days.
+
+Infectious disease.  Although the patient appeared septic
+upon presentation with an elevated lactate and hypotension,
+there was no clear evidence of infection.  Blood pressure
+improved and the patient was weaned off pressors after 1
+night.  There have been no source or other evidence of
+infection.  Therefore, antibiotics were discontinued.  The
+patient did have multiple episodes of diarrhea but she was C.
+difficile negative.
+
+Hypoxia.  Again, there was no clear etiology of the patient's
+hypoxia.  She was extubated without difficulty and remained
+on room air for the rest of her hospitalization.
+
+Syncope.  The patient was kept on telemetry.  However, there
+was no evidence of arrhythmia.  A CT of her head showed no
+change and lumbar puncture was negative.  She had normal
+carotid ultrasounds.  An echocardiogram showed small right
+ventricular hypokinesis and dilation with tricuspid
+regurgitation.  The patient was recommended to have an
+outpatient MRA/MRI to evaluate questionable aneurysm seen on
+CT scan.
+
+Abnormal right upper quadrant ultrasound.  The patient had
+mild transaminase with ductal dilatation and gallbladder wall
+thickening on right upper quadrant ultrasound.  The patient's
+LFTs trended downwards.  The patient was recommended to have
+an outpatient MRCP to evaluate for stones in her common bile
+duct.
+
+DISPOSITION:  The patient was discharged to home with
+services.
+
+CONDITION ON DISCHARGE:  Alert and oriented, full affect,
+presently walking with a cane and assistance, blood pressure
+and oxygen saturation are normal.
+
+DISCHARGE DIAGNOSES:  Syncope of unknown etiology.
+
+Hypotension.
+
+Respiratory failure requiring intubation.
+
+Transaminitis.
+
+History of cerebrovascular accident.
+
+Osteoporosis.
+
+Blindness.
+
+FOLLOW-UP:  Recommended to follow up with her PCP within the
+next 1 to 2 weeks.
+
+PLAN:  We recommend outpatient MRI to evaluate questionable
+injuries as seen on the CT scan as well as an outpatient MRCP
+for elevated transaminitis and dilatation and thickening of
+the gallbladder.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg once a day.
+2. Multivitamin 1 capsule p.o. q.d.
+3. Fosamax 35 mg 1 tablet p.o. q.d.
+
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], [**MD Number 7250**]
+
+Dictated By:[**Last Name (NamePattern1) 7251**]
+MEDQUIST36
+D:  [**3128-7-3**] 09:57:28
+T:  [**3128-7-3**] 14:51:25
+Job#:  [**Job Number 7252**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 43**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: WED [**3128-7-4**] 1:19 PM
+(End of Report)
+
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 1:54 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 14593**]
+     Reason: Pt with hypotension of unclear etiology, elevated total bili
+     Admitting Diagnosis: HYPOTENSION,SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with hypotension and hypoxia of unclear etiology.             
+     REASON FOR THIS EXAMINATION:
+      Pt with hypotension of unclear etiology, elevated total bilirubin, ALT/AST on 
+      labword.  Please eval for cholecystitis.  
+     ______________________________________________________________________________
+     WET READ: SGA SUN [**3128-5-6**] 3:10 PM
+      mild intrahepatic biliary dilatation, no extrahepatic biliary dilatation, mild
+      gallbladder wall thickening without evidence of stones or dilatation
+     WET READ AUDIT #1 SGA SUN [**3128-5-6**] 3:04 PM
+      mild intrahepatic biliary dilatation, no extrahepatic biliary dilatation, mild
+      gallbladder wall thickening without evidence of stones or dilatation, fatty
+      liver
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Hypotension and hypoxia of unclear etiology, elevated bilirubin,
+     ALT/AST.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  There is mild prominence of intrahepatic
+     bile ducts.  Howerver, there is no evidence of extrahepatic biliary dilatation
+     and the common bile duct measures 3 mm.  No focal abnormalities are identified
+     within the liver.  The gallbladder wall is mildly thickened, however, there is
+     no pericholecystic fluid or edema.  No free fluid is identified within the
+     abdomen.  There is a tiny echogenic focus near the neck of the gallbladder
+     which doesn't shadow well.  Limited views of the pancreas are unremarkable.
+     The flow within the portal vein is hepatopetal. No stones are identified
+     within the common bile duct.
+     
+     IMPRESSION:
+     1.  Mild intrahepatic biliary dilatation without evidence of extrahepatic
+     biliary dilatation or stones.
+     2.  Mild wall thickening of the gallbladder without evidence of acute
+     cholecystitis.  There is also an echogenic focus near the neck of the
+     gallbladder and a small stone cannot be excluded. An MRCP is recommended for
+     further evaluation.
+     
+     
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 9:34 AM
+     CTA CHEST W&W/O C &RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 14591**]
+     Reason: Pt with hypotension and hypoxia.  Please eval for pulmonary 
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with hypotension, hypoxia.                                    
+     REASON FOR THIS EXAMINATION:
+      Pt with hypotension and hypoxia.  Please eval for pulmonary emholism using PE 
+      protocol
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SGA SUN [**3128-5-6**] 10:54 AM
+      no pe
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension, hypoxia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  A CT angiogram of the chest was performed.  Helically-acquired
+     axial images were obtained through the lungs before and after administration
+     of nonionic Optiray contrast.  CT coronal reconstructions were also obtained.
+     
+     CTA CHEST:  There is no evidence of pulmonary embolism.  The patient is
+     intubated and there are bronchial calcifications.  The airways are patent down
+     to the segmental bronchi.  The heart and great vessels are unremarkable.  The
+     aorta is slightly ectatic.  There are tiny, scattered blebs within the lungs.
+     There is a tiny nodule in the right middle lobe.  The lungs are otherwise
+     clear. There are small pleural effusions bilaterally, right greater than left.
+     There is no significant axillary, medistinal or hilar lymph adenopathy.
+     
+     Limited views of the upper abdomen on the non-contrast study show
+     peripancreatic fluid as well as fluid within both the left and right pararenal
+     space.  The spleen is small.  There is a small calcification in the liver.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Small pleural effusions bilaterally, right greater than left.
+     3.  Limited views of the upper abdomen on the non-contrast study show
+     peripancreatic and retroperitoneal fluid concerning for pancreatitis.
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 9:34 AM
+     CTA CHEST W&W/O C &RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 14591**]
+     Reason: Pt with hypotension and hypoxia.  Please eval for pulmonary 
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with hypotension, hypoxia.                                    
+     REASON FOR THIS EXAMINATION:
+      Pt with hypotension and hypoxia.  Please eval for pulmonary emholism using PE 
+      protocol
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SGA SUN [**3128-5-6**] 10:54 AM
+      no pe
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension, hypoxia.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  A CT angiogram of the chest was performed.  Helically-acquired
+     axial images were obtained through the lungs before and after administration
+     of nonionic Optiray contrast.  CT coronal reconstructions were also obtained.
+     
+     CTA CHEST:  There is no evidence of pulmonary embolism.  The patient is
+     intubated and there are bronchial calcifications.  The airways are patent down
+     to the segmental bronchi.  The heart and great vessels are unremarkable.  The
+     aorta is slightly ectatic.  There are tiny, scattered blebs within the lungs.
+     There is a tiny nodule in the right middle lobe.  The lungs are otherwise
+     clear. There are small pleural effusions bilaterally, right greater than left.
+     There is no significant axillary, medistinal or hilar lymph adenopathy.
+     
+     Limited views of the upper abdomen on the non-contrast study show
+     peripancreatic fluid as well as fluid within both the left and right pararenal
+     space.  The spleen is small.  There is a small calcification in the liver.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Small pleural effusions bilaterally, right greater than left.
+     3.  Limited views of the upper abdomen on the non-contrast study show
+     peripancreatic and retroperitoneal fluid concerning for pancreatitis.
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 5:54 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14587**]
+     Reason: f/o bleed, stroke                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with mental status changes after falling                      
+     REASON FOR THIS EXAMINATION:
+      f/o bleed, stroke                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JHjc SUN [**3128-5-6**] 6:42 AM
+      No hemorrhage or mass effect.  Old right occipital infarct, atrophy, chronic
+      small vessel ischemic changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Change in mental status, fall.
+     
+     Comparison is made to the prior CT dated [**3123-11-14**].
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: There is no intraparenchymal or extraaxial hemorrhage. There is no
+     shift of normally midline structures, mass effect or hydrocephalus. There is
+     again demonstrated prominence of the ventricles and sulci consistent with
+     atrophy. There are periventricular white matter hypodensities consistent with
+     chronic microvascular ischemia. There is again demonstrated a chronic right
+     parietooccipital infarct. The visualized paranasal sinuses are unremarkable.
+     There are no fractures identified.
+     
+     IMPRESSION:
+     1. No intracranial hemorrhage or mass effect.
+     2. Atrophy.
+     3. Old right posterior infarct and chronic small vessel ischemic change.
+     4. Possible 1.8 cm aneurysm involving the cavernous portion of the left
+     internal carotid artery. MRI and MRA is recommended for further evaluation.
+     Revised findings relayed to the clinical team by Dr [**Last Name (STitle) 985**], radiology
+     resident on call.
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 9:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14590**]
+     Reason: s/p intubation                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with syncope, hypoxia                                        
+       
+     REASON FOR THIS EXAMINATION:
+      s/p intubation                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post ET tube placement.
+     
+     COMPARISON:  Radiograph performed the same day approximately 50 minutes
+     earlier.
+     
+     AP SINGLE VIEW OF THE CHEST:  There is interval placement of an ET tube
+     located approximately 5 cm from the carina.  The ballon is
+     overinflated. Otherwise the chest radiograph is unchanged when compared to the
+     previous study.
+     
+     IMPRESSION:
+     1. ET tube in good position.
+     2. Overinflation of the ET tube balloon. Finding communicated to the resident
+     taking care of the patient.
+     
+     
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 8:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14589**]
+     Reason: Pt with hypoxia, SOB.  Please eval forn CHF, infiltrate     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with syncope, hypoxia                                         
+     REASON FOR THIS EXAMINATION:
+      Pt with hypoxia, SOB.  Please eval forn CHF, infiltrate                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to [**3127-10-4**].
+     
+     CLINICAL INDICATION:  Shortness of breath and hypoxia.
+     
+     Please note that the patient was purportedly combative and was unable to
+     cooperate with standard radiographic positioning.
+     
+     Allowing for rotation, the cardiac and mediastinal contours are stable
+     compared to the previous study.  The heart is upper limits of normal in size
+     and the aorta is tortuous.  The pulmonary vascularity is normal.  The lungs
+     appear grossly clear, and no pleural effusions are evident on this single
+     projection.
+     
+     IMPRESSION:  Limited study demonstrating no evidence of congestive heart
+     failure or pneumonia.
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 12:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14592**]
+     Reason: s/p multiple failed R IJ line placement                     
+     Admitting Diagnosis: HYPOTENSION,SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with syncope, hypoxia                                       
+         
+     REASON FOR THIS EXAMINATION:
+      s/p multiple failed R IJ line placement                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post attempted right IJ central line placement.  Rule out
+     pneumothorax.
+     
+     COMPARISON:  Radiograph performed the same day approximately four hours
+     earlier.
+     
+     FINDINGS:  There is no evidence of pneumothorax.  The ET tube is unchanged in
+     position.  There is again noted overinflation of the ET tube balloon.
+     Recommend decreasing inflation of the balloon.  Otherwise the appearance of
+     the chest radiograph is unchanged.
+     
+     IMPRESSION: There is no evidence of pneumothorax in this supine view of the
+     chest.
+     
+     These findings were communicated to the house officer at the time of
+     interpretation.
+     
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 5:54 AM
+     FINGER(S),2+VIEWS LEFT                                          Clip # [**Clip Number (Radiology) 14588**]
+     Reason: r/o fracture                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman s/p fall, pain bruising in L middle finger.                   
+     REASON FOR THIS EXAMINATION:
+      r/o fracture                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain and bruising over the left middle
+     finger.
+     
+     LEFT HAND, 3 VIEWS:  There is diffuse demineralization.  There are no
+     fractures identified.  There is some soft tissue swelling appreciated in the
+     third digit.  There is some deformity of the wrist, possibly reflecting prior
+     trauma. The alignment and joint space are otherwise preserved.
+     
+     IMPRESSION:  Diffuse demineralization with no fracture identified.
+
+",,
+5845,3513,,,3128-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-6**] 5:48 AM
+     PELVIS (AP ONLY)                                                Clip # [**Clip Number (Radiology) 14586**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman s/p fall, left hip pain                                       
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post fall, left hip pain.
+     
+     There are no prior studies for comparison.
+     
+     AP of the pelvis:  The osseous structures are demineralized. There are no
+     fractures identified. The joint spaces are preserved. There is normal
+     alignment. Degenerative changes are noted in the lower lumbar spine.
+     
+     IMPRESSION: Demineralized osseous structures with no definite fracture seen on
+     single AP view.
+     
+
+",,
+5845,3513,7278,0,3128-05-06 16:26:00 EST,3128-05-06 16:40:00 EST,2789,"N",69,"Nursing/Other","NPN 3p-7p","
+NPN 3p-7p
+Pt. admitted to MICU at 3pm.  Admitted from EW with ? sepsis.  Pt. had syncopal episode-no head trauma and became progressivly more confused and agitated.  Pt. was in [**Country 171**] at the time and family drove her to [**Hospital1 22**] In EW pt. became more unresponsive with drop in BP to 70's and hypoxia.  Was intubated and started on dopamine.
+Neuro: Pt. on propofol 20mcg.  When propofol off pt. became agitated and was over breathing the vent.  PERL.  Head ct showed no bleed but she does have an anyuresm.
+
+CV: Tried to wean dopa to 2mcg but pt.dropped bp to 70's.  Currently on 4mcg. with SBP 91-100 MAP 60's.  If unable to wean dopa plan is to start second pressor.  HR 90's with no ectopy.  Has had 3L of NS in EW, 1 Liter here.  Will switch to LR due to increaseing acidemia.
+
+Resp: on CMV 40% x 14 with 5 PEEP.  no sputum.  sats 98-100%  No wheezes or rales.  CTA no PE Last ABG on 50% 7.29/38/195
+
+GI: soft, non distended. Pt. is NPO.  Abdominal ct shows intraabdominal fluid- thickened gall bladder.
+GU: making urine-30-40cc/hr
+ 
+ID: afebrile. 
+
+ACCESS: single port L IJ, R groin triple lumen.
+
+Social: Pt. speaks spanish.  Has very large family-spokesperson is her daughter.  One family memeber will stay overnight to act as interpreter if needed.  very supportive family. 
+",,
+5845,3513,7278,0,3128-05-06 16:43:00 EST,3128-05-06 16:46:00 EST,2687,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt received from ER & placed on A/C ventilator settings as noted on Carevue flowsheet.  ETT tube placement confirmed at 19cm.  Suctioned for sm amt of secretions.  Plan to continue vent support as ordered & wean when tolerated.
+",,
+5845,3513,7278,,3128-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-7**] 5:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14594**]
+     Reason: eval for infiltrate/effusion                                
+     Admitting Diagnosis: HYPOTENSION,SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old woman with syncope, hypoxia . intubated and requiring pressors   
+                                             
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/effusion                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Hypoxia.
+     
+     FINDINGS: An endotracheal tube remains in satisfactory position, but there is
+     persistent slight overdistention of the cuff.  The heart size and mediastinal
+     contours are normal.  There has been interval development of bilateral small
+     pleural effusions.
+     
+     An external jugular vein catheter is noted on the left.
+     
+     IMPRESSION:
+     1.  New small bilateral pleural effusions.
+     2.  Persistent slight overdistention of endotracheal tube cuff.
+
+",,
+5845,3513,7278,0,3128-05-07 04:00:00 EST,3128-05-07 04:22:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.  
+
+THIS IS AN 85 Y/O HISPANIC FEMALE WHO FELL WHILE WALKING IN THE MALL WITH HER DAUGHTER ON 5/29/004.  PT SUFFERED FROM NO HEAD TRAUMA WITH POSITIVE LOC FOR AT LEAST 2 MINUTES.  30 MIN AFTER HER INITIAL SYNCOPAL EPISODE- PT HAD C/O FEELING WOOZY AND SUFFERED FROM ANOTHER SYNCOPAL EPISODE- AGAIN SUFFERING NO HEAD TRAUMA BUT WITH POSTIVE LOC FOR ANOTHER 2 MIN- CPR INITIATED.  UPON REVIVAL PT WAS NOTED TO BE CONFUSED AND DELIRIOUS.  EMS WAS CALLED AND UPON THEIR INITIAL ASSESSMENT- PT WAS A & O X 3- REFUSING TO COME INTO THE HOSPITAL.  AS THE DAY PROGRESSED HOWEVER, HER CONFUSION INCREASED.  PT TRANSPORTED TO [**Hospital1 22**].  ONE HOUR AFTER HER ARRIVAL TO THE ED PT DETERIORATED WITH A SBP IN THE 70'S, A PULSE OF [**Street Address 1401**] OF 104 AND AN SP02 OF 70%.  EMERGENT CT SHOWED NO BLEED.  INTUBATED FOR AIRWAY PROTECTION AND DOPAMINE INITIATED FOR HYPOTENSION.  CTA PERFORMED WITH NO SIGN OF PE. US SIGNIFICANT FOR FLUID COLLECTION AROUND THE PANCREAS WITH QUESTIONABLE ASCITES.  LABS ALSO SIGNIFICANT FOR INCREASED LFT'S.  PT TX TO MICU FOR MANAGEMENT.  
+
+PMH:  LEGALLY BLIND, OSTEOPOROSIS
+
+SOCIAL:  NO HX OF SMOKING OR TOBACCO/ETOH, LIVES WITH DAUGHTER, WALKS WITH CANE.  
+
+NKDA
+
+NEURO:  PT ADEQUATELY SEDATED ON 30MCG/KG/MIN OF PROPOFOL.  WHEN LIGHTENED, PT BECOMES VERY AGITATED- FLAILING EXT X 4 AND ATTEMPTING TO GRAB TUBE- GRIMACES AND APPEARS UNCOMFORTABLE WHEN AWAKENED.  NOT FOLLOWING COMMANDS- PT IS PRIMARILY SPANISH SPEAKING, HOWEVER, A FAMILY MEMEBER WILL ALWAYS BE IN THE WAITING ROOM AS NEEDED FOR  TRANSLATION. PERRLA, 3/BRISK.  LOW GRADE TEMPS.  NO SEIZURE ACTIVITY NOTED.  LP DONE AT BEDSIDE- AWAITING LAB RESULTS.
+
+RR:  INTUBATED.  OETT IS SECURE AND PATENT.  CURRENT VENT SETTINGS ARE AC/14/450/40%/5.  SUCTIONING FOR SMALL AMOUNTS OF WHITE, THICK SECRETIONS.  BBS= ESSENTIALLY COARSE THROUGHOUT ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  SP02 > OR = TO 95%. 
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  HR NSR- ST 80-100'S. NO SIGNS OF ECTOPY NOTED. ABLE TO WEAN OFF OF DOPAMINE GTT HOWEVER, SBP HAVE BEEN SLIGHTLY TENUOUS WITH AN INTERMITTENT DROP TO THE LOW 80'S SYSTOLIC.  RECEIVED 500CC LR BOLUS- IS ABLE TO RECEIVE ANOTHER ONE AS NEEDED.  PALPABLE PULSES TO BILATERAL DORSALIS AND RADIALS.  RT RADIAL ALINE IS SECURE AND PATENT.  REZEROED AND RECALIBRATED DURING THE SHIFT.  PT RECEIVED TOTAL OF 80MEQ OF K,4 GMS OF MAG AND 4 GMS OF CAGLUC THROUGH THE SHIFT.  PT HAS 14G TO THE RT EJ AND A TLC CVL TO THE RT FEM. 
+
+GI:  ABD IS SOFT, DISTENDED.  BS X 4 QUADRANTS.  NO BM THIS SHIFT. PASSING FLATUS.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  PT IS VERY THIN AND FRAGILE- REPOSITIONING FREQUENTLY DUE TO HIGH RISK OF DEVELOPING BEDSORES.
+
+SOCIAL:  VERY LARGE INVOLVED FAMILY.  APPROPRIATE.  ALL QUESTIONS ANSWERED.  NO ISSUES.
+",,
+5845,3513,7278,0,3128-05-07 04:01:00 EST,3128-05-07 04:22:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+(Continued)
+
+
+PLAN:  QUESTION OF OBTAINING MRCP/ REPEAT ABD CT SCAN.  CONTINUE TO REPLETE LYTES, WEAN VENT AS TOLERATED.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+
+
+
+
+",,
+5845,3513,7278,0,3128-05-07 04:57:00 EST,3128-05-07 04:59:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remained intubated and ventilated on a/c with no remarkable changes overnight. ABGs are within normal limits with good oxygenation. Breat sounds are clear. RSBI this morning = 42 but pt. would go into apnea ventilation when left off a/c.
+",,
+5845,3513,7278,0,3128-05-07 16:39:00 EST,3128-05-07 17:21:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 0700-1900 RN Note
+
+Neuro:  Started shift sedated on Propofol 30mcg/kg/min wean to 18, awake opens eyes spont. MEA randomly. With family present/interpret oriented x2. denies pain only discomfort/ETT. Propofol off @1300 post extubation alert oriented x2 follows simple commands remained restrained for safety of IV lines.  @ time agitaed wanting hands restraints off mush more relaxed with Family present.pt calm and approriate with reassurrance from family.
+
+CV:  HR 90-115 NSR-ST no ectopy. Started shift SBP 96 completing Fluid bolus Dopamine 5mcg/kg/min with responding increase SBP able to wean Dopa off @ 0745. SBP remained >100-178 R radial aline intact sharp wave form. EKG nonspecific ST changes, Troponin 1.06. CK neg MB. Denies c/o CP. ECHO [**5-6**] LVF >55% R Vent hypokinesis no pericardial effussion. Access LIJ line intact NS 10cc/hr. R Fem tri-lumen Intact d/c @ 1600 Peripheral access #18 RFA IV 1/2NS @ 75cc/hr. Plan:  corotid U/S Plan to mionitor tachicardia ahd hypertension may introduce HTN/betablocker/ace inhibitor.
+
+Resp:  Started shift Intubated #7.5 ETT, Vent A/C 450-14-40% 5 peep no spon rest with Propofol weaned lighted up with spont resp  wean to CPAP+PS 5/5 40%  RR 18-22 Tv>300-450. Suctyioned via ETT for sm amt pale yellow and orally for lg amt clear/bl tinged. Sats 97-100% Lungs clear fine crackles @ bases.  @ 1330 Extubated placed on  FT 40% RR 18-22 Sats 96-99%. strong cough productive thick yellow blood tinged.  
+
+ID: t-max 98.9 PO, WBC 8.4, Cultures no growth to date, Triple abx chanded Ampicllin and cefriaxone d/c cont on Flagyl. 
+
+GI:  abd soft distended +BS no BM. LFT elevated and Trending down. [**Doctor First Name **] team evaluated abd with neg findings. Cont for evaluate for GB disease. NPO, Plan to adv to liquids. 
+
+GU: Foley u/o 25-110 cc/hr
+ 
+Social full code status. Many family members  very attentive and assist with translation.
+
+",,
+5845,3513,7278,,3128-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-8**] 6:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14595**]
+     Reason: assess interval change                                      
+     Admitting Diagnosis: HYPOTENSION,SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old woman with syncope, hypoxia . intubated and requiring pressors  
+                                               
+     REASON FOR THIS EXAMINATION:
+      assess interval change                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 85 y/o with hypoxia.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH. Comparison [**5-6**] and [**3128-5-7**].
+     
+     There has been interval removal of the ETT. There are persistent bilateral
+     pleural effusions with associated atelectatic changes at the lung bases.
+     Allowing for technique, these are not significantly changed from the prior
+     study. There are no new consolidations. Pulmonary vasculature is normal. There
+     is no pneumothorax. Cardiac and mediastinal contours are unchanged.
+     
+     IMPRESSION: Interval extubation. Unchanged bilateral pleural effusions and
+     bibasilar atelectasis.
+
+",,
+5845,3513,7278,,3128-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-5-8**] 3:02 PM
+     CAROTID SERIES COMPLETE PORT                                    Clip # [**Clip Number (Radiology) 14596**]
+     Reason: SYNCOPE
+     Admitting Diagnosis: HYPOTENSION,SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with 2 episodes of syncope prior to presentation              
+     REASON FOR THIS EXAMINATION:
+      evaluate for stenosis                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Syncope, ? stroke. 
+     
+     CAROTID SERIES COMPLETE:  Duplex evaluation was performed of both carotid
+     arteries. Minimal plaque was identified.
+     
+     On the right peak systolic velocities are 49, 47, 35 in the ICA, CCA, ECA
+     respectively.  The ICA to CCA ratio is 1.  This is consistent with
+     no stenosis.
+     
+     On the left peak systolic velocities are 45, 55, 42 in the ICA, CCA, ECA
+     respectively.  The ICA to CCA ratio is 0.8.  This is consistent with
+     no stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:   No evidence of stenosis in either carotid artery.
+
+",,
+5845,3513,7278,0,3128-05-08 02:52:00 EST,3128-05-08 03:06:00 EST,2108,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+     patient remains alert/oriented x3 last eve to orientation q's according to family.  as night progressed, pt increasingly agitated about wnating to get oob and go home. reassurance by mult family members and rn staff, pt awake most of night, finally able to fall asleep ~0300. vss. hr 90-1teens, bp 150-160 systolic most of night. pt recieved 250cc ivf bolus at change of shift w/hr 120's, has come down slightly since that time. bp 150-160, presently asleep. per family, pt has never been hypertensive and is not on meds. low grade temps.. remains on flagyl/ceftriaxone for prob asp pneumonia.. l/s clear. weaned to 3l nasal cannula, sats 98-99%. to advance diet to liq's and advance as tol this am.  u/o excellent to foley cath, no issues. 
+cont w/u for syncopal episodes.. scheduled for carotid dopplers today.. ?may be c/o to floor if remains stable.
+",,
+5845,3513,7278,0,3128-05-08 16:41:00 EST,3128-05-08 17:01:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 0700-1900 RN Note
+
+Called out to floor with Tele. Transfer note complete.
+
+Neuro:  awake alert oriented x2 follows commands with assist from family with translation. Denies pain. Family expressed that pt occassionaly confused and verbally rambling no making sence and times ery lucid and clear.Family states the confusion is new with this illness. Periods of niety much calmer with family present in the room. Family plans to remain @ bedside for night. 
+
+CV:  HR 90-128 SR-ST no ectopy.  SBP 141-157 MAPS > 95. R Radial aline intact sharp wave form. AM K+ 2.8 repleted KCL 80meq @ 1630 K+ 3.4 
+IV Access @ peripheral R LFA IV .45%NS @ 10cc/hr. 
+
+Resp:  RR18-24 reg, Lungs: clear crackles bases. O2 NC 2L/min wean to off @12N Sats.95%. occassional cough expectorating thick yellow sputum using yaunker sx. 
+
+ID:  Afebrile T-max 99.2. WBC 8.5, Cultures all negative. diarrheal stool today stool sent for c-diff. ABX d/c today. 
+
+GI: Abd soft notender + BS. several episodes of diarrhea stool. Diet adv to for soft solid fair appetite only eating small amt. taking pO fluids 
+
+GU:  Foley u/o60-220/hr. 
+
+derm:  skin warm dry intact no skin impairments. 
+
+Social:  Full code status. Family met with team and updated on plan of care.  
+
+",,
+5845,3513,7278,0,3128-05-09 03:45:00 EST,3128-05-09 03:53:00 EST,2108,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+     patient remains in the micu as a c/o waiting for a bed on the medical floor. she remains stable. vs per carevue flowsheet. conts to have liquid stool freqeuntly last eve. mushroom cath inserted last night w/much success, pt able to [**Doctor Last Name 5**] most of night! family remains at the bedside to assist in translation. no issues overnight. transfer note in chart. 
+",,
+5845,3513,7278,0,3128-05-09 13:04:00 EST,3128-05-09 13:06:00 EST,1640,"N",69,"Nursing/Other","MICU Transfer Update:","
+MICU Transfer Update:
+Transfer note updated and orders written. Pt is to be transferred to CC7. She is OOB to chair and starting to take PO's without difficulty. She has had repeat stool sent for c-diff. today and her family remain at ther bedside to translate and for pt safety.
+",,
+5845,,,,3128-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      LLQ pain- eval for Diveticulitis.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp SUN [**3128-7-8**] 6:14 AM
+      gallbladder distended with gallbladder wall irregularity and edema,
+      concerning for cholecystitis. no biliary duct dilatation or calcified
+      gallstones seen. RUQ u/s recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Left lower quadrant pain.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of oral and 100
+     cc of Optiray.  Nonionic contrast was administered secondary to language
+     barrier.  Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the right middle lobe, there is a
+     well defined 3 mm nodule present.  Bibasilar atelectatic changes are noted.
+     Small bulla is also noted within the left lower lobe.  No pleural effusions
+     are identified.  The liver appears unremarkable without evidence of
+     intrahepatic biliary duct dilatation or focal hepatic masses.  The gallbladder
+     is markedly distended with the wall appearing ill-defined and edematous. The
+     enhancement of the gallbladder wall mucosa is interrupted at several points,
+     highly suggestive of gangrenous cholecystitis.  A small amount of
+     pericholecystic fluid is present. There is no intra or extrahepatic biliary
+     duct dilatation identified. No calcified gallstones are seen. Pancreas,
+     spleen, adrenal glands, right kidney, ureters, stomach, and loops of large and
+     small bowel are all within normal limits. Within the left kidney, there are
+     small parapelvic cysts seen. Both kidneys otherwise enhance symmetrically and
+     excrete normal. There is no free air or free fluid. No significant mesenteric
+     or retroperitoneal lymphadenopathy is present. There is no bowel obstruction
+     present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Distal ureters, bladder, rectum, and
+     sigmoid colon are within normal limits.  There is no evidence of bowel
+     obstruction.  There is no free fluid.  The uterus is within normal limits.
+     There is no pelvic or inguinal lymphadenopathy identified.
+     
+     BONE WINDOWS:  Marked degenerative changes and osteopenia are noted throughout
+     the thoracic and lumbar spine.  No suspicious lytic or sclerotic lesions are
+     identified.
+     
+                                                                 (Over)
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the markedly distended and irregular, edematous wall of the
+     gallbladder.
+     
+     IMPRESSION:
+     1.  Markedly distended gallbladder with irregular, edematous gallbladder wall,
+     and interruption of gallbladder wall mucosal enhancement, all findings
+     concerning for gangrenous cholecystitis. No intra or extrahepatic biliary duct
+     dilatation is identified. A right upper quadrant ultrasound is recommended for
+     further evaluation.
+     2.  Left renal parapelvic cyst.
+     3.  Nodule within the right middle lobe of the lung.  In the absence of a
+     known primary malignancy, a chest CT within a year is recommended for follow-
+     up of this finding.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**3128-7-8**] at 9AM.
+     
+     
+
+",,
+5845,,,,3128-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-8**] 7:36 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 14598**]
+     Reason: eval for cholecystitis                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with N/V/ abdominal pain, CT concerning for cholecystitis     
+     REASON FOR THIS EXAMINATION:
+      eval for cholecystitis                                                          
+     ______________________________________________________________________________
+     WET READ: DFDdp SUN [**3128-7-8**] 8:28 AM
+      sloughed gallbladder mucosa with interruption of hyperechoic mucosa,
+      gallbladder wall edema, small amount of pericholecystic fluid. no stones or
+      sludge. findings highly suggestive of gangrenous cholecystitis.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: Nausea, vomiting, abdominal pain.
+     
+     COMPARISON: CT from [**3128-7-8**]. Report from ultrasound from [**3128-5-6**],
+     images not available on PACS for review.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND: The gallbladder is markedly distended. The
+     gallbladder wall is edematous and there is apparent interruption of the
+     hyperechoic mucosa. Additionally the gallbladder wall mucosa appears to have
+     been sloughed. There is a small amount of pericholecystic fluid identified. No
+     stones or sludge are identified within the gallbladder. There is no common
+     bile duct or intrahepatic biliary duct dilatation identified. Sonographic
+     [**Doctor Last Name 84**] sign was not elicited.
+     
+     IMPRESSION: Findings most suggestive of gangrenous cholecystitis. No intra or
+     extrahepatic biliary duct dilatation identified. Findings were discussed with
+     Dr. [**Last Name (STitle) **] on [**3128-7-8**] at approximately 9 AM.
+     
+
+",,
+5845,,,,3128-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      LLQ pain- eval for Diveticulitis.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp SUN [**3128-7-8**] 6:14 AM
+      gallbladder distended with gallbladder wall irregularity and edema,
+      concerning for cholecystitis. no biliary duct dilatation or calcified
+      gallstones seen. RUQ u/s recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Left lower quadrant pain.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of oral and 100
+     cc of Optiray.  Nonionic contrast was administered secondary to language
+     barrier.  Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the right middle lobe, there is a
+     well defined 3 mm nodule present.  Bibasilar atelectatic changes are noted.
+     Small bulla is also noted within the left lower lobe.  No pleural effusions
+     are identified.  The liver appears unremarkable without evidence of
+     intrahepatic biliary duct dilatation or focal hepatic masses.  The gallbladder
+     is markedly distended with the wall appearing ill-defined and edematous. The
+     enhancement of the gallbladder wall mucosa is interrupted at several points,
+     highly suggestive of gangrenous cholecystitis.  A small amount of
+     pericholecystic fluid is present. There is no intra or extrahepatic biliary
+     duct dilatation identified. No calcified gallstones are seen. Pancreas,
+     spleen, adrenal glands, right kidney, ureters, stomach, and loops of large and
+     small bowel are all within normal limits. Within the left kidney, there are
+     small parapelvic cysts seen. Both kidneys otherwise enhance symmetrically and
+     excrete normal. There is no free air or free fluid. No significant mesenteric
+     or retroperitoneal lymphadenopathy is present. There is no bowel obstruction
+     present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Distal ureters, bladder, rectum, and
+     sigmoid colon are within normal limits.  There is no evidence of bowel
+     obstruction.  There is no free fluid.  The uterus is within normal limits.
+     There is no pelvic or inguinal lymphadenopathy identified.
+     
+     BONE WINDOWS:  Marked degenerative changes and osteopenia are noted throughout
+     the thoracic and lumbar spine.  No suspicious lytic or sclerotic lesions are
+     identified.
+     
+                                                                 (Over)
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the markedly distended and irregular, edematous wall of the
+     gallbladder.
+     
+     IMPRESSION:
+     1.  Markedly distended gallbladder with irregular, edematous gallbladder wall,
+     and interruption of gallbladder wall mucosal enhancement, all findings
+     concerning for gangrenous cholecystitis. No intra or extrahepatic biliary duct
+     dilatation is identified. A right upper quadrant ultrasound is recommended for
+     further evaluation.
+     2.  Left renal parapelvic cyst.
+     3.  Nodule within the right middle lobe of the lung.  In the absence of a
+     known primary malignancy, a chest CT within a year is recommended for follow-
+     up of this finding.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**3128-7-8**] at 9AM.
+     
+     
+
+",,
+5845,,,,3128-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      LLQ pain- eval for Diveticulitis.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp SUN [**3128-7-8**] 6:14 AM
+      gallbladder distended with gallbladder wall irregularity and edema,
+      concerning for cholecystitis. no biliary duct dilatation or calcified
+      gallstones seen. RUQ u/s recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Left lower quadrant pain.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of oral and 100
+     cc of Optiray.  Nonionic contrast was administered secondary to language
+     barrier.  Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the right middle lobe, there is a
+     well defined 3 mm nodule present.  Bibasilar atelectatic changes are noted.
+     Small bulla is also noted within the left lower lobe.  No pleural effusions
+     are identified.  The liver appears unremarkable without evidence of
+     intrahepatic biliary duct dilatation or focal hepatic masses.  The gallbladder
+     is markedly distended with the wall appearing ill-defined and edematous. The
+     enhancement of the gallbladder wall mucosa is interrupted at several points,
+     highly suggestive of gangrenous cholecystitis.  A small amount of
+     pericholecystic fluid is present. There is no intra or extrahepatic biliary
+     duct dilatation identified. No calcified gallstones are seen. Pancreas,
+     spleen, adrenal glands, right kidney, ureters, stomach, and loops of large and
+     small bowel are all within normal limits. Within the left kidney, there are
+     small parapelvic cysts seen. Both kidneys otherwise enhance symmetrically and
+     excrete normal. There is no free air or free fluid. No significant mesenteric
+     or retroperitoneal lymphadenopathy is present. There is no bowel obstruction
+     present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Distal ureters, bladder, rectum, and
+     sigmoid colon are within normal limits.  There is no evidence of bowel
+     obstruction.  There is no free fluid.  The uterus is within normal limits.
+     There is no pelvic or inguinal lymphadenopathy identified.
+     
+     BONE WINDOWS:  Marked degenerative changes and osteopenia are noted throughout
+     the thoracic and lumbar spine.  No suspicious lytic or sclerotic lesions are
+     identified.
+     
+                                                                 (Over)
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the markedly distended and irregular, edematous wall of the
+     gallbladder.
+     
+     IMPRESSION:
+     1.  Markedly distended gallbladder with irregular, edematous gallbladder wall,
+     and interruption of gallbladder wall mucosal enhancement, all findings
+     concerning for gangrenous cholecystitis. No intra or extrahepatic biliary duct
+     dilatation is identified. A right upper quadrant ultrasound is recommended for
+     further evaluation.
+     2.  Left renal parapelvic cyst.
+     3.  Nodule within the right middle lobe of the lung.  In the absence of a
+     known primary malignancy, a chest CT within a year is recommended for follow-
+     up of this finding.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**3128-7-8**] at 9AM.
+     
+     
+
+",,
+5845,,,,3128-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      LLQ pain- eval for Diveticulitis.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp SUN [**3128-7-8**] 6:14 AM
+      gallbladder distended with gallbladder wall irregularity and edema,
+      concerning for cholecystitis. no biliary duct dilatation or calcified
+      gallstones seen. RUQ u/s recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Left lower quadrant pain.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of oral and 100
+     cc of Optiray.  Nonionic contrast was administered secondary to language
+     barrier.  Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the right middle lobe, there is a
+     well defined 3 mm nodule present.  Bibasilar atelectatic changes are noted.
+     Small bulla is also noted within the left lower lobe.  No pleural effusions
+     are identified.  The liver appears unremarkable without evidence of
+     intrahepatic biliary duct dilatation or focal hepatic masses.  The gallbladder
+     is markedly distended with the wall appearing ill-defined and edematous. The
+     enhancement of the gallbladder wall mucosa is interrupted at several points,
+     highly suggestive of gangrenous cholecystitis.  A small amount of
+     pericholecystic fluid is present. There is no intra or extrahepatic biliary
+     duct dilatation identified. No calcified gallstones are seen. Pancreas,
+     spleen, adrenal glands, right kidney, ureters, stomach, and loops of large and
+     small bowel are all within normal limits. Within the left kidney, there are
+     small parapelvic cysts seen. Both kidneys otherwise enhance symmetrically and
+     excrete normal. There is no free air or free fluid. No significant mesenteric
+     or retroperitoneal lymphadenopathy is present. There is no bowel obstruction
+     present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Distal ureters, bladder, rectum, and
+     sigmoid colon are within normal limits.  There is no evidence of bowel
+     obstruction.  There is no free fluid.  The uterus is within normal limits.
+     There is no pelvic or inguinal lymphadenopathy identified.
+     
+     BONE WINDOWS:  Marked degenerative changes and osteopenia are noted throughout
+     the thoracic and lumbar spine.  No suspicious lytic or sclerotic lesions are
+     identified.
+     
+                                                                 (Over)
+
+     DATE: [**3128-7-8**] 5:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14597**]
+     CT RECONSTRUCTION; CT 100CC NON IONIC CONTRAST
+     Reason: LLQ pain- eval for Diveticulitis.                           
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+     delineating the markedly distended and irregular, edematous wall of the
+     gallbladder.
+     
+     IMPRESSION:
+     1.  Markedly distended gallbladder with irregular, edematous gallbladder wall,
+     and interruption of gallbladder wall mucosal enhancement, all findings
+     concerning for gangrenous cholecystitis. No intra or extrahepatic biliary duct
+     dilatation is identified. A right upper quadrant ultrasound is recommended for
+     further evaluation.
+     2.  Left renal parapelvic cyst.
+     3.  Nodule within the right middle lobe of the lung.  In the absence of a
+     known primary malignancy, a chest CT within a year is recommended for follow-
+     up of this finding.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**3128-7-8**] at 9AM.
+     
+     
+
+",,
+5845,,,,3128-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-9**] 4:16 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 14599**]
+     Reason: CHOLECYSTITIS
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman pre-op for wednesday                                          
+     REASON FOR THIS EXAMINATION:
+      ? acute changes                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Cholecystitis.
+     
+     Comparison is made to a previous study of [**3128-5-8**].
+     
+     The heart size is normal.  The aorta is tortuous and the pulmonary vascularity
+     is normal.  Previously noted bilateral pleural effusions and basilar lung
+     opacities on the prior study have resolved.  The bones are diffusely
+     demineralized, and there is decreased height of several thoracic vertebral
+     bodies.  Fine bone detail is obscured on the lateral view due to overlying
+     structures.  Multilevel compression deformities are present dating back to
+     older chest x-ray of [**3123-11-15**].
+     
+     IMPRESSION:  No acute pulmonary disease.
+
+",,
+5845,,,,3128-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5845,,,,3128-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3128-7-14**] 1:38 PM
+     TOE(S), 2+ VIEW RIGHT PORT                                      Clip # [**Clip Number (Radiology) 14600**]
+     Reason: ? acute fracure                                             
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with pain over medial side of Great Toe                       
+     REASON FOR THIS EXAMINATION:
+      ? acute fracure                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     GREAT TOE:
+     
+     INDICATION:  Pain.
+     
+     Joint structures are demineralized.  There are no apparent fractures.
+
+",,
+5845,,,,3129-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-2-19**] 10:13 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14602**]
+     Reason: eval for pna                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with chronic cough.                                           
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Chronic cough.
+     
+     COMPARISON:  [**3128-7-9**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:   The heart is normal in size.  Tortuosity
+     of the aorta is again noted.  Mediastinal and hilar contours are unchanged.
+     The lungs are clear.  There are no effusions, focal consolidations, or
+     pneumothorax demonstrated.  There is diffuse osteopenia of the osseous
+     structures.  Numerous compression fractures are again seen within the thoracic
+     spine, not significantly changed since the prior examination.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.
+                                                                           DFDdp
+
+",,
+5845,,,,3129-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-2-19**] 10:12 PM
+     HAND (AP, LAT & OBLIQUE) RIGHT; FOREARM (AP & LAT) RIGHT        Clip # [**Clip Number (Radiology) 14601**]
+     Reason: eval for fracture                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with bruise on right thumb/tenderness s/p fall                
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bruise on the right thumb and tenderness after fall.
+     
+     COMPARISON:  None.
+     
+     RIGHT HAND, THREE VIEWS:  The bones are markedly osteopenic, limiting
+     sensitivity for detection of fractures.  There is an irregularity of the
+     distal radius without a definite fracture line noted; this may represent an
+     impacted fracture, chronicity unknown. Degenerative changes are noted within
+     the fifth DIP joint with narrowing of the joint space, subchondral sclerotic
+     change, and osteophytic spurring.  No soft tissue calcifications are present.
+     
+     IMPRESSION:  
+     1.  Marked osteopenia limiting sensitivity for detection of fractures.
+     2.  Irregularity of the distal radius, which may represent an impacted
+     fracture, of unknown age. Clinical correlation with the patient's pain is
+     recommended.
+     3.  Osteoarthritic changes.
+     
+     RIGHT RADIUS AND ULNA, TWO VIEWS:  The bones are severely osteopenic.  No
+     dislocations are identified.  Again noted is irregularity of the distal right
+     radius, without a definite fracture line identified, which may represent an
+     impacted fracture of unknown age.  No soft tissue calcifications are present.
+     
+     IMPRESSION:
+     Irregularity of the distal radius, suggestive of an impacted fracture,
+     chronicity unknown.
+     
+                                                                           DFDdp
+
+",,
+5845,,,,3129-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-2-19**] 10:12 PM
+     HAND (AP, LAT & OBLIQUE) RIGHT; FOREARM (AP & LAT) RIGHT        Clip # [**Clip Number (Radiology) 14601**]
+     Reason: eval for fracture                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old woman with bruise on right thumb/tenderness s/p fall                
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bruise on the right thumb and tenderness after fall.
+     
+     COMPARISON:  None.
+     
+     RIGHT HAND, THREE VIEWS:  The bones are markedly osteopenic, limiting
+     sensitivity for detection of fractures.  There is an irregularity of the
+     distal radius without a definite fracture line noted; this may represent an
+     impacted fracture, chronicity unknown. Degenerative changes are noted within
+     the fifth DIP joint with narrowing of the joint space, subchondral sclerotic
+     change, and osteophytic spurring.  No soft tissue calcifications are present.
+     
+     IMPRESSION:  
+     1.  Marked osteopenia limiting sensitivity for detection of fractures.
+     2.  Irregularity of the distal radius, which may represent an impacted
+     fracture, of unknown age. Clinical correlation with the patient's pain is
+     recommended.
+     3.  Osteoarthritic changes.
+     
+     RIGHT RADIUS AND ULNA, TWO VIEWS:  The bones are severely osteopenic.  No
+     dislocations are identified.  Again noted is irregularity of the distal right
+     radius, without a definite fracture line identified, which may represent an
+     impacted fracture of unknown age.  No soft tissue calcifications are present.
+     
+     IMPRESSION:
+     Irregularity of the distal radius, suggestive of an impacted fracture,
+     chronicity unknown.
+     
+                                                                           DFDdp
+
+",,

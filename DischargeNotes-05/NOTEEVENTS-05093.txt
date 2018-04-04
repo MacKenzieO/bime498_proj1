@@ -1,0 +1,2469 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5093,,,,2830-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-10-21**] 1:21 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 8271**]
+     Reason: please perform pre and post gadolinium images, as recommende
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with h/o uterine ca, mult lung masses, adrenal mets, and L 
+      parietal lesion
+     REASON FOR THIS EXAMINATION:
+      please perform pre and post gadolinium images, as recommended on prior MR 
+      report.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH CONTRAST
+     
+     INDICATION:  Uterine cancer with lung masses and left parietal lesion.
+     
+     Multiplanar T1- and T2-weighted images of the brain were obtained without and
+     with intravenous gadolinium administration according to standard departmental
+     protocol.  Comparison is made to the prior exam from [**2830-9-28**].
+     
+     There has been slight enlargement of the previously seen large cystic mass
+     lesion in the left parietal convexity, which now measures 4.1 x 3.8 x 2.6 cm.
+     This probably contains viscous proteinaceous material or byproducts of blood.
+     The mass demonstrates increased T1 and T2 signal without significant
+     surrounding vasogenic edema seen.  Enlargement of the mass would suggest a
+     malignant process.  There are no acute territorial infarcts seen on diffusion
+     images.  Few scattered foci of nonspecific T2 hyperintensity are present along
+     the periventricular white matter.  There is no abnormal meningeal enhancement
+     seen.
+     
+     Sagittal images reveals expanding and worsening metastatic disease in the
+     epidural space arising from C3 and C5 vertebra and resulting in moderate cord
+     compression, which is posteriorly deviated.  Followup MRI of the cervical
+     spine would be recommended for further evaluation.  The brainstem is
+     unremarkable.  There is opacification of the right maxillary sinus.
+     
+     IMPRESSION:  Slight enlargement of the cystic mass lesion, which contains
+     isointense internal signal and no enhancement in the left posterior parietal
+     convexity.  The mass has enlarged by 5-6 mm since [**2830-9-28**] and is
+     worrisome for malignancy.  There are worsening expanding metastatic lesions
+     involving the upper cervical spine, most notably at C3 level, resulting in
+     deviation of the cord posteriorly and compression.  There is metastatic
+     involvement of C2 and C5 as well.  Followup MRI of the cervical spine would be
+     recommended along with neurosurgical consultation.
+
+",,
+5093,,,,2830-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-10-25**] 12:38 PM
+     C-SPINE NON-TRAUMA [**2-14**] VIEWS                                    Clip # [**Clip Number (Radiology) 8272**]
+     Reason: C3 FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  C3 fracture.
+     
+     Lung cancer with metastatic disease.
+     
+     On the lateral view, C1 through the T1-T2 disc space is demonstrated.  There
+     is severe diffuse osteopenia.  There is marked compression and ill definition
+     of the C3 vertebral body, with convex bowing of the posterior portion of the
+     vertebral body extending into the spinal canal, similar to the [**2830-9-28**] MRI. In
+     addition, there is irregularity with multiple lucencies involving the C5
+     vertebral body, also consistent with metastatic disease.  No retropulsion or
+     retrolisthesis is identified at this level.  There are moderately severe
+     degenerative changes at C6/7, with disc space narrowing and small marginal
+     osteophytes.  Remaining vertebral body heights are preserved.  Prevertebral
+     soft tissues are slightly prominent.  The known C3 posterior element disease
+     seen on the recent MRI is difficult to appreciate on this x-ray.
+     
+     IMPRESSION:  Destruction and compression of C3 and C5 vertebral bodies,
+     consistent with metastatic disease.  Retropulsion of the posterior cortex at
+     C3 unchanged compared with [**2830-9-28**] C-spine MRI.  Otherwise, no bony compromise
+     of the spinal canal is detected.  Advanced degenerative change is noted.
+
+",,
+5093,14827,,,2830-11-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2830-11-3**]              Discharge Date:   [**2830-12-6**]
+ 
+Date of Birth:  [**2763-8-15**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5815**] 
+Addendum:
+Mrs[**Last Name (un) 5816**] blood pressure was consistently in the range of 
+90-100 systolic and did not require anti-hypertensive 
+medications. 
+.
+Mrs.[**Known patient lastname 5817**] prescription for Megace was inadvertantly omitted 
+from her discharge planning. A prescription for this was called 
+in to her local pharmacy.
+ 
+Discharge Disposition:
+Home with Service
+ 
+                             [**First Name11 (Name Pattern1) 880**] [**Last Name (NamePattern4) 5818**] MD [**MD Number 5819**]
+ 
+Completed by: [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) 4222**] MD [**MD Number 4223**] [**2830-12-6**] @ 1814
+Signed electronically by: DR. [**First Name4 (NamePattern1) 880**] [**Last Name (NamePattern1) **]
+ on: TUE [**2830-12-10**] 1:26 PM
+(End of Report)
+
+
+",,
+5093,14827,,,2830-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-3**] 8:12 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8275**]
+     Reason: please eval for PNA, pneumothorax                           
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with new hypoxia, lung masses, and pleural effusion now  
+      likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      please eval for PNA, pneumothorax                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 8:16 P.M. ON [**2830-11-3**].
+     
+     HISTORY:  New hypoxia.  Lung masses and pleural effusion.
+     
+     IMPRESSION:  AP chest compared to [**10-2**].
+     
+     Lung volumes are smaller.  There is probably a moderate-sized right pleural
+     effusion but it is difficult to separate growing mass in the right middle lobe
+     and right middle lobe atelectasis in the base of the right lung and therefore
+     to determine the volume of right pleural effusion.  Drop in left lung volume
+     seems to be due to relative elevation of the left hemidiaphragm.
+     
+     Two masses in the left mid lung appear to be smaller and cavitated
+     respectively.  Cardiac silhouette is obscured by the elevated diaphragm. 
+     Right lower paratracheal and mediastinal adenopathy persists.  No
+     pneumothorax.
+                                                                           
+
+",,
+5093,14827,,,2830-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-3**] 5:10 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 8274**]
+     Reason: Assess changes to C spine in lieu of fall                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic endometrial cancer with RUE and RLE weakness 
+      and s/p fall on [**2830-10-31**]. 
+     REASON FOR THIS EXAMINATION:
+      Assess changes to C spine in lieu of fall                                       
+     ______________________________________________________________________________
+     WET READ: JCT SUN [**2830-11-3**] 7:46 PM
+      metastatic disease involving c2-6. worsening of epidural soft tissue extension
+      at c3 now with severe cord compression. no definite cord edema.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EMERGENCY CERVICAL SPINE IMAGING STUDY.
+     
+     HISTORY:  Metastatic endometrial cancer with right upper and lower extremity
+     weakness.  Status post fall.  Assess changes to cervical spine following the
+     fall.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging of the cervical spine was
+     obtained.
+     
+     FINDINGS:  This study is of poor quality due to patient motion.
+     
+     Comparison with the prior study of [**2830-9-28**], appears to show
+     increasing amount of prevertebral edema, which is now prominent in extent and
+     is seen from the level of the foramen magnum to C5.  There is somewhat
+     increasing amount of edema in the spinous process of C3 as well.  These
+     abnormalities could represent consequence of the recent trauma or an unusually
+     rapid progression of metastatic disease, as well as a combination of the two
+     factors. Infection is also possible, and requires clinical correlation.
+     Pathologic fracture seen at C3 is redemonstrated and it, as well as the
+     associated large epidural mass causes what appears to be moderately prominent
+     cord compression. No other new foci of metastatic disease are apparent.
+     
+     CONCLUSION:  Worsening prevertebral edema in the upper cervical spine as well
+     as within the spinous process of C3.  Taken together, these abnormalities are
+     of concern for either the effects of recent trauma, rapidly progressive
+     metastatic disease, or a combination of the two. Infection is a less likely
+     consideration, without confirmatory clinical correlation.
+     
+     have attempted to telephone the attending physicians caring for this patient.
+     The wet reading, noted on the CCC system conveyed this information.
+     
+
+",,
+5093,14827,,,2830-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-3**] 5:10 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 8273**]
+     Reason: Assess changes in brain lesion                              
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with met endometrial cancer to spine, lung, etc. with 
+      worsening weakness.
+     REASON FOR THIS EXAMINATION:
+      Assess changes in brain lesion                                                  
+     ______________________________________________________________________________
+     WET READ: JCT SUN [**2830-11-3**] 7:31 PM
+      slight increase in size of left post parietal cystic mass. otherwise stable
+      head MRI c/w [**2830-10-21**].
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     EMERGENCY MRI SCAN OF THE BRAIN
+     
+     HISTORY:  Metastatic endometrial cancer with worsening weakness.  Assess for
+     interval changes.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted brain imaging was obtained with
+     gadolinium enhancement.
+     
+     COMPARISON:  [**2830-10-21**] study.
+     
+     There has been negligible alteration in the extent of the large left parietal
+     ring enhancing mass, compared to the prior study of [**10-21**].  It is of
+     interest that this large lesion has essentially no peripheral edema.  This
+     finding is somewhat unusual, in the setting of either a primary or metastatic
+     neoplasm.  Is the patient receiving any corticosteroid medication that might
+     reduce the edematous component?  The T1 hyperintensity of the contents of this
+     lesion, noted within the cavity, has diminished in extent.  This change could
+     suggest that there could be a hemorrhagic component, as opposed to an
+     alteration in the proteinaceous content of the abnormality.  There were no
+     other areas of pathological enhancement seen within the brain.
+     
+     The mass causes minor compression of the trigone of the left lateral
+     ventricle.  There is no shift of normally midline structures nor is there sign
+     for hydrocephalus.  There is persistent loss of aeration of the right
+     maxillary antrum, which could indicate an inflammatory process.
+     
+     CONCLUSION:  No new lesions are seen.  The left parietal mass is
+     redemonstrated.  While a metastatic neoplastic focus would seem a reasonable
+     consideration, given the widely metastatic disease elsewhere, a resolving
+     hemorrhage could be considered, with infection being less likely.
+     
+
+",,
+5093,14827,,,2830-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-4**] 5:12 PM
+     CT C-SPINE W/CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 8276**]
+     Reason: Evaluate for fracture and define anatomy for possible surgic
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic endometrial cancer with met to C-3 w/ cord 
+      compression.  Now, s/p fall, she has marked right upper extremety weakness
+     REASON FOR THIS EXAMINATION:
+      Evaluate for fracture and define anatomy for possible surgical intervention.  
+      Bone windows w/ reconstruction including sagital are needed.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old woman with metastatic endometrial cancer with
+     metastases to C3 with cord compression.  Recent fall and right upper extremity
+     weakness.  Evaluate for fracture.
+     
+     TECHNIQUE:  CT C-spine with sagittal and coronal reformatting without IV
+     contrast.
+     
+     COMPARISON:  [**2830-10-25**] (plain film) and [**2830-11-3**] (MR).
+     
+     FINDINGS:  There is loss of vertebral body height at C3 with some retropulsion
+     of bone into the spinal canal. There is bone destruction in the right side of
+     the posterior elements extending to the midline. There is a fracture of the
+     spinous process of C3. There is no significant displacement of the fracture
+     fragments. The vertebral body collapse is unchanged from the prior plain film.
+     There is stable appearance of the compression fracture of the C5 vertebral
+     body. The prevertebral soft tissues are again prominent.
+     
+     IMPRESSION:
+     
+     1.Abnormality C3 with bone destruction and fracture as described. This is
+     considered unstable. The spinous process fracture may be new.
+     
+     2. Compression fracture of the C5 vertebral body unchanged from [**10-25**].
+     
+     Amended report called to Dr. [**First Name4 (NamePattern1) 1084**] [**Last Name (NamePattern1) 8277**]. TK
+     
+     
+
+",,
+5093,14827,,,2830-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-7**] 8:16 PM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 8278**]
+     Reason: Pre-op                                                      
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman with thoracentesis today now with new wheezing and cough.  
+      Please eval for PTX
+     REASON FOR THIS EXAMINATION:
+      Pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of thoracocentesis today with new wheezing and coughing,
+     evaluate for pneumothorax.
+     
+     COMPARISON:  Study from [**2830-11-3**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Again seen is a cavitary lesion within the
+     right mid lung zone, which is similar in appearance in comparison to prior
+     study.  There is an opacity at the right lung base, which likely represents
+     pleural effusion with atelectasis, though consolidation cannot be excluded. 
+     There are rounded nodular opacities in the right hilar area, which correspond
+     to a mass lesion seen on prior CT imaging from [**2830-10-10**].  The mediastinal and
+     hilar contours are stable in appearance.  Soft tissue and osseous structures
+     are stable.
+     
+     IMPRESSION:  No pneumothorax.  The remainder of the findings are similar in
+     appearance in comparison to the prior study.
+                                                                           
+
+",,
+5093,14827,,,2830-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,,,2830-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-8**] 4:26 PM
+     C-SPINE SGL 1 VIEW IN O.R.                                      Clip # [**Clip Number (Radiology) 8279**]
+     Reason: LAMINECTOMY
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Laminectomy.
+     
+     Single intraoperative film from [**2830-11-8**], timed at 1625.  Multiple surgical
+     instruments are in place.  Pedicle screws are seen from posterior approach at
+     the C4 and C5 levels.  Again seen is destruction of the C3 vertebral body and
+     relative lucency of C4.  The remaining portion of the lower cervical spine is
+     obscured. A xx plate is also in place.  A small lytic focus is noted in the
+     posterior skull.
+     
+
+",,
+5093,14827,,,2830-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-8**] 8:52 PM
+     C-SPINE SGL 1 VIEW; -76 BY SAME PHYSICIAN                       [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8280**]
+     Reason: ASSES SPINE AND HARDWARE POSITION
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Assess spine and hardware position.
+     
+     CERVICAL SPINE, TWO LATERAL VIEWS.  One appears to be a repeat for
+     positioning.
+     
+     A halo is in place. C1 through the upper portion of C7 is demonstrated. The
+     patient is status post occipital-cervical fusion with bilateral pedicle
+     screws, with slin staples.  Screw positioning is grossly unremarkable on these
+     views, but correlation with clinical findings and AP view would be recommended
+     for full assessment.  Some increased lucency is seen about several of the
+     screws, presumably related to initial insertion.  The C3 vertebral body is
+     markedly abnormal --- it is ill-defined with areas of lysis and probable
+     retropulsion of posterior fragments.  There is equivocal increased lucency in
+     the lamina of C3.  There is relative osteopenia of the C4, C5 and C6 vertebral
+     bodies.  The cortices at C5 are also ill defined.  This corresponds to
+     findings on the [**2830-11-3**] C-spine MRI.
+     
+     No listhesis is identified. Degenerative changes at C6/7 are seen at the
+     periphery of the film.
+     
+     At the periphery of these films, there is suggestion of small lucencies in the
+     posterior skull, of indeterminate significance -- the ddx includes small
+     metastatic lesions.
+     
+     IMPRESSION:  Status post occipital-cervical fusion in expected alignment on a
+     single lateral view.  Extensive destruction of the C3 and to a lesser extent
+     C5 vertebral bodies, with apparent lysis in C4 and C6 as well.  Correlation
+     with complete clinical history is recommended.
+
+",,
+5093,14827,,,2830-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-10**] 1:00 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 8281**]
+     Reason: pt in halo - please do recons - s/p halo placement and cervi
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with s/p cervical laminectomy w/ tumor resection             
+       
+     REASON FOR THIS EXAMINATION:
+      pt in halo - please do recons - s/p halo placement and cervical decompression   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old woman status post cervical laminectomy with tumor
+     resection.
+     
+     COMPARISON:  [**2830-11-4**].
+     
+     TECHNIQUE:  Cervical C-spine CT with sagittal and coronal reformatting.
+     
+     FINDINGS:  There has been interval laminectomy at C3.  A posterior fixation
+     device with pedicle screws, bars, a cross-link and occipital screws is
+     visualized. The inferior most extent is at the C6 vertebra while the superior
+     extent is the occipital bone. Again noted is extensive loss of vertebral body
+     height at the C3 and C5 levels, unchanged from the prior study.  The metallic
+     artifact obscures bony detail. Visualized spinal cord is hard to evaluate.
+     There is reduction in the retropulsion of C3 since the prior study of 10/24.
+     A small amount of gas is seen in the operative bed.
+     
+     IMPRESSION:  Postsurgical changes with laminectomy at C3 and posterior
+     fixation as described. Improvement in the retropulsion at C3.
+
+",,
+5093,14827,,,2830-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-10**] 5:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8282**]
+     Reason: SOB wheezing - decreased sats in 67 y/o female with halo and
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old woman with thoracentesis today now with new wheezing and cough.  
+       Please eval for PTX
+     REASON FOR THIS EXAMINATION:
+      SOB wheezing - decreased sats in 67 y/o female with halo and new trach          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Short of breath and wheezing, decreased saturation.  Question-------
+     -------.
+     
+     chest, 1 vw
+     
+     Compared with [**2830-11-7**], a tracheostomy has been placed.  A halo device
+     overlies and obscures the upper chest.  Inspiratory volumes are low.  There is
+     increased density at both bases, with air bronchograms seen on the left. There
+     is a probable right effusion with underlying collapse and/or consolidation.
+     There is left lower lobe collapse and/or consolidation with an equivocal small
+     effusion.  No definite CHF.  Assessment for pneumothorax is limited by the
+     halo device, but no obvious pneumothorax is identified.  No air-fluid levels
+     are seen.
+
+",,
+5093,14827,,,2830-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-11**] 10:07 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 8286**]
+     Reason: r/o DVT.                                                    
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with PE.                                                      
+     REASON FOR THIS EXAMINATION:
+      r/o DVT.                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Pulmonary embolism.  Evaluate for deep venous thrombosis.
+     
+     COMPARISON:  None.
+     
+     BILATERAL LOWER EXTREMITY ULTRASOUNDS:  Grayscale, color, and Doppler
+     sonograms of both common femoral, both superficial femoral, and both popliteal
+     veins were performed.  Normal color flow, compressibility, waveforms, and
+     augmentation were demonstrated in all these veins.  No intraluminal thrombus
+     was demonstrated.
+     
+     IMPRESSION:  No evidence of deep venous thrombosis in either lower extremity.
+
+",,
+5093,14827,,,2830-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-11**] 12:53 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8285**]
+     Reason: s/p left picc line advanced                                 
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           67 year old woman with thoracentesis today now with new wheezing and 
+      cough.     Please eval for PTX
+     REASON FOR THIS EXAMINATION:
+      s/p left picc line advanced                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 12:59 P.M, [**2830-11-11**]
+     
+     HISTORY:  Thoracentesis.  New wheezing and cough.  Left PICC line advanced.
+     
+     IMPRESSION:  AP chest compared to [**2835-11-11**]:08 a.m.:
+     
+     The moderate to large right pleural effusion is larger, not smaller.  There is
+     no pleural effusion.  Atelectasis at both lung bases is mild and unchanged. 
+     Mild enlargement of the cardiac silhouette is stable.  Tip of the left PIC
+     catheter projects over the junction of the brachiocephalic veins. 
+     Tracheostomy tube in standard placement.  Mediastinum midline.
+                                                                           
+
+",,
+5093,14827,,,2830-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-11**] 9:46 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8284**]
+     Reason: please check placement of left basilic PICC line   please pa
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          67 year old woman with thoracentesis today now with new wheezing and cough. 
+         Please eval for PTX
+     REASON FOR THIS EXAMINATION:
+      please check placement of left basilic PICC line   please page IV nurse [**First Name (Titles) 2508**] [**Last Name (Titles) **]    wet reading thanks  #[**9-/3267**]   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left PICC placement.
+     
+     PORTABLE AP CHEST:  As compared to [**11-10**], there is a left PICC
+     which is not well seen but appears to terminate within the left
+     brachiocephalic vein.  Tracheostomy tube remains in stable, satisfactory
+     position.  Central lymphadenopathy and moderate right pleural effusion are
+     unchanged.  Known right lower lobe collapse is again demonstrated.  Two
+     cavitary lesions within the left lower lobe better seen on the CT chest from
+     the same day are again noted.
+     
+     IMPRESSION:
+     1.  Termination of left PICC line within the left brachiocephalic vein.
+     2.  Persistent moderate right pleural effusion and right lower lobe collapse.
+     3.  Two cavitary lesions within the left lower lobe.  In addition to
+     metastatic disease, fungal infection should be considered.
+
+",,
+5093,14827,,,2830-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-11**] 4:42 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8283**]
+     Reason: CTA  r/o PE please                                          
+     Admitting Diagnosis: WEAKNESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 F with met endometrial CA/  SOB - 2 days post op cervical decompression and 
+      fusion - in a halo 
+     REASON FOR THIS EXAMINATION:
+      CTA  r/o PE please                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic endometrial cancer, shortness of breath.
+     
+     COMPARISON:  Chest CT from [**2830-9-25**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images from the lung apices to lung
+     bases were obtained before and after the administration of 100 cc of IV
+     Optiray.  Nonionic contrast was administered secondary to rapid bolus
+     requirement needed per protocol.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE CHEST WITHOUT AND WITH IV CONTRAST:  The pulmonary arterial
+     vasculature is well visualized down to the subsegmental branches.  Filling
+     defects are identified within the segmental and subsegmental pulmonary
+     arterial branches supplying the left lower lobe.  The aorta is normal in
+     caliber without evidence of dissection.  The heart and great vessels are
+     unchanged.  The pericardium appears unremarkable.
+     
+     Again, demonstrated is extensive lymphadenopathy involving the right
+     paratracheal, precarinal, subcarinal, and right hilar regions.  Extensive
+     lymphadenopathy is not significantly changed since the prior examination.  A
+     large right pleural effusion is again noted, which appears minimally decreased
+     in size since the prior study.
+     
+     Lung window images again demonstrate multiple nodular opacities, two of which
+     have increased in cavitation since the prior exam, and are located in the left
+     lower lobe.  Additionally, within the left upper lobe, there is interval
+     increase in size of an ill-defined nodular ground-glass opacity. Additionally,
+     there is continued compressive atelectasis of the right lower lobe. A
+     tracheostomy tube is noted within trachea, superior to the carina. Within the
+     proximal left mainstem bronchus, there appears to be possible endoluminal
+     extension of a subcarinal mass vs. extraluminal compression from mass effect.
+     
+     In the visualized portion of the upper abdomen, stable-appearing low-density
+     lesion is again noted within the left lobe of the liver, likely representing a
+     cyst.  No other abnormalities are seen.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are present.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were essential in
+                                                                 (Over)
+
+     DATE: [**2830-11-11**] 4:42 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8283**]
+     Reason: CTA  r/o PE please                                          
+     Admitting Diagnosis: WEAKNESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     confirming the above findings.
+     
+     IMPRESSION:
+     1.  Segmental and subsegmental pulmonary emboli involving the pulmonary
+     arterial branches supplying the left lower lobe.
+     2.  Extensive mediastinal and right hilar lymphadenopathy, not significantly
+     changed since the prior examination.
+     3.  Multiple nodular opacities are again demonstrated within both lungs, with
+     interval increase in the degree of cavitation involving two left lower lobe
+     nodular opacities.  These findings most likely represent pulmonary metastases.
+     4.  Interval worsening of ill-defined left upper lobe nodular opacity.
+     5.  Minimal decrease in size of the right pleural effusion with compressive
+     right lower lobe atelectasis.
+     
+                                                                           DFDdp
+
+",,
+5093,14827,6327,0,2830-11-11 19:33:00 EST,2830-11-11 19:40:00 EST,5768,"N",53,"Nursing/Other",,"
+
+SEE CAREVIEW FOR DETAILS
+FOCUS DATA UPDATE
+
+NEURO: RIGHT SIDED WEAKNESS NOTED, MED WITH DILAUDID FOR PAIN, HALO INTACT, FOLLOWING COMMAND, DROWSEY RESPONDS TO VERBAL [**Last Name (LF) 8216**], [**First Name3 (LF) 195**]
+
+RESP: NO ACUTE DISTRESS NOTED, SUCTIOND FOR THICK BLOOD TINGE SECRETIONS, TRACH MASK WITH 35% HUMIDIFIED O2
+
+CV: AFEBRILE, PICC LINE INSERTED, RIGHT LEG EDEMANOUS, WARM TO TOUCH, +PEDAL PULSE, HO AWARE, LYTE REPLACEMENT GIVEN, IV LOPRESSOR GIVEN FOR TACCYCARDIA
+
+GI: NPO, BMX2, WILL NEED NUTRITIONAL STATUS ADDRESSED
+
+GU: ADEQUATE HOURLY U/O
+
+A/P: MD'S DECIDING IVC FILTER VS ANTICOAGULATION THERAPY, FOLLOW MD'S PLAN
+",,
+5093,14827,6327,,2830-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-12**] 11:19 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 8287**]
+     Reason: residual tumor                                              
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with HALO, s/p C2-3 lami for mets to c spine                  
+     REASON FOR THIS EXAMINATION:
+      residual tumor                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Followup halo and metastatic disease to the spine.
+     
+     Non-contrast CT of the cervical spine with multiplanar reformatted images.
+     
+     The exam was compared to prior study of [**2830-11-11**].
+     
+     FINDINGS:  There is no change in alignment or appearance compared with the
+     previous examination.  A compression deformity of C3 is unchanged.
+     
+     IMPRESSION:  No change in alignment compared to previous examination.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-12**] 11:14 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8289**]
+     Reason: dobhoff catheter placement?                                 
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             67 year old woman s/p trach w/ right sided pleural effusion.             
+     REASON FOR THIS EXAMINATION:
+      dobhoff catheter placement?                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  67-year-old woman status post tracheostomy and Dobhoff catheter
+     placement.  Please assess Dobbhoff position.
+     
+     TECHNIQUE:  AP supine portable chest radiograph was obtained.
+     
+     COMPARISON:  AP supine chest portable radiograph, [**2830-11-12**] at 18:19.
+     
+     FINDINGS:  There is a tracheostomy with tip below the level of the clavicles
+     in appropriate position.  There is a left-sided PICC line with tip within the
+     SVC.  There has been interval change in position of the nasogastric tube with
+     tip now in the region of the pylorus.  The mediastinum is wide, consistent
+     with adenopathy and vascular engorgement.  There is mild pulmonary edema,
+     which is slightly improved.  There remains a moderate-to-large right pleural
+     effusion.  Again noted is a halo device around the chest and skeletal
+     structures demonstrate multiple spinal fusions.
+     
+     IMPRESSION:  Tubes and lines as described.  Moderate-to-large persistent right
+     pleural effusion.  Widened mediastinum consistent with adenopathy and vascular
+     engorgement.  Mild improvement in pulmonary edema.
+
+",,
+5093,14827,6327,,2830-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-12**] 4:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8288**]
+     Reason: interval change                                             
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            67 year old woman with thoracentesis today now with new wheezing and  
+      cough.    
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old female with thoracentesis today, now presenting with
+     wheezing and cough.  Assess for interval change.
+     
+     COMPARISONS:  Comparison is made to [**2830-11-11**].
+     
+     TECHNIQUE:  AP supine single view of the chest.
+     
+     FINDINGS:
+     
+     There is interval placement of a feeding tube which is coiled in the stomach
+     and the tip is positioned in the mid-distal esophagus.  There is a left-sided
+     PICC line with the tip in the upper SVC.  There is a tracheostomy tube.  The
+     patient is status post multiple spinal fusions.  There is an IVC filter in
+     place.  There is a halo device overlying the chest.
+     
+      Scarring in the right middle lung zone and blunting of the left costophrenic
+     angle, which could represent atelectasis.
+     
+     The right pleural effusion appears to be increased when compared to the prior
+     study.  There is no definite left pleural effusion.
+     
+     The cardiac and mediastinal contours are stable. There are surgical skin
+     staples overlying the neck.
+     
+     IMPRESSION:
+     1.  Interval placement of feeding tube which is coiled within the stomach and
+     with the tip located in the distal esophagus.  The tube is malpositioned.
+     
+     2. The right pleural effusion appears to be slightly increased when compared
+     to the prior study.
+     
+     
+
+",,
+5093,14827,6327,,2830-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,0,2830-11-12 05:26:00 EST,2830-11-12 05:28:00 EST,3681,"N",53,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont trached and on trach mask as per Carevue. Lung sounds coarse with rhonchi improving with suct mod th tan sput; pt also expectorates well spont. Cont trach mask and encourage cough.
+",,
+5093,14827,6327,0,2830-11-12 07:27:00 EST,2830-11-12 07:40:00 EST,3932,"N",53,"Nursing/Other","RN shift note","
+RN shift note
+neuro: responds to verbal prompts; follows commans. RUE/RLE move on bed only.  Flat affect..?withdrawn. Adequate analgesia w/ dilaudid 1 mg IV prn
+
+CV: NSR, ST, no VEA. SBP 130-160. Palp pulses.  US LE's neg for DVT.
+Heparin started.
+
+Pulm: trach mask 40% to maintain SpO2 > 95%.  Strong cough, productive thick yellow secretions.  BS diminished throughout, very dense RLL. 
+
+GI: abd soft, BS hypotensive.  No nutrition ordered.
+
+GU: F/C urine clea yellow. 
+
+skeletal: skin intact. Halo stab sites C/D. Heels soft, red. 
+left ac PICC patent, site wnl.  
+
+endo: RISS not requiring coverage.
+
+ID: WBC 20; afebrile. Gentamycin, flagyl, vancomycin (requires ID approval)
+
+Labs: remains hyponatremic. (126)
+
+Plan: heparin held: maintain PTT 40-60 (PTT 107) F/U chems. Start TPN vs enteric feeding.
+
+
+
+
+",,
+5093,14827,6327,0,2830-11-12 16:38:00 EST,2830-11-12 16:40:00 EST,3568,"N",53,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains trached and on trache mask at 35%. Ambued and sxn for thick tannish secretions. BS occas coarse, clearing with sxn.
+",,
+5093,14827,6327,0,2830-11-12 17:49:00 EST,2830-11-12 17:56:00 EST,5768,"N",53,"Nursing/Other",,"
+
+focus data update
+see careview for details
+
+neuro: dilaudid for pain control, right sided weakness continues, c-spine ct done, pt arousable to voice, appears lethargic and withdrawn
+
+resp: trach mask, with 35% humidified O2, ambu for et suctioning, thick secretions noted
+
+cv: icv filter placed in cath lab, insertion site right groin, no hematoma noted, heperin gtt resumed @ 1500 (goal pt 40-60)next draw due @ 2100, iv lopressor given for tachycardia,
+ 
+gi: dobhoff feeding tube placed in right nares, awaiting cxr confirmation
+
+gu: adequate hourly u/o, crt unchanged
+
+a/p: pre-op for friday, continue educational and emotional support to both patient and family
+",,
+5093,14827,6327,0,2830-11-13 06:30:00 EST,2830-11-13 07:08:00 EST,3932,"N",53,"Nursing/Other","RN shift note","
+RN shift note
+neuro: alert, withdrawn; follows commands. RUE/RLE move on bed weakly.
+High anxiety evening during minor procedure; relief w/ ativan 0.5mg IV.
+
+CV: NSR, rare AEA, 80-100.  SBP 120-160. Palpable pulses, min edema. Heparin gtt therapeutic  (40-60) @ 700u/hr.
+
+Pulm: trach mask @ 40%-->>98-100% FiO2. Pt has strong cough productive copious thick tan/yellow secretions.  Right posterior BS absent, dense to percussion, otherwise course with good air movement.
+
+GI: abd soft, BS hypoactive. Dobhoff repositioned to post pyloric; tube feed, promote w/ fiber started @ midnoc, advancing to target, 75cc. No BM despite dulcolax supp.
+
+GU: urine O/P adequate. Remains hyponatremic (126);CRI unchanged.  Mg repleted.
+
+skeletal: skin intact overall. Right groin cath site WNL. Halo wounds C/D.
+
+ID: WBC 16. Tmax 100.2 po. No antibiotic coverage.
+
+Endo: RISS, no coverage necessary.
+
+Plan: bowel regime.  ?OOB. Cont rigorous bronchial hygeine. Maintain therapeutic heparin.  Address pt emotional status and communication needs.
+
+
+
+",,
+5093,14827,6327,0,2830-11-13 18:14:00 EST,2830-11-13 18:23:00 EST,5768,"N",53,"Nursing/Other",,"
+
+see careview for details
+focus data update
+
+
+NEURO: OOB TO CHAIR, PT MORE ENGAGING WITH ENCOURAGEMENT, ANSWERS Y/N QUESTIONS APPRORIATELY, DILAUDID FOR PAIN, HALO INTACT, INCISIONAL DSG CHANGED BY NEURO/[**Doctor First Name **] TEAM
+
+RESP: AMBU FOR THICK TAN SECRETIONS, CX SENT
+
+CV: AFEBRILE, REMAINS TACCHYCARDIC, PRN LOPRESSOR GIVEN, HEPERIN GTT TITRATED, IVF NS @ 75/HR, PICC PATENT
+
+GI: TF TOL WELL, MINIMAL RESIDUAL NOTED
+
+GU: ADEQUATE HOURLY U/O
+
+A/P: CONTINUE EMOTIONAL AND EDUCATIONAL SUPPORT FOR BOTH PT AND FAMILY, PRE-OP FOR FRIDAY
+",,
+5093,14827,6327,,2830-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-14**] 10:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8290**]
+     Reason: pre-op evaluation; evolution of pleural effusion?           
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman s/p trach w/ right sided pleural effusion. recent PE.         
+         
+     REASON FOR THIS EXAMINATION:
+      pre-op evaluation; evolution of pleural effusion?                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 10:27 A.M November3, clip is 386-6777.
+     
+     HISTORY:  Right pleural effusion recent PE.
+     
+     IMPRESSION:  AP chest compared to the [**2830-11-12**]:
+     
+     Tip of the tracheostomy tube, midline, is 2 cm from the carina.  Feeding tube
+     ends in the stomach.  Pulmonary edema has improved substantially.  Persistent
+     right middle and lower lobe atelectasis due to moderate-sized right pleural
+     effusion improved minimally.  Widening of the cardiomediastinal silhouette at
+     the level of the aortic arch is longstanding.  The heart is moderately
+     enlarged.  The extreme lung apices are excluded from the examination.  No
+     evidence of pneumothorax is seen elsewhere.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-14 05:20:00 EST,2830-11-14 05:30:00 EST,4422,"N",53,"Nursing/Other",,"
+
+assessment as noted
+
+res: remains stable on 35% collar, strong prod cough, ls coarse/dim at bases, denies SOB, trach care done
+
+neuro: alert, +follows, appropriate, still r side weakness, was moved to bed last night at 2300 with hoer lift, tol well, halo is intact
+
+cv: bp stable, in nsr, no fever, cont on heparin gtt up to 700, ptt pending
+
+gi: tol tf well, had medium stool while in chair last night
+
+social: hus+daughter were in last night, were updated , hus called  at 3am asking if any changes. he tells that despite pt alert he will make decisions for her
+
+plan: to or tomorow for anterior fusion + PEG, family support
+",,
+5093,14827,6327,0,2830-11-14 19:08:00 EST,2830-11-14 19:18:00 EST,5768,"N",53,"Nursing/Other",,"
+
+see careview for details
+focus data update
+
+neuro; less engaging today, able to communicate needs, dilaudid for pain, neuro exam unchanged
+ 
+resp: trach mask, ambu sx for thick tan secretions
+
+cv: afebrile, ns infusing @ 75hr via picc, heperin gtt continued, off for 1hr and ptt rechecked continued @ 800u/hr, pre-op ekg and cardiac echo done @ bedside, urine and serum lytes sent,t &s sent to blood bank
+
+gi: tf's @ goal, abd soft distended, sm bm, tol [**1-13**] popsicle
+
+gu: adequate hourly u/o
+
+a/p: pre-op for am, d/c heperin @ 0600, continue support, npo after mn
+
+
+
+",,
+5093,14827,6327,,2830-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-15**] 11:47 AM
+     CHEST (PORTABLE AP) IN O.R.                                     Clip # [**Clip Number (Radiology) 8291**]
+     Reason: CHECK LINE PLACEMENT 
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:34 A.M. ON [**11-15**], clip is 386-8002.
+     
+     HISTORY:  New line placement.
+     
+     IMPRESSION:  AP chest compared to [**11-12**] and [**11-14**]:
+     
+     Tip of a new left subclavian sheath projects at medial to the left clavicle
+     and may be in the left brachiocephalic vein.  Tracheostomy tube is in standard
+     placement.  Feeding tube passes into the stomach and out of view.  Midline
+     wire is probably an esophageal probe ending above the gastroesophageal
+     junction.  Heart is normal size.  Mediastinum remains widened to the right of
+     midline, improved since [**11-12**].  Right middle and lower lobe atelectasis
+     is more pronounced today than yesterday.  Left lung is clear.  No
+     pneumothorax.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-15**] 1:40 PM
+     C-SPINE NON-TRAUMA [**2-14**] VIEWS IN O.R.                            Clip # [**Clip Number (Radiology) 8292**]
+     Reason: CORPECTOMY CERVICAL ANTERIOR C3-4-5
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cervical spine surgery.
+     
+     CERVICAL SPINE:  Single intraoperative lateral view of the cervical spine was
+     obtained.  The film is significantly limited due to overlying hardware.  There
+     is a curved metallic pin with tip at the C5-C6 level.  Multilevel significant
+     vertebral destructive abnormalities are present.  Posterior fixation hardware
+     is present and does not appear significantly changed in comparison to prior
+     cervical spine of [**2830-11-12**].  Of note, the upper most posterior fixation screws
+     overlie the inferior facet of C4.
+     
+     IMPRESSION:  Metallic pin with tip at the C5-C6 anterior disk space.
+     
+     These results were communicated to the operative team following the
+     examination.
+     
+     Additional views have subseqeuntly been added to this clip number.  Whether
+     verabl reports were issued for this 2 subsequent views is not known to me. The
+     initial view described above is now labelled #1.
+     
+     On the view labelled #2, a surgical marker overlies the anterior aspect of the
+     C2/3 disc space. The C3,C4, and C5 vertebral bodies are now less well seen. It
+     is difficult to confirm the position of the posterior fusion device screws in
+     relation to the posterior elements, but they appear grossly unchanged.
+     
+     On the view labelled #3, there is now a strut graft extending caudally from
+     the base of the C2 vertebral body, through the levels of C3, C4, C5 and C6--
+     the caudal edge of the graft is obscured by overlying structures.
+     
+     
+
+",,
+5093,14827,6327,,2830-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-15**] 9:33 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 8293**]
+     Reason: please evaluate anterior cervical spine hardware placement/b
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with HALO, s/p C2-3 lami for mets to c spine  s/p C2-3 
+      anterior approach lami [**11-15**]                
+     REASON FOR THIS EXAMINATION:
+      please evaluate anterior cervical spine hardware placement/bleed.               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  67-year-old female with halo status post C2-3 laminectomy for
+     metastases of the spine.
+     
+     COMPARISONS:  Comparison is made to [**2830-11-10**].
+     
+     TECHNIQUE:  CT of the cervical spine without IV contrast was obtained. Coronal
+     and sagittal reconstructions were performed.
+     
+     FINDINGS:  The patient is status post CT laminectomy.  There is a posterior
+     fusion device with pedicle screws, which are attached to the occipital bone in
+     the midline, as well as C4, C5, and C6.  The appearance is unchanged when
+     compared to the prior study.  There is interval resection of anterior
+     vertebral bodies of C3, C4, and C5, and placement of pacer device.  There is
+     also anterior spinal fusion of this device to the vertebral body of C3.
+     Artifact coming from metallic hardware limits evaluation of the spinal canal.
+     However, no definite hematoma is seen.  The alignment of the cervical spine is
+     within expected range without evidence of anterolisthesis.
+     
+     There are surgical skin staples overlying the posterior neck in the midline.
+     The patient is status post tracheostomy.  There is a large amount of
+     secretions of mucus in the trachea above the tracheostomy.  There is a
+     nasogastric tube.  Multiple lymph nodes are seen in the neck, which are stable
+     when compared to prior study.  The largest one is seen anterior to the carotid
+     artery at the level of the thyroid and measures 1.3 cm.  Parotid glands are
+     within normal limits.  There is a fluid level in the right maxillary sinus.
+     The middle ears and mastoid air cells are normally aerated.
+     
+     IMPRESSION:  Extensive postoperative changes as described above.
+     Questionable soft tissue density is noted in the right lung apex. A chest
+     radiograph is recommended for further evaluation.
+     
+     
+
+",,
+5093,14827,6327,0,2830-11-15 06:15:00 EST,2830-11-15 06:17:00 EST,3044,"N",53,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Following for trache care protocol. Remains on trache mask without complications. See flowsheet for further pt data. Will follow.
+",,
+5093,14827,6327,0,2830-11-15 07:01:00 EST,2830-11-15 07:03:00 EST,3273,"N",53,"Nursing/Other",,"
+
+NPN (NOC):  PT HAS HAD A GOOD NIGHT.  SLEPT THRU MOST OF IT.  EASY TO AROUSE AND NODS APPROPRIATELY.  [**Doctor Last Name **] AND LL EXTS REMAIN PROFOUNDLY WEEK.  SHE WILL GO TO SURGERY TODAY.  HAS BEEN NPO SINCE MN.  HEPARIN OFF AT 6:30 AM.  RECIVED ONE UNIT PRBC'S OVERNOC W/O INCIDENT.  POST TRANS HCT PND.  
+",,
+5093,14827,6327,0,2830-11-15 17:07:00 EST,2830-11-15 17:10:00 EST,4242,"N",53,"Nursing/Other",,"
+
+Nursing note: Alert, nodding appropriately and following simple commands. R. side markedly weaker than L. per pt's recent baseline. No neuro changes. Appears comfortable. Halo intact.  Lung sounds clear, strong cough, trach intact. Able to raise secretions. Afebrile, SR-ST, no ectopy. Lopressor w/effect on tachycardia. +pulses bilaterally. NPO for OR, abdomen soft, +BS, -stool. Foley patent adequate amount amber urine. Insulin gtt @1U/hr w/stable glucose levels, checked hourly. Skin intact. 
+A/P: Stable to OR for fusion.
+",,
+5093,14827,6327,0,2830-11-16 05:24:00 EST,2830-11-16 06:18:00 EST,6655,"N",53,"Nursing/Other",,"
+
+CONDITION UPDATE:  SEE CARE VUE FOR OBJECTIVE DATA AND TRENDS.
+
+NEURO: SEDATED ON PROPOFOL. OPENNING EYES TO VERBAL STIMULI. PERRL. CONSISTENTLY FOLLWING SIMPLE COMMANDS. LUE/LLE WITH MOVEMENT. RUE/RLE FLACCID. HALO ON-CARE DONE. 
+
+CV:  HCT-STABLE. NSR-NO ECTOPY. HR-80'S. SBP-130'S-140'S/80'S. IV LOPRESSOR X1 FOR ST WITH GOOD EFFECT. +RADIAL/PT/DPX2. CLS ON.
+
+RESP: TRACH-REMAINS ON AC/FIO2 60%/600/10/5. AM ABG WITH ADAQUATE OXYGENATION. LS-R+LUL CLEAR-DIMINISHED BIBASILAR. SX X2 FOR SM AMT THICK BLD TINGED SPUTUM. TRACH SITE WNL/CARE DONE.  
+
+GI: REMAINS NPO. TF ON HOLD. ABD-SD,+BSX4,S,NT. DOBHOFF PATENT.
+
+GU: FOLEY WITH QS [**Last Name (un) **] URINE. LYTES REPLETED PRN.
+
+ENDO: FS QID WITH COVERAGE PER REGULAR INSULIN S/S. INSULIN GTT ON HOLD.
+
+ID: AFEBRILE. ON GENTAMYCIN. VANCOMYCIN AWAITING ID'S APPROVAL.
+
+SOCIAL:  HUSBAND IN TO VISIT/PHONED SEVERAL TIMES THROUGHOUT THE NIGHT. UPDATED ON PROGRESS/POC.
+
+PLAN: Q 1 HOUR NEURO CHECKS. MONITOR HEMODYNAMICS AND MAINTAIN SBP LESS THAN 160. WEAN VENT AS TOLERATED. PULMONARY HYGIENE. MONITOR WBC'S/HCT/LYTE'S/ABG'S PRN. MEDICATED PRN PROPOFOL/DILAUDID TO MAINTAIN COMFORT.REPOSITION Q 2 HOURS. PROVIDE EMOTIONAL SUPPORT TO PT AND FAMILY. 
+",,
+5093,14827,6327,0,2830-11-16 06:35:00 EST,2830-11-16 06:38:00 EST,3044,"N",53,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Pt remains trached, vent supported overnoc. BS's ess clear, sxing small amts thick blood tinged sputum. Transported to head CTscan and back to ICU without incident. See flowsheet for further pt data. 
+
+",,
+5093,14827,6327,0,2830-11-16 17:30:00 EST,2830-11-16 17:45:00 EST,5768,"N",53,"Nursing/Other",,"
+
+SEE CAREVIEW FOR DETAILS
+FOCUS DATA UPDATE
+
+
+NEURO: OFF SEDATION, MEDICATED WITH DILAUDID FOR PAIN AND ATIVAN FOR ANXIETY, VERY SLIGHT MOVEMENT NOTED ON RIGHT LOWER EXT, UNABLE TO MOVE RIGHT UPPER EXT, ABLE TO LIFT LUE, AND MOVEMENT NOTED ON LEFT LOWER LEG, PERLA, MINIMAL ENGAGEMENT NOTED TODAY SON AND HUSBAND @ BEDSIDE
+HALO INTACT, INCISIONAL DRESSING'S INTACT
+
+RESP: ABG'S MONITORED CLOSLEY, VENT D/C PT ON 70% HUMIDIFIED O2, AMBU SX FOR THICK TAN SECRETIONS WITH SLIGHT BLOOD TINGE, DR. [**Last Name (STitle) 312**] EVALUATED TRACH INSERTION SIGHT, TRACHEOSTOMY PLACTIC DISRUPTED R/T SURGERY, SUTURES INTACT, TRACH CARE GIVEN FOR PURULENT DRAINAGE @ TRACH SITE
+
+CV: GOAL SYS B/P < 160, PRN IVP LOPRESSOR GIVEN, PO LOPRESSOR STARTED, 
+HO AWARE OF SYS B/P 150-170, HR NSR WITHOUT ECTOPY, IVF CHANGED TO KVO
+A-LINE, PICC AND CORTIS LINES PATENT, GLU MONITORED WITH SSI
+
+GI: ABDOMEN SOFT NON-TENDER, BS ACTIVE, FULL STRENGHT PROMOTE WITH FIBER RESTARTED VIA DOBHOFF, MINIMAL RESIDUAL NOTED
+
+GU: ADEQUATE HOURLY U/O, CREATINE UNCHANGED
+
+A/P: STABLE POD #1, CONTINUE WITH EMOTIONAL AND EDUCATIONAL SUPPORT TO BOTH PATIENT AND FAMILY 
+
+
+",,
+5093,14827,6327,,2830-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,0,2830-11-17 04:26:00 EST,2830-11-17 04:29:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on t-collar 70%. Suctioned for sml amts thick bld tinged secretion. Started on albuterol MDI'S.Will cont to monitor resp status.
+",,
+5093,14827,6327,0,2830-11-17 06:07:00 EST,2830-11-17 06:23:00 EST,3647,"N",53,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+
+data: neuro: opens eyes to verbal stimuli. asked to stick tongue out and pt performed command. moves left hand and arm off the bed. moves left toes to command, no movement in right hand or arm. slight movement to right toes at times but needs to concentrate to see movement. perla. halo intact and halo care given. bolt cutters at the bedside. 
+
+resp: on 70% trach collar  and suctioned for thick yellow sptum. lavaged and suctioned q2-3 hrs. trach care done x2. albuterol treatment given by resp therapist. pco2 this am 57, 
+
+cardiac: remains in nsr. no ectopy seen. k 4.6. magnesium repleted for mag level 1.9. lopressor 50mg via tube given. 
+
+gi
+ abd soft and tube fdgs tol well at 75cc/hr. no stool tonitte. 
+
+gU foley patent and draining yellow urine. 
+
+aaction: labs as ordered. suctioned prn. iv vanco given as ordered. halo intact with care given x2. dilaudid given for pain when turning in the bed. ativan given to help relax pt. magnesium repleted. on 70% o2 via trach mask. update to husband. neuro exam q1-2 hrs. 
+
+respnse: monitor closely. 
+
+",,
+5093,14827,6327,,2830-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-18**] 7:54 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8295**]
+     Reason: pna?                                                        
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman s/p trach w/ right sided pleural effusion. recent PE. Inc 
+      wbc and sputum.        
+     REASON FOR THIS EXAMINATION:
+      pna?                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**2830-11-18**].
+     
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  White blood cell count in sputum.  Question pneumonia.
+     
+     Lines and tubes are unchanged in position with persistent kinking of the left
+     vascular sheath proximal to the skin insertion site.  Cardiac and mediastinal
+     contours are stable.  A moderate-to-large right pleural effusion is again
+     demonstrated.  As noted previously, there are atelectatic changes in the
+     middle and lower lung regions adjacent to the effusion, as well as more
+     consolidative changes in the right upper lobe, the latter could reflect a
+     developing pneumonia given the infectious symptoms.  Overall, compared to the
+     previous study of earlier today, there has been slight improved aeration at
+     the right lung base with otherwise no significant change allowing for
+     technical differences between the two studies.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-18**] 10:55 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8297**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: PE; also infiltrate; evolution of nodes?                    
+     Admitting Diagnosis: WEAKNESS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 F with met endometrial CA/  SOB -PE and infiltrate LLL?                     
+     REASON FOR THIS EXAMINATION:
+      PE; also infiltrate; evolution of nodes?                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  Chest CT angiogram.
+     
+     HISTORY:  67-year-old woman with metastatic endometrial cancer with SOB.
+     Evaluate evolution of PE, pulmonary infiltrates and lymph nodes. 
+     
+     TECHNIQUE:  Multidetector CT through the thorax with and without contrast,
+     angiogram protocol.  Coronal and sagittal reformations are also provided. 
+     
+     Comparison is made with prior study dated [**2830-11-1**]. 
+     
+     CHEST CT:  There are new alveolar infiltrates with partial consolidation of
+     the right upper lung, apico-posterior segment of the left upper lobe, and
+     postero-lateral basal segments of the left lower lobe.  There has been no
+     interval changes in the nodular cavitary opacities located in the left lower
+     lobe, measuring 31 x 26 mm and 20 x 30 mm. The other nodules described
+     previously are now obscured by parenquimal consolidations
+     Interval increase in size in the right pleural effusion.  
+     
+     A tracheostomy tube is noted within trachea.
+     
+     Again demonstrated is extensive lymphadenopathy involving the right
+     paratracheal, precarinal, subcarinal, and right hiliar region, unchanged from
+     the prior study.  There is continued compressive atelectasis of the right
+     lower lobe from mass effect.  
+     
+     The heart and great vessels are unremarkable.
+     
+     Even though this is a limited study for pulmonary arterial vasculature
+     evaluation, due to inyection technique timing, there is no apparent PE
+     progression.  
+     
+     There is esophagogastric tube in place.  
+     
+     There is a stable liver cyst in the left lobe measuring 24 x 20 mm.  
+     
+     BONE WINDOWS:  There are no concerning bone lesions.
+     
+     CT RECONSTRUCTIONS:   Confirm the findings in the axial images
+     
+                                                                 (Over)
+
+     DATE: [**2830-11-18**] 10:55 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8297**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: PE; also infiltrate; evolution of nodes?                    
+     Admitting Diagnosis: WEAKNESS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  New multilobar consolidations as described in both upper lobes and left
+     lower lobe.
+     
+     2.  Interval increase in size of the right pleural effusion.
+     
+     3.  Unchanged extensive mediastinal and hilar lymphadenopathy.
+     
+     4.  Multiple nodular opacities within both lungs, some cavitary, likely
+     represent metastases.  
+     
+     5.  Postobstructive right basal atelectasis.
+     
+
+",,
+5093,14827,6327,,2830-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-18**] 10:54 AM
+     CT NECK W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8296**]
+     Reason: EVAL RETROPHARYNGEAL HEMATOMA.
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with s/p laminectomy/ant. approach                            
+     REASON FOR THIS EXAMINATION:
+      neck and C-spine; ?-retropharyngeal hematoma?; pt on heparin gtt for PE         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old woman status post cervical spine surgery.  On
+     heparin.  Assess for retropharyngeal hematoma.
+     
+     TECHNIQUE:  MDCT of the neck before and after the administration of
+     intravenous contrast.
+     
+     CONTRAST:  50 cc Optiray intravenously.
+     
+     COMPARISON:  [**2830-11-15**].
+     
+     FINDINGS:  Postoperative changes including C3-6 corporectomy, allograft
+     insertion, and placement of anterior and posterior stabilization hardware are
+     again noted.  The degree of prevertebral soft tissue thickening has increased.
+     The prevertebral fluid collection extending anteriorly to the right has
+     increased in size, although less air is present at this surgical site.  An
+     air-fluid level from secretions in the airway is noted above the balloon of
+     the tracheostomy tube.  A nasogastric tube is noted.  A fluid level is again
+     noted in the right maxillary sinus.  An effusion is visible in the right lung
+     apex and associated with atelectasis.  Airspace opacities are noted in both
+     lung apices, greater on the right.
+     
+     IMPRESSION:
+     1.  Increased prevertebral soft tissue thickening and fluid collection at the
+     operative site.
+     2.  Large right pleural effusion and airspace opacities in the bilateral lung
+     apices.
+
+",,
+5093,14827,6327,,2830-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-18**] 12:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8294**]
+     Reason: eval soft tissue at apex                                    
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman s/p trach w/ right sided pleural effusion. recent PE. CT 
+      c-spine ""soft tissue density is noted in the right lung apex. A chest 
+      radiograph is recommended for further evaluation. ""             
+     REASON FOR THIS EXAMINATION:
+      eval soft tissue at apex                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST, [**2830-11-18**]
+     
+     COMPARISON:  [**2830-11-15**].
+     
+     INDICATION:  Soft tissue density in right lung apex on CT of cervical spine. 
+     Evaluate right apex.
+     
+     Comparison is also made to CT C-spine on [**2830-11-15**].  The opacity at the right
+     lung apex on the CT of the cervical spine measures fluid attenuation and is
+     most suggestive of an area of pleural fluid tracking to the lung apex.
+     
+     Tracheostomy tube and feeding tube remain in place, as well as a left
+     subclavian vascular sheath.  Focal kinking of the sheath is noted proximal to
+     the skin insertion site.  Cardiac and mediastinal contours are stable.  A
+     moderate-to-large right pleural effusion is present with associated
+     atelectasis in the right middle and lower lobe.  There is a possible component
+     of consolidation in the right upper lobe.  The left lung demonstrates no areas
+     of consolidation.  Vascular engorgement, perihilar haziness is noted,
+     suggesting a component of fluid overload.
+     
+     IMPRESSION:
+     
+     1.  Opacity at right apex on recent CT of the cervical spine likely reflects
+     pleural fluid.
+     
+     2.  Moderate-to-large right pleural effusion with associated atelectatic
+     changes in right middle and right lower lobes.  Consolidation in right upper
+     lobe, for which infectious pneumonia or aspiration should be considered.
+     
+     
+
+",,
+5093,14827,6327,0,2830-11-18 04:46:00 EST,2830-11-18 04:49:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on t-collar 70% overnight .Sats 90's Suctioned for lrg amts thick yellow secretions. MDI'S given.Unresponsive.Will cont to monitor resp status.
+",,
+5093,14827,6327,0,2830-11-18 05:42:00 EST,2830-11-18 06:20:00 EST,3647,"N",53,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: opens eyes to name. sticks tongue out to command. perla #3 bilaterally and reacts briskly. halo traction intact and skin care done x2. does not move right hand or arm. no movement in right leg. squeezes  left hand to command. wiggles left toes to command but needs to repeat command. 
+
+resp: suctioned for thick tan sputum. wbc 29.5. sputum sent to lab for culture. o2sats 95-96%. 
+
+cardiac: remains in nsr. calicium and magnesium repleted. lopressor 150mg via tube, bp kept < 160 syst. heparin gtt infusing at 700units/hr. ptt goal 40-60. ptt 40's. 
+
+gI abd soft. stool x2. tol tube fdgs ok. 
+
+gu: foley patent and draining yellow urine. 
+
+action: suctioned frq tonite. wbc 29. ho notified. sputum culture sent.magnesium and calicium repleted. halo traction intact. skin care done. lopressor increased to 150mg. heparin gtt infusing and ptt goal 40-60. 
+
+response: monitor closely.
+",,
+5093,14827,6327,0,2830-11-18 17:22:00 EST,2830-11-18 17:30:00 EST,5768,"N",53,"Nursing/Other",,"
+
+SEE CAREVIEW
+FOCUS DATA UPDATE
+
+NEURO: WITHDRAWN, INTERMITTENLY AROUSABLE TO SPEECH, ITERMITTENLY ABLE TO FOLLOW COMMANDS, NECK & CHEST CT DONE TODAY, OOB TO CHAIR VIA SLIDE
+MULTIPODIS BOOTS APPLIED, LEFT FACIAL DROOP NOTED ICU & NEURO-[**Doctor First Name **] AWARE OF NEURO CHANGES, INCISIONAL DRESSING'S CHANGED BY NEURO-[**Doctor First Name **] TEAM, DILAUDID FOR PAIN, ABLE TO TOL ICE CHIPS
+
+RESP: SX'D Q1H FOR THICK BLOOD TINGE SECRETIONS, 02 70% HUMIDIFIED TRACH MASK
+
+CV: SINUS TACH, AFEBRILE, A-LINE, PICC AND CORDIS PATENT, PRN IVP LOPRESSOR GIVEN FOR HYPERTENSIVE EPISODE, HYPOPNATREMIC, FLUID RESTRICTION AND SERIAL SODIUMS FOLLOWED, 
+
+GI: TF @ GOAL, 4 BM'S TODAY
+
+GU: ADEQUATE HOURLY U/O
+
+A/P: CONTINUE TO GIVE PT AND FAMILY EMOTIONAL SUPPORT 
+",,
+5093,14827,6327,0,2830-11-19 06:34:00 EST,2830-11-19 06:40:00 EST,3439,"N",53,"Nursing/Other",,"
+
+data: vss. neuro-pt opens eyes to verbal command. moving left arm freely, squeezes to command. moves lt foot on bed but not to command.
+suctioned small thick tan/yellow-raising most by self. 
+tolerating t fdg. mod-lrge bmx2. hyponatremia w/ na+127 this am. salt tabs 3gms q8hr given. 
+",,
+5093,14827,6327,0,2830-11-19 17:37:00 EST,2830-11-19 17:44:00 EST,7455,"N",53,"Nursing/Other","status note","
+status note
+PLEASE SEE CARVUE FOR SPECIFICS.
+N- PERRL, INCONSISTENTLYFOLLOWS COMMANDS. MOVES LEFT UPPER EXTREMITY AND INCONSISTENLY LEFT LOWER EXTREMITY. NO MOVEMENT WITH RIGHT UPPER OR LOWER.
+
+CV- HR 100'S DOWN TO 80'S WITH LOPRESSOR
+
+RESP- SUCTIONED TIMES ONE THICK TAN SPUTUM.PATIENT ABLE TO EXPECTORATE SMALL TO MODERATE TAN SECRETIONS. LUNG SOUNDS COARSE WITH CRACKLE LEFT LOWER LOBE.
+
+ENDO- 1600 FINGER STICK 206 COVERED WITH SLIDING SCALE INSULIN/
+
+ID- TMAX 99.4 VANCO STARTED. SEEN BY ID. STAPLES REMOVED FROM BACK OF NECK AREA SLIGHLY RED.
+
+POC- CONTINUE TO MONITOR PTT AND HEPARIN DOSE, MONITOR RESPIRATORY SECONDARY TO INCREASED EDEMA AND EFFUSION PER CT SCAN, MONITOR GLUCOSE AND ADJUST SCALE AS NEEDED.
+",,
+5093,14827,6327,,2830-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-20**] 6:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8298**]
+     Reason: please evaluate placement of NGT.                           
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old woman s/p trach w/ right sided pleural effusion. New NGT 
+      placement.    
+     REASON FOR THIS EXAMINATION:
+      please evaluate placement of NGT.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post tracheostomy with right-sided pleural effusion and
+     new NG tube placement.  Evaluate NG tube placement.
+     
+     There are no prior abdominal radiographs for comparison.
+     
+     SINGLE SUPINE AP VIEW OF THE LOWER CHEST AND UPPER ABDOMEN:  An NG tube is
+     seen passing along the expected course of the esophagus and into the abdomen.
+     
+     The tip of the tube overlies the left mid-to-lower abdomen/LLQ. It could still
+     lie within the stomach, assuming the stomach is vertically long in shape - or
+     within the small bowel, if the patient has had a gastrojejunostomy
+     
+     Please correlate clinically.
+     
+
+",,
+5093,14827,6327,,2830-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,,2830-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,0,2830-11-20 04:55:00 EST,2830-11-20 05:04:00 EST,4370,"N",53,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+NEURO: Pt alert and inconsistently interactive. Inconsistently follows simple commands and nods with persistance. No movement observed to right side. Left side weak, but purposeful. Dilaudid x 1 for pain.
+
+RESP: Strong, productive cough. LS coarse. Sats 95-100%, FiO2 weaned to 50%.
+
+CV: HR 90s-100s ST no ectopy noted. Hypertensive several times overnight with diastolic 90s-100s. IV lopressor and hydralazine given, DBP reduced to high 80s-90s.
+
+HEME: H/H stable. Pboots on. Hep gtt cont at 700u/hr.
+
+GI: Pt pulled out dobhoff tube. TF on hold at this time. Pt had frequent large loose BM's. C-diff sample sent. Mushroom cath placed. +Bowel sounds.
+
+GU: Adequate u/o via foley. Mg repleted. Other lytes WNL.
+
+ID: Afebrile this shift. Blood cultures x 2 and fungal culture sent. Rocephin dc'd and meropenem added.
+
+ENDO: FS covered per RISS. 
+
+SKIN: Buttocks large amount of erythema d/t frequent stools and pt observed grimacing with peri care. Double guard cream used with peri care. Skin otherwise intact; no breakdown noted.
+
+SOCIAL: Husband phoned in overnight for updates.
+
+ASMT: Pt s/p cervical fusion complicated by post op PE and  alteration in neurological functioning.
+
+PLAN: Cont to monitor vs, neuro checks, pulmonary hygiene, aggressive skin care, f/u with culture results. ?appropriate for transfer to floor.
+",,
+5093,14827,6327,0,2830-11-20 17:21:00 EST,2830-11-20 17:34:00 EST,3825,"N",53,"Nursing/Other","continued transfer note","
+continued transfer note
+been planned today. she has maintenance ivf for now. she also had been on heparin drip post second surgery which has been stopped since 0930 [**11-20**] for pending feeding tube and tap. her hr has been slightly elevated to 100's which is being treated with iv lopressor successfully and hydralazine for hypertension. she has been oob to the chair and physical therapy has been evaluating her range of motion and pt plans. 
+",,
+5093,14827,6327,,2830-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-21**] 2:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8299**]
+     Reason: CHF vs PNA?                                                 
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          67 year old woman s/p trach w/ right sided pleural effusion. New NGT  
+      placement.    
+     REASON FOR THIS EXAMINATION:
+      CHF vs PNA?                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM
+     
+     For NG tube placement.
+     
+     The tip of the NG tube is in the distal antrum of the stomach.  No other
+     change since prior film of [**2830-11-20**].
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,,2830-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,0,2830-11-21 06:42:00 EST,2830-11-21 06:55:00 EST,3647,"N",53,"Nursing/Other","focus","
+focus
+data: neuro: opens eyes to name and squeezes left hand upon command. no movement in  right  arm/hand andleg/  only slight movement in left toes. halo intact. bacitracin applied to areas . 
+
+resp: suctioned for thick copiius amts of yellow   sputum. o2sats 97-100%  on trach collar. trach care done with large amt of secretitions. inner cannula replaced. 
+
+cardiac: remins in nsr-sinus tach. lopressor 125mg via tube given. heparin gtt restarted at 800units/hr. gtt will be shut off 4hrs prior to g tube insertion.. magnesium repleted. k to be repleted. 
+
+gu: foley patent and draining yellow urine. 
+
+gI tube fdgs restarted but stopped at 2400 due to npo for gtube insertion today. abd soft./ stooling with buttocks excoriated. balm applied to buttocks. 
+
+action: suctioned for copius amts of thick yelllow sputum. labs as ordered. npo for g tube insertion. heparin restarted at 800units /hr iv ns at 50cc/hr. remained on trach collar. update to husband. 
+
+respnse: to be transferred to the east campus. 
+
+",,
+5093,14827,6327,0,2830-11-21 17:23:00 EST,2830-11-21 17:29:00 EST,7548,"N",53,"Nursing/Other",,"
+
+Pt was placed on PSV due to deminished BS in right side and dropping O2 sat on aerosol trach mask. Pt was productive of a lg amount of thick green sputum with plugs in am with deminishing amounts of sputum and no plugs noted this afternoon.  Pt appears more comfortable on PSV tonight will see about ATC tomarrow am
+",,
+5093,14827,6327,0,2830-11-21 18:54:00 EST,2830-11-21 19:12:00 EST,4194,"N",53,"Nursing/Other","focus update","
+focus update
+afebrile, heart rate 90-120 controlled with po lopressor, hypotensive as low as 88, overall sbp 88-130, no ectopy, resp: 94-100% lsc diminished on right, cxr showed pleural effusion on right.  at 1400 pt exhibited increasing resp distress, despite ambu/lavage/neb treatments/ suctioning multiple times by nursing and respiratory therapist, icu resodent and attending at bedside.  EKG performed which showed no changes, CXR performed, pt placed back on ventilator peep 5 ps 10, pt was diaphoretic with facial flushing c/o neck pain and was given .5mg dilaudid.  episode resolved and pt now comfortable to have MRI of cervical spine tonight to assess for cervical edema.
+
+plan: cervical mri in future, plan to transfer to east campus, gtube by dr [**Last Name (STitle) **] later this week
+
+please see flowsheet for further details
+",,
+5093,14827,6327,0,2830-11-22 02:40:00 EST,2830-11-22 02:46:00 EST,388,"N",69,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-UNCHANGED. OPENS EYES SPONT. PERRL. MOVES LEFT SIDE SPONT AND TO COMMAND. NO MOVEMENT ON RIGHT SIDE. MRI POSTPONED D/T MRI COMPATIBLE MONITOR NOT WORKING. HALO REMAINS IN PLACE. 
+
+CV-HR 100'S , DOWN TO 80'S AFTER LOPRESSOR DOSE. OTHER ANTIHYPERTENSIVE HELD D/T SBP 100. SKIN W+D. +PP. PBOOTS ON. REMAINS ON HEPARIN GTT, ADJUSTED ACCORDING TO PTT. 
+
+RESP-TRACHED AND VENTED ON CPAP 40 %, IPS 10, PEEP5. TOL WELL. SPONT TV ADEQ. LS CLEAR, DECEASED AT BASES. SXN PRN FOR THICK TAN BLOOD TINGED SPUTUM. 
+
+GI-ABD SOFT, + BS. TOL TF AT GOAL. HAD SM AMT MUCOUSY STOOL.
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. 
+
+COMFORT-DILAUDID PRN. 
+
+ENDO-SSRI. 
+
+ID-AFEB. ON ABX. 
+
+A-STABLE ON VENT. 
+
+P-CON'T WITH CURRENT PLAN. MONITOR FOR CHAGNES. AWAIT PEG AND MRI. SUPPORT. 
+",,
+5093,14827,6327,0,2830-11-22 15:08:00 EST,2830-11-22 15:38:00 EST,6568,"N",69,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+SEE CAREVUE FOR SPECIFICS:
+NEURO-ALERT, PERRLA AT 2-3MM WITH BRISK REACTION. FOLLOWS SIMPLE COMMANDS, MOVES L SIDE, R SIDE FLACCID. ABLE TO LET NEEDS KNOWN BY MOUTHING WORDS. HALO INTACT. POST NECT INCISION SITE SCABBED/REDDENED & SLIGHT EDEMA. ANT NEXT STERI-STRIPS INTACT. HALO INTACT. C/O NECK/BACK PAIN DILAUDID .5-1MG IV WITH GOOD EFFECT. MRI NEEDED FOR HARDWARE CHECK/PROGRESSION OF METS.
+CV-HCT STABLE, SBP 110-130s, HR 80s-low 100s NSR/ST, NO ECTOPY. (+)PPs
+LYTES REPLETED THIS AM. HEP GTT AT 750u PTT GOAL 60-80, 1400 PTT 81.6 NO CHANGE PER DR. [**Last Name (STitle) 1538**], NEEDS TO BE RECHECKED AT 2000. NA+ 128, 1L FR.
+RESP-TRACHED, LS COARSE & DIMINISHED AT BASES, SXN'd MULTI TIMES FOR MOD AMTS OF THICK, TANISH SPUTUM (+)PRODUCTIVE COUGH. TOL TRACHE COLLAR FIO2 60%, RESTED DURING NOC CPAP +PS FIO2 40% 5/5. (+)MRSA SPUTUM. WEAN FROM VENT AS TOL.
+GI-NPO, NGT TOL TFs AT GOAL (NUTRITION CONSULT ORDERED TO CHANGE TFs TO HIGHER CALORIC WITH LESS VOLUME TO HELP MEET 1L FR). ABD SOFT ND/NT, (+)BSX4. LOOSE BM X1 TODAY (+)C-DIFF. BUTTOCKS RED (SORE), [**Last Name (un) **] ANTIFUNGAL VESTA COVERED BY DOUBLE GUARD CREAM BID & PRN. 
+GU-FOLEY WITH ADEQUATE U/O.
+ENDO- TIGHT CONTROL, BS Q2HRS WITH SC COVERAGE, MAY NEED INSULIN GTT I
+SOCIAL-HUSBAND VERY INVOLVED AT BS MOST OF THE TIME.
+A/P-STABLE. CONTINUE WITH CURRENT CARE PLAN. TRANSFER TO F4 FOR ONCOLOGY MANANGEMENT.
+",,
+5093,14827,6327,0,2830-11-22 16:06:00 EST,2830-11-22 16:07:00 EST,6568,"N",69,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+TRANSFERRED TO [**Hospital Ward Name **] 4 VIA ACLS AMBULANCE AT 1606.
+",,
+5093,14827,6327,0,2830-11-22 18:19:00 EST,2830-11-22 18:25:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on 40% trach mask throughout day. Pt might need pt at noc 5/5.
+",,
+5093,14827,6327,0,2830-11-22 18:36:00 EST,2830-11-22 19:11:00 EST,7352,"N",69,"Nursing/Other","S/MICU Transfer Acceptance Note","
+S/MICU Transfer Acceptance Note
+67 yo female w/metastatic endometrial CA w/mets to brain, lung, adrenal and spine admitted to [**Hospital1 2**] [**11-3**] for laminectomy of C2-C3, & Halo traction placed. 
+PMHx: HTN
+arthritis
+nasal polyps
+cord compresssion w/right sided weakness 
+thoracentesis [**9-/2830**] for pleural effusion
+Brief hosp course according to RN report:
+[**11-7**] hypertensive and tachycardic CT revealed PE
+[**11-12**] anticoaguated w/heparin and IVC filter placed
+[**11-15**] anterior C2-C6 fusion and plates placed, Halo traction remains in place. Pt requiring aggressive pulmonary toilet.
+[**11-18**] CT - pleural effusion r/t tumor
+Sputum MRSA and c-diff stool.
+ROS:
+Neuro: Pt arrived alert, eyes open, able to answer yes/no ?s, difficult for this caregiver to read lips. PERLA 3mm brisk. Afebrile. Pt able to move left arm and leg following commands, no movement on right. Halo traction in place, pin sites w/bacitracin. Posterior surgical line intact, scant sang drainage. Anterior surgical line slightly edematous w/old sang drainage.
+CV/Lines: (L) subclavian cordis, left arm double picc and right wrist aline. Aline dampened and hand edematous. b/p 110-130/60, HR 97 SR.
+Plan is to keep cordis in until plan for g-tube established. Heparin infusing 750u/hr. PTT needed @ 2000.
+Resp: On trache mask 40%, RR 18-22. Suctioned x 2 over 2.5 hours for small amt thick yellow secretions. May require vent rest overnight of PSV 5/5. O2 sats 96-98%.
+GI: ABD soft, NGT placement checked w/ausc and aspiration of undigested TF. Tube feeds of promote w/fiber @ 75cc/hr continued. Pt had small amt mucusy green stool. 
+Skin: excoriated perianal area, red inflammed. Area cleansed w/foam, double cream applied. 
+GU: foley patent, draining clr yellow urine.
+Plan in SICU was for pt to have MRI to check hardware and [**Doctor First Name **] sites but d/t equipment difficulties unable to have done. 
+Social: husband followed patient from SICU to here, pleasant and informed of plan.
+",,
+5093,14827,6327,,2830-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-23**] 5:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8300**]
+     Reason: Please evaluate for recurrent effusion.                     
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman with new hypoxia, lung masses, and pleural effusion now   
+      likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for recurrent effusion.                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST FILM
+     
+     CLINICAL DETAILS:  Hypoxia, evaluate for effusions.  
+     
+     Tracheostomy tube tip lies at least 1.5 cm proximal to the carina. 
+     Nasogastric tube tip is not included, but extends to the left upper quadrant. 
+     Left subclavian line tip is positioned at the medial subclavian level in the
+     region of the midline.  
+     
+     FINDINGS:  There is opacification of the right hemithorax to the upper zone
+     level in keeping with effusion and the previously described concerns of right
+     lung consolidation.  
+     
+     The left hemidiaphragm is visible and no convincing left lung consolidation
+     demonstrated.  A minor area of opacity at the lateral left base compared to
+     the prior film is noted.
+     
+     CONCLUSION:
+     1.  Relatively stable appearances of the large right-sided
+     effusion/consolidation.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-23 04:50:00 EST,2830-11-23 05:13:00 EST,6577,"N",69,"Nursing/Other",,"
+
+0700-1900 NPN:
+
+PLEASE SEE CAREVUE FLOWSHEET FOR OBJECTIVE DATA AND FURTHER SHIFT DOCUMENTATION. PT ALERT, OPENS EYES SPOTANEOUSLY, FOLLOWS SIMPLE COMMANDS, MOUTHS WORDS TO COMMUNICATE. RIGHT SIDE FLACCID, LEFT UPPER LIFTS AND HOLD, LEFT LOWER MOVES ON BED. PERLA- 3MM/BRISK. S/P C2-C3 LAMINECTOMY [**11-3**] AND C2-C6 FUSION [**11-15**], PLATES PLACED AND HALO IN USE. ANTERIOR AND POSTERIOR INCISION W/ STERI-STRIPS INTACT, WELL APPROXIMATED, SLIGHT REDNESS AND EDEMA NOTED TO ANTERIOR INCISION. BACITRACIN APPLIED TO HEAD HARDWARE AS ORDERED TID. MEDICATED W/ IV DILAUDID 1MG Q4HRS PRN FOR NECK/HEAD SURGICAL DISCOMFORT W/ GOOD EFFECTS. IV ATIVAN X1 GIVEN R/T ANXIETY AND TRIAL OF TRACH COLLAR OVERNIGHT INSTEAD OF RESTING ON CPAP. PM ABG= 7.48/35/104. TRACH #8 PORTEX ON TRACH COLLAR @ 60%. SXN FREG APPROX Q1-2HRS FOR MODERATE TO COPIOUS THICK YELLOW SECRETIONS. STRONG PRODUCTIVE COUGH EFFORT. INNER CANNULA CHANGED BY RT. AM ABG= 7.39/43/111. LS= COARSE/DIM. 02 SAT 95-99%. NSR TO ST @ 84-104. AFEBRILE. ACCESS- LEFT ANTECUB DUAL LUMEN PICC, LEFT SUBCLAV CORDICE, RIGHT RADIAL ALINE. ABP= 118-141/72-84. HEPARIN GTT @ 850U/HR. 0400 PTT PENDING. S/P PE ON [**11-7**] AND IVC FILTER PLACEMENT. NA= 129, FLUID RESTRICTION 1L. ABD SOFT/ PRESENT BS. BM X1 THIS SHIFT- GREENISH BROWN LOOSE STOOL. PROMOTE W/ FIBER @ GOAL RATE 75CC/HR VIA NGT, MINIMAL RESIDUAL. FOLEY CATH D/S/P DRAINING CLEAR YELLOW URINE 50-140CC/HR. IMPAIRED SKIN INTEGRITY- ANTIFUNGAL ALOE [**Doctor First Name **] AND DOUBLE GUARD TO BUTTOCKS FOR RASH. FS= 142-238, Q2HRS ON S/S COVERAGE. CONTACT PRECAUTIONS MAINTAINED FOR MRSA-SPUTUM AND CDIFF. FULL CODE. PT'S FAMILY CALLED/VISITED, UPDATED ON CONDITION.
+
+PLAN- TITRATE HEPARIN GTT PER PROTOCOL W/ GOAL PTT 60-80. REPLETE LYTES PER STANDING PRN ORDERS. ADMIN DILAUDID PRN FOR COMFORT. FOLLOW UP NUTRITION CONSULT R/T INCREASED CALORIES W/ LESS VOLUME. FOLLOW UP NEED FOR MRI R/T CT RESULTS OF FLUID AROUND SURGICAL SITE. DISCUSS POSSIBLE INSULIN GTT PER TEAM. CONTINUE ICU SUPPORTIVE CARE. 
+",,
+5093,14827,6327,0,2830-11-23 05:59:00 EST,2830-11-23 06:02:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt. remains trached, #8 Portex, cuff softly inflated with 3cc air. Cuff pressure= 10CMH2O. Suctioned for moderate amounts of thic tan/yellow secretions. Inner cannula changed, spare at bedside.  O2 sats >96.
+",,
+5093,14827,6327,0,2830-11-23 06:40:00 EST,2830-11-23 06:43:00 EST,6577,"N",69,"Nursing/Other",,"
+
+ADDENDUM- CORRECTION PREVIOUS NPN FOR 1900-0700 SHIFT NOT 0700-1900. AM PTT= 141, HEPARIN GTT OFF FOR 1HR FROM 0500-0600. RESUMED GTT @ 800U/HR PER MICU TEAM DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] R/T SUBTHERAPEUTIC LEVEL [**11-22**] AT 750U/HR. NEXT PTT DUE AT 1200. PLEASE SEE POE ORDERS. 
+",,
+5093,14827,6327,0,2830-11-23 16:53:00 EST,2830-11-23 17:09:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+Please see flowsheet for further details.
+
+Lethargic but following commands. Given Ativan x1. Moves LUE though weak..LLE moves on bed. No mvmt of right side. Weak cough. Difficult at times to understand answer to yes/no questions. Appears very withdrawn. Denies pain.
+
+Received on 40% TM. RR low 20s. O2sats initially mid 90s but have drifted down all day. Currently she is on 80% w/O2sat if 100% after treatment. Suctioned q1-2hrs for sm-mod amts creamy yellow sputum. Unable to cough secretions out on own.
+
+Afebrile. Excoriated perianal area. Plan for miconazole powder. Double guard applied as she is having sm freq loose stool which is too thick for mushroom cath and skin is too excoriated for rectal bag. On Flagyl for C-diff. Pin sites appear clean. Bacitracin applied as ordered.
+
+Tol TFs at goal rate. Insulin gtt started d/t FSs >200 despite q2hr Insulin. [**Name8 (MD) 8217**] M.D. in and pt switched to bid NPH and SSRI.
+
+Repeat Hct 27 (from am Hct of 25). Heparin gtt remains at 800u/hr. Ptt 84.7. No changes made per team.
+
+HR 120s. Team currently adjusting metoprolol dose. BP 90s/50s (after diuresis).
+
+Given 20mg IV Lasix with ~ 700cc diuresis.
+
+Husband in all day. Spoke with M.D. Children visited.
+",,
+5093,14827,6327,0,2830-11-23 17:57:00 EST,2830-11-23 18:00:00 EST,1039,"N",69,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt remains on trachmask with increased fio2, mask repositioned for better o2 delivery. Pt recieved mdi via ambu with good results. Pt suctioned for large amts of tan secrections.
+",,
+5093,14827,6327,,2830-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-24**] 6:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8301**]
+     Reason: please effusions and infiltrate                             
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old woman with new hypoxia, lung masses, and pleural effusion now 
+      likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      please effusions and infiltrate                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of pleural effusions, lung mass and new hypoxia.
+     
+     Tracheostomy tube is 3 cm above the carina.  There is total opacification of
+     the right hemithorax with shift of heart and mediastinum to the left. Air-
+     filled right main bronchus is not visualized.
+     
+     IMPRESSION:  Findings are consistent with a massive right pleural effusion and
+     associated collapse of right lung.  Cutoff of gas column in right main
+     bronchus consistent with occlusion in this location.  NG tube is in stomach.
+
+",,
+5093,14827,6327,0,2830-11-24 04:39:00 EST,2830-11-24 04:50:00 EST,585,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+please see carevue flowsheet for all objective data
+
+neuro- pt awake/alert at times. follows simple commands w/l side. no movement noted to r side. perl~3mm. receiving prn dilaudid for pain. 
+
+cv- hr at start of shift in the 120's w/high of 126 noted. some attributed to pain, treated w/dilaudid, also incresed metoprolol dose to 50 tid w/good effect. bp mid 90's-120sys. tolerated lasix dose.. given several hours after metoprolol. 
+
+resp- remains off the vent, requiring suctioning of trache q1-2 hrs for very thick creamy yellow sputum. pt w/weak cough, unable to clear or cough out her secretions. rr 16-18. abg this am 7.39/54/100 on cool neb of 0.5. house staff aware. remains on heparin for pe/ s/p ivc filter, theraputic this am at 650u/hr. hct this am 24.2, repeat drawn and is pending.
+
+gi/gu- remains on tube feeds at goal w/min to no residuals. sm amt of stool x2 o/n, miconizole/double guard cream applied to perianal rash/yeast. uop 40cc minimum, received lasix and has put out a liter to that although remaining +1l at midnight, sl neg this am. 
+
+id- afebrile, remains on flagyl, vanco (dose increased to q8 from q12)and levofloxacin. +contact precautions for mrsa and c diff.
+
+social- pt's husband and granddaughter in last eve, husband called for update x1 overnight, very supportive. 
+
+cont w/agressive pulm toilet. maintain precautions, halo traction remains in place, n-[**Doctor First Name **] following. ?mri today. f/u labs, hct, transfuse as necessary.
+",,
+5093,14827,6327,0,2830-11-24 06:39:00 EST,2830-11-24 06:43:00 EST,650,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain on trach mask thru traheotomy # 8 portex in place, IC in place. Cuff pressure checked ~ 10 cmH20, EQ at bedside. Pt was sxtn for yel-tan thick secretions. No instillation req. Will follow.
+",,
+5093,14827,6327,0,2830-11-24 16:39:00 EST,2830-11-24 16:42:00 EST,1039,"N",69,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt placed on cpap/ps for increased wob and desat, last abg 747/37/101/28/3/100. Plan to place on trach collar durng day tommorrow.
+",,
+5093,14827,6327,0,2830-11-24 16:43:00 EST,2830-11-24 16:55:00 EST,379,"N",69,"Nursing/Other","MICU-EAST NPN 0700-1900","
+MICU-EAST NPN 0700-1900
+
+
+Please see flowsheet for further details...
+
+
+Lethargic most of day. Dozing when undisturbed. Continunes to  appear very withdrawn. Husband says she waxes and wanes like this. 
+
+Given 1mg Dilaudid shortly after receiving Lasix and became hypotensive requiring 500cc NS IVB with transient effect. Given 1uPRBCs for low BP and Hct <25. Currently BP stable. 4pm Metoprolol held. Will need labs this eve. Ptt stable. No changes made in Heparin gtt.
+
+Sl diaphoretic this am with only fair ABG. Placed on PSV of 5 w/10PEEP. Cuff pressures measured by RT and more air placed in cuff (for ? aspirating). Secretions much improved though remains creamy yellow-tan. Pt appears more comfortable and ABG much improved.
+
+FSs remained > 200 and insulin gtt started. Tol TFs at goal with min residual. Sm amt stool. Skin around peri-anal area remains very red and raw with sm amt of bleeding. Stools not quaic d/t to this. Miconazole and double guard cream applied.
+
+
+
+Husband in most of day. Updated by this RN and MD. Husband thinks she looks more comfortable on vent.
+
+
+",,
+5093,14827,6327,,2830-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-25**] 7:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8302**]
+     Reason: Please reeval pleural effusion                              
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          67 year old woman with new hypoxia, lung masses, and pleural effusion now  
+      likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      Please reeval pleural effusion                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:36 A.M., [**11-25**]
+     
+     HISTORY:  New hypoxia, lung masses and pleural effusions.
+     
+     IMPRESSION:  AP chest compared to [**11-24**], 7:49 a.m.
+     
+     Very large right pleural effusion has decreased in volume and the mediastinum
+     has returned to the midline.  A moderate degree of aeration has re-appeared in
+     the right upper lobe.  Left lung is no longer as congested.  The heart is
+     grossly normal size.  Widening of superior mediastinum may be due to
+     adenopathy or adjacent pleural effusion.  Left subclavian sheath is unchanged
+     in position, ending at the thoracic inlet and sharply folded within a
+     centimeter of the infusion port.  Tracheostomy tube in standard placement.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 4700**] at the time of dictation.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-25 03:53:00 EST,2830-11-25 04:15:00 EST,1291,"N",69,"Nursing/Other",,"
+
+NURSING NOTE 1900HRS - 0400HRS
+
+
+EVENTS...RECEIVED X1UPRBC FOR HCT @25...RECEIVED STAT DOSE OF BBLOCKER FOR ^HR...FOR MRI AS PER NEURO RECS OF NECK/CHEST
+
+
+
+NEURO....FAIRLY ALERT, FOLLOWS SIMPLE COMMANDS , ABLE TO MOVE RT SIDE ONLY...ABLE TO ANSWER TO YES/NO QUESTIONS...RECEIVED DILAUDID FOR DISCOMFORT AND ATIVAN TO HELP REST OVERNIGHT WITH SOME EFFECT....FOR FURTHER MRI SCAN OF NECK/CHEST AS ?SOME SWELLING AROUND THE NECK ASPER NEURO [**Doctor First Name **]
+
+
+
+CVS....RECEIVED WITH HR @ 100-110 ON INCRESAED DOSE OF BBLOCKER [ BUT HELD YESTERDAY FOR LOW B/P POST PREVIOUS DIURESIS]...HR INCREASING TO 125 @ 0200HRS ? CAUSE ? RELATED TO DISCOMFORT/ANXIETY, HR DID NOT DECREASE TO PAIN MEDS THEREFORE STAT DOSE OF BBLOCKER GIVEN WITH EFFECT  TO 100'S...B/P REMAINED STABLE @ 110-130 SYSTOLIC MAPS >65...
+HAD RECEIVED X1UPRBC YESTERDAY AND CHECK HCT @ 2000HRS SHOWED ONLY MARGINAL BUMP IN HCT TO 25 THEREFORE TRANSFUSSED X1 FURTHER UNIT...ALSO GIVEN CALCIUM LAST PM AS ICA LOW...AWAITING AM LABS
+CONTINUES ON HEPARIN INFUSSION FOR PE @ 650U/HR THERAPEUTIC LAST PM , AWAIT AM LABS
+
+
+ENDO....CONTINUES ON INSULIN DRIP,B/S AS CHARTED
+
+I.D...CONTINUES ON VANC IV /ORAL AB'S..AFEBRILE [ MRSA]...VANC RANDOM LOW LAST PM AND TEAM AWARE
+
+
+RESP...PLACED BACK ON P/S YESTERDAY FOR INCREASING SECRETIONS AND DETERIORATING ABG..STABLE SINCE...SOUNDS COURSE SUCTIONED FREQUENTLY FOR THICK/YELLOW SECRETIONS...SATS MAINTAINED >98% TV @ 550-600 RR @ [**12-1**]
+
+
+GI...X1 BOWEL MOTION, FEED @ GOAL AND TOLLERATING
+
+
+GU...GIVEN LASIX POST BLOOD TRANSFUSSION AND POS BALANCE BY 2L @ 12MN... B/P APPEARS TO BE TOLLERATING ...PRESENTLY NEG BALANCE
+
+
+SKIN..HALO/TRACTION IN PLACE AND NOT DISTURBED, BACTRIM APPLIED TO POINTS TOUCHING THE SKULL /AREAS LOOK SATISFACTORY...
+SACRUM CONTINUES RED/RASH/YEAST , WASHED AND DOUBLE GUARD/MICANIZOLE APPLIED
+
+
+LINES...PICC , CORDIS IN PLACE PATENT AND ART LINE SATISFACTORY
+
+SOCIAL..HUSBAND HERE LAST NIGHT AND CALLED AGAIN DURING THE NIGHT
+
+
+PLAN...MRI FOR EVAL NECK SWELLING..PULM TOLIET..FOLLOW HCT ? WHY DROPPING...FOLLOW PTT FOR HEPARIN THERAPEUTIC RANGE
+",,
+5093,14827,6327,0,2830-11-25 04:31:00 EST,2830-11-25 04:33:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt on psv 10/5/50%. Bs are coarse bilaterally. Suctioned for moderate amounts of thick yellow secretions. MDI' administered Q4 alb with no adverse reactions. AM ABG 7.43/41/137/28. RSBI=37. No further changes noted. 
+",,
+5093,14827,6327,0,2830-11-25 05:00:00 EST,2830-11-25 05:03:00 EST,1291,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM..HCT INCREASED TO 29, PTT SUB-THERAPEUTIC @ 55 THEREFORE INFUSSION INCRESAED BY 150U/HR TO 800U/HR FOR RE-CHECK @ 1000HRS AS PER PROTOCOL BUT IN VIEW OF PREVIOUS UNSTABLE HCT CHECK @ 0800HRS...K AND CALCIUM REPLACED THIS AM [ AS PER SLIDING SCALE ON PRN ORDERS]
+",,
+5093,14827,6327,0,2830-11-25 16:56:00 EST,2830-11-25 17:15:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Events: pt was extubated from vent and attached to O2 cool nebulizor 15 L/min, Insulin drip was D/C and put on insulin sliding scale and insulin acc. to scale plus fixed doses of Regular and NPH insulin.
+ROS:
+Neuro: pt is alert, moving all extremities, however, rt lower extremity very weak, with Halo Traction, ambulated to the chair for 3-4 hrs well tolerated, opening eyes spontaneously and following commands consistently. Booked for MRI, probably to be done today.
+
+Resp: On Oxygen cool nebulizor 15 L/min hooked to tracheostomy, LS coarse, breathing regularly RR 14-22, SPOI2 95 100 %, coughing productively and expectorating moderate loose yellowish secretions, suctioning frequently needed.
+
+CV: ST HR 110-125, BP 130-156/80-97, with PIC line, receiving vancomycin, on Heparin drip titrated acc to PTT scale, with arterial line. She also has a Lt Sc central line, which is to be removed. Peripheral pulses palpable, has peripheral edema over extremities.
+
+GI/GU: with NG tube receiving feeding at goal 75 cc/hr promote with fiber plus 30cc flush free H2O Q 6 hrs, BS present, passed one BM, guaiac negative, with Foley cath drained 70-350 cc/hr U/O received Lasix with good effect.
+
+Int: T max 99.3, has rashes over coocyx area, antifungal and antimicrobial cream applied. On contact precaution due to MRSA in sputum. Physiotherapy done by physiotherapist.
+
+Plan: Continue Vancomycin due to Rt lung pneumoniua, Continue weaning oxygen, continue physiotherapy, PEG to be inserted this week, D/C cordis and keep PICC line, monitor blood glucose Q 2 hrs and cover with insulin acc to sliding scale and fixed doses. Consider transfer from ICU soon if maintains same condition/improved.  
+",,
+5093,14827,6327,0,2830-11-25 18:25:00 EST,2830-11-25 18:28:00 EST,6644,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt placed on T-Collar .40% this am and tolerating well. Passe Muir valve placed on and Pt tolerated well. Sx'd for mod thick blood tinged yellow. Will continue to follow closely.
+",,
+5093,14827,6327,,2830-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-26**] 2:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8303**]
+     Reason: please eval effusion, ? increasing                          
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            67 year old woman with new hypoxia, lung masses, and pleural effusion now 
+       likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      please eval effusion, ? increasing                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  New hypoxia, lung masses and pleural effusion.  Evaluate for
+     recurrence.
+     
+     FINDINGS:  AP single view of the chest obtained with the patient in
+     semi-upright position is analyzed in direct comparison with the next previous
+     similar study of [**2830-11-25**].  The right-sided pleural density has
+     increased again and the small right upper lung field with aerated lung tissue
+     appears to be compromised again.  Also, the degree of mediastinal shift
+     towards the left has increased again.  The density, however, is not as
+     complete as it was on examination of [**2830-11-24**].
+     
+     Tracheal cannula and NG tube in unchanged position.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,,2830-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,6327,0,2830-11-26 03:42:00 EST,2830-11-26 04:02:00 EST,1291,"N",69,"Nursing/Other",,"
+
+
+
+NURSING NOTE 1900HRS - 0400HRS
+
+
+EVENTS..RECEIVED INCRESSED DOES OF BBLOCKER..CONTINUE 2HRLY B/S AS NOW ON S/S AND NPH....CONTINUE TO AWAIT MRI NECK/CHEST AS PER NEURO RECS
+
+
+
+NEURO...FAIRLY ALERT, FOLLOWS SIMPLE COMMNDS, RT SIDED WEAKNESS CONTINUES, HALO TRACTION AND BRACE REMAIN INSITU UNDISTURBED [ NEURO FOLLOWING].. COMMUNICATES VIA MOUTHING WORDS NODS YES /NO, APPARENTLY DID TOLLERATE PASSE MUIR VALVE YESTERDAY...RECEIVED DOSE OF HYDROMORPH/ATIVAN FOR COMFORT/ANXIETY WITH EFFECT....PT FOLLOWING, APPARENTLY OOB TO CHAIR TRANSFER X2 YESTERDAY AND TOLLLERATED WELL, OT ALSO FOLLOWING.....CONTINUE TO AWAIT MRI OF NECK AS CHEST FOR ? SWELLING AROUND NECK [ HAS BEEN ORDERED SINCE FRIDAY]
+
+
+RESP...CONTINUES WELL ON TRACH MASK 50% O2, ABG LAST PM SATISFACTORY AND SATS MAINTAINED OVERNIGHT @ 95-97%...STRONGER COUGH AND AT TIMES ABLE TO EXPECTORATE BUT DOES REQUIRE SUCTIONING 1-2HRS FOR THICK YELLOW SECRETIONS, LUNGS REMAIN COURSE BUT MUCH IMPROVED...RR 12-20
+
+
+CVS...ON INCRESAED DOSE OF BLOCKER HR IMPROVED TO 95-110...B/P STABLE, AWAIT AM LYTES AND HCT [ PREVIOUS BLOOD TRANSFUSSION FOR LOW HCT ? CAUSE]...CONTINUES ON HEAPRIN INFUSSION AS PER PROTOCOL, REQUIRES CHECK PTT @ 0900HRS [ AS CHANGED @ 0300HRS , REDUCED TO 800U/HR AS OVER THERAPEUTIC]
+
+
+ID..MRSA POS AND C DIF CONTINUES ON AB'S
+
+ENDO...NOW OF INSLIN DRIP ON FIXED NPH [ BD] PLUS FIXED REGULAR [ Q6] WITH S/S [Q6]...FINGERSTICKS CONTINUE Q23 TO FOLLOW TREND...VARIABLE AS PER FLOW
+
+
+GI..GHUAIC NEG, BOWEL MOTION X2. SOFT [**Male First Name (un) **] LIKE
+
+GU...RECEIVED LASIX 40 WITH EFFECT FOR POS BALANCE
+
+
+SKIN...SACRUM RED/RAW/YEAST TREATED WITH DOUBLE GUARD/MICANZIOLE APPLIED FREQUENTLY...HALO TRACTION POINT OF CONTACT ON SKULL LOOKS STABLE AND BACTRIM OINTMNET CONTINUES TO BE APPLIED
+
+
+LINES....LEFT CORDIS REMOVED BY TEAM AND IN VIEW OF PTT SUTURE APPLIED [ TIP SENT] DRESSING DRY/INTACT
+
+SOCIAL...HUSBAND CALLED, WILL BE INTO VISIST AM
+
+
+PLAN...MRI PENDING, PULMONAY TOLIET, PASSE MUIR AS TOLLERATED, PT /OT...FOLLOW B/S CLOSELY ...AND PTT AS PER PROTOCOL...? PEG INSERTION AT SOME POINT
+",,
+5093,14827,6327,0,2830-11-26 04:18:00 EST,2830-11-26 04:20:00 EST,1017,"N",69,"Nursing/Other","RESP CARE","
+RESP CARE
+PT. REMAINS TRACHED ON 505 COOL AEROSOL. INNER CANNULA REPLACED/PATENT.
+BS: SCATTERED RHONCHI. SXN'D Q2-4 FOR MOD-COPIOUS THICK TAN.
+CUFF DEFLATED, PMV REMOVED DURING NIGHT. 
+",,
+5093,14827,6327,0,2830-11-26 18:36:00 EST,2830-11-26 18:49:00 EST,7352,"N",69,"Nursing/Other","NPN 7a-7pm","
+NPN 7a-7pm
+Resp: Pt c/o dyspnea, RR 32, required suctioning, continued to suction q1 to q1.5 hours for moderate to large amt tan to yellow secretions. No relief of dyspnea w/suctioning, O2 sats 91% on 40% cool neb. ABG done 7.48/39/58, increased FiO2 to 80% O2 sats only 93-94% ABG 7.46/41/67. increased to 100% w/O2 sats only 96%, FiO2 changed to 100% HiFlow O2. Team aware and refused to place patient on vent for rest and PEEP to help w/Oxygenation. O2 sats remain 95-96%.  Pt also diuresed w/40mg IV lasix, w/good response. LS: coarse upper which clear w/sxn, deminished bases. CXR done, no report yet team to f/u.
+CV: HR 90-110, SR b/p 120-130/60s. Diuresed as above to 40mg IV lasix. Heparin as per SS, PTT 90 on 800u/hr, heparin decreased to 650U/hr and repeat PTT checked at 1800, result PND.
+ID: Afebrile. Cont on IV vanc, PO flagyl. Pre gent level needed at 2130. PO levo d/c'd today. Noted pt to be very red in face at 0700-1000, ? if r/t vanco, premed w/25mg IV benadryl prior to 10am dose. Redness in face disapated w/benadryl and IV Vanco infused over 1.5hours. No further redness in face noted. No rash or redness on body noted. Pt scheduled for CT, while on CT bed, needed peripheral IV acces as unable to infuse IV contrast via PICC. Unable to place peripheral IV d/t poor access. Returned to room without having had CT. May get MRI done tomorrow on west campus as unable to fit halo traction in this MRI.
+SKin: perianal area remains excoriated. Appears worse than on Friday when this RN last examined patient. Kinair bed ordered. OK'd Kinair bed w/neuro [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]-Guillian. Continue to clean perianal area w/each stooling w/aqua foam and apply myconazole cream and double guard cream.
+",,
+5093,14827,6327,,2830-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-27**] 5:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8304**]
+     Reason: please eval effusion                                        
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           67 year old woman with new hypoxia, lung masses, and pleural effusion now 
+      likely recurring. Please reeval for recurrence.          
+     REASON FOR THIS EXAMINATION:
+      please eval effusion                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:28 A.M [**11-27**]
+     
+     HISTORY:  New hypoxia.  Pleural effusion.
+     
+     IMPRESSION:  AP chest compared to [**11-25**] and 15:
+     
+     Right pleural effusion has increased in volume, now completely obscuring the
+     right lung and producing more leftward mediastinal shift.  Heart is unchanged
+     in size and probably not appreciably enlarged.  Left lung is grossly clear
+     though compromised by the enlarging right pleural effusion.  Tracheostomy tube
+     is in standard placement.  Nasogastric tube passes below the diaphragm and out
+     of view.  Findings were discussed with the clinical service caring for this
+     patient, at the time of dictation.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-27**] 9:23 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 8305**]
+     Reason: ? change in soft tissue swelling/hematoma in surgical bed   
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with met. endometrial CA s/p C-spine surgery with anterior, 
+      posterior approach 
+     REASON FOR THIS EXAMINATION:
+      ? change in soft tissue swelling/hematoma in surgical bed                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old woman with metastatic endometrial carcinoma status
+     post cervical spine surgery with anterior and posterior approach.  Assess for
+     change in soft tissue swelling/hematoma in the surgical bed.
+     
+     TECHNIQUE:  Non-contrast multiplanar MRI of the cervical spine including
+     sagittal T1, T2, and STIR, as well as axial gradient and T2.
+     
+     COMPARISON:  CT neck dated [**2830-11-18**] and CT cervical spine dated [**2830-11-15**].
+     
+     FINDINGS:  Postoperative changes are again noted.  The posterior stabilization
+     hardware from the occiput to C6 is not well assessed due to the associated
+     susceptibility artifacts.  C3-5 corpectomies are noted.  Metal hardware has
+     been placed anterior to the inferior end of the fibular strut graft.  At the
+     inferior plate of C2, there are small osseous fragments, and there is
+     associated increased STIR signal within the T2 vertebral body compatible with
+     edema.  Note is made of a small amount of fluid interposed between the
+     superior end of the fibular strut graft and the inferior end plate of C2.  A
+     fluid collection is again noted around corpectomy bed.  Comparison with the
+     prior CT examinations is limited, but this collection does not seem any worse
+     than in prior studies.  There is no encroachment of the spinal canal at this
+     time.  The spinal cord is not compressed.
+     
+     IMPRESSION:  Extensive postoperative changes, as previously noted and as
+     described above.  The fluid collections surrounding the fibular strut graft
+     does not appear any worse than on prior studies, but comparison is limited. 
+     There does appear to be a small amount of fluid separating the inferior end
+     plate of C2 and the superior portion of the graft.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-27 06:38:00 EST,2830-11-27 07:05:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 1900 - 0700 hours;","
+Nursing Progress Note 1900 - 0700 hours;
+*Full Code
+
+*Allergies: NKDA
+
+*Access:  RR A-Line, LBrac PICC
+
+*Precautions:  MRSA (sputum), CDIFF
+
+In brief:  Patient with endometrial CA with mets, hospitalized for c2 - c3 laminectomy with halo and trach insersion.  Tx'd to MICU for HTN, Tachycardia, PE.
+
+Neuro:  Patient alert, able to mouth words, follows commands with left side (d/t right sided weakness), PEARL @ 4mm/brisk.  Emotional at times, support given. C/O lower back pain x1 this shift (w/ Dilaudid prn dose effective).
+
+Cardiac:  NSR w/o ectopy, HR 85 - 100, SBP 125-155, MAP > 65.  Lopressor as ordered.  No complaints of chest pain or related symptoms.  Heparin gtt per protocol w/ gtt increased @ 0600 to 800U/hr w/ next PTT due at 12noon.
+
+Resp:  Trached #8 Portex w/ #7 inner cannula.  Required sxn q1-2 hrs. for copious, thick, yellow/tan secretions.  Lungs coarse bilateral upper lobes, clear and diminished bilateral lower lobes.  RR wnl (13-18).  Denied breathing distress.  POX range 87-97%.  Trach care done.  Pt on 95% high flow TM with am ABG of 7.43/46/91.  Pt. with known R Pleural Effusion to undergo CT today to evaluate fluid collection.
+
+GI/GU:  Abdomen soft, pos. BS, stool x1 moderate amount, golden, soft, Guiac positive.  No visible blood.  Tolerating TF with minimal residual: promote w/ fiber @ 75cc/hr (Goal).  Foley in place, clear yellow urine 35-120/hr.  
+
+ID:  Afebrile, WBC 12.3, on vanco w/ low level last night, Flagyl and levofloxacin.
+
+Skin:  Fragile, some edema, buttocks and perianal area excoriated, bleeding, and reddened fungal type rash.  Has been seen by wound care.  Miconazole cream f/b double guard cream.  Pt. on Kinair bed w/ frequent turning.  Pt. in Halo traction w/ sheep skin for protection.  Halo pin sites intact.  Pin care done.  
+
+Psychosocial:  Supportive spouse and dtr in to visit on evenings.  Updated on all POC's.  Continue to keep involved.
+
+Dispo:  Pt. full code, plan for CT today, requiring pulmonary toileting w/ frequent sxn.  May need future MRI.  Continue med regimen and ICU supportive care.
+",,
+5093,14827,6327,0,2830-11-27 16:54:00 EST,2830-11-27 17:27:00 EST,7352,"N",69,"Nursing/Other","NPN 7a-7pm","
+NPN 7a-7pm
+Events: Pt traveled for MRI of cervical spine. Plan to go to OR for open g-tube placement and chest tube for drainage of pleural fluid and lung expansion.
+Neuro: Pt not cooperative with exam this morning, did not move left hand or foot for MD. With lots of encouragement and acknowledgement of feelings of sadness pt able to squeeze hand and move foot. Pt appears angry, short answers when passy-muir valve on. Right side continues w/hemiparesis. Halo traction intact, skin under halo jacket appears intact, halo screw sites appear clean, bacitracin as ordered to sites.
+Afebrile. Plan as per psych is to start a stimulant qam to aid w/mood elevation.
+Resp: Continues on hi flow O2 80-95% w/O2 sats 97%+. LS: coarse upper, clear anteriorly @ bases. MDs changed trache at bedside. Site appears clean, no hematoma. Pt suctioned q1-1.5hours for tan to yellow thick secretions. Passy-muir valve on as tolerated. 
+CV: beta blockers held as NPO for surgery, IV lopressor given @ 1630 w/ good response, HR 89, b/p 148/88. 40mg IV lasix given this am w/good response, continues w/2+ peripheral edema.
+GI: NPO for pending surgery for open G-tube placement. Blood sugars trending down and as low as 62, initially tried IVF D5.45NS @ 75cc/hr w/o improvement in BS, given [**1-13**] amp D50 w/BS 113 on recheck. Continues to have frequent small soft OB- stools
+GU: Foley patent, good U.O. in response to 40mg IV lasix this morning.
+Skin: SKin remains excoriated and painful w/cleaning. Cont to drain scant sanguanous fluid. Area cleansed w/aquaphor foam and antifungal changed to clotrimazole and continuing w/double guard cream w/each turn and cleaning. Continues on Kinair bed to aid w/healing and prevent bed sores. Multipodus boots on 2hours off 2hours.
+Social: Discussed w/husband his expectations of patient going home. ""We know she doesn't have much time and I want her to come home. Even if she is bed ridden"". Discussed pt's nursing needs @ present and high O2 requirements. Husband willing and eager to learn how to suction, asks if possible to have trache out by time patient goes home. Husband interested in hospice care @ home. Discussed patient requiring turning and cleaning q2hours. Husband's goal is to have patient home for [**Holiday 1341**]. Social service involved.
+
+
+",,
+5093,14827,6327,1,2830-11-27 16:54:00 EST,2830-11-27 18:53:00 EST,7352,"Y",69,"Nursing/Other","NPN 7a-7pm","
+NPN 7a-7pm
+ADDendum:
+Surgery now on hold for tomorrow. PO meds given and Respolar tube feeds started at 10cc/hr w/plan to titrate to goal rate as tolerated. Heparin restarted @800u/hr. Plan to hold tube feeds again at midnight and f/u w/team re: heparin. PTT due now at 0030. 
+",,
+5093,14827,6327,,2830-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-28**] 5:33 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8306**]
+     Reason: please eval effusion                                        
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             67 year old woman with new hypoxia, lung masses, and pleural effusion 
+      recurring. 
+     REASON FOR THIS EXAMINATION:
+      please eval effusion                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST
+     
+     INDICATION:  New hypoxia, lung masses, pleural effusion recurring.  Eval
+     effusion.
+     
+     COMPARISON:  [**2830-11-27**] at 7:30 a.m.
+     
+     Persistent total opacification of the right hemithorax has been progressively
+     worsening.  Tracheostomy identified in standard placement.  NG tube below the
+     diaphragm and out of view.  Shifting of the mediastinum to the left with
+     compromise of the left lung that is still grossly clear.
+     
+     IMPRESSION:  Persistent right hemithorax opacification.
+                                                                           
+
+",,
+5093,14827,6327,,2830-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-28**] 7:15 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8307**]
+     Reason: chest tube placement                                        
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               67 year old woman with new hypoxia, lung masses, and pleural effusion 
+      recurring s/p chest tube placement. 
+     REASON FOR THIS EXAMINATION:
+      chest tube placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old with hypoxia, assess chest tube placement.
+     
+     Supine frontal radiograph of the chest.  Comparison is made to study performed
+     at 7:00 a.m. today and one day earlier.
+     
+     FINDINGS:  There has been interval placement of a chest tube within the right
+     hemithorax with its tip at the apex of the hemithorax.  There has been a
+     resultant decrease in the size of a right pleural effusion.  Atelectatic
+     changes are seen in the underlying lung.  The left lung field is unchanged in
+     appearance.  Tracheostomy tube and NG tube are unchanged in position.  No
+     pneumothorax is seen on this supine radiograph.
+     
+     IMPRESSION:
+     
+     Interval placement of right-sided chest tube with resultant decrease in
+     pleural effusion.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-28 05:35:00 EST,2830-11-28 05:54:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700 hours","
+Nursing Progress Note 1900-0700 hours
+*Full Code
+
+*Allergies:  NKDA
+
+*Access:  RR A-Line, L Brac PICC
+
+*Precautions:  MRSA (sputum), CDIFF
+
+In Brief:  Pt w/ endometrial CA w/ mets. Hospitalized for c2-c3 laminectomy with halo and trach insertion.  Tx'd to MICU for HTN, tachycardia, and pulmonary effusion, and PE.
+
+Neuro:  Pt asleep often during shift, non-compliant with verbal commands at times.  Later became alert and able to follow commands with left side (d/t right sided weakness), PEARL @4mm slow eventually to brisk.  No complaints of pain this shift.
+
+Cardiac:  NSR w/o ectopy, HR 75-94, SBP 118-136, MAP 91-104.  Lopressor as ordered.  No complaints of chest pain or related symptoms.  Heparin gtt per protocol w/ gtt decreased at 0500to 650U/hr after level of 86.4.  Next PTT due at 1300.
+
+Resp:  Trached #8 Portex w/ #7 inner cannula.  Required sxn once this shift with small amt of tan, thick secretion.  Lungs clear bilaterally, upper and lower.  RR wnl ([**12-28**]).  POX range 99-100%.  Trach care done @ 0600.  Pt. was on 95% high flow TM with ABG of 7.41/50/164, so lowered to 80%.  Pt. with know Rt Pleural Effusion.  MRI results from yesterday not yet read by attending.
+
+Cont. below
+",,
+5093,14827,6327,0,2830-11-28 06:26:00 EST,2830-11-28 06:49:00 EST,7687,"N",69,"Nursing/Other","Nursing Note from above cont.","
+Nursing Note from above cont.
+GI/GU:  Abdomen soft, pos bowel sounds, stool x3 (sm, sm, lg amts), brown, soft.  Tube feeds (Respolar)suspended at 00(midnight) for pending surgical procedures in AM. BS @0400 was 133 from the lab, 112 finger stick.  D5 [**1-13**] continuous @ 75cc/hrFoley in place, clear yellow urine 35-120/hr.   
+
+ID:  Afebrile, WBC 13.8, on Levofloxacin, flagyl, and Linezolid.
+
+Skin:  Fragile, some edema, buttocks and perianal area excoriated, bleeding, and reddened w/fungal type rash.  Clotrimazole cream f/b double guard cream.  Pt on Kinair bed w/ frequent turning. Pt in Halo traction w/ sheep skin for protection.  Halo pin sites intact. Pin care done f/b bacitracin application.
+
+Psychosocial:  Supportive spouse, calls for update at night and visits during day.  Updated on all POC.  Continue to keep involved.  
+
+Dispo:  Pt full code, plan for chest tube and PEG placements in AM.  Continue med regimen and ICU supportive care.
+
+Addendum:  Respiratory lowered O2 flow to 60% at 0600.  Ca low (7.9) but need ica for med orders.  Sent green top to lab, awaiting results.
+",,
+5093,14827,6327,0,2830-11-28 17:33:00 EST,2830-11-28 17:48:00 EST,679,"N",69,"Nursing/Other",,"
+
+MICU EAST Nursing Progress Note (0700-1900)
+
+Please see carevue for all objective data. Significant events include discussion between husband, daughter, oncology and palliative care nurse ([**First Name8 (NamePattern2) 92**] [**Last Name (NamePattern1) 93**]) regarding feasibility of having pt. return home. Heparein gtt dc'ed at 1215 and pt. to OR at 1700 for placement of PEG and right chest tube. 
+
+CNS: Pt. alert, withdrawn but cooperative. It takes much encouragement for her to allow husband to leave the room. He states that she is extremely frightened and views the hospital only as ""a place where she will die"" at this point. Ritalin has been increased...awaiting further psych input regarding question of starting antidepressants. Ativan given x 1 due to anxiety with good effect.
+
+RESP: FIO2 weaned from 80% to 50% high flow neb. Sats have remained in the high 90's. Suctioned q3hr for moderate amounts of thick yellow/blood tinged secretions. Lungs with coarse BS throughout, diminished at the right base.
+
+CVS: Hemodynamically stable with heart rate 80's to 100 ST without VEA. B/P 120-130/syst. 
+
+ID: Afebrile. No change in antibiotic regime. On contact precautions for MRSA and C Diff.
+
+GI: NPO except for meds today in preparation for OR. Abdomen is soft and distended with active bowel sounds throughout. Passing small amounts of soft, brown stool frequently.
+
+F and E: IVF dc'ed due to positive fluid balance. Should be reassessed upon return from OR.
+
+SKIN: Perirectal area markedly excoriated, now oozing BRB. Wound cleanser being used along with double [**Last Name (un) **]/clortrimazole cream to area. Remains on therapeutic bed.
+
+SOCIAL: Husband in all day. Daughter visiting this afternoon. Very concerned about getting pt. home, although husband realizes that a rehab stay would be necessary first. They really seemed to appreciate and be supported by palliative care involvement.
+
+
+
+
+
+
+
+
+
+",,
+5093,14827,6327,,2830-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-29**] 5:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8308**]
+     Reason: please eval R pleural effusion                              
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              67 year old woman with new hypoxia, lung masses, and pleural effusion  
+      recurring. 
+     REASON FOR THIS EXAMINATION:
+      please eval R pleural effusion                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  New hypoxia, lung masses and pleural effusion.
+     
+     IMPRESSION:  AP chest compared to [**2742-11-26**] and 18:
+     
+     Small right pleural effusion is stable following insertion of the right apical
+     pleural tube.  There is still substantial atelectasis at the right lung base,
+     but the volume of pleural fluid has decreased substantially since [**9-26**].  Mild
+     interstitial edema is present.  The heart is partially obscured by the
+     abnormal base of the right hemithorax, but probably enlarged.
+     
+     Tracheostomy and nasogastric tubes are in standard placements and the tip of a
+     left PIC catheter projects over the left brachiocephalic vein.  No
+     pneumothorax.
+                                                                           
+
+",,
+5093,14827,6327,0,2830-11-29 06:29:00 EST,2830-11-29 07:08:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700 hours","
+Nursing Progress Note 1900-0700 hours
+*Full Code
+
+* Allergies:  NKDA
+
+*Access:  RR A-Line, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] PICC, R foot 18guage
+
+*Precautions:  MRSA (sputum), CDIFF
+
+In Brief:  Pt w/ endometrial CA w/mets. Hospitalized for c2-c3 laminectomy with halo and trach insertion.  Tx'd to MICU for HTN, tachycardia, pulmonary effussion and PE.  Pt started shift in OR for chest tube and PEG placement.  Returned on ventilator.
+
+Neuro:  Pt asleep mostly in begining of shift, non-compliant with verbal commands at times.  Later became more alert and able to follow commands with left side (d/t right sided weakness), PEARL @ 4mm (brisk).  Complained of abdominal pain s/p PEG placement.  Gave Dilautid for pain.  Pain resolved.
+
+Cardiac:  NSR with one episode of ectopy.  MD's informed and no action was needed.  May need 12 lead in AM if episode reoccurs.  HR 82-108, SBP 77-121, MAP 61-97.  Pt did have decreased BP and MAP, 500cc NS bolus given over 1 hr increasing pressure.  After bolus, BP and MAP dropped again, but resolved when weaned and eventually taken off ventilator.  Lopressor held at 2200 for SBP < 100.  Given at 0400 since held at 2200 and HR was maintaining 105-110.  Heparin restarted at 650U/hr after return from OR.  PTT sent to lab at 0400, results not yet available.  Requested that MD [**First Name (Titles) 8218**] [**Last Name (Titles) **] order with sliding scale as before OR visit.  Next PTT at 1400.
+
+Respiratory:  Trached #8 Portex w/ #7 inner cannula.  Required suction only 2x this shift w/ sm amt of tan,thick secretion.  Started shift on vent and weaned off after OR visit.  Currently on 50% high flow over trach.  Lungs coarse bilaterally in upper lobes, clear bilaterally in lower lobes.  RR wnl ([**10-25**]). POX range 97-100%.  Trach care done at 0600.  ABG 7.39/46/111.  Pt. w/ R Pleural chest tube.  Initial drainage in OR at stated by MD's was about 500cc on the floor and 1L in Pleurovac.  Slow drainage since. Specimen from chest tube drainage sent to lab.
+
+GI/GU:  Abdomen soft, pos bowel sounds, no stool this shift.  Abdominal pain s/p PEG placement as noted in Neuro note.  Tube feeds restarted 2100 after finger stick of 58 (Respalor 60cc/hr).  D5 .9NS continuous @ 5cc/hr KVO.  Foley in place, clear yellow urine 20-90cc/hr.  
+
+ID:  Temp. of 95.4 upon returning from OR.  Blankets and increased room temp resolved to 97.4.  Last temp 99.0 and WBC up from yesterday to 14.  Pt still on Levofloxacin, flagyl, and linezolid.
+
+Skin:  Fragile, some edema, buttocks and perinanal area excoriated, bleeding, and reddened w/ fungal type rash which appears to be improving with Clotrimazole cream and double guard applications.  Pt. on kinair bed w/ frequent turning.  Pt. in Halo traction w/ sheep skin for protection.  Came back from OR with blood on back and in sheep skin of brace.  Neuro may want to change.  Halo pin sites intact, pin care done f/b bacitracin application.
+
+Psychosocial:  Supportive spouse who calls for updates at night and visits during the day.  Daughter visits as well.  Updated on all POC's.  Continue to keep involved.  
+
+Dispo:  Pt
+",,
+5093,14827,6327,0,2830-11-29 06:30:00 EST,2830-11-29 07:08:00 EST,7687,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700 hours","
+Nursing Progress Note 1900-0700 hours
+(Continued)
+. full code. Continue med regimen and ICU support.ve care.  
+
+
+",,
+5093,14827,6327,0,2830-11-29 18:06:00 EST,2830-11-29 18:19:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+Please see flowsheet for further details...
+
+Alert. Follows commands. Mouths yes/no but occaissionally needs encouragement. Did not want to use the PMV. Denied pain all day. R side remains flaccid. R side weak but can lift arm off bed and move leg on bed. More alert and interactive.
+
+Remains on high flow neb. Gd O2sats. Suct x3 entire shift for sm amts  white and occ tannish-white sputum. Weak cough. CT drained 250cc this shift of serasanguinous fluid. No air leak noted. Gd fluctuation.
+
+TFs at 60cc/hr switched to PEG. Within 30min pt c/o of nausea. Given anzemet with relief. TFs stopped and restarted a few hours later but the same thing happened. Resolving slowly with cessation of TFs. No stool. Coccyx area looks less red though area appears ?larger than 4 days ago.
+
+Gd glucose controll on current regime. However w/ TFs off, FS at 73. Will follow q1hr to make sure it doesn't get lower. No intervention needed at this  time per protocol.
+
+Heparin gtt increased to 800u/hr. Will need Ptt at 0100.
+
+Husband in all day. Updated. Aware of possible transfer to onc floor tomorrow.
+
+",,
+5093,14827,6327,,2830-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-30**] 5:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8309**]
+     Reason: Evaluate for continued reexpansion of right lung            
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with pleural effusion s/p chest tube placement.               
+     REASON FOR THIS EXAMINATION:
+      Evaluate for continued reexpansion of right lung                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pleural effusion status post chest tube placement.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison made to prior study of one day earlier.
+     A tracheostomy tube is present and unchanged in position.  There is a right
+     chest tube with tip at the right lung apex, which is also unchanged in
+     position.  There has been interval removal of the nasogastric tube.  There is
+     interstitial pulmonary edema. There is right lower lobe atelectasis and
+     layering right pleural effusion. The appearance of the right lung is not
+     significantly changed in the interval.
+     
+     IMPRESSION:
+     
+     Persistent right lung atelectasis and right effusion, not significantly
+     changed from one day prior. Interstitial pulmonary edema
+
+",,
+5093,14827,6327,,2830-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-11-30**] 3:59 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8310**]
+     Reason: please eval R sided effusion - chest tube is in place       
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 F with met endometrial CA/  SOB -PE and infiltrate LLL                     
+     REASON FOR THIS EXAMINATION:
+      please eval R sided effusion - chest tube is in place                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      No contrast - ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endometrial cancer, shortness of breath.
+     
+     COMPARISON:  CTA chest dated [**2830-11-18**].
+     
+     TECHNIQUE:  Axial MDCT acquired noncontrast images of the chest were obtained.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Bulky superior mediastinal,
+     peritracheal, precarinal, subcarinal, and right hilar lymphadenopathy is again
+     demonstrated.  There is external compression produced at right middle lobe and
+     right lower lobe bronchi with postobstructive changes.  There is a right-sided
+     chest tube that has been placed in the interval.  Multiple ill-defined areas
+     of patchy ground-glass opacity are again demonstrated.  There is marked
+     interval reduction in the right-sided pleural effusion with trace residual
+     effusion on the right and trace left-sided effusion.  Multiple bilateral
+     pulmonary nodules, some that demonstrate cavitation are again demonstrated and
+     may be consistent with metastases.  A small right-sided pneumothorax is
+     demonstrated as well as multiple more focal pockets of air within the pleural
+     space on the right.  A left-sided central venous catheter terminates in the
+     left brachiocephalic vein.  A tracheostomy tube is again demonstrated.
+     
+     Limited noncontrast images of the upper abdomen demonstrate a right adrenal
+     adenoma and a left-sided hepatic cyst.  There is nonspecific right perinephric
+     stranding.
+     
+     Bone windows demonstrate no suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Marked interval reduction in right-sided pleural effusion compared to
+     chest CT of [**2830-11-18**].
+     
+     2.  Multiple bilateral pulmonary nodules and masses with multiple masses
+     demonstrating cavitation.  These may represent metastases.
+     
+     3.  Small right pneumothorax.  Multiple small focal foci of air in the pleural
+     space on the right.
+     
+     4.  Bulky mediastinal and hilar lymphadenopathy with external compression of
+     right middle and lower lobe bronchi and post-obstructive change.
+     
+     5.  Scattered ground-glass opacities bilaterally, the etiology may be
+                                                                 (Over)
+
+     DATE: [**2830-11-30**] 3:59 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8310**]
+     Reason: please eval R sided effusion - chest tube is in place       
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     multifactorial. Considerations include pulmonary edema and superinfection.
+     
+     6.  Right adrenal adenoma.
+     
+     
+     
+
+",,
+5093,14827,6327,0,2830-11-30 05:30:00 EST,2830-11-30 06:12:00 EST,95,"N",69,"Nursing/Other","P-MICU NPN 1900-0700","
+P-MICU NPN 1900-0700
+Events for shift:  FS low, receiving OJ and correcting.  TF's restarted after having c/o's nausea, appears to be tolerating it thus far.
+
+Review of Systems:
+
+Resp:  Remained on 50% Hi [**Last Name (un) **] Neb via trach mask, with O2 sats in the high 90's.  LS CTA, diminished at bases.  Right CT without leaks, draining 190cc's of sero-sanguinous fluid. -crepitus.  Suctioned ~q2hr for thick yellow secretions via trach.  AM ABG 11/46/7.39.
+
+GI/endo:  TF had been on hold due to pt c/o nausea.  Subsiding as shift progressed.  TF restarted without apparent problems.  Initiated at a rate of 20cc/hr rather than the goal of 60/hr.  Currently tolerating fine without any GI complaints.  Full strenghth Respalor.  FS has been borderline in the 70's-80.  Received OJ with sugar times 2, via PEG  with improvement of FS.  Will con't to monitor glucose. Last night's insulin dose held.
+
+GU:  Received lasix times 2 per orders, with good uring response.  Voiding at least 50cc/hr.
+
+Neuro:  Remains flaccid on right side, no spontaneous movements. Fair strength on left.  + pedal pulse.  Pt appears very withdrawn.  Avoiding eye contact when at all possible.  I was able to spend a good portion of the shift with her, as she would open her eyes to see if anyone was still there.  Halo traction in place.  Pin care performed. No c/o discomfort, no pain med given.
+
+Social:  Husband in until ~9pm.  Calling to check on her about 1am.  Update given.
+
+CV:  Stable all night.  No episodes of hyper/hypotension.  Receivng lopressor as ordered.
+
+Heme:  Hep gtt initailly infusing at 800u/hr.  PTT 131, gtt off times 1 hr and decreased to 500u/hr.  Please recheck PTT at 10am.
+
+ID/Skin:  Afebrile.  Bottom and peri area excoriated, +yeast.  Skin care provided per plan.  Anti fungal cream and double guard applied.
+
+
+
+
+",,
+5093,14827,,,2830-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5093,14827,,,2830-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2830-12-3**] 3:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8311**]
+     Reason: interval change of effusion.                                
+     Admitting Diagnosis: WEAKNESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman with pleural effusion s/p chest tube placement.             
+         
+     REASON FOR THIS EXAMINATION:
+      interval change of effusion.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW PORTABLE:
+     
+     INDICATION:  67-year-old woman with pleural effusion status post chest tube
+     placement.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed, and
+     compared with the previous study of [**2830-11-30**].
+     
+     The tracheostomy tube and right chest tube remains in place.  No pneumothorax
+     is identified.
+     
+     The previously identified pulmonary edema has been improving.  There is
+     continued small right pleural effusion and atelectasis in the right lower
+     lobe.
+     
+     The tip of the left-sided PICC line is identified in the left innominate vein.
+     The heart is normal in size.  Again, note is made of overlapping hardwares.
+                                                                           
+
+",,

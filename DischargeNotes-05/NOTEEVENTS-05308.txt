@@ -1,0 +1,602 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5308,27655,,,2776-02-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2776-2-16**]              Discharge Date:   [**2776-2-27**]
+ 
+Date of Birth:  [**2692-12-9**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cephalexin / Nsaids / Phenergan / Codeine
+ 
+Attending:[**First Name3 (LF) 6203**] 
+Chief Complaint:
+transferred from OSH for STEMI
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+TEE Cardioversion
+Pacemaker/Defibrillator Placement
+
+ 
+History of Present Illness:
+Ms. [**Known patient lastname 4682**] is a 83 year old woman with a history of CAD s/p cath 
+[**12-12**] with stent LCX and RCA, ESRD on HD for the past 5 weeks, 
+Hep B cirrhosis and COPD who is transferred from [**Hospital1 6204**] and Rehab Center with STEMI.  
+.  
+She was recently hospitalized at [**Hospital1 83**] from [**1-7**] to [**1-21**] with 
+left lower lobe pneumonia and ESRD and started on HD. She was 
+discharged to [**Hospital1 236**] for treatment of her pneumonia. 
+Over the past week, she was noted to have increasing cough with 
+white sputum production, bronchospasm, shortness of breath and 
+orthopnea. She was treated with IV solumedrol and biaxin which 
+was changed to prednisone 60 mg on [**2-13**]. She was continued on 
+levaquin and vancomycin and nebulizers. She was seen by 
+pulmonary and they felt her wheeze and sob were due to CHF 
+rather than COPD exacerbation. On [**2-13**] they were unable to 
+complete dialysis due to clotted access catheter. On [**2-13**] she was 
+started on 100 mg IV Lasix bid and zaroxyln with good response. 
+ECG done [**2-13**] elevation in the inferior leads which 
+were new compared to ECG from [**2776-1-21**]. ECG was repeated on [**2-16**] 
+and showed similar ST elevation that was slightly decreased. CK 
+was 115, CK-MB was 41 and TnI was 14.88. She was transfered to 
+the [**Hospital1 83**] ED for further evaluation. Of note her aspirin was 
+discontinued one week prior to admission due to platelet count 
+of 63000.  
+.  
+In the ED the patient reported that she has been having chest 
+pressure for several days. The pressure is worse with 
+inspiration and expiration and worse with cough. She has had 
+cough and shortness of breath for one month. She reported [**5-19**] 
+chest pain, radiating to her right shoulder. In the ED she 
+received aspirin 325 mg, heparin 5000 bolus and 300 mg plavix. 
+She was brought to the cath lab.  
+.  
+Cath: findings notable for mod LMCA calcification, LAD mod calc 
+with diffuse disease, LCX with non dom vessel, RCA occ mid 
+segment with L --> R collaterals, RCA lesion dilated and then 
+Taxus stent x 5.  
+.  
+Admitted to CMED.  
+.  
+ROS: Reports 5/10 chest pain that is slightly better than prior 
+to cath. Worse with inspiration and expiration. She feels short 
+of breath and feels like she has sputum that she cannot get up. 
+She denies abdominal pain, diaphoresis, nausea, vomiting. Feels 
+her legs are restless.  
+
+ 
+Past Medical History:
+1. COPD  
+2. Hepatitis B cirrhosis  
+3. Low back pain s/p laminectomy  
+4. Chronic renal insufficency - baseline Cr 2.9-3.3-> Being 
+followed by renal (Dr. [**Last Name (STitle) 4457**]) who feels this may be either 
+hypertensive vascular disease or membranous glomerulonephritis 
+secondary to hepatitis  
+5. rheumatoid arthritis  
+6. chronic renal insufficiency  
+7. recurrent urinary tract infections  
+8. right total knee replacement  
+9. anemia of chronic disease  
+10. coronary artery disease  
+11. hypothyroid  
+12. right ORIF of hip  
+13. Depression  
+14. Gout  
+
+ 
+Social History:
+lives with daughter
+
+ 
+Family History:
+non contributory
+ 
+Physical Exam:
+PE:  
+VS: T 96.8 HR 74 BP 123/55 RR 22 O2 sat 92-97% 2L  
+GEN: Elderly woman, lying in bed flat, with some tachypnea and 
+complaining of chest pain.  
+HEENT: PERRL, EOMI, sclera anicteric, MMM.  
+Neck: JVP at 10 cm. No lymphadenopathy.  
+Lungs: Crackles at left base with wheezes throughout.  
+CV: Regular, no murmurs, rubs or gallops appreciated.  
+Abd: Soft, obese, non tender and non distended, active bowel 
+sounds.  
+Ext: No edema, no rash.  
+vascular: 2+ DP pulses.  
+Groin: no hematoma, no bruit, good pulse.  
+Neuro: Alert and oriented.  
+
+ 
+Pertinent Results:
+ECG: [**2776-2-13**]: Sinus at 72 bpm, normal intervals. Normal axis. 1mm 
+STE in II, III, avf, (III>II) TWI and ST depressions I, AVL, new 
+since [**2776-1-21**].  
+.  
+[**2776-2-16**] prior to cath: 1mm STE in II, III, AVF, slightly 
+improved. TWI I, Avl, ST depressions I AVL.  
+.  
+[**2776-2-16**] post cath: Sinus 68 bpm. Normal intervals and axis. STE 
+II, III, AVF, with TWI and ST depressions I and AVL.  
+.  
+Labs: see below, notable for elevated BUN/Cr, low plts, elevated 
+MB/trop  
+
+[**2776-2-16**] 01:40PM   PT-11.6 PTT-32.8 INR(PT)-1.0
+[**2776-2-16**] 01:40PM   PLT SMR-LOW PLT COUNT-93*
+[**2776-2-16**] 01:40PM   HYPOCHROM-NORMAL ANISOCYT-2+ POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-1+ SCHISTOCY-1+
+[**2776-2-16**] 01:40PM   NEUTS-93.3* BANDS-0 LYMPHS-3.1* MONOS-3.1 
+EOS-0.2 BASOS-0.3
+[**2776-2-16**] 01:40PM   WBC-6.8 RBC-4.54# HGB-14.7# HCT-43.4# MCV-96 
+MCH-32.4* MCHC-33.9 RDW-15.9*
+[**2776-2-16**] 01:40PM   CALCIUM-8.9 PHOSPHATE-3.5 MAGNESIUM-2.1
+[**2776-2-16**] 01:40PM   CK-MB-35* MB INDX-31.0* cTropnT-5.12*
+[**2776-2-16**] 01:40PM   CK(CPK)-113
+[**2776-2-16**] 01:40PM   GLUCOSE-189* UREA N-36* CREAT-4.1* SODIUM-138 
+POTASSIUM-4.6 CHLORIDE-97 TOTAL CO2-26 ANION GAP-20
+[**2776-2-16**] 08:55PM   PT-11.7 PTT-25.5 INR(PT)-1.0
+[**2776-2-16**] 08:55PM   PLT COUNT-91*
+[**2776-2-16**] 08:55PM   WBC-5.7 RBC-4.57 HGB-14.5 HCT-43.0 MCV-94 
+MCH-31.8 MCHC-33.7 RDW-15.5
+[**2776-2-16**] 08:55PM   ALBUMIN-3.9
+[**2776-2-16**] 08:55PM   CK-MB-25* MB INDX-24.0* cTropnT-5.25*
+[**2776-2-16**] 08:55PM   ALT(SGPT)-59* AST(SGOT)-54* LD(LDH)-407* 
+CK(CPK)-104 ALK PHOS-117 TOT BILI-0.3
+[**2776-2-16**] 08:55PM   GLUCOSE-154* UREA N-44* CREAT-4.3* SODIUM-136 
+POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-22 ANION GAP-23*
+[**2776-2-16**] 10:30PM   PLT COUNT-81*
+[**2776-2-16**] 10:30PM   CK-MB-NotDone
+[**2776-2-16**] 10:30PM   CK(CPK)-88
+[**2776-2-16**] 10:30PM   POTASSIUM-4.3
+[**2776-2-16**] 11:01PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-500 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-SM
+[**2776-2-16**] 11:01PM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) **]-1.034
+[**2776-2-16**] C.Cath:
+COMMENTS:      
+1. Selective coronary angiography showed a right dominant system 
+with 
+calcified LMCA but no critical stenosis. LAD had some moderate 
+diffuse 
+disease. LCX was a non-dominant vessel without critical lesions. 
+RCA was 
+totally occluded through its mid-vessel course with some distal 
+flow to 
+the PDA territory via L->R collaterals. 
+2. Left ventriculography was deferred given CRI. 
+3. Hemodynamic assessment showed mildly elevated right-sided 
+filling 
+pressures consistent with volume overload. There was mild to 
+moderate 
+pulmonary hypertension. 
+4. The acute total occlusion of the mid RCA was predilated with 
+1.5 X 
+6mm Sprinter and 2.5 X 30mm maverick balloons, stented with 2.5 
+X 20mm, 
+3.0 X 20mm, 3.0 X 15mm and 3.5 X 32mm Taxus stents and post 
+dilated with 
+3.0 X 15mm NC ranger balloon with lesion reduction from 100% to 
+0%. The 
+final angiomgram showed TIMI flow with no dissection and no 
+embolisation. (see PTCA comments) 
+5. R femoral arteriotomy site was closed with a 6Fr angioseal. 
+  
+FINAL DIAGNOSIS:     
+1. One vessel coronary artery disease. 
+2. Normal ventricular function. 
+3 Successful stenting of the mid RCA lesion in the setting of an 
+Acute 
+inferior STEMI 
+[**2776-2-19**] CXR:
+HISTORY: Shortness of breath and cough. Recent MI. Please 
+evaluate for CHF versus pneumonia.
+
+AP upright and left lateral views of the chest show interval 
+clearing of pleural effusion seen on the patient's prior 
+portable study from [**2776-1-14**]. No focal consolidation is 
+seen to suggest pneumonia and the pulmonary vasculature is not 
+congested. Moderate cardiomegaly appears stable and soft tissue 
+mass at the right upper mediastinum has been shown to be 
+vascular on previous cross sectional imaging studies. Tunneled 
+dialysis tubing is seen with distal tip at the level of the 
+right atrium and the proximal tip at the level of the SVC/right 
+atrial junction. Calcified atherosclerotic plaque is seen in the 
+arch of the aorta.
+
+CONCLUSION: No CHF or pneumonia.
+[**2776-2-17**] Echo:
+Conclusions:  
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or  
+color Doppler. There is mild symmetric left ventricular 
+hypertrophy. The left  
+ventricular cavity size is normal. Due to suboptimal technical 
+quality, a  
+focal wall motion abnormality cannot be fully excluded. Overall 
+left  
+ventricular systolic function is low normal (LVEF 50%) secondary 
+to  
+hypokinesis of the basal inferior wall. An apical intracavitary 
+gradient is  
+identified. No masses or thrombi are seen in the left ventricle. 
+There is no  
+ventricular septal defect. Right ventricular chamber size is 
+normal. Right  
+ventricular systolic function appears depressed. The aortic 
+valve leaflets (3)  
+are mildly thickened but aortic stenosis is not present. No 
+aortic  
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There  
+is no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. The left  
+ventricular inflow pattern suggests impaired relaxation. The 
+tricuspid valve  
+leaflets are mildly thickened. There is no pericardial effusion. 
+ 
+  
+Compared with the findings of the prior study (images reviewed) 
+of [**2776-1-14**], inferobasal hypokinesis is now present.  
+
+ 
+Brief Hospital Course:
+83 year old woman with history of CAD, hep B cirrhosis, ESRD on 
+HD, recent pneumonia, s/p sTMEI with stent who developed post MI 
+AF. S?p DCCV with brief stay in the CCU for observation. 
+Bradycardia concerning for sick sinus syndrome. 
+.
+
+.
+1. s/p STEMI: patient experienced an ST Elevation MI.  the 
+patient tolerated catheterization well, and was pain free 
+afterwards.  She is s/p RCA stents with continued STE on ECG, 
+which gradually resolved, evolving into q waves.  Patient was 
+started on usual post-MI care with ASA, BB, statin, plavix, and 
+ACEIs.  Patient does have diastolic [**Last Name (LF) 6205**], [**First Name3 (LF) **] 50%.  Since 
+diuresis would have been ineffective (patient has ESRD), HD was 
+used to take off fluid
+.
+c. Rhythm: patient was in NSR post MI.  On [**2-18**], she 
+spontaneously converted to afib with RVR.  She required IV 
+diltiazem and IV lopressor to control her rate.  She was also 
+started on anti-coagulation with heparin and coumadin.  The 
+decision was made to cardiover the patient.  s/p DCCV, in sinus, 
+cont to hold BB to observe rate for 24 hrs.  Patient then became 
+bradycardic to 40s, and was transferred to CCU with a temp 
+pacing wire. TEE showed: No evidence for intracardiac ( and in 
+particular left atrial )thrombus. Severely hypokinetic right 
+ventricle.  HR stable in the CCU, but did have one episode of 
+atrial tachycardia, ?wandering pacemaker, followed by a pause, 
+junctional escape rhythm and return of sinus rythym. Tolerated 
+full course of HD prior to transfer. Transferred back to CMED 
+for monitoring and placement. Pt felt ok. Has some difficulty 
+breathing, + cough but unable to get much up. She developed a 
+small left forarm bleed from an IV.  Then, the decision was made 
+in consult with EP to place a DDD pacemaker.  Pt was given 2 
+doses of vancomycin pre and post-procedure.  The procedure was 
+w/o complications.  Post-pacemaker, the patient's HR alternated 
+between 60s (paced) and 100s (afib).  BB blocker was adusted to 
+control HR. The patient has an appointment to follow up in 
+Device clinic.
+.
+2. ESRD on HD: renal consult was called, HD was initiated.  
+Initially had some difficulty due to hypotension associated with 
+atrial fibrillation.  Post DCCV+pacemaker placement, the patient 
+tolerated HD ok.  The patient is to have hemodialysis while at 
+rehab on a schedule of HD MWF.  All meds were renally dosed, and 
+the patient was continued on sevelamer, and nephrocaps.  Patient 
+needs her eletctrolytes to be checked 3 times a week with 
+dialysis.  Electrolytes should be adjusted and sevelamer dosing 
+(phosphate binder) should be adjusted according to phosphate 
+levels. 
+.
+4. Pneumonia: s/p levofloxacin for 14 days. The patient 
+initially had some cough, but clear CXR, afebrile.  Expectorants 
+were given, the patient continued to remain afebrile, and 
+symptoms improved.
+.
+5. COPD: s/p steroid taper.  The patient's lungs were without 
+wheezes.  We continued inhalers, nebs PRN.
+.
+6. UTI: patient was discovered to have VRE on [**2-19**] cx. Of note, 
+the patient was started on vancomycin for ""urinary infection"" 
+while at rehab, though there was no clear documentations 
+regarding what was cultured from that urine.  The patient was 
+started on  linezolid for 14 days, started on [**2-23**].
+.
+7. Thrombocytopenia: Chronic and likely related to cirrhosis. 
+Albumin only slightly decreased and INR normal. will monitor 
+while on heparin, platelets did not drop greater than 50%, 
+stayed stable. 
+.
+8. Anti-coagulation.  Patient has atrial fibrillation and was 
+started on anticoagulation with heparin and coumadin.  Heparin 
+was d/c'd and patient was therapeutic on her INR throughout her 
+hospital stay.  During the last day, the patient was 
+supratherapeutic on her INR, but here was no evidence of 
+bleeding, mental status changes or agitation.  PO Vitamin K was 
+given. At rehab, coumadin needs to be HELD for [**2776-2-28**] and 
+[**2776-2-29**].  PT/INR needs to be re-checked on [**2776-2-28**].  If INR > 7, 
+5mg of PO vitamin K should be given, and PCP needs to be 
+notified for further guidance (and coumadin dosing needs to be 
+held).
+ 
+Medications on Admission:
+Calcitonin 3.7 ml nasal daily  
+Calcium/Vitamin D 500 mg bid  
+Docusate 100 mg bid  
+Epoetin 8000 U MWF  
+Esomeprazole 40 mg daily  
+Fluticasone/Salmeterol 250/50 bid  
+Folic acid 1 mg daily  
+Lasix 100 mg IV bid  
+Hydralazine 50 mg q 8 hours  
+Iron Sucrose 100 mg IV MWF  
+Isosorbide Mononitrate SR 120 mg daily  
+Lactulose 10 ml tid  
+Levalbuterol inhaled qid  
+Levofloxacin 250 mg po every other day, next due [**2-17**], last dose 
+[**2-21**]  
+Levothyroxine 25 mcg daily  
+Lorazepam 0.5 mg MWF 1/2 hour prior to dialysis  
+Zaroxyln 10 mg po bid  
+Lopressor 50 mg po bid  
+Miconazole powder bid  
+Nephrocaps 1 daily  
+Prednisone 60 mg daily  
+Requip 1 mg qhs for RLS  
+Senna 1 bid  
+Sevelamer 1200 mg with meals tid  
+Spiriva one daily  
+Vancomycin 1 gm IV MWF with dialysis (level 9.7 on [**2776-2-16**])  
+Ambien 5 mg qhs  
+PRN:  
+Tylenol 650 mg po q4 hours prn  
+bisacodyl 10 mg daily prn  
+Sarna qid prn  
+levalbuterol (xopenex) q 6 hrs prn  
+ativan 0.5 mg tid prn  
+Fioricet qid prn  
+simethicone 80 mg qid prn 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Calcitonin (Salmon) 200 unit/Actuation Aerosol, Spray Sig: 
+One (1)  Nasal DAILY (Daily).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1) puff Inhalation BID (2 times a day).  
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+9. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO QMOWEFR (Monday 
+-Wednesday-Friday): give prior to dialysis.  
+11. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  BID 
+(2 times a day).  
+12. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+13. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day). 
+ 
+14. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+15. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 
+ 
+16. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO TID (3 times a 
+day) as needed for anxiety.  
+17. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed.  
+18. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+19. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed.  
+20. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+21. Sevelamer 800 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day): take with meals.  adjust according to Chem 7 results.  
+22. Pramipexole 0.125 mg Tablet Sig: One (1) Tablet PO qhs ().  
+23. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 
+hours) as needed.  
+24. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours) for 12 days.  
+25. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 
+8 hours) as needed.  
+26. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+27. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime): 
+please dose according to INR. INR should be [**2-13**]. Call PCP for 
+further guidance on warfarin dosing.  
+28. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day: 
+please hold if SBP < 90.  
+29. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID 
+(3 times a day): please hold for HR < 50, SBP < 90.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital1 237**] - [**Location (un) 48**]
+ 
+Discharge Diagnosis:
+ST Segment Elevation Myocardial Infarction
+New Onset Atrial Fibrillation, on anti-coagulation
+s/p TEE Cardioversion
+S/P pacemaker/ICD placement
+End Stage Renal Disease
+Rheumatoid arthritis
+Anemia
+Thrombocytopenia
+
+ 
+Discharge Condition:
+stable, afebrile, ambulatory, chest pain free
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1500ccs/day
+-please follow up with all outpatient appointments
+-please take all your medications as directed
+-please attend dialysis as scheduled--Monday, Wednesday, Friday
+-if [**Doctor First Name **] should feel more chest pain, palpitations, 
+lightheadedness, dizziness, please let your doctor know 
+immediately.
+-please re-check INR on Saturday, [**2776-2-28**]. Please watch for 
+mental status changes, acute overt bleeding. Continue to hold 
+coumadin on [**2776-2-28**] and [**2776-2-29**]. If INR > 7 on Saturday [**2776-2-28**], 
+give 5mg of Vitamin K PO, recheck INR on Sunday.  Please call 
+PCP [**Last Name (NamePattern4) **] [**Telephone/Fax (1) 424**] to adjust Warfarin dosing based on INR and 
+further guidance.  INR should be [**2-13**]
+ 
+Followup Instructions:
+Provider:  [**Name10 (NameIs) 968**] CLINIC Phone:[**Telephone/Fax (1) 731**] Date/Time:[**2776-3-3**] 
+10:30
+-please call your PCP [**Name9 (PRE) 6206**],[**Name9 (PRE) 2797**] [**Name Initial (PRE) **]. at [**Telephone/Fax (1) 424**] to 
+arrange a follow/up appointment as soon as possible
+-patient needs hemodialysis MWF for removal of fluid as well
+[**Hospital 6207**] clinic
+-PCP for adjustment of anti-coagulation
+
+Provider: [**Name10 (NameIs) 6206**],[**Name11 (NameIs) 2797**] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 424**]  Appointment should 
+be in 7-10 days
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6208**] MD [**MD Number 6209**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6210**] MD [**Last Name (un) 6211**] [**2776-2-27**] @ 1228
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2776-3-5**] 11:08 AM
+(End of Report)
+
+
+",,
+5308,27655,,,2776-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2776-2-17**] 9:49 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10141**]
+     Reason: Please evaluate for chf vs pneumonia.                       
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old woman with sob, cough, recent MI. please evaluate for chf and 
+      pneumonia.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for chf vs pneumonia.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PA AND LATERAL FROM [**2-17**]
+     
+     HISTORY:  Shortness of breath and cough.  Recent MI.  Please evaluate for CHF
+     versus pneumonia.
+     
+     AP upright and left lateral views of the chest show interval clearing of
+     pleural effusion seen on the patient's prior portable study from [**2776-1-14**].  No focal consolidation is seen to suggest pneumonia and the pulmonary
+     vasculature is not congested.  Moderate cardiomegaly appears stable and soft
+     tissue mass at the right upper mediastinum has been shown to be vascular on
+     previous cross sectional imaging studies.  Tunneled dialysis tubing is seen
+     with distal tip at the level of the right atrium and the proximal tip at the
+     level of the SVC/right atrial junction.  Calcified atherosclerotic plaque is
+     seen in the arch of the aorta.
+     
+     CONCLUSION:  No CHF or pneumonia.
+                                                                           
+
+",,
+5308,27655,6590,0,2776-02-23 18:57:00 EST,2776-02-23 19:44:00 EST,7374,"N",1,"Nursing/Other","CCU nursing progress note.","
+CCU nursing progress note.
+S-""I can't stop moving. I have restless legs.""
+O-see flowsheet. 
+
+See admit note for admission details. 
+
+N-a/ox3. MAE, PERRL. no deficits noted. 
+
+CV-Temp pacer through venous shift upon admission. Since d/c'd - pt has not needed-not fired at all. Rate remains =>60. Pacer wire and venous sheath pulled @ 1845. Rt leg embolizer on.  site w slight ooze-otherwise wnl. all pulses palpable. SBP 100-130. Captopril dose as ordered. 2PIVs. 
+
+ID-afebrile. abxs as ordered. 
+
+Resp-continues to be tx for pna. LS course/ ""junky"" throughout. strong cough-able to bring up only scant amt of secreations. O2 via 3L NC c sats WNL. Nebs as ordered per resp.
+
+GI/GU-BS present. -BM. Foley-draining minimal amts yellow urine. HD dependent. Scheduled for tomarrow. soft diet (dentures at home).  
+
+A/P-temp pacer wire pulled. Pt now called out. continue to monitor groin site-keep leg straight till stable. Monitor HR/BP. 
+
+",,
+5308,27655,6590,0,2776-02-24 03:17:00 EST,2776-02-24 03:36:00 EST,7594,"N",1,"Nursing/Other","CCU 1900-0700","
+CCU 1900-0700
+RESP:- Remains on nasal cannula, 3 Litres, Sa02 96-99%, RR18-30s and regular. Bilateral air-entry heard to all lung fields, very coarse throughout. Strong cough, minimal expectorated. Sputum sample sent.
+
+CV:- Monitored in A fib/Sinus Bradycardia overnight, no ectopics seen. Had a 5.29 second pause, prior to leaving for the floor, decided to keep her on unit overnight. Asymptomatic during pause. SBP 98-120 overnight, held captoril due to hypotension. Recommenced IV Heparin due to A fib, initially at 1350 units/hr. PTT due at 0630. Rt groin site appears satisfacotry.
+
+NEURO:- A&O X3, a little hard of hearing. Given Zolpidem at 2200, but did not work, stated she felt anxious at midnight about her heart and everything that had happened yesturday, asked for Lorazepam, given with good effect. Moving all four limbs well within limits. Shuffling around the bed. Resless legs continue.
+
+GU:- Foley catheter draing small amounts of yellow dark urine. Am labs to be taken at 0630. ? for HD today.
+
+GI:- Attempted to eat evening meal but vomitted striaght after. Given dolasetron mesylate with good effect, managed to eat pears. Taken good amounts of oral fluids. Abdomen soft/distended, bowel sounds heard.
+
+ID:- Afebrile overnight, small amount of sputum expectorated from chest. Line sites satisfactory.
+
+SKIN:- Shuffling around in bed, (restless legs) turning self/assistance also given. Freshen up [**Doctor Last Name **] given after vomitted.
+
+FAMILY:- Son visited, and updated on the days events. will call tomorrow, no others enquires as yet from other family overnight.
+
+PLAN:- To continue monitor heart rate and rhythm, for atropine if become bradycardic, pacing pads insitu. DNR/DNI, but we are to treat bradycardias as this is iatrogenic due to high/freequent does of metoprolol. ? can go to the floor later today. for AM labs/PTT due at 0630. Fluid restriction of 1200cc. To continue to give full explination of care to Mrs [**Known patient lastname 4405**] and family.
+",,
+5308,27655,,,2776-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2776-2-26**] 11:24 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10142**]
+     Reason: Pneumothorax?Lead Position?                                 
+     Admitting Diagnosis: CORONARY ARTERY DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          83 year old woman with sob, cough, recent MI. New lt sided dual chamber PM  
+       
+     REASON FOR THIS EXAMINATION:
+      Pneumothorax?Lead Position?                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation for pneumothorax and lead position after
+     insertion of the pacemaker.
+     
+     PA and lateral chest x-ray were performed and compared to the previous study
+     from [**2776-2-17**].
+     
+     The  right subclavian double-channel catheter is inserted with its tip
+     projecting over the area of cavoatrial junction. The pacemaker device is
+     inserted in the left hemithorax with two leads, the first lead is ending
+     within the right atrium and the second one within the right ventricle.  No
+     evidence of pneumothorax is seen.  The heart is slightly enlarged with
+     evidence of left atrial enlargement.  The aorta is tortuous and calcified, but
+     with no evidence of focal dilatation.  There is a new opacification of the
+     left lung base and costophrenic angle which most probably represent small
+     amount of pleural fluid which is best seen on the lateral view.
+     
+     No evidence of congestive heart failure is seen.
+     
+     IMPRESSION:
+     
+     1.  Normal position of the pacemaker leads.  No evidence of pneumothorax is
+     present.
+     
+     2.  New left lower lobe opacity which most probably represents pleural fluid.
+
+",,

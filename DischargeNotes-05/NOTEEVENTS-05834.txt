@@ -1,0 +1,404 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5834,,,,2804-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-12-15**] 11:46 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 14525**]
+     Reason: aortic valve replacement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with aortic stenosis
+     REASON FOR THIS EXAMINATION:
+      aortic valve replacement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pre-operative, aortic valve replacement.
+     
+     TECHNIQUE:  PA and lateral views of the chest without comparisons.
+     
+     FINDINGS:  There is borderline enlargement of the heart.  Within the right
+     lower lung zone, there is a 4 mm, rounded and well-demarcated opacity.
+     Additionally, on the lateral view there is a 1 cm opacity overlying the
+     anterior portion of the approximately T10 vertebral body.  No other pulmonary
+     opacities, pleural effusions, or pneumothorax.  Degenerative change within the
+     spine is noted.
+     
+     IMPRESSION:
+     1)  No evidence of acute cardiopulmonary disease.
+     2)  Borderline cardiomegaly without evidence of failure.
+     3)  Two pulmonary opacities are identified.  If this may make a difference in
+     the clinical management of the patient, a CT of the chest would be recommended
+     to help characterize and localize these lesions.
+
+",,
+5834,1845,,,2804-12-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2804-12-27**]       Discharge Date:  [**2805-1-4**]
+
+Date of Birth:   [**2722-4-10**]       Sex:  M
+
+Service:  CADDIOTHORACIC SURGERY
+
+ADMITTING DIAGNSOIS:
+Severe aortic stenosis.
+
+DISCHARGE DIAGNOSIS:
+Severe aortic stenosis, status post an aortic valve
+replacement with the 21 mm pericardial valve.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 7220**] is an 82 year-old
+gentleman who recently developed syncope.  He underwent an
+echocardiogram which showed he had severe aortic stenosis
+with a valve area of 0.8 cm sq.  He was found on several
+subsequent cardiac catheterizations to have mild single
+vessel coronary artery disease with normal left ventricular
+function and normal pulmonary artery pressures.
+
+PAST MEDICAL HISTORY:  1) Recently diagnosed hypertension.
+2) Recent onset of atrial fibrillation.
+
+MEDICATIONS ON ADMISSION:  Include 1) amiodarone 400 mg by
+mouth once per day.  2) aspirin 325 mg by mouth once per day.
+
+ALLERGIES:  Mr. [**Known patient lastname 7220**] has no known drug allergies.
+
+SOCIAL HISTORY:  Mr. [**Known patient lastname 7220**] [**Last Name (Titles) 263**] a smoking history other
+than briefly in college.  He report occasional consumption of
+alcohol and no use of other illicit substances.
+
+FAMILY HISTORY:  Is noncontributory.
+
+PHYSICAL EXAMINATION:  On initial physical examination, Mr.
+[**Known patient lastname 7220**] was found to be afebrile with a heart rate of 63 in
+sinus rhythm, a blood pressure of 113/57 with a respiratory
+rate of 20.  His height was 5 feet, 10 inches, and his weight
+was 157 pounds.  He was a pleasant 82 year-old male, who was
+alert and oriented to person, place and time, and in no acute
+distress.  His skin was warm and dry.  His neck was supple,
+with the trachea in the midline and no lymphadenopathy.  He
+did not have any visible jugular venous distention, and his
+carotid pulses were 1+ palpable, and he had no audible
+bruits.  His lungs were clear to auscultation bilaterally.
+His cardiac examination showed regular rate and rhythm with
+normal S1 and S2, and a 5 out of 6 systolic ejection murmur.
+His abdomen was soft, nontender and nondistended, with no
+hepatosplenomegaly or other palpable masses.  His extremities
+are warm and dry with no peripheral edema.  Neurologically
+his gross motor and sensory examinations were found to be
+intact.  On pulse examination he was found to have a 1+
+palpable femoral, dorsalis pedis, posterior tibial, and
+radial pulses bilaterally.
+
+LABORATORY DATA ON ADMISSION:  Was significant for a CBC
+which showed a white blood count of 5.8, hematocrit of 36 and
+a platelet count of 157,000.  His chem-7 shows sodium of 137,
+potassium of 4.2, chloride of 102, bicarbonate of28, BUN of
+265 and a creatinine of 1.2 with a blood glucose of 204.  His
+INR was 1.1.  He had an electrocardiogram which showed sinus
+rhythm with a first degree AV block.  He also had some ST-T
+segment flattening in the inferior leads.
+
+HOSPITAL COURSE:  Mr. [**Known patient lastname 7220**] was admitted to the operating
+room on [**2804-12-27**], where he underwent an aortic valve
+replacement with a 21 mm pericardial valve.  Please refer to
+the dictated operative note for full details of this
+procedure.  He tolerated the procedure well and was
+transferred to the cardiac surgery recovery unit on drips of
+Neo-Synephrine, propofol, and amiodarone.  He was at this
+time also A-V paced.  On admission to the cardiac surgery
+recovery unit [**Initials (NamePattern4) **] [**Known patient lastname 7220**] was on propofol, and A-V paced at a
+rate of 80.  His underlying rhythm was initially complete
+heart block and converted to sinus bradycardia in the low
+50s.  There was no ectopy noted.  His blood pressure
+continued to fluctuate significantly requiring both
+Neo-Synephrine and nitroglycerin at varying times to maintain
+his blood pressures.  His cardiac enzyme was between 2 and 3.
+ He was transfused two units of packed red blood cells and
+given two units of fresh frozen plasma as well.  He had a
+slight amount of serous drainage from his sternotomy incision
+but this appeared stable.  He at this time also acidotic for
+which he was given 2 ampules of sodium bicarbonate.  He was
+also started on Kefzol.  On postoperative day number one he
+continued to be on amiodarone drip and Neo-Synephrine drip.
+His heart was being A_V paced to a rate of 80 and his blood
+pressure was found to be 108/52.  His hematocrit following
+the previous day's transfusions was 28.7 and he had an INR of
+1.2 and a PTT of 39.9.  He was also maintained for a short
+time on an insulin drip secondary to persistently elevated
+blood glucose levels. Patient was extubated on postoperative
+day number one and by postoperative day two had been weaned
+from his Neo-Synephrine, amiodarone and insulin drips.  He
+was started on oral amiodarone and was being treated for his
+elevated blood sugars with sliding scale of regular insulin.
+His chest tube was also removed at this time.  He had a brief
+run of atrial fibrillation in the morning of postoperative
+day number three, which converted spontaneously back into
+sinus bradycardia.  He was transferred to the floor on
+postoperative day number four in stable condition.  His
+rhythm remained in sinus with excellent blood pressure
+control.  He was see at this time in consultation by the
+[**Hospital 7221**] Clinic as hie blood sugars had bee elevated
+perioperatively.  It was determined that he had probably been
+an untreated type 2 diabetic, and it was recommended that he
+be started on a low dose of Glipizide.  He continued to
+progress and do extremely well with no periods of confusion.
+He worked very well with physical therapy, and was cleared by
+them to be able to return home with no issue.  His cardiac
+medications were continually titrated to optimize his cardiac
+medication regimen.  He is at this time stable and ready for
+discharge home.
+
+PHYSICAL EXAMINATION AT TIME OF DISCHARGE:  His physical
+examination is significant for temperature of 97.9 degrees
+Fahrenheit, heart rate of 80 in sinus rhythm, blood pressure
+of 110/60 with an oxygen saturation of 96 percent on room
+air.  He is pleasant, alert and oriented to person, place and
+time, and in no acute distress.  His neck is supple with no
+jugular venous distension or lymphadenopathy.  His heart
+shows a regular rate and rhythm with normal S1, S2.  His
+lungs are clear to auscultation bilaterally.  His extremities
+are warm and dry with no extremity edema.  His sternotomy
+incision is healing nicely with no erythema or drainage, and
+he has good sternal stability.  His CBC at the time of
+discharge is significant for white blood cell count of
+108,000.  His chem-7 is significant for a sodium of 138,
+potassium of 4.4, chloride of 101, bicarbonate of 29, BUN of
+26 and creatinine of 1.1.  His glucose is 109, and is
+magnesium is 1.9.
+
+MEDICATIONS ON DISCHARGE:  1) Glipizide XL 2.5 mg by mouth
+once per day, 2) Captopril 6.25 mg by mouth three time per
+day to be held for systolic blood pressure of less than 100,
+heart rate of less than 60, 3) Lopressor 12.5 mg by mouth
+twice per day, 4) potassium chloride 20 mg by mouth twice per
+day, 5) amiodarone 200 mg by mouth once per day, 6) iron
+sulfate 326 mg by mouth once per day, 7) ascorbic acid 500 mg
+by mouth twice per day, 8) Tylenol 650 mg by mouth every four
+hours by moth for pain, 9) Zantac 150 mg by mouth twice per
+day.  10) Lasix 20 mg by mouth twice per day to be taken for
+one additional week, 11) Colace 100 mg by mouth twice per
+day.
+
+DIET:  Should be a diabetic diet consistent
+carbohydrate/cardiac healthy diet.
+
+FOLLOW UP:  Should be with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 569**] in approximately
+four weeks time.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 574**], M.D.  [**MD Number 575**]
+
+Dictated By:[**Name8 (MD) 7222**]
+MEDQUIST36
+
+D:  [**2805-1-3**]  11:33
+T:  [**2805-1-3**]  13:15
+JOB#:  [**Job Number 7223**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**2805-1-31**] 11:54 AM
+(End of Report)
+
+
+",,
+5834,1845,,,2804-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2804-12-27**] 3:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14526**]
+     Reason: s/p AVR w/SQ air-r/o ptx                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with as above                                                   
+     REASON FOR THIS EXAMINATION:
+      s/p AVR w/SQ air-r/o ptx                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2804-12-27**] COMPARED TO [**2804-12-15**]
+     
+     CLINICAL INDICATION:  S/P aortic valve replacement and surgery.  Evaluate for
+     pneumothorax.
+     
+     There has been interval median sternotomy and aortic valve replacement
+     procedure.  An endotracheal tube is present, terminating at the thoracic inlet
+     level approximately 7 cm above the carina.  Note is made of slight over
+     distention of the cuff of the tube.  A Swan-Ganz catheter terminates at the
+     region of the proximal main pulmonary artery.  Mediastinal drains are noted.
+     
+     Cardiac and mediastinal contours are stable allowing for differences in
+     technique.  There is some increased opacity in the left retrocardiac region.
+     The lungs otherwise appear clear.  No pneumothorax or pleural effusion is
+     evident.  There is a very small left apical pneumothorax.
+     
+     IMPRESSION:  1)  Very small left apical pneumothorax.
+     
+     2)  Left retrocardiac opacity, most likely due to atelectasis in this recently
+     post-operative patient.
+     
+     3)  Slight over distention of endotracheal tube cuff.
+
+",,
+5834,1845,7264,0,2804-12-27 17:35:00 EST,2804-12-27 17:59:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU Admission Note
+
+Mr. [**Known patient lastname 1386**] is an 82 year old man who had recent onset of syncope.  Echo revealed severe AS.  Cardiac cath w/ OM lesion, severe AS, preserved LV.  To OR today for AVR w/ bioprosthetic valve.  OR course significant for CHB requiring AV pacing and reexploration d/t bleeding.
+
+NKDA
+
+PMH:  New onset syncope, htn, A fib.
+
+Neuro:  Sedated on propofol.  Slightly moving x 2 w/ increase in SBP.  Propofol increased for comfort. PERRL.
+
+CV:  AV paced at rate of 80.  Underlying rhythm initially CHB, most recently SB with rate in low 50's.  No ectopy noted.  Labile BP-on/off neo/ntg to maintain BP's.  CI [**2-1**].  Cont's w/ metabolic acidosis-? dry.  Received 2u ffp, receiving 2nd u prbc's, and 1l NS.  Given 50 mg protamine IV x 1.  CT's currently w/ decreased serousang dng.  K+ and Ca++ replaced.
+
+Resp:  BS diminished throughout, clear.  Noted bilat subcutaneous air at upper areas of anterior chest.  NP aware.  CXR ordered-no ptx by report.  O2 sats stable.  PEEP decreased to 7.5 w/ good PaO2.  RR increased to treat acidosis.
+
+GU:  Abd soft.  OGT w/ minimal o/p. 
+
+GU:  Adequate u/o via foley.
+
+Endo:  Glucose up to 160's-insulin gtt started and titrated according to protocol.
+
+Skin:  Intact to back/buttocks.  Chest dsg w/ slight serousang dng.
+
+Comfort:  Med w/ MsO4 several times.
+
+
+",,
+5834,1845,7264,0,2804-12-27 18:52:00 EST,2804-12-27 18:56:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU Addendum
+
+CV: 2 amps sodium bicarb given per Dr. [**Last Name (STitle) **] order. 
+
+A:  CI good.  BP remains labile at times.  Persistant acidosis.
+
+P:  Cont to monitor acidosis.  Vent changes as ordered.  Monitor acid/base balance.  CT o/p. Wean and wake when ABG stable.  Pain med. Insulin gtt as ordered. 
+",,
+5834,1845,7264,0,2804-12-28 06:02:00 EST,2804-12-28 06:20:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NPN: 
+
+Neuro: Propofol off at 1930pm- Awakened --following commands, Equal strength bil. Initially with sl tremmors when awakening treated with demerol with effect. 
+
+CV: 100% AV Paced at 80 via epicardial wires-setting see carevue. Underlying rhythm SB with 1st HB 40-50. Cont on Amio gtt at .5. Labile BP initially on/off neo/ntg-treated with some vol. Stable this am off pressors. CVP 10-14. Palp distal pulses. Skin warm and dry.
+
+Resp: Weaned and extubated at 0030am. O2 sats 98-100% on 50% OFT neb. Lungs CTA, Cough -nonprod, ABG's adequate with sl met acidosis. CT to sxn -no airleak draining min serosang.
+
+GU: Foley to gd with uo> 35cc/hr. CR 1.0-Clear yellow urine.
+
+GI: Abd soft, NT, ND,-BS. No N/V. OGT dc'd with extubation. Tol ice chips.
+
+Endo: Insulin gtt dc'd 2310pm for gl 72-now 104-112.
+
+Incisions: Per carevue-without dng.
+
+Activity: MAE-Turned side to side in bed with min assist of 2. 
+
+ID: Cont on Kefsol 2gm IV q 12hr X4. Tmax 100.
+
+A: Initially labile- now stable on Amio gtt and good CI in paced rhythm.
+
+P: Cont to wean gtts, AV Pacing- assess for return intrinsic rhythm and pt tolerance. Begin rehab. Diurese. Repeat lytes Prn.   
+",,
+5834,1845,7264,0,2804-12-28 16:53:00 EST,2804-12-28 17:08:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO~A+0X3. FC. MAE. MED W 1 PERCOCET FO R DISCOMFORT W/ GOOD EFFECT.
+
+CARDIAC~AMIODARONE DRIP DC'D STARTED ON 400MG PO. AV PACED @ 80. BASELINE RHYTHM 1ST DEGREE AV BLOCK. PACER OFF @ 1200. PT REMAINS HEMODYNAMICALLY STABLE. POS PAL PEDAL PULSES BILAT.
+
+RESP~LUNGS CLEAR UPPER, DIMINISHED IN BASES. C&DB EXERCISES.
+
+GI/GU~TOL ICE CHIPS AND SIPS OF CLEARS. MARGINAL U/O.
+
+A/P~STABLE. FOLLOWING NORMAL POST OP COURSE. CONT W/ PUL REHAB. POSSIBLY DELINE IN AFTERNOON AND TRANSFER TO [**Hospital Ward Name **] 2 IN AM  
+",,
+5834,1845,7264,0,2804-12-28 17:16:00 EST,2804-12-28 17:19:00 EST,3204,"N",54,"Nursing/Other",,"
+
+oob->chair w max. assist of 2. p.t. to see in a.m. for reconditioning. stable hemodynamics,swan removed. huo remained poor,lasix x 1 given w good response. strong non productive cough,bibas. crackles heard.percocet for pain w stated relief.blood sugars covered w q 6 hr. ssri,see flow sheet.
+",,
+5834,1845,7264,0,2804-12-29 03:46:00 EST,2804-12-29 04:01:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NPN:
+
+Neuro: Alert and oriented X3, Sleeping off/on in shortnaps. MAE. Visiting with daughter until after MN.
+
+CV: 60-70's SR with 1st HB. Periods of HTN usually resolving on own. 3am with HTN to 170-190's/80-90's -treated with 5mg IV hydralazine. Palp distal pulses. K and Ca# repleted. 
+
+Resp: Lungs CTA with sl decreased bases. O2 sats> 98% on 2l nc-pt with c/o nasal stuffiness-o2 sat 91-92 on RA. Placed on 40% cool neb with improved sats 99-100% and increased comfort. Cough prod of thick tan secretions.
+
+GU: Foley to gd with good uo. Cr. stable
+
+GI: Abd soft, NT, ND Hypo BS. Tol clears without N/V. 
+
+Endo: Glucoses 120-157 covered per ss protocol. see carevue.
+
+Incisions: DSD on sternum and CT sites-D/I.
+
+Activity: Turned side to side in bed.
+
+A: Occ HTN-
+
+P: Stable and ready for transfer to [**Hospital Ward Name 3**] 2, Assess need for further diuresis.
+",,
+5834,1845,7264,0,2804-12-29 18:15:00 EST,2804-12-29 18:30:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO~COMPLETELY INTACT. APPROPRIATE. OCCASIONALLY WORD SEARCHES. NO C/O DISCOMFORT TODAY. OOB TO CHAIR FOR MOST OF THE DAY. AMB X 2 IN UNIT ONCE W/ PT ONCE W/ NSG TEAM. GAIT MUCH MORE STEADY WITH SECOND WALK. FAMILY IN VISITING ALL DAY.
+
+CARDIAC~HEMODYNAMICALLY STABLE. AMIODARONE DECREASED TO 200 MG PO. INITALLY IN 1 ST DEGREE AV BLOCK PR~24. CURRENTLY IN NSR PR~.16. SBP~120'S. POS PAL PEDAL PULSES BILAT. 1+ PITTING EDEMA.
+
+RESP~ON 2L NP W/ SATS~98-100%. LUNGS CLEAR IN UPPER AND IN R LOWER LOBE. VERY DIMINISHED IN LLL. PT USING INS [**Location (un) 12**] FAITHFULLY AND DOING CDB EXERCISES. PRODUCTIVE COUGH. 
+
+GI/GU~TOL FOOD AND FLUIDS VERY WELL. GIVEN LASIX 20MG PO @ 1200. FOLEY DC'D DTV @ 2000-2200. DID VOID X 2 SMALL AMTS (50CC'S EACH TIME.) + BS.
+
+ENDO~ELEVATED GLUCOSE LEVELS TREATING  W/ SS INSULIN. SEE MAR FOR DOSAGES.
+
+A/P~STABLE. CONDUCTION DISTURBANCE RESOLVING. CONT W/ PUL REHAB. TRANSFER TO [**Hospital Ward Name **] 2 IN AM. 
+",,
+5834,1845,7264,0,2804-12-30 05:07:00 EST,2804-12-30 05:15:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro alert and oriented x3 . mae to command. denies pain slept well.
+cv/resp o2 2l np lungs clear. nsr 1st degree avblock. pr int .32. 
+rate in the 60's. 
+gi/gu tol sips water. +flatus no bm. voidig q.s uop on po lasix. 
+integ skin wnl. inc. ok + bilat pedal edema. 
+endo: insulin ss per protocol am insulin pending. 
+vss... plan ? transfer to [**Hospital Ward Name **] 2 today. 
+",,
+5834,1845,7264,0,2804-12-30 18:42:00 EST,2804-12-30 18:51:00 EST,3114,"N",54,"Nursing/Other",,"
+
+PROB: S/P AVR
+
+CV: AFIB THIS AM, CONVERTED BACK TO SR-1 AVB, PR.28. BP UP TO 140/SYS CAPTOPRIL 6.25 RESTARTED. BP TRANSIENTLY DROPPED TO 84/SYS, NO TREATMENT ORDERED.
+
+RESP: LUNGS CLEAR. O2 SATS ADEQUATE ON 2L/NP. C/DB Q 1-2HR, NONPRODUCTIVE.
+
+GU: UOP MARGINAL, LASIX X1 WITH LITTLE EFFECT.
+
+GI: C/O CONSTIPATION, MOM X1 WITH GOOD EFFECT.
+
+ENDO: BS PER FLOW SHEET.
+
+NEURO: ALERT AND ORIENTED X3.
+
+ASSESSMENT: DOING WELL
+
+PLAN: ?TRANSFER TO FLOOR IN AM
+MONITOR BS.
+",,
+5834,1845,7264,0,2804-12-31 04:32:00 EST,2804-12-31 04:41:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: A+Ox3. Pt stated that he was nervous. Pt was non-specific when asked to state why he was nervous. Son concerned about pt mental status. Stated that his father seemed a bit paranoid, delusional, and nervous @ times. Son requested to talk to Dr. [**Last Name (STitle) **]. Son able to talk to Dr. [**Last Name (STitle) **] by phone. Son stayed with pt overnight. Pt was encouraged to express any feelings of anxiety or discomfort. Pt states he feels great. Pt denied pain.
+
+CV: Stable bp/hr. 1st degree AVB.
+
+RESP: Lungs are clear. Doing IS independently when awake.
+
+GU: U/O adequate.
+
+ASSESS: Stable
+
+PLAN: Transfer to floor in the AM. 
+",,

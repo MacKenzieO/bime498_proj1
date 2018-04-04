@@ -1,0 +1,1432 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5872,19256,,,3139-12-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3139-12-10**]     Discharge Date:  [**3139-12-25**]
+
+Date of Birth:   [**3053-1-24**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  An 86-year-old Chinese male with
+a past medical history significant only of hypertension who
+presents with a 2-day history of decreased p.o. intake, the
+feeling of cold, and increased thirst but denying any pain.
+
+Beginning in August, the patient developed abdominal cramps,
+decreased appetite, intermittent low-grade temperatures,  and
+weight loss.  He denies nausea, vomiting, diarrhea,
+dysphagia, or hematemesis.  In October he was seen in a
+doctor's office with a productive cough when a thoracentesis
+was done for unknown reason.
+
+A week and a half prior to admission, the patient noted pedal
+edema.  The patient also with decreased mobility, walking
+with cane due to fatigue and shortness of breath.  He denied
+any associated chest pain, lightheadedness, headache, or back
+pain.  At the time of admission the patient was without cough
+or sick contacts.  No history of pets.  No recent travel.
+The patient just emigrated from [**Country **] within the last two
+years.
+
+PAST MEDICAL HISTORY:  Hypertension and hard of hearing.
+
+MEDICATIONS ON ADMISSION:  Norvasc, Zantac, and Tylenol.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  No alcohol.  The patient was a smoker until
+20 years ago.  The patient emigrated from southern [**Country **]
+seven years ago.  He lives with his son who still smokes, and
+the patient used to be a rice farmer.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Physical examination
+on admission revealed afebrile, vital signs were stable.  In
+general, Chinese speaking, hard of hearing male, comfortable,
+alert.  Head, eyes, ears, nose, and throat revealed
+extraocular muscles were intact.  Mucous membranes were dry.
+The oropharynx was clear.  No lesions.  Cardiovascular
+revealed irregularly irregular, a 3/6 systolic ejection
+murmur throughout the precordium with radiation to the
+axilla.  No third heart sound or fourth heart sound.  Lungs
+revealed decreased breath sounds at the bilateral bases; left
+greater than right, with associated crackles.  Also, crackles
+in the left anterior apex and dullness to percussion
+basilarly.  No E to A changes.  The abdomen was mildly
+distended, soft, tender to moderate palpation in the right
+upper quadrant, left upper quadrant, and epigastrium.  The
+liver edge was smooth.  Negative [**Doctor Last Name **] sign.  Occult-blood
+negative.  Extremities revealed ankle edema of 2 to 3+.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:  White blood cell
+count of 4, hematocrit of 33, platelets of 142 (89% polys, no
+bands, 7% lymphocytes, 2.6% monocytes, 0.9% eosinophils).
+Sodium of 129; and electrolytes were within normal limits.
+Coagulations were normal.  Liver function tests revealed ALT
+of 39, AST of 83, alkaline phosphatase of 442, amylase of 88,
+lipase of 81, total bilirubin of 1.9, LDH of 527, albumin
+of 2.7.
+
+RADIOLOGY/IMAGING:  Chest x-ray showed right lower and middle
+lobe with interstitial honeycomb pattern, right-sided
+mediastinal shift, and a left lower lobe effusion; likely
+loculated.
+
+Electrocardiogram showed wondering atrial pacemaker with a
+normal axis, small Q wave in I, V5 and V6, right
+bundle-branch block, poor R wave progression, and T wave
+inversions in V1 and V2.
+
+CT showed no definite mass and left pleural loculated
+effusion, question of left lower lobe collapse and
+adenopathy, right-sided increase in interstitial markings,
+and right pleural thickening.
+
+HOSPITAL COURSE:  On [**12-12**], the patient had nonsustained
+ventricular tachycardia on the floor and ST elevations was
+transferred to the Coronary Care Unit for acute myocardial
+infarction versus pericarditis.  An echocardiogram showed an
+ejection fraction of 25% with anterior hypokinesis, and the
+patient was started on heparin.
+
+The patient underwent cardiac catheterization on [**12-13**]
+which showed clean coronaries.  The patient became
+hypotensive and tachypneic and required intubation.  On chest
+CT a miliary pattern suspicious for tuberculosis was seen
+throughout the lungs.  The patient was started on antibiotic
+coverage for tuberculosis, per Infectious Disease, on
+isoniazid, rifampin, patient-controlled analgesia, and SM
+ethambutol.
+
+The patient underwent bronchoscopy as part of his
+tuberculosis workup which revealed [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 434**] albicans
+pneumonia with necrotic areas throughout the bronchi.  The
+patient was also started on intravenous fluconazole.  The
+patient also with an episode of DIC, and ultimately sepsis.
+The patient was also started on ceftazidime when the patient
+was unable to maintain adequate blood pressure.  It was
+believed that he was becoming septic.  Unfortunately, the
+patient then expired and resuscitation was not attempted
+since the patient was do not resuscitate/do not intubate, per
+the family's request.
+
+DATE OF EXPIRATION:  [**3139-12-25**].  The family refused
+autopsy.
+
+
+
+                         DR.[**Last Name (STitle) **],[**First Name3 (LF) 3478**] 12-462
+
+Dictated By:[**Name8 (MD) 3037**]
+
+MEDQUIST36
+
+D:  [**3140-3-7**]  17:16
+T:  [**3140-3-8**]  07:25
+JOB#:  [**Job Number 7316**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 3478**] [**Last Name (NamePattern1) **]
+ on: MON [**3140-3-11**] 4:56 PM
+(End of Report)
+
+
+",,
+5872,19256,,,3139-12-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-10**] 11:24 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 14834**]
+     Reason: eval for infiltrate, effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with weight loss, poor POs, decreased BS right base.
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 86 y/o man with weight loss, poor PO's, and decreased breath
+     sounds at the right base. Evaluate for infiltrate or effusion.
+     
+     FRONTAL & LATERAL RADIOGRAPHS OF THE CHEST were obtained. No priors are
+     available for comparison.
+     
+     There is increased density at the left base with a probable loculated pleural
+     effusion. Although the patient is slightly rotated, there appears to be shift
+     of the heart and mediastinum to the left, suggesting that the left lower lobe
+     is at least partially collapsed. The overall heart size is difficult to
+     evaluate. The aortic knob is heavily calcified. There is a diffuse
+     reticulonodular pattern throughout both lungs which is particularly dense in
+     the right lower lobe. There may be a small right pleural effusion.
+     
+     IMPRESSION:
+     1) Probable loculated pleural effusion on the left with left lower lobe
+     collapse/consolidation. An underlying mass or pneumonia cannot be excluded.
+     
+     2) Diffuse reticulonodular pattern. This appearance may be related to chronic
+     changes such as idiopathic pulmonary fibrosis. However, in the absence of
+     prior CXR for comparison, it may also represent a developing process such as
+     atypical infection vs. lymphangitic spread of neoplastic disease.
+     
+
+",,
+5872,19256,,,3139-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-11**] 9:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14836**]
+     Reason: evaulate for worsening CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; received IVF -> decreased O2 sat, worsening exam; 
+     REASON FOR THIS EXAMINATION:
+      evaulate for worsening CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  86 y/o man with decreasing O2 saturation.
+     
+     Portable AP radiograph of the chest dated [**3139-12-11**] at 10:01 am is compared with
+     AP and lateral radiographs of the chest dated [**3139-12-10**].
+     
+     There is a loculated left pleural effusion with associated consolidation/
+     collapse which has progressed somewhat in the interval.  The miliary pattern
+     throughout the right lung and in the left lung apex is not significantly
+     changed although the patchy opacity at the right base has become more
+     prominent.  The heart size is difficult to asses in the setting of the left
+     effusion.  There is probably a small right pleural effusion.
+     
+     IMPRESSION:  Progression of left lower lobe collapse/consolidation.  Large
+     loculated left pleural effusion.  Miliary nodular pattern throughout the right
+     lung and left apex and progression of right lower lobe patchy opacity.  These
+     findings are suggestive of diffuse infectious process such as tuberculosis.
+     However, underlying neoplastic process cannot be excluded.
+     
+
+",,
+5872,19256,,,3139-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-11**] 12:53 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 14835**]
+     Reason: evaluate for,   lung mass,   loculated effusion,   abdominal
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with cachexia and hypoxia.
+     REASON FOR THIS EXAMINATION:
+      evaluate for
+        lung mass
+        loculated effusion
+        abdominal mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Cachexia and hypoxia.  Evalaute for lung mass.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices through the lung bases without IV contrast.  No IV contrast was
+     administered secondary to patient's elevated creatinine.
+     
+     COMPARISON:  None.
+     
+     CHEST CT WITHOUT IV CONTRAST:  There is a moderate left-sided pleural
+     effusion, which demonstrates a small loculated component anteriorly.  A
+     component of the effusion is subpulmonic in location.  There is thickening of
+     the pleural surface on the left.  The left lower lobe is partially collapsed,
+     and there is resultant shift of the heart and mediastinum to the left.
+     
+     The heart is within normal limits.  There is a small pericardial effusion. The
+     aorta is tortuous and densely calcified at the arch.  Soft tissue windows
+     reveal a soft tissue density in the right axilla, which measures 17 mm in
+     short axis dimension.  This may represent a pathologically enlarged lymph
+     node.  There is also a prominent subcarinal lymph node, which measures 10 mm
+     in short axis dimension.
+     
+     Lung windows reveal a diffuse pattern of interstitial thickening and
+     nodularity in the right lung with a predominance in the the right lower lobe
+     posteriorly.  There is relative sparing of the right middle lobe and left
+     upper lobe, this same septal thickening and micronodular pattern is present in
+     the left apex. In addition, there is a small, thick-walled cystic lesion at
+     the left apex. There is scarring vs. atelectasis of the left upper lobe
+     anteriorly.
+     
+     The osseous structures are diffusely demineralized.  No definite destructive
+     bone lesions are seen.
+     
+     Limited evaluation of the upper abdomen reveals no gross abnormality of the
+     liver or spleen.  There is a tiny high attenuation focus in the left kidney,
+     likely representing a small nonobstructing stone. The visualized tail of the
+     pancreas is unremarkable.  There is nonspecific increased density in the
+     mesentery in the region of the stomach.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**3139-12-11**] 12:53 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 14835**]
+     Reason: evaluate for,   lung mass,   loculated effusion,   abdominal
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Partial collapse of the left lower lobe with moderate loculated left
+     pleural effusion and thickening of the left pleural surface.  No discrete mass
+     is identified.
+     
+     2. Diffuse pattern of reticulonodular opacity throughout the right lung and
+     left apex.  This appearance is concerning for an infectious process, such as
+     TB, versus a neoplastic process such as lymphangitic spread.  There may also
+     be an element of underlying chronic fibrotic change.
+
+",,
+5872,19256,,,3139-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-11**] 2:38 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 14837**]
+     Reason: HEPATOMEGALY, EVALUATE FOR LIVER PATHOLOGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive (41 kg on admission);
+      Pt with loculated L pleural effusion; Elevated LFTS and hepatomegaly on exam;
+      ?liver disease 
+     REASON FOR THIS EXAMINATION:
+      evaluate for liver pathology 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT UPPER QUADRANT ULTRASOUND
+     
+     INDICATION: Failure to thrive, evaluate for liver pathology.
+     
+     The liver demonstrates normal echogenicity without focal or textural
+     abnormalities.  There is no intra or extrahepatic ductal dilatation. The
+     gallbladder is not distended, although the wall is slightly thickened.  There
+     is ascites noted.  The pancreas is normal.  The right kidney measures 9.5 cm
+     in long axis without evidence of hydronephrosis, stones, or masses.
+     
+     IMPRESSION: 1) Normal liver.
+     
+     2) Nondistended gallbladder without cholelithiasis and slightly thickened
+     walls.  In addition a small amount of pericholecystic fluid may be
+     identified, although this may merely be ascites. If clinically indicated a
+     HIDA scan may be performed.
+
+",,
+5872,19256,,,3139-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-12**] 7:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14838**]
+     Reason: male with sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; received IVF -> decreased O2 sat, worsening exam; 
+     REASON FOR THIS EXAMINATION:
+      male with sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 86 y/o man with loculated pleural effusion and diffuse miliary
+     pattern on recent exams, now with decreasing O2 saturation.
+     
+     COMPARISON: [**3139-12-10**].
+     
+     PORTABLE AP CHEST: A pacemaker pad overlies the heart obscuring underlying
+     detail. Allowing for this, there has been a slight interval decrease in size
+     of the left pleural effusion. There remains a miliary nodular pattern
+     throughout the right lung and the left apex with a more confluent opacity at
+     the right base. The pulmonary vasculature is normal.
+     
+     IMPRESSION: Slightly decreased left pleural effusion. No evidence of
+     congestive failure.
+
+",,
+5872,19256,,,3139-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5872,19256,,0,3139-12-12 07:15:00 EST,3139-12-12 18:45:00 EST,3349,"N",54,"Nursing/Other",,"
+
+Resp Care: responded to ""cardiac arrest"" code on floor. Pt awake and spont. breathing. RR=27 bs wet bilat rales. SpO2=95% on 1.0 NRB. EKG""ischemic changes"". Pt transferrred to unit for further interventions.
+",,
+5872,19256,7312,0,3139-12-12 14:28:00 EST,3139-12-12 14:37:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: ADMITTED FROM CC7 S/P CODE..AWAKE SPEAKS NO ENGLISH..FOLLOWS COMMANDS..MP SA WITH FREQ PVC'S OCC COUPLING ON HEPARIN GTT @ 550U BP DROPPED 80/'S GIVEN 250 N/S BOLUS X1
+A: TO CATH LAB @ 1100(CLEAN CORONARIES ? LESION)..RETURNED @ 1400 RT GROIN SHEATH SITE HEMATOMA SM AMT OOZING..DOPP PULSES..IV D.45N/S @ 100CC/H X24H..HEPARIN GTT OFF..NO HUO
+R: STABLE POST CATH..CONTINUES WITH NO HUO
+  
+
+",,
+5872,19256,7312,,3139-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-13**] 5:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14840**]
+     Reason: \
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; received IVF -> decreased O2 sat, worsening exam; 
+     REASON FOR THIS EXAMINATION:
+      please assess s/p bronchoscopy changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Decreasing oxygen saturation.  Recent bronchoscopy.
+     
+     AP CHEST:  There is an endotracheal tube approximately 4 cm from the carina.
+     The right subclavian line tip is in the mid SVC.  There is an NG tube in the
+     stomach.  In the interval since the prior study, there has been partial
+     reexpansion of the left upper lobe.  Retrocardiac opacification which obscures
+     the left hemidiaphragm is consistent with persistent collapse of the left
+     lower lobe.  There is a small-to-moderate sized left pleural effusion.  The
+     lungs have an unchanged diffuse pattern of interstitial opacification.  The
+     areas of confluent air-space opacification in the right upper and lower lung
+     zones have partially cleared, consistent with improved aeration of this lung.
+     There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     1) Partial reexpansion of left upper lobe.  There is persistent collapse of
+     the left lower lobe with a small-to-moderate sized left pleural effusion.
+     
+     2) Improved aeration of right lung.
+     
+     
+     
+     
+
+",,
+5872,19256,7312,,3139-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-13**] 9:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14839**]
+     Reason: CHECK DEVELOPMENT OF EFFUSION AND INFILTRATE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; received IVF -> decreased O2 sat, worsening exam; 
+     REASON FOR THIS EXAMINATION:
+      CHECK DEVELOPMENT OF EFFUSION AND INFILTRATE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Failure to thrive with pleural effusion and increasing respiratory
+     distress and decreasing O2 saturation.
+     
+     ET tube is 1.75 cm above carina.  Since the previous film of [**3139-12-12**], there
+     has been deterioration and there is now total opacification of the left
+     hemithorax without obvious shift of heart or mediastinum to either side, and
+     this is likely due to a combination of increased pleural effusion and
+     associated collapse of left lung.  In addition, on the right side, superadded
+     to the previously demonstrated diffuse nodular pattern, there are new areas of
+     confluent air space density in the right upper and right lower zones, which
+     could be due to superadded pulmonary edema/consolidation; no pneumothorax.
+     
+     IMPRESSION:  Evidence of worsening with  total opacification of the left lung,
+     likely due to  new collapse in addition to the  pleural effusion ; no shift of
+     heart and mediastinum.  New development of confluent air space opacities in
+     the right upper and lower zones ?pulmonary edema versus inflammatory
+     consolidation superadded to the  diffuse interstitial pattern.
+
+",,
+5872,19256,7312,,3139-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-13**] 9:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14841**]
+     Reason: readjusted ETT.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; received IVF -> decreased O2 sat, worsening exam; 
+     REASON FOR THIS EXAMINATION:
+      readjusted ETT.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  AFB POSITIVE SPUTUM, RESPIRATORY DISTRESS.
+     
+     Portable AP radiograph of the chest dated [**3139-12-13**] at 9:44PM is compared with
+     portable AP chest radiograph on the same at day at 6:03PM.
+     
+     Endotracheal tube and right subclavian line remain in satisfactory position.
+     There is persistent retrocardiac opacification as well as pleural effusion
+     which is unchanged.  Diffuse miliary nodular pattern throughout the right lung
+     and left upper lobe persist.  There is no significant change in the areas of
+     confluent opacification in the right upper and right lower lobes.
+     
+     IMPRESSION:  No change since 3 1/2 hours hour.  Persistent left lower lobe
+     collapse/consolidation and left effusion.
+
+",,
+5872,19256,7312,0,3139-12-13 06:33:00 EST,3139-12-13 06:53:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+NEURO: ALERT AND ORIENTED X 2 C INTERPRETOR, ABLE TO MAE ON COMMAND, PERL, PULSES BY DOPPLER.
+CV: HYPOTENSIVE REQUIRED FOUR 250 CC BOLUS OF NS TO MAINTAIN SBP>90. PEDAL PULSES BY DOPPLER-- GROIN SITE OZZING--DRESSING CHANGED AND PRESURE APLIED, STILL OZZING.
+V-FIB RUNS AND OCC. PVC DR [**Last Name (STitle) **] [**Name (STitle) 1478**] GTT STARTED.
+RESP: SATS 90-96 C/ NON REBREATHER MASK 10 L REPOSITIONED SEVERAL TIMES TO IMPROVE SATS.
+GI/GU: HYPOACTIVE BOWEL SOUNDS-NO BM, PASSING FLATUS. FOLEY IRRIGATED FOR ANURIA IN EARLY SHIFT--LATER D/C DUE TO LEAK AROUND FOLEY--URINARY POUCH IN PLACE. INCREASED U/O (AMBER-CLEAR) DURING SHIFT.
+SKIN HEMATOMA IN GROIN AND ARMS BILATERALY DUE TO VENIPUNCTURE.
+
+PLAN: CONTINUE TO MONITOR CARDIAC AND RESPIRATORY STATUS.
+",,
+5872,19256,7312,0,3139-12-13 17:39:00 EST,3139-12-13 18:08:00 EST,3775,"N",54,"Nursing/Other","status update","
+status update
+d:  HYPOTENSIVE 80'S-63/43 DESPITE 1 LITER NS STARTED ON DOPA AT 2MCG/KG TITRATED TO MAINTAIN SBP>90  LUNGS COARSE ON R WITH SCATTERED EXP WHEEZES AND VERY DIMINISHED ON L ABSENT LOWER LOBE.  DESATURATED TO 81% WHEN HE TOOK OFF HIS OXYGEN. ABG'S 7.12 59 88 20 -11 ON 100% NON REBREATHER FOLEY REPLACED WITH MINIMAL URINE AND THEN PT VOIDED AROUND CATHETER AGAIN, UROLOGY CONSULTED.
+A:  INTUBATED #8 ETT ON 100% TV 350CC RATE 18 ABG'S 7.15 57 169 21 -9
+INCREASED TV TO 400CC AND PEEP ^7.5 BRONCHED FOR MULTIPLE MUCOUS PLUGS ON L SPECS SENT TO LAB. 
+L FEMORAL ART LINE INSERTED AND R SUBCLAVIAN TRIPLE LUMEN INSERTED
+DOPAMINE TITRATED TO MAINTAIN SBP>90  UROLOGY IN AND INSERTED #20FR CATHETER STARTED MS 4MG AND ATIVAN .5MG FOR SEDATION POST INTUBATION.
+R:  CONTINUES TO BE ACIDOTIC MOST RECENT ABG'S 7.18 52 100 20 -9 
+REQUIRING INCREASING DOSES OF DOPAMINE CURRENTLY AT 8MCG/KG ATIVAN GT OFF AND MS DECREASED TO 2MG DUE TO CONTINUED HYPOTENSION. ALSO HAVING SHORT RUNS OF VT. CCU RESIDENTS HERE AND NOTIFIED. 
+A:  RR ^22 AND TO REPEAT ABG'S CONTINUE TO TITRATE DOPA ?NA BICARB IF PH CONTINUES <7.2 MONITOR VENT ECTOPY CLOSELY ?RELATED TO ACIDOSIS 
+R: CONDITION GUARDED 
+
+
+   
+",,
+5872,19256,7312,,3139-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-14**] 6:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14842**]
+     Reason: Please assess for pulmonary edema. 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man who presents with failure to thrive; Loculated effusion on CT
+      scan; intubated. AFB positive sputum.  
+     REASON FOR THIS EXAMINATION:
+      Please assess for pulmonary edema. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Persistent respiratory distress.
+     
+     COMPARISON: [**3139-12-13**].
+     
+     PORTABLE AP CHEST: The ETT, feeding tube, and right subclavian central venous
+     catheter are unchanged. There is persistent left lower lobe
+     collapse/consolidation. There is a slightly increased pleural fluid on the
+     left. The diffuse miliary nodular pattern persists. No significant change in
+     confluent opacification of the right upper and right lower lobes.
+
+",,
+5872,19256,7312,0,3139-12-14 04:50:00 EST,3139-12-14 04:54:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. received on settings per flowsheet.  ABG's showing improved oxygenation with a partially compensated metbolic acidosis>>weaned FIO2 with good effect.  B/S with scattered rhonchi, better aeration on right, and almost absent LUL>>OET (# 8 in very small man) pulled back to 20 @ teeth.  B/S slightly better in LUL, and + CO2 detection via easy cap.  Repeat CXR pending.  Pt. remains well sedated and synchronous with mechanical ventilation.  Remains on low dose levo and continues to have periods of ectopy.  Will follow.
+",,
+5872,19256,7312,0,3139-12-14 07:48:00 EST,3139-12-14 08:06:00 EST,-1,"N",54,"Nursing/Other","NPN-SEE ICU FLOWSHEET FOR DETAILS","
+NPN-SEE ICU FLOWSHEET FOR DETAILS
+NEURO: SPEAKS NO ENGLISH. MOVES ALL EXTREMITIES ON BED. R EYE OPAQUE WITH CATARACT. R PUPIL SL REACTIVE. MSO4 GTT TO PROMOTE COMFORT AND NO NON-VERBAL INDICATIONS OF PAIN WHEN AT REST. FACIAL GRIMACE WITH REPOSITIONING.
+
+CV: AT BEGINNING OF SHIFT, ON DOPAMINE FOR B/P SUPPORT; LARGE AMOUNTS OF MULTIFOCAL ECTOPY INCLUDING PROLONGED RUNS OF SVT WITH DECREASED PERFUSION. RESIDENTS PERFORMED CAROTID MASSAGE WITH GOOD EFFECT OF BREAKING RUNS BUT RUNS RETURNED. DOPAMINE STOPPED AND LEVO STARTED FOR B/P SUPPORT. ECTOPY FREQUENCY DECREASED AND ABOUT 45 MINUTES AFTER DOPAMINE STOPPED, PATIENT WAS IN SR WITH RARE PAC. CONCERNED ABOUT RENAL IMPAIRMENT; RESIDENTS WANTED TO START DOBUTAMINE FOR B/P SUPPORT AND WEAN LEVO OFF. DOBUTAMINE WAS STARTED AND TITRATED UP BUT VENTRICULAR ECTOPY STARTED AGAIN VERY QUICKLY AND LEVO WAS NOT ABLE TO BE TITRATED. DOBUTAMINE STOPPED AND LEVO LEFT FOR B/P SUPPORT. ECTOPY AGAIN SLOWED IN FREQUENCY AND DURATION AND PATIENT RETURNED TO SR ST.
+R FEM ANGIO SITE HAS ECCYMOSIS THAT DID NOT EXPAND BEYOND PREVIOUS SHIFT MARKS AND NO HEMATOMA IS PALPABLE. PEDAL PULSES WEAKLY DOPPLED. AM HCT REPORTED TO RESIDENT AND 1 UNIT PRBC ORDERED.
+
+RESP: REMAINS ON RESP ISOLATION FOR TB. FIO2 WEANED TO 50%. BLOOD GASES IMPROVING. BREATH SOUNDS VERY DIMINISHED TO LEFT LUNG FIELDS. 
+P.O. DOES NOT PICK UP READING AT TIMES.
+
+GI: NGT CLAMPED FOR MEDS. TWO HOURS AFTER INSTILLATION, NGT DRAINAGE REMAINS ORANGE/RED FROM RIPHAMPIN. REINSTILLED AND LEFT CLAMPED FOR 2 MORE HOURS AND THEN PALCED TO SUCTION WITH CONTINUED RETURN OF ORANGE/RED SECRETIONS. RESIDENT AWARE. ABD FLAT; PATIENT APPEAR WASTED. RARE HIGH PITCHED BS.
+
+GU: FOLEY PATENT OF CLOUDY DARK YELLOW URINE IN SMALL AMOUNTS. NS BOLUS X 2 FOR U.O. OF 25 CC/HR. RESPONDED TO BOLUS WITH SL INCREASED U.O. AND IMMEDIATE RESPONSE TO IN B/P.
+",,
+5872,19256,7312,0,3139-12-14 18:52:00 EST,3139-12-14 19:04:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+NEURO: SEDATED C/ MSO4 PERL.
+CV: NSR--NO ECTOPIES DURING THE DAY NORMOTENSIVE C/ INCREASE OF LEVO AND TRANSFUSION OF 1 UNIT PRBC. NO OTHER MAINT. FLUID ORDERED. A SECOND UNIT TO BE TRANSFUSED.
+
+RESP: R LUNG CLEAR C/ DEMINISHED LUNG SOUNDS IN L LUNG. SATS 98-100.
+
+GI/GU: NG CLAMPED [**Name6 (MD) **] [**Name8 (MD) **] MD [**First Name (Titles) **] [**Last Name (Titles) 1479**] ABSORPTION OF MEDS. RESIDUAL 120CC AT 1800 AFTER 4 H OF TYLENOL NG. FOLEY PATENT AND DRAINING CLOUDY URINE.
+
+SKIN: RISK FOR PRESSURE ULCERS AIR MATRESS ORDERED. 
+
+PLAN: CONTINUE TO MONITOR MAP TO MAINTAIN >60. CONTINUE TO MONITOR FOR ECTOPY. START FEEDINGS AS TOLERATED.
+",,
+5872,19256,7312,,3139-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-15**] 3:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14843**]
+     Reason: r/o PTX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      s/p L thoracentesis
+     REASON FOR THIS EXAMINATION:
+      r/o PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Thoracentesis.
+     
+     Comparison study dated [**3139-12-14**].
+     
+     PORTABLE AP CHEST:  An ET tube remains in place currently terminating
+     approximately 8.4 cm above the carina.  Central venous catheter and NG tube
+     are in satisfactory position.
+     
+     There remains extensive volume loss in the left hemithorax. A loculated left
+     pleural fluid collection is minimally smaller and no pneumothorax is evident.
+     A diffuse miliary pattern is seen throughout the lungs, more on the right than
+     left.  Patchy superimposed alveolar opacities in right upper and lower lobes
+     appear slightly improved.
+     
+     IMPRESSION:
+     1. Slight reduction in size of loculated left pleural effusion with no
+     evidence of pneumothorax.
+     2. Diffuse miliary pattern suspicious for tuberculosis.
+     3. Superimposed patchy alveolar opacities in right lung are slightly improved.
+     4. Proximal location of ET tube terminating slightly greater than 8 cm above
+     the carina.
+
+",,
+5872,19256,7312,0,3139-12-15 04:40:00 EST,3139-12-15 04:42:00 EST,3168,"N",54,"Nursing/Other",,"
+
+resp care
+
+pt remains intubated and mech ventilated.  a/c 430/22/7.5/50%.  rr dec from 24 secondary to paco2 of 29.  most recent abg  7.34/32/189/18.  b/s cl/dim.  sxn for no secretions.  plan: continue w/mech support.    
+",,
+5872,19256,7312,0,3139-12-15 05:11:00 EST,3139-12-15 05:21:00 EST,-1,"N",54,"Nursing/Other","NPN-CONDITION SUMMARY. SEE ICU FLOWSHEET","
+NPN-CONDITION SUMMARY. SEE ICU FLOWSHEET
+NEURO: MORE RESPONSIVE AND OPENS EYES AND REACHES OUT DURING CARES. NON VERBAL EMOTIONAL SUPPORT PROVIDED DUE TO LANGUAGE BARRIER. R PUPIL GLAZED WITH CATARACT. MOVES ALL EXTREMITIES. UNBALE TO REQUEST A COMMAND TO FOLLOW. INCREASED MSO4 TO 5 MG/HR AND PLAN TO RESTART ATIVAN WHEN IT ARRIVES TO THE FLOOR.
+
+CV: AT BEGINNING OF SHIFT, MONITOR SR. RHYTHM CHANGED TO WAP/SINUS ARRYTHMIA. RESIDENTS HERE AND NOTIFIED. THEN VENT RATE SLOWED AND WAS OBTAINING ECG WHEN RHYTHM CHNAGED TO A FIB WITH A SLOW VENT RATE OF HIGH 50'S TO MID 60'S. RESIDENTS NOTIFIED AND NO NEW ORDERS RECEIVED. ABLE TO WEAN LEVO A BIT. GENERALIZED PITTING EDEMA THROUGHOUT WITH WEEPING OF PINK SEROUS DRAINAGE FROM LINE PUNCTURE SITES.
+
+RESP: BLOOG GASES IMPROVING. IMV RATE DROPPED TO 22 DUE TO DROP IN CO2. NO SECRETIONS WHEN SUCTIONED. PO 99-100%. 
+
+GI: ABD TAUNT WITH RARE BS. NGT CLAMPED WITH MEDS. TF STARTED AFTER FURTHER DISCUSSION WITH RESIDENTS. RESIDUALS BEING MONITORED CLOSELY. PLAN TO START TPN TODAY.
+
+GU: FOLEY PATENT OF CLOUDY AMBER URINE IN MARGINAL AMOUNTS. RESIDENTS AWARE.
+",,
+5872,19256,7312,0,3139-12-15 19:00:00 EST,3139-12-15 19:18:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+NEURO: SEDATED C/ MSO4 AND ATIVAN
+CV: AFIB INAM C/ EPISODES OF DEEP BRADYCARDIA-CHANGED TO SINUS ARRTH, SINUS BRADY C/ RARE TO FREQUENT PVC'S DR [**Last Name (STitle) **] AWARE CLOSE MONITORING OF ARRYTHMIAS. FINALLY NSR.
+RESP: LEFT LUNG DEMINISHED SOUNDS-R LUNG CLEAR SOUNDS. THORACENTESIS DONE W/ REMOVAL OF APPROX. 300 ML OF PLEURAL FLUID. X-RAY DONE RESULTS PENDING.
+SKIN: ECHYMOTIC AND OZZING THID SPACE FLUID FROM PUNCTURES AND A-LINE. PNEUMO BOOTS AND AIR MATTRESS FOR SKIN INTEGRITY.
+GI/GU. HYPOACTIVE BOWEL SOUNDS FEEDINGS STOPPED DUE TO INCREASED RESIDUALS. FEEDING CHANGED TO VIVONEX. FOLEY CATH PATENT MARGINAL AMOUNT OF U/O.
+SOCIAL: FAMILY MEETING C/ MEDICAL GROUP --MR. [**Known patient lastname **] MADE DNR.
+
+PLAN CONTINUE TO MONITOR FOR CHANGE OF CARDIAC STATUS, OPTIMIZE COMFORT LEVEL. 
+",,
+5872,19256,7312,,3139-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-16**] 8:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14844**]
+     Reason: check progression of effusion, r/o PTX, and check ET placeme
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      s/p L thoracentesis w/ replacement of ET
+     REASON FOR THIS EXAMINATION:
+      check progression of effusion, r/o PTX, and check ET placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Check ET tube placement and progression of effusion. Rule out
+     pneumothorax.
+     
+     Chest, single view.
+     
+     ET tube tip lies in satisfactory position 4.8 cm above the carina. An NG tube
+     is present, tip beneath diaphragm off film. A right subclavian central line is
+     present, tip in proximal SVC. Allowing for differences in positioning, the
+     pulmonary findings are unchanged. Again seen is a left pleural effusion,
+     possibly loculated, with underlying collapse and/or consolidation. Also again
+     seen is a fine reticular increased interstitial pattern in the right lung,
+     more pronounced at the right base peripherally. No right sided effusion. Doubt
+     overt CHF. Patient rotation makes it difficult to assess for left sided volume
+     loss, but I doubt interval change. Probable slight loss of height of several
+     mid thoracic vertebral bodies.
+     
+
+",,
+5872,19256,7312,0,3139-12-16 00:44:00 EST,3139-12-16 00:49:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO;  NON-RESPONSIVE TO VERBAL OR TACTILE STIMULATION, REMAINS ON ATIVAN GTT AT 0.25 MGM/HR, AND MORPHINE GTT AT 3 MGM/HR, RT PUPIL HAS OPACITY OF LENS-NOT ABLE TO ASSESS, LEFT PUPIL VERY SLUGGISH, ? REACTING, 
+
+CARDIOVASCULAR;  OOZING MODER LIGHT SERO-SANGE DGE FROM RT FEMORAL AND LEFT FEMORAL AREA, AND SMALLER AMT FROM THORACENTESIS SITE LEFT LATERAL CHEST, DR. [**Last Name (STitle) **] [**Name (STitle) **], ON LEVO AT 0.3 MCG/KG/MIN WITH SYS 120'S-130, ATTEMPTED TO DECRESE LEVO TO 0.25 MCG/KG/MIN BUT SYS DOWN TO 100, MD UPDATED, AND LEVO PRESENTLY AT 0.3 MCG/KG/MIN
+
+RESPIR;  PT RE-INTUBATED, ? PERSISTENT CUFF LEAK, ANESTHESIOLOGIST IN AND ET TUBE FOUND TO BE ALMOST OUT, REPLACED WITH NEW #8, 02 SATS 100%, SUCTIONED FOR SMALL AMTS THIN WHITE SECRETIONS,NO GAG REFLEX
+
+GI TUBE FEEDS RESTARTED AT 10CC/HR, 
+",,
+5872,19256,7312,0,3139-12-16 16:53:00 EST,3139-12-16 16:59:00 EST,3423,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+   PATIENT CONTS ON ATIVAN/MS04 DRIPS FOR COMFORT. AND LEVOFED DRIP TO MAINTAIN B/P. ANY ATTEMPT TO WEAN PT DROPS HIS B/P.
+    DID NOT TOLERATE TUBE FEEDS STARTED ON TPN THIS EVE. NO BOWEL SOUNDS NO BM MDS AWARE.
+    VENT SETTINGS UNCHANGED EXCEPT FI02 NOW 40% BLOOD GAS REMAINS THE SAME. MD AWARE. 
+     PATIENT DRAINING COPIOUS AMOUNTS FROM FEMEROL SITES AND TAP SITE DRESSINGS CHANGED MANY TIMES.
+      CONTINUE TO MONITOR ALL PARAMETERS
+",,
+5872,19256,7312,,3139-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-17**] 11:13 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14845**]
+     Reason: 86 yo unit patient ,intubated, with disseminated TB, inabili
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with 
+     REASON FOR THIS EXAMINATION:
+      86 yo unit patient ,intubated, with disseminated TB, inability to tolerate tube
+      feeds, no bs. Please evaluate for obstruction/ileus 
+      THank [**Doctor First Name 659**]
+      [**First Name4 (NamePattern1) 7374**] [**Last Name (NamePattern1) 14846**] (95655)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Inability to tolerate tube feeds. To evaluate for obstruction.
+     
+     NG tube is in body of stomach. Distribution of bowel gas is unremarkable and
+     there is no evidence for intestinal obstruction. Vascular catheter overlies
+     left iliac vessel.
+
+",,
+5872,19256,7312,0,3139-12-17 05:18:00 EST,3139-12-17 05:21:00 EST,3508,"N",54,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Vent Settings A/C 430 * 22 40% and 5 peep. Breath sounds are coarse at times. # 8 ETT taped and secured at 24cm. ABG with an acidosis. (7.30/36/99/18/-7). Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation.
+",,
+5872,19256,7312,0,3139-12-17 06:43:00 EST,3139-12-17 06:55:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT VSS, HYPOTHERMIC.  VENT PER RESP SHEET AND NOTES.  OCC SXN FOR THICK YELLLW GREEN SPUTUM.  LUNGS CLEAR/COARSE.  NG TO LWS.  HUO'S TRENDING UPWARD.  CONT TO OOZE COPIOUS AMTS SEROSANG. FLUID FROM ALL PUNCTURE SITES.
+",,
+5872,19256,7312,0,3139-12-17 16:30:00 EST,3139-12-17 16:34:00 EST,3423,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+   PATIENT CONTS ON ATIVAN/LEVO DRIPS WAS ABLE TO WEAN OFF MS04. NO VENT CHANGES THIS SHIFT. GOOD U/O. 
+    PATIENT STILL CONTINUES TO OOZE LARGE COPIOUS AMTS FROM ALL PUNCTURE SITES.
+     NO CHEST TUBE PER PULMONARY. NGT TO LWS. TPN AS ORDERED
+ FAMILY IN TO VISIT.
+       CONTINUE TO MONITOR ALL PARAMETERS.  
+",,
+5872,19256,7312,0,3139-12-17 22:00:00 EST,3139-12-17 22:55:00 EST,3062,"N",54,"Nursing/Other",,"
+
+PT REMIANS ON ATIVAN AT LOW DOSE. NO SPONTANOUES MOVEMENT NOTED FROM EXTREMTIES. PT REMAINS ON AC CONTROL, RATE 22, RESP. ABG DONE 7.40/30/112/19 DR. [**Last Name (STitle) **] AWARE. GI: PT CONTINUES ON HYERAL. GU: PT MAKING ADQUETE AMT OF URINE PER  HOUR. SKIN. RIGHT GRION SITE WITH OSTOMY BAG ON DRAINING SEROSANGIOUS DRAINAGE. LEFT GRION SITE DSD CHANGED FOR SEROUS DRAINAGE. LEFT ARM LG AMT OF SEROUS DRAINAGE WRAPPED WITH SOFT SORBS AND ELEVATED ARMS ON PILLOW. RIGHT ARM ALSO DRIANING S/S DRAINAGE.
+",,
+5872,19256,7312,,3139-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-18**] 7:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14847**]
+     Reason: r/o hemorrhage and check progression of effusion. check line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  TB.  Left effusion.
+     
+     COMPARISON:  [**3139-12-16**].
+     
+     PORTABLE AP SUPINE CHEST:  The ETT, right subclavian central venous catheter
+     and NGT are unchanged.  There is no significant change in the left pleural
+     effusion and underlying collapse/consolidation.  The nodular pattern in the
+     right lung is unchanged as well.  There is no pneumothorax.
+     
+     IMPRESSION:  No significant change in left effusion and associated
+     atelectasis/consolidation.  Persistent diffuse miliary nodular pattern
+     consistent with TB. 
+
+",,
+5872,19256,7312,0,3139-12-18 04:27:00 EST,3139-12-18 04:29:00 EST,3806,"N",54,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+Pt. remains on unchanged A/C settings.  ABG's are well oxygenated with a fully compensated metabolic acidosis.  B/S essentially CTA.  ETS for scant to small amounts, of thick, tan.  # 8 OET patent/re-secured at 23 at lip.  Pt. continues on RX for miliary TB and [**Female First Name (un) 1368**] pneumonia.  Will continue full support as indicated.
+",,
+5872,19256,7312,0,3139-12-18 06:41:00 EST,3139-12-18 06:51:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT NONRESPONSIVE EARLY IN SHIFT NOW MOVING BILAT ARMS AND GRIMACING AS WELL AS EYE OPENING WITH STIMULATION SUCH AS TURNING. NOT FOLLOWING COMMANDS. EPISODE OF SINUS TACHYCARDIA TO 143 WITH HYPOTENSION TO 80'S. EKG OBTAINED AND CCU TEAM CALLED TO EVALUATE. PT. WAS BOLUSED WITH NS X2 AND LEVO DRIP D/C'D PER CCU. ONE FURTHER EPISODE OF MAP<60 TREATED WITH NS BOLUS X1. NOW MAINTAINING ADEQUATE BP. CONTINUES ON AC VENT RATE OF 22. NO SECRETIONS. LUNGS CLEAR W/DIMINISHED SOUNDS LLL. L CHEST PUNCTURE SITE WITH SEROUS OOZING. L FEM ALINE WITH SEROUS OOZING. BILAT ARMS WITH FRAGILE LEAKY SKIN. 
+
+PLAN:
+CONT TO MONITOR. MAINATIN MAP>60.
+",,
+5872,19256,7312,0,3139-12-18 16:07:00 EST,3139-12-18 16:36:00 EST,-1,"N",54,"Nursing/Other","FOCUS; STATUS UPDATE","
+FOCUS; STATUS UPDATE
+NEURO: RESPONSIVE TO NOXIOUS STIMULI DOES NOT OPEN HIS EYES. DOES NOT FOLLOW COMMANDS OR MOVE EXTREMITIES. L PUPIL REACTIVE TO LIGHT--R PUPIL UNABLE TO EVAL DUE TO CATHARACTS.
+
+CV: NSR, HYPOTENSIVE SBP IN 80'S DR [**Last Name (STitle) **] [**Name (STitle) 1480**] TO MAINTAIN MAP >60. I UNIT OF PRBC AND A BOLUS OF 250 ML NS C/ LIMITED RESULT IN BP. 
+
+RESP: R LUNG CLEAR LUNG SOUNDS, LUL CLEAR--LLL DEMINISHED. NO VENT CHANGES--SMALL LEAK IN T TUBE--1 ML AIRE ADDED TO T TUBE CUFF C/ GOOD RESULT.
+
+GI/GU: ABSENT BOWEL SOUNDS, NG CLAMPPED, NO BM OR FLATTUS. FOLEY CATH. PATENT DRAINING AMBER URINE C/ SEDIMENT.
+
+SKIN: HANDS BILATRALLY OZZING LESS. GROIN OZZING MEDIUM L SIDE-- LARGE AMOUNTS IN R SIDE. URINE AND GROIN FLUIDS SENT FOR CX AND LYTES STUDIES.
+
+**DNR ORDERS SPECIFIED IN CHART---NO COMPRESIONS AND NO CV ELECTRICAL TREATMENT**
+
+PLAN: CONTINUE TO MONITOR--MAINTAIN MAP >60.
+",,
+5872,19256,7312,0,3139-12-18 19:37:00 EST,3139-12-18 19:40:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient remains on isolalation precaution, suctioned for moderate amount of brown sputum.DNR labile BP on A/C 430-22-.40-5p . ABG 7.36-35-116-21-98% will continue to follow.
+",,
+5872,19256,7312,,3139-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with miliary TB, palpable abdominal mass, rising bilirubin,
+      diffuse lymphadenopathy
+     REASON FOR THIS EXAMINATION:
+      R/o retroperitoneal bleed, abdominal mass, evaluate bowel for possible
+      obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  86 year old male with TB, palpable abdominal mass, rising
+     bilirubin, diffuse lymphadenopathy.  Rule out retroperitoneal bleed, abdominal
+     mass, evaluate for possible obstruction.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the symphysis pubis after administration of 100 cc of Optiray.  Nonionic
+     contrast used secondary to elevated creatinine.  Multiple reformations were
+     performed.
+     
+     COMPARISONS:  [**3139-12-11**].
+     
+     FINDINGS:
+     
+     CT CHEST WITH CONTRAST: There is a stable appearance of the moderate left
+     sided pleural effusion with a small loculated component.  There is pleural
+     thickening on the left which is not significantly changed. A new right sided
+     effusion is present.  The reticular nodular pattern at the right base appears
+     slightly worse on the current exam.  An endotracheal tube has been placed in
+     the interval.  The heart and great vessels appear normal.  There is no
+     mediastinal, hilar or axillary adenopathy.
+     
+     CT ABDOMEN WITH CONTRAST:  There are multiple small foci of low attenuation
+     within the liver and spleen.  These are too small to further characterize but
+     likely represent simple cysts.  The liver and spleen are otherwise
+     unremarkable.  The gallbladder, pancreas, and adrenals appear normal.  There
+     are multiple simple cysts within both kidneys.  No mesenteric or
+     retroperitoneal adenopathy is appreciated.  There has been interval
+     development of ascites throughout the abdomen.  The fluid has low attenuation
+     and is characteristic of simple fluid and not blood.  No free air is
+     identified within the abdomen.
+     
+     CT PELVIS WITH CONTRAST:  There is fluid tracking into the pelvis which is of
+     low attenuation and characteristic of simple fluid.  The opacified loops of
+     large and small bowel appear unremarkable.  The distal ureters and bladder
+     appear normal.  There is no pelvic lymphadenopathy.
+     
+     Bone windows demonstrates a compression fracture of the vertebral body of L3.
+     The above findings were confirmed with multiple reformations.
+     
+                                                                 (Over)
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Stable appearance of moderate loculated left pleural effusion and
+     thickening of the left pleural surface.
+     
+     2.  Interval development of moderate right sided pleural effusion.
+     
+     3.  Increased prominence of reticular nodular opacity most prominent at the
+     right lung base.  This is concerning for an infectious process and may also
+     represent a neoplastic process such as lymphangitic spread.
+     
+     4.  Interval development of ascites in the abdomen and pelvis.
+     
+     5.  Compression fracture of the L3 vertebral body.
+     
+     
+     
+     
+
+",,
+5872,19256,7312,,3139-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with miliary TB, palpable abdominal mass, rising bilirubin,
+      diffuse lymphadenopathy
+     REASON FOR THIS EXAMINATION:
+      R/o retroperitoneal bleed, abdominal mass, evaluate bowel for possible
+      obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  86 year old male with TB, palpable abdominal mass, rising
+     bilirubin, diffuse lymphadenopathy.  Rule out retroperitoneal bleed, abdominal
+     mass, evaluate for possible obstruction.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the symphysis pubis after administration of 100 cc of Optiray.  Nonionic
+     contrast used secondary to elevated creatinine.  Multiple reformations were
+     performed.
+     
+     COMPARISONS:  [**3139-12-11**].
+     
+     FINDINGS:
+     
+     CT CHEST WITH CONTRAST: There is a stable appearance of the moderate left
+     sided pleural effusion with a small loculated component.  There is pleural
+     thickening on the left which is not significantly changed. A new right sided
+     effusion is present.  The reticular nodular pattern at the right base appears
+     slightly worse on the current exam.  An endotracheal tube has been placed in
+     the interval.  The heart and great vessels appear normal.  There is no
+     mediastinal, hilar or axillary adenopathy.
+     
+     CT ABDOMEN WITH CONTRAST:  There are multiple small foci of low attenuation
+     within the liver and spleen.  These are too small to further characterize but
+     likely represent simple cysts.  The liver and spleen are otherwise
+     unremarkable.  The gallbladder, pancreas, and adrenals appear normal.  There
+     are multiple simple cysts within both kidneys.  No mesenteric or
+     retroperitoneal adenopathy is appreciated.  There has been interval
+     development of ascites throughout the abdomen.  The fluid has low attenuation
+     and is characteristic of simple fluid and not blood.  No free air is
+     identified within the abdomen.
+     
+     CT PELVIS WITH CONTRAST:  There is fluid tracking into the pelvis which is of
+     low attenuation and characteristic of simple fluid.  The opacified loops of
+     large and small bowel appear unremarkable.  The distal ureters and bladder
+     appear normal.  There is no pelvic lymphadenopathy.
+     
+     Bone windows demonstrates a compression fracture of the vertebral body of L3.
+     The above findings were confirmed with multiple reformations.
+     
+                                                                 (Over)
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Stable appearance of moderate loculated left pleural effusion and
+     thickening of the left pleural surface.
+     
+     2.  Interval development of moderate right sided pleural effusion.
+     
+     3.  Increased prominence of reticular nodular opacity most prominent at the
+     right lung base.  This is concerning for an infectious process and may also
+     represent a neoplastic process such as lymphangitic spread.
+     
+     4.  Interval development of ascites in the abdomen and pelvis.
+     
+     5.  Compression fracture of the L3 vertebral body.
+     
+     
+     
+     
+
+",,
+5872,19256,7312,,3139-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with miliary TB, palpable abdominal mass, rising bilirubin,
+      diffuse lymphadenopathy
+     REASON FOR THIS EXAMINATION:
+      R/o retroperitoneal bleed, abdominal mass, evaluate bowel for possible
+      obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  86 year old male with TB, palpable abdominal mass, rising
+     bilirubin, diffuse lymphadenopathy.  Rule out retroperitoneal bleed, abdominal
+     mass, evaluate for possible obstruction.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the symphysis pubis after administration of 100 cc of Optiray.  Nonionic
+     contrast used secondary to elevated creatinine.  Multiple reformations were
+     performed.
+     
+     COMPARISONS:  [**3139-12-11**].
+     
+     FINDINGS:
+     
+     CT CHEST WITH CONTRAST: There is a stable appearance of the moderate left
+     sided pleural effusion with a small loculated component.  There is pleural
+     thickening on the left which is not significantly changed. A new right sided
+     effusion is present.  The reticular nodular pattern at the right base appears
+     slightly worse on the current exam.  An endotracheal tube has been placed in
+     the interval.  The heart and great vessels appear normal.  There is no
+     mediastinal, hilar or axillary adenopathy.
+     
+     CT ABDOMEN WITH CONTRAST:  There are multiple small foci of low attenuation
+     within the liver and spleen.  These are too small to further characterize but
+     likely represent simple cysts.  The liver and spleen are otherwise
+     unremarkable.  The gallbladder, pancreas, and adrenals appear normal.  There
+     are multiple simple cysts within both kidneys.  No mesenteric or
+     retroperitoneal adenopathy is appreciated.  There has been interval
+     development of ascites throughout the abdomen.  The fluid has low attenuation
+     and is characteristic of simple fluid and not blood.  No free air is
+     identified within the abdomen.
+     
+     CT PELVIS WITH CONTRAST:  There is fluid tracking into the pelvis which is of
+     low attenuation and characteristic of simple fluid.  The opacified loops of
+     large and small bowel appear unremarkable.  The distal ureters and bladder
+     appear normal.  There is no pelvic lymphadenopathy.
+     
+     Bone windows demonstrates a compression fracture of the vertebral body of L3.
+     The above findings were confirmed with multiple reformations.
+     
+                                                                 (Over)
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Stable appearance of moderate loculated left pleural effusion and
+     thickening of the left pleural surface.
+     
+     2.  Interval development of moderate right sided pleural effusion.
+     
+     3.  Increased prominence of reticular nodular opacity most prominent at the
+     right lung base.  This is concerning for an infectious process and may also
+     represent a neoplastic process such as lymphangitic spread.
+     
+     4.  Interval development of ascites in the abdomen and pelvis.
+     
+     5.  Compression fracture of the L3 vertebral body.
+     
+     
+     
+     
+
+",,
+5872,19256,7312,,3139-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with miliary TB, palpable abdominal mass, rising bilirubin,
+      diffuse lymphadenopathy
+     REASON FOR THIS EXAMINATION:
+      R/o retroperitoneal bleed, abdominal mass, evaluate bowel for possible
+      obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  86 year old male with TB, palpable abdominal mass, rising
+     bilirubin, diffuse lymphadenopathy.  Rule out retroperitoneal bleed, abdominal
+     mass, evaluate for possible obstruction.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the symphysis pubis after administration of 100 cc of Optiray.  Nonionic
+     contrast used secondary to elevated creatinine.  Multiple reformations were
+     performed.
+     
+     COMPARISONS:  [**3139-12-11**].
+     
+     FINDINGS:
+     
+     CT CHEST WITH CONTRAST: There is a stable appearance of the moderate left
+     sided pleural effusion with a small loculated component.  There is pleural
+     thickening on the left which is not significantly changed. A new right sided
+     effusion is present.  The reticular nodular pattern at the right base appears
+     slightly worse on the current exam.  An endotracheal tube has been placed in
+     the interval.  The heart and great vessels appear normal.  There is no
+     mediastinal, hilar or axillary adenopathy.
+     
+     CT ABDOMEN WITH CONTRAST:  There are multiple small foci of low attenuation
+     within the liver and spleen.  These are too small to further characterize but
+     likely represent simple cysts.  The liver and spleen are otherwise
+     unremarkable.  The gallbladder, pancreas, and adrenals appear normal.  There
+     are multiple simple cysts within both kidneys.  No mesenteric or
+     retroperitoneal adenopathy is appreciated.  There has been interval
+     development of ascites throughout the abdomen.  The fluid has low attenuation
+     and is characteristic of simple fluid and not blood.  No free air is
+     identified within the abdomen.
+     
+     CT PELVIS WITH CONTRAST:  There is fluid tracking into the pelvis which is of
+     low attenuation and characteristic of simple fluid.  The opacified loops of
+     large and small bowel appear unremarkable.  The distal ureters and bladder
+     appear normal.  There is no pelvic lymphadenopathy.
+     
+     Bone windows demonstrates a compression fracture of the vertebral body of L3.
+     The above findings were confirmed with multiple reformations.
+     
+                                                                 (Over)
+
+     DATE: [**3139-12-19**] 3:39 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 14848**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: R/o retroperitoneal bleed, abdominal mass, evaluate bowel fo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Stable appearance of moderate loculated left pleural effusion and
+     thickening of the left pleural surface.
+     
+     2.  Interval development of moderate right sided pleural effusion.
+     
+     3.  Increased prominence of reticular nodular opacity most prominent at the
+     right lung base.  This is concerning for an infectious process and may also
+     represent a neoplastic process such as lymphangitic spread.
+     
+     4.  Interval development of ascites in the abdomen and pelvis.
+     
+     5.  Compression fracture of the L3 vertebral body.
+     
+     
+     
+     
+
+",,
+5872,19256,7312,0,3139-12-19 14:39:00 EST,3139-12-19 15:05:00 EST,3556,"N",54,"Nursing/Other",,"
+
+NEURO :OPENS EYES AND MAKES FACIAL GRIMACES WHEN TURNING .APPEARS TO REACT TO NOXIOUS STIMULI ATIVAN WAS INCREASED FOR COMFORT.RIGHT EYE IS OPAQUE,LEFT PUPIL REACTS TO LIGHT.DOES NOT FOLLOW COMMANDS.
+
+CV:REMAINS IN NSR WITHOUT ECTOPY WITH STABLE BP.MAP HAS BEEN GREATER THAN 60.
+
+GI:OGT TO LCS DRAINING BILIOUS DRAINAGE,PLACEMENT CHECKED BY AIR.ABD DISTENED,HAS POSITIVE BOWEL SOUNDS PRESENT. PH IS 5 NGT DRAINAGE WAS HEME NEG.HAD 2 BOTTLES OF READI CAT,AS PREP FOR ABD CT.NO STOOL TODAY.
+
+GU:FOLEY TO CD DRAINING AMBER URINE WITH SEDIMENT,OUTPUTS HAVE BEEN QS.
+
+RESP:REMAINS INTUBATED ON VENT WITH 5CM PEEP AND NO PRESSURE SUPPORT.SUCTIONED FOR SMALL AMOUNTS OF TAN SECRETIONS.BREATH SOUNDS ARE CLEAR.ABGS DRAWN AND REVIWED BY CCU TEAM.
+
+ACCESS:HAS RSC TRIPLE AND LEFT FEMORAL ALINE.TPN INFUSING AND ATIVAN GTT.
+
+SKIN:HAS GENERALIZED PERIPHERAL EDEMA.OOZING AMBER FLUID FROM RIGHT FEMORAL SITE LEFT FEMORAL SITE AND LEFT UPPER QUADRANT DSG.ALL DSG HAVE BEEN CHANGED.COCCYX IS PINK WITH SLIGHT OPENING.DUODERM APPLIED.
+
+SOCIAL:FAMILY HAS BEEN IN TO VISIT .TRANSLATOR HAS COME TO TALK WITH THEM.THEY HAVE BEEN UPDATED.FAMILY HAS GIVEN PERMISSION TO BREAK BRACELET ON LEFT ARM IF NEEDED.
+",,
+5872,19256,7312,0,3139-12-20 03:29:00 EST,3139-12-20 03:31:00 EST,3806,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. remains on unchnaged A/C vent settings.  SPO2 mid to high 90's this shift.  B/S scattered course>>ETS for moderate, thick, tan secretions.   Results of ABD/Chest CT pending.  Will continue present level of support as indicated.
+",,
+5872,19256,7312,0,3139-12-20 06:08:00 EST,3139-12-20 06:20:00 EST,3324,"N",54,"Nursing/Other",,"
+
+ALT IN CO:  T 96.4-97 AX. HR 61-114 SR, NO ECTOPY NOTED. SBP=92-165. CVP=[**3-13**]. IV TPN AT 50CC/H. IV ATIVAN DRIP FROM 1MG TO 3MG/HR FOR COMFORT.  PLT CT=22 GIVEN 6U PLTS,REPEAT PLT CT=58. HCT=26.8, GIVEN 2U PRBC'S WITH 20MG IV LASIX AFTER 1ST UNIT. HCT AFTER 1ST UNIT=[**Unit Number 1481**].7. PT RECEIVED SEVERAL FLUID BOLUSES YESTERDAY FOR LOW BP'S. AFTER 1ST UNIT BLOOD HR=114 ST,SBP UPTO 165 BY ALINE AND CUFF. SATS 94%, FROTHY REDDISH SPUTUM,LUNG SOUNDS VERY COARSE WITH SOME TACHYPNEA BEFORE LASIX. U/O=395CC FIRST HOUR AFTER LASIX AND VS AND BREATHING BETTER. BUT PH=7.26. ALT IN RESP STATUS:  ON AC10 TV 430 FIO2 40% PEEP5. SUCTIONED FOR DARK BROWN SPUTUM TO FROTHY REDDISH SPUTUM. SOME TACHYPNEA AS NOTED IMPROVED WITH LASIX. SATS MOSTLY 98-100%. ALT IN NUTRITION:  TF VIVONEX AT 10CC/H ATTEMPTED BUT RESIDUAL WAS 250CC, THEREFORE TF ON HOLD.  ALT IN ELIMINATION: U/O=60-125CC/H MOSTLY. DRAINED 350 FROM RT GROIN BAG ON OLD SHEATH SITE SEROUS FLUID. BOTH ARMS SOAKING BEDX3,OOZING FROM LEFT FLANK,RT GROIN,AND MLC SITE ALSO. INCONTINENT LOOSE BROWN STOOL,GUAIAC+.FECAL BAG PLACED. ALT IN SKIN INTEGRITY: COCCYX PINK WITH PINHOLE OPENING-DUODERM APPLIED. NO OTHER OPENINGS JUST DRAINING AREAS. ALT IN NEURO STATUS: PT OPENS EYES SLIGHTLY. GRIMACES ON OCCASION. MOVED BOTH LEGS AND LEFT ARM ON BED AT TIMES, NO MOVEMENT NOTED OF RT ARM. DOES NOT FOLLOW COMMANDS OR ACKNOWLEDGE YOUR PRESENCE. DIC SCREEN SENT. PT IS DNR.
+",,
+5872,19256,7312,0,3139-12-20 14:14:00 EST,3139-12-20 14:25:00 EST,3209,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+RESP---TO CHECK ABG. LUNGS COARSE BILATERALLY. SAO2 ON 40% 100%. FULLY VENTED ON CMV 40% X 450 X 22. SX Q2 HRS FOR THICK TAN BLOOD TINGED SPUTUM.
+
+CARDIAC--AFEBRILE. BP 88-130/40-50. HR 80'S SR WITHOUT ECTOPY. CVP-6. REMAINS ON ATIVAN GTT AT 3MG HR. 2ND UNIT OF PRBC FINISHED AT 0830.
+
+SKIN--OOZING FROM EVERYWHERE. BILATERAL ARMS OOZING SEROUS DRAINAGE IN COPIOUS AMTS. PADS CHANGED Q2HR FOR ABSORPTION. R ANGIO FROIN SITE DRAINED 200 CC SEROUS DRAINAGE FROM COLLECTION BAG. L CHEST DRAINED ~50 CC SEROUS + AMT IN SHEETS, L ART LINE SITE OOZING COPIOUS AMTS DESPITE KALSTAT APPLIED AND DRESSING CHANGED X2.  BUTTOCKS WITH DUODERM INTACT. FEET ARE RUDDY IN APPEARANCE. SKIN IS LIKE TISSUE PAPER.
+
+ENDO--UNREMARKABLE AT PRESENT.
+
+NEURO--DOES NOT FOLLOW COMMANDS. WITHDRAWS FROM NOXIOUS STIMULI. DOES NOT OPEN EYES. NO SPONTANEOUS MOVEMENT OF EXTREMITIES.
+
+GI--NGT CLAMPED. TUBE FEEDS OFF SINCE THE NIGHT. REMAINS WITH 200 CC OF GASTRIC RESIDUALS DESPITE OFF OF TUBE FEEDS. DID NOT RESTART TUBE FEEDS. SMEARING OF STOOL THIS SHIFT. RECEIVING TPN.
+
+GU--FOLEY CATH DRAINING >50 CC HR OF BILIOUS AMBER URINE.
+IT IS CLEAR.
+
+COPING--[**Name6 (MD) **] TB RN HAS PHONED. SHE HAS BEEN UNABLE TO GET IN CONTACT WITH FAMILY TO SCREEN THEM FOR TB. NO ONE HAS PHONED OR VISITED AT THIS TIME.
+
+A---OOZING FROM EVERYWHERE. CRITICAL BUT STABLE AT THIS TIME.
+
+P--PT IS DNR. CON'T TO MONITOR. CHECK RESULTS OF ABG AND POST TX HCT. TURN AND POSITION Q2 HRS. 
+",,
+5872,19256,7312,0,3139-12-20 15:38:00 EST,3139-12-20 15:39:00 EST,3209,"N",54,"Nursing/Other","addendum to note","
+addendum to note
+l femoral art line d/ced at 1510. pressure held for 15 min. no hematoma, no bloody ooze although oozing serous drainage from art line suture sites.
+",,
+5872,19256,7312,0,3139-12-21 05:27:00 EST,3139-12-21 05:30:00 EST,3311,"N",54,"Nursing/Other",,"
+
+RESP CARE
+PT remains intubated and ventilated with the following settings A/C 430x22 40% 5peep. No vent changes needed this shift. Will follow as needed.
+",,
+5872,19256,7312,0,3139-12-21 05:44:00 EST,3139-12-21 05:55:00 EST,3424,"N",54,"Nursing/Other",,"
+
+[**Date range (1) 1482**], ""B"", 0500
+
+Neuro: Ativan weaned to 1.5mg/hr, now off. No significant change in mental status. 
+
+CV: HR 80's, NSR, no ectopy. BP 85-130/40-60 via right cuff. CVP 4-8. IVF NS at 100cc/hr infusing as ordered.  
+
+Resp: Remains orally intubated. Symmetrical chest expansion and aeration. Lung sounds coarse in bases otherwise CTA.  Sxn''d q2-3 hours for thin, brown secretions. No vent changes. 
+
+GI: TF Vivonex restarted at 10cc/hr. Minimal residuals; TF increased to 20cc/hr. Abd soft, audible BS. Moderate amt. soft stool in FIC bag. 
+
+GU:  Foley to BSD draining 100-200cc/hr icteric urine; sediment visible.
+
+Integ: Oozing lg. amt. serous fluid from multiple drain sites. Collection bag appled where possible. 
+
+am labs pending 
+
+  
+",,
+5872,19256,7312,0,3139-12-21 14:37:00 EST,3139-12-21 14:55:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO: ATIVAN OFF PT STILL RESPONDING TO NOXIOUS STIMILI AND PAIN. L PUPIL REACTIVE TO LIGHT. DOES NOT FOLLOW COMMANDS.
+
+CV: NSR C/ NO ECTOPI, SBP ABOVE 110 ON CUFF.MAINTAIN SBP ABOVE 90
+
+RESP: PT ENTUBATED SETTINGS CHANGED TO PS AT 10--LATER REDUCED TO PS 5--TIDAL VOL 450 TO 500 PT DOING TOLERATING WELL, LUNG SOUNDS CLEAR ON R SIDE DEMINISHED ON L SIDE. RR 12-20 SATS 99-100.
+
+GI/GU: FOLEY CATH PATENT--URINE AMBER C/ SOME SEDIMENT, BM INTO POUCH PASTY AND SEMI-FLUID, PASSING FLATTUS. FT CHANGED TO PROMOTE C/ FIBER STARTED AT 20 ML/H TO BE INCREASED BY 20'S EACH SHIFT.
+
+SKIN: OZZING FROM ARMS BILATERALLY, GROIN BILATERALLY--MODERATE AMOUNTS AND L FLANK CHEST. R FLANK CHEST C/ [**Last Name (un) **] BRUISE.
+
+SOCIAL: [**12-22**] 1300 MICU TEAM WILL MEAT MR [**Known patient lastname 1483**] FAMILY FOR APPROVAL OF BONE MARROW TESTING.
+
+PLAN: CONTINUE TO MONITOR CV STATUS AND MAINTAIN POSSITIVE, INCREASE FT TO GOAL, CONTINUE WEANING FROM VENT. 
+",,
+5872,19256,7312,,3139-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-22**] 12:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14849**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 yo man w/ miliary TB and candidal pna, s/p left sided thoracentesis, on
+      ventiilator and with new temp
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Miliary TB. Status post left sided pleuracentesis.
+     
+     COMPARISONS: [**3139-12-18**]
+     
+     PORTABLE AP CHEST:  Allowing for neck flexion the ET tube remains in
+     satisfactory position.  NG tube courses below diaphragm.  There is no
+     significant change in the proximal loculated left pleural effusion.  There is
+     underlying collapse/consolidation.  There is no pneumothorax.  On top of the
+     diffuse miliary pattern in the right lung there is increase in alveolar
+     densities which could reflect worsening pneumonia.
+     
+     IMPRESSION:  Stable proximally loculated left effusion.  No pneumothorax.
+     Increasing alveolar pattern on right could reflect superimposed pneumonia.
+
+",,
+5872,19256,7312,,3139-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-22**] 6:28 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 14850**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with miliary TB, candidal pna on vent and d/c'd from ativan 36h
+      ago with no response to painful stimuli and sluggish left pupil (R pupil
+      occluded by cataract) also limbs flaccid. 
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Miliary TB, deceit from Ativan, no response to painful stimuli.
+     
+     TECHNIQUE: Axial images of the brain were obtained without IV contrast.
+     
+     There are no prior head CTs for comparison.
+     
+     CT BRAIN W/O IV CONTRAST: There is no shift of normal midline structures or
+     mass effect.  The ventricles, cisterns and sulci are prominent, related to
+     patient's age and atrophy.  The [**Doctor Last Name 20**]-white matter differentiation is normal.
+     There are tiny calcifications in the left basal ganglia.  There are extensive
+     vascular calcifications.  There are no pathologic extraaxial fluid
+     collections.  The study is limited by patient motion.  No fractures are
+     identified.
+     
+     IMPRESSION: 1) No evidence of intracranial hemorrhage, study limited by
+     patient motion.
+
+",,
+5872,19256,7312,0,3139-12-22 02:37:00 EST,3139-12-22 02:43:00 EST,-1,"N",54,"Nursing/Other","NPN: CONDITION SUMMARY-SEE ICU FLOWSHEET","
+NPN: CONDITION SUMMARY-SEE ICU FLOWSHEET
+NEURO: SEDATION AND NARCOTIC OFF. SOME FACIAL GRIMACE WITH MOVEMENT. NON-RESPONSIVE. L PUPIL REACTIVE; RIGHT OCCLUDED.
+
+CV: MONITOR ST. NO ECTOPY NOTED. VSS. GENERALIZED EDEMA TO BUE; ELEVATED ON PILLOWS. WEEPING OF SEROUS FLUID FROM PUNCTURE SITES; SOME COVERED WITH COLLECTION BAGS.
+
+RESP: TOLERATING VENT SETTINGS; NO CHANGES ORDERED. PO 100%.
+
+GI/GU: ABD SOFT WITH VERY HYPOACTIVE BS. TOLERATING TF AT 40 CC/HR WITH LOW RESIDUALS. RECTAL INCONTINENCE BAG IN PLACE. FOLEY PATENT OF ORANGE URINE WITH SEDIMENT.
+
+SKIN: VERY COPPERY JAUNDICE APPEARANCE. AREAS OF WITHERED SKIN. FLUID COLLECTION DRAINAGE BAGS COLLECTING WEEPING FLUIDS FROM OLD PUNCTURE SITES. DUODERM TO COCCYX.
+",,
+5872,19256,7312,0,3139-12-22 05:58:00 EST,3139-12-22 05:59:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains in CPAP IPS 5/.4/5peep. Vt 400's, RR20. Suctioned large amount thick tan sputum. See vent flowsheet.
+",,
+5872,19256,7312,0,3139-12-22 15:31:00 EST,3139-12-22 15:54:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO: GRIMACE TO PAINFUL STIMULI NO OTHER RESPONSE. PT TO CT SCAN FOR EVAL RESULTS PENDING.
+CV TACHYCARDIC AND NORMOTENSIVE--STARTED ON NS 100 ML/H FOR MAINT. TRIPLE LUMEN D/C TWO PERIPHERALS IN PLACE. PANCULTURED.
+RESP: CHEST X-RAY OF L LUNG RESULTS PENDING. R LUNG SOUNDS CLEAR L SIDE DEMINISHED.
+GI/GU: HYPOACTIVE BOWEL SOUNDS FEDDING TUBE INCREASED TO 50.
+SKIN: OZZING FROM MULTIPLE SITES--MULTIPLE ATTEMPTS FO PERIPHERAL LINES BY DR [**Last Name (STitle) 1484**]. DUODERM INTACT.
+SOCIAL: METING DID NOT TAKE PLACE--FAMILY SHOWED UP LATE, TRANLATOR LEFT.
+
+PLAN: CONTINUE TO MONITOR CV, RESP, AND MENTAL STATUS. 
+",,
+5872,19256,7312,0,3139-12-23 03:55:00 EST,3139-12-23 04:07:00 EST,-1,"N",54,"Nursing/Other","NPN-CONDITION SUMMARY- SEE ICU FLOWSHEET","
+NPN-CONDITION SUMMARY- SEE ICU FLOWSHEET
+NEURO: YAWNING, MOUTHING WORDS, MOVING LUE SPONTANEOUSLY, WITHDRAWING TO NOXIOUS STIMULI X 4. OPENED EYES ONCE SPONTANEOUSLY. MEDICATED WITH .5MG MSO4 X 2 FOR FACIAL GRIMACE WITH TACHYPNEA WITH WHAT APPEARS TO BE SOME RELIEF.
+
+CV: ST S/ ECTOPY. VSS. GENERALIZED EDEMA TO BUE AND WEEPING AREAS ARE IMPROVING. COLLECTION BAGS ATTACHED TO WEEPING SITES ARE STILL IN PLACE. NO ALINE. CENTRAL LINE D/C'D WITH TIP CULTURED. PIV X 2.
+
+RESP: PLACED BACK TO PS VENT WHEN RETURNED FROM CT SCAN DUE TO RR OF >35. WAS ALSO MEDICATED WITH MSO4 AND RESP RATE DOWN TO MID-UPPER 20'S.
+
+GI/GU: CONTINUES TO REMAIN VERY JAUNDICE/ORANGE SKIN COLOR AND URINE. TOLERATING TF AT 50 CC/HR WITH LOW RESIDUALS DESPITE HYPOACTIVE BS. FECAL INCONTINENT BAG REAMINS IN PLACE. 
+
+SKIN: DUODERM INTACT TO COCCYX; SKIN WITHERED AND PARCHMENT-LIKE.
+",,
+5872,19256,7312,0,3139-12-23 06:56:00 EST,3139-12-23 07:01:00 EST,3497,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE:
+     PT. TACHYPNEIC LAST EVE, THEREFORE TRIED PS AT 15, 20 , AND 25 WITH NO RELIEF OF TACHYPNEA.  PT. ON A/C 500 X 20 40% 5P SINCE THAT TIME.  RR 20'S.  PLEASE SEE FLOW SHEET. 
+",,
+5872,19256,7312,0,3139-12-23 17:50:00 EST,3139-12-23 18:11:00 EST,3556,"N",54,"Nursing/Other",,"
+
+SEE ICU ASSESMENT SHEET
+NEURO:OPENS EYES TO VOICE,APPEARS TO UNDERSTAND WHEN FAMILY IS SPEAKING TO PT.OPENS MOUTH TO HAVE LIPS WET.SPONTANEOUSLY MOVES BOTH ARMS, APPEARS STRONG.DOES NOT MOVE ANY EXTREMITIES TO COMMAND.GRIMACES WHEN TURNED,WITHDRAWS TO PAIN.MEDICATED WITH SMALL DOSES OF MS [**First Name (Titles) 90**] [**Last Name (Titles) 1231**].TEAM WILL COME BY TO GIVE ROMAZICON TO DETERMINE IF PT WILL BECOME MORE AWAKE AND WEAN ON VENT. 
+
+
+
+CV:REMAINS NSR TO ST WITHOUT ECTOPY,BP STABLE.
+
+
+
+GU:FOLEY CATH DRAINING ORANGE URINE.OUTPUTS QS.
+
+GI:ABD SOFT APPEARS SOFTLY DISTENED,POSITIVE BOWEL SOUNDS PRESENT.TOLERATES TUBE FEEDINGS AT GOAL OF 55 CC/HR.FECAL INCONTINENCE BAG ON ,DRAINING SMALL AMOUNT OF SOFT LIQUID STOOL.
+
+RESP:REMAINS INTUBATED ON AC RATE OF 20,TV 500CC,WITH 5 CM OF PEEP.RESP RATE 20 TO 24.BREATH SOUNDS CLEAR BUT DIMINISHED BIBASILAR.SUCTIONED FOR SCANT THICK WHITE SECRETIONS.SPO2 100%.
+
+SKIN:APPEARS JAUNDICED WITH MANY SMALL SKIN AREAS THAT ARE LEAKING.HAS BAG OVER LEFT PLEURAL AREA,AND RIGHT AND LEFT GROIN.ALL BAGS DRAINING MODERATE AMOUNT OF SERROSANGUINOUS DRAINAGE.
+
+SOCIAL:VISITED BY FAMILY TODAY.
+",,
+5872,19256,7312,0,3139-12-24 02:47:00 EST,3139-12-24 02:51:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 8.0 ORAL ETT @ 23 LIP.
+AC 20/500/.40/5 W/ STABLE ABG. SX SCANT WHITE
+SPUTUM. STABLE NITE.
+
+                    [**Name6 (MD) 146**] [**Name8 (MD) **], RRT
+",,
+5872,19256,7312,0,3139-12-24 04:32:00 EST,3139-12-24 04:51:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO: MOMENTS OF ALERTNESS, OPENING EYES--MOSTLY GRIMACED. STARTED ON PROPOFOL. MOVES UPPER EXTREMITIES DOES NOT FOLLOW COMMANDS. L PUPIL PERL. ROMAZICON HELD PER DR [**Last Name (STitle) **].
+
+CV: HYPOTENSIVE--MAINTAINING MAP > 60. TACHYCARDIC.
+
+RESP: SUCCTONED FOR SMALL AMOUNTS OF TAN THICK MUCUS. R LUNG SOUNDS CLEAR--L LUNG SOUND DIMINISHED. VENT CHANGES TO BE MADE EARLY NEXT SHIFT PER DR [**Last Name (STitle) **].
+
+GI/GU: PASSING FLATTUS-SMALL AMOUNT OF STOOL. FOLEY PATENT DRAINING ORANGE URINE C/ SEDIMENT. 
+
+SKIN: [**First Name9 (NamePattern2) 1485**] [**Last Name (un) **] TO MODERATE AMOUNTS OF SEROUS FLUID FROM GROIN BILATERALLY, L FLANK CHEST, ARMS BILATERALLY. SEVERAL HEMATOMASA DUE TO PRIOR ATTEMPTS FOR IV ACCESS.
+
+PLAN: CONTINUE TO MONITOR NEURO AND CV STATUS.
+",,
+5872,19256,7312,0,3139-12-24 16:05:00 EST,3139-12-24 16:12:00 EST,3495,"N",54,"Nursing/Other","condition update","
+condition update
+d: HEMODYNAMICS: T MAX 100.2, HR 80-100 NSR-ST WITHOUT ECTOPY. SBP 70-104. 
+RESP- CHANGED TO SIMV WITH PS, SATS 100%, BS CLEAR ON RIGHT, DIMINISHED ON LEFT SIDE. SX FOR SCANT AMTS THICK BROWN AFTER NS LAVAGE
+GI- TOL TF AT GOAL, FIB D/C'D- THICK BROWN STOOL- QUAIAC NEG
+GU- CLEAR AMBER VIA FOLEY
+NEURO- SEDATED ON LOW DOSE PROPOFOL, PT GRIMACES WHEN TOUCHED BUT UNABLE TO INCREASE PROPOFOL D/T LOW BP, 
+ID- CEFATADIME D/C'D
+A: HEMODYNAMICS MONITORED, PROPOFOL FOR SEDATION, PRECAUTIONS MAINTAINED
+R: CONDITION UNCHANGED
+
+
+
+
+
+
+
+
+
+
+",,
+5872,19256,7312,0,3139-12-24 17:45:00 EST,3139-12-24 17:49:00 EST,3671,"N",54,"Nursing/Other","Respiratory care Note:","
+Respiratory care Note:
+
+Pt remains on SIMV 12/500/.[**4-13**]/ IPS= 10. Total RR~ 25bpm. Sxtn mod brown thick secretions. Diaphoretic T/O day, T max 100.2  1600 hr. No changes today. Plan: Continue to monitor resp status.
+",,
+5872,19256,7312,,3139-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-12-25**] 10:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14851**]
+     Reason: r/o infiltrate v increased effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 yo man w/ miliary TB and candidal pna, s/p left sided thoracentesis, on
+      ventiilator and with new temp and new left apical crackles
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate v increased effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  LEFT APICAL CRACKLES AND NEW FEVER ON PATIENT WHO IS STATUS POST
+     LEFT-SIDED THORACENTESIS.
+     
+     COMPARISON:  [**3139-12-22**].
+     
+     FINDINGS:  There is stable appearance of the left lower lobe effusion.  There
+     are no new infiltrates or changes in the left upper lobe.  There is no
+     pneumothorax seen on either side.  There is interval worsening of the right
+     upper lobe infiltrate/collapse.  There is slight interval improvement of the
+     right lower lobe infiltrate.  The cardiomediastinal contour is unchanged in
+     appearance since the prior study.  The endotracheal tube and nasogastric tube
+     remains satisfactorily positioned.
+     
+     IMPRESSION:  Stable appearance of left lower lobe infiltrate with no changes
+     since the prior study in the left upper lobe.
+
+",,
+5872,19256,7312,0,3139-12-25 02:53:00 EST,3139-12-25 03:09:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a Assessment in flow sheet. 
+Sedation propofol 5mcg - 1.5 cc/hr. Responsive to activities. Pt grimace and pull away when turn and position. muscle tighenting and inc HR with activities. Relief of discomfort with .5mg IV morphine. Pt open L. eye with light. 
+CV: NSR/ST 95-108 without ectopy. PR-.20, QRS- .08, QT- .32 inverted T. BP- 85-98/37-48. Maintaing MAP >60. edematous hands (R/L - +3/+2) and feets (+4,+3) - elevated extremeties. warm - ruddy red coloring.  
+Resp: RR 27-31,  Sao2; 100%. AC 22/430, Fio2- 40% PEEP 5 on night so pt can rest. Dimish L.S. on L. side - upper and lower lobe. Respiratory Therapist attempt to adjust vent to dec RR but all attempt was unsucessful. ET tube in place and ballon inflated. 
+GU/GI: loose brown stool - guiac neg. duoderm in coccyx to give padding to bony area. foley patent. amber urine , >60 cc/hr output.
+NG in place - min residual, +placement. 
+Drainage bag- R. and L. femoral - serosanguios. site intact. 
+Pt resposition and theraupatic touch attempt to comfort pt. 
+",,
+5872,19256,7312,0,3139-12-25 03:00:00 EST,3139-12-25 03:04:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 8.0 ORAL ETT @ 23 LIP.
+RESTED O/N ON AC 20/430/.40/5 W/ STABLE SPO2.
+SOMEWHAT TACHYPNEIC W/ RR 25-30 BPM. SX SCANT
+AMT CLEAR SPUTUM. SEDATION W/ PROPOFOL BY RN.
+
+                           [**Name6 (MD) 146**] [**Name8 (MD) **], RRT
+                 
+",,
+5872,19256,7312,0,3139-12-25 17:22:00 EST,3139-12-25 17:27:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: REMAINS ON PROPOFOL GTT..GRIMACES WITH ANY MOVEMENT..NO VENT CHANGES
+A: MED WITH MSO4 .5mgm Q4H WITH SOME RELIEF..LABILE BP..CONTINUES TO OOZE FROM BOTH GROINS..VERY EDEMATOUS..FAMILY MEETING BUT NO DECISIONS MADE..WILL DECUSS PT ON ETHICS ROUNDS TOMORROW
+R: UNCHANGED
+P: TRANSFER TO MICU SERVICE..COMFORT MEASURES
+",,
+5872,,7312,0,3139-12-26 00:24:00 EST,3139-12-26 00:29:00 EST,3423,"N",54,"Nursing/Other","EXPIRED","
+EXPIRED
+  PATIENT DNR. BEING MAINTAINED BY VENT AND FLUID. ALL DAY PRESSURE IN LOW 90'S TO 100'S SYSTOLICALLY. HEART RATE 90'S-100'S. AT APPROX 2100
+PATIENT DROPPED HIS HEART RATE AND O2 SAT. AFTER SEVERAL BOLUSES AND VENT CHANGES PATIENT STILL DID NOT RESPOND AND WITH HIS FAMILY BY HIS SIDE PATIENT EXPIRED AT APPROX 2210.  MD DOWN TO PRONOUNCE. FAMILY STAYED FOR ABOUT AN HOUR AND THEN WENT HOME. PATIENT PREPARED FOR TRANSPORT TO MORGUE. PERSONAL BELONGINGS BAGGED AND TAGGED.   
+",,

@@ -1,0 +1,695 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5587,10741,,,3469-09-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3469-9-13**]              Discharge Date:   [**3469-9-28**]
+ 
+Date of Birth:  [**3387-4-1**]             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 18**] 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+[**3469-9-17**] - s/p Coronary Artery Bypass Graft x4 (Left internal 
+mammary artery -> Left anterior descending, Saphaneous Vein 
+graft -> Obtuse marginal, Saphaneous Vein graft -> Diagonal, 
+Saphaneous Vein graft -> Posterior descending Artery)and Left 
+atrial appendage ligation
+[**3469-9-14**] - Cardiac Catheterization
+
+ 
+History of Present Illness:
+82 y/o female who presented to an outside hospital with chest 
+pain. She was transferred to the [**Hospital1 83**] and underwent cardiac 
+catheterization.
+ 
+Past Medical History:
+Hypertension
+hypercholesterolemia
+Atrial Fibrillation 
+Skin cancer
+carpal tunnel syndrome
+hypothyroid
+
+ 
+Social History:
+Retired. Former 1ppd smoker for 20 years. Quit 30 years ago. 
+Lives alone. Rarely uses alcohol. 
+ 
+Family History:
+Mother with heart disease
+ 
+Physical Exam:
+Admission
+HR 70  RR 18 B/P 144/85   151/75  64""  weight 149 pounds
+GEN: NAD
+HEENT: Unremarkable
+NECK: Supple, FROM, No JVD, No carotid bruits
+HEART: RRR, no m/r/g
+LUNGS: Clear
+ABD: Benign
+EXT: Warm, well perfused , no edema, 2+ Pulses
+NEURO: Grossly intact
+ 
+Pertinent Results:
+[**3469-9-14**] 08:30AM BLOOD WBC-10.4 RBC-4.50 Hgb-13.9 Hct-40.3 
+MCV-90 MCH-30.8 MCHC-34.4 RDW-12.8 Plt Ct-271
+[**3469-9-13**] 01:15PM BLOOD INR(PT)-1.6*
+[**3469-9-14**] 06:10AM BLOOD PT-15.5* PTT-70.2* INR(PT)-1.4*
+[**3469-9-14**] 08:30AM BLOOD Plt Ct-271
+[**3469-9-14**] 06:10AM BLOOD Glucose-102 UreaN-12 Creat-0.7 Na-142 
+K-4.0 Cl-107 HCO3-28 AnGap-11
+[**3469-9-14**] 12:00PM BLOOD ALT-25 AST-26 AlkPhos-81 Amylase-51 
+TotBili-0.7
+[**3469-9-14**] 12:00PM BLOOD %HbA1c-6.1* [Hgb]-DONE [A1c]-DONE
+[**3469-9-14**] 12:00PM BLOOD Triglyc-99 HDL-49 CHOL/HD-3.6 LDLcalc-109
+[**3469-9-21**] 06:00AM BLOOD TSH-4.0
+[**3469-9-21**] 06:00AM BLOOD T4-6.7 T3-65*
+
+GENERAL COMMENTS: A TEE was performed in the location listed 
+above. I certify  
+I was present in compliance with HCFA regulations. No TEE 
+related  
+complications. The patient was under general anesthesia 
+throughout the  
+procedure. The rhythm appears to be atrial fibrillation. Results 
+were  
+personally reviewed with the MD caring for the patient.  
+   
+Conclusions:  
+PRE-CPB The left atrium is markedly dilated. Moderate to severe 
+spontaneous  
+echo contrast is seen in the body of the left atrium. No 
+mass/thrombus is seen  
+in the left atrium or left atrial appendage. Moderate to severe 
+spontaneous  
+echo contrast is present in the left atrial appendage. The left 
+atrial  
+appendage emptying velocity is depressed (<0.2m/s). The right 
+atrium is  
+elongated. No spontaneous echo contrast is seen in the body of 
+the right  
+atrium or right atrial appendage. No atrial septal defect is 
+seen by 2D or  
+color Doppler. Left ventricular cavity size is normal. There is 
+mild symmetric  
+left ventricular hypertrophy. Regional left ventricular wall 
+motion is normal.  
+Overall left ventricular systolic function is mildly depressed. 
+There is mild  
+global right ventricular free wall hypokinesis. There are simple 
+atheroma in  
+the ascending aorta. There are complex (>4mm) atheroma in the 
+descending  
+thoracic aorta. The aortic valve leaflets (3) are mildly 
+thickened. Trace  
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened.  
+Mild (1+) mitral regurgitation is seen. The tricuspid valve 
+leaflets are  
+mildly thickened. Significant pulmonic regurgitation is seen. 
+There is a  
+trivial/physiologic pericardial effusion.  
+  
+POST-CPB Normal right ventricular systolic function. Left 
+ventricle initially  
+with some mild septal hypokinesis which improved after 15 
+minutes. Overall EF  
+about 50-55%. No other changes from pre-CPB.  
+  
+Electronically signed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2162**], MD on [**3469-9-17**] 13:17.  
+READING PHYSICIAN: 
+
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname 1207**] was admitted to the [**Hospital1 83**] on [**3469-9-13**] for further 
+management of her chest pain. She underwent a cardiac 
+catheterization which revealed 95% mid LAD lesion, 80% LCX 
+stenosis,and a 99% diffuse RCA lesion.  An echo showed an EF of 
+60-70%. Given the nature and severity of her disease, the 
+cardiac surgery service was consulted for surgical 
+revascularization. She was worked-up in the usual preoperative 
+manner including a carotid duplex ultrasound which showed 
+minimal internal carotid artery disease bilaterally. 
+Ciprofloxacin was started for a urinary tract infection. Heparin 
+was continued for anticoagulation. On [**3469-9-17**], Ms. [**Known patient lastname 1207**] was 
+taken to the operating room where she underwent coronary artery 
+bypass grafting to four vessels and a left atrial appendage 
+ligation. Postoperatively she was transferred to the cardiac 
+surgical intensive care unit for monitoring. She developed some 
+atrial fibrillation overnight that was self limited. On 
+postoperative day one, Ms. [**Known patient lastname 1207**] [**Last Name (Titles) 503**] neurologically intact 
+and was extubated. She was transfused for postoperative anemia. 
+Coumadin was resumed for her atrial fibrillation. On 
+postoperative day three, she was transferred to the step down 
+unit for further recovery. She was gently diuresed towards her 
+preoperative weight. The physical therapy service was consulted 
+for assistance with her postoperativ strength and mobility. The 
+geriatrics service was consulted for assistance with her memory 
+loss. Multiple medications as well as a social work evaluation 
+were recommended and implemented. It is recommended that she 
+follow up with the neurobehaviorist after discharge (Dr. [**First Name (STitle) 6752**]).
+
+Ms. [**Known patient lastname 1207**] continued to make steady progress and was discharged 
+to rehab on [**3469-9-28**] in stable condition. She will follow-up 
+with Dr. [**Last Name (STitle) **], her cardiologist and her primary care 
+physician as an outpatient. 
+ 
+Medications on Admission:
+Coumadin 2.5mg daily
+Univasc 15mg QD
+Diltiazem 240mg QD
+Synthroid 88mcg QD
+Zocor 20mg QD
+MVI
+ 
+Discharge Medications:
+1. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+3. Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+4. Warfarin 1 mg Tablet Sig: as directed Tablet PO DAILY 
+(Daily).  
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+7. Risperidone 0.25 mg Tablet Sig: Two (2) Tablet PO twice a 
+day.  
+8. Calcium Carbonate 500 mg Tablet, Chewable Sig: Three (3) 
+Tablet, Chewable PO DAILY (Daily).  
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+10. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+11. Warfarin 1 mg Tablet Sig: One (1) Tablet PO once a day for 1 
+days: then check INR on Wednesday, [**9-30**] and dose for INR 
+2.0-2.5.  
+12. Clindamycin HCl 150 mg Capsule Sig: One (1) Capsule PO four 
+times a day for 5 days: for EVH site erythema.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Life Care Center at [**Location (un) 6753**]
+ 
+Discharge Diagnosis:
+s/p Coronary Artery Bypass Graft x4 (Left internal mammary 
+artery -> Left anterior descending, Saphaneous Vein graft -> 
+Obtuse marginal, Saphaneous Vein graft -> Diagonal, Saphaneous 
+Vein graft -> Posterior descending Artery)and Left atrial 
+appendage ligation
+
+Primary medical history: 
+Hypertension
+hypercholesterolemia
+Atrial Fibrillation 
+Skin cancer
+carpal tunnel syndrome
+hypothyroid
+
+ 
+Discharge Condition:
+good
+ 
+Discharge Instructions:
+May shower, no baths or swimming 
+Monitor wounds for infection - redness, drainage, or increased 
+pain 
+Report any fever greater than 101 
+Report any weight gain of greater than 2 pounds in 24 hours or 5 
+pounds in a week 
+No creams, lotions, powders, or ointments to incisions 
+No driving for approximately one month 
+No lifting more than 10 pounds for 10 weeks 
+Please call with any questions or concerns
+ 
+Followup Instructions:
+Dr [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 175**]) please call for appointment 
+
+Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6754**] after discharge from rehab ([**Telephone/Fax (1) 6755**]) 
+please call for appointment 
+Dr [**Last Name (STitle) **] after discharge from rehab ([**Telephone/Fax (1) 102**]) please 
+call for appointment
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6752**] (neuro behaviorist) [**Telephone/Fax (1) 1444**]
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 27**] MD [**MD Number 28**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 813**] NP[**Last Name (un) 814**] [**3469-9-28**] @ 0817
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3469-9-30**] 8:55 AM
+(End of Report)
+
+
+",,
+5587,10741,,,3469-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-13**] 6:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12325**]
+     Reason: Assess for mediastinal widening                             
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with NSTEMI here for cath                                     
+     REASON FOR THIS EXAMINATION:
+      Assess for mediastinal widening                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old female with non-ST elevation MI here for cardiac
+     catheterization.  Evaluate for mediastinal widening.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**3462-8-14**].
+     
+     PA AND LATERAL CHEST X-RAY:  The cardiac silhouette and mediastinal contours
+     are normal.  There are dense intramural aortic calcifications.  Prominence of
+     the right hilum may does not correlate with a corresponding abnormality on
+     the lateral film and is likely related to overlapping vessels. The pulmonary
+     vasculature is normal. There is no pneumothorax. Both lungs are clear without
+     consolidations or effusions. The surrounding soft tissue and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+5587,10741,,,3469-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-16**] 10:55 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 12326**]
+     Reason: Please evaluate for stenosis.                               
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with severe 3VD -pre-op for CABG.                             
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for stenosis.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  82-year-old woman with severe coronary artery disease.  Preoperative
+     evaluation before CABG.
+     
+     RADIOLOGIST:  The study was read by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**].
+     
+     TECHNIQUE:  Evaluation of the extracranial carotid arteries was performed with
+     B-mode, color and spectral Doppler ultrasound.
+     
+     FINDINGS:  A mild amount of plaque was seen bilaterally in the internal
+     carotid arteries.
+     
+     On the right side, peak systolic velocities were 62 cm/sec for the internal
+     carotid artery, 48 cm/sec for the common carotid artery and 71 cm/sec for the
+     external carotid artery.  The right ICA/CCA ratio was 1.2.
+     
+     On the left side, peak systolic velocities were 71 cm/sec for the ICA, 46
+     cm/sec for the CCA and 68 cm/sec for the ECA.  The left ICA/CCA ratio was 1.5.
+     
+     
+     Both vertebral arteries presented antegrade flow with a peak systolic velocity
+     of 62 cm/sec on the right and 45 cm/sec on the left.
+     
+     COMPARISON:  None available.
+     
+     IMPRESSION:  Less than 40% stenosis in the bilateral internal carotid
+     arteries, in their extracranial portion.
+                                                                           
+
+",,
+5587,10741,,,3469-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-17**] 2:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12327**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with CAD s/p CABG. Pt. still in OR, please perform when in 
+      CSRU.
+     REASON FOR THIS EXAMINATION:
+      r/o PTX/Effusion/Tamponade                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD status post CABG.
+     
+     PORTABLE AP CHEST.
+     
+     COMPARISON:  [**3469-9-13**].
+     
+     Patient is status post CABG with normal alignment of the sternal sutures.  The
+     ET tube is in standard position.  The Swan-Ganz catheter is in standard
+     position.  Left-sided chest tube is in place.  Tiny left-sided pneumothorax
+     and small left-sided pleural effusion noted.  Mild pulmonary vascular
+     congestion is noted.  Heart size is normal.
+     
+     IMPRESSION:  Lines and tubes in good position.  Tiny left pneumothorax.
+                                                                           
+
+",,
+5587,10741,,,3469-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5587,10741,6937,0,3469-09-17 15:10:00 EST,3469-09-17 15:26:00 EST,1742,"N",54,"Nursing/Other",,"
+
+CSRU Admission Note
+
+Mrs. [**Known patient lastname 542**] is an 82 year old woman who had CP and R/I for NSTEMI.  Cath with 3 VD, LVEF wnl per echo report.  To OR today for CABG x 4 with ligation of left atrial appendage.  OR course stable.
+
+Allergies:  PCN
+
+Neuro:  Sedated on propofol.  PERRL.  Propofol off at 1600.  Waiting for pt to wake.
+
+CV:  Arrived AV paced.  Underlying rhythm NSB with rate in high 50's.  Currently a paced at rate of 80 w/ stable BP.  Initial thermodilution CI 1.4 with SVR ~2300.  LR 1L started.  PA aware.  MvO2 72% which gave FICK CI of 3.18.  PA cath refloated by PA d/t dampened waveform and unable to draw blood from port.  Now w/ good PA waveform.  Most recent FICK CI 2.63 with SVR in 1100 range.  Low dose Neo for BP support.  CT's w/ decreasing o/p's.  Hct stable.
+
+Resp:  BS clear, diminished at lower lobes.  ABG excellent.  O2 sats stable.
+
+GI:  Abd soft, ND.  
+
+GU:  Vigorous u/o. 
+
+Endo:  Insulin started per protocol.
+
+Skin:  Intact.  Dsgs dry.
+
+Social:  Niece [**Doctor First Name 543**] is spokesperson->have spoken w/ her twice.  Plans to come in tomorrow.  Daughter [**Name (NI) 544**] lives in NJ and is currently in treatment for CA (per chart review).  Spoke w/ her once and updated on pt's condition.
+
+A:  Adequate CI by FICK.  Large u/o.  Stable
+
+P:  Cont to wake.  Wean ventilator when ready.  Follow FICK CI. Glucose management.  Pain med prn.  
+",,
+5587,10741,6937,0,3469-09-17 15:59:00 EST,3469-09-17 16:02:00 EST,5250,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt received from OR s/p CABG x4, orally intubated & on full mechanical support.  Remains on SIMV/PSV, ABGs acceptable.  PIP/Pplat = 25/19. Attempted CPAP, but pt still slow to wake up and has irregular breathing pattern at this time.  Will attempt again later in shift. 
+
+Plan: wean to extubate per protocol
+",,
+5587,10741,6937,0,3469-09-17 17:30:00 EST,3469-09-17 17:33:00 EST,1742,"N",54,"Nursing/Other",,"
+
+CSRU NPN Addendum
+
+Resp:  Propofol off but still sleepy.  MAE to request.  Attempted CPAP x 2 but still too sedated.  Will give more time to wake.
+
+CV:  MVO2 down to 57 w/ SBP down to 80's and CI just over 2.0.  500cc LR given with improvement of MVO2 to 59.  Per Dr. [**Last Name (STitle) 545**] no change in treatment at this time.
+",,
+5587,10741,6937,,3469-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-18**] 11:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12328**]
+     Reason: r/o ptx s/p ct's removed                                    
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old woman with CAD s/p CABG. Pt. still in OR, please perform when in  
+       CSRU.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx s/p ct's removed                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST.
+     
+     INDICATION:  Status post CABG.
+     
+     Single AP view of the chest is obtained [**3469-9-18**] at 12:15 hours and is compared
+     with the prior radiograph performed [**3469-9-17**].  The patient has been extubated
+     and left pleural and mediastinal drains removed.  There is some patchy
+     bibasilar increased lung markings consistent with bibasilar atelectasis. There
+     is no evidence of acute consolidation.  There maybe a tiny apical
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     Possible minimal apical pneumothorax on the left side.  Bibasilar atelectasis.
+     Removal of pleural tubes.
+
+",,
+5587,10741,6937,0,3469-09-18 02:23:00 EST,3469-09-18 02:35:00 EST,2388,"N",54,"Nursing/Other","7pm-7am udapte","
+7pm-7am udapte
+neuro: pt extubated ~ 2045. pt awake, MAE and able to follow commands. pt able to state full name, pt knows she is in the hospital for heart surgery, pt also is able to state the month although is disorientated to the year. pt had a few peroids of confusion overnight although reorientated easily. PERRL. morphine prn for pain management
+
+CV; pt currently A paced at 88 for BP support. underlything rhythm NSR in the 70's with frequent PAC's. pt had 2 burst of afib overnight (pt with history of chronic afib). pt became hypotensive with afib. pt intially on nitro gtt. nitro gtt weaned to off last night and started on neo gtt this am. CVP 5-10. PAD ~ 18-24. trending CO/CI by fick. CI by fick > 2.0. svo2 in the 60's overnight. hct stable. pp by doppler
+
+resp: LS clear wiht dim bases bil. pt weaned and extubated at 2045 -> placed on 40% face tent. see flowsheet for abg's. o2 sats 98-100%. pt with weak cough. + gag. CT with no airleak noted. CT draining small amount of serousanginous fluid.
+
+gi/gu: bs remain absent. tolerateing ice chips. ogt dc'd with extubation. foley draining clear yellow urine. UO marginal this am - will continue to monitor
+
+endo: pt continues on insulin gtt. insulin gtt titrated per protocol
+
+id: T max 100.2. pt continues on vanco and cipro
+
+plan: pulm toleit, pain management, montior hemodynamcis, trend CO/CI by fick, montitor lytes/hct, continue antibiotics
+",,
+5587,10741,6937,0,3469-09-18 15:25:00 EST,3469-09-18 15:57:00 EST,8665,"N",54,"Nursing/Other",,"
+
+Neuro: A&O x3, follow commands, MAE's, emotional @ times, calm with reassuarance; OOB with 2 persons assist, tolerated well
+
+CV: Afeb; NSR 70's, rare PAC's, neo gtt wean to 0.75 mcg/kg/min, SBP 120's; epi wires DC'd; swanz DC'd; low UO, responded to 20 mg IV lasix with adequate diuresis. K repleated.
+
+Resp: Lung sound clear, dim @ bases; non-productive cough, IS to 500; 2L NC sat 100%; CT draining minimal serroussang drainage, DC'd in AM
+
+GI: Tolerating clear liquid & apple sauce, hypo bowel sound 
+
+GU: Foley draining clear yellow urine
+
+Integ: Intact; sternal incision with small amount of serroussang drainage; ACE wrap on both legs; vaseline drsg on [**Name5 (PTitle) **] [**Name5 (PTitle) 546**]
+
+Endo: Covered per protocol
+
+ID: On cipro for UTI & vanco
+
+Pain: C/O incisional pain, IV morphine given with good relief; will start on PO percocet
+
+Plan: cont pulm toilet; pain management; inc activity as tolerated; wean neo gtt; encourage PO intake, ^ diet as tolerated. monitor coag's -coumadin started today due to hx of af.
+",,
+5587,10741,6937,0,3469-09-19 01:13:00 EST,3469-09-19 01:30:00 EST,2518,"N",54,"Nursing/Other",,"
+
+S/P CABG X 4 ON [**3469-9-17**]. 
+
+SEE CAREVUE FOR Q1H VS,I&O, Q4H CV ASSESSMENTS, LABBS AND ALL OTHER OBJECTIVE DATA.
+
+NEURO:  ALERT, EMOTIONALLY LABILE, WORRYING ABOUT ""HOW MUCH DOES THIS ALL COST?"" AND ""WHAT HAPPENS WHEN I LEAVE HERE?"" CRYING, CONFUSED, DISORIENTED TO TIME, PLACE AND EVENTS. MAE, FOLLOWS COMMANDS, [**Known patient firstname 547**]. MORPHINE 1MG IV X 2, PERCOCET 1 PO X 2 FOR PAIN CONTROL.
+
+PULM: N/C AT 4L, SATS > 95%. LUNGS DIMINISHED BASES, POOR COUGH EFFORT AND USE OF IS. TOO EMOTIONALLY LABILE TO FOLLOW DIRECTIONS FOR PULM HYGIENE.
+
+CV: NSR WITH PAC'S, OCCASIONAL SHORT BURSTS OF RAF/FLUTTER WITH VR UP TO 150, ON DAILY COUMADIN.  BP LABILE, NEO GTT TO KEEP MAP ~65. PALPABLE PEDAL PULSES. L RADIAL ALINE NONFXING, UNABLE TO ASPIRATE BLD FROM LINE, ALINE DC'D [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 548**] [**Name8 (MD) **] NP.
+
+ENDO:  ATE SANDWICH AND JELLO AT 2100. FSBS 187 AT 2330 COVERED WITH 8 UNITS REGULAR INSULIN SC AT 2400.
+
+GI: ABDOMEN SOFT, + BS. APPETITE GOOD, SWALLOWS WELL.
+
+GU: FOLEY TO CD DRAINING QS CLEAR URINE.
+
+SOCIAL: NO VISITORS OR PHONE INQUIRIES.
+
+PLAN:  CONTINUE TO ORIENT AS NEEDED UNTIL CONFUSION CLEARS. INCREASE ACTIVITY. ENCOURAGE PULM HYGIENE. WEAN OFF NEO GTT AS TOLERATED. REPLETE LYTES PER LABS.  SSRI COVERAGE FOR QID BS.
+",,
+5587,10741,6937,0,3469-09-19 12:48:00 EST,3469-09-19 13:10:00 EST,8665,"N",54,"Nursing/Other",,"
+
+Neuro: A&O x2, confused to person, needs constant reorientation; MAE's, follows command, PERRL; calm & cooperative
+
+CV: 1 burst of rapid AF in AM, HR 140's, converted by self; NSR with rare PAC's 70's; SBP 100's-120's, wean neo to keep SBP >100; 2 units PRBC's given for Hct 25.6; T max 99.4, blood culture sent
+
+Resp: 2L NC, sat 100%; lung sound clear; encouraged inc effort on pulm toilet; thick yellow sputum noted; IS to ~600
+
+GI: Tolerating reg diet; +bowel sound; abd soft 
+
+GU: Foley draining yellow clear urine, urine culture sent, marginal UO in AM, good UO after blood transfusion
+
+Integ: Intact
+
+Activity: Amb in hallway with 2L NC, tolerated well, stable HR & O2 sat; OOB to chair
+
+Pain: Denied pain
+
+Endo: covered per protocol
+
+Family: Family called & updated
+
+Plan: inc activity; aggressive pulm toilet; inc PO intake; wean neo gtt 
+",,
+5587,10741,6937,0,3469-09-20 03:01:00 EST,3469-09-20 03:12:00 EST,5606,"N",54,"Nursing/Other",,"
+
+neuro: pt alert, confused, disorient x2 to place and time. able to stated name and dob. very forgetful despite frequent reorientation. make incoherent statements. emotional labile-crying --""am I living or dying? what happen to me when I got home..I am like a baby"" pt frigidy-picking at gown/iv lines. pt need a lot emotional support with positive and firm reassurance ->frequent observation and at pt's bedside for support->improved. maex4 to command. fc consistently,no deficit. perl
+
+id: afebrile. cipro po for +urine cx. blood cx pnd
+
+cv: afib/sr w frequent pacs. replete lytes. weaned neo off w map>65. hct repeated ^29. skin w/d. sl gen edema. +pp. anticogulate w coumadin
+
+resp: ls crackles in bases, cl upper lobes. produc cough. no distress. sat>96% on 2lnc. although tachypnea 30s with emotional status /apprehension. frequent coaching to use IS/dbc. cpt
+
+gi: no difficulty swallowing. endo: treat bs w riss. gu: autodiuresis sufficient huo via f/c.
+skin: incis cdi. rash noted upper front/back body->? r/t drug/sheets/tapes ->notified team in am. coccyx and heels intact
+comfort: pt c/o ""gen bodily ache including sternal incis. med w tynelol w effect. No family call overnoc
+
+a/P: confuse, disorient w emotion labile need much support and reassurance/ & reorientation.
+
+con't anticoagulate w coumadin for prior afib. pulm toilet. ^diet and act. deline. check Rash. NEED social/psych c/s for emotional support. to f2 today? con't reorientation
+",,
+5587,10741,,,3469-09-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-21**] 10:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12329**]
+     Reason: eval effusions                                              
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old woman s/p CABG                                                     
+     REASON FOR THIS EXAMINATION:
+      eval effusions                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old female status post CABG.  Evaluate for pleural
+     effusions.
+     
+     COMPARISONS:  Comparison is made to [**3469-9-18**].
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  The right IJ central line has been removed.  The patient is status
+     post median sternotomy.  The aorta is calcified.  The cardiac contour remains
+     enlarged but is unchanged.  There is a persistent perihilar haziness which is
+     consistent with CHF and mild fluid overload.  There is a new left retrocardiac
+     opacity that most likely represent atelectasis.  However, aspiration pneumonia
+     or pneumonia cannot be excluded.
+     
+     IMPRESSION:
+     1)  Mild pulmonary edema.
+     2)  New left retrocardiac opacity could represent atelectasis, but pneumonia
+     or aspiration cannot be excluded.
+
+",,
+5587,10741,,,3469-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-22**] 11:33 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12330**]
+     Reason: r/o pna                                                     
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        82 year old woman s/p CABG                                                    
+       
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST.
+     
+     INDICATION:  Status post CABG.  Evaluate for pneumonia.
+     
+     FINDINGS:  Compared with [**3469-9-21**], there is persistent collapse/consolidation
+     and/or effusion at the left lung base.  No infiltrates are seen in the
+     visualized lung fields.  No CHF.
+                                                                           
+
+",,
+5587,10741,,,3469-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-23**] 3:02 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12331**]
+     Reason: evaluate L lung collapse                                    
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         82 year old woman s/p CABG                                                   
+         
+     REASON FOR THIS EXAMINATION:
+      evaluate L lung collapse                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST RADIOGRAPHS
+     
+     INDICATION:  82-year-old female status post CABG.  Evaluate left lower lobe
+     atelectasis.
+     
+     COMPARISON:  PA and lateral chest radiographs, [**3469-9-22**].
+     
+     FINDINGS:  The cardiomediastinal silhouette is stable in appearance. 
+     Retrocardiac opacity representing left lower lobe atelectasis appears mildly
+     improved.  Mild decrease in left pleural effusion.  Evidence of prior CABG
+     with mediastinal clips and median sternotomy wires.
+     
+     IMPRESSION:  Mild improvement in left lower lobe atelectasis and left pleural
+     effusion.
+                                                                           
+
+",,
+5587,10741,,,3469-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-25**] 4:11 PM
+     US EXTREMITY NONVASCULAR RIGHT                                  Clip # [**Clip Number (Radiology) 12332**]
+     Reason: ? fluid collection right knee and thigh                     
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman s/p CABG with EVH harvest                                     
+     REASON FOR THIS EXAMINATION:
+      ? fluid collection right knee and thigh                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82-year-old woman, status post CABG and EVH harvest, evaluate for
+     fluid collection in the right knee and thigh.
+     
+     COMPARISON:  None.
+     
+     LIMITED SOFT TISSUE ULTRASOUND:  Limited images were obtained of the right
+     knee area in the area of concern.  There is an ill-defined area of fluid
+     within the soft tissues of the right thigh medial to the popliteal fossa,
+     measuring 3.8 x 1.3 x 0.9 cm.
+     
+     IMPRESSION:  Ill-defined area of fluid within the soft tissues of the medial
+     right thigh, as described above, likely in the area of recent surgery.
+                                                                           
+
+",,
+5587,10741,,,3469-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3469-9-28**] 8:19 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12333**]
+     Reason: pleural effusion                                            
+     Admitting Diagnosis: NON-Q-WAVE MYOCARDIAL INFARCTION\CARDIAC CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          82 year old woman s/p CABG                                                  
+           
+     REASON FOR THIS EXAMINATION:
+      pleural effusion                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST RADIOGRAPH
+     
+     INDICATION:  82-year-old woman status post CABG.  Pleural effusion.
+     
+     COMPARISON:  Chest radiograph of [**3469-9-23**].
+     
+     TECHNIQUE AND FINDINGS: Frontal and lateral chest radiographs were obtained.
+     
+     The cardiomediastinal silhouette is stable in appearance.  There is
+     calcification of aortic knob, unchanged.  Retrocardiac opacity, probably
+     representing left lower lobe atelectasis, has slightly improved since the
+     previous study.  Bilateral small pleural effusions have slightly improved.
+     There is evidence of prior CABG with mediastinal clips and sternotomy wires.
+     
+     IMPRESSION:  Mild improvement in left lower lobe atelectasis and bilateral
+     pleural effusions.
+
+",,

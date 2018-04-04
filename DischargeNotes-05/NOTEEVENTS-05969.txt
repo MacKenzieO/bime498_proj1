@@ -1,0 +1,1856 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5969,13922,,,2852-12-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2852-12-29**]     Discharge Date:  [**2853-4-7**]
+
+Date of Birth:   [**2785-3-15**]     Sex:  F
+
+Service:
+
+ADDENDUM:  She has previously been dictated up until [**2853-3-10**].
+
+Ms. [**Known patient lastname **] [**Last Name (Titles) 7523**] state remained unchanged over the
+preceding four weeks.  In an attempt to improve her mental
+status, she was tried with Provigil 200 mg once per day,
+bromocriptine 7.5 mg, and Ritalin 20 mg b.i.d.  However,
+there was no change in her mental status.  She remained
+minimally responsive to voice.  Although she was awake during
+examination, she never followed commands beyond closing her
+eyes.
+
+Her main problems related to generalized spasticity,
+including spasticity of her neck and right upper extremity.
+In order to facilitate her physical therapy, she was started
+on Baclofen.  The doses were gradually titrated with some
+improvement in spasticity.
+
+She remained fed by a gastrostomy tube.  She had one possible
+episode of aspiration pneumonia without changes in her vital
+signs.  Her sputum and blood cultures remained negative;
+however, she was treated empirically with ceftriaxone.
+
+Her extended hospital stay has essentially related to her
+insurance status.  She is an illegal visitor from [**Country 1695**] and
+is not eligible for benefits.  We have been unable to find
+nursing home placement, and the family has been unsuccessful
+in their extensive attempts to secure funding for nursing
+home for her also.
+
+Her nutritional status remained good, although she did have
+evidence of an iron deficiency anemia.  Therefore, she was
+started on iron supplementation.
+
+CURRENT MEDICATIONS:  (Her current medications are)
+1.  Celexa 40 mg p.o. once per day.
+2.  Baclofen 25 mg p.o. t.i.d.
+3.  Ferrous sulfate 325 mg once per day.
+4.  Levetiracetam 1500 mg p.o. b.i.d.
+5.  Heparin 5000 units subcutaneously b.i.d.
+6.  Captopril 100 mg p.o. t.i.d.
+7.  Lansoprazole 30 mg once per day.
+8.  Metoprolol 100 mg p.o. t.i.d.
+
+She has had no difficulties with blood pressures, and she has
+had no further clinical seizures.
+
+Her care will be taken over by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7524**].
+
+
+
+                          [**Name6 (MD) 2308**] [**Name8 (MD) 2309**], M.D.  [**MD Number 2310**]
+
+Dictated By:[**Name8 (MD) 7525**]
+
+MEDQUIST36
+
+D:  [**2853-4-7**]  15:09
+T:  [**2853-4-8**]  06:56
+JOB#:  [**Job Number 7526**]
+Signed electronically by: DR. [**First Name (STitle) 2308**] [**Name (STitle) 2309**]
+ on: [**Doctor First Name 46**] [**2853-4-10**] 12:49 PM
+(End of Report)
+
+
+",,
+5969,13922,,,2852-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-29**] 2:57 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 170**]
+     Reason: follow up of thalamic bleed                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old woman with thalamic hemorrhage and shift                           
+     REASON FOR THIS EXAMINATION:
+      follow up of thalamic bleed                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT.
+     
+     CLINICAL INDICATION:  80___ year old woman with known right thalamic
+     hemorrhage.  Follow-up examination.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the foramen magnum
+     through the cranial vertex without the administration of IV contrast.
+     
+     COMPARISONS:  Comparison is made with the next-prior study from approximately
+     12 hours earlier.
+     
+     HEAD CT WITHOUT IV CONTRAST:  In the interval since the previous exam, there
+     has been placement of an intraventricular shunt from a left frontal approach.
+     There has been a resultant decrease in size in the left lateral ventricle as
+     well as the third ventricle.  There has been no interval change in the size of
+     hemorrhage originating from the right thalamic region with intraventricular
+     hemorrhage extending into the right lateral ventricle as well as the fourth
+     ventricle and aqueduct.  There has been no change in the slight shift of
+     normally midline structures to the left.  The temporal [**Doctor Last Name 168**] of the right
+     lateral ventricle remains dilated.  No new areas of edema are identified.  The
+     remainder of the study is unchanged.
+     
+     IMPRESSION:
+     
+     1) No significant interval change in extent of right thalamic hemorrhage with
+     intraventricular extent.
+     
+     2) Status post placement of intraventricular shunt with subsequent decrease in
+     the size of the left lateral and third ventricles.
+
+",,
+5969,13922,,,2852-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-29**] 3:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 167**]
+     Reason: assess the intracranial hemorrhage
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with thalamic hemorrhage and shift
+     REASON FOR THIS EXAMINATION:
+      assess the intracranial hemorrhage
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Thalamic hemorrhage assess.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS:
+     There is a 3 cm x 2.5 cm hemorrhage within the right thalamus with surrounding
+     hypodensity indicating edema with slight shift of the normally midline
+     structures to the left with extension as interventricular hemorrhage within
+     the right lateral ventricle, left lateral ventricle and fourth ventricle.
+     There is prominence of the ventricles bilaterally. The temporal [**Doctor Last Name 168**] of the
+     right lateral ventricle is dilated. There is a small area of hypodensity
+     within the right cerebellar hemisphere. There is periventricular white matter
+     low attenuation consistent with chronic microvascular ischemic change. No
+     extraaxial collections are identified. The osseous structures and visualized
+     paranasal sinuses are normal.
+     
+     IMPRESSION: 1. There is a large right thalamic hemorrhage with slight shift of
+     the normally midline structures to the left. There is interventricular
+     extension. There is dilatation of the ventricles consistent with non-
+     communicating hydrocephalus.
+     
+     2. Probable chronic right cerebellar infarction.
+     
+     These findings were directly communicated to the clinicians caring for the
+     patient at the time of the examination.
+
+",,
+5969,13922,,,2852-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-29**] 8:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 169**]
+     Reason: ? infiltrate                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with thalamic bleed, htn                                      
+     REASON FOR THIS EXAMINATION:
+      ? infiltrate                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  CVA, ? pneumonia.
+     
+     TECHNIQUE: Single portable AP view of the chest without comparisons.
+     
+     FINDINGS:  Endotracheal tube is placed in suitable position with the tip 3 cm
+     from the carina.  There is an NG tube with the tip in the stomach, and the
+     side port just below the diaphragm.  Vascular calcification within the aorta
+     is noted.  There is opacification of the left lower lobe, with air
+     bronchograms and loss of the left diaphragmatic border. These are consistent
+     with pneumonia.  No other focal pulmonary opacities or pleural effusions
+     identified.  No pneumothorax.
+     
+     IMPRESSION: Apiration pneumonia.
+
+",,
+5969,13922,7436,,2852-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-30**] 1:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 171**]
+     Reason: ventriculostomy drain block                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old woman with thalamic hemorrhage and shift                          
+       
+     REASON FOR THIS EXAMINATION:
+      ventriculostomy drain block                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P right thalamic hemorrhage and a ventriculostomy drain placed.
+     Currently not functioning. Evaluate for change in position.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     COMPARISON: Head CT from [**12-29**].
+     
+     FINDINGS: Again intraventricular shunt is seen entering from the left frontal
+     approach with its tip in the region of the 3rd ventricle. There is a
+     persistent asymmetry to the appearance of the temporal horns of the
+     ventricular system with the right being greater than the left. There has been
+     overall increase in size of the lateral and third ventricles, compared with
+     the prior exam.
+     Again the right thalamic hemorrhage is noted, not changed in size. There is
+     extension of the hemorrhage into the ventricular system predominantly
+     involving the right lateral ventricles with a small amount of layering blood
+     within the occipital [**Doctor Last Name 168**] of the left ventricle. There is mild shift of the
+     midline slightly to the left, unchanged.
+     There is blood along the intraventricular catheter course, involving the left
+     frontal lobe, consistent with hemorrhage along the tract. This has increased
+     from the prior study.
+     There is a stable area of hypodensity within the right cerebellar hemisphere
+     and stable periventricular white matter low attenuation, likely reflecting
+     chronic infarction.
+     
+     There is progressive increasing fluid within the ethmoid air cells, maxillary
+     and sphenoid sinuses likely related to the patient's intubation. The mastoid
+     air cells are free of fluid.  No skull fractures are seen. The orbits are
+     within normal limits.
+     
+     IMPRESSION:
+     
+     1. Stable right thalamic hemorrhage with slight shift of the normally midline
+     structures to the left.
+     2. Ventricular shunt unchanged in position. There is persistent mild asymmetry
+     to the ventricles, the right temporal [**Doctor Last Name 168**] is dilated, and there is
+     generalized increase in size of the ventricles, compared with the prior study.
+     This is consistent with the provided history of drain malfunction.
+     3. Slight increase in the amount of hemorrhage associated with the
+     ventriculostomy catheter tract in the left frontal cortex.
+     4. Remainder of the exam is unchanged.
+                                                                 (Over)
+
+     DATE: [**2852-12-30**] 1:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 171**]
+     Reason: ventriculostomy drain block                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+5969,13922,7436,,2852-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-30**] 12:47 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 172**]
+     Reason: progression of hemorrhage? hydrocephalus? drain location?   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old woman with thalamic hemorrhage and shift                         
+         
+     REASON FOR THIS EXAMINATION:
+      progression of hemorrhage? hydrocephalus? drain location?                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old female with a thalamic hemorrhage.  Assess for
+     progression of hemorrhage, hydrocephalus, drain location.
+     
+     TECHNIQUE:  Non-contrast CT exam of the head.
+     
+     COMPARISONS:  Head CT of approximately 11 hours earlier.
+     
+     FINDINGS:  There has been no significant change in the previously described
+     right thalamic hemorrhage with right intraventicular extension.  There is no
+     evidence of new intra or extra-axial hemorrhages.  There has been a decrease
+     in the amount of hemorrhage associated with the catheter tract of the left
+     frontal cortex.  With regard to the ventricular catheter, the tip of the
+     catheter appears to be slightly advanced on the present study with the tip now
+     overlying the inferomedial portion of the right thalamus.  There has been an
+     overall decrease in the size of the ventricles with persistent slight increase
+     in the size of the right temporal [**Doctor Last Name 168**].  There is no new mass effect or
+     increase in the slight leftward shift of the mid-line structures.  The
+     visualized paranasal sinuses are stable in appearance, with persistent fluid
+     within the ethmoid, maxillary and sphenoid sinuses.
+     
+     IMPRESSION:  1)  Stable right thalamic hemorrhage with slight leftward shift
+     of the mid-line structures.
+     
+     2)  Slight advancement of the intraventricular catheter with an associated
+     decrease in the size of the ventricles, compared with the prior study.
+     
+     3)  Decrease in the amount of hemorrhage associated with the catheter tract
+     within the left frontal cortex.
+     
+     4)  No new intra/extra-axial hemorrhages or mass effect.
+
+",,
+5969,13922,7436,0,2852-12-30 04:19:00 EST,2852-12-30 04:31:00 EST,3495,"N",54,"Nursing/Other","admission note","
+admission note
+D: PT TRANSFERRED FROM PACU AT 2200. SHORTLY AFTER ADMISSION, PT NOTED TO BE BITING ON ETT, UNABLE TO PLACE BITE BLOCK, PT BECAME INITALLY HYPERTENSIVE TO 200 BUT SOON HAD EPISODE OF BRADYCARDIA TO 45 WITH SUBSEQUENT DROP IN BP. HO IN TO SEE PT, VERSED 2MG IV GIVEN AND BITE BLOCK INSERTED AND PT AMBU'D, VSS RETURNED TO BASELINE. AT 2300, UNABLE TO GET WAVE FORM FOR VENTRICULOSTOMY AND DRAIN NOT DRAINING AT ALL. NEUROSURG AND NEUROMED TEAMS IN TO SEE PT. UNABLE TO GET DRAIN TO FUNCTION. STAT HEAD CT DONE AND VENTRICULOSTOMY DRAIN REPLACED.
+CV: T MAX 99.9, HR 80'S NSR, PT NOTED TO HAVE MULTIPLE PAC'S WHEN HR IN 50-60 RANGE. SBP 114-200. LABETOLOL GTT RESTARTED FOR SHORT TIME, PT GIVEN HYDRALAZINE AND LOPRESSOR.
+RESP: PT ON 40% CPAP WITH 10 IPS, 5 PEEP. RESP RATE 16-20 WITH SPONT TV 400'S. SATS 100%. BS DIMINISHED IN BASES OTHERWISE CLEAR.
+GI: NPO, ORAL GASTRIC TUBE DRAINING BILIOUS WITH SOME BLOOD TINGED FLECKS NOTED, ABD SOFT AND NON-TENDER, +BS
+GU: CLEAR YELLOW VIA FOLEY IN GOOD AMTS
+NEURO: RESPONDS TO PAINFUL STIMULI ONLY, MOVES RIGHT SIDE SPONT AND IS ABLE TO LIFT AND HOLD ON RIGHT SIDE. MOVES LEFT LEG IN BED, NO MOVEMENT OF LEFT ARM NOTED. PUPILS 2MM WITH SLUGGISH REACTION. DOES NOT FOLLOW COMMANDS. 
+A: NEURO STATUS MONITORED CLOSELY, GOAL OF SBP 130-150
+R: NEURO STATUS REMAINS GUARDED, CONTINUE TO MONITOR CLOSELY
+",,
+5969,13922,7436,0,2852-12-30 17:21:00 EST,2852-12-30 17:45:00 EST,-1,"N",54,"Nursing/Other","focus: sttus update.","
+focus: sttus update.
+NEURO: RESPONDES TO NOXIOUS STIMILI. CORNEALREFLEXES IMPAIRED, GAG REFLEX IMPAIRED, COUGH REFLEX WEAK. ABLE TO MOVE LARM AND LEG, MILD MOVEMENT OF L LEG NOTED INCONSISTENTLY. NO MOVEMENT OF L ARM. DOES NOT FOLLOWS COMANDS. PUPILS 2 MM BILAT. SLUG TO LIGHT. ICP INCREASED IN AM, BACK TO NORNAL DURING DAY--NO OTHER NEURO NEURO DEFICITS NOTED DURING PERIOD OF INCREASE OF ICP--SICU TEAM MADE AWARE. DOWN FOR HEAD CT THATSHOWED NODIFFERENCE FROM PRIOR CT SCAN.
+
+CV: HYPERTENSIVE, BP MAINTAINED BELOW 160 C/ EXEPTION OF TRANSIENT EPISODES OF HYPERTENSION DUE TO ACTIVITY. NSRC/ NO ECTOPY. PULSES WEAK BUT PALPABLE. LOW GRADE TEMP ALL DAY.
+
+RESP: CPAPC/ PS 5 AND 5. GASES OK NOT EXTUBATABLE DUE TO INABILITY TO MAINTAIN CLEAR AIRWAY DUE TO MENTAL STATUS. LARGE AMOUNTS OF WHITE THICK SPUTUM C/ STREAKS OF BLOOD. LUNG SOUNDS REMARKABLY CLEAR.
+
+GI: NPO,BOWEL SOUNDS HYPOACTIVE TO PRESENT. NGT TO LCS FOR MODERATE AMOUNTS OF BILIOUS SECRETIONS. ABDSOFT NON DISTENDED.
+
+GU: FOLEY CATH IN SITU DRAINING SMALL AMOUNTS OF YELLOW CLEAR URINE. 
+
+ENDO: COVERED C/ RISS.
+
+SOCIAL: FAMILY MEETING C/ NEUROLOGIST FOR UPDATE ON PT STATUS AND PROGNOSIS. FAMILY MEETING AFTER THIRD DAY POST [**Doctor First Name **] FOR NEW UPDATE AND PROGNOSIS.  
+
+PLAN: MONITOR NEURO, CV, GU STATUS CLOSELY. CONTINUE C/ CURRENT PLANON CARE 
+",,
+5969,13922,7436,,2852-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2852-12-31**] 11:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 173**]
+     Reason: post cvline placement                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old woman with thalamic bleed, htn                                     
+       
+     REASON FOR THIS EXAMINATION:
+      post cvline placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  67 year old woman with ophthalmic bleed and hypertension, s/p line
+     placement.
+     
+     COMPARISON:  [**2852-12-29**].
+     
+     PORTABLE CHEST:  There is a right internal jugular catheter in place with its
+     tip in the superior vena cava.  There is no pneumothoraces seen.  There has
+     been no change in the ETT and NGT.  There is a left lower lobe retrocardiac
+     opacity which appears to be slightly worse compared to the prior.  It is
+     silhouetting more of the aorta and diaphragm.  In addition there are ill-
+     defined opacities seen in the right upper lobe.  The cardiac silhouette is
+     enlarged.  The hilar and mediastinal contours are within normal limits.  The
+     pulmonary vasculature is within normal limits.  The visualized bones are
+     unremarkable.
+     
+     IMPRESSION:
+     1)  No pneumothorax.
+     2)  Worsening left lower lobe consolidation and ill-defined right upper lobe
+     opacities which are consistent with aspiration pneumonia.
+     3)  Cardiomegaly.
+
+",,
+5969,13922,7436,0,2852-12-31 06:04:00 EST,2852-12-31 06:27:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Neuro unchanged. Arouses to stimuli. Does not follow commands. No movement L side. RUE/RLE move spontaneously. Pupils 2mm/2mm, sluggish. Green exudated noted from R eye. T max 99.8.
+NSR with no ectopy seen.  One episode hypertension to 200's, treated with Labetelol gtt 3mg x2h. Returned to 140-160's. Good peripheral pulses. 
+LS coarse throughout bilat. Desatted to 80's x1 d/t lg yellow mucus plug.  Suctioned several times for thick yellow/green foul smelling mucous. Suctioned nose/mouth for thick yellow/green foul smellling mucous. 
+Abd soft with +BS. OGT to LCS draining bilious green heme + fluid.  No stool this shift. 
+UOP marginal, approx 30cc/h, amber with sediment.
+Lytes repleted.
+Plan: Monitor neuro status. Monitor SBP, treat PRN.
+",,
+5969,13922,7436,0,2852-12-31 17:20:00 EST,2852-12-31 17:31:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: MORE AWAKE DOESN'T FOLLOW COMMANDS..OPENS EYES TO VOICE..MOVES ALL EXTREM'S SPONTANIOUSLY EXCEPT LF ARM WHICH MOVES TO NOXIOUS STIMULI .. P SM = RL SLUGGISHLY..ICP @ 10 ABOVE TRAGUS DRAINING MOD AMT SEROUS SANG..PRESSURES 13-19
+A: TRIPLE LUMIN PLACED RT IJ WITHOUT PROB  X-RAY DONE..NO VENT CHANGES..SUCTIONED FOR MOD AMT THIN/FROTHY YELLOW/WHITE CULT SENT..ICP DOWN TO 15 ABOVE TRAGUS PER NEURO..TF'S STARTED OG WITH MIN RESIDUALS  ADQUATE HUO'S
+R: IMPROVED NEURO STATUS
+P: ATTEMPT TO HAVE PT FOLLOW COMMANDS WHEN FAMILY HERE TO TALK TO HER
+",,
+5969,13922,7436,,2853-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-1**] 12:38 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 174**]
+     Reason: eval Dobhoff placement                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval Dobhoff placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dubhoff catheter placement.
+     
+     PORTABLE CHEST: Comparison is made with film from 1 day earlier. The ETT has
+     been removed. The right IJ catheter tip is in the distal SVC. The new feeding
+     tube is in the stomach. Cardiac and mediastinal contours are grossly enlarged,
+     with enlargement of the cardiac silhouette again noted. There is still a
+     subtle infiltrate in the right upper lobe as well as a larger area of
+     nonspecific increased density in left retrocardiac area.
+     
+     IMPRESSION: 1. ETT removed.
+     2.  Feeding tube tip in stomach.
+
+",,
+5969,13922,7436,0,2853-01-01 06:37:00 EST,2853-01-01 06:46:00 EST,3647,"N",54,"Nursing/Other","focus hemdynmics","
+focus hemdynmics
+data: vs as per flow sheet. ventricular drain at 15cm above the tragus. drainage blood tinge. bp 130- 160's. on iv lopressor and hydralazine. hydralazine increased to q 4 hrs. u.o 25-100cc/hr. pt moves r arm and r leg. l arm and leg when lifted falls to the bed. airway in due to pt biting on the et tube. sputum tan/white and suctioned for copius amts of  sputum.
+action: on oxicillin iv , on iv lopressor and hydralazine for bp control. vent drain 15cm above the tragus. suctioned for copius amts of secretitions. 
+response: monitor closely. 
+",,
+5969,13922,7436,0,2853-01-01 16:33:00 EST,2853-01-01 16:37:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT EXTUBATED THIS MORNING AT 10 A.M. DID HAVE A LOT OF SECRETIONS WITH POOR COUGH. N/T SUCTIONED,ORAL AIRWAY PLACED AND ABLE TO CLEAR MOST OF SECRETIONS. VENT DRAIN 15 ABOVE TRAGUS, DRAINING BLOOD TINGED DRAINAGE. NEURO ASSESSMENT PER FLOW SHEET, NO CHANGE . TOLERATING TUBE FEEDS, FEEDING TUBE PLACED IN RIGHT NARE, CONFIRMED BY CHEST XRAY. DAUGHTER IN, VERY SUPPORTIVE.
+R: SLOWLY IMPROVING, ?ULTIMATE PROGNOSIS.
+",,
+5969,13922,7436,,2853-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-2**] 1:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 175**]
+     Reason: s/p dopoff tube insertion                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        64 year old woman with thalamic bleed, htn                                    
+         
+     REASON FOR THIS EXAMINATION:
+      s/p dopoff tube insertion                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  64 y/o with thalamic bleed and hypertension.  Status post Dobhoff
+     tube insertion.
+     
+     COMPARISON:  [**2852-12-31**].
+     
+     PORTABLE CHEST:  The tip of the right internal jugular catheter has migrated
+     into the proximal right atrium.  A feeding tube is seen with its tip in the
+     stomach.  There is a left lower lobe consolidation which did not change
+     compared to the prior study.  There is also perihilar haziness which is
+     consistent with mild interstitial edema and enlarged cardiac silhouette .  The
+     visaulized bones are unremarkable. 
+     
+     IMPRESSION:
+     1)  Mild cardiomegaly with a mild interstitial edema.
+     2)  Left lower lobe consolidation unchanged from the prior.
+     3)  Feeding tube tip in stomach.
+     4)  Tip of internal jugular catheter is in the right atrium and withdrawal of
+     the catheter a few cm may be considered.
+     
+
+",,
+5969,13922,7436,0,2853-01-02 04:23:00 EST,2853-01-02 04:39:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: VS  BP 150-200. HO NOTIFIED OF BP >190SYST. LABETOLOL 20MG IVP GIVEN. BP DOWN TO 160-170'S. REMAINS EXTUBATED. AIRWAY REMAINS IN PLACE AND SUCTIONED FOR LG AMT OF THICK TAN WHITE SPUTUM. 50%O2MASK. FDG TUBE NOTICIED TO BE CURLED IN MOUTH AND HO NOTIFIED.FDG TUBE D/C'D  AND WILL ATTEMPT TO PLACE A NEW ONE IN THE AM. 
+ACTION: OXICILLIN Q6HR GIVEN. REMAINS ON IV HYDRALAZINE AND IV LOPRESSOR.  ?RE LOOK AT ANTIHYPERTENSIVES. VENTRICULAR DDRAIN AT 15CM ABOVE THE TRAGUS. 
+RESPONSE: MONITOR CLOSELY. UPDATE TO SISTER. 
+",,
+5969,13922,7436,0,2853-01-02 17:44:00 EST,2853-01-02 17:54:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Opening eyes spontaneously. Pupils [**2-2**], sluggish. Making incomprehensible sounds. Does not follow commands. Moving RUE/RLE. Some slight move on bed of bilat left extrem. Vent drain conts open at 15/tragus, draining bld tinged CSF. Restless movement in bed.  Tmax 98.9. 
+Conts hypertensive to 200's. Lopressor and Hydralazine given IV with little response.  Nitropaste 2"" added with little response.  Given Lasix 10mg IVP with good increase in UOP but little BP effect. HR NSR to 100 with no ectopy seen. Good peripheral pulses felt. 
+Conts extubated with cool mist at 50% O2. LS coarse bilat throughout. Freq NT suctioning for thick, foul smelling tan sputum. Cough/gag impaired. Frequent mouth care for copious oral secretions, also foul smelling.
+Abd soft with +BS. New Dobhoff placed and confirmed by CXR. TF restarted at 40/h.  No residuals noted. 
+UOP marginal prior to Lasix.  Good response to Lasix. Urine amber with sediment. 
+Plan: Monitor neuro status. Freq NT suctioning and mouth care. ?CT tomorrow.
+",,
+5969,13922,7436,,2853-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-3**] 7:57 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 176**]
+     Reason: evaluate progress s/p shunt                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          80 year old woman with thalamic hemorrhage and shift                        
+           
+     REASON FOR THIS EXAMINATION:
+      evaluate progress s/p shunt                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  67 y/o female with a thalamic hemorrhage and shift. Evaluate for
+     progression.
+     
+     TECHNIQUE:  Noncontrast CT exam of the head.
+     
+     COMPARISONS: Head CT of [**2852-12-13**].
+     
+     FINDINGS:  There has been no progression of the previously described right
+     thalamic hemorrhage.  There is no new edema, mass effect, or shift of the
+     midline structures.  The draining catheter is unchanged in position. There are
+     no new intra or extra axial fluid collections.  There are no new major/minor
+     vascular territorial infarcts.  The ventricles are stable in appearance.
+     
+     There has been slightly increased opacification of the visualized sphenoid and
+     ethmoid sinuses.  Again noted is partial opacification of the mastoid air
+     cells.
+     
+     IMPRESSION:  Stable CT appearance of the brain.
+
+",,
+5969,13922,7436,0,2853-01-03 04:42:00 EST,2853-01-03 04:48:00 EST,3495,"N",54,"Nursing/Other","SYSTEM UPDATE","
+SYSTEM UPDATE
+D: CV: T MAX 99.4 AXILLARY. HR 70-90 NSR. SBP 150-210. PT GIVEN 2 INCHES NTG PASTE WITH NO CHANGE IN BP. LOPRESSOR INCREASED TO 15MG IV Q4HRS, LABETOLOL 10MG IV X2. 
+RESP: ORAL AIRWAY REMOVED AND NASAL TRUMPET PLACED, SX FOR MOD AMT THICK FOUL SMELLING TAN SECRETIONS. BS COARSE WITH MOD AMT UPPER AIRWAY CONGESTION WHICH CLEARS SOMEWHAT AFTER SUCTIONING. OPEN FACE TENT AT 40%. SATS 100%
+GI: TOL TF AT 50CC/HR. ABD SOFT AND NON-TENDER, NO STOOL
+GU: PT PULLING AT CATHETER AT ONE POINT CAUSING SOME BLOOD TINGED URINE, OTHERWISE NO ISSUES
+NEURO: MORE AWAKE THIS AM, MOVES RIGHT SIDE SPONT BUT NOT TO COMMAND, MOVES LEFT LEG TO PAINFUL STIMULI ONLY. NO MOVEMENT SEEN ON LEFT ARM, VENT DRAIN AT 15CM ABOVE TRAGUS WITH MOD AMT BLOODTINGED DRAINAGE
+A: STARTED ON CEFTAZIDIME FOR ? PNEUMONIA, SX PRN, ANTIHYPERTENSIVES GIVEN AS ORDERED
+R: REMAINS HYPERTENSIVE, ? CHANGE ANTIHYPERTENSIVES
+",,
+5969,13922,7436,0,2853-01-03 17:19:00 EST,2853-01-03 17:29:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+More alert today. Opening eyes spontaneously.  Recovering gag and cough. Moves R arm and leg freely/purposefully. Vent drain conts at 15/tragus.  Conts draining mod amts bloody/bld tnged CSF.  Does not follow commands. Incomprehensible sounds. Head CT done today. T max 99.8.
+Conts hypertensive to 200's. NSR to occas ST, with no ectopy seen. Anti hypertensive meds changed, with PO's added. Good peripheral pulses. 
+LS conts coarse bilat throughout.  Oral airway placed for suctioning.  Suctioned numerous times for copious amts thick tan secretions.  Shovel mask with O2 at 50% conts. Sats 99-100%.
+Abd soft with +BS. TF at goal of 70 via Dobhoff. No residuals noted. No stool this shift.
+Foley patent. UOP adequate. Given Lasix 10mg IVP x1 with good response.
+Plan: Cont diuresis. Maximize antihypertensives. Monitor neuro.
+",,
+5969,13922,7436,0,2853-01-04 04:47:00 EST,2853-01-04 05:14:00 EST,-1,"N",54,"Nursing/Other",,"
+
+D Neuro: Pt alert currently fairly lethargic at start of shift. PERL but sluggish somwhat. Moves rt arm freely lifts and hold rt leg but with noted stiffness. no movement of l arm noted. moves l foot to stimuli no spontanious movment noted. since 3am pt apears to be more alert grasped hand and opened eyes to command but inconsistant. making garbled noise question attemp to communicate, little if any tracking. reoriented pt frequently. Ventriculostomy drain 15 at trongus.drainage seroussangious fluid. ICP 10-13 
+CV: NSR to ST no VEA. SBP consistantly >180 noted to drop to 170's for short period after hydralazine.2'of NTP on.meds as ordered and charted. Palp DP/PT.RIJ 3 lumen.NS KVO. 
+Lungs: rhonchorus to coarse through out lung fields. Initially suction for thick yellow sputum now tan to white and less thick. Oral airway in . Removed airway for short period but pt unable to maintain; began snoring. Pt has a cough and at times expectorates but often unable to totally clear sputum. required frequent suctioning. 40% FT on.  
+GI : ABD soft. bowel sounds present. Impact with finer FS @ 70 no residual Dopoff in place check with auscultation. Passing Gas no BM as yet.
+GU: foley to C/D U/O > 30 and lasix 10mg given at 0400.
+Skin: very Dry lotion applied  no breaks in skin eccept head dsg which is D/I.
+A stable with inability to manage own airway.Neuro status compromised.
+P Turn and suction frequently Do CPT q4 hour gentle. Maintain ventriculostmy as order not drainage report changes as indicated continue q2 neuro checks. Continue TF.
+",,
+5969,13922,7436,0,2853-01-04 18:23:00 EST,2853-01-04 18:48:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: INITIALLY MORE RESPONSIVE MOVING RT SIDE NOT FOLLOWING COMMANDS P=RL..HYPERTENSIVE 200/-180/'S
+A: STARTED ON LABETALOL GTT @ 1MGM DOWN TO .25MGM WITH SBP 130/-140/'S ..ICP @ 15 ABOVE TRAGUS OPEN DRAINING MOD AMT BLD TINGED..RUNNING [**7-10**]..DSG D&I..SUCTIONED FOR LGE AMT FROTHY WHITE ORALLY SUCTIONED NT FOR THICK TAN/BLD TINGED ORAL AIRWAY REMAINS IN..TOL TF'S WELL.. ADQUATE HUO'S..INCT LOOSE BROWN STOOL GUIAC NEG..FIB PLACED
+R: ESSENTIALLY UNCHANGED
+P: CONTINUE WITH GOOD PULM TOILET 
+",,
+5969,13922,7436,,2853-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-5**] 3:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 177**]
+     Reason: evaluate lungs, high secretions                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         64 year old woman with thalamic bleed, htn                                   
+           
+     REASON FOR THIS EXAMINATION:
+      evaluate lungs, high secretions                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Thalamic bleed with high secretions.
+     
+     FINDINGS:  A single frontal view of the chest.
+     
+     COMPARISON:  [**2853-1-3**].
+     
+     There is a right internal jugular catheter with tip in the mid superior vena
+     cava.  Nasogastric tube terminates within the stomach.  The patient is
+     rotated.  When compared with the prior study, there has been interval
+     opacification of much of the left lung with abrupt truncation of the left main
+     stem bronchus which may be secondary to mucous plug.  There is volume loss
+     involving the left lower lobe and likely portions of the lingula.  There are
+     patchy areas of consolidation within both lungs.  No pleural effusion is seen
+     on the right.  No pneumothorax is seen.
+     
+     IMPRESSION:
+     
+     1.Interval volume loss in association with truncation of the left main stem
+     bronchus.  This is consistent with volume loss likely secondary to a mucous
+     plug.
+     
+     2. Consolidation in right lung which may reflect asymmetric edema or
+     infection.
+
+",,
+5969,13922,7436,0,2853-01-05 16:40:00 EST,2853-01-05 16:48:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: NEURO ESSENTIALLY UNCHANGED..HTN 150/-170/ WITH AGITATION
+A: LABETOLOL GTT RESTARTED UP AS HIGH AS 1.0MGM NOW DOWN .25MGM STARTED ON DIAMOX PO WITH IMPROVED HUO'S..LESS SECREATIONS SUCTIONED FOR SM AMT THIN TAN/WHITE..ICP 5-12 DRAINING SM AMT SEROUS SANG..ABG'S IMPROVED
+R: ESSENTIALLY UNCHANGED
+P: AS BEFORE
+
+",,
+5969,13922,7436,,2853-01-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-6**] 12:33 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 178**]
+     Reason: Changing mental status, after vent drain height elevated    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           80 year old woman with thalamic hemorrhage and shift                       
+             
+     REASON FOR THIS EXAMINATION:
+      Changing mental status, after vent drain height elevated                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change in mental status, known thalamic hemorrhage.
+     
+     TECHNIQUE:  Non-contrast CT exam of the head.
+     
+     FINDINGS:  There has been no significant change in the previously described
+     right thalamic hemorrhage.  There is no new edema, mass effect or shift of the
+     mid-line structures.  The tip of the draining catheter is again seen overlying
+     the mesencephalic cistern. There are no new intra or extra-axial fluid
+     collections.  There are no new major/minor vascular territorial infarcts.
+     Again noted is a probable old infarct of the right cerebellar hemisphere.  The
+     ventricles are stable in appearance.
+     
+     This is a somewhat limited evaluation secondary to patient motion during the
+     acquisition of images.
+     
+     IMPRESSION:  Stable CT appearance of the brain.  Slightly limited by patient
+     motion.
+
+",,
+5969,13922,7436,0,2853-01-06 16:50:00 EST,2853-01-06 17:10:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT EASILY AROUSABLE TO VOICE. PUPILS EQUAL AND ROUND AT 3MM, BUT SLUGGISHLY REACTIVE TO LIGHT. DOES NOT FOLLOW COMMANDS, BUT A LANGUAGE BARRIER DOES EXIST. PER PT'S DTR, PT FOLLOWING SOME COMMANDS. MOVES RUE AND RLE WELL, MIN SPONT MOVEMENT OF LLE ON BED, AND NO MOVEMENT OF RUE SPONTANEOUSLY OR IN RESPONSE TO PAIN. VENT DRAIN RAISED TO 20CM ABOVE THE TRAGUS PER NEURO-[**Doctor First Name **]. CONTINUES TO DRAIN MOD AMTS BLOOD TINGED FLUID. HEAD CT DONE THIS AFTERNOON. OFFICIAL READ PENDING. GAG IMPAIRED, COUGH IMPROVING, BUT WEAK.
+RESP: LS COARSE AT UPPER AIRWAYS. PT UNABLE TO MANAGE COPIOUS ORAL SECRETIONS. NT SUCTIONED VIA NASAL TRUMPET FOR MOD AMTS FROTHY WHITE SPUTUM. 
+CV: T 99.9 AXILLARY. NSR. NO ECTOPY. PALPABLE PEDAL PULSES. LABETALOL GTT ON AT 3 MG/MIN AT START OF SHIFT. CURRENTLY WEANING DOWN TO MAINTAIN SBP 120-150. CAPTOPRIL DOSE INCREASED. 1.5 L FLUID RESTRICTION RECOMMENDED BY NSURG DUE TO NA 133. AWAITING INPUT FROM NUTRITON RE: APPROPRIATE CONCENTRATED TUBE FEED FORMULA.
+GI: ABD SOFT. SM AMTS LIQUID BROWN STOOL MANAGED BY FIB, SENT FOR CDIFF. TOL TFS OF IMPACT WITH FIBER WELL VIA DOBOFF.
+GU: FOLEY INTACT AND PATENT FOR ADEQUATE AMTS CLOUDY YELLOW U/O. UA SENT.
+ENDO: FSBG COVERED PER RISS. 
+PLAN: CONT TO MONITOR NEURO STATUS CLOSELY. FREQUENT ORAL AND NT SUCTIONING TO MANAGE SECRETIONS. EMOTIONAL SUPPRT TO FAMILY. 1.5 L FLUID RESTRICTION. CONT PER CURRENT MGMT.
+
+",,
+5969,13922,7436,0,2853-01-07 05:22:00 EST,2853-01-07 05:31:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO; PUPILS #2 SLUGGISH, MOVES RT ARM UP OFF BED, MOVES RT FOOT, DOES NOT MOVE LEFT ARM OR HAND, SLIGHT WITHDRAWAL OF LEFT FOOT TO NOXIOUS STIMULATION, FREQUENTLY TRACKS WITH EYES, ICP 8-14, VENT DRAIN 20 CM AT TRAGUS, SMALL AMT BLOOD TINGED MATERIAL, WEAK COUGH AND GAG, LABETOLOL AT 0.1 MGM/MIN TO KEEP SYS GOAL OF 120-160, 
+
+CARDIOVASCULAR; HR 80'S SR, TEMP 99 AX, SYS BP AS ABOVE, EXTREMITIES WARM, 
+HCT 26 THIS AM, BLOOD CLOT SENT TO LAB FOR POSSIBLE TX, HCT REPORTED TO SICU H.O.
+RESPIR; SUCTIONED VIA NASOPHARYNX AND ORALLY FOR THICK YELLOW SECRETIONS, ORAL BITEBLOCK REMOVED, NASAL TRUMPET INTACT, COARSE BREATH SOUNDS, FREQUENT REPOSITIONING TO PROMOTE PULMONARY TOILETING
+
+ENDOCRINE; BS 163-141, COVERED VIA SLIDING SCALE, TUBE FEEDINGS AT 50CC/HR OF RESPALOR, 
+
+RENAL; URINE OCCAS BLOOD TINGED WITH CLOTS , U/O GOOD
+",,
+5969,13922,7436,0,2853-01-07 17:39:00 EST,2853-01-07 17:43:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT'S NEURO EXAM  ESSENTIALLY UNCHANGED. UNABLE TO ASSESS IF CAN FOLLOW COMMANDS DUE TO LANGUAGE BARRIER, BUT DOES LOOK WHEN NAME CALLED, AND OPENS EYES WHEN NAME CALLED, OTHERWISE, DOES NOT FOLLOW COMMANDS. PURPOUSFUL MOVEMENT OF RIGHT SIDE, MINIMAL MOVEMENT OF LEFT ARM,  AND ONLY WITHDRAWS WITH LEFT LEFT. NASAL TRUMPET IN PLACE, SUCTIONED Q 1/2-1 HR FOR MOD-COPIOUS AMOUNTS THICK TAN SECRETIONS. SATS GOOD, NO ABGS DONE TODAY. DRAIN 20 ABOVE TRGAUS, DRAINED 46CC BLOOD TINED FLUID. TOLERATING TUBE FEEDS, NO SIGNS OF ASPIRATION. IV MEDS CHANGED TO PO, BP PRETTY MUCH LESS THAN 160/YET DID RECEIVE ONE DOSE OF 10 MG LABETOLOL FOR SBP>185. REMAINS ON SMALL AMOUNT OF LABETOLOL DRIP.
+R: STABLE. NO CHANGE. TRANSITIONING IV ANTIHYPERTENSIVE MEDS TO PO. NO FAMILY IN TODAY.
+",,
+5969,13922,7436,,2853-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-8**] 8:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 179**]
+     Reason: eval for pneumonia                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          64 year old woman with thalamic bleed, htn febrile                          
+                   
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   History of stroke and fever. 
+     
+     PORTABLE AP CHEST:  Feeding tube is in stomach.  Right jugular CV line is in
+     distal SVC. No pneumothorax. Since the previous film of [**2853-1-5**], there has been
+     partial re-expansion of the left lung with persistent opacity in the left lung
+     zone obscuring the left hemidiaphragm.  Linear atelectasis in the left mid
+     zone.  There has been resolution of the focal area of air space opacity in the
+     right upper lobe.  There is prominence of the left heart but difficult to
+     evaluate in this single AP view in view of the persistent collapse
+     consolidation of the left lower lobe.
+     
+     IMPRESSION:  Partial re-expansion of left lung with persistent left lower lobe
+     consolidation/collapse.  Resolution of right upper lobe
+     consolidation.Prominent left cardiac contour.
+
+",,
+5969,13922,7436,0,2853-01-08 06:26:00 EST,2853-01-08 06:34:00 EST,3601,"N",54,"Nursing/Other",,"
+
+NEURO EXAM UNCHANGED BUT APPEARS TO BE MORE RESPONSIVE TO NAME AND FOLLOWS W/EYES.
+BP IN BETTER CONTROL; OFF LABETALOL AND ON MULTIPLE PO ANTIHYPERTENSIVES.
+",,
+5969,13922,7436,0,2853-01-08 18:05:00 EST,2853-01-08 18:06:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT'S DRAIN CLAMPED TODAY BY NEUROSURG TEAM. OPENED THREE TIMES FOR 5 MIN EACH FOR ICP>26. ICP CAME DOWN TO AROUND 15, DRAINED TOTAL OF 40CC. MORE ALERT TODAY, DID FOLLOW SOME COMMANDS WITH TRANSLATOR. VS PER FLOW SHEET. NO  CHANGE IN MEDS.
+R: STABLE. 
+   ?CT IN AM TO ASSESS HYROCEPHALUS.
+",,
+5969,13922,7436,0,2853-01-09 17:50:00 EST,2853-01-09 17:59:00 EST,3790,"N",54,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 98.8
+
+NEURO:  WHEN FAMILY VISITING, PT SPEAKING CREOLE/FRENCH WITH THEM, FAMILY STATES ANSWERING APPROPRIATELY, FOLLOWING COMMANDS, DENIES PAIN, KNOWS SHE IS IN THE HOSPITAL.  PLEASE SEE CAREVIEW.  VENT DRAIN CLAMPED ENTIRE SHIFT, ICP ~ 12.  
+
+CV:  HR 80'S-100 NSR/ST.  EKG DONE DUE TO ? T WAVE CHANGES.  NO CHANGES PER DR. [**Last Name (STitle) 1793**].  DIFFICULT TO GET BP INTO GOAL PARAMETER OF < 160.  IV LOPRESSOR X1, INCREASED DOSE OF CAPTOPRIL, NTP X1 WITH FINALLY SOME EFFECT BY 1730. (PLEASE NOTE LARGE DIFFERENCE BETWEEN A-LINE AND NBP PRESSURES, TEAM AWARE).  LASIX X1 WITH EFFECT PENDING.  TLCL D/C'D AND TIP (MIDDLE) SENT FOR CULTURE.  + PPP BILAT, P BOOTS.  FLUID BALANCE + 900CC'S MN-1700.
+
+RESP:  LS COARSE, DESPITE CHEST PT, NTS FOR LARGE AMOUNTS THICK WHITE SPUTUM.  PT COUGH AND GAG REMAIN IMPAIRED, ? IMPROVING.  O2 SATS ~ 100 % ON 4 L/M NC.  
+
+GI:  TUBE FEEDS @ GOAL, STOOL LIQUID, GUIAC NEG.
+
+GU:  FOLEY-BSD.
+
+R:  AFEBRILE, NEURO STATUS IMPROVING PER PT'S FAMILY, BP DIFFICULT TO MANAGE, VENT DRAIN REMAINS CLAMPED.
+
+P:  CONTINUE FOR GOAL SBP < 160.  IF ICP >25 X 5 MINS, OPEN DRAIN X5 MINS THEN RE-CLAMP.  IF NO ISSUES OVERNIGHT, TO HAVE HEAD CT IN AM AND THEN ? D/C DRAIN.  CONTINUE WITH CURRENT CLOSE MONITORING AND MANAGEMENT.
+",,
+5969,13922,7436,,2853-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-10**] 5:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 180**]
+     Reason: Evaluate for pneumonia, LLL collapse                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           64 year old woman with thalamic bleed, htn febrile                         
+                     
+     REASON FOR THIS EXAMINATION:
+      Evaluate for pneumonia, LLL collapse                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left lower lobe collapse and thalamic bleed.
+     
+     FINDINGS:  A single frontal view of the chest with comparison to [**2853-1-8**].  A
+     feeding tube terminates within the stomach.  There is persistent opacification
+     of the left retrocardiac region which is not significantly changed.  When
+     compared with the prior study, there has been interval airspace disease
+     involving the left upper lobe.  There are no focal abnormalities within the
+     right lung.  No pneumothorax is seen.  There is no definite congestive heart
+     failure.  The heart is large but not significantly changed.
+     
+     IMPRESSION:
+     
+     1.  Persistent left lower lobe consolidation versus collapse.
+     
+     2.  Interval alveolar opacities within the left upper lobe.  This may
+     represent an asymmetric pulmonary edema.  Alternatively, aspiration or
+     infectious process should be considered.
+
+",,
+5969,13922,7436,,2853-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-10**] 9:22 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 181**]
+     Reason: S/P BLEED EVAL FOR HYDROCEPHALUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           67 year old woman with thalamic hemorrhage and ventricular drain clamped 
+      for 36 hour eval for hydrocephalus             
+     REASON FOR THIS EXAMINATION:
+      Evaluate for hydrocephalus                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thalamic hemorrhage, ventricular drain clamped for 36
+     hours.  Evaluate for hydrocephalus.
+     
+     TECHNIQUE:  Noncontrast CT exam of the head.
+     
+     COMPARISONS:  Head CT of [**2853-1-6**].
+     
+     FINDINGS:  There has been no significant change in the size/appearance of the
+     previously described right thalamic hemorrhage.  There has been a slight
+     decrease in the amount of blood within the occipital [**Doctor Last Name 168**] of the right lateral
+     ventricle.  There is a persistent mild leftward shift of the midline
+     structures.  There is slight prominence of the ventricles when compared to the
+     previous study.  The draining catheter is unchanged in position.  There is no
+     evidence of new intra-extra-axial hemorrhages or mass effect.  There is no
+     evidence of new vascular territorial infarcts.  The visualized soft tissues
+     and osseous structures are stable.  Again noted is a significant amount of
+     opacification of the paranasal sinuses, right side greater than left and the
+     mastoid air cells.
+     
+     IMPRESSION:  Stable appearance of the right thalamic hemorrhage.  Slight
+     prominence of the ventricles when compared to the previous study of [**2853-1-6**].
+
+",,
+5969,13922,7436,0,2853-01-10 05:20:00 EST,2853-01-10 05:40:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+     PT OPENS EYES TO NAME/STIMULI, UNABLE TO ASSESS ORIENTATION TO PLACE OR TIME.  PUPILS ARE EQUAL BILATERALLY, BUT SLUGGISH.  PT MOVING RIGHT UPPER & LOWER EXTREMITIES, MINIMAL MOVEMENT OF LLE AND NO MOVEMENT OF LUE.  VENT DRAIN CLAMPED, ICP READINGS RANGING ~[**9-21**].  IN AM, ICP 26-27 X5 MINUTES AND DRAIN UNCLAMPED.  NO NEURO CHANGES NOTED @ THIS TIME.  DR. [**Last Name (STitle) 1794**] NOTIFIED AND VENT DRAIN CLAMPED AFTER 5 MINUTES, ICP READINGS NOW REMAIN ~[**8-20**].
+     PT WITH ELEVATED ABP, AS HIGH AS 220 SYSTOLIC DURING SUCTIONING.  PT'S SBP REMAINING 190'S @ REST (CUFF READING 160'S).  DR. [**Last Name (STitle) 1795**] AWARE, PRN NTP AND IV LOPRESSOR GIVEN WITH MINIMAL EFFECT.  HR REMAINS 90'S NSR.  CAPTOPRIL AND LOPRESSOR GIVEN AS ORDERED THRU DOBHOFF.  PT ALSO RECEIVED TYLENOL DUE TO LOW GRADE FEVER.  PT NOW APPEARS MORE CALM AND ABP 160'S/60'S.  
+     PT WITH COARSE BREATH SOUNDS THROUGHOUT THE NIGHT, REQUIRING FREQUENT NT SUCTIONING FOR MOD AMTS THICK WHITE SECRETIONS.  MAINTAINING SP02 100% ON 4L NC. AM CXR DONE.
+PLAN:
+     CONTINUE WITH PULMONARY TOILETING AND MONITOR CLOSELY.  HEAD CT SCAN AND ? DC VENT DRAIN TODAY.  
+",,
+5969,13922,7436,0,2853-01-10 16:45:00 EST,2853-01-10 16:58:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Sleepy, arouses to stim. Vent drain clamped until 1300. Opened x2 for ICP >25. Left open at 1300 per neurosurg, 20/tragus, draining bld tng CSF. More responsive to daughter, follows basic commands. Daughter states Pt seems less responsive and more lethargic than yesterday. Little to no movement of R side noted. Low grade temp to 100.7 noted. Head CT done, shows resolving bleed, enlged ventricles.
+Conts hypertensive in periods to SBP in 190's. Responsive to cardiac meds per NGT. Good peripheral pulses. 
+LS cont coarse bilat throughout. CPT done. NT suctioned frequently for large amts thick yellow/tan sputum. Lungs sound coarse despite suctioning. O2 on at 2L/nc. Sats 97-100%.
+Abd soft with + BS. Feeding tube patent, intact in L nare. TF infusing at 50ml/h. No residuals noted. FIB intact, draining brown stool.
+Plan:  Cont to monitor neuro closely. Monitor SBP, treat as needed. 
+",,
+5969,13922,7436,0,2853-01-11 01:23:00 EST,2853-01-11 01:29:00 EST,-1,"N",54,"Nursing/Other","Nursing note 7P-1A","
+Nursing note 7P-1A
+Neuro unchanged. Moves R side, not left. Vent drain open at 20/tragus, draining bld tng CSF. Low grade temp conts.
+Conts hypertensive in periods to 200. No ectopy seen. NSR to ST. Good peripheral pulses. 
+LS coarse/rhonchorous bilat. Suctioned numerous times for thick bld tng yellow secretions. CPT done. O2 2L/nc. Sats 99-100.
+Abd soft with +BS. FIB intact, draining green liq stool. TF cont via feeding tube. No residuals noted.
+Foley patent, draining QS clear yellow urine.
+Plan: cont monitor neurostatus.
+",,
+5969,13922,7436,0,2853-01-11 16:59:00 EST,2853-01-11 17:09:00 EST,3062,"N",54,"Nursing/Other",,"
+
+nuero: pt does open her eyes with stimuli, or at times  if [**Doctor First Name **] call her name, pt only speaks french/creole unable to assess orientation, pt does at times will try and say something, but difficult understanding what pt is trying to say. pt does not follow any commands.pt does spontanouesly move right arm and right leg off bed,  pt slight spontanoues movement noted in left lower leg, pt only slightly withdraws left arm to painful stimuli. ventricular drain remains 20cm above tragus, icp 4-12, [**First Name8 (NamePattern2) **] [**Doctor Last Name **] pa aware. pt with blood tinged drainage from ventricular catheter.
+
+pulm 02sat 98-100% on 2lnp, nasal tracheal suctioning pt every 2-3hours for whitish/tannish secretions. chest pt done every 3-4hours.
+sputum sent.
+
+
+cards: pt continues in sr, sbp as high as 195 when pt turning or pt being suctioned, pt continues on lopressor, capoten,hydralazine.
+
+
+gi: pt continues on tube feedings at goal.
+
+gu:u/o has been greater than 40cc/hr. pt continues to have liquid greenish stool, fecal bag intact, c-diff culture sent.
+
+f/e k 3.8 tx with 40meq kcl via ng-tube.
+
+
+",,
+5969,13922,7436,,2853-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-12**] 12:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 182**]
+     Reason: Evaluate Dobhoff placement                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            64 year old woman with thalamic bleed, htn febrile                        
+                       
+     REASON FOR THIS EXAMINATION:
+      Evaluate Dobhoff placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  64 y/o woman with thalamic bleed.  Evaluate Dobhoff placement.
+     
+     AP PORTABLE UPRIGHT CHEST, 12:30 PM:
+     
+     Compared to prior study 2 days ago, Dobbhoff tube tip is now in the body of
+     the stomach.  There is a large left pleural effusion with cardiomegaly as
+     before.
+     
+
+",,
+5969,13922,7436,0,2853-01-12 01:21:00 EST,2853-01-12 01:30:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+   PT OPENS EYES TO NAME/VOICE, DOES NOT FOLLOW COMMANDS OR VERBALLY RESPOND.  PUPILS ARE EQUAL AND REACTIVE, BUT SLUGGISH.  PT MOVING BOTH RIGHT UPPER AND LOWER EXTREMITIES, NO MOVEMENT OF LEFT EXTREMITIES (RESPOND TO PAINFUL STIMULI).  ICP RANGING [**6-13**], BLOOD-TINGED DRAINAGE.  VENT DRAIN LEVELED 20 @ TRAGUS.  NO NEURO CHANGES NOTED. 
+    LS COARSE THROUGHOUT, MAINTAINING SP02 100% ON 2L NC.  PT WITH OCCASIONAL WEAK, NONPRODUCTIVE COUGH.  NT SUCTIONED Q3-4 HRS FOR MOD AMT BLOOD TINGED SPUTUM, CPT DONE REGULARLY.
+    HR 80'S-90'S, NORMAL SINUS RYTHYM WITHOUT ECTOPY.  ABP 160'S/60'S, CONTINUED ON LOPRESSOR, CAPTOPRIL, AND HYDRALAZINE AS ORDERED.  SYSTOLIC BP RISES TO 200 WITH MOVEMENT/STIMULATION.  
+PLAN:
+    CONTINUE WITH CURRENT CARDIAC MED REGIMEN.  FOLLOW NEURO STATUS FOR CHANGES.  
+",,
+5969,13922,7436,0,2853-01-12 18:15:00 EST,2853-01-12 18:20:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO; OPENS EYES SPONTANEOUSLY AND TO VOICE, PERL #2, SLUGGISH, DEMONSTRATES LEFT VISUAL NEGLECT, MOVES RT ARM AND RT LEG BUT NO MOVEMENT LEFT LEG OR LEFT ARM, VENT DRAIN OPEN AT 20 AT TRAGUS, SMALL AMT CLEAR DGE, ICP 6-9, SYS BP 150'S-180'S, GIVEN LOPRESSOR 10 MGM IV AND THEN RPT 5 MGM IV WITH LITTLE EFFECT (PT HAD PULLED OUT DOBOFF TUBE AND NOT ABLE TO TAKE PO)
+
+RESPIRATORY; LUNGS CLEAR THIS AM, SL COARSE RT CHEST THIS PM, SUCTIONED FOR THICK WHITE-YELLOW SECRETIONS FROM ORAL AREA, CHEST PT X 4, NASAL PRONGS AT 2 L/MIN, 02 SAT 98%, 
+
+CARDIOVASCULAR; HR 80'S-90'S SR, OCCAS UP TO LOW 100'S, ESP WITH STIMULATION, TEMP 100 AXILLARY THIS PM, 
+
+ENDOCRINE; TUBE FEEDINGS OFF ALL AM DUE TO PT PULLING OUT TUBE, SOME ANTIHYPERTENSIVES ON HOLD AND SICU MD AWARE, DOBOFF TUBE REINSERTED AND CXR DONE TO CONFIRM, TUBE FEEDINGS OF RESPALOR RESTARTED AT 50CC/HR, AND PT NOW RECEIVNG PO ANTIHYPERTENSIVE VIA TUBE, 
+",,
+5969,13922,7436,,2853-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-13**] 9:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 183**]
+     Reason: EVALUATE DOBHOFF PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             64 year old woman with thalamic bleed, htn febrile                       
+                         
+     REASON FOR THIS EXAMINATION:
+      Evaluate Dobhoff placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  65 y/o female with thalamic bleed, hypertension, and febrile.
+     Evaluate for OGT placement.
+     
+     AP PORTABLE CHEST: Comparison is made to previous films from  [**2853-1-12**].
+     
+     FINDINGS:  A Dobbhoff OG tube line is seen with its tip in the mid portion of
+     the stomach. The cardiomediastinal borders are unchanged.  The pulmonary
+     vasculature is normal. The right lung field and right costophrenic angle are
+     clear. There is continued left sided retrocardiac opacity consistent with
+     collapse and/or consolidation of the left lower lobe. There is no
+     pneumothorax.
+     
+     IMPRESSION:   Dobbhoff line in mid portion of stomach. Otherwise unchanged,
+     stable findings.
+
+",,
+5969,13922,7436,0,2853-01-13 00:20:00 EST,2853-01-13 00:30:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PT AROUSES TO VOICE, UNABLE TO COMMUNICATE ? DUE TO NEURO STATUS OR LANGUAGE BARRIER.  PT UNABLE TO FOLLOW COMMANDS.  PT'S SIGHT WITH LEFT SIDED NEGLECT, PUPILS ARE EQUAL BUT SLUGGISH.  ABLE TO MOVE RIGHT SIDE EXTREMITES, NO MOVEMENT OF LEFT EXTREMITIES.  ICP READINGS [**4-9**], VENT DRAIN LEVELED 20 @ TRAGUS WITH CLEAR CSF.  NO NEURO CHANGES NOTED THIS SHIFT.
+    LS CLEAR, DIMINISHED @ BASES; PT MAINTAINING SP02 100% ON 2LNC.  PT EXPECTORATING MOD AMTS SPUTUM, WEAK COUGH.  CPT DONE REGULARLY.  HR 80'S-90'S NSR WITHOUT ECTOPY.  SBP MAINTAINED 140-160'S WITH HYDRALAZINE, LOPRESSOR, AND CAPTOPRIL.  PT CONTINUES TO MAINTAIN ADEQUATE HRLY U/O.
+PLAN: 
+    PT WITH UNCHANGED NEURO EXAM.  CONTINUE TO FOLLOW ICP READINGS AND NEURO CHECKS (? WHEN VENT DRAIN TO BE DC'D BY NEUROSURG).  FOLLOW BP, CONTINUE WITH CURRENT BP MED REGIMEN.
+",,
+5969,13922,7436,0,2853-01-13 16:46:00 EST,2853-01-13 16:59:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: NEURO STATUS UNCHANGED..VSS 
+A: REMAINS ON LOPRESSOR/HYDRALIZINE TO KEEP SBP <160/..TOL TF'S WELL BS'S FOLLOWED BY SLIDING SCALE..NOT REQUIRING AS MUCH NT SUCTIONING  LUNGS COARSE SUCTIONED WHITE/TAN..DIAMOX X1 GOOD RESULTS..ICP DRAIN CLAMPED PRESSURES <18
+R: UNCHANGED
+P: CONTINUE WITH GOOD PULMONARY TOILET..MONITOR ICP'S CLOSELY
+",,
+5969,13922,7436,0,2853-01-14 02:37:00 EST,2853-01-14 02:49:00 EST,-1,"N",54,"Nursing/Other","FOCUS UPDATE NOTE","
+FOCUS UPDATE NOTE
+T MAX 99.8 80-90S NSR, NO ECTOPY, SBP MAINTAINED BELOW 160 , PRN DOSE LOPRESSOR 5 MG GIVEN AT 2300 FOR SBP 168.
+
+RESP: LS COARSE IN UPPER LOBES AND DIMINISHED IN LOWER LOBES- CHEST PT PERFORMED Q 4 HOURS- DECREASED SECRETIONS. RR 20S- O2SAT 100%- 2 LITERS VIA N/C
+
+NEURO: ICP < 15 ALL SHIFT- VENT DRAIN CLAMPED AT 20 AT TRAGUS- ? VENT TO BE D/CED IN AM. SOME TRACKING NOTED WITH EYES. PT LOCALIZING PAIN WITH RIGHT SIDE AND SPONT MOVEMENT WITH RIGHT UPPER AND LOWER EXT- APPEARS PURPOSEFUL. NO MOVEMENT ON LEFT- PUPILS [**2-3**] BRISK REACTION BILATERALLY
+
+GU/GI: GREEN LIQ STOOL VIA FIB BAG- BS PRESENT, VOIDING CLEAR YELLOW URINE VIA FOLEY CATH- ADEQUATE OUTPUT.- DOPHOFF- FEEDING AT 50CC/HR- AIR INSTILLED AND PLACEMENT CONFIRMED OVER STOMACH REGION  
+
+PLAN: POSSIBLE D/C OF VENT DRAIN IN AM, ? TRANSFER TO FLOOR, CONT TO MONITOR NEURO SIGNS
+
+
+",,
+5969,13922,7436,0,2853-01-14 17:32:00 EST,2853-01-14 18:02:00 EST,3621,"N",54,"Nursing/Other","STATUS","
+STATUS
+D: NEURO UNCHANGED DOESN'T FOLLOW COMMANDS EVEN WHEN SPOKEN TO IN HER PRIMARY LANGUAGE
+A: SUCTIONED ORALLY FOR SM AMT THICK WHITE/YELLOW..TOL TF'S WELL..MOD AMT LIG GREEN STOOL..DRAIN REMAINS CLAMPED WITH ICP 7-21 
+R: UNCHANGED
+P: CONTINUE WITH GOOD PULMONARY TOILET..? DC DRAIN
+",,
+5969,13922,7436,,2853-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-15**] 10:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 184**]
+     Reason: Please eval for hydrocephalus, ventricular drain clamped for
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            67 year old woman with thalamic hemorrhage and ventricular drain clamped  
+      for 36 hour eval for hydrocephalus             
+     REASON FOR THIS EXAMINATION:
+      Please eval for hydrocephalus, ventricular drain clamped for 36h.               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Thalamic hemorrhage and ventricular drain clamp for 36 hours.
+     Evaluate for hydrocephalus.
+     
+     TECHNIQUE: Noncontrast CT exam of the head.
+     
+     COMPARISONS: Head CT of [**2853-1-10**].
+     
+     FINDINGS: There has been minimal interval decrease in the size of the
+     previously described right thalamic hemorrhage. There is no new mass effect or
+     shift of the midline structures. No new intra- or extra-axial hemorrhages are
+     identified. The drainage catheter is unchanged in position. Aside from a very
+     slight increase in the size of the temporal horns of the lateral ventricles,
+     the ventricular system is essentially unchanged in appearance. The [**Doctor Last Name **]-white
+     matter differentiation remains preserved. The soft tissues and osseous
+     structures are stable. Again noted is moderate-to-severe opacification of the
+     sphenoid, ethmoid and mastoid air cells.
+     
+     IMPRESSION: Stable-appearing right thalamic hemorrhage. A very slight increase
+     in the size of the temporal horns, as described above. Otherwise, no
+     significant change since the exam of [**2853-1-10**].
+     
+     
+
+",,
+5969,13922,7436,0,2853-01-15 04:43:00 EST,2853-01-15 04:52:00 EST,-1,"N",54,"Nursing/Other","FOCUS UPDATE NOTE","
+FOCUS UPDATE NOTE
+VSS AFEBRILE 80-90S NSR- RARE PVC SEEN- SBP MAINTAINED BELOW 160
+
+NEURO: VENT DRAIN 20 AT TRAGUS - CLAMPED- ?D/C DRAIN TODAY- ICP REMAINED LESS THAN 15, NEURO STATUS ESSENTIALLY UNCHANGED. MORE TRACKING WITH EYES NOTED- PT SPONT OPENS EYES- DOES NOT FILLOW COMMANDS - BUT WILL GRIP WITH RIGHT HAND WHEN SPOKEN TO- SPONTANEOSLY MOVES RIGHT UPPER AND LOWER EXT.- MOVEMENT OF LOWER LEFT EXT TO PAIN STIM- NO SPON MOVEMENT OF LEFT SIDE.- PUPILS [**Last Name (un) **] 3/3MM BRISK
+
+RESP: PULMONARY TOILET CONT- CHEST PT PERFORMED Q 4 HOURS- ORAL SUCTION FOR THICK WHITE SECRETIONS AND NT SUCTION FOR THIN WHITE SECRETIONS- LS COARSE BILATERALLY, GAG AND COUGH ARE WEAK.
+
+PLAN: CONT WITH NEURO ASSESSMENT, VENT DRAIN ? D/C , CONT WITH PULM TOILET.
+
+
+",,
+5969,13922,,,2853-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-17**] 11:20 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 185**]
+     Reason: please eval for inteval change                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with thalamic hemorrhage and hydrocephalus with recently 
+      removed ventricular drain 
+     REASON FOR THIS EXAMINATION:
+      please eval for inteval change                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67 y/o female with thalamic hemorrhage and hydrocephalus with
+     recently removed ventricular drain.
+     
+     TECHNIQUE:  CT of the brain without intravenous contrast.
+     
+     COMPARISONS: Prior exam of [**2853-1-15**].
+     
+     FINDINGS:  There has been no significant change in the size or appearance of
+     the previously described right thalamic hemorrhage.  There are no intra or
+     extra axial fluid collections. The thalamic hemorrhage continues to cause mild
+     mass effect upon adjacent structures, but this too appears stable in the
+     interval.  The patient is status post removal of a ventricular drain. The
+     ventricles appear stable without evidence of hydrocephalus. There is a small
+     amount of air within the right frontal [**Doctor Last Name 168**] of the lateral ventricle which is
+     most likely related to the recent drain removal. The [**Doctor Last Name **]-white matter
+     differentiation is grossly preserved. The visualized osseous structures are
+     unremarkable. The paranasal sinuses again demonstrate moderate to severe
+     opacification of the ethmoid, sphenoid and mastoid air cells.
+     
+     IMPRESSION:  Stable appearance of right thalamic hemorrhage and ventricular
+     system.
+
+",,
+5969,13922,,,2853-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-17**] 11:21 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 186**]
+     CT PELVIS W/CONTRAST
+     Reason: CT chest/ abdomen and pelvis - patient with endocarditis; lo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with thalamic bleed and endocarditis.                         
+     REASON FOR THIS EXAMINATION:
+      CT chest/ abdomen and pelvis - patient with endocarditis; looking for 
+      liver/spleen/kidney emboli; also to assess left lung consolidation 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endocarditis.  Evaluation for liver, spleen or kidney emboli.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis.  Due to the patient's debility 150 cc of optiray were
+     administered.
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no evidence of axillary, hilar or
+     mediastinal lymphadenopathy.  There is evidence of atelectasis of the left
+     lower lobe with fluid filled bronchi.  There is shift of the mediastinum to
+     the left.  The heart has a very thick left ventricular muscle measuring 2.3 cm
+     in the septum and 1.1 cm in the lateral wall.  The right lung shows no masses.
+      There is evidence of some alveolar changes in the right upper lobe.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The liver does not show focal masses or
+     abnormalities.  The gallbladder and bile ducts are unremarkable.  The
+     pancreas, spleen, adrenals and kidneys are unremarkable.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The pelvis does not show focal masses or
+     abnormalities.  No ascites is seen.
+     
+     IMPRESSION:
+     1)  Atelectasis of the left lower lobe with shift of the mediastinum into the
+     left.  Some patchy alveolar changes are noted on the right as well.
+     2)  Thickening of the left ventricular muscle more marked in the septum.
+     
+
+",,
+5969,13922,,,2853-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-17**] 11:21 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 186**]
+     CT PELVIS W/CONTRAST
+     Reason: CT chest/ abdomen and pelvis - patient with endocarditis; lo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with thalamic bleed and endocarditis.                         
+     REASON FOR THIS EXAMINATION:
+      CT chest/ abdomen and pelvis - patient with endocarditis; looking for 
+      liver/spleen/kidney emboli; also to assess left lung consolidation 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endocarditis.  Evaluation for liver, spleen or kidney emboli.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis.  Due to the patient's debility 150 cc of optiray were
+     administered.
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no evidence of axillary, hilar or
+     mediastinal lymphadenopathy.  There is evidence of atelectasis of the left
+     lower lobe with fluid filled bronchi.  There is shift of the mediastinum to
+     the left.  The heart has a very thick left ventricular muscle measuring 2.3 cm
+     in the septum and 1.1 cm in the lateral wall.  The right lung shows no masses.
+      There is evidence of some alveolar changes in the right upper lobe.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The liver does not show focal masses or
+     abnormalities.  The gallbladder and bile ducts are unremarkable.  The
+     pancreas, spleen, adrenals and kidneys are unremarkable.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The pelvis does not show focal masses or
+     abnormalities.  No ascites is seen.
+     
+     IMPRESSION:
+     1)  Atelectasis of the left lower lobe with shift of the mediastinum into the
+     left.  Some patchy alveolar changes are noted on the right as well.
+     2)  Thickening of the left ventricular muscle more marked in the septum.
+     
+
+",,
+5969,13922,,,2853-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-17**] 11:21 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 186**]
+     CT PELVIS W/CONTRAST
+     Reason: CT chest/ abdomen and pelvis - patient with endocarditis; lo
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with thalamic bleed and endocarditis.                         
+     REASON FOR THIS EXAMINATION:
+      CT chest/ abdomen and pelvis - patient with endocarditis; looking for 
+      liver/spleen/kidney emboli; also to assess left lung consolidation 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endocarditis.  Evaluation for liver, spleen or kidney emboli.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis.  Due to the patient's debility 150 cc of optiray were
+     administered.
+     
+     CT OF THE CHEST WITH CONTRAST:  There is no evidence of axillary, hilar or
+     mediastinal lymphadenopathy.  There is evidence of atelectasis of the left
+     lower lobe with fluid filled bronchi.  There is shift of the mediastinum to
+     the left.  The heart has a very thick left ventricular muscle measuring 2.3 cm
+     in the septum and 1.1 cm in the lateral wall.  The right lung shows no masses.
+      There is evidence of some alveolar changes in the right upper lobe.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  The liver does not show focal masses or
+     abnormalities.  The gallbladder and bile ducts are unremarkable.  The
+     pancreas, spleen, adrenals and kidneys are unremarkable.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The pelvis does not show focal masses or
+     abnormalities.  No ascites is seen.
+     
+     IMPRESSION:
+     1)  Atelectasis of the left lower lobe with shift of the mediastinum into the
+     left.  Some patchy alveolar changes are noted on the right as well.
+     2)  Thickening of the left ventricular muscle more marked in the septum.
+     
+
+",,
+5969,13922,,,2853-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-20**] 5:18 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 187**]
+     Reason: please evaluate ngt placement                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with new ngt                                                  
+     REASON FOR THIS EXAMINATION:
+      please evaluate ngt placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Assess NG tube placement.
+     
+     PORTABLE SUPINE ABDOMEN, 1 VIEW: The upper most diaphragms are not included on
+     this exam.  A partially visualized NG tube is seen in the expected region of
+     the stomach.  The bowel gas pattern is within normal limits without evidence
+     of ileus or obstruction.  No free air is noted.
+     
+     
+
+",,
+5969,13922,,,2853-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-28**] 10:56 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 188**]
+     Reason: Please check placement of left PICC line. Please page IV nur
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with endocarditis, rt. thalmic bleed requires 6 wks abx.      
+     REASON FOR THIS EXAMINATION:
+      Please check placement of left PICC line. Please page IV nurse [**First Name (Titles) 189**] [**Last Name (Titles) 190**] reading 
+      #[**9-/3293**]   thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endocarditis with right thalamic bleed. Status post PICC line
+     placement. Check position.
+     
+     Comparison is made to prior exam of [**2853-1-13**].
+     
+     FINDINGS:  A left sided PICC line is seen with its tip just below the
+     SVC/right atrial junction. There is no pneumothorax. Again noted is marked
+     enlargement of the heart, with the appearance of likely polychamber
+     involvement. Some asymmetry of the breast shadows is noted, although this may
+     be related to position as no abnormalities are seen on recent prior exam.
+     There is continued appearance of left sided retrocardiac opacity consistent
+     with collapse/consolidation. The pulmonary vasculature is within normal
+     limits. There is no right pleural effusion and a possible small left pleural
+     effusion cannot be excluded. The osseous structures are stable.
+     
+     IMPRESSION:
+     1. Satisfactory position of PICC line. No pneumothorax.
+     2. Marked likely polychamber enlargement of the heart. Cardiac evaluation is
+     recommended when feasible.
+     3. Continued appearance of left basilar collapse/consolidation. Small left
+     effusion cannot be excluded.
+
+",,
+5969,13922,,,2853-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-28**] 10:56 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 191**]
+     Reason: s/p PEG - please eval for obstruction                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with large stroke, s/p PEG                                    
+     REASON FOR THIS EXAMINATION:
+      s/p PEG - please eval for obstruction                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Stroke and PEG placement.
+     
+     G tube overlies left mid abdomen. Distribution of bowel gas is unremarkable.
+
+",,
+5969,13922,,,2853-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-29**] 4:23 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 192**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN ELEVATED PANC. ENZYMES.
+     Field of view: 32 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abdominal pain and elevation of pancreatic enzymes.      
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pancreatitis                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   A 67-year-old woman with abdominal pain and elevation of pancreatic
+     enzymes.
+     
+     TECHNIQUE:  Multiple axial images from the lung bases to the pubic symphysis
+     were obtained following the administration of oral contrast and 150 cc of
+     Optiray.  Prior to the administration of intravenous contrast, images of the
+     abdomen were also obtained and reviewed.
+     
+     CERVICOTHORACIC OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The
+     lung bases are clear.  The liver, spleen, gallbladder, adrenal glands, and
+     kidneys are unremarkable.  No hydronephrosis is identified.  The kidneys
+     enhance and excrete contrast symmetrically.  The opacified loops of small
+     bowel and large bowel are unremarkable.  There is a G-tube extending into the
+     stomach.  There is no free fluid in the abdomen.  No free air is seen.  The
+     pancreas appears normal.  There is no fat stranding outlining the pancreas.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The distal ureters and bladder are
+     unremarkable.  The rectum and loops of bowel in the pelvis are unremarkable.
+     No inguinal lymph adenopathy or pelvic lymph adenopathy is identified.  No
+     free air is seen.
+     
+     BONE WINDOWS:  No suspicous lytic or blastic lesions are identified.
+     
+     Multiple injection granuomas in the soft tissues of the lower back are
+     identified.
+     
+     IMPRESSION:   No evidence of pancreatitis.
+
+",,
+5969,13922,,,2853-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-29**] 9:48 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 193**]
+     Reason: decreased alertness                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with thalamic hemorrhage and hydrocephalus                    
+     REASON FOR THIS EXAMINATION:
+      decreased alertness                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     CLINICAL INDICATION: 67-year-old female with a thalamic hemorrhage and
+     hydrocephlus, now with decreased alertness.
+     
+     TECHNIQUE: CT of the brain without intravenous contrast.
+     
+     Comparison is made to the prior examination dated [**2853-1-17**].
+     
+     FINDINGS: The residua of the previously described right thalamic hemorrhage
+     persist. It now has a target-like appearance, with a hyperdense rim and
+     center. This most likely represents evolution of the hemorrhage, which
+     originally was much more extensive. There is no evidence of an acute
+     intracranial hemorrhage. There is persistent mass effect with impingement upon
+     the right lateral ventricle and mild shift of the midline structures at the
+     level of the thalamus. Overall, there has been an improvement in the degree of
+     mass effect and edema, consistent with partial resorption of the hemorrhage.
+     The [**Doctor Last Name **]/white matter differentiation is grossly preserved. There are areas of
+     low attenuation within the white matter adjacent to the cerebral ventricles
+     which could represent a mixture of residual edema and chronic microvascular
+     ischemic changes. The ventricles are not enlarged.
+     
+     The visualized paranasal sinuses are notable for mucosal thickening involving
+     the sphenoid sinuses as well as mild opacification of the mastoid air cells.
+     
+     A bony defect from the now-removed ventricular drain is present in the left
+     frontal bone.
+     
+     IMPRESSION: Continued evolution of subacute right thalamic hemorrhage.
+     Although this appearance would be most unsuual for an infectious process,
+     imaging with intravenous contrast in the setting of a subacute hemorrhage
+     would not be specific for abscess, given the breakdown of the blood-brain
+     barrier that is caused by numerous pathological processes, including
+     hemorrhage. 
+     
+     
+
+",,
+5969,13922,,,2853-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-29**] 4:23 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 192**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN ELEVATED PANC. ENZYMES.
+     Field of view: 32 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abdominal pain and elevation of pancreatic enzymes.      
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pancreatitis                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   A 67-year-old woman with abdominal pain and elevation of pancreatic
+     enzymes.
+     
+     TECHNIQUE:  Multiple axial images from the lung bases to the pubic symphysis
+     were obtained following the administration of oral contrast and 150 cc of
+     Optiray.  Prior to the administration of intravenous contrast, images of the
+     abdomen were also obtained and reviewed.
+     
+     CERVICOTHORACIC OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The
+     lung bases are clear.  The liver, spleen, gallbladder, adrenal glands, and
+     kidneys are unremarkable.  No hydronephrosis is identified.  The kidneys
+     enhance and excrete contrast symmetrically.  The opacified loops of small
+     bowel and large bowel are unremarkable.  There is a G-tube extending into the
+     stomach.  There is no free fluid in the abdomen.  No free air is seen.  The
+     pancreas appears normal.  There is no fat stranding outlining the pancreas.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The distal ureters and bladder are
+     unremarkable.  The rectum and loops of bowel in the pelvis are unremarkable.
+     No inguinal lymph adenopathy or pelvic lymph adenopathy is identified.  No
+     free air is seen.
+     
+     BONE WINDOWS:  No suspicous lytic or blastic lesions are identified.
+     
+     Multiple injection granuomas in the soft tissues of the lower back are
+     identified.
+     
+     IMPRESSION:   No evidence of pancreatitis.
+
+",,
+5969,13922,,,2853-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-1-29**] 4:23 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 192**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ABD PAIN ELEVATED PANC. ENZYMES.
+     Field of view: 32 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abdominal pain and elevation of pancreatic enzymes.      
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pancreatitis                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:   A 67-year-old woman with abdominal pain and elevation of pancreatic
+     enzymes.
+     
+     TECHNIQUE:  Multiple axial images from the lung bases to the pubic symphysis
+     were obtained following the administration of oral contrast and 150 cc of
+     Optiray.  Prior to the administration of intravenous contrast, images of the
+     abdomen were also obtained and reviewed.
+     
+     CERVICOTHORACIC OF THE ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The
+     lung bases are clear.  The liver, spleen, gallbladder, adrenal glands, and
+     kidneys are unremarkable.  No hydronephrosis is identified.  The kidneys
+     enhance and excrete contrast symmetrically.  The opacified loops of small
+     bowel and large bowel are unremarkable.  There is a G-tube extending into the
+     stomach.  There is no free fluid in the abdomen.  No free air is seen.  The
+     pancreas appears normal.  There is no fat stranding outlining the pancreas.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The distal ureters and bladder are
+     unremarkable.  The rectum and loops of bowel in the pelvis are unremarkable.
+     No inguinal lymph adenopathy or pelvic lymph adenopathy is identified.  No
+     free air is seen.
+     
+     BONE WINDOWS:  No suspicous lytic or blastic lesions are identified.
+     
+     Multiple injection granuomas in the soft tissues of the lower back are
+     identified.
+     
+     IMPRESSION:   No evidence of pancreatitis.
+
+",,
+5969,13922,,,2853-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-11**] 11:07 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 194**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with endocarditis and right thalamic bleed                    
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 67 y/o woman with endocarditis and thalamic bleed.
+     
+     COMPARISON: [**2853-1-28**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH: There is polychamber cardiomegaly, with no
+     evidence of failure. There is persistent left lower lobe collapse, probably
+     compression by the marked cardiac enlargement.
+     
+     IMPRESSION: Continued left lower lobe collapse. 2) Cardiomegaly without
+     evidence of failure.
+
+",,
+5969,13922,,,2853-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5969,13922,,,2853-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-11**] 1:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 195**]
+     Reason: r/o increase in hydropcephalus or new hemmorhage            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with thalamic hemorrhage and hydrocephalus less responsive 
+      this am                  
+     REASON FOR THIS EXAMINATION:
+      r/o increase in hydropcephalus or new hemmorhage                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Thalamic hemorrhage and hydrocephalus, less responsive, assess
+     for increasing hydrocephalus or new hemorrhage.
+     
+     Comparison is made to prior study of [**2853-1-29**].
+     
+     TECHNIQUE: CT head with no IV contrast.
+     
+     CT HEAD WITH NO IV CONTRAST: There is no evidence of acute intracranial
+     hemorrhage. The previously reported right thalamic hemorrhage demonstrates
+     interval decrease in density and slight decrease in size, consistent with
+     evolving  hemorrhage. There is also slight decrease in the associated mass
+     effect. Currently, there is no evidence of midline shift or hydrocephalus. The
+     [**Doctor Last Name **] white matter differentation appears unremarkable. Areas of decreased
+     density are noted in the periventricular white matter of both cerebral
+     hemispheres, consistent with chronic microvascular infarctions, unchanged
+     since the prior study.
+     
+     An air fluid level is noted in the right sphenoid sinus air cell.
+     Opacification of the mastoid air cells are also noted, with associated osseous
+     sclerosis, indicative of a chronic inflammatory process.
+     
+     IMPRESSION:
+     
+     1. Findings are consistent with evolving hematoma in the right thalamic
+     region. Currently there is no hydrocephalus or midline shift.
+     
+     2. Sinusitis and probable chronic mastoid air cell infection.
+     
+     
+     
+
+",,
+5969,13922,,,2853-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-12**] 12:09 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 196**]
+     Reason: ELEV AMYLASE,LIPASE - ABD PAIN - ? PANCREATITIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with abdominal pain and elevation of pancreatic enzymes.     
+       
+     REASON FOR THIS EXAMINATION:
+      r/o pancreatitis                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DEWd WED [**2853-2-12**] 6:57 AM
+      cardiomegally, improving consolidation left base, 8mm left renal stone
+      
+      no pancreatitis
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 67 year old woman with abdominal pain and elevation of pancreatic
+     enzymes.
+     
+     CT ABDOMEN AND PELVIS WITH CONTRAST; CT ABDOMEN W/O CONTRAST
+     
+     COMPARISON: [**2853-1-29**]
+     
+     TECHNIQUE: Contiguous serial axial images were obtained from the lung bases
+     through the pubic symphysis after the administration of 150 cc of nonionic
+     Optiray contrast.  Additional precontrast images were obtained through the
+     abdomen.
+     
+     CT ABDOMEN W/O&W CONTRAST: The visualized lung bases demonstrate left basilar
+     collapse/consolidation, improved compared to prior study.  Linear atelectasis
+     is present at the right base.  There are no pleural effusions.  There is a
+     small pericardial effusion and cardiomegaly, incompletely visualized.  This
+     finding is not significantly changed from prior study.
+     
+     The liver, gallbladder, pancreas, spleen, and adrenals are normal in
+     appearance.  There are no peripancreatic calcifications or stranding to
+     suggest pancreatitis.  Within the upper pole of the left kidney is an 8 mm
+     simple cyst.  An 8 mm left nonobstructing nephrolith is present, unchanged
+     from prior study.  Both kidneys demonstrate prompt symmetric nephrograms.  A
+     gastrostomy tube is present.  Intraabdominal loops of large and small bowel
+     are otherwise unremarkable.  There is no ascites or free intraperitoneal gas.
+     There are extensive vascular calcifications.
+     
+     CT PELVIS WITH CONTRAST: The rectum is somewhat distended with fluid and stool
+     and an air-fluid level is present.  The bladder, uterus and intrapelvic loops
+     of bowel are otherwise unremarkable.  There is no free pelvic fluid.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS: Osseous structures demonstrate multilevel degenerative changes,
+     without suspicious lytic or blastic foci.
+                                                                 (Over)
+
+     DATE: [**2853-2-12**] 12:09 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 196**]
+     Reason: ELEV AMYLASE,LIPASE - ABD PAIN - ? PANCREATITIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1) No evidence of pancreatitis.
+     
+     2) Improving left lower lobe collapse/consolidation.
+     
+     3) Small pericardial effusion.
+     
+     4) Nonobstructing left nephrolithiasis.
+
+",,
+5969,13922,,,2853-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-12**] 8:08 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 197**]
+     Reason: H/O ENDOCARDITIS ,PANCREATITIS ,EVAL FOR ABDOMINAL LESION,ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with ?pancreatitis                                            
+     REASON FOR THIS EXAMINATION:
+      r/o abdominal lesion? abcess/+pancreatitis...known endocarditis, stroke 
+      (secondary to septic emboli)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Stroke and endocarditis. Suspicious for pancreatitis or abdominal
+     abscess.
+     
+     COMPARISON:  CAT scan from [**2853-2-12**].
+     
+     FINDINGS:  The echo texture of the liver is normal. No focal lesion is seen.
+     Multiple stones are noted inside the gallbladder with no signs of
+     cholecystitis. The intra and extrahepatic bile ducts are not dilated.  The
+     pancreas is unremarkable with no fluid around it and no focal lesions.  The
+     spleen is  not enlarged.  Small pleural effusion is seen on the left side.
+     
+     Both kidneys measure 9.2 cm.  A stone is noted in the mid-portion of the left
+     kidney  with no signs of obstruction.  No masses or hydronephrosis is noted.
+     No free fluid is seen within the abdomen or pelvis.
+     
+     There is no significant change in comparison with previous CAT scan.
+     
+     IMPRESSION:
+     
+     1)  Gallstones with no signs of cholecystitis.
+     2)  There is no free fluid or focal fluid collections within the abdomen or
+     pelvis.
+
+",,
+5969,13922,,,2853-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-12**] 12:09 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 196**]
+     Reason: ELEV AMYLASE,LIPASE - ABD PAIN - ? PANCREATITIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with abdominal pain and elevation of pancreatic enzymes.     
+       
+     REASON FOR THIS EXAMINATION:
+      r/o pancreatitis                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DEWd WED [**2853-2-12**] 6:57 AM
+      cardiomegally, improving consolidation left base, 8mm left renal stone
+      
+      no pancreatitis
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 67 year old woman with abdominal pain and elevation of pancreatic
+     enzymes.
+     
+     CT ABDOMEN AND PELVIS WITH CONTRAST; CT ABDOMEN W/O CONTRAST
+     
+     COMPARISON: [**2853-1-29**]
+     
+     TECHNIQUE: Contiguous serial axial images were obtained from the lung bases
+     through the pubic symphysis after the administration of 150 cc of nonionic
+     Optiray contrast.  Additional precontrast images were obtained through the
+     abdomen.
+     
+     CT ABDOMEN W/O&W CONTRAST: The visualized lung bases demonstrate left basilar
+     collapse/consolidation, improved compared to prior study.  Linear atelectasis
+     is present at the right base.  There are no pleural effusions.  There is a
+     small pericardial effusion and cardiomegaly, incompletely visualized.  This
+     finding is not significantly changed from prior study.
+     
+     The liver, gallbladder, pancreas, spleen, and adrenals are normal in
+     appearance.  There are no peripancreatic calcifications or stranding to
+     suggest pancreatitis.  Within the upper pole of the left kidney is an 8 mm
+     simple cyst.  An 8 mm left nonobstructing nephrolith is present, unchanged
+     from prior study.  Both kidneys demonstrate prompt symmetric nephrograms.  A
+     gastrostomy tube is present.  Intraabdominal loops of large and small bowel
+     are otherwise unremarkable.  There is no ascites or free intraperitoneal gas.
+     There are extensive vascular calcifications.
+     
+     CT PELVIS WITH CONTRAST: The rectum is somewhat distended with fluid and stool
+     and an air-fluid level is present.  The bladder, uterus and intrapelvic loops
+     of bowel are otherwise unremarkable.  There is no free pelvic fluid.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS: Osseous structures demonstrate multilevel degenerative changes,
+     without suspicious lytic or blastic foci.
+                                                                 (Over)
+
+     DATE: [**2853-2-12**] 12:09 AM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 196**]
+     Reason: ELEV AMYLASE,LIPASE - ABD PAIN - ? PANCREATITIS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1) No evidence of pancreatitis.
+     
+     2) Improving left lower lobe collapse/consolidation.
+     
+     3) Small pericardial effusion.
+     
+     4) Nonobstructing left nephrolithiasis.
+
+",,
+5969,13922,,,2853-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-2-18**] 11:16 AM
+     VENOUS DUP EXT UNI (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 198**]
+     Reason: LT ARM SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with edematous left hand.  paretic s/p rt thalamic bleed      
+     REASON FOR THIS EXAMINATION:
+      left upper extremity DVT.                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Left upper extremity swelling and edema. 
+     
+     ULTRASOUND DOPPLER OF THE DEEP VENOUS SYSTEM IN THE UPPER EXTREMITY:
+     
+     FINDINGS:   Color and spectral doppler flow were evaluated in the left
+     internal jugular, subclavian, axillary, brachial, basilic and cephalic veins.
+     There is normal color and wave form throughout. No thrombus was noted. There
+     is also a normal compressibility of all the vessels excluding the subclavian
+     which cannot be compressed technically.
+     
+     IMPRESSION:   Unremarkable examination of the left upper extremity with no DVT
+     found.
+
+",,
+5969,13922,,,2853-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-3-3**] 10:56 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 199**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with endocarditis and right thalamic bleed                   
+       
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Endocarditis and thalamic bleed. 
+     
+     PA AND LATERAL CHEST:  Comparison is made to previous films from  [**2853-2-11**].
+     
+     There is mild cardiomegaly with left atrial enlargement. The pulmoanry
+     vascularity is within normal limits.  There are no pleural effusions. The
+     previously seen left retrocardiac opacity has improved in the interval.
+     
+     IMPRESSION:   Improving left lower lobe opacity could reflect an improving
+     area of atelectasis, aspiration or pneumonia.
+
+",,
+5969,13922,,,2853-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-3-29**] 9:33 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 200**]
+     Reason: ?bleed/hydrocephalus                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 yo woman, R putaminal haemorrhage, worsening bilateral spasticity and 
+      obtundation ?re-bleed/hydrocephalus
+     REASON FOR THIS EXAMINATION:
+      ?bleed/hydrocephalus                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  68 y/o female with history of right putamen hemorrhage and
+     worsening obtundation. Evaluate for hemorrhage, hydrocephalus.
+     
+     TECHNIQUE:  CT imaging of the brain without contrast enhancement. Comparison
+     is made to prior studies from [**2853-2-11**] and [**2853-1-29**].
+     
+     FINDINGS:  There is no intra axial or extra axial hemorrhage. The ventricles
+     and sulci are unchanged in size with no evidence of hydrocephalus. There is an
+     area of low attenuation in the region of the right thalamus which is
+     consistent with the patient's history of prior right thalamus hemorrhage.
+     There is no evidence of intraparenchymal hemorrhage.  There is evidence of low
+     attenuation within the periventricular white matter consistent with chronic
+     microvascular infarct.  There is no evidence of major vascular territorial
+     infarcts.
+     
+     Bone windows show no evidence of fracture. There is evidence of a fluid level
+     within the right sphenoid sinus.  The remainder of the visualized paranasal
+     sinuses are clear.
+     
+     IMPRESSION:
+     
+     1) No evidence of intra axial or extra axial hemorrhage or hydrocephalus.
+     2) Area of low attenuation in the region of right thalamus consistent with
+     resolution of right sided thalamus hematoma. Low attenuation within the
+     periventricular white matter consistent with chronic microvascular infarct.
+     3) Fluid level within the right sphenoid sinus.
+     4) MRIwith contrastmay be performed to exclude underlying other etiologies, if
+     clinically warranted.
+
+",,
+5969,13922,,,2853-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-4-3**] 10:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 201**]
+     Reason: please assess for infiltrate                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old woman with ICH, on tube feeds, now with decreased O2 sats, frothy 
+      sputum
+     REASON FOR THIS EXAMINATION:
+      please assess for infiltrate                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post intracranial hemorrhage, with tube feeds, now with
+     decreased oxygen saturation and frothy sputum.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison [**2853-3-3**].  There is a new large
+     left lower lobe opacity, which extends to the left mid lung zone.  Air
+     bronchograms are demonstrated within this density.  There is obliteration of
+     the diaphragmatic border.  The right lung appears clear.  No pneumothorax.
+     Aortic calcifications are again demonstrated.
+     
+     IMPRESSION:
+     
+     1. New large left lower lobe opacity, worrisome for pneumonia.  Partial
+     collapse of the left lower lobe is also possible.
+
+",,
+5969,13922,,,2853-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2853-4-4**] 9:46 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 202**]
+     Reason: please evaluate for retrocardiac opacity, lll pneumonia     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman with endocarditis and right thalamic bleed, now with cough 
+      and low grade temp. Portable AP suggests LLL pneumonia, but not clearly 
+      visualized.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for retrocardiac opacity, lll pneumonia                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of endocarditis and intracranial hemorrhage. Now with cough
+     and low grade fever.
+     
+     A single AP semi upright portable radiograph of the chest is compared with
+     next previous exam of [**2853-4-3**].  In the interval since that study there has been
+     significant improvement in the aeration of the left lower lobe though there is
+     some persistent minor density in this region.  The heart size remains enlarged
+     with left ventricular configuration.  The aorta is calcified and unfolded. The
+     pulmonary vessels are normal with no evidence of CHF.  No new focal areas of
+     consolidation are identified.  Note is made of a small rounded density
+     overlying the left upper quadrant, consistent with a left renal stone
+     identified on abdominal CT.
+     
+     IMPRESSION:
+     
+     Significant interval improvement in previous consolidation of the left lower
+     lobe. The rapid improvement suggests the etiology of this opacity may be
+     aspiration vs. atelectasis.
+
+",,

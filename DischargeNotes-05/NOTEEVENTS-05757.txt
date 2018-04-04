@@ -1,0 +1,1809 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5757,28609,,,2968-03-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2968-3-4**]       Discharge Date:  [**2968-3-11**]
+
+Date of Birth:   [**2968-3-4**]       Sex:  F
+
+Service:  NEONATOLOGY
+
+HISTORY OF THE PRESENT ILLNESS:  [**Known patient lastname 1907**] [**Known patient lastname 255**], twin number
+one, was born at 23 5/7 weeks gestation by spontaneous
+vaginal delivery to a 35-year-old gravida II, para I now III
+woman.  The mother's prenatal screens were blood type A
+positive, antibody negative, rubella immune, RPR nonreactive,
+hepatitis surface antigen negative.  This pregnancy was
+conceived with in [**Last Name (un) 22**] fertilization and was reduced from
+triplets to twins in [**2967-12-17**].  The pregnancy remained
+uncomplicated until the day of delivery when the mother
+presented in progressive labor and delivered both twins
+spontaneously.  This infant's Apgar scores were three at one
+minute and six at five minutes.  She required intubation in
+the Delivery Room.
+
+Her birth weight was 616 grams.  Her head circumference was
+21 cm and birth length was 30.5 cm.
+
+Her admission physical examination revealed and extremely
+preterm infant.  The anterior fontanelle was open and flat.
+Palate intact.  Good air exchange with manual breaths.
+Heart:  Regular rate and rhythm.  No murmur.  Femoral pulse
+was present.  Abdomen:  Soft.  Female genitalia appropriate
+for gestational age.  A small abrasion on the left leg in the
+dorsum of the right foot.
+
+HOSPITAL COURSE:  On [**2968-3-11**], after discussion with the
+health care team regarding the extension of the
+intraventricular hemorrhage, the parents decided to redirect
+care to comfort measures only.  The infant was provided with
+Fentanyl for pain and discomfort and after being held by
+family members, she died in her mother's arms at 4:02 p.m.
+
+Her NICU course by systems:
+
+1.  RESPIRATORY STATUS:  The infant was intubated in the
+Delivery Room.  She did receive three doses of Surfactant and
+remained on high-frequency ventilation.  On day of life
+number two, she developed bloody secretions from her
+endotracheal tube consistent with a pulmonary hemorrhage.
+
+2.  CARDIOVASCULAR:  On day of life number one, she was
+treated with a course of Indomethacin for presumed patent
+ductus arteriosus.  A follow-up echocardiogram on [**2968-3-7**]
+showed no patent ductus present, a small muscular VSD and a
+patent foramen ovale.  She did require intermittent dopamine
+to a maximum of 5 micrograms per kilogram per minute.
+
+3.  FLUIDS, ELECTROLYTES, AND NUTRITION:  At the time of her
+death, her weight was 555 grams.  She was maintained on
+parental nutrition.  She had an umbilical arterial line and
+umbilical venous catheter present.  She had some intermittent
+hypernatremia and hyponatremia.  Her last set of electrolytes
+on [**2968-3-11**] were sodium 126, potassium 3.3, chloride 93,
+bicarbonate 26.
+
+4.  GASTROINTESTINAL STATUS:  She was treated with
+phototherapy for hyperbilirubinemia of prematurity from day
+of life number one until the time of her death.  Her peak
+bilirubin occurred on day of life number one and it was a
+total of 4.2, direct 0.3.
+
+5.  HEMATOLOGY:  She received two blood transfusions of
+packed red blood cells during her NICU stay.  Her last
+hematocrit of [**2968-3-10**] was 29 prior to a transfusion.
+
+6.  INFECTIOUS DISEASE: She was started on ampicillin and
+gentamicin at the time of admission for sepsis risk factor.
+She received seven days of antibiotics.  Her blood cultures
+did remain negative.
+
+7.  NEUROLOGIC STATUS:  Her head ultrasound on day of life
+number three showed a large right intraventricular
+hemorrhage with dilated right ventricle.  Follow-up head
+ultrasound on [**2968-3-8**] showed no change from the previous
+head ultrasound.  On [**2968-3-9**], her ultrasound showed
+increasing size of both ventricles and a cerebellar
+hemorrhage.  On [**2968-3-11**], her head ultrasound showed
+extension of intracranial bleeding involving the right
+periventricular parenchyma and bleeding evident in the left
+ventricle.  The hemorrhage in the cerebellum also increased
+extending from the left to include both sides now.  There was
+no interval change in hydrocephalus.
+
+The family was followed by [**First Name8 (NamePattern2) 1084**] [**Last Name (NamePattern1) 318**], medical social
+worker, beeper number [**Pager number 1386**].  The family and the extended
+family were present and active in the infant's care
+throughout the NICU stay.
+
+DISCHARGE DIAGNOSIS:
+1.  Extreme prematurity.
+2.  Status post respiratory distress syndrome.
+3.  Status post presumed sepsis.
+4.  Status post pulmonary hemorrhage.
+5.  Status post presumed patent ductus arteriosus.
+6.  Bilateral intraventricular hemorrhage.
+7.  Posthemorrhagic hydrocephalus.
+
+
+
+
+                            [**First Name8 (NamePattern2) 47**] [**Name8 (MD) **], M.D.  [**MD Number 49**]
+
+Dictated By:[**Last Name (NamePattern1) 335**]
+MEDQUIST36
+
+D:  [**2968-3-11**]  07:12
+T:  [**2968-3-11**]  20:35
+JOB#:  [**Job Number 11439**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 47**] [**Name (STitle) **]
+ on: SAT [**2968-3-12**] 4:35 PM
+(End of Report)
+
+
+",,
+5757,28609,,,2968-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-4**] 2:58 PM
+     BABYGRAM (CHEST ONLY) PORT                                      Clip # [**Clip Number (Radiology) 12620**]
+     Reason: line placement
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with extrememprematurity
+     REASON FOR THIS EXAMINATION:
+      line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE VIEW OF THE CHEST [**2968-3-4**].
+     
+     CLINICAL HISTORY:  24 week premature infant who is one of twins with
+     respiratory distress.
+     
+     When compared to the films obtained earlier, the lungs do demonstrate improved
+     aeration, thought there is a persistent background of diffuse hazy opacity
+     consistent with hyaline membrane disease.  The umbilical venous catheter has
+     been exchanged, however the catheter tip is still abnormally positioned over
+     the right lobe of the liver, likely within a right hepatic vein, or middle
+     hepatic vein.  The umbilical arterial catheter is in satisfactory position. 
+
+",,
+5757,28609,,,2968-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-4**] 1:35 PM
+     BABYGRAM (CHEST ONLY) PORT                                      Clip # [**Clip Number (Radiology) 12619**]
+     Reason: Prematurity, respiratory distress
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with respiratory distress
+     REASON FOR THIS EXAMINATION:
+      Prematurity, respiratory distress
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE VIEW OF THE CHEST
+     
+     CLINICAL HISTORY:  Respiratory distress.
+     
+     This is the second film on this newborn premature infant who is one of twins.
+     The endotracheal tube tip is at the thoracic inlet.  The UVC catheter has been
+     placed with the tip likely within an hepatic vein, probably middle hepatic
+     vein.  The umbilical arterial catheter tip is projected at T6-7.  The bowel
+     gas pattern is normal and stable.  The lungs show progressive bilateral
+     pulmonary opacity.
+
+",,
+5757,28609,,,2968-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-4**] 1:27 PM
+     BABYGRAM (CHEST ONLY) PORT                                      Clip # [**Clip Number (Radiology) 12618**]
+     Reason: line placement
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity
+     REASON FOR THIS EXAMINATION:
+      line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE VIEW OF THE CHEST
+     
+     CLINICAL HISTORY:  Initial film on this newborn premature infant who is one of
+     twins.
+     
+     An endotracheal tube has been placed with the tip at the carina.  The lungs
+     are low-volume and demonstrate hazy bilateral opacity of hyaline membrane
+     disease.  There is no pneumothorax.  The bowel gas pattern is within normal
+     limits for the patient's age.
+
+",,
+5757,28609,7161,0,2968-03-04 16:11:00 EST,2968-03-04 16:30:00 EST,5083,"N",75,"MD Notes","Neonatology note","
+Neonatology note
+Baby girl [**Known patient lastname **] twin #1 was born to a 35 yo mother g2P1 at 24 wks GA via NSVD with a BW of 616 gm and an Apgar of 3/6.
+Pregnancy was conceived via IVF resulting in a triplet which underwent to a reduction to twin on [**2967-12-17**].
+Prenatal screen included AB+/RI/RPR NR/HBSAg-/GBS+
+Mother came in labor.
+She was intubated in DR [**Last Name (STitle) **] was transported to the NICU.
+PE: intubated
+AFOF, cleft lips, palate
+Heart: RR with no murmur,pulses equal
+good air exchange with manual breath
+Abdomen soft
+normal female genitalia.
+small abresion of the L leg and R foot (dorsal)
+A: extreme prematurity at 24 wks GA, RDS, sepsis evaluation.
+P: surfactant replacement, antibiotics, monitor BP, dopamine
+
+",,
+5757,28609,7161,0,2968-03-04 17:57:00 EST,2968-03-04 17:58:00 EST,5177,"N",75,"Nursing/Other","Neonatology NP Exam Note","
+Neonatology NP Exam Note
+Physical Examination Correction:
+Lips and palate intact. 
+
+",,
+5757,28609,7161,0,2968-03-04 17:59:00 EST,2968-03-04 18:06:00 EST,5177,"N",75,"Nursing/Other","Neonatology NP Note","
+Neonatology NP Note
+Procedure: Umbilical Catherization
+Indication: central access and monitoring
+
+Pt prepped with achohol, drapped in sterile manner. 3 vessels in cord identified. 3.5 double lumen  catheter easily inserted into UV by Dr [**Last Name (STitle) 2602**]. Advanced to 7 cm. 3.5 single lumen catheter inserted into artery advanced to 11 cm with good blood return. Radiograph revals UAC atT=6. Pulled back to T8. UV positioned in liver, pulled to 2 cm.
+ Pt tolerated procedure well, UV sutured, tape in place.
+
+",,
+5757,28609,7161,0,2968-03-04 18:10:00 EST,2968-03-04 18:16:00 EST,4606,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt born this shift, intubated in delivery room for poor respiratory effort with a 2.5 ett placed at the 6.5cm mark. Pt placed on Hifi ventilator and given 1st dose of surfactant. Pt weaned down on ventilator settings per good blood gases results. Pt remains on Hifi MAP of 12, delta P of 19 with the fio2 28%. Plan is to evaluate pt for need of 2nd dose of surfactant, wean ventilator settings as tolerated. 
+",,
+5757,28609,7161,0,2968-03-04 18:23:00 EST,2968-03-04 18:55:00 EST,4648,"N",75,"Nursing/Other",,"
+
+NICU NURSING ADMISSION NOTE
+
+  Baby Girl [**Known patient lastname **] ( twin #1) was born today at 1143 via NVD.  Mom had spontaneous ROM and unstoppable labor.  Infant emerged w/ some tone, HR >100 intially but dropped to 60.  Infant was dried and intubated w/ #2.5ETT, taped at 6.5cm.  Color and tone improved.  Apgars were [**2-20**].  Infant was shown to parents briefly and trasnported to NICU.
+
+RESP: Placed immediately on HIFI vent, MAP-14, Delta P-25- 60-100% w/ sats >95%.  Breath sounds were coarse/diminished.  Rec'd first dose of Survanta at 1415.  FIO2 weaned to 21% after Survanta and support weaned as well.  2 good blood gases and weaned, last gas- ART at 1800-7.35/42/62/24/-2- weaned to present settings MAP-12, Delta P-17, FIO2- 21-27%.  No bradycardia.
+
+CV: No murmur initially.  Color is pink and well-perfused.  Peripheral pulses are wnl.  Initial BP stable w/ MAP-55.  At ~2hr of age, BP dropped to a MAP of 24 and color paled. Rec'd a 6cc NS bolus w/ slight, transient improvement of MAP to 27-29.  Once UVC placement confirmed- Dopamine gtt was started at 5cmgs.  BP up to high 30's, weaned to 3mcgs, where it remains w/ MAp-28-30.  HR 140-160's.
+
+F&N: BW-616gms.  NPO.  Initial D/s-58, repeat at 1800- 65.  UAC placed at ~1400- 1/2NS w/>5u Hep/cc infusing at 1cc/hr.
+  UVC in liver, pulled back to 2cm(low lying UVC)- D5w w/ >5u Hep/cc infusing via both ports, w/ Dopamine piggybacked into secondary line ( at .1cc/hr).  12hr lytes to be drawn at midnight.
+  Infant has voidied.  No stool yet.
+  Abd is flat and soft, no loops.  No bowel sounds audible.
+
+ID: CBC w/ diff and blood cx drawn- WBC-4.7, HCT-53.6, PLT-237, N-22, B-0, L-70.  Rec'd first doses of Amp & Gent.  Infant is active, tone is wnl.  Intubated w/ minimal BP support.
+
+DEV: Skin is extrememely fragile, Breakdown noted on trunk from temp probe, right foot from sat probe and left leg from tape.  Team is aware. Aquaphor applied liberally.
+  Initial temp-94.6, warming lights palced, warming blanket under infant.  Once lines set, temp gradually improved up to 100.4, warming lights removed/ warmer weaned x 2.  Infant is nested in sheepskin, gel pillow under her head.  HUS ?Monday.
+  Eyes are fused. Rec'd 1/2 dose of Vitamin K.
+
+PARENTS: Mom and Dad extended family in to visit.  Parents obviously overwhelmed- updated briefly at bedside.  Dr. [**First Name (STitle) 35**] went to speak w/ parents, reviewed w/ them concerns and possible soures of 24wk infants.
+",,
+5757,28609,7161,,2968-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-5**] 9:43 AM
+     BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 12621**]
+     Reason: assess lung expansion in hfov
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity
+     REASON FOR THIS EXAMINATION:
+      assess lung expansion in hfov
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST [**2968-3-5**].
+     
+     CLINICAL HISTORY:  Severe prematurity.
+     
+     The endotracheal tube tip is at the carina.  The umbilical arterial catheter
+     tip is projected at T6.  The lungs demonstrate dramatic improvement when
+     compared to the prior films.  There is no pneumothorax.  The UVC catheter tip
+     is no longer identified and according to the neonatology team, is pulled below
+     the limits of this film.
+
+",,
+5757,28609,7161,,2968-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-5**] 9:08 PM
+     BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 12622**]
+     Reason: r/o atelectasis, edema/PDA
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity @ 23 [**2-21**] wks
+     REASON FOR THIS EXAMINATION:
+      r/o atelectasis, edema/PDA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST, [**2968-3-5**]:
+     
+     CLINICAL HISTORY:  Prematurity.
+     
+     ETT present with its tip at the carina.  Umbilical artery catheter unchanged
+     and in satisfactory position overlying T6 vertebral body.  Mild diffuse hazy
+     opacification and hypoinflation of the lungs minimally worsened since last
+     examination earlier in the day.  No evidence of pneumothorax or focal areas of
+     consolidation.
+     
+     IMPRESSION:  ETT at carina.  Hypoinflated lungs.
+
+",,
+5757,28609,7161,0,2968-03-05 05:06:00 EST,2968-03-05 05:10:00 EST,4588,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains intubated and on HFOV .  Received 2nd and 3rd doses of survanta, tol well.  When manually ventilating requiring PIP's of 18 for good chest wall movement.  B.S. tight with fair air entry.  ETT sx'ed for mod amt white secretions.  Most recent ABG(7.33/39/83/21/-4), MAP weaned to 11 AMP to 19.  At present HFOV settings are MAP 11 AMP 19 FIO2 25-29%.
+",,
+5757,28609,7161,0,2968-03-05 06:56:00 EST,2968-03-05 07:19:00 EST,4662,"N",75,"Nursing/Other","NPN","
+NPN
+
+
+#1-O: on antibiotics as orderd, ampi given, no signs or
+symptoms of sepsis at present. rpt cbc today.
+
+#2-O: On HiFi, weaned to Delta P 16 and MAP 11 based on
+arterial bld gases. 2nd and 3rd doses of survanta given as
+ordered.,  Fio2 32-21%, currently in 21% and sats >94. 
+Lungs were clear and equal suctioned sm. cldy x 2, mod cldy
+OP.  Conat to monitor bld gasses, resp status closely.
+
+#3-O: Weaned off Dopa at 0100, MAPS 30-35 arterial bld
+pressures and cuff. Pink/ruddy, no murmur audible at this
+time. Cont to monitor CV status, rpt hct today.
+
+#4-O; TF at 140cc/k/d, increased this shift, for lyltes,
+photo, NPO, IVF 1/2NS and D5w/heparing via UAC and DUV as
+ordered. D/S 73-113.  voided > 1cc/k/hr no stool, abd flat
+soft, non-audible bowel sounds. am lytes pending. COnt to
+follow labs, monitor I&O, daily weights to start.
+
+#5-O; extremely premature, eyes fused,  friable, sensitive
+skin, aquaphor, AFOF MAE, cont to asse4ss. 
+
+#6-O: started under single phototherapy cont to monitor
+bili.
+
+#7-O; friable skin, some bruising on trunk, no leads on
+baby, diaper opened, reddens easily from probes, change
+often, aquaphor as ordered.
+
+
+",,
+5757,28609,7161,0,2968-03-05 09:23:00 EST,2968-03-05 09:30:00 EST,4612,"N",75,"Nursing/Other","Neonatology","
+Neonatology
+Remains critically Ill. On HFOV. ABle to wean MAWP and amp over course of evening yesterday. Currently on MAP 19, delta P Has received 3 doses of surfactanct. Low fio2. No evidence of PDA at present. CV stable. Not on pressors at present. Weaned from dopa early this am.
+Will checked CXR to assess inflation.
+
+WT 616. NPO on IVf at 140 cc/k/d. ABdomen soft non-distended.
+Lytes in reasonable range PN to be ordered for today. UA and UV to remain in place. TF to stay at 140 pending results of am lytes.
+
+Bili in 3 range under photorx.
+
+Blood out 5 cc. Expect will need transfusion over course of day.
+
+Skin with small abrasions ta sites of monitors. No over skin breakdown. Very immature appearing. Cor no murmur. Active, moving all 4. Abdomen soft. Hips normal.
+
+Parents aware of critical nature of illness and cuurent status and plan.
+
+HUS planned for Monday.
+",,
+5757,28609,7161,0,2968-03-05 18:16:00 EST,2968-03-05 18:23:00 EST,5079,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains on HFOV. Current settings MAP 10, AMP 12, FiO2 21-28%. Most recent ABG on MAP 10, AMP 14: 7.31/46/42/24/-3. Decreased AMP to 12 from 14 after ABG.  See flowsheet for previous changes and ABGs. Suctioned for sm amount cloudy secretions. BS essentially clear. Manually ventilated at 18/5 with good chest movement. CXR clear, well expanded.
+",,
+5757,28609,7161,0,2968-03-05 18:36:00 EST,2968-03-05 18:49:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+
+
+1. I/D: BC neg to date.  Repeat CBC drawn today - benign,
+please see flowsheet for values.  Infant continues on
+ampi/gent.  Gent trough was drawn before this afternoon's
+dose - 1.1 - team aware.  P: Cont. to monitor for s/s of
+infection, follow BC results, and administer abx as ordered.
+
+2. Resp: Infant remains orally intubated on HFOV settings
+currently of delta P 12, map 10.  Recent ABG at 1500 was
+7.31/46/42/24/-3.  FiO2 requirement this shift has been
+between 21-28%.  Lung sounds clear/= with good aeration. 
+Infant was sxn q 6 hours for no secretions from ETT.  
+Infant has occasionally drifted HR into high 90'2 and QSR no
+desat noted.  P: Cont. to monitor resp. status, follow BG
+and wean settings as tolerated.
+
+3. CV: Infant is ruddy/pink.  No murmur auscultated this
+shift.  HR 120-140's.  B/P means  have been 33-41.  Cuff
+pressures are correlating.  Cap refill brisk, pulses wnl. 
+Blood out is currently 6.2 cc.  P: Cont. to monitor cv
+status.
+
+4. FEN: TF were increased to 180 cc/kg/day.  UAC is running
+.5 NS with .5 unit hep/cc.  DUVC is running PND5 at 75
+cc/kg/day through primary port and D5w with .5 unit hep/cc
+through sec port.  D/S 97/85.  Abd flat, hypoactive BS.  UO
+for past 12 hours has been 2.3 cc/kg/hr.  No stool noted. 
+Lytes at 1500 were 147/7.8/117/21.  BUN and Cr were drawn
+this shift - WNL.  Urine dipstick done - team aware of
+results.  P: Cont. to support nutritional needs and follow
+lytes closely.
+
+5. G/D: Temps stable on servo-warmer.  Infant is nested in
+sheepskin with boundaries and water pillow in place. 
+Infant's skin is very fragile.  Many areas of bruising
+noted.  Aquaphor applied as ordered.  Eyes remain fused. 
+Infant is alert/active.  AFSF.  HUS scheduled for mon.  AGA.
+P: Cont. to support developmental needs.
+
+6. Hyperbili: Bili this am was 4.2/0.3 - infant was placed
+under double photo with eye shields in place.  Bili drawn
+this afternoon - please see flowsheet for values.  P: Cont.
+to monitor bili level closely.  
+
+
+",,
+5757,28609,7161,0,2968-03-05 18:49:00 EST,2968-03-05 18:52:00 EST,4645,"N",75,"Nursing/Other","NPN addendum","
+NPN addendum
+Parents: Mom and Dad and extended family have been up to visit throughout day.  Dad and mom [**Name (NI) 182**] at bedside.  Parents have been updated on infant's condition and plan of care by this RN and NNP.  Asking appropriate questions.   Parents were given sibling #2's memory box.  A: Loving, invested parents grieving for the loss of their son.  P: Cont. to support and update parents.
+",,
+5757,28609,7161,0,2968-03-05 22:13:00 EST,2968-03-05 22:14:00 EST,4612,"N",75,"Nursing/Other","Neonatology","
+Neonatology
+Small amount of blood suctioned from ETT. SLightly increased Fio2. No murmur. Pulse normal. precordium nly active. CXR shows sl increased heart size and lung markings. Concern over possibility of PDA. Will start indo rx. SPoke with parents.
+",,
+5757,28609,7161,,2968-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-6**] 11:13 AM
+     BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 12623**]
+     Reason: evaluate lung fields and heart size. 
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with extreme prematurity, rds and pda
+     REASON FOR THIS EXAMINATION:
+      evaluate lung fields and heart size. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Infant with extreme prematurity. RDS. PDA. Evaluate lung fields and
+     heart size.
+     
+     FINDINGS: A single view of the chest is made available for interpretation on
+     [**2968-3-9**]. The lungs are better aerated than on the study of [**2968-3-5**]. There are
+     findings of hyaline membrane disease with multifocal streaky superimposed
+     atelectasis. The heart and mediastinal contours are normal. A pleural effusion
+     is not seen. The ETT is in a similar location. The umbilical catheter tip
+     appears slightly higher.
+
+",,
+5757,28609,7161,0,2968-03-06 04:35:00 EST,2968-03-06 04:44:00 EST,5101,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Baby received on HiFi MAP 10 AMP 12.Sx pt. prior to abg and got mod amts bld from ett,cxr obtaind,noticed poor""jiggle""of chest so ^ amp 18 from 12 with good results,in chest wall movement.abg 7.11/73/74/25/-8 ^ amp t0 22 and map to 11,rpt abg,7.19/61/62 24/-5 ^ amp 24 map to 12.Baby started on indo and also on dopa for short period of time.Have been able to wean amp by abg's.currently on AMP 18 and MAP 12,fio2 ranges from 31-62%.Turned @3am,bagged at 20/6 bs coarse->clear.sx again for sm amts blood.Will rpt abg @ 0530.
+",,
+5757,28609,7161,0,2968-03-06 04:44:00 EST,2968-03-06 05:07:00 EST,4595,"N",75,"Nursing/Other","NPN","
+NPN
+
+
+NPN#1 O= remains on IV Abx ampi & gent as ordered..blood cx
+remain - to date, active with appropriate tone for GA A= r/o
+sepsis P= cont per plan, consult with team re: peak gent
+with today's gent dose
+
+NPN#2 O= received infant on HFVO with delta P 12 MAP
+11..infant with pulm. hemorrage around 2100 resulting in ^
+settings/ ^ FIO2..sxn'd for lg amt red blood...mult gases
+obtained ( see flow sheet)..adjustments made..max settings
+delta P 24 MAP 12...since about 2400 have begun to wean
+delta P..last ABG..7.31/ 42..current settings of delta P 18
+MAP 12..Fio2 since 2400 31-40%, last sxn'd at 0300 for small
+amt red blood via ETT, LS coarse to clear with IC/SCR, Xray
+obtained, A= s/p pulm. hemmorage..receiving Indocin for
+presumed PDA..begining to wean back down P=  cont to monitor
+closely, gases as ordered, cont to assess for pul.
+hemmorrage
+
+NPN#3 O= no murmer heard on exam however s/p pulm
+[**Last Name (un) 1982**]...leading to presumption of PDA..started on Indocin
+received first dose at 2300, pulses equal/ nonbounding, good
+cap refill +3sec., BP stable with MAP's 33-41..Map's did
+briefly [**Doctor Last Name 2603**] to 29-30..restarted on Dopa 3mic/kg/min for
+only about two hours per team's orders to keep MAP>30<35
+with Dopa..Dopa off since2300, HR 150's-160's, Hct= 39.9
+plt=250..total blood out= 8.8cc A= presumed PDA P= cont
+Indocin as ordered , monitor for S&S of murmer, follow BP's
+closely..keep MAP's 30-35 with titrating Dopa..will need
+transfusion soon
+
+NPN#4 O= BW 616gms,*( no new weight due to instability),
+remains NPO with TF at 180cc/kg/d..UAC..1/2 NS with
+.5uheparin infusing at KVO, double UVC in place ( low lying
+)..primary  with PN D%5  at 75cc/kg/d and secondary with D5W
+with .5u heparin infusing well, abd flat, - BS, DS=108-55,
+uo= 4.9cc/kg/hr ph 7-8.0, +1protein, mod heme, no stool,
+lytes at 2130: 142/ 6.9/ 112/ 25..hx: ^ K+ level..most
+recent lytes pnd...A=DS begining to dip, diuresising with ^
+UO, K= still elevated but slightly down, 
+
+
+",,
+5757,28609,7161,0,2968-03-06 05:07:00 EST,2968-03-06 05:26:00 EST,4595,"N",75,"Nursing/Other","NPN","
+NPN
+
+
+ADDENDUM: P= keep strict I&O, monitor lytes closely, keep Ca
+Gluconate at bedside, follow DS's, cont per plan
+
+NPN#5 O= remains on warmer on servo under plastic tent..T
+97.5 x1 with loose probe..reapplied..temp stable since, ^
+fiesty/ active, MAE, tone appropriate for GA, nested in
+shhepskin with boundaries in place..infant more settled
+since positioned prone, AF soft & flat..HUS for Mon., eyes
+remain fused A=very preemature infant, ^ temp sensitivity,
+^risk for IVH..HUS Monday, q6hr cares, decrease stim
+
+NPN#6 O= remains under double phototherapy as ordered, am
+bili pnd, mult bruising noted A= hyperbili P= cont to max
+skin exposure to lights, monitor levels
+
+NPN#7 O= infant's skin very friable with mult bruising/
+abrasions noted...Aquaphor applied x1..no leads applied to
+skin A= fraigle skin P= cont close monitoring & meticulous
+skin care
+
+NPN#8 O= parents up at begining of shift..mom asking very
+good questions..dad states overwhelmed..updated by
+JPN/NNP/RN at bedside..Dr. [**Last Name (STitle) **] spoke with parents in room
+s/p pulm hem..aware Indocin treatment..mom up later in shift
+by herself and called for update x1 A= very involved parents
+of critically ill infant P= cont to keep updated & supported
+
+
+",,
+5757,28609,7161,0,2968-03-06 06:33:00 EST,2968-03-06 06:44:00 EST,4595,"N",75,"Nursing/Other","ADDENDUM","
+ADDENDUM
+Last ABG 46/ 42/ 7.27/ 20/-7..no changes made...lytes  147/ 6.0/ 116/ 22..TF ^'d to 200cc/kg/d..DS=41..D10W at 50cc/kg/d piggybacked into line..mom up to visit updated by NNP/RN..cont to monitor closely
+",,
+5757,28609,7161,0,2968-03-06 10:27:00 EST,2968-03-06 10:49:00 EST,4634,"N",75,"MD Notes","Neonatology Attending","
+Neonatology Attending
+
+DOL 3 CGA 24 weeks
+
+Remains on hifi.  Pulmonary hemorrhage during the night requiring increased vent support.  At max MAP 12 amp 24.  Current settings MAP 12 amp 15 28%.  Last ABG 7.31/39/39/21/-6 on amp 18 and 23%.  No further blood from ETT today.  
+
+Indocin initiated last night.  Murmur never audible.  Required dopamine 3 mcg/kg/min x 3 hrs last night night.  BP 45/26 mean 35. 
+
+On 200 cc/kg/d secondary to hypernatremia.  UA with .5NS with heparin at 1 cc/hr.  Low lying UV with PN5/IL at 75 cc/kg and D10W at 60 cc/kg and the remainder D5W. DS 41 today therefore D10W was added.  Subsequent DS 49/55.  Voiding 4.9 cc/kg/hr.  Urine dips with pH [**6-23**], 1+ protein, mod to large heme.  147/6/116/22  No meconium  BW 616 grams.
+
+Hct 39.9  Blood out is 8.8cc.
+
+Bili 3/0.3.  On double phototherapy.
+
+On A/G.  Gent pre 1.1.
+
+Aquaphor being applied to skin.  Currently skin with minimal breakdown.
+
+Parents in and up to date.  Mother discharged today.  Staying in family room.
+
+A:  Critically ill ELBW infant with RDS, pulmonary hemorrhage, PDA, presumed sepsis.  Hypernatremia being treated with increased fluids but will need to monitor closely in light of PDA.
+
+P:  Monitor
+    Hifi as needed to vent for permissive hypercapnea with sats 88-94% aiming for pO2 50s-60s
+    Check gases q 4-6 hr
+    CXR
+    Start Vit A tomorrow
+    Complete indocin course
+    Echo after indocin course complete to ensure that duct is closed
+    Until new PN available simplify fluids with PN and D10 (d/c D5)
+    Change to PN10 at 100 cc/kg/d
+    Adjust other fluids to maintain DS 50-100
+    Follow lytes at a minimum q 12
+    Check BUN, Cr today
+    Follow bili
+    Transfuse with prbc 15 cc/kg
+    Urinalysis to r/o UA complication
+    Continue A/G for 7 d course.  When more stable will need LP.
+    Follow gent levels
+    Fentanyl prn
+    HUS tomorrow
+    Family support.  Family meeting tomorrow.
+
+",,
+5757,28609,7161,0,2968-03-06 16:42:00 EST,2968-03-06 16:50:00 EST,5079,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Received pt on HFOV on MAP 12, AMP 18, FiO2 25-30% this shift. ABG:7.31/39/39/21/-6. Weaned AMP to 15 and plan to keep FiO2 high enough to maintain a PaO2 of >50. Repeat ABG:7.21/52/75/22/-7. CXR: 10 ribs expanded with hazy lung fields t/o. Improved from previous CXR. MAP weaned to 11 after x-ray obtained. Most recent ABG: 7.25/46/59/21/-6. No changes at that time. Suctioned for small amount bloody secretions. BS coarse to clear. Manually ventilated at 20/6. Plan to start on Vitamin A tomorrow.
+",,
+5757,28609,7161,0,2968-03-06 18:18:00 EST,2968-03-06 18:33:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+
+
+1. I/D: Infant remains on ampi/gent for 7 day course.  Peak
+gent level was drawn - results pending.  No overt s/s of
+infection noted - temp stable, infant is active.  BC neg to
+date.  P: Cont. to adminster abx as ordered, follow BC, and
+LP when stable.
+
+2. Resp: Received infant orally intubated on HFOV settings
+of Delta p 18, map 12.  Infant is currently on settings of
+delta p 15, map 11.  ABG on these settings at 1500 was
+7.25/46/59/21/-6.  FiO2 requirement this shift has been
+between 23-30%.   Infant was sxn x 2 for sm amts of bloody
+secretions from ETT.  Chest x-ray done - see above RRT note
+for details.  Lung sounds clear/=.  IC/SCR noted.  Infant
+has two HR drifts into 90's - QSR, no desats noted. P: Cont.
+to monitor resp. status, follow BG, and wean settings as
+tolerated.
+
+3. CV: No murmur audible this shift.  Infant is being
+treated with indocin for presumed PDA.  Cap refill brisk,
+palmar pulses noted at 1500 care.  HR 140-150.  Art means
+between 32-40 this shift.  Cuff B/P 53/32 m39.  Total blood
+out 11.2 cc.  Transfusion of 15 cc/kg was started at 1645
+(10 cc over 4 hours).  Consent present in chart.  P: Cont.
+to monitor cv status.
+
+4. FEN: TF remain at 200 cc/kg/day.  Infant has .5 NS with
+.5 unit hep/cc running through UAC.  Through the DUVC
+primary port infant has PND5 running at 75 cc/kg/hr and
+through the sec port infant has D10 w with .5 unit hep/cc
+running.  D/S 55/49/74/124.  Abd flat, soft.  UO for past 24
+hours has been 6.0 cc/kg/hr.  No stool noted.  Urine dips at
+ph [**5-23**], 1+ protein, trace-mod blood.  U/A was sent.  Lytes
+this shift were 144/4.9/113/20.  Bun 33, Cr 0.8.  P: Cont.
+to support nutritional needs and check lytes in am.
+
+5. G/D: Temps stable on servo-warmer.  Infant is nested in
+sheepskin with boundaries in place.  Infant is active.  Eyes
+remain fused.  Aquaphor applied as ordered.  Font soft/flat.
+HUS scheduled for mon.  Skin - bruising and abrasions noted.
+AGA.  P: Cont. to support developmental needs.
+
+  
+
+
+",,
+5757,28609,7161,0,2968-03-06 18:33:00 EST,2968-03-06 18:35:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+
+
+1. Hyperbili: Infant remains under double photo with eye
+shields in place.  Bili drawn - results pending.  P: Cont.
+to monitor bili level and draw next level in am.
+
+2. Parents: Mom and Dad in throughout day.  Udpated at
+bedside on infant's condition and plan of care by this RN,
+NNP, and attending.  Asking appropriate questions. Mother
+was discharged today.  Parents are staying in parent room
+overnight.  Loving, involved parents. P: Cont. to support
+and update parents.
+
+
+",,
+5757,28609,7161,0,2968-03-06 20:46:00 EST,2968-03-06 20:49:00 EST,5177,"N",75,"Nursing/Other","Neonatology NP Exam Note","
+Neonatology NP Exam Note
+Infant examined care discussed with team PLease refer to Dr [**Last Name (STitle) **] [**Last Name (STitle) **] note for detailed evaluation and plan.
+
+PE: small pink infant on radiant warmer, on HFOV. Orally intubated. Skin is becoming keratonized, with scabbing over ankles from previous abrasions. AFOF, bruising over head. eyes fused, MMMP
+Chest is clear with amnual breaths, RRR, no murmur, but full pulses and palamar pulses palpable. 
+Abdomen soft, no BS, UAC and UVC in place. MAE, spont activity, lightly sedated. 
+
+",,
+5757,28609,7161,,2968-03-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-7**] 7:41 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12624**]
+     Reason: r/o ivh
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 3 days old
+     REASON FOR THIS EXAMINATION:
+      r/o ivh
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Infant born at 23 5/7th weeks gestation.  Now 3 days old.  Rule
+     out intraventricular hemorrhage.
+     
+     FINDINGS:  There is a large right intraventricular hemorrhage with an increase
+     in the ventricular system size. There is a question as to whether there is
+     also an early (presently isoechoic) left intraventricular hemorrhage. There is
+     no evidence of extension of the right intraventricular hemorrhage to the
+     parenchyma. The periventricular white matter may be slightly increased in
+     echogenicitiy. The sulci and gyri of the cerebrum and cerebellum have an
+     appearance consistent with the patient's premature. The resistive indices are
+     without compression 0.78 and with compression 0.89. A small extraaxial fluid
+     collection is seen.
+     
+     IMPRESSION:
+     1) Large right intraventricular hemorrhage with ventriculomegaly with question
+     of an early (presently isoechoic) left-sided hemorrhage. A close interval
+     follow-up head ultrasound was recommended to the ICU team at morning rounds.
+     Resistive indices are above.
+     2) Question of slightly echogenic periventricular white matter.
+     3) Small extra axial fluid collection.
+
+",,
+5757,28609,7161,0,2968-03-07 05:15:00 EST,2968-03-07 05:20:00 EST,5101,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Baby remains on HiFi MAP 11 AMP ^ to 17 from 15 after abg 7.23/54/68/24/-5, and after receiving NaHco3.fio2 ranges from 23-27%Last abg @ 4am 7.27/49/61/23/-4 with no change at this time.Receiving fent for sedation.Turned at 3am bagged at 20/6 with clear and = bs.Sx at this time for sm amts old bldy secs.
+",,
+5757,28609,7161,0,2968-03-07 05:49:00 EST,2968-03-07 06:06:00 EST,4595,"N",75,"Nursing/Other","NPN","
+NPN
+
+
+NPN#1 O= REMAINS ON ABX DAY [**2-21**] OF AMPI & GENT, BLOOD CX
+REMAIN - TO DATE, ACTIVE WITH GOOD TONE, STABLE TEMP A= R/O
+SEPSIS P= CONT ABX AS ORDERED, CONT TO MONITOR FOR S&S OF
+SEPSIS
+
+NPN#2 O= REMAINS ON HIFI..BEGAN SHIFT WITH MAP 11 AND DELTA
+P OF 15..NEEDED TO ^ DELTA P TO 17 AFTER ABG: 7.23/
+54..RECEIVED X1 DOSE BICARB. 1.2MEQ FOR METIBOLIC
+ACIDOSIS..CURRENT SETTINGS MAP 11 DELTA P 17..LAST ABG: 61/
+49/ 7.27/ 23/ -4, FIO2 23-27% ( ^'D FOR CARES TO 40%), LS
+CLEAR & EQUAL, SXN'D X1 FOR SM. OLD BLOOD..A=METABOLIC
+ACIDOSIS CORRECTED WITH BICARB/ DECREASE FIO2 REQUIREMENT/
+RESIDUAL OLD BLOOD FROM ETT S/P PULM. HEMORRHAGE P= CONT TO
+MONITOR CLOSELY/ GASES AS ORDERED
+
+NPN#3 O= NO MURMER HEARD ON EXAM, HR 150'S-170'S, PULSES
+EQUAL/ NONBOUNDING, - [**Location (un) **] PULSE, GOOD CAP REFILL, S/P
+TRANSFUSION FOR 15CC/KG OF PRBC'S..TOL WELL, TOTAL NEW BLOOD
+OUT= 1.6CC, MAP'S 30-44, SL WIDEE PUL PRESSURES AT TIMES, 
+RECEIVED THIRD DOSE ON INDOCIN LAST NOC AT 2300, A=
+TREATMENT FOR PRESUMED PDA COMPLETE/ S/P TRANSFUSION P= CONT
+TO MONITOR CLOSELY FOR EVIDENCE OF PDA/ ?ECHO TO EVALUATE
+CLOSURE OF DUCT, FOLLOE BP CLOSELY
+
+NPN#4 O= BW .616GMS, CURRENT WT ON BEDSCALE 570 DOWN 46GMS,
+TF AT 180CC/KG/D..UAC WITH 40CC/KG OF 1/2 NS WITH .5U
+HEPARIN, DUVC ( LOW LYING)..PRIMARY PORT WITH TPN D10W AT
+100CC/KG/D AND SECONDARY PORT WITH D10W AT 40CC/KG/D..LIPIDS
+AT .1CC... DS= 89, 88, 93..LYTES AT 2230: 144/ 4.0/ 111/
+20...UO= 6.7CC/KG/HR OVERNIGHT PH 6.0-6.5/ TR PROTEIN/
+TR-MOD HEME...NO STOOL , ABD EXAM SOFT/ FLAT - BS, A= DS
+STABLE ON D10, CONT WITH ^ UO P= OBTAIND LYTES/ BILI AT
+0900, CONT TO FOLLOW DS, DAILY WTS/ STRICT I & O, CONT PLAN
+OF CARE
+
+NPN#5 O= REMAINS ON WARMER ON SERVO UNDER PLASTIC TENT WITH
+STABLE TEMP, ACTIVE WITH CARES WITH GOOD TONE FOR GA, MAE,
+AF SOFT & FLAT..HUS TODAY, NESTED IN SHEEPSKIN WITH EXT
+SOFTLY FLEXED WITH BOUNDARIES IN PLACE, AGITATED AT
+TIMES..FENTANYL GIVEN AS ORDERED  WITH ONLY FAIR
+RESULTS..CONSULTED NNP RE: ^'ING DOSE..WITH BETTER
+RESULTS..MORE SETTLED...
+
+
+",,
+5757,28609,7161,0,2968-03-07 06:06:00 EST,2968-03-07 06:14:00 EST,4595,"N",75,"Nursing/Other","ADDENDUM","
+ADDENDUM
+
+
+ EYES REMAIN FUSED A=BETTER SEDATION WITH ^ FENT. DOSE,P=HUS
+TODAY, ASSESS PAIN/AGITATION..FENTANYL AS ORDERED Q1-2HRS
+PRN- MONITOR EFFECTIVENESS, CONT PLAN OF CARE
+
+NPN#6 O= REMAINS UNDER DOUBLE PHOTOTHERAPY AS ORDERED, TO
+OBTAIN BILI LEVEL WITH NEXT BLOOD DRAW A= HYPERBILI P= CHECK
+BILI AT 0900, CONT TO MAX SKIN EXPOSURE TO LIGHTS
+
+NPN#7 O= SKIN APPEARANCE OVERALL IMPROVE..CONT WITH MULT
+SMALL ABRASIONS/ BRUISING ESP ON TRUNK/ EXT..STOPPED
+AQUAPHOR USE, NO OPEN AREA NOTED A= FRAGILE SKIN P= CONT
+CLOSE MONITORING
+
+NPN#8 O= PARENTS BOTH UP AT BEGINING OF SHIFT..UPDATED AT
+BEDSIDE..STAYING IN FAMILY ROOM..AWAITING TODAY'S HUS
+RESULTS..EXPRESSING HOPEFULNESS FOR A  GOOD REPORT...PLAN TO
+ATTEND SIBLIING/ TWIN#2 'S [**Hospital1 2604**] SEVICE THIS AFTERNOON,
+MOM UP BY HERSELF LATER IN NIGHT A/P=FAMILY MEETING FOR
+TODAY AFTER HUS, CONTACT SOCIAL SERVICE, KEEP UPDATED &
+SUPPORTED
+
+
+",,
+5757,28609,7161,0,2968-03-07 08:32:00 EST,2968-03-07 08:44:00 EST,5083,"N",75,"MD Notes","Neonatology note","
+Neonatology note
+3 d.o
+on HIFI MAP11,AMP17, RA this am, 23-27%
+episodes of pulm hem during the wk end, no further pinkish secretion this am.
+RR with no murmur
+indocin course this wk end.
+
+transfused last night, 15 cc/kg/d of PRBC
+wt= -46 gm 570 gm
+NPO, 180 cc/kg/d
+bili= 2.2
+A: ex 24 wks GA, RDS, pulm hem, PDA s/p indocin, anemia, presumed sepsis.
+P:  HUS today, weaning vent setting as tolerated, monitor lytes closely with urine output
+start vit A.
+",,
+5757,28609,7161,0,2968-03-07 11:37:00 EST,2968-03-07 11:51:00 EST,4549,"N",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+
+1.  Sepsis:  Temp stable nested on servo warmer.  Infant is
+active with cares. Continues on Ampi and Gent as ordered. 
+Today is day [**2-21**].  Will continue to monitor for s/s sepsis.
+
+5.  Dev:  Infant is nested with sheepsking and boundaries,
+comfortable appearing.  Infant is active with cares,
+sleeping well between.  Fentanyl given PRN with good effect.
+Head ultrasounds this morning revealed bleeding in ventricle
+as noted in MD note.  Temp cool after head ultrasound but
+stable under [**Doctor Last Name 671**] on radiant warmer.  [**Last Name (un) 2605**] in touching
+and talking to infant.  Tone WNL, MAE.  Font soft/flat. 
+Plan to continue to monitor and support dev needs.  Plan for
+repeat HUS tomorrow am. 
+
+6.  Bili today 0.8/0.3/0.5 under double phototherapy with
+eye shields on.  Decision made to d/c phototherapy and
+obtain rebound at 2200.  
+
+7.  Skin noted to have scattered bruising.  Intact. 
+Changing site of temp probe and O2 sat probe frequently. 
+Plan to continue to [**Last Name (un) 407**] skin integrity and change
+position as often as possible.  
+
+8.  Parents:  Parents in throughout day.  Family meeting
+held with MD [**Last Name (Titles) **], NNP Ambrisino and this RN.  MD tran
+informed parents of head ultrasound results and possible
+outcomes.  SW introduced herself and states she was able for
+support if needed.  Parents are loving and invested. 
+Parents participated in basic infant cares.  Plan to
+continue to support and educate.   
+
+
+",,
+5757,28609,7161,0,2968-03-07 13:55:00 EST,2968-03-07 14:06:00 EST,4559,"N",75,"Nursing/Other","Clinical Nutrition","
+Clinical Nutrition
+O:
+23 [**4-22**] wk gestational age BG, AGA, now on DOL 3.
+Birth wt:  616 g (extrapolates to ~25th to 50th %ile); current wt:  570 g (-46)(extrapolates to ~10th to 25th %ile)
+HC:  21 cm (extrapolates to ~10th to 25th %ile)
+LN:  30.5 cm (extrapolates to ~25th %ile)
+MEds include s/p course of indocin.
+Labs noted 
+Nutrition:  TF 160 cc/kg/day.  NPO.  PN started on DOL 1; lipids added on DOL 2.  UAC infusing 1/2 NS @ 1 cc/hr.  D10 and PN w/ D10 via DUVC for remaining fluids.  Will change to 100cc/kg/day PN tonight, w/ same UAC fluid; remaining fluid as D10 .  Projected intake for next 24 hrs from PN ~55 kcal/kg/day, ~2 g pro/kg/day, and ~1.6 g fat/kg/day.  Glucose infusion rate  from PN ~6.5 mg/kg/min.
+GI:  Abdomen soft, no bowel sounds, no BM.
+
+A/Goals:
+Tolerating PN with low dstix to ~45 yesterday requiring increase in TF to ~180 cc/kg/day; now will decrease as above w/ improved dstix and lytes.  Remains NPO s/p indocin. Labs noted and PN adjusted accordingly.  Initial goal for PN is ~90 to 110 kcal/kg/day, ~3 to 3.5 g pro/kg/day, and ~3 g fat/kg/day.  Will advance PN as per protocol and tolerance.  When able to start EN, initial goal is ~150 cc/kg/day PE/BM 24, providing ~120 kcal/kg/day and; ~3.2 to 3.6 g pro/kg/day.  Expect PN to taper as EN feeds advance.  Appropriate to add Fe and Vit E supps when feeds reach initial goal.  Further increases in feeds as per growth and tolerance.   Growth goals after initial diuresis are ~15 to 20 g/kg/day for wt gain,  ~0.5 to 1 cm/wk for HC gain, and ~ 1 cm/wk for LN gain.  Will follow w/ team and participate in nutrition plans.  
+",,
+5757,28609,7161,0,2968-03-07 16:49:00 EST,2968-03-07 17:13:00 EST,4549,"N",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+
+2.  Resp:  Infant is orally intubated with 2.5ETT.  Remains
+on HFOV.  Current vent settings MAP 10 amp 17, FIO2 mostly
+21%, increasing slightly with cares.  Sxn for small white
+from ETT and orally.  Breath sounds diminished.  Infant has
+good jiggle.  Last ABG 7.26/44/50/21/-6 on current settings.
+Plan to continue to monitor resp status closely.  
+
+4.  FEN:  TF decreased to 160cc/kg/d.  0.45NS 0.5U Hep:1.0cc
+is infusing at 0.8cc/hr(30cc/kg/d) as ordered without
+incident.  TPN D10w/hep is infusing at 100cc/kg/d with
+Lipids through 1UVC as ordered without incident.  D10W 0.5U
+Hep:1.0cc is infusing through prim port UVC at 0.8cc/hr
+(30cc/kg/d) as ordered without incident.  Abd is soft, flat,
+pink, no bowel sounds audible.  Voiding 3.2cc/kg/hr (team
+aware of decrease in urine output from yesterday), no
+stools.  Most recent D-stick 164 (TF have been decreased
+today).  Plan to cont to monitor d-sticks, monitor I's and
+O's.  Moitor FEN status closely.       
+
+CV:  Murmur not appreciated on exam.  Hyperactive percordium
+noted on exam.  Pulses are slightly full/non bounding. 
+Pulse pressures about 20-25points.  Low FIO2 requirement. 
+Cardiac echo done, results pending.  Blood out is 2.8cc.  
+
+
+",,
+5757,28609,7161,0,2968-03-07 17:17:00 EST,2968-03-07 17:20:00 EST,4606,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved on Hifi ventilator, MAP of 11, delta P of 17, with the fio2 21 to 25%. Pt weaned down on MAP from 11 to 10 bases on pt's CXR and blood gas results. Pt was tuned at 2pm and was suctioned for a mod amt of white secretions. Plan is to watch baby close and wean as tolerated.
+",,
+5757,28609,7161,,2968-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-8**]  
+     BABYGRAM (CHEST ONLY) PORT                                      Clip # [**Clip Number (Radiology) 12625**]
+     Reason: eval lung expansion and ETT placement
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant 24 wk GA with RDS, on HFOV.
+     REASON FOR THIS EXAMINATION:
+      eval lung expansion and ETT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     BABYGRAM CHEST, [**3-8**]:
+     
+     HISTORY:  Infant 24 weeks gestation with RDS.  On Hi-fi oxygen ventilation.
+     Evaluate lung expansion and ETT placement.
+     
+     FINDINGS:  Single view of the chest is compared to the study of two days
+     prior.  The lung expansion is slightly less and there are more superimposed
+     patchy atelectatic opacities onto the hyaline membrane disease.  Umbilical
+     catheter has come back slightly.  The ETT is in a similar location.  The heart
+     and mediastinal contours appear normal.  A pleural effusion is not seen.
+
+",,
+5757,28609,7161,,2968-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-8**] 7:17 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12626**]
+     Reason: PREMATURITY, NOW 4 DAYS OLD, ASSESS EVOLUTION OF IVH
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 4 days old
+     REASON FOR THIS EXAMINATION:
+      assess evolution ofuvh
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Very early premature infant, born at 23 weeks, 5 days gestation.
+     History of intraventricular hemorrhage.
+     
+     CRANIAL ULTRASOUND: The study is compared with the cranial ultrasound from 1
+     day earlier. Again seen is the right intraventricular hemorrhage. On today's
+     study, there is more convincingly extension of the hemorrhage into the
+     parenchyma adjacent to the right lateral ventricle. The question of left
+     intraventricular hemorrhage is now more convincingly demonstrated today. At
+     this point, the ventricles are non-dilated.
+     
+     There are no other new areas of hemorrhage seen. The fourth ventricle is not
+     dilated. The cerebellum is not well seen.
+     
+     The extra-axial fluid spaces are normal.
+     
+     IMPRESSION: 1) Continued evolution of right intraventricular hemorrhage, now
+     with more convincing extension into the adjacent brain parenchyma.
+     
+     2) Left sided intraventricular hemorrhage.
+     
+     3) At this point, no ventricular dilatation.
+     
+     4) Note that this study was initially reviewed by Dr. [**Last Name (STitle) 12627**] and discussed
+     with the clinical service shortly after performance of the study.  
+
+",,
+5757,28609,7161,0,2968-03-08 06:01:00 EST,2968-03-08 06:07:00 EST,4722,"N",75,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+Baby [**Known patient lastname **] received intubated on HiFi vent. Settings MAP 10 AMP 17 FiO2 21-25%. Suctioned ETT for sm amt of cloudy secretions Breath sounds fair aeration heard with bagging. Abg PO2 49 CO2 47 PH 7.20 19 -9. Bicarb given. Rpt abg PO2 62 CO2 65 PH 7.14 23 -8. AMP increased to 19. Will cont to monitor very closely.
+",,
+5757,28609,7161,0,2968-03-08 06:03:00 EST,2968-03-08 06:33:00 EST,4558,"N",75,"Nursing/Other","NPN 11p-7a","
+NPN 11p-7a
+
+
+#1 Temp max 99.5x. On ampi and gent as ordered-day [**3-23**].
+Blood cx NGTD. A: r/o sepsis P; Abx as ordered, follow cx
+
+#2 Received infant on HFV-delta P 17, MAP 10. FIO2 initially
+21. ^ to 25% after care. ABG ~ 0300 with a ph 7.20, PCO2 47-
+1.2meq of Sodium Bicarb. given in response. Follow up gas at
+0545: 7.14, 62. Delta P ^ 2 to 19. Suctioned for small amt
+non-bloody,cloudy secretions. A: worsening gas P: Follow up
+gas after vent change, cont to observe very closely
+
+#3 Murmur heard on eves. Color pinkish. BP maps 30-39
+overnoc. PP > 20.  Perfusion wnl. No palmar pulses felt. A:
+sm VSD, PFO via echo P: Follow perfusion very closely
+
+#4 TF's 180cc/k. NPO. Weight down 130g-checked 3x. Receiving
+I/2 NS with 1/2u hep via UAC @ 30cc/k. Receiving PN of D10
+and IL via primary side of UVC @ 100cc/k and D10 with 1/2u
+hep via secondary side @ 50cc/k. DS ^ 195. [**First Name9 (NamePattern2) 81**] [**Doctor Last Name **] aware.
+Am lytes sent: 133,3.1,103,17. Infant is in prone
+position-belly soft. No stool passed. 24hr UOP 3.4cc/k.
+Overnoc UOP 1.6 cc/k. A"" Alt in FEN P:Strict monitoring of I
+& O status, follow weight trends, labs as ordered
+
+#5 Nested on sheepskin under plastic tent and photoRx.
+[**Known patient lastname 2606**] temps drop almost immediately when tent displaced
+with interventions. Cares performed q 6hrs.  Temp max
+99.5x-warmer weaned 0.3 degrees. Fentanyl given x 1 prior to
+handling with good effect. Infant has otherwise been very
+calm overnoc. Eyes remain fused. A: approp for this ELBW
+infant P: Cont to support developmental needs
+
+#6 Under single photoRX with eye covering in place. No bili
+ordered overnoc. No stool passed. NPO. A: ^ bili P: Follow
+levels as ordered
+
+#7 Skin remains dry with scattered bruising and
+abrasions,esp on trunk. Aquaphor applied gently x 1. No open
+areas or evidence of infection seen. A: impaired skin
+integrity P: Follow for further breakdown
+
+#8 Dad phoned x 1 for an update. Questions answered. 
+
+
+
+
+",,
+5757,28609,7161,0,2968-03-08 08:53:00 EST,2968-03-08 09:07:00 EST,5083,"N",75,"MD Notes","Neonatology note","
+Neonatology note
+4 d.o
+remained on HIFI, MAP=10, AMP=19, O2=RA-25%
+metabolic acidosi, received 1 dose of bicarb
+ECHO: small VSD,PFO
+on amp+gent
+bili=3.6, under phototherapy
+wt= 440 gm TF= 180 cc/kg/d
+uo= 3.4 cc/kg/h
+
+A: ex 24 wks GA, RDS, VSD,PFO, IVH
+P: monitor closely fluid intake with lytes, weight change, repeat HUS today
+Spoke with parents at length re: IVH
+",,
+5757,28609,7161,0,2968-03-08 19:00:00 EST,2968-03-08 19:05:00 EST,4606,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved on Hifi ventilator, MAP of 10, delta P of 19, with the fio2 21 to 28%. Pt turned at 9am and hand bagged at pressure of 15/5 with good chest expansion. Pt suctioned for a sm amt of white secretions.  Attempt made to convert pt to conventional PPV on low ventilator settings, failed due to poor blood gas results on increasing ventilator settings. Pt placed back on Hifi ventilator. Plan is to stablize pt back on Hifi settings. 
+",,
+5757,28609,7161,0,2968-03-08 19:51:00 EST,2968-03-08 20:09:00 EST,4647,"N",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+
+SEPSIS O/A: Infant continues on IV Abx of Ampi & Gent. No
+overt s/s of sepsis noted today. P: Cont to monitor.
+
+RESP O/A: Received on HiFi ventilator: Delta P 17, MAP 10.
+FiO2 21-24%. Sxn x2 for cloudy secretions. ic/sc rtxns.
+Based on CXR & 0630 CBG infant trialed to Conventional vent
+this afternoon (see resp note & flowsheet for details).
+Transfered back to HiFi @ 1830 for ABG of 6.98/79/95. P:
+Cont to monitor infant's resp status.
+
+FEN O/A: BW 616, Wt @ 0930: 510g. TF @ 180cc/k/d; NPO. 1/2NS
+running through the UAC. D-sticks 202-336 this afternoon.
+Currently Infusing D5 w/ 3NaCl/3KCl through the primary UVC
+& D5 w/ Hep through the secondary UVC to correct high
+glucose levels. Lytes @ 1500: 132/3.2/102/18. Abdomen soft/
+hypoactive BS. Voiding 2.7cc/k/h for 12h, no stool. P: Cont
+to monitor blood glucose. Monitor I&O. PICC placement
+tonight; resume PN.
+
+G&D O/A: [**Known patient lastname **] is nested on an open warmer. Eyes fused,
+sutures approx. MAE, but slightly lethargic with cares.
+Fentanyl x2. HUS completed @ 0930; repeat HUS on Thursday.
+P: Cont to support developmental needs.
+
+BILI O/A: Infant remains pale pink/ sl jaund. Bili @ 1500:
+2.7/0.4/2.3 on single phototherapy. P: cont to monitor.
+
+SKIN O/A: Skin is slightly dry in areas. Pink. Areas of
+breakdown noted on feet. Bruising noted on trunk &
+extremities. P: Cont to monitor.
+
+PAR O/A: Parents in for a visit this a.m. Updated @ the
+bedside by this RN, Md [**Last Name (Titles) **] & [**First Name9 (NamePattern2) 81**] [**Doctor Last Name 166**]. Asking
+appropriate questions r/t ventilator, HUS & development.
+Affectionate with daughter. Involved. P: Cont to teach &
+support NICU family.
+
+ 
+
+
+
+",,
+5757,28609,7161,,2968-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-9**] 10:18 AM
+     BABYGRAM (CHEST ONLY) PORT                                      Clip # [**Clip Number (Radiology) 12628**]
+     Reason: evaluate lung fields
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity, on HFOV
+     REASON FOR THIS EXAMINATION:
+      evaluate lung fields
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**2968-3-9**]
+     
+     PORTABLE VIEW OF THE CHEST
+     
+     CLINICAL HISTORY: Premature infant on high fi ventilation.  The child is now
+     day of life five.
+     
+     The endotracheal tube tip is at the carina.  The umbilical venous catheter tip
+     is located extremely low, likely still within the umbilical vein projected
+     over the liver.  The umbilical arterial catheter tip is projected over the top
+     of T6. The lungs show increased volume when compared to the previous
+     examination with only two ribs projected below the hemidiaphragm.  The lungs
+     show hyperexpansion and diffuse coarse bilateral opacities of chronic lung
+     disease.
+
+",,
+5757,28609,7161,0,2968-03-09 05:52:00 EST,2968-03-09 06:00:00 EST,4722,"N",75,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+Baby [**Known patient lastname **] received back on HiFi vent at the change of shift. Placed on vent settings MAP 11 AMP 25 FiO2 25-33%. Vent settings have weaned to MAP 11 AMP 19 FiO2 25-33%. ABG PO2 58 CO2 36 PH 7.22 16 -12. Baby to receive some bicarb. Baby also received 6cc of PRBC Hct was 24. Suctioning mod amt of bloody secretions, Breath sounds adequate when baby was bagged. Will cont to monitor very closely.
+",,
+5757,28609,7161,0,2968-03-09 06:36:00 EST,2968-03-09 06:50:00 EST,4684,"N",75,"Nursing/Other","NPN Nights","
+NPN Nights
+
+
+1. O: Day [**4-22**] of Amp and Gent. Temp stable. Active. CBC and
+blood cx sent. (see labs). Active. A/P: Cont to monitor for
+sepsis.
+
+2. O: REceived pt on Hifi Map 11 delta P 25. Pt weaned to
+Map11 Delta P 19 Fio2 24-32%. (see labs). Adequate aeration.
+Sxn'd mod bloody secretions. NNP aware. Bicarb given X1. ABG
+to follow. A/P: Cont to closely monitor resp status.
+
+3. O: Soft murmur heard. Hr 150-160's. pale pink. Tranfused
+10cc/kg of PRBCs thus far. Pt to receive 10cc/kg more of
+PRBCs. BP means 40-50's. NL pulses. A/P: Cont to monitor CV
+status. 
+
+4. O: Wt 515gms, up 5. TF 180cc/kg. NPO. Currently pt
+receiving D5, D5 with 3+3, and IL infusing well via DUVC.
+1/2 ns infusing well via UAC. Dstix 94-201, currently 174.
+Abd soft and dusky. NNP aware. No bs heard. No stool. UO
+9.5cc/kg last 12 hrs. Lytes obtained (see labs). A/P: Cont
+to monitor wt, abd, and I&O's.
+
+5. O: Temp stable nested on open warmer. Alert and active.
+Fentanyl X1 for ^bp, ^hr, and agitation. Pt able to rest
+after Fent. A/P: Cont to monitor temp. Cont to cluster
+cares.
+
+6. O: Under single. Eye shields on. TF 180cc/kg. Voiding.
+Bili obtained (see labs). A: Hyperbili. P: Cont to monitor
+bili.
+
+7. O: Skin with mult abrasions. 1 onL foot and 1 near umbi.
+Pt on sheepskin. Sat probe rotated. A/P: Cont to monitor
+skin.
+
+8. O: Mom called X2. Mom asking appropriate questions. Rn
+updated MOm. A/P: Cont to educate and support family. 
+
+
+",,
+5757,28609,7161,0,2968-03-09 08:53:00 EST,2968-03-09 09:16:00 EST,4548,"N",75,"Nursing/Other","Neonatology Attending Note","
+Neonatology Attending Note
+Day 5
+
+HiFi amp down 17, MAP 11, 25-32%
+7.36/36/103/21/-4 (amp decreased)
+some bloody secretions remain
+
+completed indocin course Sunday [**3-6**]
+BP 60/44, 50
++soft murmur
+ECHO [**3-7**] - no PDA, sm VSD, PFO
+off DOPA
+
+s/p PRBCs last pm, second aliqout this am
+crit 24.7
+plt 137
+
+Wt 515, up 5 gms. TF 180 cc/k/day. PN/IL. 
+d/s 141
+130/5.1/96/15
+u/o 9.5
+No stool
+
+Under single photot. 
+Bili 3.6/0.5
+
+On amp/gent day [**4-22**].
+wbc 4.7 (26n, 7 b)
+
+Under radiant warmer. 
+
+HUS repeat Thurs.
+
+A/P:
+Critically ill extremely premature infant
+- maintain HiFi, monitor blood gases, resp support needs, CXR today
+- no clinical signs for active duct, will cont to follow for this closely
+- met acidosis prob reflective of renal losses, large u/o - will provode more Na, lower KCL content, maximize acetate with salts to improve acidosis
+- cont abx course, will need LP
+- Follow HC and HUS tomorrow, will inform neuro service of prior HUS images
+- cont photot and provide add'l lights (double), follow bili levels
+- follow labs, lytes, bili closely
+",,
+5757,28609,7161,0,2968-03-09 11:51:00 EST,2968-03-09 11:57:00 EST,4675,"N",75,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Have met with parents several times during their visits with their premature daughter. Parents say they are managing well with support from their families. Have provided them with SSI and reduced parking paperwork and will continue to meet with them, offer support. Pleas ecall with additional concerns. Thank-[**Doctor First Name 154**].
+",,
+5757,28609,7161,2,2968-03-09 13:50:00 EST,2968-03-09 18:23:00 EST,5079,"Y",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+2p abg: 7.41/35/47/23/-1 on MAP9,delta P 17 room air; weanedABG on MAP 9, AMP 15: 7.23/51/54/22/-6. Increased AMP to 17. delta P further to 15:  good wiggle remains.
+",,
+5757,28609,7161,0,2968-03-09 13:50:00 EST,2968-03-09 13:55:00 EST,4563,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt continues on HFOV MAP 9, delta P 17, room air w/sats greater than 90%.  Weaned delta P to 17 (from 19) early in shift for 7a abg:  7.36/36/58/16/-12.  Turned and sx'd at 11am.  Bags easily on 18/5.  BBS ess clear w/good aeration.  Sx'd for large amts of bloody secretions (MD/NNP/RN aware). CXR done which reveals expansion to 10ribs, tube good position.  Weaned MAP from 11 to 10 and after remaining on FiO2 of .21, weaned MAP further to 9.  Tolerating well so far, follow up gas to be drawn.  Will continue to monitor and optimize ventilation and oxygenation on HFOV.
+",,
+5757,28609,7161,1,2968-03-09 13:50:00 EST,2968-03-09 14:16:00 EST,4563,"Y",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+2p abg: 7.41/35/47/23/-1 on MAP9,delta P 17 room air; weanedABG on MAP 9, AMP 15: 7.23/51/54/22/-6. Increased AMP to 17. delta P further to 15:  good wiggle remains.
+",,
+5757,28609,7161,0,2968-03-09 15:03:00 EST,2968-03-09 15:13:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+
+
+1. I/D: CBC and BC drawn last night.  Infant is day [**4-22**] of
+ampi/gent.  Initial BC neg, last BC pending.  P: Cont. to
+adminster abx as ordered, ? LP tomorrow, and follow BC
+results.
+
+2. CV: No murmur audible this shift. HR stable.  B/P means
+40-52.  Pulse pressures 15-23.  Cuff pressures stable and
+correlating to ABP. Infant is pale pink. Infant received
+second aliqout of PRBC (6 cc over 3 hours) which finished at
+1230.  Blood out since transfusion is 0.3 cc.  plt this am
+was 137.  P: Cont. to monitor cv status.
+
+3. G/D & Skin: Temps stable on servo-warmer.  Infant is
+nested in sheepskin with boundaries and water pillow in
+place.  Infant is active when disturbed.  Fentanyl was given
+x 1 during first set of cares.  Eyes remained fused.  Skin
+is dry. Abrasions and bruising noted on skin.  Font
+soft/flat.  Neuro over to consult today.  Daily HC to be
+performed.  HUS scheduled for tomorrow.  AGA.  P: Cont. to
+support developmental needs and maintain skin integrity.
+
+4. Bili: Infant under double phototherapy with eye shields
+in place.  Bili this am was 3.6/0.5 up from 2.7/0.4.  Plan
+is to recheck a bili at 1700.  
+
+
+",,
+5757,28609,7161,0,2968-03-09 15:25:00 EST,2968-03-09 15:27:00 EST,4689,"N",75,"MD Notes","Neonatology-NNP Physical Exam","
+Neonatology-NNP Physical Exam
+
+[**Known patient lastname **] remains on HFOV.  Active, alert, AFOF, eyes fused.  BBS clear with fair air entry.  No murmur, pulses non-bounding, pale/pink, RRR.  Abdomen soft, non-distended, no bowel sounds, no HSM, NPO.  Skin intact.  Please refer to attending progress note for detailed plan.
+",,
+5757,28609,7161,0,2968-03-09 16:20:00 EST,2968-03-09 16:38:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900 cont'd","
+NPN 0700-1900 cont'd
+
+
+5. Parents: Mom and Dad and MGM in to visit from 1100-1300. 
+Updated at bedside on infant's condition and plan of care by
+this RN and attending [**Doctor Last Name 35**].  Asking appropriate questions.
+Appropriately concerned about HUS results tomorrow.  Mom
+very quiet and distant today.  Dad [**Name (NI) 182**] at bedside but
+coping ok.  SW and team aware.  Will be back tomorrow am. 
+Loving, involved parents.  P: Cont. to support and update
+parents.
+
+6. Resp: Received infant orally intubated on HFOV settings
+of Delta P 19 with a map of 11.  Her current settings are
+Delta P 15, Map 9.  Recent ABG at 1400 was 7.41/35/47/23-1. 
+Chest x-ray obtained - please see above note for details. 
+FiO2 requirement this shift has been between 21% and 27%. 
+Infant was sxn x 2 for bloody secretions from ETT.  Lung
+sounds clear/=.  Mod IC/SCR noted. P: Cont. to monitor resp.
+status, follow BG and wean settings as tolerated.
+
+7. FEN: Weight today was 460 down 55 gms.  TF remain at 180
+cc/kg/day.  UAC has 7.5 meq of Na acetate and .5 unit hep/cc
+running.  DUVC: through primary port is D5w with 3 mEQ of
+NaCl and 1 mEQ of KCl with IL.  And through secondary port
+is D5 with heparin.  D/S 141/120.  UO 10 cc/kg/hr for past
+12 hours.   No stool noted.  Abd soft, round.  There is an
+area that remains dusky just over umbi - team aware.  No BS
+noted.  Lytes will be drawn at 1700.  At the time of the
+writing of this note a PICC line attempt is being made. 
+Fluids will change  in DUVC (or PICC) to PND5 at 1800.  P:
+Cont. to support nutritional needs.            
+
+
+",,
+5757,28609,7161,,2968-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-10**] 7:05 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12629**]
+     Reason: follow up previous studies showing IVH
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 6 days old
+     REASON FOR THIS EXAMINATION:
+      follow up previous studies showing IVH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Former 23 week and 5 day premature infant who is now 6 days old.
+     Previous head ultrasounds have shown a large right germinal matrix and
+     intraventricular hemorrhage.
+     
+     Comparison is made with the previous examinations from [**3-7**] and [**3-8**]. Again
+     standard coronal and sagittal images of the brain were obtained via the
+     anterior fontanelle with additional mastoid views performed. Again identified
+     is the large right germinal matrix and intraventricular hemorrhage. There has
+     been a dramatic interval increase in size of both lateral ventricles and the
+     third ventricle. The lateral ventricular dilatation is symmetric with the
+     exception of compression of the right frontal [**Doctor Last Name 274**] by the large germinal
+     matrix hemorrhage. There may be involvement of the right periventricular
+     parenchyma at this time as well. No definite left sided germinal matrix
+     hemorrhage is identified though there is intraventricular blood present within
+     the left lateral ventricle. The fourth ventricle is poorly visualized even on
+     the mastoid views and is echogenic and likely contains intraventricular blood
+     as well. The left cerebral hemisphere is abnormally echogenic with loss of the
+     normal foleal pattern. This is a new finding when compared to the previous
+     films.
+     
+     Pulse Doppler interrogation of the anterior cerebral artery reveals resistive
+     indices of approximately 0.76 and 0.75. With depression of the anterior
+     fontanelle, there is loss of forward flow in end diastole for resistive index
+     ranging between .95 and 1.0.
+     
+     IMPRESSION: 1) Large right sided germinal matrix hemorrhage and associated
+     bilateral intraventricular hemorrhage likely extending into the fourth
+     ventricle. There has been interval development of moderate to severe bilateral
+     ventriculomegaly.
+     
+     2) Interval development of left cerebellar hemisphere abnormality likely
+     representing intraparenchymal hemorrhage.
+     
+     3) Resistive indices now showing loss of antegrade flow in end diastole
+     suggests loss of intracranial compliance related to the acute development of
+     hydrocephalus.
+     
+     4) The findings and images were discussed at length with the neonatology team
+     including the staff attending Dr. [**Last Name (STitle) 12630**] [**Name (STitle) 606**].
+                                                                 (Over)
+
+     DATE: [**2968-3-10**] 7:05 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12629**]
+     Reason: follow up previous studies showing IVH
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5757,28609,7161,,2968-03-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-10**] 4:27 PM
+     BABYGRAM CHEST & ABD (TOGETHER ONE FILM) PORT                   Clip # [**Clip Number (Radiology) 12631**]
+     Reason: evaluate lung fields on HFOV, evaluate bowel gas pattern
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant with prematurity, on HFOV
+     REASON FOR THIS EXAMINATION:
+      evaluate lung fields on HFOV, evaluate bowel gas pattern
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Infant with prematurity, on high frequency ventilation.
+     
+     Single view of the chest from 4:35PM, [**2968-3-10**] is compared with the study
+     obtained the previous morning.
+     
+     ET tube has been advanced slightly.  The tip now reaches the take off of the
+     right main stem bronchus and should be withdrawn.  Umbilical artery catheter
+     reaches the level of T7-8.  Umbilical venous catheter tip projects just below
+     the level.
+     
+     The lungs remain stable with moderately severe changes of hyaline membrane
+     disease.  Heart size remains stable.
+     
+     The gastric bubble is now more prominent and the stomach is distended with
+     air.  There is no air seen beyond the gastric antrum and concern for gastric
+     outlet obstruction of some etiology is raised.  Whether this is functional or
+     anatomic is uncertain and an Upper GI series may be necessary if no air passes
+     distally.
+     
+     These findings were all discussed with ICU team.
+     
+     
+     
+
+",,
+5757,28609,7161,0,2968-03-10 05:23:00 EST,2968-03-10 05:51:00 EST,4640,"N",75,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+
+
+1 - SEPSIS - PT NOW ON DAY [**5-23**] OF AMP AND GENT.  TEMP STABLE
+ON WARMER.  ACTIVE W CARES.  LP DUE TODAY
+
+2 - RESP - PT RECEIVED INTUBATD ON HIFI [**Last Name (LF) 585**], [**First Name3 (LF) **] P=17,
+MAWP=9, 21-28%. ABG AT 2400=7.34/43/42/24/-2.  DELTA P - 16,
+WEANED POST ABG, FIO2=25%. BREATH SOUNDS CRSE, SC/IC
+RETRACTIONS NOTED.  SATS>92%.  SXN - CLEAR ORAL SECRETIONS,
+AND SMALL OLD BLOOD TINGED SECRETIONS FROM ETT.  NO A/BS
+NOTED
+
+3 - CV = MURMUR HEARD X1.  PT PALE PINK, +PULSES,
+NONBOUNDING. PRECORDIUM APPEARS MORE ACTIVE THIS AM.  BP
+STABLE MEANS 36=44. 
+
+4 - FEN - NPO.  TF=180CC/K.  PT RECEIVING NA ACETATE AND
+HEPARIN IN STERLIE H2O, INFUSING VIA UAC WITHOUT DIFFICULTY.
+ PT RECEIVING D5PN W/ LYTES VIA DL UVC, INFUSING WITHOUT
+DIFFICULTY. LYTES AT 2400-125/4.1/91/21.  DSTICK=123. ABD
+SOFT, DUSKY, NO LOOPS.  U.O FOR YESYERDAY=8.1CC/K/HR.  U.O
+FOR LAST 12 HRS= 4.7CC/K/HR. NO STOOLS.
+A: WT=410(-50).  LYTES DUE THIS A.M. 
+P: FOLLOW WT.  FOLLOW LYTES
+
+5 - G/D - TEMP STABLE, PT NESTED ON OPEN WARMER, W/ TENT
+OVER BABY.  MOVING ALL EXTREMITITES WHEN STIMULATED.
+TOLERATING FLIP W/ CARES - FENTANYL GIVEN X1. EYES REMAIN
+FUSED
+
+6 - BILI - PT REMAINS UNDER DOUBLE PHOTOTHERAY.  PALE,
+SLIGHT JAUNDICE.  PT VOIDING, NO STOOL.  BILI LEVEL DOWN
+THIS AM = 2.7/0.5/2.2.
+
+7 - SKIN.  PT W/ MULTIPLE BRUISING AND ASRASIONS ON LEGS -
+RIGHT FOOT SWOLLEN AND OPEN AREA ON TOP OF FOOT SCABBEWD
+OVER,
+
+8 - PARENT - MOM CALLING X2 - UPDATED, ASKING APPROP
+QUESTIONS, DAD IN TO VISIT DURING NIGHT - UPDATED, ASKING
+APPROP QUESTIONS, STATES WORRIED ABOUT HIS WIFE AND BABY
+
+
+",,
+5757,28609,7161,0,2968-03-10 06:33:00 EST,2968-03-10 06:44:00 EST,4578,"N",75,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt. began shift on HFOV--MAP 9.0, AMP was 17 decreased to 16 after a  gas of 7.34/43.  BS slightly coarse. Pt. sx'd for sm. amt. old bld.  FIO2 overnight has been 24-28%.  Pt.'s position was changed at 2200.  To follow.
+",,
+5757,28609,7161,0,2968-03-10 08:33:00 EST,2968-03-10 08:57:00 EST,4548,"N",75,"Nursing/Other","Neonatology Attending Note","
+Neonatology Attending Note
+Day 6
+
+HiFi mean 9, amp 16, 24-28%. ABG 7.34/43/-2.  Min old blood tinged secretions. 
+
+Mean BP 36-46. Int murmur heard last night. BP 57/34, 43
+
+s/p PRBCs, completed yest. 
+
+On amp/gent day [**5-23**].  
+
+Wt down 50 gms to 410.  TF at 160 cc/k/day. 
+UA - NS
+UVC - D5PN 5.2/kg Na and 2.8/kg K
+TG level 296, so lipids held.
+
+120/3.9/89/22 - 6am -> TF to 160, UA fluids changed to NS
+d/s 123, 199
+u/o 8.1 for 24hr, 4.0 past 12 hr.
+
+On radiant warmer. 
+
+HUS planned for today.
+
+Photot, bili 2.7/0.5 (down)
+
+A/P:
+- PDA check today
+- Follow-up CXR to check lung expansion, follow gases
+- Hyponatremia - Na in UA fluids inc, will increase as well in PN, follow Na trend closely.  
+- HUS today
+- complete abx course, will need LP
+- cont photot, follow bili levels
+
+Family meeting today.
+",,
+5757,28609,7161,0,2968-03-10 10:42:00 EST,2968-03-10 10:44:00 EST,5173,"N",75,"Nursing/Other","OT/PT","
+OT/PT
+Met with parents to introduce self and educated in role of OT/PT and initiated discussion regarding making their baby comfortable.  [**Name2 (NI) **] follow up as appropriate for creating a care plan, further education with the parents, and developmental care.  
+
+                                                 [**First Name8 (NamePattern2) 201**] [**Last Name (NamePattern1) 493**], OT
+",,
+5757,28609,7161,0,2968-03-10 10:51:00 EST,2968-03-10 10:54:00 EST,4700,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt cont on HFOV. current settings MAP 9.0, AMP 16. Fio2 .25, bs coarse, sx for mod old bld. No vent changes made thus far this shift. Rec'd fentanyl prior to cares for pain management. Plan to support as needed.
+",,
+5757,28609,7161,1,2968-03-10 10:51:00 EST,2968-03-10 15:43:00 EST,5079,"Y",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+ABG: 7.38/43/68/26/0. Weaned to AMP 15 after ABG>
+",,
+5757,28609,7161,0,2968-03-10 13:47:00 EST,2968-03-10 13:58:00 EST,4549,"N",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+
+1.  Sepsis:  Infant cont on Ampi and Gent as ordered Day
+[**5-23**].  Blood cultures neg.  Temp stable nested on warmer. 
+Infant is active with cares and sleeping well between.  Plan
+for LP today.  
+
+3.  CV:  No murmur heard on exam by this RN.  BP 57/34 (43).
+HCT 29 today, infant is pale pink.  Blood out is 2.7cc. 
+Plan for echo.  Plan to continue to monitor CV status
+closely.  
+
+Bili:  Continues on double phototherapy with eye shields on.
+Bili today 2.7/0.5.  Plan to continue to monitor.   
+
+
+",,
+5757,28609,7161,0,2968-03-10 14:40:00 EST,2968-03-10 14:50:00 EST,4675,"N",75,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+
+Family meeting held this am with parents, mo's step-mom, neonatology attending, nnp, nursing and social work. Infant's current status reviewed with a focus on worrisome neuro status. Parents understandbly overwhelmed, sad to learn about findings and prognosis. Asking several reasonable questions about management and interventions. Re-direction of care also addressed. Parents working to absorb information, interested in hearing from neuro following the consult to take place this pm. Parents very supportive of eachother, privately cope with the emotional aspects of this situation and appear to prefer to make use of staff to gather info. in order to make decisions about her care. Will remain available to parents during this difficult time.
+",,
+5757,28609,7161,0,2968-03-10 15:42:00 EST,2968-03-10 15:43:00 EST,4689,"N",75,"MD Notes","Neonatology-NNP Physical Exam","
+Neonatology-NNP Physical Exam
+
+[**Known patient lastname **] remains on HFOV.  Active, AFOF, sutures opposed, eyes fused, skin intact, bruising on right leg from PICC attempt, no open lesions.  BBS coarse and equal with fair air entry.  No murmur, pulses +2, pale/pink, RRR.  Abdomen soft, non-distended with hypoactive bowel sounds, NPO.  Please refer to attending progress note for detailed plan.
+",,
+5757,28609,7161,0,2968-03-10 18:00:00 EST,2968-03-10 18:22:00 EST,4549,"N",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+
+2.  Resp:  Infant is orally intuabated with 2.5 ETT. 
+Received infant on MAP 9 delta P 16, obtained ABG 7.38/43
+and weaned to current settings of MAP 9, delta P 15, FIO2
+mostly 24-26%.  Repeat ABG on crrent vent settings
+7.23/52/89/28/0.  CXR obtained and reviewed by MD [**Last Name (Titles) 35**]. 
+Suctioning infant for mod old blood from ETT and mod white
+orally.  Plan to cont to wean FIO2 and vent settings as tol.
+Follow ABG's closely.  Cont to monitor for new bleeding.
+
+3.  CV:  Echo obtained...results pending.
+
+4.  FEN:  TF decreased to 160cc/kg/d.  0.9NS 0.5U Hep: 1.0cc
+is infusing through UAC currently at 1.3cc/hr.  PN D5.0 with
+hep and lytes is infusing through DUVC as ordered.  last set
+of lytes 123/3.4/89/24, slightly improved from 120.  D-stick
+Lytes pending.  UO 3.0cc/kg/hr, urine sent for lytes and
+osm...pending.  Baby gram obtained, abd has blue hue
+otherwise soft and round.  Plan to cont to monitor lytes and
+I's and O's.  Plan to monitor weigh.  Plan to cont to
+monitor d-stikcs. 
+
+8.  Parents:  Mother, father and mother's step mother have
+been in throughout the day.  Family meeting held with MD
+[**Last Name (Titles) 35**], SW, NNP Ambrisino and this RN this am to review
+results of head ultrasound.  Also, family meeting held with
+above team and neurology from TCH to review head ultrasound
+results, the plan of care including necessitly of LP's and
+repeat head ultrasounds.  Neuro gave parents are broad
+spectrum of possible outcomes for [**Known patient lastname **] with the current
+amt of information from head ultrasounds thus far.  Family
+crying at bedsdie and holding on to each other for support. 
+Parents asking how to procede from this point.  Options for
+changing of current plan of care given to parents, option to
+provide serial LP's for infant with follow up head
+ultrasounds ultrasounds given to parents.  Parents stated
+they would like to procede with current plan of care and
+procede with LP scheduled for tomorrow, consent at bedsdie. 
+
+
+
+",,
+5757,28609,7161,1,2968-03-10 18:00:00 EST,2968-03-10 18:38:00 EST,4549,"Y",75,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Plan for blood txn tonight, hct 29.
+",,
+5757,28609,7161,,2968-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-11**] 7:04 AM
+     NEONATAL HEAD PORTABLE; -76 BY SAME PHYSICIAN                   [**Name Initial (PRE) 32**] # [**Clip Number (Radiology) 12632**]
+     Reason: post lp
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 6 days old
+      ivh, enlarged vents
+     REASON FOR THIS EXAMINATION:
+      post lp
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Very early premature infant, born at 23 weeks, 5 days gestation,
+     with intraventricular hemorrhage.  This study is a follow up exam performed
+     post-lumbar puncture.
+     
+     CRANIAL ULTRASOUND:  Comparison is made with the study obtained one hour
+     earlier, pre-lumbar puncture, as well as the previously day's study and
+     studies obtained earlier in the week.
+     
+     FINDINGS:  Examination was performed through the anterior and mastoid
+     fontanelles.  There was very little change in the appearance of the ventricles
+     following lumbar puncture. Again seen is the right germinal matrix hemorrhage
+     with intraventricular and intraparenchymal extension.  Both ventricles remain
+     dilated and the left lateral ventricle is again seen to contain
+     intraventricular blood.
+     
+     On this examination, we obtained views through the mastoid fontanelle which
+     more clearly showed both left cerebellar hemisphere hemorrhage and new right
+     cerebellar hemorrhage.  Blood is also again seen within the 4th ventricle.
+     
+     Duplex Doppler and color flow interrogation of the anterior cerebral artery
+     revealed resistive indices of approximately 0.65 to 0.75, with no significant
+     change upon application of compression.
+     
+     IMPRESSION:
+     
+     1.  No significant change in size or appearance of the ventricles following
+     lumbar puncture.
+     
+     2.  No significant increase in resistive index, upon compression.
+     
+     3.  Stable right grade 4 germinal matrix hemorrhage/intraventricular
+     hemorrhage.
+     
+     4.  Stable left cerebellar hemisphere hemorrhage.  New right cerebellar
+     hemorrhage.
+     
+     5.  These findings and the images were discussed with the neonatology team and
+     staff attending, Dr. [**First Name (STitle) 606**].
+                                                                 (Over)
+
+     DATE: [**2968-3-11**] 7:04 AM
+     NEONATAL HEAD PORTABLE; -76 BY SAME PHYSICIAN                   [**Name Initial (PRE) 32**] # [**Clip Number (Radiology) 12632**]
+     Reason: post lp
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5757,28609,7161,,2968-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-11**] 7:05 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12633**]
+     Reason: pre lp hus
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 6 days old
+      ivh, enlarged vents
+     REASON FOR THIS EXAMINATION:
+      pre lp hus
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Extreme premature infant now 6 days old with history of
+     intraventricular hemorrhage and enlarged ventricles.  There was also increased
+     resistive indices.  This study is performed in follow up prior to lumbar
+     puncture to relieve intracranial pressure.
+     
+     FINDINGS:  Comparison is made with the most recent prior ultrasound obtained 1
+     day earlier, as well as the two prior ultrasound examinations.
+     
+     Again seen is a large right germinal matrix hemorrhage/intraventricular
+     hemorrhage.  The ventricles remain quite dilated, but not significantly
+     changed since yesterday's study.  On today's examination, there is more
+     convincingly parenchymal extension of the right-sided hemorrhage into the
+     adjacent parenchyma.  This is best demonstrated on coronal oblique images
+     obtained later in the examination.
+     
+     There is also abnormal increased echogenicity of the choroid on the left,
+     concerning for accompanying left choroid plexus hemorrhage.
+     
+     Evaluation of resistive indices reveal resistive indices ranging between .74
+     and .76, with no significant change with graded compression.  Extra-axial
+     fluid spaces remain normal.
+     
+     There is intraventricular hemorrhage extending into the 4th ventricle,
+     however, the cerebellum was not well evaluated on this pre-lumbar puncture
+     study.
+     
+     IMPRESSION:
+     
+     1.  Evolving right germinal matrix/intraventricular hemorrhage, now with
+     parenchymal extension.  This is now grade 4 hemorrhage.
+     
+     2.  Stable ventriculomegaly.  Improvement in resistive indices.
+     
+     3.  ? left choroid plexus hemorrhage.
+     
+     4.   Poor evaluation of the cerebellum.  These findings were reviewed with the
+     clinical team.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2968-3-11**] 7:05 AM
+     NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 12633**]
+     Reason: pre lp hus
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5757,28609,7161,,2968-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-3-11**] 7:04 AM
+     NEONATAL HEAD PORTABLE; -76 BY SAME PHYSICIAN                   [**Name Initial (PRE) 32**] # [**Clip Number (Radiology) 12632**]
+     Reason: post lp
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      Infant born at 23 5/7 weeks gestation, now 6 days old
+      ivh, enlarged vents
+     REASON FOR THIS EXAMINATION:
+      post lp
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Very early premature infant, born at 23 weeks, 5 days gestation,
+     with intraventricular hemorrhage.  This study is a follow up exam performed
+     post-lumbar puncture.
+     
+     CRANIAL ULTRASOUND:  Comparison is made with the study obtained one hour
+     earlier, pre-lumbar puncture, as well as the previously day's study and
+     studies obtained earlier in the week.
+     
+     FINDINGS:  Examination was performed through the anterior and mastoid
+     fontanelles.  There was very little change in the appearance of the ventricles
+     following lumbar puncture. Again seen is the right germinal matrix hemorrhage
+     with intraventricular and intraparenchymal extension.  Both ventricles remain
+     dilated and the left lateral ventricle is again seen to contain
+     intraventricular blood.
+     
+     On this examination, we obtained views through the mastoid fontanelle which
+     more clearly showed both left cerebellar hemisphere hemorrhage and new right
+     cerebellar hemorrhage.  Blood is also again seen within the 4th ventricle.
+     
+     Duplex Doppler and color flow interrogation of the anterior cerebral artery
+     revealed resistive indices of approximately 0.65 to 0.75, with no significant
+     change upon application of compression.
+     
+     IMPRESSION:
+     
+     1.  No significant change in size or appearance of the ventricles following
+     lumbar puncture.
+     
+     2.  No significant increase in resistive index, upon compression.
+     
+     3.  Stable right grade 4 germinal matrix hemorrhage/intraventricular
+     hemorrhage.
+     
+     4.  Stable left cerebellar hemisphere hemorrhage.  New right cerebellar
+     hemorrhage.
+     
+     5.  These findings and the images were discussed with the neonatology team and
+     staff attending, Dr. [**First Name (STitle) 606**].
+                                                                 (Over)
+
+     DATE: [**2968-3-11**] 7:04 AM
+     NEONATAL HEAD PORTABLE; -76 BY SAME PHYSICIAN                   [**Name Initial (PRE) 32**] # [**Clip Number (Radiology) 12632**]
+     Reason: post lp
+     Admitting Diagnosis: NEWBORN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5757,,7161,0,2968-03-11 04:22:00 EST,2968-03-11 04:26:00 EST,5101,"N",75,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Baby remains on HiFi MAP 9 AMP decreased from 15 to 13 after abg 7.39/40/49/25/0.FIO2 ranges from 23-27%.Last ABG @ 4am 7.32/51/74/27/0
+with no change at this time.Turned and weighed at 10pm bagged at 20/6 bs clear after sx for mod amt brownish secs.Baby receiving [**Name2 (NI) **]. for sedation.Received prbc's.
+",,
+5757,,7161,0,2968-03-11 06:26:00 EST,2968-03-11 06:34:00 EST,4541,"N",75,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+
+
+1.  SEPSIS
+7 DAY COURSE  OF AMP AND GENT COMPLETED.
+2.  RESPIRATORY
+CONTNUES ON HFV. WEANED TO AMP 13. MAP 9.  O2 REQUIREMENT
+21-27%.  BBS COARSE.  LITTLE SPONTANEOUS EFFORT.
+3.  CV
+PRECORDIUM ACTIVE, PULSES FULL.  NO MURMUR HEARD AT 2200.
+BP MEANS >40.  COLOR NOW VERY PINK S/P TRANSFUSION OF
+12CC/20/KG OF PRBC'S.
+4.  F/N
+WEIGHT TONIGHT (ON REGULAR INFANT SCALE)  .555KG, UP
+145GRAMS.  ELECTROLYTES NORMALIZING.  TOTAL FLUIDS AT
+160CC/KG.  OUTPUT 4.9CC/KG/HOUR FOR 24 HOURS, 3.7CC/KG/HOUR
+FOR THIS 12 HOURS. NO STOOL.
+5.  G&D
+EYES FUSED.  NESTED ON WARMER.  ACTIVE AT TIMES.  FENTANYL
+X2 PRIOR TO CARE.
+6.  HYPERBILI
+EYES COVERED UNDER DOUBLE PHOTOTHERAPY.  AM LEVEL UNCHANGED.
+7.  SKIN
+MOSTLY INTACT. 
+8.  PARENTS
+DAD CALLED AND UPDATED.
+
+
+",,
+5757,,7161,0,2968-03-11 11:53:00 EST,2968-03-11 11:59:00 EST,4675,"N",75,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Team caring for infant met with parents again this am. Neonatologist reviewed latest head ultra sound findings. Having been informed of worsening findings parents made decision to re-direct care. They have contacted mother's father to request he join them in the NICU to say goodbye to their daughter. Parents have discussed with providers their wishes re: holding infant. They are supported by other family members who are present. Declined offer for hospital photographer and rabbi to be present. [** **], grieving parents. Will continue to meet with them over the course of the day.
+",,
+5757,,7161,0,2968-03-11 16:17:00 EST,2968-03-11 16:35:00 EST,4548,"N",75,"Nursing/Other","Neonatology Attending Note","
+Neonatology Attending Note
+
+HUS this am continues to demonstrate extension of intracranial bleeding. There is extension of the bleeding on the right side to now involving the right periventricular parenchyma. There is bleeding evident in the left ventricles.  The hemorrhages in the cerebellum have also increased extending from the left side to now including the cerebellum bilaterally.  There was no interval change in the degree of hydrocephalus, which is already considered significant. 
+
+Extensive family meetings held yesterday with the NICU team and the Neurology service. Parents are aware of the significant concern we have for [**Known patient lastname **] given her extreme prematurity and extent of intracranial bleeding for the both the short term and perhaps more importantly, the long term.
+
+After the parents heard the unfortunate news of the extension of the intracerebral hemorrhages, the family decided to withdraw medical support.  The family held [**Known patient lastname **] and Fentanyl was given to alleviate any pain and discomfort.  
+
+Time of death 4:02pm.
+Parents declined an autopsy. 
+",,
+5757,,7161,0,2968-03-11 18:30:00 EST,2968-03-11 18:37:00 EST,4645,"N",75,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Received infant orally intubated on HFOV settings of Delta p 13, map 8.  FiO2 requirement this shift has been between 21-30%.  No murmur appreciated.  B/P stable, arterial maps between 35-45.  Infant was pink/well perfused (s/p transfusion).  DUVC and UAC in place and running fluids.  D/S 53.  Infant had completed 7 day course of ampi/gent.  HUS done this am (#4).  A LP was done with follow-up HUS after.  HUS continued to show extension of intracranial bleeding.  Parnets in to visit at 1000. Team (This RN, MD [**Last Name (Titles) 35**], NNP [**Doctor Last Name **], SW [**Doctor Last Name **]) met with parents to discuss HUS results.  Parents made decision to withdraw support.  Infant was switched to conventional vent and family members were able to hold infant on vent.  Fentanyl was given for comfort.  At 1430 infant was extubated and IV fluids were discontinued.  Mother held infant until time of death.  Dr. [**First Name (STitle) 35**] pronounced infant's time of death at 1602.  Postmortem care done with parents.  Memory box given to parents.  Parents left unit at 1730.  Infant was brought to morgue with ID bands in place at 1750.
+",,

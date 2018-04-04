@@ -1,0 +1,574 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2834-4-20**]              Discharge Date:   [**2834-4-22**]
+ 
+Date of Birth:  [**2748-5-10**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 815**] 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+Central Venous Line
+ 
+History of Present Illness:
+85 y/o female with a h/o CAD, CVA, AF/sick sinus syndrome s/p 
+pacer placement, T2DM, hyperlipidemia, and COPD who presented to 
+the ED with fever. Pt was transferred from [**Hospital 67**] Rehab where 
+she is a resident when she spiked a temp to 101 and subsequently 
+sent to [**Hospital1 83**] ED for further evaluation. Of note, she is s/p 
+recent left BKA c/b MRSA wound infection treated with 
+vancomycin, ceftriaxone, and Flagyl. In the ED, she was given 
+cefepime and clindamycin for broader coverage. 
+ 
+Past Medical History:
+CAD s/p stenting of MI [**2826**]
+history of left CVA1/2005 manafested with left hemiparesis
+history of cardiac arrythmia, sick sinus syndrome, AF ,s/p 
+paacemaker
+history of DM2, diet controlled
+hsitory of GI bleed while on anticoagulation for renal thrombus
+history of hyperllpdemia
+history of COPD
+history of aortic valve stenosis 
+history of Left ventricular diastolic dysfunction
+history of asscending aortic aneurysem
+history of pulmonary hypertension
+history of urosepsis 2004
+history of dysphasia
+history of hyperlipdemia
+postoperative hypovolemia with low urinary output-fluid 
+resustated
+postoperative blood loss anemia-transfused
+posopterative electrolyte imbalance-corrected
+
+ 
+Social History:
+nursing home resident since [**2831**] post CVA
+ 
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - T 102.4, BP 108/57, HR 85, RR 17, O2 sat 94% 7L FM  
+General - elderly female, no acute distress  
+HEENT - mild anisocoria; R>L pupil, both reactive; OP clr, MMM, 
+no LAD  
+CV - RRR; [**2-28**] crescendo-decrescendo murmur @ LUSB  
+Chest - coarse crackles with expiratory wheezes throughout  
+Abdomen - NABS, soft, NT/ND  
+Extremities - L lower extremity surgically absent; AKA stump 
+with ~3-5 mm skin defect with minimal surrounding erythema, 
+minimal whitish drainage  
+
+ 
+Pertinent Results:
+[**2834-4-20**] 07:52PM   GLUCOSE-189* UREA N-13 CREAT-0.6 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-24 ANION GAP-12
+[**2834-4-20**] 07:52PM   CK(CPK)-34
+[**2834-4-20**] 07:52PM   CK-MB-NotDone cTropnT-0.07*
+[**2834-4-20**] 07:52PM   CALCIUM-8.5 PHOSPHATE-3.8 MAGNESIUM-1.8
+[**2834-4-20**] 07:52PM   WBC-7.7 RBC-3.16* HGB-10.6* HCT-31.8* 
+MCV-101* MCH-33.6* MCHC-33.4 RDW-15.7*
+[**2834-4-20**] 07:52PM   PLT COUNT-157
+[**2834-4-20**] 04:20PM   PO2-89 PCO2-43 PH-7.37 TOTAL CO2-26 BASE XS-0
+[**2834-4-20**] 03:47PM   TYPE-ART PO2-46* PCO2-46* PH-7.37 TOTAL 
+CO2-28 BASE XS-0 INTUBATED-NOT INTUBA
+[**2834-4-20**] 01:00PM URINE  COLOR-Amber APPEAR-Hazy SP [**Last Name (un) **]-1.030
+[**2834-4-20**] 01:00PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-SM
+[**2834-4-20**] 01:00PM URINE  RBC-0-2 WBC-[**11-14**]* BACTERIA-MOD 
+YEAST-NONE EPI-[**2-27**]
+[**2834-4-20**] 11:52AM   TYPE-[**Last Name (un) **] COMMENTS-NOT SPECIF
+[**2834-4-20**] 11:52AM   GLUCOSE-108* LACTATE-1.2 NA+-143 K+-5.1 
+CL--109
+[**2834-4-20**] 11:48AM   GLUCOSE-113* UREA N-10 CREAT-0.7 SODIUM-145 
+POTASSIUM-4.7 CHLORIDE-111* TOTAL CO2-29 ANION GAP-10
+[**2834-4-20**] 11:48AM   estGFR-Using this
+[**2834-4-20**] 11:48AM   CALCIUM-8.7 PHOSPHATE-3.7# MAGNESIUM-2.0
+[**2834-4-20**] 11:48AM   WBC-6.9 RBC-3.51* HGB-11.7* HCT-35.8*# 
+MCV-102*# MCH-33.4* MCHC-32.8 RDW-15.9*
+[**2834-4-20**] 11:48AM   PLT COUNT-176
+[**2834-4-20**] 11:48AM   PT-12.5 PTT-25.5 INR(PT)-1.1
+
+Echo [**2834-4-21**]:
+EF 70-75%, 3+TR 2+MR, 2+AR, mod AS, mod pulm HTN.
+
+CXR [**2834-4-20**]:
+1. Left internal jugular central venous catheter likely 
+terminating within the brachiocephalic confluence. No definite 
+pneumothorax identified; however, left apex was not included on 
+current radiograph.
+
+2. Grossly unchanged appearance to bilateral pleural effusions 
+and basilar atelectasis. More dense opacity within the 
+retrocardiac region also likely represents atelectasis; however, 
+underlying consolidation cannot be excluded.
+ 
+Brief Hospital Course:
+85 F s/p recent left AKA on [**2834-3-3**], transferred from [**Hospital 67**] 
+Rehab with fever and hypotension.  
+  
+Felt to be related to possibly multiple sources including AKA 
+stump (cellulitis vs abscess vs osteo), C Diff colitis, UTI; 
+also possible early pneumonia with retrocardiac opacity on CXR). 
+ Pt initially covered broadly with vanco/cefepime/metronidazole 
+without good effect.  Hemodynamics continued to decline as well 
+as respiratory status with increasing CO2 retention despite 
+non-invasive positive pressure ventilation.
+
+Pressors initially started with moderate effect, however, pt's 
+mental status began to decline despite improved mean arterial 
+pressures.  Family meeting was held given continued decline, and 
+pt was made comfort measures only by son.  Pt expired at 19:49 
+[**2834-4-22**] and family was informed.  Autopsy was declined.
+
+ 
+Medications on Admission:
+Acetaminophen 650 TID  
+Aspirin 325  
+Ceftriaxone 1 gm QD  
+Iron 325 QD  
+Gabapentin 300 QHS  
+Heparin 5000 SQ TID  
+Lactobacillus BID  
+Toprol XL 37.5 QD  
+Flagyl 500 PO Q8h  
+Mirtazapine 30 PO QHS  
+Protonix 40 PO QD  
+Senna 2 QHS  
+Simvastatin 40 QHS  
+Vancomycin 750 IV QD  
+
+ 
+Discharge Medications:
+na
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Sepsis
+Hypotension
+Probable C diff colitis
+Probable nosocomial pneumonia
+Probable stump cellulitis
+Congestive heart failure
+Atrial fibrillation with sick sinus syndrome
+Hypoxic respiratory distress
+Hypercarbic respiratory failure
+ 
+Discharge Condition:
+expired
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 819**] MD [**MD Number 820**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number 2335**] [**2834-4-23**] @ 0333
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **]
+ on: TUE [**2834-4-25**] 3:30 PM
+(End of Report)
+
+
+",,
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-20**] 9:33 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9650**]
+     Reason: eval line placement                                         
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fever, hypotension, s/p L subclav placement              
+     REASON FOR THIS EXAMINATION:
+      eval line placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old woman with fever, hypotension, status post left
+     subclavian line placement.
+     
+     COMPARISON:  [**2834-4-20**] at 12:17 p.m.
+     
+     CHEST AP:  The left subclavian catheter is directed superiorly into the
+     internal jugular vein, with the tip not visualized on the exam.  There is no
+     pneumothorax.  Marked cardiomegaly and right pleural effusion are again noted.
+     
+     IMPRESSION:  Left subclavian catheter tip directed superiorly into the
+     internal jugular vein.  This finding was discussed with Dr. [**Last Name (STitle) **] at 10 p.m. on
+     [**2834-4-20**].
+
+",,
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-20**] 9:33 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9650**]
+     Reason: eval line placement                                         
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fever, hypotension, s/p L subclav placement              
+     REASON FOR THIS EXAMINATION:
+      eval line placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old woman with fever, hypotension, status post left
+     subclavian line placement.
+     
+     COMPARISON:  [**2834-4-20**] at 12:17 p.m.
+     
+     CHEST AP:  The left subclavian catheter is directed superiorly into the
+     internal jugular vein, with the tip not visualized on the exam.  There is no
+     pneumothorax.  Marked cardiomegaly and right pleural effusion are again noted.
+     
+     IMPRESSION:  Left subclavian catheter tip directed superiorly into the
+     internal jugular vein.  This finding was discussed with Dr. [**Last Name (STitle) **] at 10 p.m. on
+     [**2834-4-20**].
+
+",,
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-20**] 12:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9649**]
+     Reason: infiltrate                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with lethargy, rhonchi                                        
+     REASON FOR THIS EXAMINATION:
+      infiltrate                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2834-4-20**] AT 12:17 P.M.
+     
+     HISTORY:  Lethargy.
+     
+     COMPARISON:  [**2832-12-15**].
+     
+     FINDINGS:  Please note, the patient could not hold still for film per
+     technologist.
+     
+     A pacemaker overlies the right perihilar region with two contiguous leads
+     overlying the expected location of the right atrium and right ventricle.  Lung
+     volumes are markedly diminished.  The patient's chin overlies the lung apices.
+     The heart is massively enlarged but stable.  There is blunting of the right
+     costophrenic angle likely due to a small effusion.  Left effusion also cannot
+     be excluded.  There is retrocardiac opacity, likely atelectasis, although an
+     early developing pneumonia cannot be excluded.  No definite edema is seen.
+     
+     IMPRESSION:  Markedly limited examination due to multiple factors as above. No
+     definite consolidation, although there is minimal retrocardiac opacity which
+     may be atelectasis.  Right pleural effusion.  Question small pleural effusion.
+     Massive but stable cardiomegaly.
+
+",,
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-20**] 11:34 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9651**]
+     Reason: assess line placement                                       
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fever, hypotension, s/p conversion of line to L IJ       
+     REASON FOR THIS EXAMINATION:
+      assess line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85 with fever, hypertension and replacement of left internal jugular
+     catheter.
+     
+     Comparison is made to prior chest radiographs from [**5-3**] and [**2834-4-20**].
+     
+     SINGLE PORTABLE SEMIUPRIGHT CHEST RADIOGRAPH
+     
+     FINDINGS:  There has been interval placement of left-sided central venous
+     catheter with its distal tip terminating within the brachiocephalic
+     confluence.  The left lung apex is not included on current radiograph but the
+     visualized lungs display no evidence of pneumothorax.  Right-sided pleural
+     effusion and atelectasis persists.  Increased hazy opacity projecting over the
+     right lower hemithorax is likely related to positioning and overlying soft
+     tissues.  Left-sided retrocardiac opacity and obscuration of the left
+     hemidiaphragm likely represents combination of effusion and atelectasis.
+     However, underlying pneumonia cannot be excluded.
+     
+     IMPRESSION:
+     
+     1.  Left internal jugular central venous catheter likely terminating within
+     the brachiocephalic confluence.  No definite pneumothorax identified; however,
+     left apex was not included on current radiograph.
+     
+     2.  Grossly unchanged appearance to bilateral pleural effusions and basilar
+     atelectasis.  More dense opacity within the retrocardiac region also likely
+     represents atelectasis; however, underlying consolidation cannot be excluded.
+     
+     
+     
+
+",,
+5254,27414,,,2834-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-20**] 11:34 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 9651**]
+     Reason: assess line placement                                       
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fever, hypotension, s/p conversion of line to L IJ       
+     REASON FOR THIS EXAMINATION:
+      assess line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85 with fever, hypertension and replacement of left internal jugular
+     catheter.
+     
+     Comparison is made to prior chest radiographs from [**5-3**] and [**2834-4-20**].
+     
+     SINGLE PORTABLE SEMIUPRIGHT CHEST RADIOGRAPH
+     
+     FINDINGS:  There has been interval placement of left-sided central venous
+     catheter with its distal tip terminating within the brachiocephalic
+     confluence.  The left lung apex is not included on current radiograph but the
+     visualized lungs display no evidence of pneumothorax.  Right-sided pleural
+     effusion and atelectasis persists.  Increased hazy opacity projecting over the
+     right lower hemithorax is likely related to positioning and overlying soft
+     tissues.  Left-sided retrocardiac opacity and obscuration of the left
+     hemidiaphragm likely represents combination of effusion and atelectasis.
+     However, underlying pneumonia cannot be excluded.
+     
+     IMPRESSION:
+     
+     1.  Left internal jugular central venous catheter likely terminating within
+     the brachiocephalic confluence.  No definite pneumothorax identified; however,
+     left apex was not included on current radiograph.
+     
+     2.  Grossly unchanged appearance to bilateral pleural effusions and basilar
+     atelectasis.  More dense opacity within the retrocardiac region also likely
+     represents atelectasis; however, underlying consolidation cannot be excluded.
+     
+     
+     
+
+",,
+5254,27414,6521,0,2834-04-20 16:55:00 EST,2834-04-20 17:04:00 EST,3913,"N",54,"Nursing/Other",,"
+
+nursing Note (0700-1900hrs)
+
+pt is a 85 yr old female adm from [**Hospital 1**] rehab with increased lethargy and fever.  Has been on IV antibx at rehab for LL stump; recent left AKA [**3-1**].  PMHX: NIDDM, CAD, CHF, HTn, hyperlipidemia, pacer-v-paced, left hemi from CVA, viral gastroenteritis, c-diff, MRSA in left stump wound, and COPD.  Upon arrival to EW, pt febrile to 102.4, given 1Gm tylenol with min effect. received 1L IVF, +UTi; +PNA per CXR> placed on iv antibx, pan cx. Adm to MICu for further resp monitoring.
+
+Review of systems:
+Neuro; A&OX3 on arrival; pleasant, joking with staff. Denies pain/CP. DOE.  Easily drifting off to [**Doctor Last Name 65**]. MAEW. PERL.
+
+CV: HR 60-80's, v-paced with freq PVC's; BP 100-110/a50's. #20 PIV RLA, hl'd. Skin warm and dry. LL stump with DSD, sm amt serous drng noted. Reported that site cx in EW. Hct stable, 35.8. K hemolyzed 5.1
+Weak pulse RLE, Dp/PT. 
+
+resp: LS I/E wheezing with turning; improved at rest. Received on 3L NC, changed to 7 L face mask d/t mouth breathing. Adequate o2 sats 93-96%. Resp following
+
+gi/GU: NPO. Abd soft, distended. Foley placed in EW, urine yellow, clear; marginal u/o at this time.
+
+Social: no calls/visits. Son is HCP per referral. DNR per referral. pt stated she did not want breathing tube if necessary.
+
+Plan: IV antibx. Monitor resp status, nebs prn. Pulm toilet. Titrate o2. Await cx. DNR. Dressing changes LLE.
+
+
+",,
+5254,27414,6521,,2834-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-21**] 6:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9652**]
+     Reason: assess interval change                                      
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with fever, hypotension, concern for PNA                     
+     REASON FOR THIS EXAMINATION:
+      assess interval change                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  85-year-old female with fever and hypotension.  Assess for possible
+     pneumonia.
+     
+     Comparison is made to multiple prior chest radiographs dating back to [**2834-3-3**].
+     
+     SEMI-UPRIGHT PORTABLE CHEST RADIOGRAPH.
+     
+     FINDINGS:
+     
+     There has been no change to positioning of left-sided central venous catheter,
+     dense aortic calcifications, cardiomegaly, and right-sided pacemaker device.
+     Combination of right-sided pleural effusion and right lower lobe opacity,
+     causing obscuration of the hemidiaphragm and dense retrocardiac opacity does
+     not appear significantly changed.  No evidence of pneumothorax.  Slightly
+     increased interstitial markings may suggest mild pulmonary edema.
+     
+     IMPRESSION:
+     
+     1.  Unchanged probable small bilateral effusions with right lower lobe and
+     retrocardiac opacity.  Differential for these opacities includes atelectasis
+     versus pneumonia.
+     
+     2.  Mild interstitial edema
+
+",,
+5254,27414,6521,0,2834-04-21 03:58:00 EST,2834-04-21 04:45:00 EST,8121,"N",54,"Nursing/Other","nursing progress notes","
+nursing progress notes
+written at [**2834-4-20**] 7pm-7am
+Review carevue for all other data
+
+Allergy: NKDA
+Code status: DNR/DNI
+
+Neuro: At begining of the shift patient was alert, oriented x3 and followed commands, weakness in lt arm and lt BKA. Rt wrist restraint in place for safety. Towards am she is more lethargic and oriented x1. C/o  pain at her back, fair effect with tylenol.
+
+Resp: Received patient with 7L face mask and o2 sats 95-98%, Bilateral lung sounds coarse and I/E wheeze and prn neb treatment given with fair effect and patient desats 88-89% and ABG 7.34/46/57 and placed her on 60% high flow and am blood gas 7.27/58/125 and tried BIPAP she did not tolerate BIPAP and back to high flow 40%. Copious secreation with nasal suction and prn nebs given for wheezing.
+
+Cv: Patient is v paced, with occasional pvc's, sbp 80-130's, Prior to line placement started dopamine  via PIV and d'ced later. fluid bolus 750ml given and cvp 12-16 via LIJ. Both LIJ and Lt rad a line placed and started with levophed am and to titarete for MAP>65. 
+
+Gu/Gi; Npo, abd soft distended with pos BS and able to swallow water in evening and now patient is lethargic and patient is for speech and swallow assesment today. Bm X1 loose greenish and frequent loose stool in rehab and stool sample to be send. Uo 10-40ml/hr via [**Name6 (MD) 8380**] and MD aware.
+Endo: insulin on ss
+Id: t max to 101.7 and blood cx from a line sent, continued on flagy, cefepime and vanco.
+Access: Lij and Lt rad a line.
+Social: no calls from family.
+Skin: Stump wound dressing by vascular surgeon and minimal oozing and broken skin noted at his back, which is heeling anf left open to air. 
+
+Plan: Monitor resp stastus and pul toilet and nebs as needed.
+      pressors titarete  to goal MAP >65.
+      close monitoring of UO
+      Speech and swallow assessment today
+      Follow temp curve and F/U cx results.
+      Emotional supprt to patient and family.     
+",,
+5254,27414,6521,0,2834-04-21 04:49:00 EST,2834-04-21 04:57:00 EST,8043,"N",54,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt was seen for prn neb treatments. Breath sounds revels mild inspiratory and expiratory wheezes with congestion.Albuterol/atrovent nebs givsn as noted in the carevue. Early am pt ABG reveled moderate respiratory acidosis. Non invasive ventilation initiated which was terminated within few minutes due to pt agitation, RR in high 40's and unable to maintain the seal in the curcuit because pt was trying to talk while on Non-invasive.Pt curruntly on 40% hi flow 02 mask. Tolerating well. NT Suctioned for copius amounts of yellow thick secretions.WIll continue to monitor closely.Pt is DNR/DNI.
+",,
+5254,27414,6521,0,2834-04-21 14:29:00 EST,2834-04-21 15:18:00 EST,7996,"N",54,"Nursing/Other","NSG 7AM-7PM","
+NSG 7AM-7PM
+PLEASE REFER TO CAREVUE FOR OTHER OBJ DATA.
+
+85 YR OLD FEMALE WITH CAD, PVD, S/P L AKA ON [**2-/2834**], TRANSFERED FROM [**Hospital 8381**] REHAB WITH FEVER, INCREASED DRAIN FROM AKA STUMP, AND DIARRHEA.
+
+PT RECEIVED AND REMAINS LETHARGIC, AROUSED TO VOICE, OX1, FOLLOWS COMMANDS INCONSISTENTLY, ANXIOUS AT TIME, RECEIVED MORPHINE 1.5MG WHILE ON BIBAP.
+
+HEART RYTHM 75-80% VPACED/AFIB, HR:60S/ NO ECTOPY. REMAINS ON LEVOPHED AT 0.025MCG/KG/MIN/ ABP 100S-110S WITH BRIEF PERIODS OF ABP IN 120S-130S, TRENDS DOWN QUICKLY TO THE 100S/ CVP 15-22. ECHO SHOWS EF 70-75%/ CXRAY POS FOR PLEURAL EFFUSION.
+TMAX:100.6, WILL MONITOR/ BLOOD CX ON [**4-20**] POS FOR GRAM POS COCCI IN CLUSTERS/ TEAM AWARE/ PT REMAINS ON VANCO/FLAGYL. LACTATE:1.2/ NEED STOOL SAMPLE FOR CDIFF.
+HCT STABLE:31.1
+K:3.7/ REPLETED 20MEQ OF KCL IV.
+LOW UOP/ HX OF CHF/ LASIX 20MG GIVEN WITH POS RESPONSE/ TOLERATES WELL/ UOP 260CC FOR 1ST HR POST LASIX.
+
+PT RECEIVED LABORED WITH I/E WHEEZES ON 40% SIMPLE MASK/ ABGS REVEALED PCO2 58/ NEB TX GIVEN/ PLACED ON BIBAP/ TOLERATES FOR APPROX 4HR/ PRESENTLY, PT APPEARS LESS LABORED, LUNG SOUNDS COARSE THROUGHOUT/ SATO2 94-97 ON 40% SAMPLE MASK/ LAST ABGS:7.29/52/86.
+
+ABD SOFT/ SLIGHTLY DISTENDED/ POS BS/ NO BM. REMAINS STRICTLY NPO.
+
+FOLEY PATENT, DRAINING AMBER CLEAR URINE
+
+SKIN MOIST AND WARM/ ABRASION TO COCCYX, STAGE II, NO DRAIN. L STUMP WITH 2 OPEN AREAS/ SMALL AMOUNT OF SEROUSSANG DRAIN/ DRY DSG APPLIED. SMALL STAB WOUND TO L CHEST.
+
+L ALINE AND L IJ TL INTACT
+
+CONT CURRENT POC
+TITRATE PRESSOR AS TOLERATED
+WEAN OFF O2 AS TOLERATED
+MONITOR UOP/ DIURISING PER TEAM DISCRETION
+MONITOR AND FOLLOW TEMP CURVE
+
+",,
+5254,27414,6521,0,2834-04-21 16:29:00 EST,2834-04-21 16:33:00 EST,6693,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt placed on NIV mask ventilation secondary to ABG's which reveal a respiratory acidosis. ABG's improved with NIV, but remains in a mild respiratory acidosis. Pt more agitated with mask. Pt taken off NIV and placed on Hiflo. Plan to continue on HiFlo aerosol at this time. May place on NIV this evening if needed.
+",,
+5254,27414,6521,,2834-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2834-4-22**] 3:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9653**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: PNA,UTI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with fever, hypotension, concern for PNA                    
+       
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**2834-4-22**].
+     
+     COMPARISON:  [**2834-4-21**].
+     
+     INDICATION:  Fever.  Concern for pneumonia.
+     
+     Left internal jugular vascular catheter terminates in distal left
+     brachiocephalic vein, and permanent pacemaker remains in standard position. 
+     Cardiac silhouette is enlarged but likely stable in appearance allowing for
+     patient rotation.  A large round opacity projects over the medial right lower
+     lung, and is lateral to the right heart border.  There has been improved
+     aeration in the left retrocardiac region attributed to improving atelectasis
+     and effusion.  Small right pleural effusion is also slightly improved.
+     
+     IMPRESSION:
+     1.  Large round opacity in right lower hemithorax medially, possibly due to a
+     round area of pneumonia given the history of fever, but a discrete mass cannot
+     be excluded. If this finding persists despite antibiotic therapy, dedicated
+     chest CT would be advised as communicated to Dr. [**Last Name (STitle) 9654**] by telephone on [**4-22**], 2007, if warranted clinically.
+     
+     2.  Improving interstitial edema and left lower lobe atelectasis.
+
+",,
+5254,,6521,0,2834-04-22 02:50:00 EST,2834-04-22 02:58:00 EST,3324,"N",54,"Nursing/Other",,"
+
+[**2834-4-21**] ""B"" NPN
+
+CVS:  T98.3-100.4 po. HR=65-76 Vpaced with pvc's noted. SBP=106-154. CVP=[**11-8**].  IV Levophed drip weaned off.  Pulses rt foot weak palp.
+
+Resp:  Pt on 4l nc but ph still 7.28. Tried on [**Last Name (un) **]-bipap but too much of airleaks, changed to bipap machine 40% 12/5.  Sats =98-100%.  Suctioned for small amt thick yellow sputum.  CPT done.  Lung sounds coarse, some rhonchi rt upper lobe.  Diminished at bases. Pt has good cough.
+
+Neuro:  Pt was lethargic on day shift, no longer lethargic, grabbing at O2 mask with rt hand, 1 soft wrist restraint on to maintain on O2. Left arm grip weaker than right.  Follows commands, speaks clearly, Pupils=+. Alert and oriented.
+
+GI:  NPO, supposed to have swallow eval.  +bowel sounds but no stool, was having diarrhea at the nursing home prior to admission.
+
+GU:  U/O=20-80cc/h cloudy yellow urine.
+
+Skin:  Red abraided areas on coccyx, positioned on sides and skin cream applied.  Left stump DSD clean,dry and intact.  Left IJ TLC is oozing small amt blood and has a small hematoma noted at the insertion site, resident aware.
+
+Plan:  Continue to monitor VSS, administer antibiotics as ordered, check culture results, Bipap as tolerated for resp acidosis.
+",,
+5254,,6521,0,2834-04-22 03:29:00 EST,2834-04-22 03:33:00 EST,3746,"N",54,"Nursing/Other",,"
+
+Respiratory Care: Pt changed over to bipap machine 17/5 with 4L O2. Appears more comfortable with this setup. Still with resp acidosis. Small amt secretions suctioned NT. Will follow abg and use bipap intermittently.
+",,
+5254,,6521,0,2834-04-22 15:46:00 EST,2834-04-22 15:56:00 EST,3239,"N",54,"Nursing/Other","MICU NSG 7A-7PM","
+MICU NSG 7A-7PM
+RESP--PT RECEIVED ON BIPAP MASK, TRANSITIONED TO 40% FACE TENT TAND THEN PLACED ON RA IN AFTERNOON. NTS X1 FOR SMALL TENACIOUS TAN SECRETIONS. PT MADE CMO, PT TURNED AND HAD MUCUS PLUGGING EPISODE, MED WITH MORPHINE FOR COMFORT.
+
+CV--PT WITH EPISODES HYPOTENSION THIS AM, BRIEFLY BACK ON LEVOPHED GTT, AND ABLE TO BE WEANED OFF. FAILY MEETING HLED WITH SON AND [**Name2 (NI) **]-IN-LAW, AND PT MADE CMO, PLACED ON MORPHINE GTT. MEDCATED PRN FOR AIR HUNGER, AND RESP DISTRESS.
+
+NEURO--PT SPEECH GARBLED AND DIFF TO UNDERSTAND, ORIENTED X1. GRIMACES ANS CRIES OUT WITH TURNING AND CARE. PRESENTLY UNRESPONSIVE. 
+
+GI--REMAINS NPO, NO BM THIS SHIFT.
+
+GU--U/O VIA FOLEY, U/O TRENDING DOWN, TEAM AWARE. 
+
+SOCIAL--SON AND DAUGHTER-IN-LAW IN TO VISIT, UPDATED ON PT'S CONDITION AND MADE PT CMO. 
+
+PLAN--MORPHINE PRN FOR COMFORT.  
+",,
+5254,,6521,0,2834-04-22 19:51:00 EST,2834-04-22 19:56:00 EST,8121,"N",54,"Nursing/Other",,"
+
+Nursing notes
+[**2834-4-22**] 2000
+
+Patient was on CMO, no HR, no breath sounds, examined by MD and turned off the pacemaker by MD and death [**Name6 (MD) 4233**]  by MD at 1918. Family has been called by MD. 
+",,

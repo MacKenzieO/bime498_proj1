@@ -1,0 +1,381 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5304,,,,2505-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-10**] 8:11 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10105**]
+     Reason: sob and doe h/o pneumonia 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with mult myeloma on chemo , COPD
+     REASON FOR THIS EXAMINATION:
+      sob and doe h/o pneumonia 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and dyspnea on exertion.  History of multiple
+     myeloma.
+     
+     PA and lateral radiograph dated [**2505-4-10**] is compared with the PA and lateral
+     radiograph dated [**2505-1-29**].
+     
+     The left subclavian central venous catheter tip is unchanged in position.
+     Surgical clips overlie the right mediastinum.  Surgical staples are located in
+     the left upper lung field.
+     
+     The heart size is moderately enlarged with a left ventricular predominantly.
+     The aorta is unfolded.  There are new bibasilar opacities.  The remainder of
+     the lungs appears clear.  There are small pleural effusions bilaterally.
+     
+     Healed rib fracture involving the ninth and tenth rib are again noted.  Again
+     demonstrated are the vertebral compression fractures involving T7 and T11, T12
+     and L1.
+     
+     IMPRESSION:
+     1) Bilateral lower lobe opacities consistent with pneumonia.
+     2) Small bilateral pleural effusions.
+     3) Central venous catheter is unchanged in position.
+     4) Old rib fractures and vertebral body fractures again demonstrated.
+     
+
+",,
+5304,,,,2505-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-14**] 1:00 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10106**]
+     Reason: man with MM, SOB and renal insufficiency. R/o CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with mult myeloma on chemo , COPD, EF 30%
+     REASON FOR THIS EXAMINATION:
+      man with MM, SOB and renal insufficiency. R/o CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, [**2505-4-14**]:
+     
+     CLINICAL INDICATION:  Multiple myeloma.  Shortness of breath.
+     
+     A left subclavian central venous catheter remains in place, coursing into the
+     inferior aspect of the right atrium.  The heart is upper limits of normal in
+     size and stable.  The aorta is slightly unfolded and the pulmonary vascularity
+     is normal.  There are multiple surgical clips overlying the right hilum as
+     well as additional surgical clips in the periphery of the left upper lobe.
+     Areas of pleural and parenchymal scarring are seen at the left upper lobe and
+     in the right lung base adjacent to the right hemidiaphragm.  There are also
+     scattered irregular predominantly interstitial opacities present in the
+     lingula and left lower lobe.  Minimal blunting of the costophrenic angles is
+     also present, and not significantly changed.  No new or progressive
+     abnormalities are evident in either lung.
+     
+     The skeletal structures reveal diffuse demineralization and several
+     compression deformities of the spine predominantly in the thoracolumbar
+     junction region, without interval change.  Deformity of the 5th left posterior
+     rib may be post operative and less likely related to myeloma and is unchanged.
+     
+     When comparison is made to earlier chest radiographs dating back to [**1-17**], the
+     left lower lobe and lingular abnormalities appear new.  The right
+     hemidiaphragm also appears less distinct along its medial portion.
+     
+     IMPRESSION:  No significant change since recent CXR of  [**2505-4-10**].  However
+     change in appearance compared to February suggests that there is an acute
+     process such as multilobar pneumonia (and less likely atypical/asymmetric
+     pattern of edema).
+     
+     Central venous catheter terminates inferiorly within the right atrium.
+
+",,
+5304,,,,2505-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-14**] 1:58 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 10107**]
+     Reason: man with multiple myeloma and worsening renal insufficiency.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with multiple myeloma with worsenign renal function
+     REASON FOR THIS EXAMINATION:
+      man with multiple myeloma and worsening renal insufficiency. R/o obstruction or
+      any changes to suggest amyloid 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple myeloma worsening renal function, rule out obstruction
+     or any evidence suggestive of amyloidosis.
+     
+     No comparison studies available.
+     
+     RENAL ULTRASOUND:  The study is limited due to the patient's low lung volumes,
+     somewhat high riding kidneys and suboptimal efforts of inspiration.  The right
+     kidney measures 11 cm in length. The left kidney measures 10.5 cm in length.
+     There is no evidence of hydronephrosis or nephrolithiasis.  Multiple cysts of
+     variable sizes are present in both kidneys.  The largest one in the right
+     kidney is in the lower pole measuring approximately 5.2 cm in size.  The
+     largest one in the left kidney is in the upper pole measuring approximately 3
+     cm in size. Both kidneys demonstrate echogenic cortex. Incidental note is made
+     of a small right pleural effusion.
+     
+     IMPRESSION:  Slightly limited study. No hydronephrosis.  Increased
+     echogenicity of the renal cortex, consistent with medical renal disease.
+     Amyloidosis cannot be excluded based on this study. Multiple renal cysts
+     bilaterally.
+
+",,
+5304,18638,,,2505-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5304,18638,,,2505-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-28**] 7:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10109**]
+     Reason: please evaluate for infiltrate, chf, ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with mult myeloma on chemo , COPD, EF 30%, lung cancer s/p
+      right and left surgical resections.  Now dyspneic with minimal exertion, desats
+      with exertion.  Please page [**Pager number 7377**] with wet reading. thanks. 
+     REASON FOR THIS EXAMINATION:
+      please evaluate for infiltrate, chf, ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of multiple myeloma.
+     
+     CHEST PA & LATERAL: Comparison is made to the prior film dated [**2505-4-14**]. Again
+     noted is evidence of a left subclavian central venous catheter, with the tip
+     in the inferior aspect of the right atrium. The heart is at the upper limit of
+     normal in size and appears stable. The aorta is slightly unfolded. The
+     pulmonary vasculature is normal. Again noted are multiple surgical clips
+     overlying the right hilum. There is evidence of pleural scarring at the left
+     upper lobe. Minimal blunting of the costophrenic angle is also present, not
+     significantly changed from the prior exam. Visualized osseous structures
+     demonstrate no evidence of lytic or blastic lesions.
+     
+     IMPRESSION: Placement of a left sided subclavian central venous catheter, with
+     the tip in the inferior portion of the right atrium. No significant change
+     from the prior exam.
+
+",,
+5304,18638,,,2505-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-4-28**] 6:44 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 10108**]
+     Reason: PLEASE EVAL FOR LOER EXT DVT/PT HAS DIFFICULTY BREATHING AND BILATERAL SWELLING
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with multiple myeloma, asymmetric LE edema (R>L), acute on
+      chronic dyspnea over 10 days, now dyspneic on minimal exertion and
+      desaturations on exertion.  Please page [**Pager number 7377**] with wet reading.  thanks.
+     REASON FOR THIS EXAMINATION:
+      please eval for lower ext dvt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Multiple myeloma.  Asymmetric lower extremity edema (right more
+     than left).  Worsening SOB and dyspnea on exertion.  R/o DVT.
+     
+     COMPARISON:  None.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **]-scale and Doppler sonograms
+     of bilateral common femoral, saphenous, superficial femoral and popliteal
+     veins were performed.  There is normal flow, compressibility and augmentation.
+     
+     IMPRESSION:  No DVT of bilateral lower extremities.
+
+",,
+5304,18638,,,2505-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     REST THALLIUM                                                   Clip # [**Clip Number (Radiology) 10110**]
+     Reason: EVALUATE FOR INDUCIBLE MYOCARDIAL ISCHEMIA. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy year old male with multiple myeloma and past history of
+     smoking, hypertension, cardiomyopathy.  Presents with dyspnea and desaturation
+     on exertion.  Please evaluate for inducible myocardial ischemia.
+      
+     The resting perfusion part of the study was performed with thallium as per
+     protocol.  Prior to proceeding with the pharmacologic stress, the referring
+     team was contacted the clinical concern of possible pulmonary thromboembolic
+     disease as a cause of the patient's symptoms.  The pharmacologic stress
+     component of the perfusion study was postponed and then cancelled at the
+     referring teams request.
+      
+     The following report therefor refers only to the resting thallium images.
+      
+     INTERPRETATION:  Resting perfusion images were obtained with thallium.  Tracer
+     was injected 15 minutes prior to obtaining the resting images.
+      
+     The resting perfusion images demonstrate normal myocardial perfusion.
+      
+     No gated acquisition was obtained.
+      
+     IMPRESSION:  Normal rest perfusion.
+     /nkg 
+                                                                           
+
+             [**First Name4 (NamePattern1) 1081**] [**Last Name (NamePattern1) 8439**], M.D.(dictated)
+             [**Initials (NamePattern4) 64**] [**Last Name (NamePattern4) 65**] [**Last Name (NamePattern1) 66**], M.D.     Approved: FRI [**2505-5-1**] 5:27 PM
+
+
+             Date Mailed: [**2505-5-4**]                     West [**Medical Record Number 10111**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5304,18638,,,2505-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     LUNG SCAN                                                       Clip # [**Clip Number (Radiology) 10112**]
+     Reason: CHRONIC SOB.  DESATURATION. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Chronic shortness of breath with desaturation on exertion.
+      
+     DECISION:  An 8 view ventilation and perfusion study was performed.   
+      
+     INTERPRETATION:  Ventilation images obtained with Tc-99m aerosol in 8 views
+     demonstrate  heterogeneous tracer distribution with foci of increased tracer
+     localization in the peri-hilar regions.  The appearance is consistent with
+     airway disease.
+      
+     Perfusion images in the same 8 views demonstrate small, matching areas of
+     defects in segmental and nonsegmental distribution.  
+     Chest x-ray performed on [**2505-4-28**] demonstrated no focal consolidation.
+      
+     IMPRESSION:  Low likelihood ratio for recent pulmonary embolism. /nkg
+                                                                           
+
+             [**First Name11 (Name Pattern1) 10113**] [**Last Name (NamePattern4) 10114**], M.D.
+             [**Initials (NamePattern4) 64**] [**Last Name (NamePattern4) 65**] [**Last Name (NamePattern1) 66**], M.D.     Approved: FRI [**2505-5-1**] 7:03 PM
+
+
+             Date Mailed: [**2505-5-4**]                     West [**Medical Record Number 10111**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 11**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 12**].
+
+",,
+5304,18638,,,2505-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-5-2**] 6:10 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10115**]
+     Reason: s/p PA line placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with  chf, pulmonary htn, copd
+     REASON FOR THIS EXAMINATION:
+      s/p PA line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF, pulmonary hypertension, COPD, status post line placement.
+     
+     SINGLE AP PORTABLE SUPINE VIEW.  The right chest is not included on this view.
+     Compared with [**2505-4-28**], a right IJ Swan-Ganz catheter has been placed.  The tip
+     is somewhat underpenetrated, but probably overlies the RV outflow
+     tract/proximal main pulmonary artery.  There is scarring and sutures in the
+     left lung, with partial obscuration of the left hemidiaphragm and blunting of
+     the costophrenic angle.  There is moderate-to-moderately severe cardiomegaly.
+     There is minimal upper zone redistribution, but no overt CHF.  The visualized
+     portion of the right lung is clear, but the costophrenic angle and lateral
+     base are not included.
+     
+     No pneumothorax is detected.  A left subclavian Port-A-Cath line is present,
+     tip overlying right atrium.
+     
+     IMPRESSION:
+     
+     1.  Interval placement of right IJ Swan-Ganz catheter.  The patient is rotated
+     making precise localization of the lead tip difficult.  I suspect that it
+     overlies the RV outflow tract, but if there is clinical concern for
+     positioning, then a repeat frontal view obtained without patient rotation
+     could help for more precise assessment.
+     
+     
+     
+     
+
+",,
+5304,18638,,,2505-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2505-5-2**] 8:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10116**]
+     Reason: Evaluate interval advancement of PA catheter.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with above.
+     REASON FOR THIS EXAMINATION:
+      Evaluate interval advancement of PA catheter.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate interval advancement of PA catheter.
+     
+     CHEST, SINGLE AP PORTABLE VIEW.
+     
+     An IJ Swan-Ganz catheter is present, the tip overlying the right pulmonary
+     artery, slightly distal.  A left subclavian Port-A-Cath line is present, tip
+     over mid/distal SVC.  There is partial obscuration of both diaphragms and
+     blunting of both costophrenic angles, consistent with small bilateral pleural
+     effusions.  Upper zone redistribution and mild diffuse vascular blurring,
+     unchanged.  Sutures and apparent bullous change in the left upper lung
+     peripherally, similar to the appearance on the [**2504-12-26**] X-ray.
+     
+     No acute pneumothorax is identified.
+     
+     IMPRESSION:  Right IJ Swan-Ganz catheter with lead tip over right pulmonary
+     artery, slightly distal.  No pneumothorax detected.
+     
+
+",,
+5304,18638,6585,0,2505-05-02 18:24:00 EST,2505-05-02 18:44:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU Nursing acceptance","
+MICU/SICU Nursing acceptance
+70 yo M with PMH: CHF with EF ~20%, HTN, pulmonary HTN, multiple myeloma, COPD, CRI, lung CA  with RUL lobectomy '[**97**] and left lobe resection, who presented form the heme/onc clinic with dyspnea for 10+ days. Pt transferred to ICU for invasive monitoring for IV inotrope therapy.
+
+
+ROS:
+
+Neuro: pt is A&Ox3, anxious, denies pain
+
+Resp: LS are diminished in all fields, little air movement can be ascultated, SpO2 is 96-99% on 1.5L NP. Pt c/o dyspnea, air hunger.
+
+CV: 100/49, 99 ventricular bigeminy, 18, skin is C/D/I, 3+ pitting edema in BLE, pedal pulses are weak but palpable
+
+GI/GU: abd firm, distended, faint BS, pt has CRI and reports voiding infrequently 
+
+Lines: left SC Port-A-Cath, right IJ Cordis with PA catheter placed at 1800 today, #20 angio in left FA
+
+Plan: continue monitor hemodynamic stability, check cardiac filling pressures and index to guide inotropic therapy
+",,
+5304,18638,6585,0,2505-05-03 05:19:00 EST,2505-05-03 05:29:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT HEMODYNAMICALLY STABLE ON MILRINONE GTT-SEE FLOW SHEET.  SR/ST VENTRICULAR BIGEMINY.  PT SWANNED-UNABLE TO OBTAIN WEDGE-TEAM AWARE. TEAM WAS UNABLE TO PLACE ART LINE LAST NOC.  AFEBRILE. 
+LUNGS COARSE/DECREASED WITH OCC INSP/EXP WHEEZES.  INHALERS GIVEN.  PT ON 1.5L NC, SATS WELL.  PT UNCOMFORTABLE IN BED, STATES BETTER RESP COMFORT IN CHAIR.  FOLEY CATH PLACED EARLIER IN NOC.  VERY LOW UOP, DESPITE ORDERED LASIX IV DOSE BEING GIVEN.  3+ PEDAL [**Last Name (un) **], [**12-17**]+ GENERALIZED EDEMA.  ATIVAN 0.5MG IV GIVEN X2 FOR PT ANXIETY/DISTRESS. 
+
+
+",,
+5304,18638,6585,0,2505-05-03 17:44:00 EST,2505-05-03 18:01:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN 0700-1930 see careview for details
+
+Nuero:AXOX3 MAE
+
+C/V:Labile BP now on Vasopressin ,Milirone started again after BP stabilized with pressors, Bolused  w./ 160 lasix then started,Lasix GTT @ 15 cc hr.C.O. now up to 4.89 with scant UO.HR ST  w/PVC's ,bijeminy.+3 pedal edema.HO aware of all these finings.Pt uncomfortable re-postionined frequently. Treated w/ Ativan and MSo4 w/ mild relief.
+
+Resp: resp reg sats 98-99% on 3 liters NC. Lung fields clear but diminished at bases. ABG @ 1800 84/36/7.22/16 HO aware.
+
+F/E/N: BUN 70 CREAT 5.7, K+5.5 to recieve K exolate , NPO for now, swabbing mouth frequently.
+
+Plan : Keep MAP >70 , watch for UO , family meeting this eve.
+",,
+5304,18638,6585,0,2505-05-03 23:00:00 EST,2505-05-03 23:06:00 EST,-1,"N",69,"Nursing/Other",,"
+
+2200-pt slowly dropping bp-team aware-milrinone gtt stopped, vasopressin gtt at 4u/hr.  upon entering pt room, readying dopamine gtt for infusion, pt bradied to hr in the 30's, with subsequent drop in bp and loss of respiration.  code called.  pt placed on board, chest compressions started. place on code cart defib monitor.  mult doses of atropine, epinephrine given.  dopamine gtt started at 20mcg/kg/min. abg/lytes sent-pt extremely acidotic, hyperkalamic.  mult doses bicarb given.  pt intubated by anesthesia, vented by bag.  
+2255 pt without pulse, resp, ekg activity, bp by cuff or art line.  code called over by team. pt's wife/family made aware by team.  
+",,

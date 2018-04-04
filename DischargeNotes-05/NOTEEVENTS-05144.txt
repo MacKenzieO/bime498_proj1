@@ -1,0 +1,149 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5144,31918,,,3139-06-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+5144,31918,,,3139-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-6-12**] 8:50 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8562**]
+     Reason: check line placement                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with exsanguinating upper GI bleed                           
+       
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  73-year-old female with extenuating upper GI bleed.  Evaluate line
+     placement.
+     
+     Comparison made to prior radiographs dated [**3139-6-12**].
+     
+     SUPINE PORTABLE CHEST RADIOGRAPH:
+     
+     FINDINGS:  Right-sided subclavian central venous catheter is noted to course
+     up within the jugular veins of the neck with distal tip not visualized on
+     current radiograph.  Additionally, superimposed upon previously described
+     perihilar and basilar opacities is increasing confluent left perihilar opacity
+     and diffuse interstitial opacity in the left lung projecting over the left
+     lung. Retrocardiac opacity and low lung volumes persist. Large-bore esophageal
+     tube is stable in appearance.
+     
+     IMPRESSION:
+     
+     Malpositioned right-sided central venous catheter.
+     
+     Worsening left perihilar opacity, which may be due to asymmetrical edema or
+     aspiration.
+     
+     
+     
+     Findings were discussed with caring physician, [**Last Name (NamePattern4) 337**]. [**Last Name (STitle) 8563**], on date of exam at
+     approximately 10 a.m. who also provided history that the patient had recently
+     expired.
+     
+     
+     
+     
+
+",,
+5144,31918,,,3139-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-6-12**] 8:50 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 46**] # [**Clip Number (Radiology) 8562**]
+     Reason: check line placement                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with exsanguinating upper GI bleed                           
+       
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  73-year-old female with extenuating upper GI bleed.  Evaluate line
+     placement.
+     
+     Comparison made to prior radiographs dated [**3139-6-12**].
+     
+     SUPINE PORTABLE CHEST RADIOGRAPH:
+     
+     FINDINGS:  Right-sided subclavian central venous catheter is noted to course
+     up within the jugular veins of the neck with distal tip not visualized on
+     current radiograph.  Additionally, superimposed upon previously described
+     perihilar and basilar opacities is increasing confluent left perihilar opacity
+     and diffuse interstitial opacity in the left lung projecting over the left
+     lung. Retrocardiac opacity and low lung volumes persist. Large-bore esophageal
+     tube is stable in appearance.
+     
+     IMPRESSION:
+     
+     Malpositioned right-sided central venous catheter.
+     
+     Worsening left perihilar opacity, which may be due to asymmetrical edema or
+     aspiration.
+     
+     
+     
+     Findings were discussed with caring physician, [**Last Name (NamePattern4) 337**]. [**Last Name (STitle) 8563**], on date of exam at
+     approximately 10 a.m. who also provided history that the patient had recently
+     expired.
+     
+     
+     
+     
+
+",,
+5144,31918,,,3139-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3139-6-12**] 8:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8561**]
+     Reason: pls eval                                                    
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with exsanguinating upper GI bleed                            
+     REASON FOR THIS EXAMINATION:
+      pls eval                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST AP:
+     
+     HISTORY: 73 y/o woman with upper GI bleed. Evaluate chest.
+     
+     FINDINGS: Single frontal radiograph, without comparison, demonstrates
+     confluent opacities with air bronchograms in the lower lungs, possibly
+     secondary to aspiration. The ETT is 2.7 cm above the carina. The gastric tube
+     terminates below field of imaging within the mid abdomen. The pulmonary
+     vasculature is prominent even when accounting for low lung volumes, and is
+     accompanied by vascular indistinctness and subtle interstitial opacities,
+     likely due to fluid overload.
+
+",,
+5144,,6387,0,3139-06-12 09:32:00 EST,3139-06-12 10:28:00 EST,8999,"N",54,"Nursing/Other",,"
+
+Nursing admission/progress note 0700:
+73 year old female, full code, allergies: Sulfa, ASA, and tylenol.
+PMH: ascites, anemia, HTN, AS, DM and osetoporasis. 
+
+Pt was transfered from [**Hospital 302**] hospital with CC: of UGIB.
+
+Report given to RN on previouse shift of pt being on single pressor: levophed 70mcg/hr. Pt arrived to floor at 0730 via Medflight Ground. Pt arrived to floor with triple pressors: Dopamine @20mcg/hr, Neosynephrine 180mcg/hr and Levophed 70mcg/hr. Pt arrived also on a bicarb and Pt unresponsive with fixed and dilated pupils of 3-4mm. Pt with a HR 50-60's, SR with SBP 40-80's. Unable to palpate pulses in all extremeties, however femoral pulses were present. [**Last Name (un) **] tube in place. Pt draining copious amount of bright red blood from oral cavity. Abdomen firm and distended. No edema noted,skin cool to touch. Indwelling foley catheter in place with no U/O. Pt with 2X#20 PIV in left forearm, 2X#18 in right forearm and a #16 that was placed on [**Doctor Last Name **] to hospital in left side of neck. 
+
+Pt given 11 units of PRBC here via rapid infusion (total 17 units). pt received 4 units of FFP here also by rapid infusion (total 9 units). Pt was given 1 unit of platlets at [**Hospital **] hospital prior to tansfere. Pt received 6L of NS here (total 12L). Pt also received a total of 7 ampuals of bicarb. Calculated HCT via lab = 10. Pt had blood loss of 5 L via oral cavity measured by suction canasters. 
+
+GI called to evaluate patency [**Last Name (un) **] tube. GI team administered 40cc of tap water to gastric balloon. Portable CXR performed. Abdomen becoming grossly distended and firm. 
+
+After several attempts A-Line was placd in right groin. Also after several attempts TLC was placed in right subclavian. Labs and ABG's done. 
+
+Pt becoming hypotensive, SBP 30's, bradycardic with a junctional rythem. CPR not indicated pt passed away at 0910. Family [**Doctor Last Name **] dto come to hospital to see pt. Family arrived at 1120, spoke to resident and visited pt. Post mordum care given, awaiting transfere to morgue.
+
+ 
+
+
+",,

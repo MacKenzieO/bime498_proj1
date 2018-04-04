@@ -1,0 +1,340 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5763,23966,,,3054-06-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3054-6-7**]              Discharge Date:   [**3054-6-9**]
+ 
+Date of Birth:  [**2978-11-8**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 666**] 
+Chief Complaint:
+Melena
+ 
+Major Surgical or Invasive Procedure:
+EGD
+ 
+History of Present Illness:
+75F CAD s/p RCA stent in [**3048**], ESRD on PD, DM, here w/ melena X 
+2 days. USOH until two days prior to admission, began to feel 
+lightheaded and weak in the morning, then had bought of melena 
+in evening - thought initially due to diarrhea or something she 
+ate, but no one else in family had this issue, and no other sick 
+contacts. On next day, had mild nausea, but no vomiting, abd 
+pain, or BRBPR. Continued having melena, and reported this to 
+her PD nurse, who suggested that pt report to ED. On day of 
+admission, did have anorexia and did not eat anything. Of note, 
+had not had ""normal"" hemoglobin when dialysis labs were drawn on 
+first day of melena.  
+
+ 
+In ED, was noted to have Hct of 22, down from 31.5, was thought 
+to be complaining of chest pain, but in discussion with patient 
+in Mandarin, she states that she has been feeling anorexic, and 
+as such has felt some mild abdominal discomfort from not eating 
+for the last 24 hours. Her previous anginal equivalent in [**3048**] 
+was throat discomfort similar to throat dryness. Per discussion 
+w/ Dr. [**First Name (STitle) 7087**], pt's cardiologist, has not had any active angina, 
+negative stress in [**3051**], and no recent interventions since [**3048**]. 
+NG lavage in ED negative.  
+
+ 
+Otherwise, denies F/C, preceding abd pain, chest pain, SOB, 
+orthopnea, DOE, joint pain, use of NSAIDS, recent med changes, 
+ulcers. Does have history of chronic dysphagia, previously 
+worked up ~2001 by EGD and CScope which were negative. Denies 
+palpitations or irregular heart rhythm.  
+
+ 
+Past Medical History:
+- ESRD on peritoneal dialysis  
+- Hypertension (L is significantly lower than R)  
+- Hyperlipidemia  
+- CAD s/p RCA stent 2001- Dr [**Hospital1 7088**]  
+- - - - 2004 P MIBI neg, EF preserved, last seen [**3054-2-22**], no 
+active disease  
+- End Stage Renal Disease  
+- Anemia [**1-26**] ESRD  
+- Proteinuria  
+- DM w/ renal and eye manifestations  
+- Carotid stenosis - Rt carotid > Lt; Rt CEA [**7-28**]; [**Hospital1 253**]  
+- Lt subclavian artery stenosis  
+- Hypothyroidism - Diagnosed [**11-25**]  
+- Hyperparathyroidism, secondary  
+
+ 
+ 
+Social History:
+Lives with daughter. Moved to US from [**Country 7089**] in [**3017**], denies 
+alcohol or tobacco use.  
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VS 84 125/62 14 100%RA  
+GENERAL: NAD, lying in bed, pale.  
+HEENT: Anicteric, PERRL, EOMI, dry MM.  
+NECK: no JVD, Supple, Bilat loud carotid bruits, R>L  
+CARDIOVASCULAR: S1, S2, reg, no MRG.  
+LUNGS: CTAB  
+ABDOMEN: Mildly distended, soft, NT, ND, no HJR, active bowel 
+sounds.  
+EXTREMITIES: Warm, no CCE  
+NEURO: A/Ox3  
+Rectal - per ED, melena, no clots or bright blood.  
+
+ 
+Pertinent Results:
+EGD:
+Impression: Ulcer in the gastroesophageal junction
+Salmon colored in the gastroesophageal junction compatible with 
+barrett's esophagus (biopsy)
+Erosions in the stomach body
+Erythema, congestion and erosion in the antrum compatible with 
+gastritis (biopsy)
+Otherwise normal EGD to second part of the duodenum 
+Recommendations: Follow-up biopsy results
+Continue bid PPI therapy for 1 month
+Repeat EGD in 1 month to assess for resolution of esophageal 
+ulcer.
+Can advance diet 
+.
+
+[**3054-6-7**] 07:55PM   GLUCOSE-124* UREA N-132* CREAT-3.6* 
+SODIUM-139 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-21* ANION GAP-16
+[**3054-6-7**] 07:55PM   WBC-11.9* RBC-3.74*# HGB-11.7*# HCT-32.4*# 
+MCV-87 MCH-31.4 MCHC-36.2* RDW-15.1
+.
+Esophagus and Stomach Bx:
+A.  Gastroesophageal junction:
+
+1.  Squamous epithelium, no diagnostic abnormalities recognized.
+
+2.  Cardiac type gastric mucosa, scant.
+
+3.  No intestinal metaplasia identified.
+
+B.  Stomach, antrum:
+
+Changes suggestive of chemical gastropathy.
+
+ 
+Brief Hospital Course:
+75F CAD, DM, ESRD, here w/ GI bleed.
+<BR>
+* GI Bleed: Transfused 4u PRBC, was hemodynamic stable, 
+post-transfusion, hct was  stable in the 40s.  EGD showed likely 
+barretts esophagus (bx taken), erosions in stomach body, and  a 
+linear erosion on the antrum (bx taken).  Advised by GI to stay 
+on PPI, repeat EGD in 1 months, advance diet.  Patient continued 
+to have melena, but this was to be expected.  Hct remained 
+stable and patient was d/c'd home.  Tollerating POs and 
+ambulating prior to d/c.
+ .
+* CAD: Stable,s he has  had no recent interventions, and will 
+continue baby ASA (while on PPI) and statin. Antihypertensives 
+were initially held, but re-started after EGD.  BP was difficult 
+to controll and monitor given her known subclavian stenosis.    
+EKG in ED difficult to interpret given changes in voltage 
+between EKGs in limb leads, esp in absence of symptoms.  MICU 
+team did speak to patient's cardiologist who states patient has 
+not had any problems in the past year.  Cardiac enzymes were 
+negative.  Patient can follow up as outpatient with her 
+cardiologist.  
+. 
+* UTI:  Patient had some dysuria with Foley Cath in place.  UA 
+was obtained and she was started on a short course of 
+antibiotics.  Foley was removed. 
+.
+* ESRD: Continued per renal consult recommendations.  Started on 
+Potassium repletion that should be followed as outpatient. 
+.
+* DM: Lantus 13U in AM. Half dose when NPO, SSHI.  
+.
+ 
+* Communication: Son [**Name (NI) **], who is HCP: [**Telephone/Fax (1) 7090**] (cell), [**Telephone/Fax (1) 7091**] (home)  
+ 
+Medications on Admission:
+Medications:  
+Levoxyl 50mcg once a day  
+Lantus 13U AM  
+Novolog 4 AM 4 Lunch 0-3PM  
+Rocaltrol 0.5mcg 1 time per day  
+Furosemide 40mg or as directed.  
+Procrit 4000 U/ml  
+Labetalol Hcl 400mg twice a day  
+Procardia Xl 60mg  
+Isosorbide Dinitrate 40mg twice a day  
+Folic Acid 0.4mg QID  
+Aspirin 81mg once a day  
+Multivitamin once a day  
+Lipitor 40mg once a day  
+Iron 325(65)mg BID  
+Sof-gel Efa twice a day,3 caps  
+Cozaar 50mg  
+Omega 3 fatty acid 3000 bid  
+
+ 
+Discharge Medications:
+1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+5. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: 
+15-30 MLs PO QID (4 times a day) as needed.  
+6. Labetalol 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+7. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO DAILY (Daily).  
+9. Isosorbide Dinitrate 20 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).  
+10. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+12. Potassium Chloride 20 mEq Packet Sig: One (1) packet PO 
+DAILY (Daily).
+Disp:*30 packet* Refills:*2*
+13. Aspir-81 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gastroesophageal Ulcer
+Barretts Esophagus
+ESRD on PD
+Hypertension
+
+ 
+Discharge Condition:
+Hct stable.  Biopsy results pending.  Taking good PO and 
+ambulating
+
+ 
+Discharge Instructions:
+Continue PD as directed.  [**Doctor First Name 10**] will need to follow up in one 
+month for another endoscopy.  See the appointment below.  Also 
+follow up with your primary care doctor.  [**Doctor First Name 10**] have 2 new 
+medications.  Protonix twice a day for acid.  Also Potassium 
+daily. [**Doctor First Name 10**] have biopsy results that are pending  [**Doctor First Name 10**] can take a 
+baby aspirin daily.
+ 
+Followup Instructions:
+1. Endoscopy [**3060-7-14**]:30pm, Dr. [**Last Name (STitle) **]:  Provider: [**Name10 (NameIs) **] 
+WEST,ROOM FOUR GI ROOMS Date/Time:[**3054-7-14**] 12:30
+
+2. Please follow up with your primary care doctor and check on 
+the results of your gastric and esophageal biopsy that were done 
+during  your procedure.
+
+ 
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 689**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 7092**] MD [**MD Number 7093**] [**3054-6-12**] @ 1137
+Signed electronically by: DR. [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**3054-6-21**] 5:08 PM
+(End of Report)
+
+
+",,
+5763,23966,7170,0,3054-06-07 16:02:00 EST,3054-06-07 16:10:00 EST,4061,"N",54,"Nursing/Other",,"
+
+
+75 yr-old female Taiwanese speaking (speaks/understands little English), adm from ED.  CC=black tarry stools ([**8-3**] stools over this 2-day period), and weakness.  No abd pain and initially no CP; later developed 'chest heaviness' in ED - CPK=280, MB=7.  HCT 22.4 and recieved 2 units RBCs in ED.  On ASA only - no coumadin.  NS Lavage w/ clear returns.  Was going to go to GI for scope, but decided to hold off pending this chest heaviness.   2L w/ 02sat 100% - lungs clear.  No IVF.  Afebrile.
+
+PMH:  Progressive renal insufficiency w/ PD cath placed in [**January 3050**] - done laproscopically due to abd surgeries (s/p choley and hysterectomy).  DM, HTN,CAD, hyperlipidemia, chronic anemia, hypothyroidism, hyperparthyroidism, carotid stenosis, retinopathy.
+",,
+5763,23966,7170,1,3054-06-07 16:02:00 EST,3054-06-07 18:45:00 EST,4061,"Y",54,"Nursing/Other",,"
+
+To MICU at 1800 - 
+
+AAO - speaks only Mandarin Chinese - HO speaks language- was able to get a good H/P.  Daughter and Son also w/ pt -speak English.  No neuro deficits.  CV stable, on 3L n/p w/ 02sat 100%, lungs clear.  Abd round firm, +BS. PD cath intact.  NPO.  Foley cath - clear yellow urine.  Skin intact - coccyx and heels ok.  2PIVs #18 intact/patent.  
+
+",,
+5763,23966,7170,0,3054-06-08 05:06:00 EST,3054-06-08 05:34:00 EST,4273,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Events: Pt rec'd 2uPRBC's, repeat Hct pndg. Had tarry stool X 2 overnight. Peritoneal dialysis cycled X 2.
+
+Review of systems:
+
+Neuro: Dgtr reported that pt was O X 3 last evening, and pt conversed approp with Mandarin speaking MD. Followed commands consistantly and turning self STS in bed. OOB to commode with assist of 1. Pt indicated she had some nausea and rec'd antiemetic X 1 with good effect. Also C/O indigestion, but did not receive aluminum-mg as it appeared to resolve spont. Pt able to [**Doctor Last Name 5**] intermit overnight.
+
+Resp: O2 sat 97-100% on 2l NC with RR 13-20 and regular. Lung snds clear throughout. 
+
+CV: Afebrile. HR 76-85SR without VEA. BP 88/51-118/58. Pt transfused 2uPRBC's (units #3 and 4 since entered ED). Pre-transfusion Hct 32.4, post Hct and other am labs pndg. No C/O chest pain. CPK on admit 285.
+
+GI: Nausea early in evening per above. Pt has remained NPO. Abd firm with + bowel snds. She had 2 sm->med sized tarry, firm/hard stools overnight. 
+
+GU: Pt has had 2 exchanges of PD overnight. Per order, 1.8liters of 2.5% solution has been instilled each time with dwell time of 4hrs. Initial return only 700ml, but 2nd return 2100ml with good flow. Pt appeared to have mild cramping with first exchange, then tolerated second well. Urine via foley light yellow, draining @ 35-140ml/hr. Pt rec'd Lasix 20mg X 1 with modest results. LOS fluid balance presently +1.8liters.
+
+Access: Periph #18 X 2 with good flow. Sites reddened. 
+
+Plan: Endoscopy today, then ? transfer to floor. Dgtr will visit in am if translations/info needed. Cont PD exchanges per order. Hct Q6hrs.
+",,
+5763,23966,7170,0,3054-06-08 11:57:00 EST,3054-06-08 12:02:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note [**Telephone/Fax (1) 1129**]
+
+Pt. called out to floor and sent to GI unit for endoscopy. Nursing transfer note written and faxed to floor, oral report given. Pt. to go directly from GI unit to [**Hospital Ward Name 3**] 10. Please see Nursing Transfer Note for review of systems.
+",,
+5763,,,,3055-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3055-2-22**] 2:24 PM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 13818**]
+     Reason: Pt. needs bilateral vein mapping of both forearms and upper 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old woman with ESRD needing AVF
+     REASON FOR THIS EXAMINATION:
+      Pt. needs bilateral vein mapping of both forearms and upper arms to assess
+      veins for future fistula. Please also assess central veins to r/o any central
+      stenosis. Pt. is coming to see surgeon after the mapping, please give pt. a
+      written report to bring to the surgeon.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  76-year-old woman with end-stage renal disease who needs AV fistula
+     placement.
+     
+     RADIOLOGIST:  The study was read by Dr. [**First Name (STitle) 1350**] [**Name (STitle) 128**].
+     
+     TECHNIQUE:  Evaluation of superficial veins, brachial arteries, and subclavian
+     veins was performed with B-mode, color, and spectral Doppler ultrasound.
+     
+     FINDINGS:  On the right side, the cephalic vein presented patent and
+     compressible with diameters ranging between 0.10 and 0.39 cm.  The right
+     basilic vein is patent and compressible with diameters ranging between 0.32
+     and 0.41 cm.  The right brachial artery presents triphasic Doppler waveforms. 
+     The bilateral subclavian veins present normal phasicity.
+     
+     On the left arm, the brachial artery presents monophasic waveforms.  Patient's
+     daughter reported long-standing decreased blood pressure in the left arm.
+     
+     COMPARISON:  None available.
+     
+     IMPRESSION:
+     1.  Patent right cephalic, basilic, and subclavian veins as well as right
+     brachial artery.
+     2.  Monophasic Doppler waveforms in the left brachial artery, suggestive of
+     proximal stenosis; also associated with decreased blood pressure per
+     daughter's report.
+                                                                           
+
+",,

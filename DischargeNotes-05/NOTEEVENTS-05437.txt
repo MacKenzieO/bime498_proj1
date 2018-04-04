@@ -1,0 +1,320 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5437,33361,,,2694-08-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2694-8-4**]              Discharge Date:   [**2694-8-5**]
+ 
+Date of Birth:  [**2636-5-21**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending:[**Last Name (NamePattern4) 597**] 
+Chief Complaint:
+RUE swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+58 yo F with hx of end stage ovarian cancer reftractory to chemo 
+who presents to the ED after a fall yesterday and complaints of 
+right upper extremity edema. Of note, she was seen in the clinic 
+on [**5-18**], where she was noted to complain of falling on occasion 
+and uses a walker secondary to this instability. In additon, she 
+was noted to have inadvertent removal of the J-tube a few weeks 
+ago and feels her appetite is good and that she is able to keep 
+small amounts of food down without nausea or vomiting. She was 
+also noted to have LE edema and her lasix was increased from 
+20->40 qd and was maintained on her spironolactone. She had a CT 
+abd on [**2694-4-30**] showing progression of her disease in the form of 
+increased ascites, new pulmonary nodule, thickening of her 
+anterior peritoneum, and was noted to have elevated CA-125 of 
+737 at the time of her 4th cycle of gemciabine (highest ever). 
+Her oncologist has tried gemcitabine, arimidex, carboplatin and 
+her tumor has progressed despite this. Patient at this visit was 
+not interested in other chemotherapy agents such as taxol or 
+topotecan at that time. In addition, her lasix was increased to 
+40 daily from 20 daily and she was not interested in TPN. She 
+began the conversation of transitioning to hospice as an option 
+in the future.  
+.  
+ED course: Patient initially hypotensive requiring IVF, WBC 
+elevated at 21.3 with 25% bands, lactate elevated at 2.8, 
+unilateral RUE U/S showed occlusive thrombus in subclavian, 
+axillary, brachial and basilic veins; patent vein (? collateral) 
+parallel to the subclavian. Patient also hypokalemic at 2.3. She 
+had a CXR showing RLL infiltrate. Pt was started on vanco/CTX 
+for PNA and questionable cellulitis and given lovenox 70 mg SC x 
+1.  
+
+ 
+Past Medical History:
+1. Metastatic Ovarian Cancer - diagnosed in [**2666**]
+- s/p 6 cycles of single-[**Doctor Last Name 614**] carboplatin ending in [**8-/2692**]  
+- maintenance phase of Arimidex treatment beginning in [**10/2692**]  
+- SBO [**3-30**] secondary to extensive tumor and intraabdominal tumor 
+fibrosis. G-tube placed for decompression and started on TPN at 
+that time.  
+- one dose of Doxil chemo in 07/04.  
+- Pt was then hospitalized multiple times for 
+bacteremia,discitis, and pneumonia amongst others.  
+- Pt returned to clinic [**11-30**] to start second dose of Doxil 
+however had side effects related to infusion.  
+- She started gemcitabine infusions x 4, last on [**2694-3-30**].  
+- A CT scan performed in April showed evidence of disease 
+progression on gemcitabine.  
+
+ 
+Social History:
+Lives with nephew. Long h/o tobacco use with sporadic use now.
+
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS- T 97.4, HR 110, BP 90-110/54-76, RR 20, sats 92% on 5L NC  
+Gen: Lying in bed, appearing very ill.
+HEENT: dry MM, OP dry, no JVD  
+CV: tachy without m  
+Lungs: poor inspiratory effort, + upper airway congestion, no 
+wheezes  
+Abd: abdomen feels like her omentum is caked, +BS, midline 
+scars, + G-tube scar.  
+Ext: 3+ anasarca including LE. RUE is markedly swollen, 
+erythematous and 2 abrasions from scratching on arm compared to 
+left. Unable to feel pulses in RUE.  
+
+ 
+Pertinent Results:
+.
+Labs on admission [**2694-8-4**]:
+WBC 23.0, Hct 33.4, MCV 89, Plt Ct 270
+(diff Neuts-79* Bands-13* Lymphs-6* Monos-2)
+Na 137, K 2.3, Cl 99, HCO3 28, BUN 12, Cr 0.9, Glu 88
+Albumin 1.4, Calcium 5.9, Phos 3.7, Mg 0.9
+Lactate 2.8*
+.
+Labs [**2694-8-5**]:
+WBC 29.0, Hct 34.8, MCV 89, Plt 405
+(diff Neuts-73* Bands-18* Lymphs-6* Monos-2 Metas-1*)
+PT 15.9, PTT 36.9, INR 1.7
+Na 140, K 4.4, Cl 104, HCO3 23, BUN 13, Cr 0.9, Glu 66
+Calcium 6.0, freeCa 0.81, Phos 4.6, Mg 1.0
+ALT 10, AST 30, LD(LDH) 287, AlkPhos 61, Amylase 12, TBili 0.7
+CK 210, CK-MB 11, MB Indx 5.2, cTropnT 0.02*
+Lactate 3.4
+.
+Urine Color-Amber Appear-SlHazy Sp [**Last Name (un) 20**]-1.020
+Blood-LG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG 
+Bilirub-SM  Urobiln-4* pH-5.0 Leuks-TR RBC-18* WBC-6* 
+Bacteri-OCC Yeast-NONE Epi-7
+CastHy-5*
+.
+Micro:
+[**2694-8-4**] 12:00 pm URINE     
+**FINAL REPORT [**2694-8-6**]**
+
+   URINE CULTURE (Final [**2694-8-6**]): 
+      ESCHERICHIA COLI.    1000 CFU/ML. 
+.
+[**2694-8-4**] 11:40 am BLOOD CULTURE      
+**FINAL REPORT [**2694-8-10**]**
+
+   AEROBIC BOTTLE (Final [**2694-8-10**]):    NO GROWTH. 
+
+   ANAEROBIC BOTTLE (Final [**2694-8-10**]):    NO GROWTH. 
+.
+[**2694-8-5**] 6:08 am URINE
+**FINAL REPORT [**2694-8-6**]**
+
+   URINE CULTURE (Final [**2694-8-6**]):    NO GROWTH. 
+.
+[**2694-8-5**] 1:35 am SPUTUM (Endotracheal) 
+**FINAL REPORT [**2694-8-20**]**
+
+   GRAM STAIN (Final [**2694-8-5**]): 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    IN CLUSTERS. 
+
+   RESPIRATORY CULTURE (Final [**2694-8-9**]): 
+      SPARSE GROWTH OROPHARYNGEAL FLORA. 
+      SERRATIA MARCESCENS.    MODERATE GROWTH. 
+         Trimethoprim/Sulfa sensitivity available on request. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------   <=1 S
+LEVOFLOXACIN----------<=0.25 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+
+   FUNGAL CULTURE (Final [**2694-8-20**]): 
+      YEAST. 
+.
+Radiology:
+.
+[**2694-8-4**]: CXR - Compared to [**2694-1-5**], there is opacification at 
+the right base, which is partially explained by elevation of the 
+right hemidiaphragm, which was present previously. However, 
+there may be additional pleural effusion and/or infiltrate.  
+.  
+[**2694-8-4**]: RUE U/S - IMPRESSION: Occlusive thrombus in the 
+subclavian, axillary, basilic, and both brachial veins of the 
+right upper extremity.
+.
+[**2694-8-5**]: CXR - IMPRESSION: Limited exam due to supine 
+positioning. Large right pleural effusion now layering at the 
+right apex and increased opacity in the left upper lung zone may 
+reflect infiltrate or pulmonary edema. Good upright chest film 
+is recommended.
+
+ 
+Brief Hospital Course:
+58yo woman with end-stage ovarian cancer refractory to 
+chemotherapy that was admitted with RUE thrombus, generalized 
+anasarca and possible RLL PNA. RUE ultrasound performed in the 
+ER revealed occlusive thrombus in the subclavian, axillary, 
+basilic, and both brachial veins of the right upper extremity. 
+She was started on a heparin gtt and also vancomycin and 
+ceftriaxone for coverage of a presumed RUE cellulitis as well as 
+a RLL pneunomia. Prior to starting antibiotics, cultures of her 
+urine, blood and sputum were obtained. Attempts were also made 
+to replete her electrolytes, though repletion was difficult due 
+to limited IV access (she had a L subclavian Hickman and left 
+peripheral IV). On admission to the floor, she was felt to be in 
+respiratory distress and she was requesting intubation. An ICU 
+consult was called and the patient was found to be in moderate 
+respiratory distress with an ABG of 7.46/40/51, but she was 
+maintaining sats of 94% on a NRB. It was decided to transfer her 
+to the ICU but en route, the patient became more hypoxic, with 
+her sats dropping to 84% on NRB. In transferring patient to the 
+bed in ICU, she had a respiratory arrest and became 
+unresponsive. She was bagged via oropharyngeal airway until 
+anesthesia arrived. It was a difficult intubation with 
+esophageal intubation initially. Reintubation was successful. 
+The patient was started on AC 500/14/100%/12. An ABG post 
+intubation was 7.44/35/58 thus her PEEP was increased. 
+Post-intubation, she became hypotensive, with BP dropping to 
+80/50s and not responsive to 500 cc fluid bolus x 3. Her SBP 
+continued to drop and levophed was added, but it had minimal 
+effect as her BP remained in the 80s/40s. There were multiple 
+attempts at A line placement for better BP monitoring and for 
+access for lab draws, but all attempts were unsuccessful 
+secondary to the patient's generalized anasarca and nonpalpable 
+pulses. Given her acute hemodynamic decompensation, hypoxia 
+despite high FiO2, and large RUE clot, the concern for an acute 
+PE was significant. Cardiology was consulted, but would not do 
+an urgent ECHO to evaluate for cor pulmonale.  The decision was 
+made with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] to hold her heparin and give TPA 100 mg 
+IV over 2 hours to attempt lysis of a presumed PE to improve the 
+patient's hemodynamics. Unfortunately, her hemodynamics did not 
+improve, and her BP remained in the 70s-80s/20s-40s. It was 
+decided that despite the patient being full code, CPR was not 
+indicated. Her family was called and decided to come in to see 
+the patient. On arrival, and after discussion with the ICU team, 
+the family decided to make the patient CMO. She was kept on 
+fentanyl and versed, but she was extubated for comfort. She 
+expired several hours later, with cause of death being 
+respiratory failure. 
+ 
+ 
+Medications on Admission:
+ARIMIDEX 1MG qam  
+Ativan 0.5 mg q6-8 hours prn  
+Compazine 10 mg q6-8 hours prn  
+Dilaudid 2 mg- 1-2 mg q6 hr pain  
+Lasix 40mg po qd  
+Spironolactone 25 QD  
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Chief cause of death: Respiratory failure
+
+Antecedent cause of death: Metastatic ovarian cancer
+ 
+Discharge Condition:
+Expired. 
+ 
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 364**] [**Name8 (MD) **] MD [**MD Number 361**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5641**] MD [**MD Number 5642**] [**2694-11-6**] @ 1252
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 364**] [**Doctor Last Name **]
+ on: WED [**2694-11-7**] 11:23 AM
+(End of Report)
+
+
+",,
+5437,,6761,0,2694-08-05 03:22:00 EST,2694-08-05 03:27:00 EST,540,"N",69,"Nursing/Other",,"
+
+Resp Care Note,Vent changes overnight no A-Line in yet.Intubated emergently in ICU.Became unresponsive and apneic.^ to 15 peep for low Pa02'S.Suctioned for copius amts thick yellow secretions. Sedated with fentanyl and versed. HR-ST. Getting levo for labile BP.Will cont to monitor resp status.
+",,
+5437,,6761,0,2694-08-05 05:11:00 EST,2694-08-05 06:20:00 EST,6328,"N",69,"Nursing/Other","Nursing Admission Note 0100-0700","
+Nursing Admission Note 0100-0700
+Pt is 58 yo female with hx of end stage ovarian ca refractory to chemo who presented to EW after a fall and c/o right upper extremity edema, Pt has recent h/o falls and uses a walker, pt also recently accidently removed J-tube she had placed for nausea/vomiting stating she could hold down some food, pt also on daily lasix which was recently increased to 40 mg Q day from 20 mg Q day, pt also recently began to discuss possiblity of transfering to hospice care in future as option, In EW pt initially hypotensive requiring IVF, WBC elevated to 21.3, lacate was 2.8, pt hypokalemic at 2.3, cxr showed RLL infiltrate, started on antibiotics and U/S on upper extremity showed extensive DVT in right arm, pt started on heparin drip and sent to 7 [**Hospital Ward Name **] for treatment; pt developed severe sob and hypoxia with sats decreasing to mid-80's, pt placed on 100% NRB and transfered to [**Hospital Ward Name **] 4 for further treatment, but during transfer pt became acutely hypoxic with sats dropping to 70's and pt went into resp arrest, requiring intubation, intubation initially difficult, but on 2nd attempt pt was intubated with 7.0 ETT, and pt imediately produced large amounts of thick ""chunky"" yellow sputum, specimen was obtained and pt needed to be suctioned for copious amounts secretions, pt did have 2 episodes of bradycardia during intubation which resolved on own, no bradycardia since, pt also developed severe hypotension which did not respond to 500 cc NS bolus x2, so levo was started initially at 0.01 mcg/kg/min but quickly titrated and is currently infusing at 0.35 mcg/kg/min, with bp between 107/56 to 71/32, mostly in 80's sbp range, pt had NGT placed down right nare, placement was confirmed via air bolus, pt given 80 meq kcl PNGT for severe hypokalemia (see carevue for results) pt also receiving 20 meq kcl IV q hour x 4 hours for total of 80 meq KCL IV, pt also needs 4 grams magnesium sulfate and 4 grams calcium gluconate to be infused,
+
+NEURO:  Pt sedated on fentanyl @ 25 mcg/hour and versed @ 1 mg/hour, pt lightly sedated, but will try and open eyes to command, otherwise pt attempts no movement at this time, PERL, pt has bilat soft wrist restraints on, 
+
+CV:  Pt initially hypothermic at 94.1 axillary, bear hugger placed on pt and temp now 98.8 ax, pt assessed for no pain using grimace scale, pt pt does need to be bolused with small amount of fentanyl and versed as pt becomes more [**Hospital Ward Name **] into 130-140's from baseline of 100-120's, pt has #22 in left wrist, and left subclavian single lumen port-a-cath with levophed, fentanyl, versed, potassium and IV fluid bolus infusing, I used pt's #22 in left wrist to infuse TPA, TPA infusion started at 0430 and finished at 0630, pt was slightly more [**Last Name (LF) **], [**First Name3 (LF) **] labs were sent to check for bleeding, but heparin remains off since start of TPA infusion and will remain off until further notice, skin is pale, cool, calmy initially, but now is warm, and dry, Pt has stage 2 decub on right buttock, cleaned and covered with duoderm, 
+
+RESP:  Pt's lun
+",,
+5437,,6761,0,2694-08-05 05:12:00 EST,2694-08-05 06:20:00 EST,6328,"N",69,"Nursing/Other","Nursing Admission Note 0100-0700","
+Nursing Admission Note 0100-0700
+(Continued)
+g sounds reveal coarse rhonci in left with exp in left base, and right field reveals coarse rhonci, with plural rub and exp whez at base, pt intubated and initially placed on A/C, but needed to be changed to Pressure controlled ventilation, with peep-15, pt suctioned for large amounts thick yellowish sputum, specimen sent, I have been having dillficulty obtaining adequate pleth on waveform for sats, but see carevue for sat readings
+
+GI:  Pt has ngt in right nare, placement confirmed via air bolus, bowel sounds positive but hypoactive,
+
+GU: pt's foley draining amber urine with sediment
+
+
+",,
+5437,,6761,0,2694-08-05 12:52:00 EST,2694-08-05 13:06:00 EST,7212,"N",69,"Nursing/Other","System update","
+System update
+Recieved Pt. at 0700 maxed on levophed at 0.4mcg/kg/min with SBP only in low 80's, HR [** **] at 130's-140's. Pt. opens eyes when her name is called and [**Name2 (NI) 8573**] to move her arms. Pt. also on Fentanyl 25mcg/hr and Versed 1mg/hr for sedation. Resp. effort labored at 25-35 breaths per min. No urine output despite multiple fluid boluses. Dr. [**Last Name (STitle) 472**] notified Pt.'s family to update on Pt.'s status. Family arrived and had meeting with MD to discuss prognossis and treatment plan. Pt. made CMO. Fentanyl and Versed infusions both titrated up to keep Pt. comfortable. See careview for details. Pt. extubated at 1200 and placed on NC 4L/min. Family remains with Pt. and coping well. Pt.'s family met with social worker to facilitate greaving process. Pt. cont. with agonal breathing but apears comfortable.
+",,
+5437,,6761,0,2694-08-05 17:37:00 EST,2694-08-05 17:39:00 EST,7212,"N",69,"Nursing/Other","ADDENDUM","
+ADDENDUM
+COMFORT: FENTANYL INFUSION INCREASED TO 200MCG/HR AND VERSED AT 8MG/HR. FAMILY WITH PT. AND COPING WELL.
+",,
+5437,,6761,0,2694-08-05 17:46:00 EST,2694-08-05 17:47:00 EST,1039,"N",69,"Nursing/Other","Respiratory care","
+Respiratory care
+Pt extubated to nc for CMO due to end-stage ca.
+",,
+5437,,6761,0,2694-08-05 21:40:00 EST,2694-08-05 21:44:00 EST,6677,"N",69,"Nursing/Other",,"
+
+[**Hospital Ward Name **] 4 MICU/SICU NURSING PROGRESS NOTE ([**8-5**] @ 1900H TO 2230H):
+
+PT RECEIVED FOR CARE AT 1900H.  VERBAL REPORT RECEIVED FROM [**Name6 (MD) **] SHIFT RN AND CARE RESUMED.  PT COMFORT CARE ONLY.  UNABLE TO OBTAIN O2 SATURATION OR BLOOD PRESSURE AT SHIFT CHANGE.  WEEPING FROM OLD IV SITES.  FAMILY AT BEDSIDE.  PT ASYSTOLE AT 2147H AND HOUSE STAFF PRONOUNCED PT DECEASED AT THIS TIME.  FAMILY AT BEDSIDE WITH HER.  AT 2230H ORGAN DONATION CENTER CALLED AND RULED HER OUT FOR DONATION DUE TO METASTATIC CA AND WBC 29 THIS AM.
+",,

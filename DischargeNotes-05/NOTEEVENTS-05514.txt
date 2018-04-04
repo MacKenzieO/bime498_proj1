@@ -1,0 +1,283 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5514,5692,,,3074-04-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+                                                             
+Unit No:  [**Telephone/Fax (1) 6633**]
+Admission Date: [**3074-4-2**]
+Discharge Date: [**3074-4-11**]
+Date of Birth:  [**3003-1-10**]
+Sex:  F
+Service:  NSU
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 71 year old
+woman who last week complained of lower back pain. She does
+not have any weakness per se but she had tingling in the
+posterior thigh area bilaterally.
+
+PAST MEDICAL HISTORY:  Congestive heart failure.
+
+Coronary artery disease.
+
+Hypertension.
+
+Diabetes mellitus.
+
+Aortic valve replacement.
+
+Coronary artery bypass graft.
+
+Mitral valve replacement.
+
+ALLERGIES:  Penicillin and Bextra.
+
+PHYSICAL EXAMINATION:  On physical examination, the patient
+is afebrile, heart rate 58, blood pressure 127/43,
+respiratory rate 15, oxygen saturation 91% in room air. No
+acute distress. Cardiovascular regular rate and rhythm. Chest
+clear to auscultation. Abdomen soft, nontender, nondistended.
+Rectal tone is normal. Neurologically, awake, alert and
+oriented x3. Speech is fluent. Per the daughter, the patient
+does not speak much English. Cranial nerves are intact. Her
+strength - deltoids are 5- bilaterally, biceps 5-
+bilaterally, triceps 5-, grasp 5-, IP, gastrocnemius, and [**Last Name (un) **]
+are all 5-. Her reflexes are 1+ throughout. Her toes are
+downgoing.
+
+LABORATORY DATA:  The patient had a CT which demonstrates a
+L1 compression deformity with 60% to 70% loss of height and
+minimal retropulsion with no neural compression.
+
+HOSPITAL COURSE:  The patient was fitted for a TLSO brace and
+had upright films in the brace which showed stability of her
+spine without further retropulsion. The patient was seen by
+physical therapy and occupational therapy and found to be
+safe for discharge to home with follow-up with Dr. [**Last Name (STitle) 1496**] in
+4 weeks with repeat AP and lateral thoracolumbar spine films.
+
+MEDICATIONS ON DISCHARGE:
+1. Vicodin 1-2 tabs p.o. q.4hours p.r.n.
+2. Citalopram Hydrobromide 20 mg one half a tablet p.o.
+   daily.
+3. Lasix 80 mg p.o. b.i.d.
+4. Aspirin 81 mg p.o. daily.
+5. Colace 100 mg p.o. b.i.d.
+6. Famotidine 20 mg p.o. b.i.d.
+7. Fiber A 5 mg p.o. q.p.m.
+8. Rosiglitazone Maleate 4 mg 2 tablets p.o. q.a.m.
+
+
+CONDITION ON DISCHARGE:  Stable at the time of discharge.
+
+
+
+                        [**Name6 (MD) **] [**Last Name (NamePattern4) **], [**MD Number 6634**]
+
+Dictated By:[**Last Name (NamePattern1) **]
+MEDQUIST36
+D:  [**3074-4-10**] 16:17:25
+T:  [**3074-4-11**] 08:23:25
+Job#:  [**Job Number 6635**]
+
+                              
+
+Signed electronically by: DR. [**Last Name (STitle) 1501**] [**Name (STitle) **]
+ on: WED [**3074-6-24**] 7:01 AM
+(End of Report)
+
+
+",,
+5514,5692,,,3074-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-7**] 3:06 AM
+     CT L-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11807**]
+     Reason: Please eval for cord compression, please do sagital and [**Last Name (un) 11808**]
+     Admitting Diagnosis: INTRACTABLE BACK PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with increasing back pain L1 compression fx on MRI.           
+     REASON FOR THIS EXAMINATION:
+      Please eval for cord compression, please do sagital and coronal reformats       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  L1 compression fracture.  Please evaluate.
+     
+     COMPARISON:  No prior studies are available for comparison.
+     
+     TECHNIQUE:  Axial noncontrast helical scanning of the lumbar spine was
+     performed without IV contrast.  Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS:  There is near complete loss of height of the L1 vertebral body.
+     Loss of height is more pronounced anteriorly than posteriorly.  The remainder
+     of the lumbar vertebral body heights are maintained.  The alignment is normal.
+     There are degenerative changes of the lumbar spine, with anterior osteophytes
+     of the L2 vertebral body.  There is retropulsion of the superior corner of the
+     L1 body into the spinal canal with approximately 40% compromise of the lumen.
+     There are likely fracture fragments anterior to the L1 vertebral body.
+     Incidental findings include calcification of the abdominal aorta.
+     
+     IMPRESSION:  Near complete loss of height of the L1 vertebral body with
+     retropulsion into the spinal canal. See above
+
+",,
+5514,5692,,,3074-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-7**] 3:22 AM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 11809**]
+     Reason: INTRACTABLE BACK PAIN
+     Admitting Diagnosis: INTRACTABLE BACK PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with CHF, CAD, And L1 compression fx                          
+     REASON FOR THIS EXAMINATION:
+      pre op eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intractable back pain.  History of CHF and coronary artery
+     disease, compression fracture of L1.  Preoperative to lumbar laminectomy
+     surgery scheduled [**3074-4-7**].
+     
+     AP single view of the chest obtained with the patient in supine position on
+     stretcher demonstrates status post sternotomy, and the presence of multiple
+     surgical clips to the left of the midline are indicative of previous bypass
+     surgery.  Also noted is the presence of 2 valve prostheses in aortic and
+     mitral position.  They appeared to be of the St. [**Male First Name (un) **] type.  The heart is
+     moderately enlarged.  The thoracic aorta is generally widened and elongated
+     but no local contour abnormalities can be identified.  The pulmonary
+     vasculature demonstrates an upper zone redistribution pattern, but there is no
+     evidence of advanced interstitial or alveolar edema.  Sizable local pleural
+     thickening is present along the right-sided lateral chest wall with extensive
+     pleural calcifications.  This density extends into the lower lateral pleural
+     sinus.  There is no evidence of acute pneumonic parenchymal infiltrates.
+     
+     IMPRESSION:  Moderate cardiac enlargement, status post bypass surgery and
+     aortic and mitral valve replacement, mild chronic CHF but no signs of acute
+     infiltrates.
+     
+     There exists no prior chest examination or records available for comparison.
+                                                                           
+
+",,
+5514,5692,,,3074-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-7**] 3:06 AM
+     CT L-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11807**]
+     Reason: Please eval for cord compression, please do sagital and [**Last Name (un) 11808**]
+     Admitting Diagnosis: INTRACTABLE BACK PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with increasing back pain L1 compression fx on MRI.           
+     REASON FOR THIS EXAMINATION:
+      Please eval for cord compression, please do sagital and coronal reformats       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  L1 compression fracture.  Please evaluate.
+     
+     COMPARISON:  No prior studies are available for comparison.
+     
+     TECHNIQUE:  Axial noncontrast helical scanning of the lumbar spine was
+     performed without IV contrast.  Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS:  There is near complete loss of height of the L1 vertebral body.
+     Loss of height is more pronounced anteriorly than posteriorly.  The remainder
+     of the lumbar vertebral body heights are maintained.  The alignment is normal.
+     There are degenerative changes of the lumbar spine, with anterior osteophytes
+     of the L2 vertebral body.  There is retropulsion of the superior corner of the
+     L1 body into the spinal canal with approximately 40% compromise of the lumen.
+     There are likely fracture fragments anterior to the L1 vertebral body.
+     Incidental findings include calcification of the abdominal aorta.
+     
+     IMPRESSION:  Near complete loss of height of the L1 vertebral body with
+     retropulsion into the spinal canal. See above
+
+",,
+5514,5692,6853,0,3074-04-07 05:11:00 EST,3074-04-07 05:24:00 EST,5933,"N",69,"Nursing/Other","0145-0700 NPN","
+0145-0700 NPN
+NEURO:  pt. alert and oriented, speaks primary armenian but does understand and speak english well enought to express her needs. MAE, able to lift and hold off bed bil. lower ext. PERL wears glasses
+
+CV:  bundle branch block, rate 50-80, some pvc seen, K 2.8, begine IV repletion peripherally. sys bp wnl.  pp intact x 4, afebrile, vd qs urine. 
+
+RESP:  arrived via ambulance room air. drops sats with [**Doctor Last Name 5**] so placed pt on  2 liters nc sats mid 90.4. lung diminished bibasilar, cough non prod.
+
+GU/GI:  some nausea with transport, abd rounded firm. no stool. mineral oil enema give late this pm. urine vd, continent, vbbd x3 200+ amts, ua to lab.
+
+ENDO:  bs 200's on arrival. pt. is a oral [**Doctor Last Name 41**] diabetic. will use only sliding scale for now.  pt. started on cont. solumedrol gtt.
+
+PAIN:  denies pain on admssion
+
+ACCESS:  #22 in right hand functional, placed #20 right wrist functioan. slight eccymosis around area related to recent fall.
+
+SOCIAL:  dtr accompanies pt., does interpret. I am able to talk with pt. she appears to understand what is being said as she responds to direct questions.  primary language armenian, dtr to translate, pt. understands quite a bit of english.
+
+PLAN:  monitor pulm status, blood sugars, pt. now receiving Potassium for K 2.8 periherally, cont. solumedrol gtt, address/respond to pain. log roll pt. s/s, monitor and respond to abnorm. bs
+",,
+5514,5692,6853,0,3074-04-07 14:33:00 EST,3074-04-07 14:38:00 EST,1640,"N",69,"Nursing/Other","MICU NPN Pt to transfer to floor.","
+MICU NPN Pt to transfer to floor.
+Neuro: Pt alert and oriented. Talked to her daughter on the phone. Refused pain med, only c/o slight headache.
+Logrolled in bed for bedpan/turns and measured for back brace which will be delivered tomorrow.
+
+Vital signs are stable. Pt is to be transferred to the floor when bed becomes available. Restarted on her coumadin as ordered. Taking pills PO but does cough after and has some difficulty getting them down due to needing to lay flat.
+
+I have opted not to feed her due to the possibility of aspiration. Pt is on IVF NS w/20meq Kcl at 80cc/hr. Voids well on bedpan. repeat K at noon was up to 3.1 and pt continues to get IV potassium through maintenance IV.
+",,
+5514,5692,,,3074-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-4-8**] 4:13 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 11810**]
+     Reason: Now in brace please do standing films to assess alignment in
+     Admitting Diagnosis: INTRACTABLE BACK PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with L1 compression fracture                                  
+     REASON FOR THIS EXAMINATION:
+      Now in brace please do standing films to assess alignment in weight bearing 
+      status
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Followup L1 compression fracture.
+     
+     AP and lateral standing views of the LS spine obtained with some form of
+     brace.  There is 65% loss of height of L1 body with slight loss of height of
+     both adjacent vertebral bodies.  No scoliosis and normal lordotic lateral
+     curve.  The hip and SI joints are normal.  No bone destruction identified. 
+     This patient has no comparison similar radiographs on PACS.
+                                                                           
+
+",,
+5514,,,,3074-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3074-6-9**] 12:32 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 11811**]
+     Reason: assess alignment,re-evaluate L1 compression fx, assess align
+     ICD9 code from order: 6
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman with 
+      l1 comp. fx s/p fall on [**3074-4-2**]
+       
+      pt must bring films to md appt today
+     REASON FOR THIS EXAMINATION:
+      assess alignment,re-evaluate L1 compression fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  L1 compression fracture.
+     
+     COMPARISON:  [**3074-4-8**].
+     
+     FINDINGS:  AP and lateral views of the lumbar spine demonstrate stable
+     compression fractures of L1 and L2.  Again noted are right pleural
+     calcifications and replacement valve.  No new fractures are visible.  Dense
+     calcifications within the abdominal aorta are also again noted.
+     
+     IMPRESSION:  Compression fractures of L1 and L2, unchanged.
+
+",,

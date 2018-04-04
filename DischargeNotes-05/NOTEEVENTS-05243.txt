@@ -1,0 +1,317 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5243,,,,3133-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-8-24**] 11:39 AM
+     ART DUP EXT LO UNI;F/U;                                         Clip # [**Clip Number (Radiology) 9514**]
+     Reason: graft surveillance
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with 
+     REASON FOR THIS EXAMINATION:
+      graft surveillance
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Femoral to posterior tibial bypass graft, for surveillance.
+     
+     FINDINGS: Peak systolic velocity within the native right common femoral artery
+     is 119 cm per second and that at the proximal graft anastomosis with this
+     vessel, 76 cm per second. At the distal graft anastomosis, the peak systolic
+     velocity reaches 332 cm per second, indicative of a high grade stenosis.
+     Proximal to the distal anastomosis within the graft, there is also a focal
+     area with a peak velocity fo 278 cm per second, indicating a moderate
+     stenoses. The peak systolic velocity within the native posterior tibial artery
+     is 61 cm per second.
+     
+     IMPRESSION: Findings as stated above which indicate graft patency but with a
+     moderate stenosis within the distal one-third of the graft and a high grade
+     stenosis at the distal graft anastomosis.
+     
+
+",,
+5243,19184,,,3133-09-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3133-9-19**]       Discharge Date:  [**3133-10-2**]
+
+Date of Birth:   [**3069-6-9**]       Sex:  M
+
+Service:
+
+Addendum:
+
+The patient remained in house receiving wound care, dialysis
+and did well.  We continued his antibiotics of levofloxacin
+and Flagyl which he will get a total of 14 days on discharge.
+The patient is afebrile currently with no acute signs of
+infection.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg once a day
+2.  Sorbitol 60 mg taken po
+3.  MiraLax 17 gm bid prn
+4.  Sevelamer 3200 mg with meals
+5.  Levofloxacin 250 every 2 hours for 14 days total
+6.  Colace 100 mg twice a day
+7.  Colace tablets 100 taken in the p.m. every day
+8.  Glipizide 2.5 mg once a day
+9.  Metamucil one packet 3x a day
+10. Neurontin 350 mg at bedtime
+11. Simvastatin 40 mg once a day
+12. Nephrocaps once a day
+13. Epogen 750 units at dialysis
+14. Senna tablets 2 a day
+15. Percocet for pain
+16. Protonix 40 mg once a day
+17. Tylenol as needed for pain
+18. Flagyl 500 mg po tid for a total of 14 days
+19. Wet to dry dressings once a day to the right lower
+extremity x3 days and follow up with Dr. [**Last Name (STitle) 1925**].
+
+HOME MEDICATIONS:
+1.  Regranex gel application one a day to his wounds
+2.  Flagyl 5 mg po tid, 14 days
+3.  Levofloxacin 250 mg one tablet every two days for a total
+of 14 days
+4.  Protonix 40 mg once a day
+5.  Percocet for pain
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1926**], M.D.  [**MD Number 1927**]
+
+Dictated By:[**Name8 (MD) 4471**]
+MEDQUIST36
+
+D:  [**3133-10-2**]  09:21
+T:  [**3133-10-2**]  09:36
+JOB#:  [**Job Number 6086**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**3133-10-9**] 5:01 PM
+(End of Report)
+
+
+",,
+5243,19184,,,3133-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-9-19**] 10:33 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 9516**]
+     Reason: ? FAILURE GRAFT/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man withfailed graft rt.                                            
+     REASON FOR THIS EXAMINATION:
+      ?? chf                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ? failure of graft and ? CHF.
+     
+     TECHNIQUE:  Preoperative PA and lateral views of the chest are compared with
+     [**3133-6-27**].
+     
+     FINDINGS:  There is marked cardiomegaly. The patient is status post CABG with
+     sternotomy wires and multiple surgical clips.  There is slight improvement in
+     the appearance of congestive failure compared to the prior study.  There are
+     no pleural effusions or pneumothorax present. There is a 1 cm cylindrical
+     density projecting over the trachea on the AP view.
+     
+     IMPRESSION:
+     
+     Marked cardiomegaly with improved congestive failure compared to the prior
+     study.
+
+",,
+5243,19184,,,3133-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-9-19**] 9:04 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 9515**]
+     Reason: r femoral a-gram (L) approach, failing graft p/p ad
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r femoral a-gram (L) approach
+      failing graft p/p ad
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64 y/o man who entered because of right lower leg ischemia.
+     
+     Informed consent was obtained. Aortoiliac right femoral arteriogram was
+     performed.
+     
+     The patient was prepped and draped in usual sterile manner. A 19 gauge needle
+     was placed in the common femoral artery on the right and a guide wire was
+     passed into the abdominal aorta followed by a 4 FR catheter. Contrast material
+     outlined atherosclerotic changes in the aorta and renal arteries. However,
+     there is good filling of both common iliac arteries.  Pressure measurements
+     failed to reveal evidence of a significant gradient from the aorta to the
+     right external iliac artery.  Contrast injection was done and angiograms of
+     the lower extermity were obtained.  Atherosclerotic changes is noted in a
+     small but patent profunda femora. There is no evidence of a graft. There is
+     occlusion of the superficial femoral artery.  Multiple collaterals over the
+     lateral thigh from the profunda eventually fill a segment of the popliteal
+     artery at the knee, however, it is occluded distally.  There is occlusion of
+     the anterior tibial, peroneal, and posterior tibial arteries over a 5 cm
+     segment below the occluded popliteal. There are clips over the medial side of
+     the lower leg, however, there is filling of the posterior tibial artery
+     beginning in the upper [**12-29**] of the lower leg with good filling into the plantar
+     surface of the foot.  In the lateral view, delayed filling is noted at the
+     peroneal and there is filling of a diseased anterior tibial in the lower [**12-29**]
+     of the leg with filling of the dorsalis pedis which is significantly delayed
+     from the posterior tibial artery.
+     
+     CONCLUSION:  Severe atheromatous changes with occlusion of the superficial
+     femoral and popliteal arteries with superficial collaterals eventually filling
+     the posterior tibial in the upper [**12-29**] of the lower leg with good runoff to the
+     foot.  Superficial collaterals also fill the distal anterior tibial and
+     dorsalis pedis.
+     
+     The examination was performed by Dr. [**Last Name (STitle) 319**]. 
+                                                                 (Over)
+
+     DATE: [**3133-9-19**] 9:04 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 9515**]
+     Reason: r femoral a-gram (L) approach, failing graft p/p ad
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5243,19184,,,3133-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-9-19**] 9:04 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 9515**]
+     Reason: r femoral a-gram (L) approach, failing graft p/p ad
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r femoral a-gram (L) approach
+      failing graft p/p ad
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64 y/o man who entered because of right lower leg ischemia.
+     
+     Informed consent was obtained. Aortoiliac right femoral arteriogram was
+     performed.
+     
+     The patient was prepped and draped in usual sterile manner. A 19 gauge needle
+     was placed in the common femoral artery on the right and a guide wire was
+     passed into the abdominal aorta followed by a 4 FR catheter. Contrast material
+     outlined atherosclerotic changes in the aorta and renal arteries. However,
+     there is good filling of both common iliac arteries.  Pressure measurements
+     failed to reveal evidence of a significant gradient from the aorta to the
+     right external iliac artery.  Contrast injection was done and angiograms of
+     the lower extermity were obtained.  Atherosclerotic changes is noted in a
+     small but patent profunda femora. There is no evidence of a graft. There is
+     occlusion of the superficial femoral artery.  Multiple collaterals over the
+     lateral thigh from the profunda eventually fill a segment of the popliteal
+     artery at the knee, however, it is occluded distally.  There is occlusion of
+     the anterior tibial, peroneal, and posterior tibial arteries over a 5 cm
+     segment below the occluded popliteal. There are clips over the medial side of
+     the lower leg, however, there is filling of the posterior tibial artery
+     beginning in the upper [**12-29**] of the lower leg with good filling into the plantar
+     surface of the foot.  In the lateral view, delayed filling is noted at the
+     peroneal and there is filling of a diseased anterior tibial in the lower [**12-29**]
+     of the leg with filling of the dorsalis pedis which is significantly delayed
+     from the posterior tibial artery.
+     
+     CONCLUSION:  Severe atheromatous changes with occlusion of the superficial
+     femoral and popliteal arteries with superficial collaterals eventually filling
+     the posterior tibial in the upper [**12-29**] of the lower leg with good runoff to the
+     foot.  Superficial collaterals also fill the distal anterior tibial and
+     dorsalis pedis.
+     
+     The examination was performed by Dr. [**Last Name (STitle) 319**]. 
+                                                                 (Over)
+
+     DATE: [**3133-9-19**] 9:04 AM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 9515**]
+     Reason: r femoral a-gram (L) approach, failing graft p/p ad
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5243,19184,,,3133-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-9-20**] 4:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9517**]
+     Reason: s/p PA catheter placement                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p PA catheter placement                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  PA catheter placement.
+     
+     Comparison is made to study from previous day.
+     
+     There has been interval placement of a PA catheter via a right sided IJ
+     approach. The tip terminates in the right main pulmonary artery.  CABG clips
+     and median sternotomy wires are seen.  Clips are also seen overlying the GE
+     junction.
+     
+     There is stable cardiomegaly. No redistribution of the pulmonary vasculature.
+     There are no focal areas of consolidations.  No effusions or pneumothorax are
+     seen.  Exam is slightly limited by respiratory motion.
+     
+     IMPRESSION:
+     
+     1) Placement of PA catheter without pneumothorax.
+     2) No CHF or pneumonia.
+
+",,
+5243,19184,6507,,3133-09-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-9-21**] 1:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9518**]
+     Reason: change rt. ij pac to tlc over wire. check position/r/o ptx  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       64 year old man w/p fem-p.t. bp                                                
+                  
+     REASON FOR THIS EXAMINATION:
+      change rt. ij pac to tlc over wire. check position/r/o ptx                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of CV line change.
+     
+     Right jugular CV line is in distal SVC.  No pneumothorax.  Status post CABG.
+     Apart from linear atelectasis left mid zone, the lungs are clear.
+
+",,
+5243,19184,6507,0,3133-09-21 03:53:00 EST,3133-09-21 04:07:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE/ ADM NOTE.","
+NURSING PROGRESS NOTE/ ADM NOTE.
+PT ARRIVED FROM [**Location 1258**] ALERT/ORIENTED X 3, FAMILY SENT TO WAITING AREA. 
+PT HAS R IJ SWAN, RIGHT RAD ALINE, AND RIGHT HAND PERIPH IV. PT ARRIVED WITH NEO RUNNING AT .4MCQ/KG/MIN. SHORTLY AFTER PT ARRIVED HE WAS STARTED ON HEMO. NEO AT THIS TIME TITRATED TO KEEP BP GREATER THAN 110. BP VERY LABILE WHILE ON HEMO. CVP VERY LOW, NS STARTED AT 50/HR. DIALYSIS NURSE STOPPED TAKING FLUID OFF. POST HEMO K DOWN TO 3.8. BLOOD SUGARS STABLE, NO INSULIN REQUIRED. 
+PT'S RIGHT FOOT WITH DSG ON FOOT AND DSD ON GRAFT SITE, DRAINING SERO SANG, DSG NOT CHG'D. PULSES CHECKED FREQ AND THEY ARE DOPPLERABLE. PT C/O FOOT PAIN X 2 AND WAS MED WITH IV MSO4 2MG X2 WITH FAIR EFFECT. PT ABLE TO GET SOME [**Doctor Last Name **] DURING THE NIGHT. FAMILY CALLED AND CHECKED IN. 
+PACU NURSE STATED BEFORE SHE LEFT THAT HE WAS ON PRECAUTIONS FOR MRSA IN HIS FOOT. THIS NURSE UNABLE TO FIND DOCUMENTATION OF THIS FACT. CHECKED WITH HOUSE OFFICERS AND THEY WERE UNAWARE OF THIS. WILL CHECK FURTHER.
+SEE FLOWSHEET FOR HEMODYNAM DATA. PT STARTED ON IV ANTIBIOTICS. PT UNABLE TO TAKE PO, STATED IT WOULD UPSET STOMACH. 
+PT WETTING HIS MOUTH WITH SMALL SIPS. TOLERATING WELL.
+WILL START TAKING PO MEDS WHEN TAKING DIET. PT HAS 2LNC AND O2SAT'S 100%, LUNG SOUNDS CLEAR.
+PT IS FULL CODE.
+
+
+
+ 
+",,

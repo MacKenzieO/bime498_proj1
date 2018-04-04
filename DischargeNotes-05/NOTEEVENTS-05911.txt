@@ -1,0 +1,2048 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3280-8-15**]              Discharge Date:   [**3280-9-5**]
+ 
+Date of Birth:  [**3220-5-9**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Glucocorticoids
+ 
+Attending:[**First Name3 (LF) 1089**] 
+Chief Complaint:
+altered mental status
+airway edema
+ 
+Major Surgical or Invasive Procedure:
+Emergent tracheostomy and mechanical ventilation
+S/P removal of tracheostomy
+Hemodialysis
+Lumbar Puncture
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 7413**] is a 60 year old man with a history of end stage 
+renal disease on hemodialysis, hypertension, cocaine abuse, who 
+presents with fever, chills, after a fall. The history is 
+unclear, mostly obtained from sister, who is not very sure. The 
+patient had been feeling ""not himself"" for a few days. He had a 
+fall 2 days prior to admission (unclear if had been feeling not 
+well even prior to fall and that contributed to the fall), was 
+seen at the [**Hospital6 327**], sent home, went to VA 
+emergency department but left because of a long wait. On the 
+morning of admission, he went to the [**Location (un) 173**] Veterans 
+Administration Hospital for hemodialysis, and was observed to be 
+shaking, then subsequently fell out of a chair, and was sent to 
+this facility for further evaluation and management of the 
+possible seizure. In the emergency department, he was noted to 
+be agitated and received 5 mg Haldol and 4 mg Ativan, after 
+which he became unresponsive and required intubation. Several 
+attempts were made for intubation to protect his airway, but 
+these failed secondary to edema of the oropharynx and tongue. An 
+emergent tracheostomy was performed by the surgery service.  
+
+Significant labs and studies in the emergency department 
+included a BUN of 53, Cr of 13. (He was due for dialysis on day 
+of admit and had missed at least 2 HD appointments shortly 
+before admission.) WBC was 12.3. His head CT showed a subdural 
+hematoma, and an a chest x ray revealed a developing aspiration 
+pneumonia.  
+
+Mr. [**Known patient lastname 7413**] was admitted to the Neurosurgical service for 
+possible evacuation of the subdural hematoma; however, because 
+of its small size and ?diffuse nature, the neurosurgery team 
+determined that it was not suitable for evacuation and the 
+patient was transferred to the MICU. In the MICU, the patient 
+was continued on empiric triple antibiotic coverage for 
+meningitis and even though CSF cultures were negative because 
+the lumbar puncture was performed after administration of 
+antibiotics and showed increased opening pressure and white cell 
+count. According to his sister, the patient's baseline 
+functional status is fully active and independent in all ADLs 
+and other aspects of life. He continued to be somnolent 
+throughout most of his MICU stay, but opened his eyes to voice 
+and was able to move all extremities and follow commands. It was 
+noted that the patient's mental status seemed to improve a bit 
+after dialysis, suggesting that there may also be a 
+toxic-metabolic process involved in his altered mental status. 
+He was also noted to have episodes of increased agitation at 
+night, which were initially managed with haldol. Neurology 
+suggested that the haldol may be contributing to his continued 
+altered mental status, so this was changed to geodon IM as 
+needed, to be used minimally. On transfer to the medicine floor, 
+the patient was afebrile without leukocytosis, hemodynamically 
+stable, and without respiratory distress breathing comfortably 
+on tracheal face mask. 
+
+ 
+Past Medical History:
+hepatitis C
+Subdural hematoma (small left parafalcine and tentorial), 
+ESRD on Hemodialysis
+substance abuse (cocaine)
+prostate cancer
+diabetes
+ 
+Social History:
+Lives independently. Per his sister, he recently started 
+drinking EtOH and using cocaine (likely within the past 
+2-3months; cannot be corroborated by pt).
+
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+TmTc 98.6 HR 68 BP 142/94 RR 16 O2 98-100% RA  
+Gen: NAD
+HEENT: EOMI, oropharynx clear, trach wound C/D/I  
+CVS: RRR, S1S2, no m/r/g, pulses 2+ all extremities  
+Chest: clear to auscultation anterior exam  
+Abd: obese, soft, nondistended, +BS  
+Ext: trace lower extremity edema  
+Neuro: alert, awake, moving all extremities, following commands  
+
+
+ 
+Pertinent Results:
+[**3280-8-20**] 04:19AM BLOOD freeCa-1.11*
+[**3280-8-15**] 11:26PM BLOOD Glucose-87
+[**3280-8-18**] 01:35AM BLOOD Lactate-0.9
+[**3280-8-15**] 02:15PM BLOOD Type-ART pO2-148* pCO2-50* pH-7.24* 
+calHCO3-22 Base XS--6
+[**3280-8-15**] 06:04PM BLOOD Type-ART Temp-38.7 Tidal V-600 PEEP-5 
+O2-100 pO2-163* pCO2-46* pH-7.37 calHCO3-28 Base XS-1 AADO2-516 
+REQ O2-85 Intubat-INTUBATED Vent-IMV
+[**3280-8-20**] 04:19AM BLOOD Type-ART Rates-13/ O2-40 pO2-147* 
+pCO2-46* pH-7.41 calHCO3-30 Base XS-4
+[**3280-8-20**] 09:35AM BLOOD Type-ART Temp-37.0 O2 Flow-12 pO2-151* 
+pCO2-45 pH-7.39 calHCO3-28 Base XS-2 Intubat-NOT INTUBA
+[**3280-8-15**] 05:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3280-8-21**] 01:12AM BLOOD Phenyto-18.2
+[**3280-8-19**] 09:15AM BLOOD C4-26
+[**3280-8-17**] 03:18AM BLOOD Free T4-1.4
+[**3280-8-18**] 10:10PM BLOOD PTH-1176*
+[**3280-8-16**] 03:29AM BLOOD TSH-0.95
+[**3280-8-17**] 03:18AM BLOOD Ammonia-20
+[**3280-8-19**] 12:28PM BLOOD calTIBC-156* Ferritn-409* TRF-120*
+[**3280-8-15**] 05:23PM BLOOD Calcium-8.3* Phos-6.3* Mg-2.7*
+[**3280-8-21**] 01:12AM BLOOD Calcium-8.7 Phos-7.0* Mg-2.1
+[**3280-8-15**] 11:00AM BLOOD CK-MB-5 cTropnT-0.06*
+[**3280-8-15**] 05:23PM BLOOD CK-MB-6 cTropnT-0.07*
+[**3280-8-15**] 11:25PM BLOOD CK-MB-4 cTropnT-0.08*
+[**3280-8-16**] 03:29AM BLOOD Lipase-20
+[**3280-8-19**] 04:15AM BLOOD Lipase-67*
+[**3280-8-15**] 11:00AM BLOOD CK(CPK)-230*
+[**3280-8-15**] 05:23PM BLOOD CK(CPK)-222*
+[**3280-8-15**] 11:25PM BLOOD CK(CPK)-189*
+[**3280-8-16**] 03:29AM BLOOD ALT-10 AST-14 AlkPhos-101 Amylase-166* 
+TotBili-0.5
+[**3280-8-18**] 04:45AM BLOOD ALT-10 AST-15 LD(LDH)-169 AlkPhos-83 
+TotBili-0.3
+[**3280-8-19**] 04:15AM BLOOD ALT-10 AST-19 LD(LDH)-151 AlkPhos-92 
+Amylase-142* TotBili-0.4
+[**3280-8-15**] 05:45AM BLOOD Glucose-117* UreaN-53* Creat-13.0* Na-138 
+K-4.7 Cl-101 HCO3-19* AnGap-23*
+[**3280-8-21**] 01:12AM BLOOD Glucose-127* UreaN-49* Creat-9.3*# Na-138 
+K-4.4 Cl-100 HCO3-23 AnGap-19
+[**3280-8-15**] 05:45AM BLOOD Plt Ct-234
+[**3280-8-21**] 01:12AM BLOOD Plt Ct-243
+[**3280-8-15**] 05:45AM BLOOD Microcy-1+
+[**3280-8-18**] 04:45AM BLOOD Hypochr-3+ Anisocy-NORMAL Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**3280-8-15**] 05:45AM BLOOD Neuts-78.8* Lymphs-15.2* Monos-5.1 
+Eos-0.8 Baso-0.2
+[**3280-8-18**] 04:45AM BLOOD Neuts-64.4 Bands-0 Lymphs-24.1 Monos-7.3 
+Eos-3.5 Baso-0.7
+[**3280-8-15**] 05:45AM BLOOD WBC-12.3* RBC-4.56* Hgb-13.2* Hct-37.8* 
+MCV-83 MCH-28.9 MCHC-34.9 RDW-14.9 Plt Ct-234
+[**3280-8-15**] 05:23PM BLOOD WBC-9.7 RBC-3.99* Hgb-11.1* Hct-32.6* 
+MCV-82 MCH-27.9 MCHC-34.1 RDW-14.9 Plt Ct-207
+[**3280-8-21**] 01:12AM BLOOD WBC-6.9 RBC-3.37* Hgb-9.6* Hct-27.6* 
+MCV-82 MCH-28.3 MCHC-34.6 RDW-14.6 Plt Ct-243
+[**3280-8-19**] 11:06PM URINE Blood-LGE Nitrite-NEG Protein-500 
+Glucose-TR Ketone-TR Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+[**3280-8-15**] 05:45AM URINE Blood-SM Nitrite-NEG Protein-500 
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+[**3280-8-15**] 05:45AM URINE RBC-[**2-9**]* WBC-0-2 Bacteri-NONE Yeast-NONE 
+Epi-0-2 RenalEp-[**2-9**]
+[**3280-8-15**] 05:45AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-POS amphetm-NEG mthdone-NEG
+[**3280-8-17**] 03:14PM CEREBROSPINAL FLUID (CSF) WBC-23 RBC-753* 
+Polys-80 Lymphs-20 Monos-0
+[**3280-8-17**] 03:14PM CEREBROSPINAL FLUID (CSF) TotProt-30 Glucose-64 
+LD(LDH)-19
+[**3280-8-17**] 03:14PM CEREBROSPINAL FLUID (CSF) CSF-PEP-NO OLIGOCL
+CSF [**3280-8-29**]: Neg gram stain, neg bacterial culture, neg viral 
+culture to date, neg cryptococcal antigen, neg fungal culture
+
+Head and Neck CT:
+Cervical vertebral alignment is normal. Vertebral body height is 
+maintained. 
+There are no cervical fractures identified. In the sagittal 
+plane, the 
+prevertebral soft tissues appear full. Axial images demonstate a 
+vascular 
+structure extending toward the midline. This could be confirmed 
+with a 
+contrast-enhanced CT scan. Additionally, there is an enlarged 
+thyroid gland, 
+which is only partially in view on this study. 
+IMPRESSION: No evidence of cervical fracture or malalignment. 
+ 
+
+ 
+Brief Hospital Course:
+60 yo M with history of cocaine abuse and ESRD, status post fall 
+and suspected seizure with new subdural hematoma, altered mental 
+status, and temporary dependance on tracheostomy for 
+ventilation.
+
+1. Altered mental status: Etiology remains unclear, but is 
+likely multifactorial. Initially, subdural hematoma was assumed 
+to be cause of altered mental status; however, it is small in 
+size and has remained stable in serial imaging by CT and MRI 
+scanning. Other possible contributing factors include drug or 
+metabolic toxicity in the setting of ESRD, infection (meningitis 
+or encephalitis), and prolonged post-ictal state. No evidence of 
+cerebrovascular accident was noted on imaging.
+
+Toxic-metabolic work-up did not reveal any abnormalities, aside 
+from the elevated BUN on admission. Liver (including ammonia 
+level)and thyroid function tests were normal. RPR was negative. 
+Lead level was pending at time of discharge. EEG was suggestive 
+of encephalopathy but no seizure activity was noted. 
+Echocardiogram revealed no valvular vegetations as a possible 
+source of septic emboli. He was started on thiamine, folate, and 
+vitamin B12 and loaded with phenytoin for the questionable 
+seizure. His mental status waxed and waned and we discontinued 
+the dilantin thinking that it was causing his lethargy. Per 
+neurology, his seizure history is somewhat vague, so they were 
+agreeable to monitoring him in the hospital off dilantin. He did 
+not have any witnessed seizures in the hospital.
+
+He completed a two week course of empiric IV ampicillin, 
+ceftriaxone, and acyclovir for possible meningitis. A lumbar 
+puncture was obtained 3 days after antibiotics were begun 
+because of initial concern that he may herniate. CSF analysis 
+was significant for an elevated WBC count of 23 with 80% 
+neutrophils and 20% lymphocytes. Opening pressure was also 
+elevated at 33mm Hg, which although may have been partially 
+positional, exceeds the expected increase, and raised concerns 
+for an infectious etiology. CSF cultures were negative. PCR for 
+HSV was unable to be accomplished due to lack of adequate sample 
+size. patient was not cooperative with further EEG or lumbar 
+puncture.
+
+Of note, throughout his hospital course, mental status seemed to 
+improve after dialysis at which time the patient was often 
+oriented to being in the hospital in addition to himself and was 
+able to speak in full sentences, suggesting that there may also 
+be a toxic-metabolic process involved. According to his sister, 
+his baseline functional status is fully active and independent. 
+He was somnolent but able to open eyes to command, until 
+approximately [**9-3**] when he became more aware. He was also noted 
+to have episodes of increased agitation at night, thought to be 
+sundowning. These were initially managed with haldol and geodon. 
+Standing risperdal was started and increased to 2mg in AM and 4 
+mg QPM. The risperidone seemed to have the best effect. He was 
+seen by the neurology service during his hospital stay and his 
+mental status was normal at time of discharge with only some 
+mild condusion in the morning.
+
+2. Respiratory failure: The patient required emergent 
+tracheostomy in the ED since he was unable to protect his airway 
+due to altered mental status and possiby sedation. Intubation 
+was unsuccessful due to airway edema. He was weaned quickly to 
+trach mask with good oxygenation, but because of the continued 
+edema, decannulation could not be attempted while in the MICU. 
+The tracheostomy was altered for Passy-Muir valve and the 
+patient was transferred to the medicine floor while breathing 
+comfortably with good oxygenation on the 35% face mask. His 
+course was complicated by copious oral and tracheal secretions 
+that required frequent suctioning. Nebulizer therapy with 
+albuterol was given. After a week, the airway edema appeared to 
+be resolved externally and he tolerated a day breathing room 
+with the trach capped. Subsequently, the tracheostomy apparatus 
+was removed without complication by Dr.[**Doctor Last Name 4456**] surgery service 
+and the patient had 97-100% saturation on room air. He was on a 
+prednisone taper at time of discharge of 10 mg daily to be 
+weaned over the next few days post-discharge. The wound remained 
+clean, dry, and intact dressed with gauze.
+
+3. Airway Edema: It is uncertain whether airway edema 
+encountered in the ED was traumatic (multiple attempted were 
+made at intubation) or caused by angioedema related causes such 
+as idiopathic, hereditary, or medication related. The patient 
+was not given or had no indications of taking medications 
+implicated in the induction of angioedema. According to his 
+sister, he may have had a history of past airway edema 
+associated with medication (she is uncertain which one), but no 
+one else in the family has this problem. Per report, he was not 
+on an ACE-inhibitor. Complement studies were sent to evaluate 
+for hereditary angioedema; to date, analysis of the complement 
+pathway appears to be normal. Results of functional testing of 
+C1 inhibitor are pending. CT or the neck showed evidence of 
+swelling limited to the airway above the tracheostomy, as well 
+as a diffuse goiter that had been noted in past studies (thyroid 
+function testing was normal). He was started on prednisone 60 mg 
+for three days and proceeded to undergo a slow tapering. 
+Successful swallowing study for soft solids and excellent oxygen 
+saturation on room air provided clinical indication that the 
+airway edema improved. Otolaryngology service consulted for 
+airway evaluation but the patient was not cooperative with 
+rhinolaryngoscopy.  The [**Last Name (un) **]/immunology service assisted with 
+the analysis of allergic or hereditary causes for the airway 
+edema; however, no obvious cause was found.  The patient is 
+recommended to follow up in the allergy clinic for further 
+evaluation as an outpatient and to avoid ACE inhibitors.
+
+4. End Stage Renal Disease: The patient was dialyzed 3x/week 
+(M/W/F). He received nephrocaps, calcium acetate, zemplar, 
+ferrlecit, and epogen. Renagel was discontinued and the calcium 
+acetate was discontinued after several days.  Per nursing 
+report, the patient did produce urine while on the medicine 
+floor. 
+
+5. Hypertension: In the MICU, the patient's blood pressure was 
+initially quite labile and especially affected by agitation. It 
+was controlled with hydralazine 25mg PO(NG) Q6hr and metoprolol 
+50 mg PO(NG)TID for the majority of his hospital course. Later, 
+hydralazine was weaned and discontinued in preference for 
+calcium channel blockade. His regimen at discharge was 
+metoprolol 50 mg BID and Nifedipine CR 30 mg daily.
+
+5. Anemia: Iron studies point to chronic disease and renal 
+failure as etiologies. He was started on epogen and ferrlecit, 
+which he received at each dialysis. His hematocrit remained 
+stable and he required no transfusions. Stool guaciac analyses 
+were negative. There was a low hematocrit of 25.8 on [**3280-9-4**] and 
+repeat draw was 28. He may need transfusion at his next 
+hemodialysis.
+
+6. Nutrition: He was started on tube feeds appropriate for ESRD, 
+per nutrition recommendations, in the MICU. Since he pulled out 
+his NG tube after transfer to the medicine floor, a swallowing 
+evaluation showed that he was able to swallow soft solids and 
+thin liquids without difficulty. However, sometimes the patient 
+refused oral intake, including medication, when agitated. 
+Aspiration precautions were maintained. Renal appropriate 
+vitamin and mineral supplementation was provided. At time of 
+discharge he was eating well with aspiration precautions.
+
+7. Secondary Hyperparathyroidism: His highly elevated PTH level 
+was likely due to ESRD because a subset of ESRD patients will 
+have refractory hyperparathyroidism with levels over 3 times 
+normal and may need parathyroidectomy if symptomatic. The PTH 
+level in this patient was most consistent with renal 
+disease-induce secondary hyperparathyroidism and he was treated 
+with zemplar at dialysis.  
+ 
+8. Goiter: Neck CT with contrast confirmed a previously 
+identified thyroid mass. However, the thyroid was not well 
+visualized secondary to interval tracheostomy. The diffuse 
+enlargement of the thyroid gland was consistent with goiter. An 
+outpatient thyroid ultrasound was recommended when the patient 
+is clinically stable for further evaluation. Note that thyroid 
+function laboratory testing was normal.   
+
+9. History of Fevers: During his hospital course, the patient 
+was largely afebrile without leukocytosis on empiric coverage 
+for meningitis. In studies performed while the patient was in 
+the MICU, there was no sign of upper extremity DVT on 
+ultrasound, no cardiac thrombus, no chronic sinusitis, no 
+malignancy seen in spinal fluid, and no new infiltrates on CXR. 
+After NG tube placement for 10 days, the patient was noted to 
+have sinus air/fluid levels on imaging as expected since [**70**]% of 
+patients with extended NG placement have this finding. He was 
+already covered for many common organisms with his 2 week 
+antibiotic regimen and he had no signs or symptoms of sinusitis. 
+Urine, blood, and sputum cultures were negative. Stool was 
+negative for c. difficile. Foley catheterization was 
+discontinued [**8-26**]. On the general medicine service, the 
+patient remained afebrile without elevated white cell count. 
+
+10. Right shoulder pain: He presented s/p fall and his right 
+shoulder was thought to be injured during that fall. Plain films 
+revealed no fracture. He was unable to comply with MRI on 
+[**3280-9-4**]. He will need sedation with an MRI in the near future to 
+evaluate for possible rotator cuff tear.  
+
+11. Hitory of Hepatitis C. His viral load was 1,120,000 during 
+hospitalization. His will need follow up as an outpatient 
+regarding possible treatment.
+
+12. History of Prostate cancer: We were not successful at 
+obtaining outside records from [**Company 7414**] or [**Hospital1 253**]. His PSA here was 7, 
+baseline unknown. Prostate was not felt on rectal exam. He will 
+need to follow up with his PCP regarding this.
+
+ 
+Medications on Admission:
+unknown
+Per patient: flomax 0.4 mg BID and others that he can't 
+remember. He could not find his medication list.
+ 
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q4H (every 4 hours) as needed.  
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+3. Insulin Regular Human 100 unit/mL Solution Sig: One (1) dose 
+Injection ASDIR (AS DIRECTED).  
+4. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1) 
+injection Injection TID (3 times a day).  
+5. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day).  
+7. Albuterol Sulfate 0.083 % Solution Sig: [**12-8**] nabs Inhalation 
+Q6H (every 6 hours) as needed.  
+8. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO twice a day.  
+9. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+10. Ziprasidone Mesylate 20 mg Recon Soln Sig: One (1) Recon 
+Soln Intramuscular  Q8H (every 8 hours) as needed for agitation. 
+ 
+11. Nifedipine 30 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO QD (once a day).  
+12. Risperidone 2 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+13. Risperidone 2 mg Tablet Sig: One (1) Tablet PO QAM (once a 
+day (in the morning)).  
+14. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day) for 1 days.  
+15. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day): hold for SBP<100, HR <55.  
+16. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO QD (once a day).  
+17. Tamsulosin HCl 0.4 mg Capsule, Sust. Release 24HR Sig: One 
+(1) Capsule, Sust. Release 24HR PO twice a day.  
+18. Prochlorperazine Edisylate 5 mg/mL Solution Sig: [**12-8**]  
+Injection Q6H (every 6 hours) as needed for nausea/vomiting.  
+19. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+every four (4) hours as needed for shortness of breath or 
+wheezing.  
+20. Zemplar 2 mcg/mL Solution Sig: Three (3) ml Intravenous  Q 
+hemodialysis: Total of 6 mcg IV Q dialysis.  
+21. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection 
+Q hemodialysis.  
+22. Ferrlecit 12.5 mg/mL Solution Sig: 62.5 mg Intravenous  Q 
+hemodialysis: 62.5 mg Q hemodialysis. 
+
+23.. Acyclovir 300 mg IV Q24H  (end date [**3280-8-29**])
+24. Ampicillin 1 gm IV Q12H  (end date [**3280-8-29**])
+On dialysis days dose after dialysis
+25. Ceftriaxone 2 gm IV Q12H  (end date [**3280-8-29**])
+ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+subdural hematoma 
+altered mental status
+airway edema s/p tracheostomy and s/p removal
+Secondary:
+End stage renal disease, hemodialysis dependent
+Hepatitis C
+substance abuse
+h/o prostate cancer 
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Please call your doctor and return to the hospital for fever, 
+headache, confusion, nausea, vomiting, visual disturbances, 
+stroke, or any other questions [**Doctor First Name **] may have.
+Please take all medications as prescribed
+
+ 
+Followup Instructions:
+Hemodialysis at [**Location 782**] VA Q MWF
+Follow up with your PCP regarding [**Name9 (PRE) 7415**] goiter.
+Follow up with a GI doctor regarding your Hepatitis C. HCV viral 
+load on this admission  1,120,000.
+F/U with PCP regarding shoulder pain, may need MRI with sedation 
+to eval for rotator cuff tear.
+F/U with your PCP regarding your history of prostate cancer. 
+Your PSA was 7 here. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1096**] MD [**MD Number 1097**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 7416**] [**Last Name (NamePattern4) 7417**] MD [**MD Number 7418**] [**3280-9-5**] @ 1220
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SUN [**3280-10-13**] 2:27 PM
+(End of Report)
+
+
+",,
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-15**] 1:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15308**]
+     Reason: s/pintubation                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with sdh,s/p intbation                                         
+     REASON FOR THIS EXAMINATION:
+      s/pintubation                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Subdural hematoma, status post intubation.
+     
+     Comparison is made to the chest x-ray obtained 5 hours prior.
+     
+     SUPINE AP OF THE CHEST:  There has been interval placement of a tracheostomy
+     tube terminating with its tip at the thoracic inlet.  An NG tube is also
+     present in the esophagus with the tip not well seen, possibly at the GE
+     junction.  The heart and mediastinal contours are unchanged in the short
+     interval.  There has been an interval development of left lower lobe
+     collapse/consolidation and patchy opacity at the right base.
+     
+     IMPRESSION:
+     
+     1)  Rapid development of left lower lobe collapse/consolidation and opacity at
+     the right base.  This could reflect aspiration.
+     2)  Distal extent of NG tube not well seen.
+     3)  Status post tracheostomy tube placement.
+
+",,
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-15**] 8:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15306**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with fever s/p fever r/o infiltrate
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of fever, evaluate for infiltrate.
+     
+     PORTABLE AP CHEST X-RAY:  No previous studies are available for comparison.
+     Cardiomegaly with left ventricular enlargement is noted.  Study is limited by
+     technique and body habitus, but there appears to be mild prominence of the
+     vascular with some degree of mild CHF.  The superior mediastinum appears
+     slightly widened, which is likely related to prominence of the vascular
+     structures in that area and an ectatic aorta. A small rounded opacity is noted
+     at the right cardiophrenic angle of uncertain etiology, without evaluation
+     with a lateral chest x-ray.  Osseous structures are normal.  No pleural
+     effusions or pneumothoraces are seen.
+     
+     IMPRESSION:  Cardiomegaly with mild CHF.  No evidence of pneumonia.  Further
+     evluation with proper PA & lateral chest x-ray can be obtained of clinically
+     indicated.
+
+",,
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-15**] 8:11 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 15307**]
+     Reason: 40 year old male s/p ?seizure. R/o fracture/malalignment
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with s/p seizure.
+     REASON FOR THIS EXAMINATION:
+      40 year old male s/p ?seizure. R/o fracture/malalignment
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 13983**] [**Doctor First Name 70**] [**3280-8-15**] 10:06 AM
+      
+      no fracture or malalignment of the c-spine
+      enlarged thyroid and question aberrant carotid in prevertebral space -
+      recommend further eval, perhaps neck CT with contrast 
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post seizure, rule out fracture, malalignment.
+     
+     TECHNIQUE:  Axial noncontrast CT scans through the cervical spine were
+     obtained.  Coronal & sagittal reformatted images are provided.
+     
+     FINDINGS:
+     
+     Cervical vertebral alignment is normal.  Vertebral body height is maintained.
+     There are no cervical fractures identified.  In the sagittal plane, the
+     prevertebral soft tissues appear full.  Axial images demonstate a vascular
+     structure extending toward the midline.  This could be confirmed with a
+     contrast-enhanced CT scan.  Additionally, there is an enlarged thyroid gland,
+     which is only partially in view on this study.
+     
+     IMPRESSION:  No evidence of cervical fracture or malalignment.
+     
+     Further evaluation of the thyroid is recommended, and a contrast-enhanced CT
+     scan of the neck might better define this structure.  Additionally, there is a
+     rounded structure in the prevertebral soft tissues, which is of uncertain
+     nature and may be a vascular structure.  This, too, would be better devined
+     with contrast-enhanced CT scan of the neck.
+
+",,
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-15**] 8:11 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 15307**]
+     Reason: 40 year old male s/p ?seizure. R/o fracture/malalignment
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with s/p seizure.
+     REASON FOR THIS EXAMINATION:
+      40 year old male s/p ?seizure. R/o fracture/malalignment
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 13983**] [**Doctor First Name 70**] [**3280-8-15**] 10:06 AM
+      
+      no fracture or malalignment of the c-spine
+      enlarged thyroid and question aberrant carotid in prevertebral space -
+      recommend further eval, perhaps neck CT with contrast 
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Status post seizure, rule out fracture, malalignment.
+     
+     TECHNIQUE:  Axial noncontrast CT scans through the cervical spine were
+     obtained.  Coronal & sagittal reformatted images are provided.
+     
+     FINDINGS:
+     
+     Cervical vertebral alignment is normal.  Vertebral body height is maintained.
+     There are no cervical fractures identified.  In the sagittal plane, the
+     prevertebral soft tissues appear full.  Axial images demonstate a vascular
+     structure extending toward the midline.  This could be confirmed with a
+     contrast-enhanced CT scan.  Additionally, there is an enlarged thyroid gland,
+     which is only partially in view on this study.
+     
+     IMPRESSION:  No evidence of cervical fracture or malalignment.
+     
+     Further evaluation of the thyroid is recommended, and a contrast-enhanced CT
+     scan of the neck might better define this structure.  Additionally, there is a
+     rounded structure in the prevertebral soft tissues, which is of uncertain
+     nature and may be a vascular structure.  This, too, would be better devined
+     with contrast-enhanced CT scan of the neck.
+
+",,
+5911,17935,,,3280-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-15**]  
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15305**]
+     Reason: 60 yo male with decreased mental status, ?seizure,  please e
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with decreased mental status, ?seizure
+     REASON FOR THIS EXAMINATION:
+      60 yo male with decreased mental status, ?seizure,  please eval for acute ICH
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 13983**] [**Doctor First Name 70**] [**3280-8-15**] 9:19 AM
+      small left parafalcian and tentorial subdural hematoma and tiny amount of
+      blood along the left inner table - mild mass effect on left atrium and
+      posterior brain, but no shift of midline or hernation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Decreased mental status.  ? seizure.  Evaluate for acute
+     hemorrhage.
+     
+     TECHNIQUE:  Axial noncontrast CT scans of the brain were obtained.
+     
+     There is subdural blood along the left side of the falx and over the left
+     tentorial leaf.  A small amount of subdural hemorrhage is also evident along
+     the inner table of the left calvarium, near the coronal suture.  Mass effect
+     from the parafalcine and tentorial subdural hematoma narrows the left
+     ventricular atrium.  There is no shift of normally midline structures.  The
+     basal cisternal spaces are well visualized.
+     
+     There are patchy areas of decreased attenuation in the periventricular white
+     matter and there are lacunar infarctions in the basal ganglia.  No cortical
+     territorial infarction is evident.
+     
+     IMPRESSION:  Left tentorial and parafalcine subdural hematoma with a small
+     amount of subdural blood along the left inner table.  There is mild mass
+     effect associated with this finding.
+
+",,
+5911,17935,7371,0,3280-08-15 15:22:00 EST,3280-08-15 15:28:00 EST,3168,"N",53,"Nursing/Other",,"
+
+resp care
+pt arrived from the e.r. trached and mech ventilated. pt emergently trached in the e.d. s/p multi failed attempts at intubation. trach is #7.0 portex w/gross cuff leak. pt to have trach revision in o.r. this evening. b/s coarse, sxn thk bldy secretions. please see carevue for vent settings/changes. plan: cont w/mech support.
+",,
+5911,17935,7371,0,3280-08-15 21:11:00 EST,3280-08-15 21:57:00 EST,3246,"N",53,"Nursing/Other","T/SICU Nsg Admit Note-","
+T/SICU Nsg Admit Note-
+Pt. is a 60 yr old blk male adm to T/SICU with a subdural hematoma(left). He has hx of ESRD, on dialysis at the VA. He arrived at the [**Hospital1 22**] from the VA. Family states he's been treated for prostate Ca in the past. Records from the VA are to be faxed tonight, for a more detailed PMH/PSH. 
+Pt. arrives to the T/SICU with the following tubes and lines in place: #7 portex trach; OGT (pulled out on tranfer, replaced);rt radial art line;rt hand periph IV site; left femoral triple lumen and foley cath.
+Plan this evening is to optimize pulmonary status, maintaining oxygenation, give abx as ordered, loaded with dilantin in EW, to cont. here, monitor neuro status for changes(has been arousable but mostle lethargic/asleep), renal consult(dialysis tomorrow), EEG/ Head CT in am.
+Brief ROS:
+Neuro- Pt. has been essentially the same all shift. He will open his eyes with activity(turns..) or with verbal command but not consistantly. He's squeezed approp. x 1 but not recently. He will attempt to turn back to back with turning along with grimaces. He responds to pinches by moving effected extremity- movements appear purposeful. Pt. is febrile. His pupils are equal and 2mm, appear to respond equally to light- although they are constricted. He's moved his extremities spont. but not to command in general. Dilantin load in EW. Coughs vigorously with suctioning.
+
+Resp- Pt. is fully vented on IMV, 18, not breathing over the vent. FIO2 weaned to 80%, TV600 and PEEP 5. Coarse breath sounds throughout. Requires suctioning of trach occ, lrg amts of thick bloody secretions. Trach site sl less bleeding over this shift, remains bloody. Leak around trach site and occ(less so) through mouth has improved but cont. to occ occur. 
+
+CV- Pt. has been on nipride this shift to maintain BP 160-180, per NS tm. He's had occ dips in BP, infreq. that may require turning off nipride- but only briefly. He appears to need a sml amt of nipride infusing. HR 80's - 105, sinus, no ectopy. Skin warm and dry. Periph edema evident. Periph pulses palp. 
+
+Endo- Bld sugar not requiring coverage per FS BS.
+
+Heme/ID- Rcv'd levaquin and ceftriaxone as ordered. Tmax is 101.6. Bld cultures obtained from art line and triple lumen. Unable to get a periph. sample. Tylenol PR.
+
+GI- OGT placed just after arrival, draining lrg amts of bilious drg(875cc). Abd soft and distended, + BS. No BM's.
+
+GU- Foley in place, draining sml amts of urine. U/O has drifted down over shift.
+
+Skin- Intact over all. Neck with bldy trach site, improving. Lips and tongue swollen.
+
+Social- Family, Zetta and sister, in to see pt. Teary over situation, Sister took pt's house keys to lock his home, she believes it was open. Zetta called this evening for update.
+
+",,
+5911,17935,7371,,3280-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-16**] 8:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15309**]
+     Reason: DECREASED MENTAL STATUS ? SEIZURE EVALUATE ICH
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with decreased mental status, ?seizure w/ SDH                  
+     REASON FOR THIS EXAMINATION:
+      evaluate ICH                                                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 60 y/o man with subdural hematoma.
+     
+     COMPARISON: CT head dated [**3280-8-15**].
+     
+     TECHNIQUE: Axial images of the head without IV contrast were obtained.
+     
+     FINDINGS: Subdural hemorrhage extending from the parafalcine area through the
+     left tentorium is unchanged in appearance. There are no new areas of
+     hemorrhage detected. The ventricles are stable in size. There is no shift of
+     normally midline structures. The basilar cisterns are well visualized.
+     
+     Interval development of fluid and opacification of the ethmoid sinuses,
+     sphenoid sinuses, frontal sinuses, and maxillary sinuses is identified. The
+     mastoid air cells are unopacified.
+     
+     IMPRESSION: Unchanged appearance of parafalcine and left tentorial subdural
+     hematoma. 2) Interval development of fluid and opacification of the paranasal
+     sinuses.
+
+",,
+5911,17935,7371,,3280-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-16**] 2:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15310**]
+     Reason: Status post line placement, evaluate placement              
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old man with sdh,s/p intbation                                        
+       
+     REASON FOR THIS EXAMINATION:
+      Status post line placement, evaluate placement                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW.
+     
+     INDICATION: S/P line placement, evaluate position.
+     
+     FINDINGS: AP single view obtained with patient in supine position demonstrates
+     placement of a right subclavian approach central venous line the tip of which
+     is overlying the SVC at a level 3 cm below the carina but still 2 cm above the
+     expected entrance into the right atrium. There is no evidence of pneumothorax
+     or any other placement related complication. In comparison with the next
+     previous portable chest examination, the position of the tracheal cannula and
+     the NG tube is unchanged.
+     
+     IMPRESSION: Uncomplicated placement of right subclavian approach central
+     venous line.
+
+",,
+5911,17935,7371,0,3280-08-16 02:22:00 EST,3280-08-16 02:29:00 EST,2777,"N",69,"Nursing/Other","nursing note","
+nursing note
+Neuro: Pt arouses to loud voice or shaking, opens eys and tracks. Inconsistently, when fully alert, follows commands to wiggle toes and squeeze hands bilat.  Upon arousing- pt shakes for few seconds and then settles down.  PERL, sluggish and 2mm. LP [**Name6 (MD) 1619**] by MD unsuccessful- site benign. Febriel to 99.6. Multiple abx ordered. MD questioned re: acyclovir with RF and MD wants pt to get as ordered.  
+CV:SR, no ectopy. SBP goal 160-180, pt will independently drift lower than 160, MD aware and desires no pressors. LR at 50cc/hour. L fem line benign. no edema. Weak PP to L leg.  AV fistual with +bruit and thrill. 
+RESP:LS coarse, suctioned for htick bloody sputum.  Trach site with old clots and swelling as previous shift. Trach care done frequently, minimal oozing at this time. Remains on CMV, FIo2 wwaned to 60%. 
+GI:NPO, NGT to LWS coffee groun. Team aware. Abd large, distended, +BS. No BM.
+GU:foley patent clear yellow urine, drift down some hours. 
+SKIN:intact. swollen nose and lip.
+SOCIAL"": no contact with family this shift. 
+
+",,
+5911,17935,7371,0,3280-08-16 04:52:00 EST,3280-08-16 04:57:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt on [**Last Name (un) 471**] a/c 18/600/+5/80%.  Alarms on and functioning. Ambu/syringe @ hob. BS auscultated reveal bilateral coarse sounds. Suctioned for moderate amounts of thick bloody tinged secretions, as well as oral cavity.  Vent changes accordingly (see careview) decreases in fio2 to 60%.  AM ABG's 7.46/35/146/26. Fio2 then decreasd to 40%  and rr decreased to 16, where they presently remain. Pt expected to go to OR for ^ trach size to #8 portex.
+",,
+5911,17935,7371,0,3280-08-16 15:35:00 EST,3280-08-16 15:39:00 EST,2687,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt continues to be mechanically ventilated via Tracheostomy.  Trach was not changed today; plan is to wean ventilator settings to possibly decannulate the beginning of the week.  Trach ties are not be changed or inner cannulae removed [**Name8 (MD) 34**] MD.  Pt is now on MICU service with possible transfer to that unit.  Pt's vent settings were changed from A/C to SIMV/PS with a decreased in respiratory rate from 16 to 10 with an ABG pending at this time.  Plan to continue ventilating & wean as tolerated.
+",,
+5911,17935,7371,0,3280-08-16 18:19:00 EST,3280-08-16 18:46:00 EST,5247,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note:
+Please see CareVue for specifics.
+
+Pt has had an eventful day.
+Events:
+Head CT
+EEG
+ECHO (TTE)
+hemodialysis
+new subclavian line placed
+CXR
+
+Plan: 
+Transfer to MICU-A
+For LP.
+
+On exam,
+
+Resp:
+Chest occasionally coarse in uppers, diminished in bases, weaned to SIMV+PS, paremeters still being manipulated to achieve optimal ABGs.  See CareVue.  Trach site continues to ooze slightly, particularly after coughing.  Vigorous productive cough.  Cuff leak persists.  No palpable subcutaneous air.
+For possible future further intervention for trach.
+
+Hemodynamically:
+SR although more tachycardic throughout day.  Initially managing  pt with nicardipine for SBP 160-180.  Goal BP changed several times today.  Now tolerating SBP 140s post HD.  
+Mild peripheral edema.  Warm and well perfused.  Good bruit and thrill in left arm fistula.  Pt diaphoretic with coughing.  Low grade fever only.
+
+Neuro:
+Calm and cooperative today.  Dozing intermittantly.  Wakes easily, trembles spontaneously and with deliberate movements.  WIll obey commands x4.  Lifts arms and moves legs on bed.  Full EOMs.  PEARL.  Pain at trach site and A-line site occasionally bothering pt.  PRN fentanyl and midazolam with good effect.  
+CT brain and EEG attended.
+Dilantin loaded 1500mg.
+
+Endocrine:
+Normoglycemic.
+
+Electrolytes:
+Phosphate elevated, team aware, no intervention as yet.
+K normal pre-HD.
+
+Fluids:
+LR discontinued on commencement of shift.  NS at TKVO only.
+
+GI:
+Abd distended, soft, good bowel sounds.  Pt had oral gastric tube until 1900hrs when he coughed and gagged vigorously and expelled it. 
+
+ID:
+Low grade fever.
+Antibiotics infusing post dialysis.
+Vanco trough level sent prior to HD.
+
+Renal:
+No urine output since dialysis commenced.  Foley insitu.  Pt was voiding pre HD.  3500mls dialysed off.
+
+Skin:
+Intact.  No issues.
+
+Social:
+Family in to visit.
+
+Plan:
+For transfer to Micu-A.
+For LP tonight.
+Continue to monitor.
+Continued support for family.
+Replace gastric tube. 
+",,
+5911,17935,7371,,3280-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-17**] 5:13 PM
+     UNILAT UP EXT VEINS US LEFT PORT                                Clip # [**Clip Number (Radiology) 15311**]
+     Reason: FEVERS, R/O SEPTIC THROMBOSIS FROM AVF
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with ESRD on HD, htn, p/w altered MS & fevers                   
+     REASON FOR THIS EXAMINATION:
+      r/o septic thrombosis from AVF                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End stage renal disease on hemodialysis.  Presents with altered
+     mental status and fevers.
+     
+     LEFT UPPER EXTREMITY ULTRASOUND:  [**Doctor Last Name **] scale doppler sonograms were performed
+     of the left subclavian, axillary, brachial, basilic and cephalic veins. Normal
+     flow, compressibility, augmentation, and waveforms were demonstrated. No
+     intraluminal thrombus was identified.  Color flow and doppler waveforms of the
+     AV fistula in the antecubital fossa are unremarkable with patency
+     demonstrated.
+     
+     IMPRESSION
+     
+     1.  No evidence of DVT.
+     2.  Patent AV fistula.
+
+",,
+5911,17935,7371,0,3280-08-17 02:41:00 EST,3280-08-17 02:47:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt presents on vent settings of SIMV with pressure support via #7 Portex trach. Large cuff leak. BS coarse with a strong forceful cough. Suctioned for copious thick bloody secretions from trach and copious oral secretions. See careview for settings. Plan: wean as tolerated
+",,
+5911,17935,7371,0,3280-08-17 05:11:00 EST,3280-08-17 05:39:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Brief Hx: Pt is a 60 y/o m with a PMH of ETOH/cocaine abuse, HTN, ESRD on HD TIW,Prostate Ca, Hep C positive. Pt was in ush until a couple of days ago began to feel unwell/sluggish and was brought in to [**Hospital **] hosp where he suffered what appeared to be a seizure and fell in parking lot. Episodes of confusion and agitation while at VA.  Transferred to [**Hospital1 **] where a CT was positive for small hematoma. Attempt to intubate for airway protection was unsuccessful so he was emergently trached. Trach is very tenuous and pt may go to OR for a new one today. Originally a pt of c/sicu transferred to MICU A at 2030.
+
+Neuro: Initial head CT positive for small subdural hematoma. Repeat CT was stable. EEG done today. Sedated with versed and fentanyl prn for procedures today. Intermittently follows commands. MAE  Occasionally able to make needs known by mouthing words. Episode of agitation at 0200 with dramatic increase in B/P to 250 systolic. Requiring sedation with 20mcg/kg/min of propofol. Currently on 10mcg as higher dose lowers SBP to 90's. Goal B/P is 140-180 for brain perfusion. However, on [**Name8 (MD) **] MD said lower b/p's are ok for now and will reassess at rounds. Loaded with dilantin today as well. Level pending. No sz activity noted this shift. Neuro service to perform diagnostic LP. 
+
+Cardiac: NSR on monitor with no ectopy. B/P's somewhat labile. Will drop to low 100's systolic then bounce up to 150's with minimal stimulation. Goal SBP's 140-180. Got Nicardipine earlier today for HTN currently off. HR wnl. Echo done to assess for pericarditis done yet to be read. 
+
+Resp: On SIMV vent 12x600/40%/5/5pp. Lung sounds rhonchorous at times. Suctioned x 3 for moderate amts of bloody sputum. Sample sent for c+s. o2 sats 100% Couldn't intubate in ER so got emergent trach. Trach is very tenuous. sutured in place. Weeps blood and sputum occasionally. May go to OR for replacement. Very strong cough.  
+
+GI: abd obese. hypoactive bowel sounds. Had ogt but was ejected during a coughing episode prior to coming to unit. MD aware will not replace until it is decided whether or not he will go to OR. FS this am 131. 
+
+GU: U/O low throughout shift between 0-20cc/hr. ESRD. Gets HD three times a week. Had HD yesterday 3.5L taken off. Has fistula in L forearm with + bruit. pressure dressing to stay on until next HD treatment. Usually has HD on saturdays. 
+
+ID: Afebrile, on prophylactic [**Name6 (MD) 1620**] as MD's believe etiology of decreased MS, sz, and lethargy to be either infectious (meningitis) or metabolic and not the result of the hematoma. Awaiting diagnostic LP. WBC 8.8
+",,
+5911,17935,7371,0,3280-08-17 14:56:00 EST,3280-08-17 15:02:00 EST,1851,"N",69,"Nursing/Other",,"
+
+Resp care: Pt remains intubated via # 7 fenestrated Portex trach. Inner cannula in. Lg positional cuff leak noted. Pt talking around trach. BS bilat E wheezes. MDI's initiated w/ gd effect. Sx'd reg for mod amts thick yellow sputum.  Pip/plat=30/17. Changed to PSV. ABG pending. Please see carevue for further vent inquiries. 
+",,
+5911,17935,7371,0,3280-08-17 17:46:00 EST,3280-08-17 18:10:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900;
+
+LP PERFORMED AFTER SEVERAL ATTEMPTS CLEAR FLUID DRAINED LESS THAN 5MLS.PER NEURO TEAMS. OPENING PRESSURES 33, PT SEDATED WITH PROPOFOL AND FENTENYL FOR PROCEDURE WHICH WAS COMPLETED AT 3 15 PT ABLE TO MOVE LOWER LIMS SPONTANEOUSLY NOTHING AS YET TO COMMAND.
+
+NEURO; OPENS EYES SPONTANEOUSLY INCONSISTENTLY FOLLOWS SIMPLE COMMANDS APPEARS TO WAX AND WANE IN RESPONSES. ABLE TO SHOW 2 FINGERS ON RT HAND OCCASSIONALLY.ABLE TO TALK AROUND TRACH CONFUSED ASKING TO HAVE THE ALARM TURNED OFF GIVEN LORAZEPAM 1 MGS I..V AT 8AM WAS GOING TO GIVE SOME MORE AT 2PM BUT PROPOFOL AND FENTANYL GIVEN FOR LP. PT SLOWLY AWAKENING FROM PROCEDURE.
+ 
+RESP; LUNG SOUNDS  COASRE WITH INS/EXP WHEEZE STARTED ON ABL MDI;STS 95-97% CHANGED FROM SIMV TO CPAP WITH PS 12 AT 1600 ABG PENDING. SUCTIONED FOR MOD AMOUNTS PINK TINGED SECRERTIONS MIN BLOOD AND SPUTUM DRAINING AROUND TRACH. LEAK PERSISTS ALLOWING PT TO TALK. AT TIMES.
+SEEN BY SURGICAL TEAM WHO  DID TRACH. THEY ARE HOPING THAT PT WILL ONLY NEED TRACH FOR 4-5 DAYS AND WILL BE ABLE TO REMOVE TRACH. IF PT NEEDS VENT WILL  PROB TAKE PT TO OR TO REVEIW TRACH.
+
+CVS; TMAX 100.3 PO NSR 80 BP LESS LABILE  104-135/70 UPTO 175 WITH INCREASING AGITATION PRIOR TO LP.
+
+GU; MIN U/O PT OLIGURIC AT BASELINE.
+
+GI; PT MEDS CHANGED TO I.V OR S/C/IM.
+
+SOC; SISTER ZETTA AND VARIOUS FAMILY MEMBERS INTO VISIT AND UPDATED WITH PT,S CURRENT CONDITION AFTER SOME DISCUSSION ZETTA GAVE PERMISSION FOR LP [**Last Name (un) 107**] PERFORMED AND HAVE GONE HOME MAY RETURN TO VIIT THIS EVENING.
+
+",,
+5911,17935,7371,0,3280-08-18 04:53:00 EST,3280-08-18 05:06:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Reveiw of Systems:
+
+Neuro: Pt slept most of night, but easily woken and then following commands consistantly. MAE on bed and raising L arm occas. Pupils remain pinpoint/brisk. No seizure activity or tremors, no diaphoresis. No C/O HA post LP. 
+
+Resp: Pt rec'd on Vent settings PS 14/peep 5 /40%. PS-> 10, with following ABG 7.38/47/131. PS again reduced to 5 with ABG pndg. RR 16-23 and regular. Lungs with coarse breath snds throughout. 
+
+CV: Afebrile. HR 69-77SR without ectopy. BP 125/62-138/69. CVP 8-10. 
+
+GI: Pt remains NPO. Bowel snds present, no stool this shift. 
+
+GU: Urine output 8-15ml/hr yellow/clear. 
+
+Social: Family called X2 overnight re pt's condition.
+
+Plan: Cont to wean from vent with possible trach mask today. ? begin nutrition.
+
+
+",,
+5911,17935,7371,0,3280-08-18 15:58:00 EST,3280-08-18 16:02:00 EST,1999,"N",69,"Nursing/Other",,"
+
+Resp. Care:
+pt. remains trach'd and on vent. support-minimal settings [**4-10**] 40%.  Please see flow sheet for information.  Albuterol given q4-6.  Pt. needing freq. sx'ng.
+",,
+5911,17935,7371,0,3280-08-18 16:50:00 EST,3280-08-18 16:51:00 EST,2058,"N",69,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE SEE CAREVIEW FOR DETAILS.
+
+NEURO:AWAKENS WITH STIMULATION,FOLLOWS COMMANDS BUT NOT CONSISTENTLY.PUPILS 2MM TO PINPOINT PERL.OPENS EYES TO COMMAND,WILL OPEN MOUTH TO COMMAND,MOVES EXTRMITIES MOST OF THE TIME SPONTANEOUSLY.MOUTHS WORDS FOR COMMUNICATION.CIWA SCALE IS FOLLOWED DIFFICULT TO ASSES DUE TO PT BEING TRACHED.UNABLE TO ANSWER MOST QUESTIONS,NOT SURE IF PATIENT IS ORIENTED.WILL ASK TO HAVE HIS EYES WIPED.
+
+CV:BP HAS BEEN VARIABLE WITH STIMULATION.DR [**Last Name (STitle) 1621**] HAS BEEN NOTIFIED OF VARIABLE BP WAS GIVEN LOPRESSOR IV,THEN CHANGED TO HYDRALAZINE IV FOR BP CONTROL.REMAINS IN NSR HR 60 TO 70 WITHOUT ECTOPY.BOTH FEET WARM TO TOUCH WITH PALPABLE DP AND PT PULSE PRESENT.
+
+RESP:TRACH SUCTIONED FOR  COPIOUS TAN SECRETIONS.REMAINS ON CPAP WITH 5CM OF PEEP AND 5CM OF PRESSURE SUPPORT.FIO2 40%,RESP RATE 2O WITH SPO2 99 TO 100%.HAS REQUIRED FREQUENT SUCTIONING WITH VERY STRONG COUGH.
+
+GU:FOLEY TO CD DRAINING SMALL AMOUNTS OF CLEAR YELLOW URINE.RENAL AWARE THAT IV RATE IS AT 100CC/HR.PT TO HAVE DIALYSIS TOMORROW.HAS GOOD BRUIT AND THRILL PRESENT.
+
+SKIN:INTACT WITH NO SIGNS OF BREAKDOWN OR REDNESS.
+
+ENDOCRINE:BLOOD SUGAR FOLLOWED BY SLIDING SCALE INSULIN.
+
+SOCIAL:SISTER ZETTA WAS IN TO VISIT TODAY AND WAS UPDATED ON PLAN OF CARE BY DR [**Last Name (STitle) 1621**].
+",,
+5911,17935,7371,,3280-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-19**] 6:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15312**]
+     Reason: s/p OG tube placement, please evaluate placement            
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           60 year old man with sdh, and HD dependent ESRD                            
+     REASON FOR THIS EXAMINATION:
+      s/p OG tube placement, please evaluate placement                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  OG tube placement.
+     
+     COMPARISON:  [**3280-8-16**].
+     
+     FINDINGS:  Tracheostomy tube and right subclavian central venous line are
+     unchanged.  There is an orogastric tube, the tip of which reaches the stomach.
+     The heart size and tortuous aorta are stable.  Slight increased density is
+     seen in the perihilar regions compared to the prior study.  There is no focal
+     infiltrate, pleural effusion, or pneumothorax.
+     
+     IMPRESSION:  OG tube overlies the stomach.
+
+",,
+5911,17935,7371,0,3280-08-19 02:55:00 EST,3280-08-19 03:00:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains trached with #7 trach, cuff inflated leaks only when pt coughs or tries to speak. No vent changes overnight. Suctioned for copious amounts of thick tan to yellow secretions. MDI administered for wheezes. Will continue to follow.
+",,
+5911,17935,7371,0,3280-08-19 04:59:00 EST,3280-08-19 05:14:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: Pt remains lethargic, sleeping unless woken. When woken, often combative, uncooperative. Bilat soft wrist restraints remain in place. Pupils remain pinpoint/brisk. MAE on bed with good strength in UE, L>R. Pt occas diaphoretic, but no tremors noted. Unable to assess level of orientation, or whether pt is having any type of hallucinations. 
+
+Resp: Pt has remained on Vent settings PS 5/+5/40%, RR 16-23 and regular. Sating 98-100%. Lungs coarse, diminished @ bases. Suctionned freq for copious amts yellow/tan thick secretions. pt with strong cough. Audible cuff leak when pt coughs, speaks. AM ABG 7.34/44/117.
+
+CV: HR 73-87SR without ectopy. BP 122/45-146/53. However, with any pt care, SBP>200. CVP 6-8.
+
+GI: Pt remains NPO. Abd distended/soft with bowel snds hypoactive/present. No stool, however pt passing flatus. FSG not requiring insulin coverage by sliding scale.
+
+GU: Urine yellow/clear @ 10-30ml/hr out. Fluid balance @ MN +1231ml, with LOS balance -1007. Pt to be dialyzed today.
+
+Plan: ? transiton to trach mask today. Cont aggressive pulm toilet. HD today. 
+",,
+5911,17935,7371,0,3280-08-19 15:30:00 EST,3280-08-19 15:30:00 EST,2931,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt returned to PSV this a.m.-parameters noted.  Suction a mod amt of thick white secretions.  Albuterol MDI x 3.  Will continue mech vent at this time.
+
+",,
+5911,17935,7371,0,3280-08-19 16:51:00 EST,3280-08-19 17:13:00 EST,5283,"N",69,"Nursing/Other","MICU Progress Nursing Note 0700-1900","
+MICU Progress Nursing Note 0700-1900
+See carevue for all objective data.
+
+General: Dialysis in progress today.  CT scan of neck scheduled for this evening for further evaluation of enlgd thyroid and prevertebral mass, as shown on xray.
+
+Neuro:  Remains lethargic, however arouses spontaneously and to voice.  Answers questions with headnods and mouthing words.  This afternoon seems to be somewhat oriented.  Pt recognizes sister.  Moves all extremeties in bed.  Earlier this am BP increased with pt being awake, however this afternoon BP ok.  
+
+Resp:  Continues to be trached and vent now on PSV 10, peep 5.  Tolerating well, post ABG 7.35/137/24.  Suctioned for copious amt thick, white secretions.  O2 sats 97-100.  Bilat LS clear/coarse with diminshed at bases.  Very strong cough.  Audible cuff leak.
+
+CV:  BP increased in am, 5mg IV Lopresor given with good effect.  BP now 140's-150's/70's.  NSR, HR 60's-80's, no ectopy.  On BP meds pre admission- possible start after OGT plcmt.
+
+GI:  OGT placed this pm, awaiting cxray to confirm plcmt.  Tf to begin and anticipation of PO meds.  + BS, +flatus, no BM this shift.
+
+GU:  Dialysis today.  Tolerating well.  Early into dialysis-dialysis clotted off- resulting in loss of approx 1 Unit blood.  Hct remained stable-no intervention necessary.  Abx on hold until post dialysis.  Small amts UO.
+
+ID: FS WNL: Not requiring insulin per SS.
+
+Social: sister zetta in to visit today. very supportive.
+
+Plan:  F/U CXR for plcmt OGT- then initiate TF.
+       CT scan of neck/ ? plan for mass in neck
+       Aggressive pulm toilet
+       ? continue weaning vent
+       
+       
+
+
+
+
+",,
+5911,17935,7371,,3280-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-20**] 2:44 AM
+     CT NECK W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 15315**]
+     Reason: Please eval mass seen on prior CT.                          
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with CRI req HD s/p sz ?toxic-metabolic.                        
+     REASON FOR THIS EXAMINATION:
+      Please eval mass seen on prior CT.                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate thyroid mass seen on prior CT.
+     
+     COMPARISON:  [**3280-8-15**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the neck were
+     performed before and after the administration of IV Optiray.  Non-ionic
+     contrast was used secondary to patient's debilitation.
+     
+     CT OF THE NECK BEFORE AND AFTER THE ADMINISTRATION OF IV CONTRAST:  The
+     patient has undergone a tracheostomy since the prior study. The tracheostomy
+     obscures visualization of the previously described thyroid abnormality. There
+     is diffuse enlargement of the thyroid gland including the isthmus, which
+     extends to the suprasternal notch, findings suggestive of a thyroid goiter. No
+     focal nodules or masses are definitively seen, and there are no areas of
+     abnormal enhancement within the neck.  Nasogastric tube is present within the
+     esophagus.  There is partial opacification of both maxillary, ethmoid, and
+     sphenoid sinuses.  The vertebral arteries, common carotid arteries, and
+     internal carotid arteries all appear patent.  Visualized lung apices are
+     clear.  Surrounding osseous and soft-tissue structures are within normal
+     limits.
+     
+     IMPRESSION:  Previously identified abnormality described within the thyroid is
+     not well visualized secondary to interval tracheostomy.  There is diffuse
+     enlargement of the thyroid gland consistent with goiter.  An ultrasound can be
+     performed of the thyroid when the patient is clinically stable to further
+     evaluate the thyroid.
+     
+     
+
+",,
+5911,17935,7371,,3280-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-20**] 2:44 AM
+     CT NECK W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 15315**]
+     Reason: Please eval mass seen on prior CT.                          
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with CRI req HD s/p sz ?toxic-metabolic.                        
+     REASON FOR THIS EXAMINATION:
+      Please eval mass seen on prior CT.                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate thyroid mass seen on prior CT.
+     
+     COMPARISON:  [**3280-8-15**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the neck were
+     performed before and after the administration of IV Optiray.  Non-ionic
+     contrast was used secondary to patient's debilitation.
+     
+     CT OF THE NECK BEFORE AND AFTER THE ADMINISTRATION OF IV CONTRAST:  The
+     patient has undergone a tracheostomy since the prior study. The tracheostomy
+     obscures visualization of the previously described thyroid abnormality. There
+     is diffuse enlargement of the thyroid gland including the isthmus, which
+     extends to the suprasternal notch, findings suggestive of a thyroid goiter. No
+     focal nodules or masses are definitively seen, and there are no areas of
+     abnormal enhancement within the neck.  Nasogastric tube is present within the
+     esophagus.  There is partial opacification of both maxillary, ethmoid, and
+     sphenoid sinuses.  The vertebral arteries, common carotid arteries, and
+     internal carotid arteries all appear patent.  Visualized lung apices are
+     clear.  Surrounding osseous and soft-tissue structures are within normal
+     limits.
+     
+     IMPRESSION:  Previously identified abnormality described within the thyroid is
+     not well visualized secondary to interval tracheostomy.  There is diffuse
+     enlargement of the thyroid gland consistent with goiter.  An ultrasound can be
+     performed of the thyroid when the patient is clinically stable to further
+     evaluate the thyroid.
+     
+     
+
+",,
+5911,17935,7371,,3280-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-20**] 2:43 AM
+     CT HEAD W/ CONTRAST                                             Clip # [**Clip Number (Radiology) 15314**]
+     Reason: please eval for interval change                             
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with AMS, fevers, SDH                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm TUE [**3280-8-20**] 5:51 AM
+      No change left SDH
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Fever and subdural hemorrhage.  Evaluate for interval change.
+     
+     COMPARISON: [**3280-8-16**].
+     
+     TECHNIQUE:   Head CT without contrast.
+     
+     FINDINGS:  There is an unchanged appearance of the subdural hemorrhage seen on
+     the superior surface of the left side of the tentorium and falx.  No new areas
+     of hemorrhage are visualized. The ventricles are stable in size.  There is no
+     shift of normally midline structures.  The opacification of the ethmoid,
+     sphenoid, frontal and maxillary sinuses are stable.
+     
+     IMPRESSION:
+     
+     Unchanged appearance of the left tentorial subdural hemorrhage.
+     
+
+",,
+5911,17935,7371,,3280-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-20**] 9:12 AM
+     UNILAT UP EXT VEINS US RIGHT PORT                               Clip # [**Clip Number (Radiology) 15316**]
+     Reason: RUE SWELLING, PLEASE EVAL FOR DVT
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with ESRD on HD, htn, p/w altered MS & fevers. His AVF is in 
+      the left upper extremity.                  
+     REASON FOR THIS EXAMINATION:
+      please eval for DVT                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND OF THE UPPER EXTREMITY VEINS.
+     
+     INDICATION:  Arm swelling.
+     
+     TECHNIQUE:  Doppler sonography of the upper limb veins was performed.
+     
+     The right internal jugular vein, subclavian vein, axillary vein, brachial vein
+     ,caphalic and basilic veins are clearly identified.  These show normal color
+     flow patterns,normal Doppler signal on Doppler interrogation and show normal
+     compressibility where appropriate.  No evidence of thrombosis is identified.
+     
+     CONCLUSION:
+     
+     Normal Doppler ultrasound of right upper limb.
+     
+
+",,
+5911,17935,7371,,3280-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-20**] 1:56 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 15313**]
+     Reason: please eval for infiltrates                                 
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          60 year old man with sdh,s/p intbation                                      
+           
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrates                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of subdural hematoma and NG tube placement.
+     
+     NG tube is in the distal body of the stomach.
+     
+
+",,
+5911,17935,7371,0,3280-08-20 04:00:00 EST,3280-08-20 04:37:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT HAD A STEADY NIGHT. PT STRTED TO HAVE MORE FREQUENT EPISODES OF AGITATION, HTN. ?REASONS WHY. TEAM DOES NOT WISH TO GIVE PT ANY BENZO'S AT THIS TIME. PT PLACED ON PROPOFOL GTT. PT HAD CT OF HEAD AND NECK. PT ALSO SPIKED A TEMP 101.2, PAN CULTURED. 
+
+NEURO: PT RECEIVED NONSEDATED, ALERT, INTERMTENTLY FOLLOWING COMMANDS. KNODING HEAD YES/NO TO QUESTIONS. PT HAD 2 EPISODES WHERE HE BECAME AGITATED W/PT CARE, HTN 200'S, BANGING ON BED. PT WOULD [**Doctor Last Name 1622**] OUT ON HIS OWN IN ~5 MIN TO WHICH HE APPEARED ASLEEP AND DIFFICULT TO AROUSE. PT WAS GIVEN 2MG IV HALDOL IN ATTEMPTS TO PREVENT THIS EPISODES. AT 2400 W/ NO STIMULATION, PT AGAIN BECAME AGITATED, HTN 220. PT GIVEN 2MG IV HALDOL. TEAM DOES NOT WANT TO GIVE PT BENZO'S/NARCS DUE TO MENTAL STATUS. NOT SURE CAUSES OF THE ACUTE EPISODE, TEAM DOES NOT FEEL IT IS WITHDRAWL. PT PLACED ON LOW DOSE PROPOFOL TO BE ABLE TO MANAGE PT AND PROVIDE CARE WITH OUT CAUSING DISCOMFORT. PT CURRENTLY ON 15MCG/KG/MIN PROPOFOL GTT W/ BOLUSES FOR EPISODES OF AGITATION AND REPOSITIONING. QTC.3. PT HAD CT OF HEAD AND CT OF NECK OVERNIGHT. 
+
+RESP: NO CHANGES MADE ON VENT. PT CONT ON PS 10/5 40% RR 9-28. O2 SATS 100%. AM ABG 7.41/46/147. PT SUCTIONED FOR COPIUS AMTS TENATIOUS TELLOW SECREATIONS. PT IS VERY SENSITIVE TO ANY MVT OF HIS TRACH. PT CONT TO OLD BLOOD OOZING FROM AROUND TRACH.  
+
+CV: HR 68-90 NRS, NO ECTOPY. SBP 100-240. PT CONT ON HYDRAL ROUTINE. PT HTN W/ AGITATION. PT SBP TOLERATES PROPOFOL. PT SPIKED TEMP 101.2 ORAL. PAN CULTURED. PR TYLENOL GIVEN. PT'S RIGHT ARM IS GROSSLY EDEMATOUS, MORE SO THAN THE LEFT. TEAM AWARE. US ORDERED FOR TODAY. ARM ELEVATED ON PILLOWS. PT HAD PIV IN IN RIGHT HAND, D/C'D. 
+
+GI/GU: ABD SOFT/DISTENDED, +BS, NO BM. PT RECEIVED W/ NEWLY PLACED OGT, WHICH PT COUGHED AND TOUNGED OUT. NGT PLACED BY MD, CONFIRMED BY XRAY. TF STARTED NEPRO AT 10CC/HR. GOAL IS 40CC/HR. FOLEY INTACT DRAINING SCANT AMT YELLOW URINE W/SEDIMENT. PT HAD LAST HD [**8-19**]. 
+
+DISPO: CONT TO MONITOR MS, ? CAUSE OF THESE ACUTE EPISODES. PLAN IS TO ATTEPT PT ON TRACH MASK TODAY, ?WILL TOLERATE W/ THIS EPISODES. US OF RIGHT EXTREMITIE. CT RESULTS PENDING. PT'S SISTER CALLED OVERNIGHT FOR UPDATE. PT IS A FULL CODE. 
+
+
+",,
+5911,17935,7371,0,3280-08-20 04:59:00 EST,3280-08-20 05:05:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains trached ,on PSV see care view for parameters. Travel to CT overnight uneventful,tolerated well. BS coarse, suctioned for copious amount thick white to yellow secretions, Pt also has a very forceful cough.Plan: wean as tolerated.
+",,
+5911,17935,7371,0,3280-08-20 14:32:00 EST,3280-08-20 15:18:00 EST,6185,"N",69,"MD Notes",,"
+
+nursing progress note [**3280-8-20**] 0700-1900
+
+Pt had a quiet day. Extubated, oob in chair and seems to be improving if only slightly, concerning mental status changes.
+
+Neuro: Pt a/o x2 most of shift. Responded to some verbal commands, had eyes open often, PERLA, was able to communicate with sister for short periods with mouthing words and/or head nodding. Arm restraints removed without problems. Pt only agitated once this shift and that was early when doing initial assessment.
+
+CV: Pt hemodynamically stable. BP 140's-170's systolically, HR in 70's-80's. Pt had one episode when BP up to 213 while pt resting, but shortly decreased to baseline. No ectopy or any type of distress noted- did not become diaphretic or appear to be anxious. Pt still with R arm edema-ultra sound - results pending. Peripheral pulses palpable, good skin color and turger.
+
+Resp: Pt extubated this AM without difficulty. Pt currently 35% o2 via trach mask. Last blood gas @ 1030 am was 7.39-45-151-28. Pt suctioned a couple of times for thick, white secretions. Pt also noted to have a strong, productive cough. RR 14-28- and reg-no use of accessory muscles noted. O2 sats 98-100%
+
+GI/GU: Pt not stooling. Started bowel meds today. BS positive in all quadrants. Nepro running at 20 cc/hr via NG tube with a goal of 40/hr 5cc residual noted. Positive placement. Pt has foley cath with minimal output this shift. Pt to be dialyzed tomorrow. BUN and creatnine  elevated which is baseline for pt.
+
+Social: Sister in this afternoon. Pt did interact with her for short periods. Sister to meet with S.W. to discuss aftercare.
+
+Plan: Pt to continue with antibiotic regime for the possibility of meningitis. Continue to monitor neuro status. Results of throat CT still pending. Continue to monitor resp status. To be seen by speech for swallow eval. Speech attemted to see pt today but pt could not tolerate inflation of cuff- too many secretions.
+
+",,
+5911,17935,7371,0,3280-08-20 15:49:00 EST,3280-08-20 15:50:00 EST,2931,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt taken off vent and placed on 50% aerosol mask this a.m.  Tol very well.  Breath sounds are essentially clear bilat.
+",,
+5911,17935,7371,0,3280-08-21 04:04:00 EST,3280-08-21 04:36:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT AGAIN HAD EPISODES OF EXTREME AGITATION. TEAM AT THIS TIME ?SUNDOWNING EFFECT. PT HAS REMAINED OFF VENT THROUGH OUT NIGHT.
+
+NEURO: PT AT 2000 BECAME EXTREMELY AGITATED, PULLING THING OSS, KICKING, THRASHING AROUND. PT RESTRAINED. SBP 220, EPISODE LASTING ~10MIN. PT DID START TO CALM DOWN ON HIS OWN. PT WAS THEN MEDICATED W/ 2.5MG IV HALDOL. PT AGAIN 2330 BECAME AGITATED. MEDICATED W/5MG IV HALDOL. THROUGH OUT NIGHT PT CALM, SEDATED, AROUSABLE. NOT FOLLOWING COMMANDS. MAE, PUPILS EQUAL 2MM BRISK. LAST QTC .4. 
+
+RESP: PT HAS REMAINED ON TRACH COLLAR AT 35%. O2 SATS 93-99%. LS COARSE/DIMINSHED. PT HAS A STRONG PRODUCTIVE COUGH. PT ABLE TO COUGH UP AND OUT SECREATIONS, PALE YELLOW/WHITE TENATIOUS.    
+
+CV: HR 54-90 NSR. SBP 120-240'S. SBP ELEVATED W/ AGITATION. TMAX 99.4. PT CONT ON PO HYDRALAZINE AND LOPRESSOR.     
+
+GI/GU: ABD SOFT, +BS, NO BM. PT CONT ON TF NEPRO AT GOAL 40CC/HR VIA NGT. FOLEY INTACT DRAINING SCANT AMT YELLOW URINE.PT IS DUE FOR HD TODAY.      
+
+DISPO: PLAN FOR HD TODAY. CONT TO MONITOR MENTAL STATUS. NO CONTACT FROM FAMILY. PT IS A FULL CODE. 
+",,
+5911,17935,7371,0,3280-08-21 17:06:00 EST,3280-08-21 17:15:00 EST,2487,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1930:
+  Pt had stable day, period of mild agitation around 11 am with hypertension, movement of arms.  It probably would have resolved without intervention, but pt being dialyzed at the time and fistula needle at risk for dislodgement.  2.5 mg IV haldol administered with early dose of lopressor--pt slept well with normal BP for rest of the afternoon.  Per neuro, haldol now d/c'd and pt to get geodon (new antipsychotic) for agitation.  Pt in ICU overnight for management of agitation.
+
+  Neuro:  Except for episode noted above, pt somnulent and lethargic for the day.  He usually opens eyes to voice, but he rarely follows commands or interacts by nodding.  Pt able to move all extremities ? L side ? R side.  Pt hoyered into chair X 3 hours after dialysis today.
+
+  CV:  Afebrile.  Pt in NSR rate 60's-70's.  No ectopy.  BP stable, but hypertensive to 190's when agitated and due for his lopressor.  3 L taken off in HD today.  
+
+  Pulm:  Pt on 35% TM X 36 hours.  RR low 20's.  Forceful, productive cough.  Pt only suctioned X 1-2 times today to clear out the very end of his trach.  He has a very strong cough and is able to manage most of his secretions.  Lungs course.  Secretions clear-white and tenacious.
+
+  GI:  TF at goal of nepro at 40 cc/hr.  Promod added today, rate is the same.  No residual.  No BM after dulcolyx and senna prn today--only clear foul smelling mucous.  Will try increased bowel regimen in am.
+ 
+  GU:  FOley to gravity.  UOP scant.  
+
+  Skin:  Intact.  
+
+  Family:  Pts sister, Zetta, into visit this afternoon.  She does not want information to be given to anyone except for her.  
+",,
+5911,17935,7371,0,3280-08-22 03:27:00 EST,3280-08-22 03:36:00 EST,2610,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+PT HAD A QUITE NIGHT, NO EPISODES OF AGITATION. 
+
+NEURO: PT ALERT, INCONSISTENTLY FOLLOWING COMMANDS. PT MOUTHING WORDS AND KNODING HEAD Y/N. NO SEDATION MEDS GIVEN OVERNIGHT. NO EPISODES OF AGITATION. PT DOSE APPEAR RESTLESS AND ANGRY AT TIMES. 
+
+RESP: PT CONT ON TRACH MASK 35%. PT IS ABLE TO COUGH UP AND OUT SECREATIONS. WHITE TENATIOUS, MODERATE AMT. PT SUCTIONED TO HELP CLEAR OUT TRACH. O2 SATS 97-100%. 
+
+CV: HR 60-70'S NSR, NO ECTOPY. SBP 130-190'S. WHEN PT AWAKE AND RESTLESS SBP ELEVATED. PT AFEBRILE. AM LABS PENDING. 
+
+GI/GU: ABD SOFT, +BS. PT HAD SMALL LOOSE GOLDEN STOOL. SPEC SENT FOR CDIFF. TF CHANGED TO NEPRO W/PROMOD AT GOAL 40CC/HR VIA NGT. FOLEY INTACT DRAINING SCANT AMTS URINE. 
+
+DISPO: PLAN IS TO CONT TO MONITOR MENTAL STATUS, RESP STATUS. NEXT HD FRIDAY. ? IF PT WILL BE GOING TO VA. WILL NEED TO FOLLOW UP ON THIS TODAY. PT'S NIECE IN TO VISIT DURING THE EVENING. PT IS A FULL CODE. 
+",,
+5911,17935,,,3280-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-25**] 5:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15319**]
+     Reason: Is NG tube in stomach?                                      
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             60 year old man with sdh, and HD dependent ESRD, requires NG for meds 
+      and feeds.                            
+     REASON FOR THIS EXAMINATION:
+      Is NG tube in stomach?                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST 1 VIEW PORTABLE:
+     
+     INDICATION: 60 y/o man with SDH. End stage renal disease.
+     
+     COMMENTS: Portable AP radiograph of the chest is reviewed, and compared with
+     the previous study of [**3280-8-19**].
+     
+     Tip of the NG tube is identified in the gastric fundus. There is continued
+     cardiomegaly. The tracheostomy tube and right subclavian IV catheter remain in
+     place. No pneumothorax is seen. There is no evidence of congestive heart
+     failure. Again note is made of mild tortuosity of the thoracic aorta.
+     
+     IMPRESSION: Continued cardiomegaly. The tip of the NG tube in the gastric
+     fundus.
+
+",,
+5911,17935,,,3280-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-25**] 1:22 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15317**]
+     Reason: r/o stroke                                                  
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old man with decreased mental status, ?seizure w/ SDH , now with new 
+      right arm weakness                
+     REASON FOR THIS EXAMINATION:
+      r/o stroke                                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+     WET READ: FKh MON [**3280-8-26**] 6:00 PM
+      Unchabged appeareance of right tentorial hemorrhage. Air fluid levels in the
+      sphenoid sinuses. Possible loss of grey white matter differentiation in the
+      left frontal lobe.
+      
+      MRI would be more sensive for the diagnosis of stroke. 
+     WET READ AUDIT #1 FKh SUN [**3280-8-25**] 2:25 PM
+      Unchabged appeareance of right tentorial hemorrhage. Air fluid levels in the
+      sphenoid sinuses.
+      
+      MRI would be more sensive for the diagnosis of stroke.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60-year-old with decreased mental status.  The patient is status-
+     post left subdural hemorrhage in the tentorium.  The patient has new right arm
+     weakness.
+     
+     COMPARISON:  [**3280-8-20**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Again noted a bovine subdural hemorrhage in the left tentorium.
+     There is no evidence of new hemorrhage.
+     
+     There is subtle loss of the [**Doctor Last Name 20**]/white matter differentiation in the left
+     frontal lobe. There is no shift of the midline structures, hydrocephalus, or
+     vascular territorial infarcts. The ventricles and air spaces are unchanged in
+     size. The cisterns and sulci are preserved.  Bone windows show thickening of
+     the bilateral maxillary sinuses (left greater than right), thickening of the
+     mucosa of the ethmoid sinuses, and air-fluid levels in the bilateral sphenoid
+     sinuses. There is interval resolution of the air-fluid levels in the right
+     maxillary sinuses, but the air-fluid levels in the sphenoid sinuses are
+     unchanged.  The air cells are normally aerated.  There is no evidence of
+     fractures.
+     
+     IMPRESSION
+     1.  Stable appearance of the left tentorial subdural hemorrhage. There is no
+         evidence of new hemorrhage.
+     2. There is subtle loss of the grey-white matter differentiation in the left
+     frontal lobe. Recommend MRI with DWI.
+                                                                 (Over)
+
+     DATE: [**3280-8-25**] 1:22 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15317**]
+     Reason: r/o stroke                                                  
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Air-fluid levels in the bilateral sphenoid sinuses could represent acute
+         sinusitis in the right clinical setting.
+     
+     
+     The findings were discussed with [**Doctor Last Name 15318**].
+
+",,
+5911,17935,,,3280-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-26**] 12:51 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 15320**]
+     Reason: PRE-MRI SCREENING
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man requiring NG tube for feeds, meds.                              
+     REASON FOR THIS EXAMINATION:
+      Is NG tube in stomach?                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of NG tube placement.
+     
+     NG tube is not identified on this film which does not include the upper
+     abdomen and diaphragm.  Incidental note is made of a metallic foreign body
+     consistent with bullet overlying the soft tissues just lateral to the left hip
+     joint.
+
+",,
+5911,17935,,,3280-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-26**] 2:02 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15322**]
+     Reason: What is the nature of the lesion in the L frontal lobe.     
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with lesion in L frontal lobe on CT.  Please do DWI to r/o 
+      possible acute ischemia/infarct. Thank [**Doctor First Name 659**].
+     REASON FOR THIS EXAMINATION:
+      What is the nature of the lesion in the L frontal lobe.                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lesion in the left frontal lobe on CT.
+     
+     COMPARISON:  Head CT from [**3280-8-25**]
+     
+     TECHNIQUE: Multiplanar T1 and T2 weighted images along with diffusion weighted
+     images were performed.
+     
+     MRI OF THE BRAIN WITHOUT IV CONTRAST:  Study is markedly limited by patient
+     motion.  The diffusion weighted images however are of diagnostic quality and
+     there is no evidence of slowed diffusion present to indicate acute infarction.
+     There is evidence of susceptibility artifact consistent with a left subdural
+     hemorrhage tracking along the left tentorium, which is relatively unchanged
+     since the prior CT scan.  No other areas of susceptibility artifact is
+     demonstrated to indicate other areas of hemorrhage. There is no hydrocephalus
+     or shift of normally mid-line structures.  Tiny foci of T2 signal
+     hyperintensity are demonstrated within the left basal ganglia and right
+     periventricular white matter, consistent with prior lacunes.  Mucosal
+     thickening and fluid is demonstrated within both sphenoids, both maxillary,
+     and ethmoid air cells.  There is partial opacification of the left mastoid air
+     cells.
+     
+     IMPRESSION:  1) Severely limited study secondary to patient motion. Diffusion
+     weighted images are of diagnostic quality and indicate no gross acute
+     infarction present.
+     
+     2)  Left subdural hemorrhage layering along the tentorium, not significantly
+     changed in extent since the prior study.
+     
+     3)  Opacification of the sinuses and left mastoid air cells.
+
+",,
+5911,17935,,,3280-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-26**] 1:23 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 15321**]
+     Reason: please evaluate left hip for fragment                       
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with new lesion on head CT, need for MRI, but questionable 
+      bullet fragment in hip vs abdomen
+     REASON FOR THIS EXAMINATION:
+      please evaluate left hip for fragment                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate for metallic fragments prior to MR exam.
+     
+     A metallic foreign body consistent with a bullet overlies the soft tissues
+     lateral to the left acetabulum.  No lateral view provided.
+     
+
+",,
+5911,17935,,,3280-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-8-27**] 10:10 AM
+     SHOULDER [**1-9**] VIEWS NON TRAUMA RIGHT                             Clip # [**Clip Number (Radiology) 15323**]
+     Reason: ? rotator cuff injury                                       
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with decreased spontaneous movement and weakness of right upper 
+      extremity. 
+     REASON FOR THIS EXAMINATION:
+      ? rotator cuff injury                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Decreased spontaneous movement. Weakness.
+     
+     RIGHT SHOULDER AP, INTERNAL, EXTERNAL ROTATION: Due to patient's inability to
+     follow instructions, an axillary view was not able to be obtained.  The
+     obtained images are not true AP. Bones are normal in mineralization. There is
+     no fracture or dislocation. There is a catheter overlying the right superior
+     chest wall. Acromioclavicular and acromiohumeral joint spaces are within
+     normal limits.
+     
+     IMPRESSION: Limited evaluation. No gross abnormality.
+
+",,
+5911,17935,,,3280-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5911,,,,3280-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-20**] 8:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15325**]
+     Reason: r/o pneumonia                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with h/o SDH and seizures, ESRD on HD, now with new seizures    
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  60-year-old male with new seizures.  Evaluate for
+     pneumonia.
+     
+     TECHNIQUE:  Portable AP chest.
+     
+     COMPARISON:  Please note that the most recent study dated [**3280-8-24**], is not
+     on-line for comparison.
+     
+     FINDINGS:  The heart is at the upper limits of normal for size.  The aorta is
+     unfolded.  The pulmonary vasculature is not engorged.  The lungs appear
+     grossly clear.  No pleural effusions.  No fractures are identified.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia.
+
+",,
+5911,,,,3280-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-20**] 5:50 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15324**]
+     Reason: r/o new bleed                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with old SDH here with seizure and hypertension                 
+     REASON FOR THIS EXAMINATION:
+      r/o new bleed                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CCqc SUN [**3280-10-20**] 9:45 PM
+      no bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  60-year-old male with seizure and hypertension, and history
+     of a subdural hemorrhage.
+     
+     TECHNIQUE:  CT of the brain without intravenous contrast.
+     
+     COMPARISON: Ct [**3280-8-25**]
+     
+     FINDINGS:  There is no acute intracranial hemorrhage, mass effect, or shift of
+     the normally midline structures.  The previously identified subdural
+     hematoma. The ventricles and sulci are slightly prominent but symmetric,
+     compatible with involutional change. Bilateral basal ganglia lacunar infarcts
+     are unchanged.  Areas of low attenuation in the periventricular and
+     subcortical white matter are consistent with chronic microvascular ischemic
+     changes.  The [**Doctor Last Name 20**]/white matter differentiation is grossly preserved.  Osseous
+     structures are unremarkable. There is mucosal thickening of the ethmoid air
+     cells and aerosolized fluid within the left sphenoid sinus.
+     
+     IMPRESSION:  No acute intracranial hemorrhage, mass effect, or edema.
+     Resolution of previously noted subdural hematoma.
+
+",,
+5911,3437,,,3280-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-21**] 11:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15327**]
+     Reason: r/o pulmonary edema                                         
+     Admitting Diagnosis: SEIZURES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with h/o SDH and seizures, ESRD on HD, now with new seizures   
+       
+     REASON FOR THIS EXAMINATION:
+      r/o pulmonary edema                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  60 year old man status post subdural hematoma and seizures, end
+     stage renal disease on hemodialysis.
+     
+     COMPARISON:  [**3280-10-20**].
+     
+     AP CHEST:  There is cardiomegaly, and calcification in the aortic arch.  There
+     are bilateral perihilar opacities and diffuse increased interstitial markings
+     most consistent with pulmonary edema.  However, in a patient with a history of
+     seizures, massive aspiration is also in the differential. There is no
+     pneumothorax.
+     
+     IMPRESSION:
+     1.  Perihilar opacities with diffuse increased interstitial markings
+     consistent with pulmonary edema.  However, in a patient with a history of
+     seizures, massive aspiration is also in the differential, and clinical
+     correlation is recommended.
+     
+
+",,
+5911,3437,,,3280-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-21**] 7:14 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 15326**]
+     Reason: assess for ileus                                            
+     Admitting Diagnosis: SEIZURES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man requiring NG tube for feeds, meds.                             
+       
+     REASON FOR THIS EXAMINATION:
+      assess for ileus                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: NG tube placement.
+     
+     Tip of NG tube is just included beyond the superior margin of the film and is
+     presumably in the proximal stomach. The upper abdomen and diaphragms are not
+     included on the film. A vascular access catheter overlies the left iliac
+     vessel. A metallic density consistent with a bullet overlies the soft tissues
+     lateral to the left hip.
+
+",,
+5911,3437,7372,0,3280-10-21 06:37:00 EST,3280-10-21 06:56:00 EST,751,"N",1,"Nursing/Other","admission note","
+admission note
+D: pt arrived from er still postictal. pupils pinpoint. aline attempted by Dr.[**Last Name (STitle) **] pt awake and yelling and very agitated and combative. attempting to get out of bed and refusing to keep left leg straight. pulling arm away and very agitated. attempts to calm and explain situation  unsuccessful. pt paranoid stating he is trying to kill me. pt needing to by restrained by several staff personnel. leather restraints ordered by md [**First Name (Titles) **] [**Last Name (Titles) 1623**]. only placed on lower extremities due to aline and av fistula. soft restraints on upper extremities. palpable pulses to bilateral lower extremities and good csm. pt medicated with 1mg of ativan, 2mg of haldol and 20mg of Ziprasidone given. pt sedated and leather restrainsts dc'd at 620 this am. pupils are equal and reactive to light and speech garbled to to swollen tongue. pt bit tongue when he had seizure in er. normal strength in all extremities. 
+cardiac: pt on nipride. titrated for sbp 160-180. weaned off this am. when pt more somulent. sbp less than 160 and Dr. [**Last Name (STitle) **] aware. 
+resp: bs are rhonchi and diminished in the bases. pt unable to cough and with upper airway secretions nasel trumpet in. pt nt suctioned for thick tan sputum. pt remains on non reabreater mask. 
+gi: pt remains npo at this time.
+gu: foley patent and draining clear yellow urine. pt due for hd today. 
+a: monitor agitation level. dc lezther restraints this am. nt suction as needed. close monitoring of resp. status. 
+r: pt more sedated this am. continues to need nt suctioning. neuro exam is unchanged.
+plan: close observation of neuro status. close monitoring of resp. status. aggressive pulm. toilet. close bp monitoring.  
+  
+",,
+5911,3437,7372,0,3280-10-21 12:25:00 EST,3280-10-21 12:29:00 EST,426,"N",1,"Nursing/Other","Respiratory care","
+Respiratory care
+pt was started on Bipap of Insp press of 8CM and Exp press of 5CM with 8L of O2 bled in. tol well RR decreased from 28 to 18 sat's increased from 94 to 100% with 15L of O2, O@ was then decreased to 8L.
+",,
+5911,3437,7372,0,3280-10-21 17:22:00 EST,3280-10-21 17:51:00 EST,5692,"N",1,"Nursing/Other",,"
+
+NEURO:  Pupils are pinpoint, equal and reactive.  Does not follow commands, slurred speech.  Arousable to nailbed and sternal rub while on [**Last Name (LF) 1624**], [**First Name3 (LF) **] withdraw all ext.  Given 3mg ativan IV for agitation with 4mg Morphine with fair relief.  Pt. remains in four points soft wrist and ankle restraints.  When released restraint pt pulling at wires and waving arm in air.  Started on [**First Name3 (LF) **], currently maxed at 0.7mcg/kg/hr.  No seizure activity throughout shift.
+
+CARDIO: This morning SBP as high as 258 with increased agitation.  Total of 30mg Hydralazine adm with total of 15mg Lopressor IV with little effect, SBP decrease 190's.  Clonidine patch placed on right chest wall.  Nipride gtt titrate for sbp with little effect.  [**First Name3 (LF) **] bolus droppped SBP to 90's for less than 30sec than gradually increased to 130's-140's.  Dialysis started at 1620.  Around 1700 SBP increased to 190-205, Team aware, 20mg Hydralazine adm, 1mg Ativan, 4mg Morphine, 7.5mg lopressor, [**First Name3 (LF) 1624**] increased to 0.7mcg/kg/hr to decrease SBP to 160-170's.  Generalized edema throughout.
+
+RESPIR:  Coarse lung sounds throughout.  Suctioned for thick tan secretions.  Tongue thick from injury during seizure.  Placed on [**Hospital1 **] with 6L O2, saturations 97-100%.
+
+GI:  Obese, +bsx4. 
+
+GU:  foley, c/y/u
+
+ENDO:  Blood Glucose WNL.  RISS when needed.
+
+SKIN:  No breakdown noted.
+
+PLAN:  Continue dialysis today and ? again tomorrow.  Monitor airway.  Titrate meds as ordered.
+
+",,
+5911,3437,7372,0,3280-10-21 19:46:00 EST,3280-10-21 19:47:00 EST,725,"N",1,"Nursing/Other",,"
+
+Pt remains on Bipap 8/5 w/ 8L O2. Tolerating well, appears comfortable.
+",,
+5911,3437,7372,0,3280-10-22 05:36:00 EST,3280-10-22 05:41:00 EST,1043,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: [** **] GTT WEAN BEGUN THIS AM. PT ATTEMPTING TO OPEN EYES TO VOICE. FOLLOWS SOME COMMANDS. MAE. PERRL. NO AGGITATION OVERNOC.
+RESP: LS RHONCHOROUS ON EXPIRATION. ON BIPAP OVERNOC. ABG STABLE. 
+CV: TMAX 100.7. NSR. NO SUSTAINED HYPETENSION OVERNOC, ONLY BRIEF PERIODS TO 160S WHEN STIMULATED.
+GI: LG ABD. AUDIBLE BOWEL SOUNDS.
+GU: MIN U/O VIA FOLEY. CLEAR.
+ENDO: BG WNL.
+PLAN: CONT TO MONITOR NEURO STATUS. WEAN [** **] AS TOLERATED. MAINTAIN SBP <160. 
+",,
+5911,3437,7372,0,3280-10-22 14:48:00 EST,3280-10-22 14:50:00 EST,426,"N",1,"Nursing/Other","Respiratoery Care","
+Respiratoery Care
+pt on nasel bipap tol well until pt is lite on his sedation, when he becomes restless and combative. please see resp page for more info.
+",,
+5911,3437,7372,0,3280-10-22 17:12:00 EST,3280-10-22 17:24:00 EST,5692,"N",1,"Nursing/Other",,"
+
+NEURO:  PERL, does follow commands, speech slurred, MAE.  One bout of agitation when suctioned for sputum culture.  Pt. at this time was swearing, screaming, kicking legs.  Pt at this time on 0.3mcg [** **].  2mg IV ativan adm with effect.  Predex gtt currently at0.3mcg.  Pt. to have future MRI.
+
+CARDIO:  NSR, no ectopy, generalized edema. SBP 160-180. Started on Nicardipine gtt.  Goal SBP 100-140. A-line dampens at times.  T-max 101.7, team aware, pan cultured.
+
+RESPIR:  Coarse lung sounds throughout, thick tan sputum and secretions suctioned via nasal trumpet.  [**Hospital1 **] with 6L O2.  Sat 97-100%.
+
+GI:  Obese, +bsx4, no stool this shift.
+
+ENDO:  Blood glucose WNL.
+
+GU:  Foley.  urine ouput varing 0-30/hr.  Last dialysis [**10-21**].
+
+SKIN:  Tongue remains swollen and raw.
+",,
+5911,3437,7372,0,3280-10-23 05:58:00 EST,3280-10-23 06:14:00 EST,889,"N",1,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-""My arm hurts!""
+
+SEE CAREVUE FOR OBJECTIVE DATA AND TRENDS IN VSs
+
+O-Neuro exam unchanged overnight. [** **] intitally increased to 0.5mcg/kg/min for agitation/hemodynamic control and later reduced to 0.3mcgs/kg/min where remains. Pt more cooperative with neuro exams and consistently following exams and MAE spontaneously and to command. No other sedation given other that [** **] overnight. VSS on Nicardipine drip, maintaining BPs 100-140s with result, in addtion recieving Lopressor and Hydralazine IV around the clock. Breath sounds coarse anteriorly throughout. O2Sats maintained > 95 on Bipap.Expectorating thick yellow thick secretions. ABG this AM with slight respiratory acidosis, repeat ABG pending.Foley patent with oliguric outputs, HUOs 8-15cc/hrs, urine clear and yellow in appearance. Abd obese and soft with (+) bowels sounds times four quadrants. Remains NPO. Low grade temps, (+) GPC present in one out of four blood culture bottles. Vanco given times one dose last night. Fingerstick glucoses wnl range and not requiring coverage. No phone calls or visitors overnight. 
+
+A/P:Hypertension well controlled and Nicardipine drip and neuro exam unremarkable. 
+Continue to montior BP and control with Nicardipine
+Possible swallowing eval today 
+If able to swallow consider weaning Nicardipine to PO regimen
+
+",,
+5911,3437,7372,0,3280-10-23 06:32:00 EST,3280-10-23 06:35:00 EST,1047,"N",1,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remained on BiPAP thorugh the night,  [**7-11**], with 8 lpm entrained (see CareVue).  Morning abg results determined a partially compensated respiratory acidosis with good oxygenation on the BiPAP.
+",,
+5911,3437,7372,0,3280-10-23 16:33:00 EST,3280-10-23 16:34:00 EST,426,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+pt remains on Bipap tol well no changes see resp page for more info
+",,
+5911,3437,7372,0,3280-10-23 17:47:00 EST,3280-10-23 18:13:00 EST,5692,"N",1,"Nursing/Other",,"
+
+NEURO:  [**Last Name (LF) 417**], [**First Name3 (LF) 149**], follows commands.  [**First Name3 (LF) **] weaned off.  Given 10mg Haldol IV of the 30mg order due to sedation purposes.  Opens eyes to name. Started on Fent patch for drug withdrawl.  No seizures throughout shift.
+
+CARDIO:  SBP 110-140's, weaning Nicardipine, currently at 2 mcg.  Clonidine patch intact, continue lopressor and hydralazine IV. SBP to be <150.  Generalized edema.  Dialysis today with 5.5L removal, tolerated procedure.
+
+RESPIR:  Coarse lung sounds throughout.  Occasional productive cough of thick tan sputum.  Suctioned via nasal trumpet for thick tan secretions.  BiPap, 8peep, 5psupport, 8L O2.  O2sat 97-100%.
+
+GI:  Obese, +bsx4, no stool this shift.  awaiting swallow eval.
+
+ENDO:  Blood Glucose WNL.  RISS if needed/
+
+GU:  foley.  c/y/u.
+
+SKIN:  Tongue improved, less swollen.  Mouth care given multiple times throughout shift.
+
+SOC::: Family (neice and sister) in to visit.  Updated on pt. care.  ICU and General adm forms signed by sister.  Family concerned about living condition and physical theraphy needs.  Requesting Social Worker to see family and pt about assisted living situation.
+",,
+5911,3437,7372,,3280-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-24**] 9:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15328**]
+     Reason: R/O INFILTRATE                                              
+     Admitting Diagnosis: SEIZURES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old man with h/o SDH and seizures, ESRD on HD, now with new seizures  
+        AND PERSISTENT FEVERS 
+     REASON FOR THIS EXAMINATION:
+      R/O INFILTRATE                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Seizures, subdural hemorrhage, end-stage renal disease & fevers.
+     
+     COMPARISON:  Radiograph dated [**3280-10-21**]
+     
+     AP SUPINE VIEW OF THE CHEST:  There is interval improvement in the bilateral
+     perihilar opacities.  There is stable cardiomegaly.  The mediastinal contour
+     is unchanged. There is no pneumothorax.  No definite effusion.
+     
+     IMPRESSION:  Interval improvement in bilateral perihilar opacities consistent
+     with pulmonary edema.
+
+",,
+5911,3437,7372,0,3280-10-24 03:09:00 EST,3280-10-24 03:32:00 EST,889,"N",1,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-Sedated(responding to verbal commands)
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VSs
+
+O-MS:Intially to recieve Haldol 5mg q30 min until sedate with max dose of 30mg, but recieiving total of 15mg and pt remaining sedate for most of shift. Responds to verbal commands by opening eyes and following simple commands. Will repsonds to questions by nodding or moaning but denies pain. In addition to Haldol, pt can recieve Ativan PRN but has not required any overnight. 
+CV:HR 80-100s, NSR/ST with no viewed ectopy. Qtc at MN .37. SBPs 120-160s. Nicardipin drip weaned down to 1mcg/kg/hr from 5mcgs/kg/hr. Goal BP is to keep 140-160 or less than 160. Lopressor IV increased and continues to tolerate Hydralazine IV. Anticipate weaning Nicardipin off this morning. 
+RESP:Breath sound rhoncerous throughout. Occasionally expectorating thick yellow secretions but then swallowing them on his own. Bipap and nasal trumpet removed at MN. Airway patent and maintaing Sats > 95% via Sat pleth. ABG with Sats in the low 90s, so 3LNP applied, otherwise other values unchanged from pt's baseline. Repeat ABG pending. 
+GU/GI:Oliguric. Foley patent and draining small amounts of clear yellow urine. Next HD due Friday. Abd obese and soft with (+) BSs. No BM. Remains NPO.
+ID:Tm 102.8 and Tc 101.0. Blood and urine cx sent last night. Unable to obtain sputum culture. Currently on Levo. Recieved one dose of Vanco on [**10-23**]. Femoral TLL remains in place. Dr. [**Doctor Last Name 1625**] aware. 
+ENDO:Fingerstick glucose withing normal range and not requiring any slscl coverage. 
+SOC:Sister and [**Name2 (NI) **] into visit on prior shift. Social service and case management consult needed in regard to pt's substance abuse history and management of ADLs.
+A/P:Tolerating Nicardipine drip wean well. Maintainin patent oral airway. 
+Continue to assess airway patentency 
+Continue to wean Nicardipine as tolerated
+Continue to follow temps curve
+Montior for DTs
+Social service/case management consult
+ 
+",,
+5911,3437,7372,0,3280-10-24 03:58:00 EST,3280-10-24 04:00:00 EST,529,"N",1,"Nursing/Other",,"
+
+PT.PRESENTLY OFF BIPAP AND ON NASL.CANNULA @ 3L, APPEARS COMFORTABLE, BREATHE SOUNDS WITH COARSE RHONCHI
+",,
+5911,3437,7372,0,3280-10-24 15:05:00 EST,3280-10-24 15:16:00 EST,1267,"N",1,"Nursing/Other","focus update","
+focus update
+cv: BP goal libralized to 100-170, pt continues off nicardipine, SBP controlled with lopressor and hydralazine, heart rate 60s NSR, QTC .33
+
+resp: continues off bipap, lung sounds coarse dim at bases, o2 via NC at 3 liters, o2sat 98-100%
+
+GU/GI: due for dialysis tommorrow, voids via foley 0-24cc/hr, fluid restriction 1500, tolerating po diet ate sandwich drinking water, bowel sounds positive, no BM, fistula at left arm +bruit.
+
+neuro: cooperative, following commands, opening eyes spontaneously, alert and oriented X 3, MAE +, began kepra PO, continues on dilantin IV. restraints removed this afternoon
+
+plan: dialysis tommorrow, ? transfer to step down today/tommorrow, continue to keep SBP 100-170 
+",,
+5911,3437,7372,,3280-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-25**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15329**]
+     Reason: picc PLACEMENT FOR ANTIBIOTICS                              
+     Admitting Diagnosis: SEIZURES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      picc PLACEMENT FOR ANTIBIOTICS                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o woman.
+     
+     PROCEDURE: This procedure was performed by Dr. [**Last Name (STitle) 654**] and Dr. [**Last Name (STitle) 156**]. Dr.
+     [**Last Name (STitle) 156**], the attending was present through the entire procedure. The left arm
+     was prepped and draped in the standard sterile fashion. Since no suitable
+     superficial vein was seen, the ultrasound was used for localization of a
+     suitable vein.  The basilic vein was patent and compressible.  After local
+     anesthesia with approximately 5 cc of 1% lidocaine, the basilic vein was
+     entered under ultrasonographic guidance with a 21 gauge needle.  A 0.018 guide
+     wire was advanced under fluoroscopy in the superior vena cava.  Base on the
+     markers of the guide wire it was determined that a length of a 40 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     introducer sheath under fluoroscopic guidance in the superior vena cava.  The
+     sheath was removed.  The catheter was flushed.  The final chest x-ray was
+     obtained.  The film demonstrated the tip to be in the superior vena cava just
+     above the right atrium.  The line is ready for use. The statlock device was
+     applied and the line was heplocked.
+     
+     IMPRESSION: Successful placement of a 40 cm PICC line with tip in the SVC. The
+     line was ready for use.
+     
+
+",,
+5911,3437,7372,,3280-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-25**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15329**]
+     Reason: picc PLACEMENT FOR ANTIBIOTICS                              
+     Admitting Diagnosis: SEIZURES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      picc PLACEMENT FOR ANTIBIOTICS                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o woman.
+     
+     PROCEDURE: This procedure was performed by Dr. [**Last Name (STitle) 654**] and Dr. [**Last Name (STitle) 156**]. Dr.
+     [**Last Name (STitle) 156**], the attending was present through the entire procedure. The left arm
+     was prepped and draped in the standard sterile fashion. Since no suitable
+     superficial vein was seen, the ultrasound was used for localization of a
+     suitable vein.  The basilic vein was patent and compressible.  After local
+     anesthesia with approximately 5 cc of 1% lidocaine, the basilic vein was
+     entered under ultrasonographic guidance with a 21 gauge needle.  A 0.018 guide
+     wire was advanced under fluoroscopy in the superior vena cava.  Base on the
+     markers of the guide wire it was determined that a length of a 40 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     introducer sheath under fluoroscopic guidance in the superior vena cava.  The
+     sheath was removed.  The catheter was flushed.  The final chest x-ray was
+     obtained.  The film demonstrated the tip to be in the superior vena cava just
+     above the right atrium.  The line is ready for use. The statlock device was
+     applied and the line was heplocked.
+     
+     IMPRESSION: Successful placement of a 40 cm PICC line with tip in the SVC. The
+     line was ready for use.
+     
+
+",,
+5911,3437,7372,,3280-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-25**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15329**]
+     Reason: picc PLACEMENT FOR ANTIBIOTICS                              
+     Admitting Diagnosis: SEIZURES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      picc PLACEMENT FOR ANTIBIOTICS                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o woman.
+     
+     PROCEDURE: This procedure was performed by Dr. [**Last Name (STitle) 654**] and Dr. [**Last Name (STitle) 156**]. Dr.
+     [**Last Name (STitle) 156**], the attending was present through the entire procedure. The left arm
+     was prepped and draped in the standard sterile fashion. Since no suitable
+     superficial vein was seen, the ultrasound was used for localization of a
+     suitable vein.  The basilic vein was patent and compressible.  After local
+     anesthesia with approximately 5 cc of 1% lidocaine, the basilic vein was
+     entered under ultrasonographic guidance with a 21 gauge needle.  A 0.018 guide
+     wire was advanced under fluoroscopy in the superior vena cava.  Base on the
+     markers of the guide wire it was determined that a length of a 40 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     introducer sheath under fluoroscopic guidance in the superior vena cava.  The
+     sheath was removed.  The catheter was flushed.  The final chest x-ray was
+     obtained.  The film demonstrated the tip to be in the superior vena cava just
+     above the right atrium.  The line is ready for use. The statlock device was
+     applied and the line was heplocked.
+     
+     IMPRESSION: Successful placement of a 40 cm PICC line with tip in the SVC. The
+     line was ready for use.
+     
+
+",,
+5911,3437,7372,,3280-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3280-10-25**] 7:35 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15329**]
+     Reason: picc PLACEMENT FOR ANTIBIOTICS                              
+     Admitting Diagnosis: SEIZURES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 802**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 313**],[**First Name3 (LF) **]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      picc PLACEMENT FOR ANTIBIOTICS                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o woman.
+     
+     PROCEDURE: This procedure was performed by Dr. [**Last Name (STitle) 654**] and Dr. [**Last Name (STitle) 156**]. Dr.
+     [**Last Name (STitle) 156**], the attending was present through the entire procedure. The left arm
+     was prepped and draped in the standard sterile fashion. Since no suitable
+     superficial vein was seen, the ultrasound was used for localization of a
+     suitable vein.  The basilic vein was patent and compressible.  After local
+     anesthesia with approximately 5 cc of 1% lidocaine, the basilic vein was
+     entered under ultrasonographic guidance with a 21 gauge needle.  A 0.018 guide
+     wire was advanced under fluoroscopy in the superior vena cava.  Base on the
+     markers of the guide wire it was determined that a length of a 40 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     introducer sheath under fluoroscopic guidance in the superior vena cava.  The
+     sheath was removed.  The catheter was flushed.  The final chest x-ray was
+     obtained.  The film demonstrated the tip to be in the superior vena cava just
+     above the right atrium.  The line is ready for use. The statlock device was
+     applied and the line was heplocked.
+     
+     IMPRESSION: Successful placement of a 40 cm PICC line with tip in the SVC. The
+     line was ready for use.
+     
+
+",,
+5911,3437,7372,0,3280-10-25 04:21:00 EST,3280-10-25 04:30:00 EST,889,"N",1,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-""No!""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VSs
+
+O-MS:Follows commands consistenly. Opens eyes spontaneously and to verbal commands. Still lethargic from previous sedation. MAEs on and off of bed. 
+CV:HR 60-80s, NSR with no viewed ectopy. Evening Lopressor held for HR in the 60s. SBP 100-170s. 
+RESP:Breaths coarse and dim at bases. O2Sats > 95% on 3LNP. 
+GU/GI:Foley in place, pt oliguric. HD today.Abd obese and distended with (+) BSs. Passing small amount of mucousy stool. Tolerating POs well. 
+ID:Afebrile. No issues. Continues Zosyn and Levo.
+A/P:Otherwis stable overnight. 
+Call out to floor when bed available. 
+",,
+5911,3437,7372,0,3280-10-25 16:35:00 EST,3280-10-25 16:39:00 EST,420,"N",1,"Nursing/Other","npn","
+npn
+Pt lethargic this am then more awake this pm after hemodyalsis. (plan to remove 6 liters).pearl. moves all ext wnl, denies headache, speech garbled at times. Dilantin dc, cont depakote. groin tlc dc this am and tip sent for cx. picc placed right upper arm in fluro. awaiting floor bed- plan transfer to [**Hospital Ward Name **] 5. 
+",,

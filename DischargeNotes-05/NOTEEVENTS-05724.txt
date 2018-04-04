@@ -1,0 +1,447 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5724,16470,,,2618-12-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2618-12-22**]     Discharge Date:  [**2619-1-6**]
+
+Date of Birth:   [**2539-2-13**]     Sex:  M
+
+Service:  General Surgery
+
+ADDENDUM:
+
+CONCISE HOSPITAL COURSE:  The patient was to be discharged to
+rehab, however, the night before he was to go he spiked a
+temperature up to 103 and had some mental status changes.  At
+that time a chest x-ray was done, urine culture, blood
+culture sent, however, after talking with the family and the
+situation being a possible new stroke versus sepsis in depth
+discussions were done with the family.  Dr. [**Last Name (STitle) **], the
+attending surgeon had in depth discussions with the patient
+both preoperative and postoperative concerning his wishes and
+although he did not want surgical intervention at that time
+he did not wish to have a prolonged dependence on medical
+care.  Due to his deteriorating status he and the family
+communicated their wish to not receive any additional
+intervention at this point and they requested supportive care
+only.  We established a DNR and DNI status and also moved to
+comfort measures only.  On postoperative day eleven the
+patient was to be discharged home with hospice care.
+
+CONDITION ON DISCHARGE:  The patient stable, currently
+afebrile, however, mental status still decreased, no IV
+fluids, no Foley catheter, some diffuse tenderness in the
+abdomen, central line out.
+
+DISCHARGE STATUS:  To home with hospice care.
+
+DISCHARGE DIAGNOSIS:  Status post exploratory laparotomy
+secondary to small bowel obstruction, small bowel resection,
+right MCA stroke, coronary artery disease, melanoma, ethanol
+abuse, hypertension.
+
+FOLLOW UP PLANS:
+1.  The patient will be followed at home with palliative
+    care.
+2.  The patient and the family is to follow up with [**Doctor Last Name **]
+    as necessary.
+
+DISCHARGE MEDICATIONS:
+1.  Ativan 1 mg sublingual q3 hours p.r.n.
+2.  Artificial tears p.r.n.
+3.  Lopressor 25 mg p.o. b.i.d.
+4.  Scopoline patch q3 days.
+5.  Morphine sulfate elixir sublingual 5 to 20 mg p.r.n.
+
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7005**], M.D.  [**MD Number **]
+
+Dictated By:[**Name8 (MD) 2547**]
+
+MEDQUIST36
+
+D:  [**2619-1-6**]  20:04
+T:  [**2619-1-8**]  15:13
+JOB#:  [**Job Number 7006**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2619-3-9**] 5:20 PM
+(End of Report)
+
+
+",,
+5724,16470,,,2618-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-12-22**] 6:15 AM
+     MR-ANGIO HEAD; MR-ANGIO NECK WITHOUT CONTRAST                   Clip # [**Clip Number (Radiology) 13442**]
+     MR HEAD W & W/O CONTRAST
+     Reason: Facial drop and right lateral gaze with left sided neglect--
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Facial drop and right lateral gaze with left sided neglect--r/o stroke
+      Please use DWI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Facial droop, right lateral gaze with left-sided neglect.  Rule
+     out stroke.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted imaging of the brain was performed.
+     Diffusion weighted scans were obtained.
+     
+     3D time of flight MR angiography of the circle of [**Location (un) 405**] was performed.
+     Multiplanar reformatted images and source image data were reviewed.
+     
+     2D time of flight MR angiography of the cervical vasculature was performed. 3D
+     time of flight MR angiography of the carotid bifurcations was also obtained.
+     Multiplanar reformatted images and source image data were reviewed.
+     
+     Axial and coronal post gadolinium T1 weighted scans of the brain were obtained
+     due to the patient's previous history of carcinoma.
+     
+     Comparison is made to the previous CT of [**2618-12-22**].
+     
+     FINDINGS:  Diffusion weighted images demonstrate increased signal (restricted
+     diffusion) extending through the right hemispheric structures, including the
+     insular, temporal, frontal and anterior parietal lobes.  Areas of restricted
+     diffusion are patchy, indicating multiple sites of infarction within the right
+     middle cerebral arterial vascular distribution.  There is increased T2 signal
+     evident in the right posterior insular and portions of the right posterior and
+     superior temporal lobe, consistent with infarction.  There is mild gyral
+     swelling.  The ventricles remain normal in size and configuration.  There is
+     no susceptibility artifact to indicate the presence of blood products.
+     
+     Scattered areas of microvascular infarction are identified in the deep [**Doctor Last Name 20**]
+     nuclei and cerebral white matter, both on CT and MR examinations.  There are
+     two small cerebellar hemispheric lacunar infarctions as well.
+     
+     Post gadolinium images are limited by patient motion, but no gross abnormal
+     intracranial enhancement is seen.
+     
+     MR angiography of the circle of [**Location (un) 405**] is limited by patient motion artifact.
+     There is evidence of flow in the basilar artery and in both carotid arteries,
+     but vascular evaluation is otherwise limited by motion artifacts.
+     
+     MRA of the cervical vasculature demonstrates flow in both cerebral carotid and
+                                                                 (Over)
+
+     DATE: [**2618-12-22**] 6:15 AM
+     MR-ANGIO HEAD; MR-ANGIO NECK WITHOUT CONTRAST                   Clip # [**Clip Number (Radiology) 13442**]
+     MR HEAD W & W/O CONTRAST
+     Reason: Facial drop and right lateral gaze with left sided neglect--
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     vertebral arteries.  Again, motion artifact limits detailed evaluation of the
+     carotid bifurcations and internal carotid arteries.  There are irregularities
+     evident in the proximal internal carotid arteries bilaterally, some of which
+     are clearly due to motion, but atherosclerotic narrowing cannot be excluded.
+     
+     IMPRESSION:  Acute right hemispheric infarction, in the distribution of the
+     middle cerebral artery territory.
+     
+     Extremely limited MR angiography of the circle of [**Location (un) 405**].  MR angiography of
+     the cervical vasculature demonstrates flow in both cervical carotid and
+     vertebral arteries.
+     
+     Post contrast images of the brain are limited by motion artifact. No large
+     abnormally enhancing masses are identified within the intracranial space.
+     
+     
+
+",,
+5724,16470,,,2618-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-12-25**] 7:38 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 13443**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: please evaluate for source of obstruction; possible metastas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with new small bowel obstruction and blood in stool.            
+     REASON FOR THIS EXAMINATION:
+      please evaluate for source of obstruction; possible metastasis from melanoma    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Small bowel obstruction, blood in stool.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of intravenous
+     contrast.
+     
+     CONTRAST:  Oral contrast and 150 cc of Optiray was administered per patient
+     request.
+     
+     CT ABDOMEN W/IV CONTRAST: There is a small left pleural effusion.  There is
+     right lower lobe bronchiectasis.  There is minimal atelectasis at the left
+     lung base.  The liver demonstrates mild intrahepatic ductal dilatation.  No
+     focal lesions are present.  The pancreas and adrenal glands are unremarkable.
+     An NG tube is present within the stomach.  In the upper portion of the spleen
+     there is a 2.9 cm x 4.7 cm area of low attenuation  likely due to splenic
+     infarct. The kidneys enhance symmetrically and excrete normally. Multiple
+     diverticula are noted throughout the colon without evidence of diverticulitis.
+     The barium within the colon is present from the previous video swallow
+     examination.  The barium within the small bowel does not pass through the
+     entirety of the small bowel.  There are multiple dilated fluid filled proximal
+     loops of small bowel. Within the right lower quadrant there are several
+     collapsed loops of small bowel.  There is no free fluid or free air within the
+     abdomen. There is no significant adenopathy.  There is a 6.9-cm abdominal
+     aortic aneurysm with thrombus surrounding the aortic lumen. There is no
+     evidence of dissection. Calcification are present surrounding the periphery of
+     the aneurysm.  The aneurysm displaces the duodenum anteriorly and the IVC to
+     the right.  The aneurysm extends from the level of the celiac axis to the
+     iliac bifurcation. The renal arteries are superior to the aneurysm.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  Multiple diverticula are noted
+     without evidence of diverticulitis.  There is a 3-cm segment of small bowel
+     which demonstrates thickening and surrounding fat stranding. Small gas
+     collections are present in this region but the intra- versus extraluminal
+     nature is uncertain. This region is the probable zone of transition. There is
+     no free fluid within the pelvis. Foley catheter is present within the urinary
+     bladder.
+     
+     The osseous structure demonstrate degenerative change.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2618-12-25**] 7:38 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 13443**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: please evaluate for source of obstruction; possible metastas
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Small bowel obstruction with a transition point likely within the right
+     lower quadrant involving the  ileum.  In the RLQ there is a thickened segment
+     of small bowel, associated mesenteric fat stranding and adjacent air
+     collections ?intra- versus extraluminal. Possibility of ischemia is raised. No
+     mass lesions are present to suggest metastatic melanoma.
+     2)  7-cm infra-renal abdominal aortic aneurysm.
+     3) Multiple diverticula without evidence of diverticulitis.
+     4) There is a hypodense lesion within the spleen, likley due to infarct
+     5) Mild intrahepatic ductal dilatation, cause undetermined.
+     
+
+",,
+5724,16470,7116,0,2618-12-27 18:27:00 EST,2618-12-27 18:39:00 EST,3751,"N",53,"Nursing/Other","NURSING NOTE:","
+NURSING NOTE:
+REVIEW OF SYSTEMS:
+
+CV:  BP=145-157/70, MEAN 78-98, CONTINUES TO HAVE [**9-20**] POINT VARIATION BETWEEN NBP AND ART. LOPRESSOR GIVEN AS ORDERED, HYDRALAZINE X 2 GIVEN TO CONTROL BP>160.  EXT. COOL, + DP BIL.  CALCIUM REPLETED AS ORDERD, HR=76 NSR WITH MULTI-FOCAL PVC AND OCC. COUPLETS. CVP= [**2-3**]    
+
+RESP:  MAINTAINED ON 4L NC, SAT=98%, STRONG CONGESTED COUGH, CRACKLES IN BASES.  RESP. RATE=[**11-14**].
+
+GI:  ABD. SL. DISTENDED, TENDER, [**Hospital1 **] SUMP D/C THIS AM, CONTINUES NPO.
+
+GU:  FOLEY TO GRAVITY, AMBER URINE 12-50CC/HR, 250CC NS BOLUS GIVEN WITH INCREASED URINE OUTPUT.
+
+MENTATION:  LEFT FACIAL DROOP, RAISES BOTH ARMS OVER HEAD, ABLE TO LIFT LEGS OFF BED, LEFT LEG WEAKER THAN RIGHT, PERL 4MM BIL, ORIENTED TO PERSON, PLACE, DISORIENTED TO TIME.  RECOGNIZES AND CONVERSING WITH FAMILY.  OOB/CHAIR, TOL. WELL, STANDING AND PIVOTING INTO CHAIR.  
+
+SKIN:  FACE FLUSHED, ERYTHEMATOUS PAPULAR RASH ON BACK, COCCYX INTACT.
+
+ENDO:  NO INSULIN REQUIRED
+
+ID:  COMPLETED 24 HOUR COURSE OF FLAGYL AND KEFZOL AS ORDERED
+
+SOCIAL:  FAMILY IN TO VISIT, PLEASED WITH CURRENT PROGRESS.  ASKING APPROPRIATE QUESTIONS.
+
+PLAN: CONTINUE TO MONITOR V/S, REPLETE LYTES AS NEEDED, ENCOURAGE OOB, PLAN TO TRANSFER TO FLOOR IN AM.  
+",,
+5724,16470,7116,0,2618-12-28 04:16:00 EST,2618-12-28 04:24:00 EST,-1,"N",53,"Nursing/Other","npn","
+npn
+s=i'm in the hospital.
+
+o=pupils equal and reactive. moves all extremities, but definitely has neglect of left side.  needs help raising left arm, but is able to hold it up once elevated.  able to raise left leg off bed.  uses incorrect words at times when communicating.  has difficulty remembering the date.
+
+cv=hr nsr with frequent multifocal pvc's, pauses.  hr=60-70's.  sbp maintained < 160.  cvp=[**2-3**].  ivf at kvo. mgso4 2 gm repleted.
+
+pulm=o2 via n.c. at 2 liters.  sats=97-98%.  breath sounds clear with fine bibasilar rales.  weak, non-productive cough.
+
+gi=positive bowel sounds.  abdomen softly distended.  dressing dry and intact.  no stool. npo.
+
+gu=foley patent for clear amber urine.
+
+skin=rash on back as previously noted.  no open areas.
+
+endo=no issues.
+
+i.d.=wbc=11.4.  afebrile.  antibiotic course completed.
+
+a=stable overnight.  pulled out artetial line which had not been sutured in place.
+
+p=possible transfer to floor if bed available in a.m. 
+",,
+5724,16470,7116,0,2618-12-28 18:25:00 EST,2618-12-28 18:35:00 EST,3556,"N",53,"Nursing/Other",,"
+
+nursing progress note see careview for details 3pm to 7pm.neuro:opens eyes pupils perl,speech usually clear and understandable.was oriented x2.has left side neglect,needs help to raise left arm up but will then hold it up,will lift and hold left leg up ,appears to have better control of right arm and leg.cv:remains in nsr with rare pvcs,bp less than 160 systolic. both feet warm with doppler dp and pt pulses present.resp:breath sounds clear but diminished bibasilar,has weak cough.spo2 98% on 4lnp.gu:foley to cd patent and draining yellow urine.gi:started on tpn and will remain npo.abd soft with positive bowel sounds present.rash:continues with red rash over back and some across chest pt denies discomfort from rash.endocrine bs wnl. social:wife and daughter came to visit.
+",,
+5724,16470,,,2618-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-12-31**] 12:58 PM
+     ABDOMINAL AORTA                                                 Clip # [**Clip Number (Radiology) 13444**]
+     Reason: further evaluate AAA                                        
+      Contrast: OPTIRAY Amt: 240
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75630 AORTO-ILIAC A-GRAM            *
+     * NON-IONIC 200 CC SUPPLY              NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p R MCA stroke, s/p ex-lap and SBR, with incidental AAA 
+      finding on CT scan
+     REASON FOR THIS EXAMINATION:
+      further evaluate AAA                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PHYSICIANS: Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 13445**], and Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1078**] and Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 294**] D'Othee,
+     who were both present and supervising the entire procedure.
+     
+     INDICATIONS: This patient is a 79-year-old male with an asymptomatic 7-cm
+     abdominal aortic aneurysm noted incidentally on a CT scan for a small bowel
+     obstruction. He presents for aortogram with evaluation for possible endograft
+     repair.
+     
+     MEDICATIONS AND CONTRAST: The patient received no IV sedation during the
+     procedure, however was continuously hemodynamically monitored throughout the
+     case. 8 cc of 1% lidocaine were used as local anesthesia and a total of 240 cc
+     of Optiray 60% contrast was used throughout the case.
+     
+     TECHNIQUE: After consent was obtained, patient was placed in the supine
+     position on the fluoroscopy table and the right groin was shaved, prepped, and
+     draped in the usual sterile manner. Common femoral artery was identified with
+     the aid of fluoroscopic guidance using bony landmarks. 8 cc of 1% lidocaine
+     local anesthesia were infiltrated at the site of the right common femoral
+     artery and a 19-gauge single wall puncture needle was introduced into the
+     right common femoral artery after a small skin [**Doctor Last Name **] was made with an #11 blade
+     and 0.035"" Bentson guidewire was then advanced through the needle and into the
+     lower abdominal aorta. A 5-French sheath was then placed over the wire and its
+     side arm was flushed throughout the case with heparinized saline. Over the
+     wire, a 5-French marked Omniflush catheter was inserted to the level of L1 and
+     abdominal aortogram was performed including AP and lateral views. The catheter
+     tip was then withdrawn to the level of the lower abdominal aorta and right and
+     left anterior oblique views of the pelvic arteriogram were performed.
+     Subsequently, a bilateral femoral arteriogram was performed. The catheter was
+     removed. The sheath was removed and adequate hemostasis was achieved with
+     manual pressure at the puncture site. The patient tolerated the procedure
+     well. No immediate complications were noted.
+     
+     FINDINGS: The celiac trunk is patent, although mild stenosis of the proximal
+     celiac trunk is noted on the lateral view of the aorta. Patent single
+     bilateral renal arteries are noted with the left renal artery being lower than
+     the right. Distance from the lower renal artery to the aortic bifurcation is
+     13 cm. The distance from the aortic bifurcation to the right iliac bifurcation
+                                                                 (Over)
+
+     DATE: [**2618-12-31**] 12:58 PM
+     ABDOMINAL AORTA                                                 Clip # [**Clip Number (Radiology) 13444**]
+     Reason: further evaluate AAA                                        
+      Contrast: OPTIRAY Amt: 240
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is 8 cm.  There is about a 40 degree lateral angulation of the infrarenal
+     aorta.  In the lateral view, there is mild posterior angulation of the
+     infrarenal aorta.   The right iliac system is more tortuous than the left.
+     Bilateral common internal and external iliac arteries are patent. The femoral
+     arteries are also widely patent, as are the superficial femoral and profunda
+     femoris arteries. Bilateral superficial femoral arteries have diffuse mild
+     disease.
+     
+     IMPRESSION: Aortic aneursym with dimensions as above.
+     
+
+             DR. [**First Name4 (NamePattern1) 13446**] [**Last Name (NamePattern1) **]
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+5724,16470,,,2618-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2618-12-31**] 12:58 PM
+     ABDOMINAL AORTA                                                 Clip # [**Clip Number (Radiology) 13444**]
+     Reason: further evaluate AAA                                        
+      Contrast: OPTIRAY Amt: 240
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75630 AORTO-ILIAC A-GRAM            *
+     * NON-IONIC 200 CC SUPPLY              NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man s/p R MCA stroke, s/p ex-lap and SBR, with incidental AAA 
+      finding on CT scan
+     REASON FOR THIS EXAMINATION:
+      further evaluate AAA                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PHYSICIANS: Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 13445**], and Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1078**] and Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 294**] D'Othee,
+     who were both present and supervising the entire procedure.
+     
+     INDICATIONS: This patient is a 79-year-old male with an asymptomatic 7-cm
+     abdominal aortic aneurysm noted incidentally on a CT scan for a small bowel
+     obstruction. He presents for aortogram with evaluation for possible endograft
+     repair.
+     
+     MEDICATIONS AND CONTRAST: The patient received no IV sedation during the
+     procedure, however was continuously hemodynamically monitored throughout the
+     case. 8 cc of 1% lidocaine were used as local anesthesia and a total of 240 cc
+     of Optiray 60% contrast was used throughout the case.
+     
+     TECHNIQUE: After consent was obtained, patient was placed in the supine
+     position on the fluoroscopy table and the right groin was shaved, prepped, and
+     draped in the usual sterile manner. Common femoral artery was identified with
+     the aid of fluoroscopic guidance using bony landmarks. 8 cc of 1% lidocaine
+     local anesthesia were infiltrated at the site of the right common femoral
+     artery and a 19-gauge single wall puncture needle was introduced into the
+     right common femoral artery after a small skin [**Doctor Last Name **] was made with an #11 blade
+     and 0.035"" Bentson guidewire was then advanced through the needle and into the
+     lower abdominal aorta. A 5-French sheath was then placed over the wire and its
+     side arm was flushed throughout the case with heparinized saline. Over the
+     wire, a 5-French marked Omniflush catheter was inserted to the level of L1 and
+     abdominal aortogram was performed including AP and lateral views. The catheter
+     tip was then withdrawn to the level of the lower abdominal aorta and right and
+     left anterior oblique views of the pelvic arteriogram were performed.
+     Subsequently, a bilateral femoral arteriogram was performed. The catheter was
+     removed. The sheath was removed and adequate hemostasis was achieved with
+     manual pressure at the puncture site. The patient tolerated the procedure
+     well. No immediate complications were noted.
+     
+     FINDINGS: The celiac trunk is patent, although mild stenosis of the proximal
+     celiac trunk is noted on the lateral view of the aorta. Patent single
+     bilateral renal arteries are noted with the left renal artery being lower than
+     the right. Distance from the lower renal artery to the aortic bifurcation is
+     13 cm. The distance from the aortic bifurcation to the right iliac bifurcation
+                                                                 (Over)
+
+     DATE: [**2618-12-31**] 12:58 PM
+     ABDOMINAL AORTA                                                 Clip # [**Clip Number (Radiology) 13444**]
+     Reason: further evaluate AAA                                        
+      Contrast: OPTIRAY Amt: 240
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is 8 cm.  There is about a 40 degree lateral angulation of the infrarenal
+     aorta.  In the lateral view, there is mild posterior angulation of the
+     infrarenal aorta.   The right iliac system is more tortuous than the left.
+     Bilateral common internal and external iliac arteries are patent. The femoral
+     arteries are also widely patent, as are the superficial femoral and profunda
+     femoris arteries. Bilateral superficial femoral arteries have diffuse mild
+     disease.
+     
+     IMPRESSION: Aortic aneursym with dimensions as above.
+     
+
+             DR. [**First Name4 (NamePattern1) 13446**] [**Last Name (NamePattern1) **]
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,

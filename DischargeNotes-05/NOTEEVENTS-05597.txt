@@ -1,0 +1,534 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5597,252,,,2948-10-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2948-10-15**]              Discharge Date:   [**2948-10-20**]
+ 
+Date of Birth:  [**2881-4-13**]             Sex:   F
+ 
+Service: CMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**Last Name (NamePattern1) 2354**] 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+MICU admission
+Cardiac catheterization
+Dialysis
+
+ 
+History of Present Illness:
+67yo female with CAD, DMII, ESRD who was initially admitted for 
+SOB on [**2948-10-15**].  Pt complained of increased SOB after dialysis 
+and was transferred to the MICU for closer monitoring of 
+respiratory status.  CXR was consistent with CHF and ECG showed 
+signs of mild ST depression in I, aVL and poor R wave 
+progression.  Pt ruled in for NSTEMI with CK peak of 207 and 
+trop peak of 2.22 while in the MICU.  Pt denied CP, 
+palpitations, SOB.  
+ 
+Past Medical History:
+DM II
+ESRD - on HD T, Th, S
+CAD s/p NSTEMI [**10-19**], s/p LAD stent, LCx stent at [**Hospital1 84**] on [**10-16**]
+uremic pericarditis
+tamponade s/sp pericardiocentesis 2'[**45**]
+thyroid nodule
+tachyarrythmia
+R arm AVG s/p thrombectomy
+ 
+Social History:
+Primarily Italian speaking women who lives by herself.  Daughter 
+comes to visit 3-7x/week and patient also has son who is 
+involved and may take her in.  Remote smotking history.
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PE:
+VS: T: 97.9   BP: 147/53   HR: 65   RR: 20   SaO2: 98% on 4L
+Gen: pleasant elderly women in NAD
+HEENT: Pupil unequal, dysconjugate gaze with R eye.  mmm
+Neck: supple, no LAD, JVP approximately 7cm
+CV: RRR, III/VI SEM at apex
+Chest: crackles half way up chest/back bilaterally
+Abd: soft, NT, ND, BS+
+Ext: trace to 1+edema to shins, 2+ pedal pulses, skin warm to 
+touch, no rashes
+
+ 
+Pertinent Results:
+[**2948-10-15**] 09:10PM   GLUCOSE-230* UREA N-27* CREAT-4.9*# 
+SODIUM-144 POTASSIUM-5.3* CHLORIDE-104 TOTAL CO2-24 ANION 
+GAP-21*
+[**2948-10-15**] 09:10PM   WBC-11.7* RBC-3.33* HGB-9.5* HCT-30.8* MCV-92 
+MCH-28.4 MCHC-30.7* RDW-15.8*
+[**2948-10-15**] 09:10PM   CK(CPK)-79
+[**2948-10-15**] 03:20AM   CK(CPK)-35
+[**2948-10-15**] 09:10PM   cTropnT-0.39*
+[**2948-10-15**] 11:40AM   cTropnT-0.30*
+[**2948-10-15**] 03:20AM   cTropnT-0.32*
+
+[**2948-10-16**] Echo:
+LVEF 30%
+""The left atrium is moderately dilated. Left ventricular wall 
+thicknesses and cavity size are normal. There is moderate global 
+left ventricular hypokinesis with near akinesis of the inferior 
+and inferolateral walls. [Intrinsic left ventricular systolic 
+function may be more depressed given the severity of valvular 
+regurgitation.] Right ventricular cavity size and systolic 
+function are normal. The aortic valve leaflets (3) are mildly 
+thickened but not stenotic. Trace aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. At least 
+moderate to severe (3+) mitral regurgitation is seen. There is 
+moderate pulmonary artery systolic hypertension. There is no 
+pericardial effusion.
+
+Compared with the prior report (tape unavailable for review) of 
+[**3-/2940**], the findings are new.""
+
+[**2948-10-17**] Cardiac Catheterization:
+""INDICATIONS FOR CATHETERIZATION: 
+Coronary artery disease, Canadian Heart Class , unstable. Prior 
+PTCA
+[**2945**]. Drop in echocardiolographic ejection fraction in the 
+setting of
+elevated cardiac troponin levels.
+FINAL DIAGNOSIS: 
+1. Three vessel coronary artery disease.
+2. Elevated right-sided filling pressure.
+3. Successful stenting of the LAD.
+COMMENTS: 
+1. Selective coronary angiography demonstrated a right dominant 
+system
+with three vessel coronary disease. The LMCA had a 40% ostial 
+stenosis
+with damping. The LAD had a hazy ostial 70% stenosis, 50% mid, 
+and 60%
+mid to distal lesions. The LCX artery had diffuse 40% proximal 
+and 95%
+OM2 lesions. The RCA had 50%, 50% RCA, 50% mid to distal, 60% 
+distal,
+and 80% diffusely diseased PDA.
+2. Limited resting hemodynamics revealed elevated right-sided 
+filling
+pressures (PCWP mean 28 mmHg), borderline pulmonary hypertension 
+(PA
+mean 40 mmHg)
+3. Left ventriculography deferred.
+4. Successful PTCA and stenting of the ostial LAD with a 2.5 mm 
+Cypher
+drug-eluting stent, which was post-dilated to 3.0 mm.""
+
+ 
+Brief Hospital Course:
+A/P: 67yo female with CAD s/p MI, DMII with ESRD presents with 
+acute onset SOB after dialysis who ruled in for NSTEMI with CK 
+peak of 207 and troponin peak of 2.22.
+
+SOB: The patient received a portable Echo in the MICU which 
+showed new changes with ""moderate global left ventricular 
+hypokinesis with near akinesis of the inferior and inferolateral 
+walls"" and an EF of 30%.  The patient was brought to the cath 
+lab on [**2948-10-18**] where the patient was shown to have three vessel 
+coronary artery disease with elevated right-sided filling 
+pressure.  The patient subsequently underwent successful 
+stenting of the LAD and was brought to the floor.  On the floor, 
+the patient was monitored on telemetry for 48 hours without 
+incident.  The patient was without complaints and 
+hemodynamically stable on discharge to the care of the son where 
+she will live with the support of the daughter in law.
+
+ESRD: The patient received HD according to her regular schedule 
+of T, Th and S.
+
+DM: The patient was maintained on her home regimen while on the 
+floor.  This was not an active issue.
+
+ 
+Medications on Admission:
+Home:
+ASA
+Plavix
+Lipitor
+Isordil
+Losartan
+Norvasc
+Metoprolol
+Coumadin
+Protonix
+Renagel
+Humilin
+
+On Transfer from MICU:
+SSI, NPH 30/8
+Plavix 75mg once daily
+Renagel 800mg BID
+Protonix
+Lipitor 40mg once daily
+ASA EC
+Klonipin
+Nephrocaps
+Colace
+Phosphorous
+Reglan
+Atrovent
+Captopril 6.25mg TID
+Metoprolol 37.5mg TID
+ 
+Discharge Medications:
+1. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, 
+Sublingual Sublingual PRN (as needed).
+Disp:*15 Tablet, Sublingual(s)* Refills:*2*
+2. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+4. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO QD (once a day).
+Disp:*30 Cap(s)* Refills:*2*
+7. Calcium Acetate 667 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3 
+times a day).
+Disp:*135 Tablet(s)* Refills:*2*
+9. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+10. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).
+Disp:*90 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary: NSTEMI (3v CAD)
+Secondary: ESRD, CHF, DM
+
+ 
+Discharge Condition:
+fair
+ 
+Discharge Instructions:
+Please follow up with your PCP.
+
+If [**Doctor First Name **] feel any pain or discomfort in the chest please stop what 
+[**Doctor First Name **] are doing and inform your PCP.
+
+Please be carefule with injuries as [**Doctor First Name **] are being anticoagulated 
+(blood thinned), if [**Doctor First Name **] encounter any episode with blood in 
+urine, stool, or bleeding elsewhere please inform your PCP.
+
+Please adhere to low salt diet. If [**Doctor First Name **] notice any weight gain >5 
+lbs or encounter periods of increased shortness of breath please 
+inform your PCP.
+ 
+Followup Instructions:
+Please follow up with your PCP within two weeks.
+
+Please follow up with your cardiologist within 2 weeks.
+
+Continue dialysis as per your usual routine.
+
+ 
+                             [**First Name4 (NamePattern1) 15**] [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 2362**]
+ 
+Completed by: [**Name6 (MD) 2955**] [**Name8 (MD) 2956**] MD [**MD Number 2957**] [**2948-10-22**] @ 1416
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 15**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: MON [**2948-12-2**] 12:34 PM
+(End of Report)
+
+
+",,
+5597,252,,,2948-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-10-15**] 7:13 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 12437**]
+     Reason: Please note that portable CXR has already been ordered.?free
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;END-STAGE RENAL DISEASE;ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with h/o CAD/MI/stenting having chest pain, nausea, and over 
+      5 episodes bilious vomiting in last hour s/p hemodialysis.  
+     REASON FOR THIS EXAMINATION:
+      Please note that portable CXR has already been ordered.?free air, bowel 
+      distention or obstruction.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE VIEW:
+     
+     HISTORY: Nausea and bilious vomiting following hemodialysis.
+     
+     Distribution of bowel gas is unremarkable with gas and fecal residue in the
+     colon and rectum and no evidence of intestinal obstruction and no gastric
+     dilatation.
+
+",,
+5597,252,,,2948-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-10-15**] 7:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12436**]
+     Reason: ?pulm edema                                                 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;END-STAGE RENAL DISEASE;ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old woman with sudden onset SOB, chest pressure. Hx CHF, ESRD, HTN, 
+      PVD  and type 1 DM s/p HD today with chest pain, N/V, and desat to 84% on 6L 
+      NC.
+     REASON FOR THIS EXAMINATION:
+      ?pulm edema                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Sudden onset of SOB and chest pressure.  History of CHF, end
+     stage renal disease and hypertension.  Type I diabetes. Status post
+     hemodialysis. Check for pulmonary edema. 
+     
+     PORTABLE AP CHEST:  A single, AP upright image. Comparison study taken 15
+     hours earlier. There is now evidence of worsening left ventricular failure
+     with increased upper zone redistribution and more extensive bilateral lower
+     zone and mid zone pulmonary edema. There is blunting of the costophrenic
+     angles bilaterally consistent with moderate sized pleural effusions.   The
+     heart shows moderate left ventricular enlargement.
+     
+     IMPRESSION: Worsening left heart failure with increasing pulmonary edema.
+
+",,
+5597,252,,,2948-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-10-15**] 5:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12435**]
+     Reason: head bleed                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with chf, now lethargic                                       
+     REASON FOR THIS EXAMINATION:
+      head bleed                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JHjc TUE [**2948-10-15**] 6:09 AM
+      No intracranial hemorrhage or mass effect.  Atrophy.  Chronic small vessel
+      ischemia.  Calcified atrophic right globe.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: CHF, lethargic.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     FINDINGS: There is no intraparenchymal or extra-axial hemorrhage. There is no
+     shift of normally midline structures, mass effect or hydrocephalus. There is
+     prominence of the ventricle and sulci consistent with atrophy. Note is made of
+     several punctate gyral calcifications in the cerebral hemispheres bilaterally.
+     There is periventricular white matter hypodensity seen bilaterally consistent
+     with chronic small vessel ischemic change. Dense atherosclerotic vascular
+     calcifications are noted in the cavernous portions of the carotid arteries.
+     The visualized paranasal sinuses and osseous structures are unremarkable. Note
+     is made of a calcified atrophic right globe.
+     
+     IMPRESSION: 1) No intracranial hemorrhage or mass effect. 2) Atrophy. 3)
+     Chronic small vessel ischemic change.
+
+",,
+5597,252,,,2948-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-10-15**] 4:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12434**]
+     Reason: sudden onset sob, wheezing, diminished BS                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with sudden onset SOB, chest pressure. Hx CHF, ESRD, HTN, PVD 
+      and type 1 DM
+     REASON FOR THIS EXAMINATION:
+      sudden onset sob, wheezing, diminished BS                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Sudden onset shortness of breath, chest pressure, history of CHF,
+     end stage renal disease.
+     
+     There are no prior studies for comparison.
+     
+     AP UPRIGHT CHEST: There is cardiomegaly. There is vascular engorgement and
+     interstitial prominence consistent with CHF. There is patchy basilar
+     atelectasis and small bilateral pleural effusions. The surrounding soft
+     tissues and osseous structures are unremarkable.
+     
+     IMPRESSION: Findings consistent with CHF with associated bilateral pleural
+     effusions.
+
+",,
+5597,252,6951,,2948-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-10-16**] 12:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12438**]
+     Reason: please eval for placement of L IJ.                          
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE;END-STAGE RENAL DISEASE;ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old woman with sudden onset SOB, chest pressure. Hx CHF, ESRD, HTN,  
+      PVD  and type 1 DM s/p HD today with chest pain, N/V, and desat to 84% on 6L  
+      NC.
+     REASON FOR THIS EXAMINATION:
+      please eval for placement of L IJ.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluate placement of left IJ central venous catheter.
+     
+     PORTABLE AP CHEST X RAY: Comparison is made to study from [**2948-10-15**]. There is
+     interval placement of a left IJ central venous catheter with tip positioned at
+     the level of the mid SVC. No pneumothorax is seen. Again seen is extensive
+     bilateral middle and lower lung zone pulmonary edema with associated upper
+     zone redistribution of the pulmonary vasculature. These findings of CHF and
+     pulmonary edema appear slightly worse since the previous study. Heart size and
+     mediastinal contours are unchanged. Again seen are moderate sized pleural
+     effusions.
+     
+     IMPRESSION: Interval placement of left sided central venous catheter which is
+     satisfactorily positioned. No pneumothorax is seen. Slight interval worsening
+     of previously noted left heart failure and pulmonary edema.
+
+",,
+5597,252,6951,0,2948-10-16 02:34:00 EST,2948-10-16 02:50:00 EST,2705,"N",69,"Nursing/Other",,"
+
+Admitted to floor from cc7 at 2045 on 100 % nrb o2 sats 100 %. crackles bilateral [**4-18**] bilateral, resp labored. c/o sob, chest pain. nitro sl given with complete relief,pt fell asleep,o2 weaned to 4 l nc. ekg st depression in I, AVL.pt with no iv access attempts by iv nurse unsuccessful. chest pain reoccurred after 45 minutes accompanies by sob nitr sl times 2 with relief. central line inserted by dr [**Last Name (STitle) **]. family with patient and dr [**Last Name (STitle) 582**] to family. daughter in law assists with pt care and will translate whnever needed.pt speaks Italian and understands minimal English.. line placement checked by chest xray
+
+ cv: hr 90's nsr no ectopy. bp 130-104/ chest pain on arrival and  sob relieved with 1 sl nitro. chest pain reoccurred nitro times 2 with relief.cvl inserted Rij. placement confirmed by cxr
+
+resp: sob with chest pain. crackles [**4-18**] bilateral on arrival. on relief of chest pain.. clear upper and expiratory wheezes lower lobes o2 weaned to 4l nc.
+
+gi: no nausea, no vomiting. abd obese,pos bowel sounds. tolerating liquids
+
+gu: hd three times per week T, Th, Sat. dialyed saturday and today  [**10-15**].
+
+neuro: alert and oriented- pt speaks Italian. moves all extremities
+
+endo: blood sugar 349 at 2200 tx with 8 units reg. 2 a.m. bl sugar 201.
+
+other labs K=5.2( k had been elevated on admission to er and pt did recieve D50 and 10 units reg insulin in er and was later dialyzed.
+ck= 35,30,39. troponin.32,.30,.39 hct =28. type and cross screen sent to blood blank.
+
+pt resting comfortably at present, pain free. o2 on at 4 l nc sats 98%
+",,
+5597,252,6951,0,2948-10-16 14:39:00 EST,2948-10-16 15:30:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+NEURO: Alert/oriented X 3; primarily Italian speaking but able to make needs known. Pleasant and cooperative.  Moving all extrems independently. 
+
+RESP: Complaints of SOB start of shift; LS with slight exp wheeze at that time with sats low 90s on 6L n/c. Received Atrovent neb X 1 with relief and SOB resolved without any further interventions. Sats low to mid 90s on 6L n/c. 
+
+C/V: Last HD on [**10-15**]; may choose to ultrafiltrate today to improve status but concern re: SBP. Goal is to maintian SBP around 110. Received Lopressor 5mg IV X 1 this shift to improve HR in addition to sched PO dosing. HR now in 70s, SR, no ectopy. No c/o chest pain as of 1600. EKG done early in shift for comparison. Intially considered to be in CHF last night but CKs slightly elevated and suspected MI with flash pulmonary edema.  Started on Heparin gtt at 0930 and titrated per SS.  Next PTT due at 2130.  K elevated at 5.7 with AM labs and retake was 5.9: gave one amp of D50 with 10 units regular insulin. 
+
+GI/GU: NPO except meds in case of cardiac cath. Taking PO meds without difficulty. Abdomen soft, present sounds. No BM this shift. Anuric secondary to HD. 
+
+ENDO: Receiving [**2-16**] NPH dose while NPO. SS coverage otherwise.
+
+SOCIAL: Spoke with daughter in law on telephone; updated with plan. 
+
+DISPO: Full code; MICU green team. 
+
+PLAN: Possible dialysis today
+      NPO except meds
+      [**2-16**] NPH morning dose and hold evening dose while NPO
+      Serial enzymes
+
+
+",,
+5597,252,6951,0,2948-10-16 17:32:00 EST,2948-10-16 17:34:00 EST,2815,"N",69,"Nursing/Other","Nursing Addemdum: 1830","
+Nursing Addemdum: 1830
+Repeat Hct 26.5: two units PRBCs ordered to be administered during dialysis. 
+",,
+5597,252,6951,0,2948-10-16 21:51:00 EST,2948-10-16 22:03:00 EST,5244,"N",69,"Nursing/Other","Nursing Shift Update","
+Nursing Shift Update
+D/A:  VSS, tmax 100.4.  Lungs with bil expir wheezed and decreased bases bil.  Sats on 6L via NC 88-90%.  Discussed with RT and placed pt on face tent with increasing fi02 as needed.  Atrovent neb treatment also given at that time.  Sat probe also changed secondary to poor waveform.  Currently on 35% Face tent with sats 96%.  RR stable and pt resting comfortably.  Pt drowsy/lethargic when received from report.  Difficult to assess orientation from this and language barrier.  Pt does awaken upon verbal command and follows all commands.  MAE, weak.  Will hold evening clonopin.  Ultrafiltration done via right AVF without difficulty.  Received 2u PRBC during procedure without complication.  See tech's note for details.  Pt remains drowsy/lethargic after procedure but able to take schedule PO meds.  2130 PTT=40, increased heparin gtt to 1050u/hr via protocol.  Will draw labs accordingly.  Abd soft and nondistended with +BS.  No c/o pain.  [**Last Name (un) **] blood sugar via sliding scale.  Annuric.  
+R:  Plan to increase lopressor PO dose and start on captopril this evening, see MAR.  Goal SBP 110 HR<80.  Will draw cardiac enzymes and post hct at 0000 as discussed with resident.  Cont to encourage pulm toilet and [**Last Name (un) **] respir status.  No other issues or problems at this time.  Will cont to [**Last Name (un) **].  Report to be given to oncoming shift when available.
+",,
+5597,252,6951,0,2948-10-17 02:32:00 EST,2948-10-17 02:44:00 EST,5933,"N",69,"Nursing/Other","NPN 2330-0730","
+NPN 2330-0730
+NEURO:  MAE, PERL, follows commands. lethargic responds to voice. confused as to place time, date, knows name. restless at times responsive to trazadone at hs. decrease rr, increased sats 
+
+CV:  sbp 110-140, HR 70-90 dependant on activity level. no SVT noted. anuric, skin warm moist, T 100.9 peripheral pulses weak. left foot dusky prox. to left great toe. 
+
+RESP:  RR 20-38 face tent 40% cough non prod. mucous membranes dry. rr diminished when sleeping to 20 sats increased to 100%. removes 02 mask frequently sats drop into the low 80's quickly
+
+GU/GI:  anuric, abd soft rounded, BT present. NPO at mn for procedure [**Doctor First Name **].
+
+SKIN:  grossly intact
+
+ACCESS:  multilumen in right neck. old serous drainage on drsg.
+
+SOCIAL:  no visits or calls this pm
+
+PLAN:  npo for heart cath, monitor VS/ Resp status closely, I/o, cont. heparin gtt. [**Name8 (MD) 34**] MD, cont. HD. 
+",,
+5597,252,6951,0,2948-10-17 16:37:00 EST,2948-10-17 16:53:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+Significant event this shift was Cardiac Cath with stent placement in LAD. Echo from [**10-16**] revealing EF of 30% down from recent echo of 55%. Started on Heparin gtt [**10-16**] for MI; gtt since d/c'd. Returned from Cath Lab at 1700. Plan for full dialysis this evening.
+
+NEURO: Primarily Italian speaking but able to make needs known. Lethargic/sleepy entire morning most likely from Trazadone dose late previous shift. A&O X 3 once awake; pleasant and cooperative. MAE.
+
+RESP: Received on face tent at 40% maintaining sats high 90s to 100. Had desated overnight on n/c.  Now sats mid 90s on 4L n/c. LS clr but diminished at bases. Denies SOB. RR teens.
+
+C/V: Heparin gtt d/c'd post cath. HR 60s-70s, SR, rare PVC. SBP 110s-120s. Receiving Lopressor and Captopril. Right fem sheath present, dry/intact dsg. Pulses dopplerable. Will receive HD this eve as noted above. Toes dusky but not new. 
+
+GI/GU: Had been NPO for procedure. Should be able to resume renal diet this eve. Abdomen soft, hypoactive sounds. No bm since admission. Anuric. Takes meds whole without difficulty.
+
+ENDO: Covered with SS and sched doses of insulin. Hold bedtime NPH while NPO and 1/2 dose of morning NPH if NPO. 
+
+SOCIAL: Family updated by phone.  Will try to visit this eve.
+
+DISPO: Full code; micu green. 
+
+PLAN: Post cath orders
+      HD this eve
+      Will check ACT level at 1800 and sheath can be pulled when <180.
+      
+",,
+5597,252,6951,0,2948-10-18 03:18:00 EST,2948-10-18 03:37:00 EST,2560,"N",69,"Nursing/Other",,"
+
+
+FULL CODE    Universal Precautions     NKDA
+
+
+Neuro: Pt was lethergic at beginning of shift, she had recieved fent during cath procedure.  She was also started on dialysis at beginning of shift.  By 10pm, she was aaox3, MAEx4 and following commands.
+
+CV:  HR was 60s in beginning of shift and is now 70s, NSR, no ectopy.  SBP 110-120s, during dialysis and 140-150s after dialysis.  On lopressor and captopril.  R fem site intact - no bleeding/hematoma - sheaths had been pulled at 1930.   Feet warm bilat, pulses +w/ doppler, altho LPT is someimes diffictult to find. No edema.
+
+Resp:  4l np/ w/ 02 sat 95-97%.  Lungs clear except few crackles in L base.  No cough.
+
+GI/GU:  abd soft, hypo BS, remains NPO at this time.  No BM.  No foley, no urine output - dialysis pt x 12 years.
+
+Pain:  No c/o discomfort.
+
+Access:  LIJ TLC.  R arm shunt - +thrill/+bruit.
+
+Skin: intact.
+
+Social:  No calls this tonight.
+
+Plan:  continue to monitor resp/cardiac/neuro/renal status.  Monitor R fem site for s/sx bleeding/check pedal pulses.
+
+
+
+
+",,

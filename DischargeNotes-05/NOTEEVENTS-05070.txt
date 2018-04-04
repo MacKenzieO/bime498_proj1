@@ -1,0 +1,636 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5070,,,,2850-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-12**] 4:00 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 8037**]
+     Reason: sinus pain
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with cll s/p allo bmt
+     REASON FOR THIS EXAMINATION:
+      sinus pain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56 year old woman with CLL status post allogenous bone marrow
+     transplant, now with sinus pain.
+     
+     Contiguous 3 mm axial images were obtained through the paranasal sinuses.
+     Coronal reformatted images were generated from this data set.  No prior
+     studies are available for comparison.  No contrast was administered.
+     
+     FINDINGS:  There is a small mucous retention cyst, or polyp, in the right
+     maxillary sinus.  There is minimal mucosal thickening in the ethmoid sinuses
+     bilaterally, somewhat more prominent on the left than right.  The reformats
+     are not adequate for a thorough evaluation of the ostiomeatal complexes.
+     However, the right OMC appears to be patent.  There is soft tissue in the
+     region of the left OMC, and it may be obstructed at the time the study was
+     performed.  However, the left maxillary sinus appears normal.
+     
+     CONCLUSION:  Small mucous retention cyst, or polyp, in the right maxillary
+     sinus.  Mucosal thickening in the region of the left ostiomeatal complex,
+     perhaps occluding the complex at the time the imaging was performed.  No other
+     abnormalities are detected.
+
+",,
+5070,,,,2850-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-14**] 2:43 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 8038**]
+     Reason: Fevers s/p allogeneic bone marrow transplant
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with fevers s/p allogeneic bone marrow transplant for CLL
+     REASON FOR THIS EXAMINATION:
+      Fevers s/p allogeneic bone marrow transplant
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  56 y/o woman with fever and status post bone marrow transplant.
+     
+     CHEST PA/LATERAL:  Comparison is not available.  The heart is slightly
+     enlarged.  The pulmonary vasculature is normal.  There is no focal
+     consolidation or pleural effusion.  There are several small calcified
+     densities noted in the right mid lung zone.  The visualized osseous structures
+     appear unremarkable.  There is a central venous catheter terminating in the
+     upper SVC.  Also noted are multiple surgical clips overlying the left breast,
+     and please correlate with patient's prior surgical procedure.
+     
+     IMPRESSION:
+     1)  No evidence of acute pneumonia or CHF.
+     2)  There are several calcified densities in the right mid lung zone, which
+     could represent calcified lymph nodes that are secondary to old TB or other
+     granulomatous disease.  Comparison with prior chest radiograph would be
+     helpful.
+     
+
+",,
+5070,13248,,,2850-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2850-7-16**]     Discharge Date:  [**2850-8-1**]
+
+Date of Birth:   [**2793-10-23**]     Sex:  F
+
+Service:  MEDICAL ICU/OMED
+
+HISTORY OF PRESENT ILLNESS:  This is a 56-year-old Italian
+female with past medical history significant for CLL status
+post allo BMT in [**2850-3-5**], who was admitted to [**Hospital1 184**] secondary to a several day
+history of fevers.  The patient initially presented to
+Hematology/Oncology Clinic on [**7-12**] with a temperature of
+101.9.  At that time, her left PICC line was D/C'd and blood
+cultures sent.  She was treated with a dose of Vancomycin,
+ceftriaxone, and given IV hydration.  The patient has also
+had a two week history of a frontal headache and as a result,
+a head CT was attained in outpatient clinic, which revealed
+findings of a sinusitis.
+
+At that time, the patient's outpatient prednisone dose was
+increased from 15 q.d. to 20 b.i.d.  She refused admission,
+but agreed to return to clinic the very next day still
+febrile.  She was treated again with a gram of Vancomycin and
+ceftriaxone.  She was also given IV Solu-Medrol and IV
+hydration yet again.  This continued for another day again
+the same drill.  She finally agreed to admission and
+presented to the ED on the 12th with continued fevers and
+chills along with a two day history of nausea, vomiting, and
+diarrhea.  In the Emergency Department, the patient was given
+100 mg of Solu-Medrol as well as Levaquin, Flagyl, and
+Vancomycin.
+
+PAST MEDICAL HISTORY:
+1. CLL status post allo BMT in [**2850-3-5**].
+2. Questionable graft-versus-host disease.
+3. History of CMV viremia x3.
+
+ALLERGIES:  No known allergies.
+
+MEDICATIONS ON ADMISSION:
+1. CellCept 250 b.i.d.
+2. Magnesium oxide.
+3. Prednisone 20 b.i.d.
+4. Bactrim [**MD Number 357**] strength q Monday, Wednesday, Friday.
+5. Diflucan 200 q.d.
+6. Protonix 40 q.d.
+7. Ativan 1 b.i.d.
+8. Colace 100 b.i.d. prn.
+
+SOCIAL HISTORY:  The patient lives with her husband and
+daughters.  She denies any alcohol, tobacco, or drug use.
+
+PHYSICAL EXAM ON ADMISSION:  Temperature 101.7, blood
+pressure 92/50, pulse 130, sating 98% on 2 liters and 97% on
+room air with a respiratory rate of 17.  In general, the
+patient appeared fatigued, but was in no acute distress.
+Mucous membranes were dry.  Oropharynx was clear.  Her skin
+revealed a perioral, nasolabial, and chin erythematous rash
+with white scaly patches.  Cardiac examination revealed a
+tachycardic S1, S2, but regular and no murmurs, rubs, or
+gallops.  Lungs were clear bilaterally.  Abdomen was benign.
+Left Hickman site was without erythema or pus.  Extremities
+were without any edema.  She did have 1-2 cm erythematous
+round well demarcated macules on her arms, buttocks, and legs
+as well as her trunk that all partially blanched and were
+nontender.
+
+LABORATORIES ON ADMISSION:  Notable for a white count of 7.4
+with 10 polys, 7 bands, 59 lymphocytes, 16 monocytes, and 12
+atypicals.  Absolute granulocyte count was 7,840.  Sodium was
+131, bicarb 16, anion gap of 15, creatinine was 1.3, INR 2.5.
+AST 132, ALT 303, LDH 384, alkaline phosphatase 106, total
+bilirubin 1.7, lipase 117, amylase 312, albumin 3.9, TSH 2.
+Urinalysis showed [**3-9**] granular hyaline casts, 250 glucose,
+trace protein, few bacteria.  CMV viral load was negative.
+Urine, blood, and tip cultures initially remained negative.
+
+Chest x-ray revealed a questionable retrocardiac density.
+KUB showed no obstruction.  EKG showed sinus tachycardia at
+146 with T-wave inversions in I and L as well as left atrial
+enlargement and left ventricular hypertrophy.
+
+BRIEF HOSPITAL COURSE:  The patient had a long and protracted
+course on the Bone Marrow Transplant service most marked by
+grade 4 graft-versus-host disease, with involvement of  the GI
+tract and the skin that did not respond to steroids. 
+She developed progressive multiorgan failure. On she was
+transferred  to the Fenard ICU on
+[**7-30**] in multiorgan failure.
+
+She developed acute oliguric renal failure. .  Her grade 4 graft-
+versus-host disease of the GI tract and the skin continued to
+progress despite high doses of Solu-Medrol, CellCept, Remicade,
+and cyclosporin.  Her LFTs continued to rise with a peak total
+bilirubin of 19.9 on transfer to the MICU.  She also
+continued to have unrelenting diarrhea.
+
+She developed microangiopathic changes and DIC  with an INR that
+continued to rise eventually reaching 1.7 with schistocytes on
+her smear, a low fibrinogen and a LDH of 1,922.  As a result, a
+question of TTP vs  HUS arose.  She also developed paroxysmal
+atrial fibrillation with intermittent rapid ventricular
+response.  As a result, she was given both IV metoprolol and
+diltiazem in the form of a drip to keep her heart rate
+controlled.
+
+In addition, her mental status began to decline.  This was
+thought to be multifactorial in etiology in part due to
+uremic/hepatic encephalopathy, questionable TTP, and drug
+induced as the patient had been receiving high doses of
+benzodiazepines and narcotics in the setting of hepatic and
+renal function.
+
+Once she was transferred to the Medical ICU, it was decided
+to discontinue all mind-altering medications.  As she was
+given fluid boluses in last effort to improve her urinary
+output but without effect. She became persistently more hypoxic
+with agonal breathing at times.  Her white count also continued
+to rise on a daily basis with no clear etiology as all cultures
+continue to remain negative.  She, however, remained on broad-
+spectrum antibiotics, antifungals, and antivirals.
+
+Towards the end of her hospital course, however, the
+patient's chest x-ray did reveal multiple nodules bilaterally
+very concerning for fungal infection.  In light of her
+worsening clinical condition. On  [**8-1**] because of
+progressive declining clinical condition the family requested a 
+DNR/DNI order. It was decided to continue
+the current level of care including all medications and
+laboratory draws, but there was to be no escalation of
+treatment (i.e., no intubation, hemodialysis, or pressors).
+
+The patient later that afternoon became
+persistently more hypotensive and bradycardic likely
+secondary to her progressively increasing acidemia from her
+renal failure.  As a result, she passed away at 4:15 p.m. on
+[**2850-8-1**] with her entire family present in the room.
+The request for autopsy was denied.
+
+DISCHARGE DIAGNOSES:
+1. Stage IV graft-versus-host disease.
+2. Multiorgan failure.
+
+DISCHARGE CONDITION:  Demised.
+
+
+
+                    [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], M.D. [**MD Number 2519**]
+
+Dictated By:[**First Name (STitle) 5769**]
+
+MEDQUIST36
+
+D:  [**2850-9-26**]  21:20
+T:  [**2850-9-30**]  11:10
+JOB#:  [**Job Number 5770**]
+
+
+
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 961**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**2851-1-16**] 1:05 PM
+(End of Report)
+
+
+",,
+5070,13248,,,2850-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-16**] 9:48 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 8040**]
+     Reason: 56 y/o female with cll n/v fevers
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with as above
+     REASON FOR THIS EXAMINATION:
+      56 y/o female with cll n/v fevers
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, nausea, vomiting, fevers.
+     
+     SINGLE AP VIEW OF THE ABDOMEN is obtained without comparisons.  There are no
+     abnormal calcifications.  There is nonspecific bowel gas pattern, without
+     evidence of obstruction
+
+",,
+5070,13248,,,2850-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-16**] 9:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8039**]
+     Reason: 56 y/o cll with fevers
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      56 y/o cll with fevers
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fevers and chills, CLL. ? pneumonia.
+     
+     SINGLE AP view of the chest is compared with the prior study from two days
+     ago.
+     
+     FINDINGS:  The patient is rotated towards the right. The cardiac silhouette
+     remains slightly enlarged but unchanged.  Right-sided subclavian Portacath is
+     again seen, with tip in upper SVC.  High-density opacity in the right lower
+     lung zone likely represents calcified granuloma, and it is unchanged. Multiple
+     calcified lymph nodes are again seen. There are no new opacities to suggest
+     pneumonia. No evidence of failure. No pneumothorax or pleural effusions.
+     Multiple surgical clips are seen within the left axillary chest wall.
+     
+     IMPRESSION:
+     
+     No evidence of pneumonia or acute cardiopulmonary disease
+
+",,
+5070,13248,6297,0,2850-07-16 16:39:00 EST,2850-07-16 16:40:00 EST,1073,"N",69,"Nursing/Other",,"
+
+Addendum: refer to admit note and careview for details
+",,
+5070,13248,6297,0,2850-07-17 04:07:00 EST,2850-07-17 04:15:00 EST,977,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+Neuro: Alert and orientated x3, speaks very little english, mostly Italian, but seems to understand what I say to her.
+
+Resp: Lungs clear, sats 97-99% on room air.
+
+CV: HR 90-110's sr/st, no ectopy noted. Bp stable 100's/50-60's.
+
+GI: Frequent loose mucousy stools, ? c-diff specimen sent and o&p x1, still need 2 more specs. C/o abd. cramping with stools. BS+.
+
+GU: U/O 100-200CC/HR, urine still amber colored. On liter #3 of ns at 200cc/hr.
+
+ID: Temp max.99.2po, continues on iv abx.
+
+Plan: Continue hydration, monitor hr and bp.
+",,
+5070,13248,6297,0,2850-07-17 15:51:00 EST,2850-07-17 16:01:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900 see careview for details
+
+NEURO : AXOX3 , MAE. 
+
+RESP: LCTA , sats 97-100%  on RA.
+
+C/V: ST no ectopy , BP stable .
+
+F/E/N: Cont on NSS @ 100hr. Unable to tol clear liquids. Had mulitple episodes of loose watery stool today.Remains pos 1.2 liters for today.
+OU ~ 100cc/hr.
+
+Plan: cont  ab tx,derm to bx skin lesions, monitor  hemodynamic status. 
+",,
+5070,13248,6297,0,2850-07-18 04:53:00 EST,2850-07-18 05:00:00 EST,977,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+PT. is alert and orientated x3, speaks broken english, mostly Italian, bp and hr are stable see carevue for details, o2 sat fine on room air, lungs clear, continues with freq. loose diarrhea, last stool spec was sent. Continues in iv abx, and hydration at 200cc/hr, u/o ok, see careview for details. 
+",,
+5070,13248,6297,0,2850-07-18 16:25:00 EST,2850-07-18 16:40:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN 0700-1900","
+[**Wardname **] 4 ICU NPN 0700-1900
+
+    Taking sips of ginger ale. Had one jello. Cont to pass frequent mod amts watery/mucous stool. States she has abd cramps assoc with episodes of diarrhea. To be started on boost/low residue diet. IVF cont at 200 cc hr. 
+   T-max 99.2 PO. WBC 2.9, polys 28, bands 12. Cont on flagyl, bactrim, gancyclovir. Urine cult negative, catheter tip neg ( from7/8).
+   BS running ~200. To be started on NPH insulin in addition to RSSI.
+   Hydrocortisone cream applied to skin leisons. S/B derm. BX done on LUE leison.
+   Foley d/c'd. Pt thinks she has voided X2 when she has had a BM.
+   Drt in to visit.
+   BS remain clear. sats high 90's on RA.
+
+A/P:   Appitite poor. Eval PO intake with  Boost supplement. Low          residue diet to minimize diarrhea
+     Stable. CV/ RESP status 
+     WBC low-?eti
+     Follow BS NPH & RSSI
+     
+   
+",,
+5070,13248,6297,0,2850-07-19 05:04:00 EST,2850-07-19 05:16:00 EST,977,"N",69,"Nursing/Other","MICU NPN 7P7-A","
+MICU NPN 7P7-A
+Neuro: Alert and orientated x3. Follows commands well.
+
+RESP: Room air sats 93-96%, no sob noted lungs clear.
+
+CV: BP and hr stable see carevue for details. 
+
+GI: Pt. continues with freq. loose diarrhea, started on immodium last noc, spoke with pt. about placing a rectal bag so she could get some rest, she was agreed to that and had 500cc of [**Doctor Last Name 63**] colored liq. stool drained in bag since it was placed last noc, awaiting results of stool culteres, appatite poor taking in small amts. of liqs. Fluids continued at 200cc/hr, pt is positive see carevue for exact number of liters.
+
+GU: voiding in bedpan, urine amber in color, culture was sent this am.
+
+Access: Pt. has a left poc + blood return, ? when port was accessed due to needle may need to be be changed.
+
+Plan; Continue to hydrate pt. monitor diarrhea, cont. on iv abx.
+
+",,
+5070,13248,,,2850-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-20**] 2:10 PM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 8041**]
+     Reason: RUQ U/S to rule out cholelithiasis in setting of T. Bili inc
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with pmh sig for CLL s/p BMT [**3-7**] presents with likely 
+      graft-vs.-host disease
+     REASON FOR THIS EXAMINATION:
+      RUQ U/S to rule out cholelithiasis in setting of T. Bili increase to 5.4 today  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LIMITED ABDOMINAL ULTRASOUND
+     
+     INDICATION:  56 year old female with increased LFT's.  Evaluate for
+     cholelithiasis.
+     
+     FINDINGS:  The gallbladder is normal in appearance with no evidence of
+     gallstones.  The common duct is not dilated measuring 6 mm distally.  There is
+     evidence of slightly increased echogenicity of the hepatic parenchyma.  There
+     is a hypoechoic lesion in the periportal region with evidence of internal flow
+     which measures 2 cm in greatest transverse dimension.  Limited views of the
+     liver demonstrate no evidence of intrahepatic biliary ductal dilatation or
+     focal mass.
+     
+     IMPRESSION:
+     
+     1.  No evidence of gallstones or biliary ductal dilatation.
+     
+     2.  Hypoechoic 2 cm lesion in the periportal region.  Given the patient's
+     stated history of CLL, this finding likely represents a periportal lymph node.
+     
+     3.  Evaluation of the liver demonstrates a slightly increased
+     diffuse echogenicity and no evidence of focal hepatic mass.
+     
+     
+
+",,
+5070,13248,,,2850-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-21**] 3:04 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8042**]
+     Reason: Pt has reduced 02 sat with no rales or wheezes on exam, in s
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with PMH sig for CLL s/p BMT [**3-7**].  Pt now presents with
+      graft-vs-host disease and is being tx'd with solumedrol.  New onset fever
+      overnight.
+     REASON FOR THIS EXAMINATION:
+      Pt has reduced 02 sat with no rales or wheezes on exam, in setting of high dose
+      steroid tx for GVHD. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     INDICATION: New onset of fever and decreased oxygen saturation. History of
+     graft vs. host disease.
+     
+     A left subclavian vascular catheter remains in place in the superior vena
+     cava. The heart is upper limits of normal in size and stable. Calcified lymph
+     nodes and calcified granulomas are again demonstrated. The lungs demonstrate
+     no focal areas of consolidation and no pleural effusion is evident.
+     
+     IMPRESSION: No radiographic evidence of pneumonia. If clinical suspicion is
+     high in this immunosuppressed patient, correlative high resolution CT imaging
+     may be helpful.
+
+",,
+5070,13248,,,2850-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-22**] 11:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8043**]
+     Reason: s/P CVL                                                     
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman with PMH sig for CLL s/p BMT [**3-7**].  Pt now presents with 
+      graft-vs-host disease and is being tx'd with solumedrol.  R/O PTX
+     REASON FOR THIS EXAMINATION:
+      s/P CVL                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Placement of right subclavian central line.
+     
+     CHEST, AP PORTABLE:  Comparison is made to prior study of [**2850-7-21**]. There is
+     interval placement of a right subclavian central line, terminating in the
+     distal SVC.  Again noted is left subclavian central line terminating n the mid
+     SVC.  There is no evidence of pneumothorax.  Heart is within normal limits.
+     Again noted are several calcified lymph nodes in the mediastinum. Also noted
+     are several small calcified granulomas, unchanged from the prior exam. Lungs
+     demonstrate no focal areas of consolidation and no pleural effusion is noted.
+     
+     IMPRESSION:
+     
+     1) Interval placement of right subclavian central line terminating in the
+     distal SVC.  No evidence of pneumothorax.
+
+",,
+5070,13248,,,2850-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-28**] 7:50 AM
+     ABDOMEN (SUPINE & ERECT) PORT                                   Clip # [**Clip Number (Radiology) 8044**]
+     Reason: 56 y/o female with GVHD presents with severe abdominal pain 
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman with CLL s/p BMT complicated by grade 3 GVHD
+      has new onset severe abd pain and rebound.
+     REASON FOR THIS EXAMINATION:
+      56 y/o female with GVHD presents with severe abdominal pain and rebound
+      tenderness.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Graft versus host disease.  Abdominal pain.
+     
+     Comparison made to [**2850-7-16**].  No free air is identified in the abdomen.
+     Air is present in the small bowel.  A paucity of gas is present in the colon
+     bony structures are unremarkable.
+     
+     IMPRESSION:  Air filled loops of small bowel which are multiprominent in left
+     lower quadrant interval follow up study suggested to document progressive
+     passage of air.
+
+",,
+5070,13248,,,2850-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-30**] 9:36 AM
+     FOLLOW-UP,REQUEST BY RAD.                                       Clip # [**Clip Number (Radiology) 8046**]
+     Reason: 56 y/o female with GVHD (CLL s/p BMT) grade III has new onse
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      see aboive
+     REASON FOR THIS EXAMINATION:
+      56 y/o female with GVHD (CLL s/p BMT) grade III has new onset severe abd pain
+      and rebound.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 56 year old female who is immunosuppressed with severe abdominal
+     pain and rebound.
+     
+     AP PORTABLE SUPINE AND ERECT ABDOMEN: There is no significant change from
+     previous study dated [**2850-7-28**]. As before, there is a paucity of bowel
+     gas.  The few loops of small bowel that contains gas do not appear distended.
+     There is no evidence of perforation.
+     
+     IMPRESSION: No change. Paucity of bowel gas.  No obstruction or perforation.
+     
+
+",,
+5070,13248,,,2850-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-30**] 9:36 AM
+     ACUTE ABD SERIES ([**2-7**] VIEWS OF ABD & SGL CHEST VIEW)            Clip # [**Clip Number (Radiology) 8045**]
+     Reason: New jump in wbc and clinical deterioration in immunosuppress
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old woman with PMH sig for CLL s/p BMT [**3-7**].  Pt now presents with 
+      graft-vs-host disease and is being tx'd with solumedrol, cyclosporine, s/p
+      remicaide.
+     REASON FOR THIS EXAMINATION:
+      New jump in wbc and clinical deterioration in immunosuppressed pt s/p BMT with
+      GVHD.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  56 y/o woman who is immunosuppressed with leukocytosis and clinical
+     deterioration.  She is S/P bone marrow transplant with graft vs. host disease.
+     
+     AP UPRIGHT CHEST AT 10:47:  The exam is limited due to respiratory motion.
+     There is no significant change when compared to prior chest dated [**2850-7-22**].  No
+     acute cardiopulmonary disease is evident.
+
+",,
+5070,13248,6298,,2850-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-7-31**] 2:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8047**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old woman with PMH sig for CLL s/p BMT [**3-7**].  Pt now presents with  
+      graft-vs-host disease and is being tx'd with solumedrol, cyclosporine, s/p 
+      remicade now w/ inc WBC and hypoxia.
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 56 y/o woman immunosuppressed now with leukocytosis and hypoxia.
+     
+     PORTABLE AP SEMI-UPRIGHT CHEST [**2850-7-31**] @ 2:37 P.M.:
+     
+     Please note the exam is technically limited. There is cut off of right lateral
+     chest and respiratory motion degrades evaluation of the lungs. However, it is
+     clear that there are multiple nodules bilaterally.
+     
+     IMPRESSION: Markedly limited exam. New nodular densities in both lung fields
+     warrant a repeat examination at no charge to the patient.
+
+",,
+5070,13248,6298,0,2850-07-31 06:00:00 EST,2850-07-31 06:02:00 EST,252,"N",69,"Nursing/Other",,"
+
+PLEASE SEE FLOW SHEET AND FHPA FOR DETAILS OF PMHX, HPI, AND ASSESSMENT.  ADDENDUM:  PT HAD ANOTHER EPISODE OF HD STABLE RAF ~ 6AM.  THIS TIME NOT CLEARLY R/T PAIN.  LOPRESSOR INEFFECTIVE, BUT DILT 5 MG'S IV GOT HR DOWN TO ONE TEES.  SBP'S STABLE.  
+",,
+5070,13248,6298,0,2850-07-31 17:17:00 EST,2850-07-31 17:33:00 EST,723,"N",69,"Nursing/Other","rn progress note","
+rn progress note
+neuro: pt reamins unresponsive except wehen stimulated with turning at which time pt groans and moves exts. occass opeing eyes slightly to tactile stimulation but does not focus or follow commmands. no pain med or sedation givne during day. morphine prn dc'd
+
+resp: ls esen clear with occas ins. wheeze noted in upper lobes. mouth breathing with sats 97 to 98% rr teens to 20's regular rate.
+
+cad: pt started on dilt gtt at 5mg titrated to 7.5 mg then back down to 5mg/hr converted to sr at 1430 with hr 80-90's pvc's noted in first hour but none since. clonidine patch dc'd.
+
+gi: no further stool noted small mat in tube which wa present at start of shift. cdiff sample needed. bs+
+
+gu: renal consulted on patient status. urine ouput has slowly titrated off as day has progressed. pt is ordered for 2 units ffp to eleviate third spacing and increase urine output. per renal rf r/t cyclosporin and hopefully there will be a positive change over next 24 to 48 ( this is what patient's family has been told)
+
+id: pt remains hypothermic 95.4 difficult to obtain accurate temp. due to mouth breathing and rectal bag. wbc 36. pt cont on bmt precautions. antb given.
+
+social: many family memebers into visit and to give support to immediate family.. family asking repeated questions. rrenal,hemonc and micu have spoken with family.
+
+plan:cyclosporin is complete, pt orderd for 2 units ffp, labs due at 2000 with type and screen, cont to monitor vs, labs, and provide emto. support to family
+",,
+5070,13248,6298,,2850-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2850-8-1**] 8:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8048**]
+     Reason: r/o PNA, r/o pul edema                                      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         56 year old woman with PMH sig for CLL s/p BMT [**3-7**].  Pt now presents with   
+      graft-vs-host disease and is being tx'd with solumedrol, cyclosporine, s/p  
+      remicade now w/ inc WBC and hypoxia.
+     REASON FOR THIS EXAMINATION:
+      r/o PNA, r/o pul edema                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56 y/o woman status post bone marrow transplant for CLL.
+     Increasing white count and hypoxia.
+     
+     PORTABLE AP UPRIGHT VIEW OF THE CHEST:
+     
+     COMPARISON:  [**2850-7-31**].
+     
+     Left axillary clips are again noted.  There are right and left central venous
+     lines with tips terminating at the level of the lower and mid SVC
+     respectively.  The heart size and mediastinal contour are within normal
+     limits.  There are nodular bilateral areas of ground glass opacity with
+     increasing more confluent left retrocardiac opacity.  There are no pleural
+     effusion or pneumothorax.  Osseous structures are grossly unremarkable.
+     
+     IMPRESSION:  Nodular bilateral parenchymal opacities and worsening confluent
+     left retrocardiac opacity.  The findings are concerning for an infectious
+     process. Atypical infection such as fungal organism should be considered.
+     Septic emboli can also produce this appearance.
+
+",,
+5070,,6298,0,2850-08-01 05:48:00 EST,2850-08-01 05:55:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAD AN OK NIGHT.  SHE HAS NOT APPEARED TO BE IN ANY PAIN.  UNRESPONSIVE.  ~ 2AM NOTED TO BE SNORING.  SEEN BY DR. [**Last Name (STitle) 3664**].  NO NEED TO INTUBATE AT THIS TIME.  ORAL AIRWAY IN PLACE.  40% CN ON D/T SATS DOWN TO 91% ON 2 LITERS NC.  BS'S COURSE.  ONE ATTEMPT MADE TO NT SX, BUT UNABLE TO GET DOWN AND PT'S NARES WERE STARTING TO BLEED.  HR ~ 100, NSR.  NO EPISODES OF A-FIB ON DILT DRIP AT 5 MG'S.  SBPS' IN 150'S.  INSULIN DRIP OFF ~ 10 PM.  FS'S 100 RANGE SINCE.  AM BS PND.  I&O'S ONCE AGAIN QUITE +.  UO ONLY 15 CC'S Q 2HRS.  PT IS GETTING QUITE EDEMATOUS, INC TOUNGE (I THINK THIS IS THE REASON FOR THE SNORING), SO I HELD OFF ON 2ND UNIT PRBC'S UNTIL WE SEE AM HCT (PM HCT 23.8%- ONE UNTI MAY DO THE TRICK).  SHE ALSO GOT 2 BAGS FFP LAST NIGHT.  AM COAGS PND.  NO S/[**Last Name (un) **] BLEEDING NOTED.  PM K+ UNDER 5, AM PND.      
+",,
+5070,,6298,0,2850-08-01 15:32:00 EST,2850-08-01 15:37:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN","
+[**Wardname **] 4 ICU NPN
+
+    After family meeting pt made DNR/DNI. Pt becoming bradycardic to 55. dilt gtt d/c'd. Becoming progressively hypotensive. Pt expired with family at bedside. Catholic prist in to offer support to family.
+",,

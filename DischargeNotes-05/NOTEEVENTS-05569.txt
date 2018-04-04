@@ -1,0 +1,602 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5569,,,,3316-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-7-10**] 2:19 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 12235**]
+     Reason: ELEVATED LFT'S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with obesity, diabetes, ruq pain 
+     REASON FOR THIS EXAMINATION:
+      evaulate for gallstones
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper quadrant pain.
+     
+     ABDOMEN U/S:  The liver has heterogeneous echo texture and is shrunken with a
+     nodular border.  Two 4 cm masses are present in the right hepatic lobe.  Both
+     masses have a hypoechoic rim with a hyperechoic center.  The main portal vein
+     is thrombosed with collateral vessels around it.  There are multiple
+     subcentimeter portal nodes.  The gallbladder wall is edematous, but there are
+     no calculi, distention, or sonographic [**Doctor Last Name 84**] sign.  A small amount of
+     ascites is present.  The head and body of the pancreas are normal.  The spleen
+     is enlarged without focal lesions. The maximal measurement of the spleen is
+     15.8 cm.  A 1.5 cm splenule is adjacent to the lower pole of the spleen. Both
+     kidneys are normal.  The right kidney measures 10.2 cm and the left kidney
+     measures 11.6 cm.
+     
+     IMPRESSION:
+     
+     1. The presence of two dominant lesions in the right hepatic lobe with main
+     portal vein thrombosis in the setting of cirrhosis is highly suggestive of
+     hepatoma.  However, the presence of only two dominant lesions without a
+     diffuse infiltrative lesion or multifocal small lesions is not entirely
+     typical of hepatoma.  The two dominant lesions also have a ""bullseye""
+     appearance, which can be seen with metastatic lesions, especially those from a
+     GI source. Although the appearance is most suggestive of hepatoma, metastases
+     from a GI source should also be considered.
+     
+     2.  Splenomegaly.
+     
+     3.  Gallbladder wall edema is most likely secondary to the same process
+     causing the ascites.  No sonographic evidence of acute cholecystitis.
+     
+     Dr. [**Last Name (STitle) 12236**] was informed by phone at 3:45 p.m.
+     
+
+",,
+5569,,,,3316-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-7-22**] 2:31 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 12237**]
+     Reason: ABNORMAL LFT'D AND CT SCAN ABDOMINAL PAIN AND ACSITES
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with  abn lfts
+     REASON FOR THIS EXAMINATION:
+      r/o hepatoma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abnormal LFT's and abdominal pain and ascites.
+     
+     The patient, despite best efforts and the presence of a translator, had
+     limited breath hold capacity. Therefore a combination of breath hold and non-
+     breath hold strategies were used. Despite our best efforts motion artifact
+     limits the quality of the study.
+     
+     Multiple sequences including T1, HASTE, STIR, and pre and post gadolinium fat
+     saturated VIBE images were obtained.
+     
+     There is extensive ascites. The two dominant nodules seen in the right lobe on
+     the recent ultrasound of [**3316-7-10**] are identified as areas of subtle T2
+     hyperintensity relative to the background liver. These are best appreciated on
+     the HASTE and STIR and to an extent out of phase T1 weighted images.
+     
+     Because the lesions are very subtle in contrast distinction, obtaining precise
+     measurements is somewhat difficult but the largest lesion in the inferior
+     portion of the right lobe is estimated to be at least 5 cm in diameter.
+     
+     The portal vein is not visualized on 2D time of flight sequences that are flow
+     sensitive. In addition the usual flow void is not seen on HASTE sequences and
+     on post gadolinium images, while assessment is limited, no flow is identified
+     within the portal vein. Portions of the splenic vein are visualized.
+     
+     The liver has an irregular nodular contour consistent with cirrhosis and the
+     spleen is enlarged measuring approximately 17 cm in craniocaudad length.
+     
+     No other significant abnormality is noted when allowing for the limitations of
+     this study.
+     
+     IMPRESSION: The fact that the abnormality seen on ultrasound are only very
+     subtly detected on T2 weighted images with respect to background liver, and
+     there is portal vein thrombosis, strongly suggests that the lesions in the
+     liver are hepatomas.
+     
+     Unfortunately the contrast study did not add much information to this
+     diagnosis. If an ultrasound-guided biopsy cannot be performed for further
+     evaluation, and if clinically indicated, a repeat non-breath hold evaluation
+     can be attempted to see if further dynamic post gadolinium information can be
+     obtained.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3316-7-22**] 2:31 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 12237**]
+     Reason: ABNORMAL LFT'D AND CT SCAN ABDOMINAL PAIN AND ACSITES
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5569,,,,3316-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-7-22**] 2:31 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 12237**]
+     Reason: ABNORMAL LFT'D AND CT SCAN ABDOMINAL PAIN AND ACSITES
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with  abn lfts
+     REASON FOR THIS EXAMINATION:
+      r/o hepatoma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Abnormal LFT's and abdominal pain and ascites.
+     
+     The patient, despite best efforts and the presence of a translator, had
+     limited breath hold capacity. Therefore a combination of breath hold and non-
+     breath hold strategies were used. Despite our best efforts motion artifact
+     limits the quality of the study.
+     
+     Multiple sequences including T1, HASTE, STIR, and pre and post gadolinium fat
+     saturated VIBE images were obtained.
+     
+     There is extensive ascites. The two dominant nodules seen in the right lobe on
+     the recent ultrasound of [**3316-7-10**] are identified as areas of subtle T2
+     hyperintensity relative to the background liver. These are best appreciated on
+     the HASTE and STIR and to an extent out of phase T1 weighted images.
+     
+     Because the lesions are very subtle in contrast distinction, obtaining precise
+     measurements is somewhat difficult but the largest lesion in the inferior
+     portion of the right lobe is estimated to be at least 5 cm in diameter.
+     
+     The portal vein is not visualized on 2D time of flight sequences that are flow
+     sensitive. In addition the usual flow void is not seen on HASTE sequences and
+     on post gadolinium images, while assessment is limited, no flow is identified
+     within the portal vein. Portions of the splenic vein are visualized.
+     
+     The liver has an irregular nodular contour consistent with cirrhosis and the
+     spleen is enlarged measuring approximately 17 cm in craniocaudad length.
+     
+     No other significant abnormality is noted when allowing for the limitations of
+     this study.
+     
+     IMPRESSION: The fact that the abnormality seen on ultrasound are only very
+     subtly detected on T2 weighted images with respect to background liver, and
+     there is portal vein thrombosis, strongly suggests that the lesions in the
+     liver are hepatomas.
+     
+     Unfortunately the contrast study did not add much information to this
+     diagnosis. If an ultrasound-guided biopsy cannot be performed for further
+     evaluation, and if clinically indicated, a repeat non-breath hold evaluation
+     can be attempted to see if further dynamic post gadolinium information can be
+     obtained.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3316-7-22**] 2:31 PM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 12237**]
+     Reason: ABNORMAL LFT'D AND CT SCAN ABDOMINAL PAIN AND ACSITES
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5569,21621,,,3316-07-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3316-7-30**]     Discharge Date:  [**3316-8-3**]
+
+Date of Birth:   [**3262-4-10**]     Sex:  F
+
+Service:  [**Doctor Last Name **]
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known patient lastname 6712**] is a 54-year-old
+Ukranian woman, mostly Russian-speaking, who has a past
+medical history of hepatitis C cirrhosis and a recent
+diagnosis of hepatoma with an AFP of 340,000.  She had a
+recent paracentesis about one week prior to admission which
+removed about 3 liters of fluid without complications.
+
+Since then, she complains of malaise and nausea.  On the
+morning of admission, she experienced seven episodes of
+emesis that were nonbloody followed by two episodes of
+hematemesis.  She presented to the Liver Clinic where she had
+an additional episode of hematemesis.  She also noted that
+she has had one week of diarrhea and melena with decreased
+appetite.  She denied lightheadedness, loss of consciousness,
+dizziness, headache, chest pain, shortness of breath,
+abdominal pain, urinary symptoms, or dyspepsia.  She has not
+used aspirin or nonsteroidal antiinflammatory drug, and she
+denied fevers, chills, travel history, or changes in food.
+She does not drink alcohol.
+
+PAST MEDICAL HISTORY:
+1.  Type 2 diabetes.
+2.  Hypertension.
+3.  Schizophrenia.
+4.  Hepatitis C diagnosed within the last month, complicated
+by cirrhosis with ascites.
+5.  Hepatoma.
+
+MEDICATIONS ON ADMISSION:  Medications on admission included
+Aldactone 100 mg p.o. q.d., Lasix 40 mg p.o. q.d.,
+Glucotrol 5 mg p.o. q.d., Ativan 1 mg p.o. q.h.s.,
+moexipril 7.5 mg p.o. q.d., Zoloft 100 mg p.o. q.d., and
+Prolixin 25 mg p.o. every six weeks.
+
+ALLERGIES:  PENICILLIN causes a rash.
+
+SOCIAL HISTORY:  She lives with her husband and does not
+smoke or drink.
+
+PHYSICAL EXAMINATION ON ADMISSION:   Ms. [**Known patient lastname 6712**] was a
+well-appearing woman in no acute distress.  Her blood
+pressure lying down was 140/80 with a pulse of 88, upon
+standing up she went to a blood pressure of 137/80 with a
+pulse of 120.  Her HEENT examination was unremarkable.  Her
+neck was supple with no jugular venous distention.  Her lungs
+were clear.  Her heart was regular in rate and rhythm and had
+a 3/6 systolic murmur loudest at the right upper sternal
+border with no radiation to the neck.  Her abdomen was soft
+and distended with no clear fluid wave.  Her neurologic
+examination showed no asterixis.
+
+LABORATORY DATA ON ADMISSION:  Laboratories on admission
+included a hematocrit of 33.8 which was down from 37.3 on
+[**7-21**].  Her electrolytes showed a sodium of 128, a
+potassium of 5.5, a chloride of 93, a bicarbonate of 23, a
+BUN of 27, and a creatinine of 1.2.  Her baseline creatinine
+is 0.6.  Her AST was 119.  Her ALT was 68.  Her alkaline
+phosphatase was 94.  Her amylase and lipase were 26 and 45,
+respectively.  Her total bilirubin was 1.8.  Her albumin
+was 3.1.  Her hepatitis C virus viral load was 29,700.
+
+HOSPITAL COURSE:  In the Emergency Room Ms. [**Known patient lastname 6712**] [**Last Name (Titles) 22**]
+a nasogastric lavage of 700 cc without complete clearing.
+She was immediately sent to esophagogastroduodenoscopy which
+showed grade III varices in the lower third of her esophagus
+with no active bleeding.  A nonbleeding varix was noted in
+the cardia of her stomach as well as clotted blood in her
+fundus.  She had a normal duodenum.  Therapy was undertaken
+with sodium morrhuate at that time.  She was then transferred
+to the Medical Intensive Care Unit where she was closely
+watched.  She was started on Octreotide, Protonix, and
+ciprofloxacin for spontaneous bacterial peritonitis
+prophylaxis.
+
+Serial hematocrits were watched which were suggestive a
+second bleed, so she was sent back for another
+esophagogastroduodenoscopy, where upon her varices were
+banded.  During her stay she received 6 units of packed red
+blood cells and 2 units of fresh frozen plasma.  She was also
+started on Carafate after her second
+esophagogastroduodenoscopy.  Nadolol and Imdur were begun for
+her varices.  She completed three days of ciprofloxacin and
+five days of Octreotide during her stay.  After her
+hematocrit was stable for 12 hours she began to have her diet
+advanced which she tolerated with minimal nausea.  Her
+hematocrit remained stable at about 36.5 to 36.7 after her
+second esophagogastroduodenoscopy.
+
+As she had tense ascites, she underwent a large volume
+therapeutic paracentesis which removed about 5 liters of
+straw-colored fluid.  She tolerated the procedure without any
+immediate complications.
+
+CONDITION AT DISCHARGE:  Condition on discharge was improved.
+
+DISCHARGE STATUS:   To home.
+
+DISCHARGE FOLLOWUP:  To follow up with her primary care
+physician, [**Name10 (NameIs) **] the Liver Clinic on Tuesday, [**8-11**],
+and with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1147**] of Hematology/Oncology.
+
+DISCHARGE DIAGNOSES:
+1.  Hepatitis C complicated by cirrhosis with ascites,
+esophageal varices, status post a bleed, status post
+esophagogastroduodenoscopy times two with sclerotherapy and
+banding.
+2.  Hepatoma.
+3.  Type 2 diabetes.
+4.  Hypertension.
+5.  Schizophrenia.
+
+MEDICATIONS ON DISCHARGE:
+1.  Glucotrol 5 mg p.o. q.d.
+2.  Prolixin 25 mg p.o. every six weeks.
+3.  Zoloft 100 mg p.o. q.d.
+4.  Protonix 40 mg p.o. q.d.
+5.  Nadolol 40 mg p.o. q.d. with a goal heart rate of 60.
+6.  Lasix 20 mg p.o. q.d.
+7.  Aldactone 50 mg p.o. q.d.
+8.  Imdur 30 mg p.o. q.d.
+9.  Carafate 1 g q.i.d.
+
+
+
+                          [**Doctor Last Name 2780**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD  [**MD Number 6713**]
+
+Dictated By:[**Name8 (MD) 2624**]
+
+MEDQUIST36
+
+D:  [**3316-8-4**]  15:45
+T:  [**3316-8-9**]  10:55
+JOB#:  [**Job Number 6714**]
+Signed electronically by: DR. [**First Name (STitle) 2780**] [**Name (STitle) **]
+ on: WED [**3316-8-19**] 9:04 AM
+(End of Report)
+
+
+",,
+5569,21621,6915,,3316-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-7-31**] 2:20 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 12238**]
+     Reason: INCREASED LFT'S AND HEPATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with obesity, diabetes, ruq pain 
+     REASON FOR THIS EXAMINATION:
+      r/o portal vein thrombosis.  GI waiting for results to do EGD this afternoon so
+      please ASAP at bedside. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with right upper quadrant pain, obesity and diabetes.
+     Rule out portal vein thrombosis.
+     
+     COMPARISON:  [**3316-7-10**].
+     
+     FINDINGS:  The liver is small and nodular in contour, with echogenic
+     parenchyma consistent with cirrhosis.  A 3.8 cm hypoechoic mass is re-
+     identified in the right hepatic lobe; however, direct comparison is difficult
+     secondary to distortion of the hepatic parenchyma.  Echogenic material is
+     identified within the right and main portal vein consistent with thrombosis,
+     which is unchanged since the prior study.  There is splenic vein thrombosis.
+     The intrahepatic bile ducts are not dilated.  Ascites and splenomegaly are re-
+     identified.  The gallbladder wall is thickened with sludge.  The common duct
+     is not dilated, measuring 4-5 mm.
+     
+     IMPRESSION:
+     1.  Portal vein thrombosis, as noted on the prior study, without change.
+     Splenic vein thrombosis is identified.
+     2.  No change in findings consistent with cirrhosis with associated ascites
+     and splenomegaly. There is at least one focal hepatic mass which is suspicious
+     for hepatoma.
+     
+     
+     
+     
+     
+
+",,
+5569,21621,6915,0,3316-07-31 04:06:00 EST,3316-07-31 04:56:00 EST,226,"N",1,"Nursing/Other",,"
+
+MICU Nursing Admission Note:
+
+  Mrs. [**Known patient lastname 456**] is a 54 y/o primarily Russian speaking women (requires translator) with past medical history significant for hep c, hematoma, cirrhosis, HTN, DM type 2, ascites and schizophrenia. Pt underwent recent paracentesis one wk ago with removal of 3L fluid. Procedure w/o complication per report. Since procedure pt has been experiencing nausea and malaise with melena x 1 wk. [**7-30**] +hematemesis x 2. Pt went to PCP for [**Name9 (PRE) **] and had non bloody emesis x 7 per report. Pt transfered to [**Hospital1 22**] for further evaluation.  
+  In ER HCT 33.0. VSS. NGT placed and drained 750cc BRB. Unable to lavage until clear. Pt rec'd first dose of protonix and started on sandosstatin IV at 50mcg/hr. 
+Transfered to CCU for endoscopy.
+
+Pmhx: see above
+Allergies: PCN -> Rash
+
+Review of Systems:
+
+Neuro: Pt alert and oriented per family translating. Pt appears to understand minimal english. Pt attempted to get OOB x 1 overnoc.  Pt restless and requiring ativan 1mg IV x 2 with effect.
+
+CV: ST HR 80-110's PVC's. HR increased to 120 during procedure.         
+Pt denies CP. Pt rec'd lopressor 5mg IV. HR currently 80-90's. Pt with HTN all po meds on hold at this time. SBP 139-158. 
+Pm K+ 5.5. 
+
+PULM: LS diminished bibasilary. Sats 95-97 on 2l NC. Pt denies SOB.
+
+GI: Pt underwent Endoscopy upon arrival to unit. Endoscopy revealed varices, no active bleeding.  Pt tolerated procedure well receiving 5mg IV versed and 75mcg fentanyl IV.
+Abd firm distended +ascites with +BS. Two episodes of liquid melena.  Pt remains NPO. 
+HCT 33. PLT 160.  Pt rec'd 2u PRBC's and 2u FFP per GI. Pt conts on sandostatin, protonix and cipro IV.
+
+GU: Foley cath placed draining concentrated yellow urine. H.O. aware of minimal u/o 20-30cc/hr. BUN 29 Creat 1.3.  Per GI recs diuretics on hold.  
+
+ENDO: FS 219 rec'd 2u R per insulin SS.
+
+ID: afebrile
+
+SKIN: intact
+
+LINES: 2 PIV.
+
+SOCIAL:  Lives with husband. Pt's parents live close by. Family arrived with patient and updated on pt's condition last evening. 
+
+DISPO: Full Code
+
+A: GIB s/p endoscopy with stable HCT and VSS. Pt conts to have melena.
+
+P: Check am labs s/p transfusion. Monitor BP and HR. Abd exam. Keep NPO, Check FS. Follow u/o.   
+",,
+5569,21621,6915,0,3316-07-31 17:48:00 EST,3316-07-31 18:06:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Pt is a 54 y.o female with a hx of Hep C, hepatoma, cirrhosis, HTN, DM II, and schizophrenis.
+
+HPI:  Pt has a week of N/V and at the end of a series of vomiting pt vomited copious amts of blood.  Pt admitted for ops to CCU.  Pt had EGD upon admission showing +3 esophegal veracies and gastric varacies.
+
+Neuro:  Pt is alert and oriented, pt is primairly Russian speaking only.  Pt able to move all extremeties well, pt weak on feet, should stay in bed for the mean time.
+
+Cardiac:  Pt is in SR, BP stable in the 120's to 140's systolic.
+
+Resp:  Pts BS are clear and decreased in the bases.  Pt on 2L via NC.  O2 sat in the high 90's.
+
+GI:  Pt felt nauseated and vomited a small amt of [**Name8 (MD) 457**], MD's at bedside and placed an NGT and emptied 175cc of bright red blood.  Another EGD done and 3 esophegal varacies were banded.  GI fellow stated that there was a lot of blood in stomach, and pt may vomit a large amt of blood.  If pt con't to bleed contact GI fellow, pager number on the board.  Serial H&H q6 next due at 00.  Today pts Hct dropped from 32 to 26 indicating active bleeding.  Pt received 2u PRBC during active bleeding, repete H&H will be done by phlebotomy at 1915.  NGT removed.  Pt NPO except for carifate slurry, no other PO meds.
+
+GU:  Pt has f/c adequate urine output, at about 30cc/hr.  Pt receiving 100cc/hr of NS via PIV
+
+Misc:  Pt has PIV x2, Pt Mg replaced (2g).  Pt on 50 mcg octreotide at 8.3cc/hr.
+",,
+5569,21621,6915,0,3316-08-01 05:51:00 EST,3316-08-01 06:28:00 EST,226,"N",1,"Nursing/Other",,"
+
+MICU Nursing Transfer Note:
+
+Mrs. [**Known patient lastname 456**] is a 54 y/o female primarily russian speaking requiring translator. Pt's past medical history significant for hep C, hematoma, cirrhosis, HTN, DM type II, ascites and schizophrenia. Pt underwent paracentesis one wk ago with removal of 3L fluid.  Procedure w/o complications per report. Since procedure pt has been experiencing nausea and malaise with melena x one wk. [**7-30**] +hemataemesis x 2. Pt went to PCP for evaluation and had non bloody emesis x 7 per report. Pt transfered to ER for further evaluation. 
+
+In ER HCT 33.0.  VSS. Gastric lavaged for 750cc of BRB. Pt rec'd protonix IV  started on sandostatin IV and transfered to CCU for endoscopy.
+
+Pt underwent EGD upon arrival to CCU revealing grade 3 varices no banding preformed. Pt cont to have melanonic stools. Episodes of hemataemesis [**7-31**] afternoon with HCT drop 32 to 26. Therefore pt underwent 2nd EGD revealed grade 3 varices which were banded. Pt has rec'd a total of 4u PRBC's and 2u FFP. Last HCt at mn 37.1(36.8).  Am HCT pending.
+
+Allergies: PCN
+PMHX: see above
+
+Current Review of Systems:
+
+NEURO: Pt alert and oriented per family translating.  Pt understands simple commands. Moving all extremites spontaneously. Turning side to side independently in bed. 
+
+CV: Pt with hx of HTN, cardiac regimen on hold at this time. Tachycardic to 120 on admission therefore pt started on lopressor IV ATC. NSR HR 70's. SBP 110-131. Pt denies CP.
+
+PULM: LS diminshed bibasilary. Sats 96% on 2l NC. No peripheral edema. 
+
+GI: Abd firm distended with +ascites. Audible BS. Remains NPO. Conts on sandostatin gtt at 50mcg/hr and carafate po.  NS conts at 100cc/hr. No stool overnight. 
+
+GU: Foley cath patent draining amber urine. Marginal u/o team aware. Diuretics on hold due to pre-renal state. +663 since mn +1445 LOS.
+
+SKIN: intact
+
+ENDO: FS WNL. Reg insulin for SS for coverage. 
+
+ID: afebrile
+
+LINES: 2 PIV. 
+
+DISPO: Full Code
+
+SOCIAL: Family also primarily russian speaking they have been updated on pt's condition.  Pt's husband and mother in to visit daily.  
+
+P: Follow HTN. Monitor for signs of bleeding. serial HCT's. Follow u/o. Maintain NPO status. Provide support.
+transfer to medical floor when stable.    
+",,
+5569,21621,6915,0,3316-08-01 14:29:00 EST,3316-08-01 14:31:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NURSING TRANSFER NOTE UPDATE
+
+NEURO: Pt talking appropriately with family members. Alert and oriented x3.
+
+RESP: LS clear. Sats >95% on 2L NC.
+
+CARDIAC: VSS. Ortho by BP only, however pt denies feeling dizzy or lightheaded. OOB to chair. Tolerated well.
+
+GI: HCT stable. Passing melena. Diet advanced to clear liquids. Tolerating well. IVF to KVO. Taking po meds.
+
+GU: foley draining amber urine.
+
+ACCESS: 2 IVs intact and working well.
+
+",,
+5569,21621,,,3316-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-8-3**] 9:12 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 12239**]
+     Reason: 54 yo with tense ascites.  Please mark abd for paracentesis.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with obesity, diabetes, cirrhosis and hepatoma from HCV now
+      with ascites.
+     REASON FOR THIS EXAMINATION:
+      54 yo with tense ascites.  Please mark abd for paracentesis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LIMITED ABDOMEN, [**3316-8-3**]
+     
+     INDICATION: 54 year old woman with hepatoma and HCV.  Now with ascites.  Mark
+     for paracentesis.
+     
+     COMPARISON: Limited abdomen from [**3316-7-31**].
+     
+     LIMITED ABDOMEN: A large amount of ascites is identified throughout the
+     abdomen.  An appropriate collection for paracentesis was identified in the
+     right upper quadrant.  The skin was marked at this site.
+     
+     IMPRESSION: Large amount of ascites throughout the abdomen.  Skin was marked
+     for paracentesis by clinicians in the right upper quadrant.
+
+",,
+5569,,,,3316-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-9-2**] 1:34 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 12240**]
+     Reason: 54 yo Ukrnanian female with a past [**Hospital Unit Name 664**] hx of hepatoma, Hep C
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      54 yo Ukrnanian female with a past [**Hospital Unit Name 664**] hx of hepatoma, Hep C who presents with
+      nausea, vomiting, abdominal distension, concern for bowel obstruction.  Thank
+      [**Doctor First Name 659**]
+       
+      [**First Name8 (NamePattern2) 291**] [**Last Name (NamePattern1) 662**] 90339
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN 2 VIEWS:
+     
+     HISTORY: Nausea, vomiting and abdominal distention in patient with past
+     history of hepatoma. To evaluate for intestinal obstruction.
+     
+     Distribution of bowel gas is unremarkable and there is no evidence for
+     intestinal obstruction. No free intraperitoneal gas. There is moderate
+     distention of the urinary bladder.
+     
+     IMPRESSION: No evidence for intestinal obstruction.
+
+",,
+5569,,,,3316-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-9-9**] 6:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12241**]
+     Reason: SOB, cough, chf vs. pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      SOB, cough, chf vs. pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  54 y/o woman with SOB, cough, CHF with pneumonia.
+     
+     CHEST, PORTABLE:  No prior studies are available for comparison.  The heart is
+     normal in size allowing for low lung volumes.  The mediastinal and hilar
+     contours are unremarkable.  The pulmonary vasculature is normal.  The lungs
+     are clear.
+     
+     IMPRESSION:  Low lung volumes.  No other abnormality detected.
+
+",,
+5569,,,,3316-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5569,,,,3316-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3316-9-13**] 12:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12242**]
+     Reason: 54 yo female with hep C, hepatocellular ca, now with wheezin
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      54 yo female with hep C, hepatocellular ca, now with wheezing on exam, ?
+      aspiration.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3316-9-13**]
+     
+     CLINICAL INDICATION: Hepatocellular carcinoma.  Wheezing.
+     
+     Comparison is made to previous study of four days earlier.
+     
+     The heart size and mediastinal contours are stable.  The lungs reveal a small
+     linear opacity at the left base and are otherwise clear.  No pleural effusions
+     are evident.
+     
+     IMPRESSION: Left basilar discoid atelectasis.  No evidence of pneumonia.
+
+",,

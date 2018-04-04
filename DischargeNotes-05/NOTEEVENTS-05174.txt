@@ -1,0 +1,137 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5174,13078,,,2760-07-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2760-7-30**]              Discharge Date:   [**2760-8-3**]
+ 
+Date of Birth:  [**2701-7-9**]             Sex:   M
+ 
+Service: OMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5950**] 
+Chief Complaint:
+fever, dehydration
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+59 yo endstage multiple myeloma s/p auto BMT ('[**57**]), failed VAD 
+chemothx x 4, thalidomide, velcaide (most recently in 4/04), 
+recently hospitalized (d/c [**7-28**]) for pneumonia now presenting 
+with fever and dehydration.
+ 
+
+ 
+Past Medical History:
+1. multiple myeloma.  Not yet ready for hospice but has 
+preferred supportive management.
+2. fracture of spine in [**2754**], did not receive fixation.
+3. s/p knee arthroscopy.
+4. skin lesions (ak vs. sq. cell). Bx���d postponed by derm b/c 
+neutropenia
+
+ 
+Social History:
+Lives with wife in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]. Former mechanic for [**Location (un) 418**]. 
+Son is police offier in [**Location (un) 418**].  No EtOH. No IVDU.
+
+ 
+Family History:
+non contributory
+ 
+Physical Exam:
+VS 102.2 118 24-28 94% on NC+partial mask
+Pupils constricted but reactive b/l.  No LAD.  No oral lesions.  
+Chest with loud rhonchi and wheezing throughout all lung fields. 
+ Heart regular with 
+pansystolic murmur radiating to axilla.  No peripheral edema.  
+Abdomen soft nt nd with splenomegaly.  No CVA, paraspinal, 
+spinal tenderness. Extremities warm and well perfused.
+
+ 
+Pertinent Results:
+CT CHEST
+Interval development of multiple predominantly upper lobe, 
+poorly defined 
+nodules, some of which demonstrate central lucency, possibly 
+reflecting 
+cavitation or a bronchogram given motion artifact. The 
+differential diagnosis 
+includes invasive Aspergillus, nocardia, and septic emboli. 
+Striking, diffuse, bilateral dependent areas of ground glass 
+opacity which 
+spare the anterior/nondependent portions of the lungs and are 
+associated with 
+bronchial dilation. The distribution is suggestive of ARDS, 
+which may 
+complicate infection. Diffuse atypical infection and drug 
+toxicity are also in 
+the differential diagnosis. 
+
+ 
+Brief Hospital Course:
+Pt was treated in the ICU for difficulty maintaining adequate 
+oxygen saturation.  Pt's family chose to make patient DNR/DNI 
+but to continue antibiotic treatment of pneumonia and blood 
+product support.  He was transferred to BMT service where his 
+discomfort with breathing was treated with morphine for comfort, 
+antibiotics were continued and blood product support was 
+continued. Patient expired while on BMT service with family by 
+his side.
+ 
+Medications on Admission:
+MEDICATIONS CONTINUED ON DISCHARGE FROM HOME
+1. Decadron 40mg biw
+2. procrit q thurs
+3. zometa q thurs
+4. fentanyl patch 75mcg to be changed tonight.
+5. nystatin s&s
+6. vit b12 x 2 qd
+7. tums 1 bid
+8. compazine prn nausea
+9. Tylenol prn fever
+10.     Levofloxacin 500 mg Tablet
+11.     Metronidazole 500 mg Tablet
+
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+respiratory failure secondary to pneumonia secondary to multiple 
+myeloma
+ 
+Discharge Condition:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) 511**] [**Last Name (NamePattern4) 5951**] MD [**Doctor First Name 5952**]
+ 
+Completed by: [**First Name8 (NamePattern2) 919**] [**Last Name (NamePattern1) **] MD [**MD Number 3834**] [**2760-8-7**] @ 1628
+Signed electronically by: DR. [**First Name8 (NamePattern2) 511**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**2760-9-29**] 12:32 PM
+(End of Report)
+
+
+",,
+5174,13078,6424,0,2760-08-01 05:29:00 EST,2760-08-01 05:42:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress:","
+[**Wardname **] 4 ICU nursing progress:
+ 59 y/o man transfered from 11r with worsening respiratory distress.
+Pt admitted 2 days ago with fevers and sob..??need for bronch.
+ Allergies: NKDA
+ Systems Review: 
+Respiratory: Arrived wearing 100% nrp..rr 24-28..diminished bs..??rales at bases..changed to high-flow neb..weaned to 80%..by 5am..noted ""heavier"" breathing..pt started coughing..decreased sats..to low 90's..back to 100% Sats 94-98%..rr high 20's..still with non-productive cough.
+ Cardiac: By report..has been tachycardic..here..120-160st..noted increase hr with above respiratory change..ho aware..bp 105-112/50-60
+ Neuro: Pt lethargic..gazes off when talking to pt..mae..follows commands..with above episode..given 2mgm mso4..pt appeared somewhat agitated..wanted wife here..(was called and she came in)
+ GU: Refuses foley catheter..using urinal with assistance.
+ Heme: Had recieved bag of platlets on 11r for count of 17..post transfusion..20k. Hct 25..no overt signs of bleeding..multiple brusing over arms and legs..
+ ID: Temp 100.6po..5 antibiotics...cultures pnd
+ Social: Wife and children involved in pts care..Has asked for his oncology MD to come a speak with her. Per house staff..further discussions about aggressiveness of care need to take place..Currently is a full code..
+",,

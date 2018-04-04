@@ -1,0 +1,1273 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3265-8-1**]              Discharge Date:   [**3265-8-10**]
+ 
+Date of Birth:  [**3177-6-19**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2632**] 
+Addendum:
+Surgical site drain pulled on [**3265-8-7**]; wound checks wnl and 
+dressing changed QD for next 2 days.  Cleared by PT/OT for 
+transfer to rehab on [**3265-8-10**]. 
+ 
+Discharge Disposition:
+Extended Care
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2633**] MD [**MD Number 2634**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 5599**] [**Last Name (NamePattern4) 5600**] MD [**MD Number 5601**] [**3265-8-10**] @ 0942
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3265-8-11**] 4:20 PM
+(End of Report)
+
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7478**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status                         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:32 PM
+      no fracture or malalignment; extensive DJD with spinal stenosis; OGT coiled in
+      mouth; opacities at both lung apices that could be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with a change in mental status.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the cervical spine were obtained
+     without contrast.  Sagittal and coronal reformatted images were performed.
+     
+     FINDINGS:  The bones are demineralized.  There is no fracture.  Extensive
+     multilevel degenerative changes are present, including intervertebral disc
+     space narrowing at C5/6 and C6/7.  Spinal stenosis is present at C4/5, C5/6,
+     and possibly also C6/7.  There is no disruption of the fat planes in the
+     prevertebral soft tissues.  The patient is intubated.  There is an orogastric
+     tube, which is coiled in the patient's mouth.  There is extensive scarring at
+     the lung apices bilaterally.  In addition, small centrilobular opacities are
+     present at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     IMPRESSION:
+     1.  No fracture or malalignment.
+     2.  Extensive spondylosis with associated spinal stenosis.
+     3.  The orogastric tube is coiled in the mouth.
+     4.  Opacities at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     NOTE ADDED AT ATTENDING REVIEW: I agree with the above. In addition, there are
+     midline disk protrusions at C [**1-30**] and [**3-3**] contributing to canal narrowing.
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7478**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status                         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:32 PM
+      no fracture or malalignment; extensive DJD with spinal stenosis; OGT coiled in
+      mouth; opacities at both lung apices that could be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with a change in mental status.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the cervical spine were obtained
+     without contrast.  Sagittal and coronal reformatted images were performed.
+     
+     FINDINGS:  The bones are demineralized.  There is no fracture.  Extensive
+     multilevel degenerative changes are present, including intervertebral disc
+     space narrowing at C5/6 and C6/7.  Spinal stenosis is present at C4/5, C5/6,
+     and possibly also C6/7.  There is no disruption of the fat planes in the
+     prevertebral soft tissues.  The patient is intubated.  There is an orogastric
+     tube, which is coiled in the patient's mouth.  There is extensive scarring at
+     the lung apices bilaterally.  In addition, small centrilobular opacities are
+     present at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     IMPRESSION:
+     1.  No fracture or malalignment.
+     2.  Extensive spondylosis with associated spinal stenosis.
+     3.  The orogastric tube is coiled in the mouth.
+     4.  Opacities at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     NOTE ADDED AT ATTENDING REVIEW: I agree with the above. In addition, there are
+     midline disk protrusions at C [**1-30**] and [**3-3**] contributing to canal narrowing.
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7478**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status                         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:32 PM
+      no fracture or malalignment; extensive DJD with spinal stenosis; OGT coiled in
+      mouth; opacities at both lung apices that could be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with a change in mental status.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the cervical spine were obtained
+     without contrast.  Sagittal and coronal reformatted images were performed.
+     
+     FINDINGS:  The bones are demineralized.  There is no fracture.  Extensive
+     multilevel degenerative changes are present, including intervertebral disc
+     space narrowing at C5/6 and C6/7.  Spinal stenosis is present at C4/5, C5/6,
+     and possibly also C6/7.  There is no disruption of the fat planes in the
+     prevertebral soft tissues.  The patient is intubated.  There is an orogastric
+     tube, which is coiled in the patient's mouth.  There is extensive scarring at
+     the lung apices bilaterally.  In addition, small centrilobular opacities are
+     present at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     IMPRESSION:
+     1.  No fracture or malalignment.
+     2.  Extensive spondylosis with associated spinal stenosis.
+     3.  The orogastric tube is coiled in the mouth.
+     4.  Opacities at both lung apices, which may be infectious or inflammatory in
+     etiology.
+     
+     NOTE ADDED AT ATTENDING REVIEW: I agree with the above. In addition, there are
+     midline disk protrusions at C [**1-30**] and [**3-3**] contributing to canal narrowing.
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status, palpable aortic 
+      pulsations in epigastrium - r/o AAA
+     REASON FOR THIS EXAMINATION:
+      r/o AAA                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:56 PM
+      no abdominal aortic aneurysm; ulcerated aortic plaque; diverticulosis without
+      evidence of diverticulitis; pulmonary opacities at both lung bases which could
+      be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with an altered mental status.  Pulsatile
+     epigastric lesion.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained without contrast and then with 150 cc of intravenous Optiray in
+     arterial and delayed phases.  Sagittal and coronal reformatted images of the
+     arterial phase were performed.
+     
+     ABDOMEN CT ANGIOGRAM:  There is no abdominal aortic aneurysm.  Atheromatous
+     calcifications and multifocal mural plaque is present in the aorta.  Ulcerated
+     plaque is present in the anterior aortic wall superior to the origin of the
+     celiac artery.  The proximal celiac, superior mesenteric, bilateral renal, and
+     inferior mesenteric arteries are patent.  Calcified plaque is present at the
+     origin of the superior mesenteric artery. There is a replaced right hepatic
+     artery.
+     
+     ABDOMEN CT WITH AND WITHOUT CONTRAST:  At the visualized lung bases, there are
+     bilateral centrilobular opacities which may represent an infectious or
+     inflammatory process.  Clinical correlation is suggested.  There is a tube
+     extending from the esophagus into the body of the stomach.  There are no focal
+     lesions in the liver, spleen, pancreas, adrenal glands, or kidneys.  There is
+     edema surrounding the left adrenal gland, of uncertain etiology and
+     significance. There is a fat-containing anterior abdominal wall hernia. Small
+     bowel and colon loops are normal in caliber without evidence of wall
+     thickening. There are multiple diverticula in the colon without evidence of
+     diverticulitis. Retained radiopaque contrast is noted within the diverticula,
+     likely related to previous studies.  There is no free air or free fluid.
+     
+     PELVIC CT WITH AND WITHOUT CONTRAST:  The ureters are normal in caliber.  The
+     uterus is not visualized.  The bladder and rectum appear unremarkable.  There
+     is no free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No fractures are identified.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions confirm the findings
+     demonstrated on the axial images, including the absence of an aortic aneurysm
+     and the presence of ulcerated plaque superior to the celiac artery origin.  In
+     addition, they are useful for evaluating the spine.  There is no evidence of a
+     spinal fracture.  Degenerative changes are noted.  Value grade is 3.
+     
+     IMPRESSION:
+     1.  No abdominal aortic aneurysm.
+     2. Pulmonary opacities at both lung bases, which may be infectious or
+     inflammatory.
+     3.  Diverticulosis without evidence of diverticulitis.
+                                                                           DFDkq
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7475**]
+     Reason: post intubation                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with change ms                                                
+     REASON FOR THIS EXAMINATION:
+      post intubation                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change in mental status, status post intubation.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  AP supine view of the chest.  Evaluation is limited by the
+     superimposed trauma board structures.  The endotracheal tube terminates 1.5 cm
+     above the carina, and it should be pulled back by at least 1 cm.  The
+     nasogastric tube tip is in the proximal stomach, and the side port is in the
+     region of the gastroesophageal junction.  Mediastinal contours are within
+     normal limits.  There is no pulmonary edema.  There is an interstitial opacity
+     in the lingula which may represent atelectasis versus an artifact related to
+     the overlying soft tissues.  There is no pulmonary consolidation or pleural
+     effusion.  There is no evidence of a pneumothorax in supine position.  No
+     fractures are identified.
+     
+     IMPRESSION:
+     1.  The endotracheal tube is too close to the carina, and it should be pulled
+     back by at least 1 cm.
+     2.  Possible lingular atelectasis.
+                                                                           
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status, palpable aortic 
+      pulsations in epigastrium - r/o AAA
+     REASON FOR THIS EXAMINATION:
+      r/o AAA                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:56 PM
+      no abdominal aortic aneurysm; ulcerated aortic plaque; diverticulosis without
+      evidence of diverticulitis; pulmonary opacities at both lung bases which could
+      be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with an altered mental status.  Pulsatile
+     epigastric lesion.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained without contrast and then with 150 cc of intravenous Optiray in
+     arterial and delayed phases.  Sagittal and coronal reformatted images of the
+     arterial phase were performed.
+     
+     ABDOMEN CT ANGIOGRAM:  There is no abdominal aortic aneurysm.  Atheromatous
+     calcifications and multifocal mural plaque is present in the aorta.  Ulcerated
+     plaque is present in the anterior aortic wall superior to the origin of the
+     celiac artery.  The proximal celiac, superior mesenteric, bilateral renal, and
+     inferior mesenteric arteries are patent.  Calcified plaque is present at the
+     origin of the superior mesenteric artery. There is a replaced right hepatic
+     artery.
+     
+     ABDOMEN CT WITH AND WITHOUT CONTRAST:  At the visualized lung bases, there are
+     bilateral centrilobular opacities which may represent an infectious or
+     inflammatory process.  Clinical correlation is suggested.  There is a tube
+     extending from the esophagus into the body of the stomach.  There are no focal
+     lesions in the liver, spleen, pancreas, adrenal glands, or kidneys.  There is
+     edema surrounding the left adrenal gland, of uncertain etiology and
+     significance. There is a fat-containing anterior abdominal wall hernia. Small
+     bowel and colon loops are normal in caliber without evidence of wall
+     thickening. There are multiple diverticula in the colon without evidence of
+     diverticulitis. Retained radiopaque contrast is noted within the diverticula,
+     likely related to previous studies.  There is no free air or free fluid.
+     
+     PELVIC CT WITH AND WITHOUT CONTRAST:  The ureters are normal in caliber.  The
+     uterus is not visualized.  The bladder and rectum appear unremarkable.  There
+     is no free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No fractures are identified.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions confirm the findings
+     demonstrated on the axial images, including the absence of an aortic aneurysm
+     and the presence of ulcerated plaque superior to the celiac artery origin.  In
+     addition, they are useful for evaluating the spine.  There is no evidence of a
+     spinal fracture.  Degenerative changes are noted.  Value grade is 3.
+     
+     IMPRESSION:
+     1.  No abdominal aortic aneurysm.
+     2. Pulmonary opacities at both lung bases, which may be infectious or
+     inflammatory.
+     3.  Diverticulosis without evidence of diverticulitis.
+                                                                           DFDkq
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status, palpable aortic 
+      pulsations in epigastrium - r/o AAA
+     REASON FOR THIS EXAMINATION:
+      r/o AAA                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 10:56 PM
+      no abdominal aortic aneurysm; ulcerated aortic plaque; diverticulosis without
+      evidence of diverticulitis; pulmonary opacities at both lung bases which could
+      be infectious or inflammatory
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  The patient was found down with an altered mental status.  Pulsatile
+     epigastric lesion.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained without contrast and then with 150 cc of intravenous Optiray in
+     arterial and delayed phases.  Sagittal and coronal reformatted images of the
+     arterial phase were performed.
+     
+     ABDOMEN CT ANGIOGRAM:  There is no abdominal aortic aneurysm.  Atheromatous
+     calcifications and multifocal mural plaque is present in the aorta.  Ulcerated
+     plaque is present in the anterior aortic wall superior to the origin of the
+     celiac artery.  The proximal celiac, superior mesenteric, bilateral renal, and
+     inferior mesenteric arteries are patent.  Calcified plaque is present at the
+     origin of the superior mesenteric artery. There is a replaced right hepatic
+     artery.
+     
+     ABDOMEN CT WITH AND WITHOUT CONTRAST:  At the visualized lung bases, there are
+     bilateral centrilobular opacities which may represent an infectious or
+     inflammatory process.  Clinical correlation is suggested.  There is a tube
+     extending from the esophagus into the body of the stomach.  There are no focal
+     lesions in the liver, spleen, pancreas, adrenal glands, or kidneys.  There is
+     edema surrounding the left adrenal gland, of uncertain etiology and
+     significance. There is a fat-containing anterior abdominal wall hernia. Small
+     bowel and colon loops are normal in caliber without evidence of wall
+     thickening. There are multiple diverticula in the colon without evidence of
+     diverticulitis. Retained radiopaque contrast is noted within the diverticula,
+     likely related to previous studies.  There is no free air or free fluid.
+     
+     PELVIC CT WITH AND WITHOUT CONTRAST:  The ureters are normal in caliber.  The
+     uterus is not visualized.  The bladder and rectum appear unremarkable.  There
+     is no free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 7477**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o AAA                                                     
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     BONE WINDOWS:  No fractures are identified.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions confirm the findings
+     demonstrated on the axial images, including the absence of an aortic aneurysm
+     and the presence of ulcerated plaque superior to the celiac artery origin.  In
+     addition, they are useful for evaluating the spine.  There is no evidence of a
+     spinal fracture.  Degenerative changes are noted.  Value grade is 3.
+     
+     IMPRESSION:
+     1.  No abdominal aortic aneurysm.
+     2. Pulmonary opacities at both lung bases, which may be infectious or
+     inflammatory.
+     3.  Diverticulosis without evidence of diverticulitis.
+                                                                           DFDkq
+
+",,
+5002,26270,,,3265-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-1**] 9:31 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7476**]
+     Reason: likely stroke vs intracranial bleed                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down with altered mental status                         
+     REASON FOR THIS EXAMINATION:
+      likely stroke vs intracranial bleed                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SAT [**3265-8-1**] 9:53 PM
+      -no acute hemorrhage; chronic ischemic changes; no definite CT signs of acute
+      ischemia
+      -orogastric tube is coiled in the mouth
+     WET READ AUDIT #1 DFDkq SAT [**3265-8-1**] 9:51 PM
+      no acute hemorrhage; chronic ischemic changes; no definite CT signs of acute
+      ischemia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Found down with altered mental status.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no acute intracranial hemorrhage.  There is an area of low
+     density in the left subinsular region with no associated mass effect when
+     compared to the contralateral subinsular region, most likely representing
+     chronic infarction.  There is no CT evidence of an acute major territorial
+     infarction.  Generalized atrophic changes are present in the brain parenchyma.
+     There is no hydrocephalus.  No fractures are identified.  There is severe
+     mucosal thickening in the left maxillary sinus and moderate mucosal thickening
+     in the left ethmoid air cells and right maxillary sinus.  The patient is
+     intubated.  There is an orogastric tube, which is coiled in the patient's
+     mouth.
+     
+     IMPRESSION:
+     1.  No acute hemorrhage.
+     2.  Chronic left subinsular infarction.  No CT signs of an acute major
+     territorial infarction.
+     3.  Findings suggestive of chronic sinusitis.
+     4.  The orogastric tube is coiled in the patient's mouth and should be
+     repositioned.
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-2**] 3:18 AM
+     ORBITS (WATERS, [**Location (un) 4863**] & LAT)                                 Clip # [**Clip Number (Radiology) 7480**]
+     Reason: any metal in orbits preventing MRI                          
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman needs mri, intubated, cannot get mri checklist.  all imaging 
+      done, just need orbit films. 
+     REASON FOR THIS EXAMINATION:
+      any metal in orbits preventing MRI                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Patient needs an MRI, evaluate head for metallic objects.
+     
+     SKULL:  Metallic hair grip is present posteriorly and should be removed prior
+     to an MRI.  No other metallic densities are seen in or around the skull.
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-2**] 5:21 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 7481**]
+     Reason: fracture                                                    
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down at home, trauma to face and head.                  
+     REASON FOR THIS EXAMINATION:
+      fracture                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR CERVICAL SPINE [**3265-8-2**].
+     
+     HISTORY:  Found down at home with trauma to face and head.
+     
+     Sagittal imaging of the cervical spine was performed with short TR, short TE
+     spin echo, long TR, long TE fast spin echo, and STIR technique.  Axial
+     gradient echo and long TR, long TE fast spin echo imaging was performed. 
+     Comparison to a cervical spine CT of [**3265-8-1**].
+     
+     FINDINGS:  Alignment of the cervical spine is normal.  Extensive degenerative
+     changes narrow the spinal canal and produce at least mild encroachment on the
+     spinal cord at every level from C3 through T1.  Thickening of the ligamentum
+     flavum contributes to canal narrowing.  The spinal cord signal intensity
+     appears grossly normal, although images of the spinal cord are obscured by
+     motion artifact.  There are no findings to suggest ligamentous injury. 
+     However, there is extensive high signal, likely hemorrhage and edema, in the
+     posterior paraspinal muscles bilaterally.  This is more prominent on the right
+     than left.  The significance of this finding is unknown.  Recommend
+     correlation with clinical examination and, when appropriate, flexion and
+     extension views.
+     
+     There is a small amount of fluid at the pulmonary apices bilaterally.  This is
+     incompletely imaged.
+     
+     CONCLUSION:  Degenerative disc disease with spinal canal narrowing. 
+     Apparently normal spinal cord signal intensity, although the images are
+     limited by motion artifact.
+     
+     No evidence of ligamentous injury.  However, there is extensive posterior
+     paraspinal muscle hyperintensity likely representing edema and hemorrhage. 
+     The clinical significance of this observation is unknown.
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-2**] 3:10 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 7479**]
+     Reason: eval for intracranial process                               
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down, not moving [**Name Prefix (Prefixes) **]                                    
+     [**Last Name (Prefixes) **] FOR THIS EXAMINATION:
+      eval for intracranial process                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI AND MRA BRAIN.
+     
+     HISTORY:  Found down, not moving lower extremities.
+     
+     Sagittal short TR, short TE spin-echo imaging was performed through the brain.
+     Axial imaging was performed with long TR, long TE fast spin-echo, FLAIR,
+     gradient echo, and diffusion technique.  Three-dimensional time-of-flight MRA
+     was performed.  Comparison to a head CT of [**3265-8-1**].
+     
+     FINDINGS:  There is no evidence of acute infarction.  The ventricles and sulci
+     are prominent, compatible with the patient's age.  There is fluid in the
+     maxillary, ethmoid, frontal, and sphenoid sinuses.  Fluid is present in the
+     posterior nasopharynx.  The patient appears to be intubated, perhaps
+     explaining this fluid accumulation.  Similarly, there is fluid signal arising
+     from the mastoid air cells bilaterally.  The patient is status post resection
+     of the ocular lenses.  There are periventricular areas of white matter
+     hyperintensity suggesting chronic small vessel ischemia.
+     
+     The MR [**First Name (Titles) 2082**] [**Last Name (Titles) 101**] no abnormalities.
+     
+     CONCLUSION:  No evidence of hemorrhage or infarction.  Chronic small vessel
+     ischemic changes.
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-2**] 3:10 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 7479**]
+     Reason: eval for intracranial process                               
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found down, not moving [**Name Prefix (Prefixes) **]                                    
+     [**Last Name (Prefixes) **] FOR THIS EXAMINATION:
+      eval for intracranial process                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI AND MRA BRAIN.
+     
+     HISTORY:  Found down, not moving lower extremities.
+     
+     Sagittal short TR, short TE spin-echo imaging was performed through the brain.
+     Axial imaging was performed with long TR, long TE fast spin-echo, FLAIR,
+     gradient echo, and diffusion technique.  Three-dimensional time-of-flight MRA
+     was performed.  Comparison to a head CT of [**3265-8-1**].
+     
+     FINDINGS:  There is no evidence of acute infarction.  The ventricles and sulci
+     are prominent, compatible with the patient's age.  There is fluid in the
+     maxillary, ethmoid, frontal, and sphenoid sinuses.  Fluid is present in the
+     posterior nasopharynx.  The patient appears to be intubated, perhaps
+     explaining this fluid accumulation.  Similarly, there is fluid signal arising
+     from the mastoid air cells bilaterally.  The patient is status post resection
+     of the ocular lenses.  There are periventricular areas of white matter
+     hyperintensity suggesting chronic small vessel ischemia.
+     
+     The MR [**First Name (Titles) 2082**] [**Last Name (Titles) 101**] no abnormalities.
+     
+     CONCLUSION:  No evidence of hemorrhage or infarction.  Chronic small vessel
+     ischemic changes.
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-2**] 11:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7482**]
+     Reason: r/o or assess pna                                           
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with change ms                                                
+     REASON FOR THIS EXAMINATION:
+      r/o or assess pna                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Change in mental status, assess for pneumonia.
+     
+     CHEST:  The endotracheal tube has been withdrawn to a better position.  The
+     tip of the nasogastric tube is in a satisfactory position.  The increased
+     opacity in the lingula has almost entirely resolved suggesting this was
+     atelectasis rather than infiltrate.
+     
+     IMPRESSION:  No pneumonia endotracheal tube in satisfactory position.
+                                                                           
+
+",,
+5002,26270,6205,0,3265-08-02 16:47:00 EST,3265-08-02 17:25:00 EST,6350,"N",69,"Nursing/Other","micu update","
+micu update
+cvs: hypertensive ^160mmhg, lopressor started and increased to 25mg tid, sbp still 130-150. NSR mid 70s, occassional pac's noted. afebrile, distal pulses strong/palpable
+
+resp: aiming to wean off vent to extubation, abg wnl on cpap [**4-7**], presently on SBT fi02 40%. tachypneic to mid 30's with tv~200, abg on sbt currently pending. ET secretions thick and white, sent for cultures. lungs coarse, clears to suction. 
+
+neuro: initially sedated on propofol 20 mcg/kg/min, pt opens eyes to speech, obeying commands inconsistently. propofol weaned off during vent wean, pt started to obey commands with appropriate non verbal response, shakes head or nods to questions. head and neck moved and repositioned as agreed per team, neck collar left on. ct and xray (-) to spinal injuries, mri result pending. all extremeties moves with equal strength, rt eye blind as claimed by pt, left pupil sluggish.
+
+gi: NPO except meds. ogt clamped. [**Last Name (un) 237**] sft, bowel sounds present. 
+
+gu: auto diuresing 20-50cc/hr
+
+skin: pressure areas unbroken. both lower legs appears ?abrassions, no drainage, surrounding skin red.
+
+social: no inquiries from friends or family, pt claims to have no family. allergy status unclear, awaiting to extubate to determine further medical hx.
+
+id: afebrile. cultures sent -sputum, urine
+
+plan: vent wean, monitor resp status
+      bp control, adm lopressor
+      neuro assessments
+",,
+5002,26270,6205,0,3265-08-02 17:19:00 EST,3265-08-02 17:22:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated weaned to PSV from A/C this shift.  Currently +10PSV/+5PEEP w/ Vt ~350 RR ~low 30s, maintaining Ve ~10L.  SBT attempted on +5PSV/+0PEEP after RSBI = 104, but ABG showed CO2 increase, so PSV was increased to maintain adequate ventilation.  SpO2 remained 90s.  BLBS slightly coarse anteriorly, suctioned for small amounts of thick tan sputum.  See resp flowsheet for specific vent settings/data/changes.
+
+Plan: maintain support; continue to assess readiness to wean
+",,
+5002,26270,6205,,3265-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-3**] 8:26 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT; HUMERUS (AP & LAT) RIGHTClip # [**Telephone/Fax (1) 7483**]
+     FOREARM (AP & LAT) RIGHT
+     Reason: eval for dislocation, fracture.                             
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman wHO WAS found down, now extubated and complaining of severe 
+      arm pain.
+     REASON FOR THIS EXAMINATION:
+      eval for dislocation, fracture.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT SHOULDER THREE VIEWS, AND RIGHT FOREARM TWO VIEWS.
+     
+     HISTORY:  85-year-old woman, status post trauma with severe arm pain.
+     
+     FINDINGS:  No prior studies available for comparison.
+     
+     Three views of the right shoulder demonstrate a fracture of the surgical neck.
+     The humeral shaft is displaced anteriorly.  There is some overriding of the
+     fracture fragments. 
+     
+     Two views of the right forearm demonstrates no definite evidence for acute
+     fractures or dislocations.  An IV catheter is seen overlying the wrist.  There
+     is some mild degenerative changes of the first CMC joint.
+     
+     IMPRESSION:
+     
+     1.  Right proximal humerus fracture at the surgical neck.
+     
+     2.  Unremarkable images of the right forearm.
+     
+     These findings have been discussed with Dr. [**First Name8 (NamePattern2) 7484**] [**Name (STitle) 774**].
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-3**] 8:26 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT; HUMERUS (AP & LAT) RIGHTClip # [**Telephone/Fax (1) 7483**]
+     FOREARM (AP & LAT) RIGHT
+     Reason: eval for dislocation, fracture.                             
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman wHO WAS found down, now extubated and complaining of severe 
+      arm pain.
+     REASON FOR THIS EXAMINATION:
+      eval for dislocation, fracture.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT SHOULDER THREE VIEWS, AND RIGHT FOREARM TWO VIEWS.
+     
+     HISTORY:  85-year-old woman, status post trauma with severe arm pain.
+     
+     FINDINGS:  No prior studies available for comparison.
+     
+     Three views of the right shoulder demonstrate a fracture of the surgical neck.
+     The humeral shaft is displaced anteriorly.  There is some overriding of the
+     fracture fragments. 
+     
+     Two views of the right forearm demonstrates no definite evidence for acute
+     fractures or dislocations.  An IV catheter is seen overlying the wrist.  There
+     is some mild degenerative changes of the first CMC joint.
+     
+     IMPRESSION:
+     
+     1.  Right proximal humerus fracture at the surgical neck.
+     
+     2.  Unremarkable images of the right forearm.
+     
+     These findings have been discussed with Dr. [**First Name8 (NamePattern2) 7484**] [**Name (STitle) 774**].
+                                                                           
+
+",,
+5002,26270,6205,,3265-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-3**] 8:26 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT; HUMERUS (AP & LAT) RIGHTClip # [**Telephone/Fax (1) 7483**]
+     FOREARM (AP & LAT) RIGHT
+     Reason: eval for dislocation, fracture.                             
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman wHO WAS found down, now extubated and complaining of severe 
+      arm pain.
+     REASON FOR THIS EXAMINATION:
+      eval for dislocation, fracture.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT SHOULDER THREE VIEWS, AND RIGHT FOREARM TWO VIEWS.
+     
+     HISTORY:  85-year-old woman, status post trauma with severe arm pain.
+     
+     FINDINGS:  No prior studies available for comparison.
+     
+     Three views of the right shoulder demonstrate a fracture of the surgical neck.
+     The humeral shaft is displaced anteriorly.  There is some overriding of the
+     fracture fragments. 
+     
+     Two views of the right forearm demonstrates no definite evidence for acute
+     fractures or dislocations.  An IV catheter is seen overlying the wrist.  There
+     is some mild degenerative changes of the first CMC joint.
+     
+     IMPRESSION:
+     
+     1.  Right proximal humerus fracture at the surgical neck.
+     
+     2.  Unremarkable images of the right forearm.
+     
+     These findings have been discussed with Dr. [**First Name8 (NamePattern2) 7484**] [**Name (STitle) 774**].
+                                                                           
+
+",,
+5002,26270,6205,0,3265-08-03 02:31:00 EST,3265-08-03 03:03:00 EST,6439,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+85 y.o female was found down in home, last seen [**7-31**], unclear how long was down, unclear whether d/t neurologic event vs [**Last Name 8122**] problem, she was moving only her upper extremites. In ED became tachy, hypertension to 180's, was intubatedfor decreased O2. Head CT neg for bleeding or acute process. Chest CT showed infiltrates at the bases-> ? aspiration pneumonia, tx with Levoflaxcin, Flagyl, sent bld cx.put C collar for ?injury, CT C spine showed no fracture. MRI result pending, C collar in place.
+
+neuro: pt received off sedation, alert/awake, follows commads, opens eyes spont, MAE, pt blinds on rt eye, left eye 2mm/slugish. pt has strong gag reflex, intact cough. becomes agitated when reposition or sx.spine/brain MRI result: no evidence of injury and hemmorage. EEG was done [**3264-8-2**] to r/o status epilapticus(pt with hx of seizure disordes).
+
+resp: pt received intubated on vent CPAP/PS 15/peep 5/40%, yesterday failed on SBT and PS 10( became tachypneic).ls coarse, clear to sx, SAT 99-100%, sx moderate white secretion.plan: wean PS, extubation.
+
+cv: HR 70's, NSR, occas PAC's, with agitation HR up to 100's. SBP 140's in the begining of shift, aftre given fluid bolus for low u/o SBP 160-170[**Name8 (MD) **], MD notified, cont Lopressor 25mg TID PO, goal SBP 130-140.
+
+gi/gu: foley in place, given fluid bolus NS 1000ccx1 for low u/o 16-20cc/hr, after bolus u/o 30-40cc/hr. pt NPO for possible extubation. ABD soft,BS +, no stool.
+
+skin: on both legs ?abrasion, no drainge, no broken skin.
+
+id: Tmax 99, cont Levoflaxcin/Flagyl PO.
+
+social: full code, no contact from family.
+
+plan: wean PS, extubation
+      ?increase Lopressor for BP control
+      cont monitoring neuro/resp/cardio status. 
+",,
+5002,26270,6205,0,3265-08-03 03:15:00 EST,3265-08-03 03:18:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp: pt remains intubated on psv 15/5/40%.  VT 400's.VE 10L 02 sats @ 100%. Bs are slighly coarse in bases. Suctioned for small amount of thick tan secretions. Pt awake and becomes very aggitated at times. Lifting head off pillow. RSBi=139. No abg. Plan is to wean to extubate today. 
+",,
+5002,26270,6205,0,3265-08-03 04:27:00 EST,3265-08-03 04:29:00 EST,6439,"N",69,"Nursing/Other",,"
+
+ADDENDUM TO NOTES ABOVE
+PT'S RSBI 139. PT HAS RED WARM AREA ON RT UPPER EXTREMITE. PT REQUESTS TO BE ON HER BACK , DOES NOT TOLERATE BE ON TURN ON THE SIDES.
+",,
+5002,26270,6205,0,3265-08-03 05:20:00 EST,3265-08-03 05:21:00 EST,6439,"N",69,"Nursing/Other",,"
+
+ADEENDUM TO NOTES ABOVE
+
+@ 0600 BP 180-190, GIVEN HYDRALASIN 20MG IV, CAN BE REPETE ONCE
+",,
+5002,26270,6205,0,3265-08-03 15:16:00 EST,3265-08-03 15:18:00 EST,1592,"N",69,"Nursing/Other",,"
+
+Patient extubated at 16.00 and placed on 40% aerosol mask.HR 82,BP150/44,Sat 100%. Cuff leak assessed before extubation;present.
+",,
+5002,26270,6205,0,3265-08-03 15:21:00 EST,3265-08-03 15:35:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+85 YEAR OLD FOUND DOWN AT ASSISTED LIVING SHE LIVES IN. EMS CALLED. TAKEN TO THE ED AT [**Hospital1 2**]. HYPERTENSIVE. INTUBATED FOR HYPOXIA. 
+REVEIW OF SYTEMS-
+NEURO- EXTUBATED SHE IS ORIENTED X2. DOES NOT KNOW YEAR. MAE. IS BLIND ON RIGHT. LEFT PUPIL 2MM SLUGGISH IN REACTION. 
+RESP- HER RSBI WAS 139 THIS AM. CHECKED THIS AFTERNOON IT WAS 92. SHE WAS PLACED ON SBT. ON THIS RESP LOW TO MID 20'S WITH TV 290-350. ABG ON THIS 7.34/44/184/25. CUFF LEAK PRESENT DECISION MADE BY DR [**Last Name (STitle) **] TO PULL ETT. SHE WAS EXTUBATED AT 1600. PLACED ON 40% COOL NEB. RESP MID 20'S WITH SATS OF 100%. SHE STATES HER BREATHING FEELS GOOD. BS CLEAR. 
+SHE WAS SUCTIONED THIS AM FOR THICK YELLOW SPUTUM IN SMALL TO MODERATE AMOUNTS. SPUTUM SENT FOR C AND S AND GM STAIN TODAY. 
+CARDIAC- HJR 70-80'S NSR WITH PAC. SBP 120-143. K 3.7 TODAY RECEIVED 20MEQ KCL IN 250CC PERIPHERALLY TODAY. LYTES TO BE RECHECKED AT 1900. 
+GI- ABD SOFT WITH POS BS. OGT IN PLACE THIS AM FOR MEDS. NPO X MEDS. OGT PULLED PRIOTR TO EXTUBATION. ONCE STABLE OFF VENT WILL ATTEMPT SIPS. HAS POS GAG AND COUGH. CK UP T 4910 TODAY. FELT THIS WAS FROM HER BEING DOWN. WILL RECHECK CK'S AT 1900.  
+GU- FOLEY PATENT DRAINING CLEAR YELLOW CONCENTRATED UO. UO DOWN TO 10CC ONE HOUR. DR [**Last Name (STitle) **] NOTIFIED AND 1 L NS GIVEN OVER 1 HOUR. UO UP TO 30-40CC/HR. 
+SOCIAL- NO CALLS FROM FAMILY OR FRIENDS. WHEN EXTUBATED SHE STATED SHE HAS A SON. SHE IS DIFFICULT TO UNDERSTAND AT PRESENT WILL ATTEMT TO GET MORE INFORMATION LATER. INTERN TO ATTEMPT TO CALL ASSISTED LIVING FACILITY TO GET INFORMATION ALSO. 
+DISPO- REMAINS IN MICU A FULL CODE. 
+PLAN- WATCH RESP STATUS EXTUBATED. 
+      START SIPS ONCE STABLE.
+      CHECK LYTES AND CK LEVEL.  
+",,
+5002,26270,6205,0,3265-08-03 15:35:00 EST,3265-08-03 15:36:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+SKIN- LOWER BILAT LEGS WITH ABRASIONS ALL OVER THEM. PER PATIENT THEY ARE ITCHY. SARNA LOTION ORDERED AND APPLIED. 
+",,
+5002,26270,6205,0,3265-08-03 17:06:00 EST,3265-08-03 17:06:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+CARDIAC- IV NS INFUSING AT 200CC/HR X 1L. 
+",,
+5002,26270,6205,0,3265-08-03 18:05:00 EST,3265-08-03 18:06:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+ATTEMPTED TO GET 1900 LABS. UNABLE TO DRAW. ANOTHER NURSE ALSO UNABLE TO DRAW. DR [**Last Name (STitle) 3778**] TO BE INFORMED. 
+",,
+5002,26270,6205,0,3265-08-03 18:12:00 EST,3265-08-03 18:14:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+SOCIAL- PATIENT STATES SHE HAS ONE SON THAT LIVES IN MASS. SHE STATES HE IS AN ALCOHOLIC. SHE DOES NOT WISH HIM TO BE NOTIFIED OF THAT SHE IS HERE. 
+PAIN- PAITENT C/O OF PAIN IN RIGHT UPPER ARM. ARM IN THE AREA IS DISCOLORED AS IT HAS BEEN ALL DAY. DR [**Last Name (STitle) 3778**] MADE AWARE. HE WILL BE UP TO SEE IT.  
+",,
+5002,26270,6205,,3265-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-4**] 4:35 PM
+     CT UP EXT W/O C; CT RECONSTRUCTION                              Clip # [**Clip Number (Radiology) 7485**]
+     Reason: please assess for R humeral head fracture                   
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found unresponsive, no PMH known to us yet. Intubate, 
+      extubated - now c R shoulder pain
+     REASON FOR THIS EXAMINATION:
+      please assess for R humeral head fracture                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE RIGHT SHOULDER WITHOUT CONTRAST.
+     
+     CLINICAL HISTORY:  85-year-old woman with right shoulder fracture.
+     
+     TECHNIQUE:  Non-contrast CT scan of the right shoulder was performed using 2-
+     mm collimation.  Comparison is made to prior plain film dated [**3265-8-3**].
+     
+     FINDINGS:  There is a complex fracture involving the right humeral head and
+     neck.  The anterior portion of the humeral head is severely comminuted.  The
+     posterior one-half of the humeral head is relatively intact, however it is
+     dislocated posteriorly.  The distal humeral fracture fragment is displaced
+     anteriorly and superiorly with overriding of the fracture fragments.  There
+     are degenerative changes of the AC joint.
+     
+     Limited visualization of the right lung shows a 9 mm densely lesion with
+     central calcification.  However, the margins of this lesion is slightly
+     irregular.
+     
+     IMPRESSION:
+     
+     1.  Comminuted fracture of the anterior humeral head and surgical neck with
+     posterior displacement of the posterior humeral head as described above.
+     
+     2.  There is a lesion in the right upper lobe with central area of
+     calcification and mildly irregular borders.  Comparison to old films would be
+     useful to establish stability, otherwise 6 month followup CT is recommended.
+     
+     These findings have been given to Dr. [**First Name4 (NamePattern1) 1052**] [**Last Name (NamePattern1) 7486**].
+
+",,
+5002,26270,6205,,3265-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-4**] 4:35 PM
+     CT UP EXT W/O C; CT RECONSTRUCTION                              Clip # [**Clip Number (Radiology) 7485**]
+     Reason: please assess for R humeral head fracture                   
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman found unresponsive, no PMH known to us yet. Intubate, 
+      extubated - now c R shoulder pain
+     REASON FOR THIS EXAMINATION:
+      please assess for R humeral head fracture                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE RIGHT SHOULDER WITHOUT CONTRAST.
+     
+     CLINICAL HISTORY:  85-year-old woman with right shoulder fracture.
+     
+     TECHNIQUE:  Non-contrast CT scan of the right shoulder was performed using 2-
+     mm collimation.  Comparison is made to prior plain film dated [**3265-8-3**].
+     
+     FINDINGS:  There is a complex fracture involving the right humeral head and
+     neck.  The anterior portion of the humeral head is severely comminuted.  The
+     posterior one-half of the humeral head is relatively intact, however it is
+     dislocated posteriorly.  The distal humeral fracture fragment is displaced
+     anteriorly and superiorly with overriding of the fracture fragments.  There
+     are degenerative changes of the AC joint.
+     
+     Limited visualization of the right lung shows a 9 mm densely lesion with
+     central calcification.  However, the margins of this lesion is slightly
+     irregular.
+     
+     IMPRESSION:
+     
+     1.  Comminuted fracture of the anterior humeral head and surgical neck with
+     posterior displacement of the posterior humeral head as described above.
+     
+     2.  There is a lesion in the right upper lobe with central area of
+     calcification and mildly irregular borders.  Comparison to old films would be
+     useful to establish stability, otherwise 6 month followup CT is recommended.
+     
+     These findings have been given to Dr. [**First Name4 (NamePattern1) 1052**] [**Last Name (NamePattern1) 7486**].
+
+",,
+5002,26270,6205,0,3265-08-04 04:00:00 EST,3265-08-04 04:14:00 EST,6439,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+neuro: pt A/Ox2, time to time becomes disoriented in place.follows commands, open eyes spont, left pupil 3mm/brisk. Xray of rt arm/shoulder done, showed fracture/?dislocation of humerus, ortho consult recomended CT of shoulder.
+
+resp: received on cool neb 40%, sat 100%, overnight changed to NC 3L. LS clear, strong productive cough.
+
+cv: HR 70-80's, NSR, occas PAC'S. SBP 150-160, with repositon SBP up 170-180, cont Metoprolol 25mg TID. evening labs done by arterial stick, pt needs morning labs, no access. CPK 5029, CK/MB 7 down from 11.
+
+gu/gi: foley in place, drainging 30-40cc/hr urine, no fluid boluses given. ABD soft, BS present, no stool, pt takes meds PO with water, tolerated good.
+
+id: Tmax 97.6, cont ABX.
+
+social: no contact from family.
+
+plan: cont monitoring neuro/resp/cardio status, u/o
+      CT of shoulder per ortho consult, splint to fix shoulder.
+
+
+",,
+5002,26270,6205,0,3265-08-04 05:19:00 EST,3265-08-04 05:19:00 EST,6439,"N",69,"Nursing/Other",,"
+
+ADDENDUM TO NOTRS ABOVE
+ 
+MORNING LABS SENT, PT SCHEDULE FOR CT SHOULDER FOR TODAY.
+",,
+5002,26270,6205,0,3265-08-04 10:32:00 EST,3265-08-04 10:52:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+85 YEAR OLD FEMALE FOUND DOWN AT ASSSISTED LIVING FACILITY FOR ? CAUSE. SHE WA TAKEN BY EMS TO [**Hospital1 2**] ER. WAS INTUBATED FOR HYPOXIA. ? INFILTRATES ON CXR. EXTUBATED YESTERDAY. C/O OF RIGHT ARM PAIN. RIGHT UPPER ARM SLIGHTLY DISCOLORED. XRAYS DONE SHOWING FRACTURED HUMERUS. NEEDS CT OF SHOULDER TO LOOK FOR DISLOCATION. IF IT IS DISLOCATED SHE WILL NEED SURGERY. 
+REVEIW OF SYTEMS-
+NEURO- ALERT AND ORIENTED X2. KNOWS SHE IS IN THE HOSPITAL AND WHO SHE IS. DOES NOT KNOW YEAR. STATES SHE NEVER KNOWS IT. SHE STATES SHE HAS NO PMH. STATES LAST TIME SHE WAS AT THE DOCTORS [**Name5 (PTitle) **] TOLD [**Name5 (PTitle) **] SHE HAD HBP. KNOWS SHE IS ON BUSPAR FOR ANXIETY. STATES SHE IS A VERY NERVOUS WOMAN. KNOWS SHE IS ON ANOTHER MED THAT BEGINS WITH A T BUT DOESN'T KNOW WHY. DENIES HX OF SEIZURES. HAS NO RECOLLECTION OF WHAT HAPPENED THAT BROUGHT HER INTO THE HOSPTIAL. SHE IS BLIND IN HER RIGHT EYE. LEFT PUPIL 2MM AND SLUGGISH. SHE MAE. RIGHT ARM PAINFUL WHEN MOVED. 
+RESP- ON 2L NC WITH SATS HIGH 90'S TO 100%. RESP 21-26. BS CLEAR. COUGHING WITHOUT RAISING. 
+CARDIAC- HR 75-99 NSR WITH RARE PAC. SBP 160-180 WITH ACTIVITY. DOWN TO 149 AT REST. MG THIS AM 1.9 TX WITH 2GMS OF MAG. 
+GI- ABD SOFT WITH POS BS. STARTED HEART HELATHY DIET TODAY. TOLERATED WELL. NEEDS ASSIST TO EAT AS SHE IS RIGHT HANDED. 
+GU- FOLEY PATENT DRAINING CLEAR YELLOW URINE AT 80CC/HR. SHE WAS GIVEN 1000CC OF NS AS SHE APPEARS VERY DRY. MUCOUS MEMBRANES ARE DRY SHE IS COMPLAINING OF THIRST. 
+PAIN- HAS NO C/O OF PAIN IN RIGHT ARM UNLESS IT IS MOVE. PLACED IN A SLING PER ORTHO. ORTHO STATED IF THE SHOULDER IS DISLOCATED SHE WILL NEED SURGERY TO REGAIN MOBILITY AND FUNCTIONING OF THE ARM. . SHE IS REFUSING THAT AT PRESENT. ORTHO WANTED TO KNOW HER LEVEL OF COMPETENCY . DR [**First Name (STitle) 2970**] WAS MADE AWARE. 
+SOCIAL- PATIENT STATES SHE HAD 3 CHILDREN. 2 OF WHOM ARE DECEASED. ONE SON LIVES IN [**Hospital1 254**] AND IS AN ALCOHOLIC SHE STATES. SHE DOES NOT WANT HIM NOTIFIED OF HER HOSPITALIZATION. SHE WANTS NO ONE NOTIFIED. 
+DISPO- C/O TO TELE BED. 
+PLAN- CT OF SHOULDER. 
+      ORTHO FOLLOWING. 
+      MICU TEAM TO TRY TO TRACK DOWN DOCTOR WHO IS CARING FOR HER TO GET INFORMATION. 
+",,
+5002,26270,6205,0,3265-08-04 17:05:00 EST,3265-08-04 17:08:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 11AM-3PM:","
+MICU NPN 11AM-3PM:
+Neuro: Pt sleeping in naps, easily arousable. Oriented to place and name only. Slightly confused and asking to get OOB. Seen by Case management to try to get more information regarding next of [**Doctor First Name 34**]. The assisted living apt social worker called and said they have no next of [**Doctor First Name 34**] listed on their record. They say she is reluctant to seek MD care and they are not sure if she takes her prescribed meds. She is slightly confused at baseline. Today pt taking small amts PO's. Swallows pills with sips of juice/water without difficulty. Vital signs have been stable. Pt transfers to the floor for further care. CT of her right shoulder done at 5pM.
+",,
+5002,26270,,,3265-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-6**] 5:00 PM
+     HUMERUS (AP & LAT) LEFT IN O.R.; UPPER EXTREMITY FLUORO WITHOUT RADIOLOGIST LEFT IN O.R.Clip # [**Clip Number (Radiology) 7487**]
+     Reason: ORIF HUMERUS LT
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  HUMERUS INTRAOPERATIVE STUDY.  [**3265-8-6**].
+     
+     Please note that the study is labeled left; however, the patient has a right
+     humerus fracture.
+     
+     FINDINGS AND IMPRESSION:  Fluoroscopic assistance was provided for the surgeon
+     without a radiologist present.  Although the films are labeled left side, the
+     patient has a known right surgical neck fracture.  These images are presumed
+     to be of the right humerus.  Would correlate with the clinical report for
+     further details.  There has been replacement of the humeral head with a
+     prosthesis.  There is no definite evidence for prosthesis complication.
+     Surgical clips are seen overlying the images.
+     
+     
+
+",,
+5002,26270,,,3265-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-6**] 5:00 PM
+     HUMERUS (AP & LAT) LEFT IN O.R.; UPPER EXTREMITY FLUORO WITHOUT RADIOLOGIST LEFT IN O.R.Clip # [**Clip Number (Radiology) 7487**]
+     Reason: ORIF HUMERUS LT
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  HUMERUS INTRAOPERATIVE STUDY.  [**3265-8-6**].
+     
+     Please note that the study is labeled left; however, the patient has a right
+     humerus fracture.
+     
+     FINDINGS AND IMPRESSION:  Fluoroscopic assistance was provided for the surgeon
+     without a radiologist present.  Although the films are labeled left side, the
+     patient has a known right surgical neck fracture.  These images are presumed
+     to be of the right humerus.  Would correlate with the clinical report for
+     further details.  There has been replacement of the humeral head with a
+     prosthesis.  There is no definite evidence for prosthesis complication.
+     Surgical clips are seen overlying the images.
+     
+     
+
+",,
+5002,26270,,,3265-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-8-7**] 2:59 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT                  Clip # [**Clip Number (Radiology) 7488**]
+     Reason: implant alignemnt                                           
+     Admitting Diagnosis: ASPIRATION PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman s/p R shoulder hemiarthroplasty                               
+     REASON FOR THIS EXAMINATION:
+      implant alignemnt                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shoulder hemiarthroplasty.
+     
+     Three radiographs of the right shoulder demonstrate the patient to be status
+     post right shoulder hemiarthroplasty.  There is anatomic alignment of the
+     humeral component and the native glenoid.  Surgical staples project over the
+     anterolateral right arm.  Surgical drain is seen to project over the proximal
+     lateral aspect of the right arm.  The visualized lungs and ribs are
+     unremarkable.  The acromioclavicular joint is normal.
+     
+     Small calcific density projecting medial to the humeral neck may be secondary
+     to prosthetic placement or retained fragment from the fractures seen on
+     [**3265-8-3**].
+     
+     IMPRESSION:
+     Status post right shoulder hemiarthroplasty.
+                                                                           
+
+",,
+5002,,,,3265-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3265-9-3**] 8:58 AM
+     HUMERUS (AP & LAT) RIGHT                                        Clip # [**Clip Number (Radiology) 7489**]
+     Reason: S/P FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fracture.
+     
+     RIGHT HUMERUS, AP AND LATERAL VIEWS:  Comparison is made to prior study of
+     [**3265-8-7**].
+     
+     Three radiographs of the right shoulder demonstrate the patient to be status
+     post right shoulder hemiarthroplasty with cemented prosthetic stem.  There has
+     been interval removal of surgical skin clips over the anterolateral right arm.
+     There is anatomical alignment of the humeral component with the native
+     glenoid.  Likely periosteal reaction is noted along the lateral aspect of the
+     tip of the femoral component.  No discrete fracture is identified.  The
+     acromioclavicular joint is normal.  A small calcific density projecting medial
+     to the humeral neck may be secondary to prosthetic placement.
+     
+     IMPRESSION:  
+     
+     Status post right shoulder hemiarthroplasty.   Periosteal reaction along the
+     proximal humerus at the level of the lateral tip of the prosthetic stem.
+     No discrete fracture.
+
+",,
+5002,,,,3266-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-1-5**] 12:53 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7490**]
+     Reason: f/u status of lung nodule found [**8-3**] incidental nodule found
+     Field of view: 32
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u status of lung nodule found [**8-3**] incidental nodule found 6 mo ago
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Follow up lung nodule seen on study of [**3265-7-30**].
+     
+     COMPARISON:  CT abdomen, pelvis of [**3265-8-1**].
+     
+     TECHNIQUE:  Multidetector contiguous axial CT images of the chest were
+     obtained without intravenous contrast.
+     
+     FINDINGS:  There are multiple nodular opacities in a centrilobular
+     distribution predominantly in the right lower lobe, and to a lesser extent in
+     the right middle lobe, the lingula and left lower lobe.  There is associated
+     bronchiectasis. Findings are most consistent with Mycobacterium avium-
+     intracellulare ([**Doctor First Name **]). Tuberculosis cannot be fully excluded.  Compared to
+     [**3265-8-1**], this has increased in the interval.
+     
+     There is biapical scarring. There are calcified granulomas seen on series 2,
+     image 45 in the right middle lobe as well as on series 2, image 18 in the
+     right upper lobe.
+     
+     No significant hilar lymphadenopathy is seen.  There are small non-
+     pathologically enlarged precarinal lymph nodes, measuring up to 6 mm in
+     diameter.
+     
+     There are no pleural effusions.  The airways are patent at the level of the
+     segmental bronchi bilaterally.  There is a tiny pericardial effusion.
+     
+     There are coronary artery calcifications seen.  Incidental note is made of a
+     prosthetic right humerus.  Few images through the upper abdomen demonstrate no
+     significant abnormalities.
+     
+     IMPRESSION:  Interval development of multiple centrilobular nodular opacities
+     with associated bronchiectasis predominantly in the right lower lobe and to a
+     lesser extent in the right middle lobe, lingula and left lower lobe.  As
+     described above, [**Doctor First Name **] infection is a major consideration.  Tuberculosis cannot
+     be fully excluded.
+
+",,
+5002,,,,3266-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3266-6-7**] 10:46 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7491**]
+     Reason: f/u lung nodules, seventy nine year female ( last  xct 2/7/2
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      f/u lung nodules, seventy nine year female ( last  xct [**3266-1-5**] )
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bronchiectasis and peribronchial nodules.
+     
+     COMPARISON:  [**3266-1-5**].
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest were obtained from the
+     thoracic inlet through the adrenal glands without intravenous contrast.
+     
+     FINDINGS:  Mild cylindrical bronchiectasis and bronchial wall thickening in
+     the right lower lobe are markedly improved, with near complete resolution of
+     associated bronchiolar nodules, while numerous noncalcified bronchiolar
+     nodules in the right upper, right
+     middle, left upper, and left lower lobes are unchanged, measuring up to 3 mm
+     (image 4:21).  Moderate varicose bronchiectasis in the lingula and associated
+     peripheral opacity appear unchanged. Mild cylindrical bronchiectasis and
+     bronchial wall thickening in the remainder of the lungs is unchanged.  A
+     calcified 9 x 6 mm nodule in the right upper lobe (image 4:19) is unchanged.
+     
+     Severe pleural/parenchymal scarring at the left lung apex and in the posterior
+     right upper hemithorax is unchanged, but malignancy cannot be excluded.
+     Numerous subcentimeter right and left paratracheal lymph nodes are unchanged,
+     not pathologically enlarged by CT criteria.
+     
+     Atherosclerotic calcifications are present in the left main, left anterior
+     descending, left circumflex, and right coronary arteries.  The left ventricle
+     is probably enlarged on noncontrast images.  There is no pericardial or
+     pleural effusion.
+     
+     Atherosclerotic calcifications are present in the abdominal aorta, splenic
+     artery, superior mesenteric artery, and both renal arteries.  Left extrarenal
+     pelvis is again noted.  Other upper abdominal organs appear unremarkable on
+     noncontrast images.  The imaged bones appear unremarkable.
+     
+     IMPRESSION:
+     1. Improved mild right lower lobe bronchiectasis and resolved bronchiolitis. .
+     
+     2.  Unchanged moderate bronchiectasis and peripheral opacity in the lingula.
+     Unchanged mild bronchiectasis and scattered bronchiolar nodules in the
+     remainder of the lungs.
+     
+     3.  Unchanged severe pleural/parenchymal scarring at the left lung apex and in
+     the right upper posterior hemithorax.  Malignancy cannot be excluded.  If
+     clinically warranted, follow-up may be performed in six months.
+                                                                 (Over)
+
+     DATE: [**3266-6-7**] 10:46 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7491**]
+     Reason: f/u lung nodules, seventy nine year female ( last  xct 2/7/2
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     4.  Coronary artery atherosclerosis.
+     
+                                                                           DFDkq
+
+",,

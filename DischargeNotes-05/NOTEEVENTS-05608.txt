@@ -1,0 +1,1094 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3124-1-22**]       Discharge Date:  [**3124-2-8**]
+
+Date of Birth:   [**3043-12-5**]       Sex:  M
+
+Service: NEUROLOGY
+
+HISTORY OF PRESENT ILLNESS:  In summary, this is an
+80-year-old man with past medical history significant for
+lymphoma, diabetes mellitus, hypertension, atrial
+fibrillation, and COPD, who presented with intractable
+emesis, slurred speech, and later obtundation.  He was
+initially brought to [**Hospital3 **], where pneumonia was
+diagnosed.  He was intubated for hypoxia and
+unresponsiveness, and then was sent to [**Hospital1 797**] for further management.
+
+Here at [**Hospital3 **], his head CT showed a left cerebellar
+infarct.  His INR was therapeutic on arrival at [**Location (un) 579**],
+however, when he presented here, his INR was actually 5.2.  A
+MRI was done here at [**Hospital1 **], which confirmed
+an infarction in the left superior cerebellar territory.  He
+was extubated on [**3124-1-24**], and has done well since.
+He was transferred to the floor from the ICU on [**3124-1-26**].  He was still on a face mask O2.  He denied any
+shortness of breath, and says that he felt well.  In
+discussion with his wife and the patient as per his wishes,
+he did not want to be re-intubated for respiratory failure.
+
+
+PAST MEDICAL HISTORY:
+1. Lymphoma.
+2. Diabetes mellitus.
+3. COPD.
+4. Hypertension.
+5. Prostate cancer.
+6. Hypercholesterolemia.
+7. Atrial fibrillation.
+
+ALLERGIES:  No known allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Albuterol/ipratropium nebulizers.
+2. Digoxin.
+3. Pepcid.
+4. Hydralazine prn.
+5. Lopressor 50 mg b.i.d.
+6. Coumadin for a goal INR between [**3-5**].
+7. Sliding scale insulin.
+
+SOCIAL HISTORY:  He smoked one pack per day.  He has no
+alcohol use.  He lives with his wife.
+
+FAMILY HISTORY:  Significant only for cardiac disease.
+
+PHYSICAL EXAMINATION:  On admission to the floor, he was
+afebrile at 97.2, blood pressure is 166/70, heart rate was
+78, respiratory rate was 18, and he was satting 99% on a 40%
+face mask.  He was in no acute distress.  He appeared
+comfortable.  HEENT examination:  His oropharynx was clear.
+Mucous membranes were moist.  His lungs had coarse bilateral
+breath sounds with some end expiratory wheezes at the bases.
+His heart was irregular with normal S1, S2 with no murmurs.
+His abdomen was soft, and extremities were warm.
+Neurologically, he was able to follow one step commands.  He
+showed two fingers.  He was able to lift up both legs.  He
+was able to lift up both arms.  He can answer simple
+questions appropriately.  He was fluent, but no dysarthria
+that was obvious.  Cranial nerves:  Pupils are equal, round,
+and reactive to light.  Extraocular movements are intact.  He
+was able to cross the midline with gaze.  His fundi were
+normal.  He had a right facial droop.  His tongue protruded
+to the midline without vesiculations.  On motor examination,
+he had normal bulk and tone throughout.  He moved his left
+arm against gravity.  Weaker on the right upper extremity,
+however, he was able to lift it against gravity.  He had less
+spontaneous overall movement on the right arm.  His legs:  He
+was able to lift both of them equally and hold them up.  He
+had very slight weakness on the right leg compared to the
+left leg throughout.  His reflexes were 1+ in the upper
+extremities.  They seem to be decreased on the right side.
+He has an upgoing toe on the right side.  Sensation:  He
+withdrew to pain.  It was intact to light touch and
+temperature, however, the patient not very cooperative with
+this examination.  Unable to really test coordination again
+due to cooperativity, had not been able to test his walk.
+
+LABORATORIES:  On presentation to the floor, his laboratories
+were a white count of 7.3, platelets of 204, hematocrit 37.4.
+His INR was therapeutic, at one point it was complicated with
+an INR of 5.2 likely secondary to levofloxacin which was
+started for his pneumonia.  Coumadin 7.5 mg q.h.s. was held
+and then his INR drifted down to normal levels.
+
+His levofloxacin after two days was switched to ceftriaxone
+and he was also started on clindamycin IV.  He completed 10
+days total of levofloxacin plus ceftriaxone and nine days of
+clindamycin IV, and his chest x-ray was markedly improved.
+
+His hospital course was complicated only by the pneumonia.
+He was very slow to come back appear more alert and oriented,
+and after seven days, he was on nasogastric tube feeds, and
+eventually a PEG tube was placed on [**3124-2-6**].  He was
+started on PEG tube feeds on [**2-7**] a.m. and he has
+tolerated those well without complications.
+
+In summary, this is an 80-year-old man with history of
+lymphoma, hypertension, diabetes, COPD, who presented with
+emesis, slurred speech, and right hemiparesis, who was found
+to have a left superior cerebellar artery infarction with
+residual deficits.  He has mild ataxia and mild hemiparesis
+on the right side with a right facial droop.  He was
+evaluated by Physical Therapy and Occupational Therapy team
+here, who deemed that he needed acute rehab services.
+
+After discussion with his PCP, [**Name10 (NameIs) **] was sent out to rehab on
+[**3124-2-8**].
+
+MEDICATIONS ON DISCHARGE:
+1. Albuterol nebulizers one nebulizer q.4h. prn.
+2. Aspirin 325 mg p.o. q.d.
+3. Atorvastatin 10 mg p.o. q.d.
+4. Captopril 25 mg p.o. t.i.d.
+5. Digoxin 0.125 mg p.o. q.d.
+6. Sliding scale insulin.
+7. Ipratropium bromide nebulizers one nebulizer q.6h. prn.
+8. Metoprolol 25 mg p.o. b.i.d.
+9. Protonix 40 mg p.o. q.24h.
+10. Coumadin 5 mg p.o. q.h.s., his last Coumadin level on
+[**3124-2-7**] was 1.7.  His [**3124-2-8**] Coumadin level
+is still pending.
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 3191**]
+
+Dictated By:[**Name8 (MD) 6812**]
+MEDQUIST36
+
+D:  [**3124-2-8**]  09:08
+T:  [**3124-2-8**]  09:25
+JOB#:  [**Job Number 6813**]
+
+
+
+
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: [**First Name8 (NamePattern2) 442**] [**3124-2-19**] 5:09 PM
+(End of Report)
+
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 6:27 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 12611**]
+     MR CONTRAST GADOLIN
+     Reason: eval for ischemic stroke
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hx of vomiting,unresponsiveness, and lesion on CT
+      consistent w/ischemic infarct
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: The patient has a history of vomiting and
+     unresponsiveness and lesion on CT consistent with ishemia for further
+     evaluation.
+     
+     TECHNIQUE: T1 sagittal and FLAIR, T2, susceptibility and diffuse and axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following gadolinium.  3D TOF MRI of the COW was acquired.
+     
+     FINDINGS: Brain MRI.
+     
+     As seen on the CT, there is an acute infarct in the distribution of the left
+     superior cerebellar artery.  There is minimal indentation on the left side of
+     the fourth ventricle in its superior portion.  No evidence of hydrocephalus is
+     seen.  There are periventricular hyperintensities indictative of moderate
+     changes of small vessel disease.  Small areas of low signal are seen on the
+     susceptibility images within the right anterior temple region, right basal
+     ganglia and the bones indicative of hemosiderin deposition from previous
+     hemorrhages.  Area of encephalomalacia is seen in the right anterior temporal
+     lobe.  Following gadolinium administration, no abnormal enhancement is
+     identified.
+     
+     IMPRESSION: Acute left superior cerebellar artery territorial infarct.  No
+     abnormal enhancement or mass lesion.  No hydrocephalus.  Changes of small
+     vessel disease.
+     
+     MRI OF THE HEAD:
+     
+     The head MRA demonstrates normal flow signal within the arteries of anterior
+     and posterior circulation.
+     
+     IMPRESSION: No significant abnormalities are detected on the MRA of the head.
+     
+     
+     
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 6:27 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 12611**]
+     MR CONTRAST GADOLIN
+     Reason: eval for ischemic stroke
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hx of vomiting,unresponsiveness, and lesion on CT
+      consistent w/ischemic infarct
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: The patient has a history of vomiting and
+     unresponsiveness and lesion on CT consistent with ishemia for further
+     evaluation.
+     
+     TECHNIQUE: T1 sagittal and FLAIR, T2, susceptibility and diffuse and axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following gadolinium.  3D TOF MRI of the COW was acquired.
+     
+     FINDINGS: Brain MRI.
+     
+     As seen on the CT, there is an acute infarct in the distribution of the left
+     superior cerebellar artery.  There is minimal indentation on the left side of
+     the fourth ventricle in its superior portion.  No evidence of hydrocephalus is
+     seen.  There are periventricular hyperintensities indictative of moderate
+     changes of small vessel disease.  Small areas of low signal are seen on the
+     susceptibility images within the right anterior temple region, right basal
+     ganglia and the bones indicative of hemosiderin deposition from previous
+     hemorrhages.  Area of encephalomalacia is seen in the right anterior temporal
+     lobe.  Following gadolinium administration, no abnormal enhancement is
+     identified.
+     
+     IMPRESSION: Acute left superior cerebellar artery territorial infarct.  No
+     abnormal enhancement or mass lesion.  No hydrocephalus.  Changes of small
+     vessel disease.
+     
+     MRI OF THE HEAD:
+     
+     The head MRA demonstrates normal flow signal within the arteries of anterior
+     and posterior circulation.
+     
+     IMPRESSION: No significant abnormalities are detected on the MRA of the head.
+     
+     
+     
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 6:27 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 12611**]
+     MR CONTRAST GADOLIN
+     Reason: eval for ischemic stroke
+      Contrast: MAGNEVIST Amt: 15CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with hx of vomiting,unresponsiveness, and lesion on CT
+      consistent w/ischemic infarct
+     REASON FOR THIS EXAMINATION:
+      eval for ischemic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: The patient has a history of vomiting and
+     unresponsiveness and lesion on CT consistent with ishemia for further
+     evaluation.
+     
+     TECHNIQUE: T1 sagittal and FLAIR, T2, susceptibility and diffuse and axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following gadolinium.  3D TOF MRI of the COW was acquired.
+     
+     FINDINGS: Brain MRI.
+     
+     As seen on the CT, there is an acute infarct in the distribution of the left
+     superior cerebellar artery.  There is minimal indentation on the left side of
+     the fourth ventricle in its superior portion.  No evidence of hydrocephalus is
+     seen.  There are periventricular hyperintensities indictative of moderate
+     changes of small vessel disease.  Small areas of low signal are seen on the
+     susceptibility images within the right anterior temple region, right basal
+     ganglia and the bones indicative of hemosiderin deposition from previous
+     hemorrhages.  Area of encephalomalacia is seen in the right anterior temporal
+     lobe.  Following gadolinium administration, no abnormal enhancement is
+     identified.
+     
+     IMPRESSION: Acute left superior cerebellar artery territorial infarct.  No
+     abnormal enhancement or mass lesion.  No hydrocephalus.  Changes of small
+     vessel disease.
+     
+     MRI OF THE HEAD:
+     
+     The head MRA demonstrates normal flow signal within the arteries of anterior
+     and posterior circulation.
+     
+     IMPRESSION: No significant abnormalities are detected on the MRA of the head.
+     
+     
+     
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 5:51 PM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12610**]
+     Reason: progression of hydrocephalus evaluate mass                  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left  
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      progression of hydrocephalus evaluate mass                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JCCJ TUE [**3124-1-22**] 6:44 PM
+      no change in ventricle size since prior study
+      patent vertebral arteries and basilar artery
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  Vomiting with left cerebellar infarction.  Assess for progression
+     of hydrocephalus and assess for basilar artery thrombosis.
+     
+     TECHNIQUE:  Non-contrast head CT followed by a CT angiogram of the circle of
+     [**Location (un) 405**] with coronal and sagittally reformatted images.
+     
+     INTRAVENOUS CONTRAST:  100 cc of Optiray due to fast bolus technique.
+     
+     COMPARISON:  Head CT [**3124-1-22**] at 11:48AM.
+     
+     FINDINGS:  Compared to the prior non-contrast head CT, there has been no
+     change in the appearance of the brain parenchyma, including a moderate to
+     large sized area of low density within the left cerebellar hemisphere, perhaps
+     involving the pons as well.  The size of the ventricles is unchanged.
+     Hypodensities in the periventricular white matter areas bilaterally are also
+     unchanged.  There is no hydrocephalus, but the forth ventricle is mild to
+     moderately narrowed.
+     
+     CT angiogram of the circle of [**Location (un) 405**] demonstrates complete opacification of
+     the vertebral arteries, the basilar artery, and the major branches of the
+     internal carotid artery.  There is no evidence of large aneurysm.
+     
+     Trace fluid is seen within the sphenoid sinuses, and there is opacification of
+     the ethmoid sinuses.  There is a minimal amount of mucosal thickening within
+     the maxillary sinuses bilaterally.  An ET tube and a nasogastric tube are
+     noted.
+     
+     CT RECONSTRUCTIONS:  These images confirm the above findings.
+     
+     IMPRESSION:
+     
+     1) No change in the size of the ventricles since the prior study.
+     Stable left cerebellar infarction.
+     2) Patent vertebral and basilar arteries.
+                                                                 (Over)
+
+     DATE: [**3124-1-22**] 5:51 PM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12610**]
+     Reason: progression of hydrocephalus evaluate mass                  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 5:51 PM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12610**]
+     Reason: progression of hydrocephalus evaluate mass                  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left  
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      progression of hydrocephalus evaluate mass                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JCCJ TUE [**3124-1-22**] 6:44 PM
+      no change in ventricle size since prior study
+      patent vertebral arteries and basilar artery
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     CT ANGIOGRAM OF THE CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  Vomiting with left cerebellar infarction.  Assess for progression
+     of hydrocephalus and assess for basilar artery thrombosis.
+     
+     TECHNIQUE:  Non-contrast head CT followed by a CT angiogram of the circle of
+     [**Location (un) 405**] with coronal and sagittally reformatted images.
+     
+     INTRAVENOUS CONTRAST:  100 cc of Optiray due to fast bolus technique.
+     
+     COMPARISON:  Head CT [**3124-1-22**] at 11:48AM.
+     
+     FINDINGS:  Compared to the prior non-contrast head CT, there has been no
+     change in the appearance of the brain parenchyma, including a moderate to
+     large sized area of low density within the left cerebellar hemisphere, perhaps
+     involving the pons as well.  The size of the ventricles is unchanged.
+     Hypodensities in the periventricular white matter areas bilaterally are also
+     unchanged.  There is no hydrocephalus, but the forth ventricle is mild to
+     moderately narrowed.
+     
+     CT angiogram of the circle of [**Location (un) 405**] demonstrates complete opacification of
+     the vertebral arteries, the basilar artery, and the major branches of the
+     internal carotid artery.  There is no evidence of large aneurysm.
+     
+     Trace fluid is seen within the sphenoid sinuses, and there is opacification of
+     the ethmoid sinuses.  There is a minimal amount of mucosal thickening within
+     the maxillary sinuses bilaterally.  An ET tube and a nasogastric tube are
+     noted.
+     
+     CT RECONSTRUCTIONS:  These images confirm the above findings.
+     
+     IMPRESSION:
+     
+     1) No change in the size of the ventricles since the prior study.
+     Stable left cerebellar infarction.
+     2) Patent vertebral and basilar arteries.
+                                                                 (Over)
+
+     DATE: [**3124-1-22**] 5:51 PM
+     CTA HEAD W&W/O C & RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 12610**]
+     Reason: progression of hydrocephalus evaluate mass                  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 11:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12605**]
+     Reason: eval for chf and tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left
+      cerebellar infarct. s/p adjustment of ET tube 
+     REASON FOR THIS EXAMINATION:
+      eval for chf and tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80-year-old with vomiting.
+     
+     PORTABLE CHEST:  The cardiac silhouette is at the upper limits of normal for
+     size.  The hilar and mediastinal silhouettes are within normal limits for
+     size.  There is bilateral mild peribronchial thickening with increased
+     interstitial markings and perihilar haziness.  The costophrenic angles are
+     sharp.  There is an endotracheal tube with its tip approximately 3-4 cm above
+     the carina.  There is a nasogastric tube present with its tip in the body of
+     the stomach and its side hole in the esophagus.  There is bilateral
+     degenerative changes in the AC joint.
+     
+     IMPRESSION:  Increased interstitial markings with vascular haziness findings
+     consistent with congestive heart failure.
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 2:54 PM
+     ORBITS (WATERS, [**Location (un) 4863**] & LAT)                                 Clip # [**Clip Number (Radiology) 12608**]
+     Reason: r/o metallic foreign body for MRI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man, inbutubated, but possible hx of metal injury per wife awaiting
+      MRI 
+     REASON FOR THIS EXAMINATION:
+      r/o metallic foreign body for MRI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  80 year old, intubated, with possible history of metal injury.
+     Patient awaiting MRI.
+     
+     ORBITS TWO VIEWS:  There are no radiopaque foreign bodies in the orbits.
+     There is a nasogastric tube present.
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 2:55 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 12609**]
+     Reason: tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with check tube placement
+     REASON FOR THIS EXAMINATION:
+      tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  An 80-year-old man with chest tube placement.
+     
+     COMPARISON:  [**3124-1-22**], 11:58.
+     
+     The cardiac silhouette is at the upper limits of normal for size.  There is
+     bilateral perihilar haziness and vascular blurring, which has slightly
+     improved. There are no pleural effusions.  There are no focal consolidations.
+     
+     The tip of an endotracheal tube is just below the level of the clavicle
+     approximately 3 to 4 cm above the carina.  A nasogastric tube is present and
+     its side hole is in the distal esophagus.
+     
+     IMPRESSION: Slight improvement in the mild congestive heart failure.
+     Satisfactory position positioning of endotracheal tube.
+
+",,
+5608,7673,,,3124-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-22**] 11:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12607**]
+     Reason: eval for interval change in cerebellar infarct
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      eval for interval change in cerebellar infarct
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: TKE TUE [**3124-1-22**] 1:29 PM
+      left cerebellar infarct no hemorrhage or herniation [**Location (un) 12606**] study not in PACS
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION: CT at BId-[**Location (un) 12606**] showed left cerebellar infarct ?interval change.
+     
+     NON-CONTRAST HEAD CT:
+     
+     The prior study from [**Hospital1 **] [**Location (un) 12606**] has not been entered in the PACS system and is
+     not available for comparison at the present time. There is a low density area
+     in the left cerebellar hemisphere consistent with infarction. There is no
+     definite evidence of hemorrhage. There is no definite evidence of
+     transforaminal or transtentorial herniation. The lateral ventricles are
+     moderately prominent consistent with moderate brain atrophy. There are old
+     lacunar infarcts in the left anterior limb of the internal capsule, the head
+     of the caudate on the right side and the right putamen. There is no evidence
+     of focal extra-axial lesion or fluid collection.
+     
+     IMPRESSION: Abnormal consistent with left cerebellar infarction. No definite
+     evidence of hemorrhage or herniation.
+
+",,
+5608,7673,,,3124-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-23**] 6:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12612**]
+     Reason: r/o pna                                                     
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left 
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST:
+     
+     INDICATION: Presented with vomiting. CT showed left cerebellar infarct. R/O
+     pneumonia.
+     
+     FINDINGS: A single AP supine view. Comparison study dated [**3124-1-22**]. The
+     ETT and the NG line remain in satisfactory positions. There is now worsening
+     consolidation and collapse of the left lower lobe behind the heart and there
+     is also some illdefined consolidation in the right lower lobe and minimal
+     infiltrates are also noted in both upper lobes. No definite pleural effusions
+     are demonstrated.
+     
+     IMPRESSION: Worsening consolidation in the left lower lobe, possibly
+     pneumonic. Multifocal illdefined infiltrates in the right lower lobe and upper
+     lobe. 2) Satisfactory positions of ETT and NG line. 
+
+",,
+5608,7673,,,3124-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-23**] 7:07 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12613**]
+     Reason: hydrocephalus, please get scan [**3124-1-23**] at 0600 AM          
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left 
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      hydrocephalus, please get scan [**3124-1-23**] at 0600 AM                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE BRAIN:
+     
+     INDICATION:  Left cerebellar infarction.  Rule out hydrocephalus.
+     
+     TECHNIQUE:  Axial non-contrast CT scans of the brain were obtained.
+     
+     Comparison is made to the previous day's examination.
+     
+     FINDINGS:  The left cerebellar infarction is unchanged in distribution.  There
+     is slightly more edema.  There is narrowing of the fourth ventricle, but not
+     effacement.  The lateral and third ventricles are unchanged in size and
+     configuration.
+     
+     The brain is unchanged in appearance.
+     
+     IMPRESSION:
+     
+     No hydrocephalus has developed, though there is narrowing of the fourth
+     ventricle.
+     
+
+",,
+5608,7673,6967,0,3124-01-23 06:02:00 EST,3124-01-23 06:08:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated at OSH with 7.5 ETT/taped at 21cm. Bs equal with rhonchi bilaterally. Sx'd for copious amounts of thick white sputum. Vent settings Vt 500, Simv 14, Fio2 40%, and Peep 5. Pmhx: Copd. Abg results 7.40, 59, 82,38, +8. No spont effort. Unable to do RSBI. Plan: Continue with mechanical support and wean Fio2 as tolerated.  
+",,
+5608,7673,6967,0,3124-01-23 06:57:00 EST,3124-01-23 07:11:00 EST,2421,"N",69,"Nursing/Other",,"
+
+NPN 1a-7a (see also careview flownotes for objective data)
+
+dx: n/v w/ unsteady gait, LOC;
+
+neuro:
+received on propofol started in ER d/t intubation for airway protection for emesis; pt non-communicative at admission to MICU-A;
+Rt arm flaccid; lft arm and bil legs with some movement;
+
+c-v:
+pt hypertensive at arrival, therefore propofol increased until pt comfortable, with resultant b/p w/in desired limits; pedal pulses difficult to palpate bilat;
+   pt on coumadin for h/o a-fib
+
+resp:
+lungs very wheezy/sibilant bilat; requiring infrequent suctioning, for small amt white somewhat thick secretions;
+   cxr showed mild CHF;
+
+g-i:
+NPO at this time; will check a.m. BS;
+
+g-u:
+blood noted at entrance of foley into penis; foley iriigated at 03:00 d/t no urine output, with result of immediate yellow clear urine return--no clots; 
+   receiving mannitol q 4 hrs to decrease/minimize brain swelling; exxpect osmotic/diuretic of mannitol;
+
+skin:
+irregular mole-type lesion noted on buttock, brought to MD's attention for possible bx re brain mass;
+
+PLAN:
+1) check a.m. labs
+2) osmotic diuresis/mannitol
+3) check na/serum osm q 8 hrs
+4) check FS q 4 hrs
+5) pt DNR, but not DNI
+",,
+5608,7673,6967,0,3124-01-23 14:49:00 EST,3124-01-23 14:50:00 EST,2427,"N",69,"Nursing/Other",,"
+
+pt was brought to CT for scan of head. He was not extubated today due to a climbing CO2 on ABG.
+",,
+5608,7673,6967,0,3124-01-23 16:04:00 EST,3124-01-23 16:27:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (0700-1900)
+
+Mr. [**Name14 (STitle) 647**] was weaned to PS ventilation. No significant changes on repeat head ct. Withdraws to painful stimuli however remains flaccid to RUE. Anticoagulated.
+
+Review of systems:
+
+Neuro: Prop gtt off for Q2hr neuro checks, awakens to painful stimuli; follows commands inconsistently, squeezing left hand upon command. MAE except RUE. Pupils 2-4mm, equal, brisk. No seizure activity, dilantin mx'd. Mannitol 25 gm q4hrs, serum osmo checked 1800hrs. Last osmo 312 at 10 am draw. HOB mx'd >30. Bil wrist restraints for maintenance of lines. +gag/cough reflex.
+
+CV:  NBP 140-160/50-70; goal 140-180. No prn nipride utilized. HR 60-90's, a-fib; receiving digoxin IV. Cardiac enzyme neg x2. PIV x3, patent. Palp DP/PT bilat. Hct and lytes stable, no repletion. NS 90 cc/hr.
+
+Resp: LS clear upper; coarse to bases. O2 sat 100% w/40% PS 10, PEEp 5; RR 12-18, Vt 450-550. Sputum spec sent; sx x2 sm amt thick white.
+SIMV to PS 5/Peep 5, ABG 7.33/67/101/6/37, PS increased to 10.
+
+GI; Abd soft, hypo BS. NGT r nare for meds. ?TF tonight/am.
+GU: Adequate u/o of >24 cc/hr; required irrigation of cath for ?clot; no clot noted however foley cath draining >250 cc post irrigation. 
+
+ID: Afebrile, t mx 98.9. ?asp pna-levo qd. WBC 13.8
+Social: Visit by pastor; otherwise no family contact by nursing.
+
+Plan: ?extubate am if ABG improved. Mannitol q4hrs, serum osmo goal 325. Await cx. BP control for stated goal. Pt is DNR if cardiac arrest. Cont w/freq neuro checks for s/p cerebellar infarct. No evidence of brain mass per neuromed, old infarct present. AM labs.?MRA of neck to further eval vessels for emboli/stenosis. Coumadin for a-fib.
+
+",,
+5608,7673,6967,0,3124-01-24 03:21:00 EST,3124-01-24 03:34:00 EST,2308,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. received on PS settings per flowsheet.  ABG's showed marginal oxygenation with partially compensated respiratory acidosis>>team wanted to trial Pt. on SIMV, to try to fully compensate the acidosis, and because Pt. triggering the apnea alarm (at 20-25 seconds).  Unclear if apnea trigger is due to actual apnea (would expect ABG to show either a fully compensated respiratory acidosis or a slight respiratory alkalosis), or due to ""[**Male First Name (un) **]-[**Last Name (un) 648**] manuever"" post forced coughing.  Repeat ABG's on rate of 16 X 500cc showed no change.  Because Pt. required increased propofol to accomodate SIMV, team decided to place back on PS settings.  Repeat ABG's on PS, with increased FIO2, showed more fully compensated respiratory acidosis, with a much improved oxygenation.  Increased apnea delay to 30 seconds with good effect.  Started Pt. on combivent for pronounced wheezes, especially post SXN.  SXN frequently for small to moderate, thick, pale, yellow.  Pt. responded well to bronchodilators.  RSBI done this a.m. was 35!  Per team, plan to give SBT, and evaluate for extubation. Will require monitor for airway patency post extubation.
+",,
+5608,7673,6967,0,3124-01-24 06:19:00 EST,3124-01-24 06:37:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+
+Overall pt has had a stable night. No neuro changes, resp as per RT note above. Did require initiation of Nicardipine gtt for BP control. 
+
+ROS:
+NEURO: Pt on Propofol gtt for agitation; gtt increased to 20mcg/kg/min d/t inadequate sedation. While on gtt he moves bilat LE's (L>R) and LUE. Does not open eyes or follow commands. When gtt held to assess status, he opens eyes to command and follows simple commands inconsistently. MAE except RUE, all with purpose. PERRL. Cont's Mannitol.
+RESP: ABG's as above; in addition he required increased FiO2 to 50%. Suctioned for small-mod amts thick white/yellow secretions q1 hour till about 0100; decreased since. Combivent MDI's started for wheezing/bronchospasm with effect.
+C-V: A-line and NBP correlating w/addition of arm board. Nicardipine gtt started to keep SBP <160 with good effect. HR 80's-90's, afib, rare PVC's. 
+ID: Afebrile, WBC very slightly elevated.
+F/E: NS at 80cc/hr. Mg and K repleted.
+GU: Brisk output of dilute yellow urine on Mannitol. 
+GI: NGT clamped, no residuals. Belly soft, NT, ND; active BS, no stool.
+ENDO: RISS; no coverage needed.
+SKIN: intact
+ACCESS: PIV X 4
+SOCIAL: wife and son visited till about 1930; will be back today
+
+A: relatively stable night
+
+P: evaluate for extubation; stop sedation q4 hours for neuro assessment; replete lytes prn; support pt/family
+",,
+5608,7673,6967,0,3124-01-24 16:27:00 EST,3124-01-24 16:50:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (1100-1900hrs)
+
+Mr. [**Known patient lastname 649**] was extubated at 1445hrs; post ABG essentially unchanged from ABG taken just prior to extubation with exception of Pa02 373; pt placed on 60% FM from NRB. Family was present for extubation and spoke with Dr. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 650**] regarding plan of care; notation in chart regarding wishes that pt is now DNR and DNI.
+
+Review of systems; 
+Neuro: Opening eyes to mod amt tactile stimuli. Following commands (opening eyes, squeezing fingers from RUE,moving legs) inconsistently. RUE with some movm't at shoulder level; lift and holds to BLE; normal strength to LUE. Gag impaired; cough weak. PERL, brisk, 2mm. No sz activity. 
+
+CV: A-fib w/occ PVC's, 90's; cardene gtt 0.8 mcg/kg/min. BP 140-170/60-90 via a-line. PIV's x3, patent. Hct decreased 25.9 (28.1), WBC sl improved at 11.1, lactate 0.9 .  K and mg repleted on noc. Blood cx still pnd. Lopressor Q4hrs.
+Resp: Ls coarse throughout post extubation; CPT x2; unable to initiate significant cough; loose congestion audible. Placed on humidified 60%02 via FM. RR 12-19. ABG post extub 7.33/61/373, Sputum spec [**1-23**] contaminated.
+
+GI: NGT r nare-will f/u w/team re: TF. Abd soft; cont w/NS 80cc/hr. SSI, no coverage needed. No stool
+
+GU; Auto diuresing. See carevue. 
+
+ID: Levo q24hrs for ?asp pna. Cx pnd. Afebrile, tmax 98. WBC decreasing
+
+Social: Wife and son at bedside for most of afternoon for extubation. Expressed wishes for plan of care be changed to DNI as well. Family expressing realistic outcomes from pt's infarct and Pmhx.
+
+Plan: Cont w/neuro checks. restrain prn. Hob >30. Coumadin for a-fib. Cardene for BP control specific. Initiate TF ?this evening or am if resp status remains stable. Chest PT/humidifed 02/pulm toilet. Adjust 02 prn. DNR/DNI.Initiate Rehab screen if noc uneventful.
+",,
+5608,7673,6967,0,3124-01-25 05:33:00 EST,3124-01-25 05:51:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+
+Overall stable night, but ongoing issues with BP control.
+
+ROS:
+NEURO: Pt is lethargic but restless at times, picking off leads and disconnecting foley twice. Easily aroused but does not like to open eyes. Beginning to answer simple questions but not always understandable. Knows he's in the hospital. PERRL. He is now able to move right arm on bed and grasp hand; left arm normal strength, able to lift and hold bilat LE's. Still  inconsistent w/following commands. Dilantin level 9.3 (has been D/C'd).
+RESP: FiO2 weaned to 40% CN. RR teens, non-labored, sats mid-high 90's. LS coarse rhonchi t/o. Sounded tight at start of shift; started on albuterol/atrovent nebs w/some improvement. Occasional junky non-productive cough. 
+C-V: BP running high on Nicardipine gtt at max rate; lopressor increased to 7.5mg q4 hours with little effect. Given hydralazine 10mg X 2 with slight effect. HR 90's, afib, occasional PVC's. A-line sometimes dampened, and does not always correlate w/NBP. 
+HEME: Transfused 1 unit PRBC's for hct 25.9; repeat 32.4. No evidence of bleeding. Coags elevated but hemolyzed. 
+GU: Cont's to auto-diurese. 
+GI: NGT in place; no residuals. Belly benign, active BS. No stool. Remains NPO; gag impaired. 
+SKIN: intact
+ID: no active issues
+ENDO: SSRI; coverage needed X 1.
+SOCIAL: wife updated when called for blood consent
+
+A: remains hypertensive; mobility improving and MS slowly clearing. Tolerating extubation.
+
+P: continue to monitor neuro status; orient prn; continue pulmonary hygeine; f/u with team regarding need for more aggressive BP control; monitor for evidence of bleeding; ? re-check coags; ? initiate TF's; ? speech and swallow consult; may need bowel regimen; SSRI; keep family informed. 
+",,
+5608,7673,6967,,3124-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-26**] 9:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12614**]
+     Reason: eval ngt placement                                          
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left  
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      eval ngt placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Stroke and NG tube placement.
+     
+     NG tube is in fundus of stomach.  Allowing for technique heart is borderline
+     to slightly enlarged.  There is some persistent opacity at left base medially
+     obscurring the medial portion of the left hemidiaphragm consistent with
+     atelectasis/consolidation in left lower lobe.  No new lung lesions.
+
+",,
+5608,7673,6967,0,3124-01-26 05:26:00 EST,3124-01-26 05:45:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   neuro exam is essentially unchanged overnoc. pt was more alert this morning, opening his eyes and clearly stating ""yes"" when his name was called. he is able to lift and hold his left arm and lower extremities off the bed but is still only moving his right arm on the bed. he is able to squeeze both hands w/equal strength and wiggle his toes on command. perrl @3mm.
+
+review of systems
+
+respiratory-> pt continues on a 40% cool neb w/rr teens and maintaining sats >97%. he is expectorating moderate amts of thick, while sputum to his oralpharynx but requires yankar suctioning to remove the sputum.
+
+cardiac-> hr 70-90's, afib w/occational pvc's. sbp ranging 140-170's. receiving iv antihypertensives (?change to oral agents today) with modest effect. 
+
+neuro-> neuro exam as described above. pt's level of awareness appears to fluctuate.
+
+gi-> abd is soft, nontender w/+bs. pt is receiving tube feeding @40cc/hr. feeding may be advanced to 60cc/hr at 10am. ngt residuals are 5-10cc. small smearing of stool noted this morning. pt may benefit from a dulcolax supp since it has been at least 3 days since his last bm. 
+
+gu-> adequate uop although pt is maintaining a positive tfb for today. he continues to receive maintainence fluids which are to be turned off when pt reaches goal tube feeding rate.
+
+endo-> fs ranging 114-181. pt received regular insulin per sliding scale coverage at 5am.
+
+access-> 2 peripheral angios in either arm are patent and intact.
+
+dispo-> pt has been called out to [**Wardname 651**]. awaiting bed availibility at this point. transfer orders and transfer nsg note have been completed.
+
+",,
+5608,7673,6967,0,3124-01-26 06:05:00 EST,3124-01-26 06:08:00 EST,1908,"N",69,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT STABLE OVERNOC USING HUMIDIFIED O2 @ 40% FIO2 VIA CONT COOL NEB.  ALBUTEROL/ATROVENT NEBS GIVEN X2, PLEASE SEE RESP FLOWSHEET FOR DETAILS.  BS ARE COARSE, OCCAS EXP WHEEZES, SOME IMPROVENT POST TX, SNORING/MILD-MOD AIRWAY OBSTRUCTION ALSO NOTED.  STRONG SPONTANEOUS COUGH ONLY, SXN W/YANKAUR FOR MOD-LG AMT GELATINOUS WHITE SEC.  PLAN TO CONTINUE CURRENT SUPPORT.  
+",,
+5608,7673,,,3124-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-27**] 9:31 AM
+     MR-ANGIO NECK WITHOUT CONTRAST; -52 REDUCED SERVICES            Clip # [**Clip Number (Radiology) 12616**]
+     Reason: ?stenosis at vertebral origin                               
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with left superior cerebellar artery stroke                     
+     REASON FOR THIS EXAMINATION:
+      ?stenosis at vertebral origin                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRA NECK
+     
+     CLINICAL INFORMATION: Patient with question of stenosis at vertebral origin,
+     for further evaluation.
+     
+     TECHNIQUE: 2D and 3D time-of-flight MRA of the neck vessels were aquired.
+     
+     FINDINGS: The examination is limited secondary to motion. The left internal
+     carotid artery demonstrates approximately 60% stenosis at the origin.  The
+     right internal carotid artery demonstrates mild irregularity of the flow
+     signal indicating mild atherosclerotic disease.  Both vertebral arteries in
+     the neck demonstrate normal flow signal.
+     
+     IMPRESSION: Approximately 60% stenosis at the origin of the left internal
+     carotid artery.  Normal flow signal in the vertebral arteries in the neck.  It
+     should be noted that on the current study the vertebral artery origins are not
+     evaluated.  For better evaluation of the vertebral artery origins, if
+     clinically indicated gadolinium enhanced MRA of the neck is recommended.
+
+",,
+5608,7673,,,3124-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-27**] 9:06 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12615**]
+     Reason: pneumonia                                                   
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with stroke                                                     
+     REASON FOR THIS EXAMINATION:
+      pneumonia                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS, AP AND LATERAL
+     
+     History of stroke and NG tube placement.
+     
+     There is cardiomegaly and small bilateral pleural effusions but no definite
+     pulmonary edema.  Ill defined opacity is present in the retrocardiac region
+     consistent with atelectasis/consolidation in the left lower lobe unchanged
+     since prior study of [**3124-1-26**].  NG tube is in fundus of stomach.  No
+     pneumothorax.
+     
+     IMPRESSION: No significant change since prior film of [**3124-1-26**].
+     Atelectasis/consolidation in left lower lobe unchanged.  Small pleural
+     effusion.
+
+",,
+5608,7673,,,3124-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-27**] 9:31 AM
+     MR-ANGIO NECK WITHOUT CONTRAST; -52 REDUCED SERVICES            Clip # [**Clip Number (Radiology) 12616**]
+     Reason: ?stenosis at vertebral origin                               
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with left superior cerebellar artery stroke                     
+     REASON FOR THIS EXAMINATION:
+      ?stenosis at vertebral origin                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRA NECK
+     
+     CLINICAL INFORMATION: Patient with question of stenosis at vertebral origin,
+     for further evaluation.
+     
+     TECHNIQUE: 2D and 3D time-of-flight MRA of the neck vessels were aquired.
+     
+     FINDINGS: The examination is limited secondary to motion. The left internal
+     carotid artery demonstrates approximately 60% stenosis at the origin.  The
+     right internal carotid artery demonstrates mild irregularity of the flow
+     signal indicating mild atherosclerotic disease.  Both vertebral arteries in
+     the neck demonstrate normal flow signal.
+     
+     IMPRESSION: Approximately 60% stenosis at the origin of the left internal
+     carotid artery.  Normal flow signal in the vertebral arteries in the neck.  It
+     should be noted that on the current study the vertebral artery origins are not
+     evaluated.  For better evaluation of the vertebral artery origins, if
+     clinically indicated gadolinium enhanced MRA of the neck is recommended.
+
+",,
+5608,7673,,,3124-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-29**] 10:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12617**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with stroke and respiratory difficulty. possible aspiration 
+      pneumonia                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:   Respiratory difficulties and possible aspiration
+     pneumonia.
+     
+     Compared to previous study of two days earlier.
+     
+     A nasogastric tube is present, coiling within the stomach. The cardiac
+     silhouette is enlarged and there is vascular engorgement as well as perihilar
+     haziness present.  There is also a more confluent area of increased opacity in
+     the left retrocardiac region.  The latter has increased in the interval. There
+     are probable small pleural effusions.
+     
+     IMPRESSION:
+     1.  Mild congestive heart failure pattern unchanged.
+     
+     2.  Worsening left retrocardiac opacity which may relate to atelectasis,
+     aspiration or pneumonia.
+
+",,
+5608,7673,,,3124-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-30**] 8:29 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 12618**]
+     Reason: please evaluate ngt placement                               
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with new ng tube.                                             
+     REASON FOR THIS EXAMINATION:
+      please evaluate ngt placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     PORTABLE ABDOMEN, SINGLE FILM.
+     
+     HISTORY:  NG tube placement.
+     
+     The tip of NG tube overlies distal body of stomach.  Distribution of bowel gas
+     is unremarkable.
+     
+     
+
+",,
+5608,7673,,,3124-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5608,7673,,,3124-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-30**] 3:55 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12619**]
+     Reason: Follow-up evolution of left superior cerebellar artery [**Doctor First Name 12620**]
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with vomiting presented to [**Location (un) 12606**]. CT there showed left  
+      cerebellar infarct. 
+     REASON FOR THIS EXAMINATION:
+      Follow-up evolution of left superior cerebellar artery territory infarct        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left superior cerebellar artery territory infarct.  Vomiting.
+     
+     COMPARISON:  [**3124-1-23**]
+     
+     TECHNIQUE:  Non-contrast CT of the head.
+     
+     FINDINGS:  The left cerebellar hemispheric infarct is again noted, with
+     increasing mass effect from edema.  There is no hemorrhage.  The appearances
+     of the ventricles and sulci is unchanged.  There are patchy areas of
+     hypodensity in the subcortical white matter consistent with chronic
+     microvascular infarction. There is no shift of normally mid-line structures.
+     There is partial opacification of the ethmoid and right maxillary sinuses as
+     well as the right sphenoid sinus.  The left maxillary sinus is hypoplastic.
+     
+     IMPRESSION:  Increasing edema and focal mass effect from left superior
+     cerebellar infarct.  Otherwise unchanged.
+     Small left temporal lobe infarct, unchanged.
+
+",,
+5608,7673,,,3124-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-30**] 6:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12621**]
+     Reason: please eval for pneumonia/edema                             
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with stroke and now decreasing O2 sats                        
+                               
+     REASON FOR THIS EXAMINATION:
+      please eval for pneumonia/edema                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Decreasing oxygen saturations.
+     
+     CHEST:  Since the previous film, there has been increase in the left
+     infiltrate, representing an increasing pneumonic consolidation.  The left
+     hemi-diaphragm remains obliterated indicating infiltrate in this region as
+     well.  A background of failure is present, as well.
+     
+     IMPRESSION:  Increasing infiltrate.  Failure persists.
+
+",,
+5608,7673,,,3124-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-1-31**] 4:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12622**]
+     Reason: please confirm ngt placement                                
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old man with new ngt                                                 
+     REASON FOR THIS EXAMINATION:
+      please confirm ngt placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Nasogastric tube placed.  Confirm position.
+     
+     The tip of the nasogastric tube lies curled up within the antrum of the
+     stomach.  The lung infiltrates and failure persists.
+     
+     IMPRESSION:  Nasogastric tube in satisfactory position.
+
+",,
+5608,7673,,,3124-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-2-6**] 11:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12623**]
+     Reason: R/O infiltrate/PNA                                          
+     Admitting Diagnosis: STROKE;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 y.o. man s/p post SCA stroke, hx of COPD                                     
+                  
+     REASON FOR THIS EXAMINATION:
+      R/O infiltrate/PNA                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of COPD and stroke.
+     
+     NG tube is in stomach with distal end not included on film.  There is
+     cardiomegaly with pulmonary vasculature engorgement and bilateral air-space
+     opacities consistent with pulmonary edema/consolidation/aspiration.  There are
+     probable bilateral pleural effusions.  No pneumothorax.
+     
+     IMPRESSION:  Compared with the prior film of [**3124-1-31**], there are
+     increased bilateral pulmonary opacities consistent with worsening pulmonary
+     edema/consolidation/pleural effusions.
+
+",,

@@ -1,0 +1,231 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5750,13758,,,2516-01-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2516-1-4**]       Discharge Date:  [**2516-1-16**]
+
+Date of Birth:   [**2453-4-19**]       Sex:  F
+
+Service:  [**Company **]
+
+Prior discharge summary ends dictation on events through
+[**2516-1-13**].  Notable events since that discharge summary
+include the following:
+
+The patient's thrombocytopenia continued to improve off
+heparin products.  The patient's final level at the time of
+this dictation was a platelet count of 503.  The patient's
+hematocrit had decreased somewhat from 28 to 24.7 and should
+be followed in her extended care facility stay.  The patient
+was noted to have some burning on urination on the [**12-16**].  A urinalysis was noted to have 38 white blood
+cells and less then 1 epithelial cell with many bacteria.
+The patient was started on Ciprofloxacin 500 mg po b.i.d. to
+treat a presumed urinary tract infection.  The patient did
+spike a temperature on the evening of [**2516-1-14**] as well.  This
+was largely thought to be due to her severe clot burden,
+however, blood cultures were drawn as well as a urine
+culture, which were no growth to date.  The patient was
+started on Coumadin 5 mg q.h.s., which was increased
+subsequently to 10 mg q.h.s. given slow increase in the
+patient's INR, however, dose again was decreased to 5 mg po
+q.h.s. when Ciprofloxacin was started due to interaction of
+Warfarin with floxacin drugs.  It is recommended that the
+patient's hematocrit and INR be checked every day until
+therapeutic level of Coumadin can be established and dose
+regulated and also to watch for any signs or symtpoms of
+bleeding since the patient had severe bleeding in the
+Intensive Care Unit during prior days of this
+hospitalization.
+
+DISCHARGE MEDICATIONS:  Ciprofloxacin 500 mg po b.i.d. to be
+taken through [**2516-1-18**].  Metoprolol 12.5 mg po
+b.i.d., sliding scale regular insulin, Zolpidem 5 mg po
+q.h.s. prn, Folic acid 2 mg po q day, Salmeterol inhaler two
+puffs b.i.d., Albuterol inhaler two puffs q 6 hours prn,
+Colace 100 mg po b.i.d., Coumadin 5 mg q.h.s.  The patient
+was to have a pneumatic boot to her right lower extremity
+when not ambulating.  Physical therapy and intensive
+ambulation encouraged at rehab.
+
+As noted previously the patient's code status has been
+changed to DNR/DNI.  The following outpatient appointments
+have been made for the patient and she should be transported
+from rehab to the [**Hospital Ward Name **] Clinical Center at [**Hospital1 74**] for both appointments.  First
+appointment is for chest CAT scan on [**2516-1-31**] at
+10:00 a.m.  This will take place at the 4th Floor of the
+[**Hospital Ward Name **] Clinical Center.  The patient is to have no food or
+drink three hours prior to that study and is best to be NPO
+after midnight the prior evening.  The second follow up
+appointment is with Dr. [**First Name (STitle) 7069**] and Dr. [**Last Name (STitle) **] of oncology on
+[**2515-2-6**] at 10:00 a.m.  That will take place on the
+7th Flor of the [**Hospital Ward Name **] Clinical Center.  The patient has a
+previously scheduled appointment with her primary care
+physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 186**] [**Last Name (NamePattern1) **] in [**2516-2-22**].
+
+DISCHARGE DIAGNOSES:
+1.  Pulmonary embolus.
+2.  Left lower extremity deep venous thrombosis.
+3.  Resolving thrombocytopenia possibly due to Gemcitabine or
+heparin therapy.
+4.  Diabetes type 2.
+5.  Rheumatoid arthritis.
+6.  Asthma.
+7.  Hypertension.
+8.  Stage four nonsmall cell lung cancer.
+
+The patient is being discharged to the [**Hospital3 **] [**Street Address 7070**] in [**Location (un) 210**].
+
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 7071**]
+
+Dictated By:[**Last Name (NamePattern1) 7072**]
+MEDQUIST36
+
+D:  [**2516-1-16**]  10:32
+T:  [**2516-1-16**]  10:36
+JOB#:  [**Job Number 7073**]
+
+cc:[**2-1**]
+
+",,
+5750,13758,7153,0,2516-01-04 19:55:00 EST,2516-01-04 20:21:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+See FHP for full admission details
+
+Pulm: LS CTA but decreased throughout.  Sats 98-100% on NRB, ABG 7.30/36/201/18/-7, HO aware.  Pt was more dyspneic and tachypneic on arrival, appears more comfortable now.
+
+CV: HR 120s-130s, SBP up to 220s with line placement.  5mg IV lopressor given, nipride gtt started, titrated to 2mcg/kg/min.  BP now 150s/70s, HR 100s-110s.  Received 9100u hep bolus in ED, hep gtt@ 2100u/hr.  PTT >150, held x 1 hour, restarted @ 1900u/hr, recheck @0130.  K 6.1, waiting for kaexylate.
+
+Neuro: Alert and oriented x 3, MAE, pleasant and cooperative.  
+
+GI/GU: +BS, abd. soft, non-tender.  Foley placed, draining cl yellow urine.
+
+Endo: Covered by SSRI, BS 331, given 8uR.
+
+Access: 18G PIV L AC, L radial Aline and R IJ TLC placed, ok to use per HO.
+
+Social: Pt lives alone but has large, supportive family.  Several members present, updated by RN and MD
+
+A/P: Pt admit to CCU w/ BL pulmonary embolisms, lines placed, thrombolytics held for now.  Pt will likely have IVC filter placed tomorrow.  Cont heparin, titrate nipride as needed, SSRI, emotional support for pt and family.
+",,
+5750,13758,7153,0,2516-01-05 06:26:00 EST,2516-01-05 06:48:00 EST,284,"N",1,"Nursing/Other","ALT. IN RESP STATUS","
+ALT. IN RESP STATUS
+NEURO:  PT. AWAKE AND ALERT, COOPERATIVE AND PLEASANT.  MOVING ALL EXTREMITIES.  SLEPT IN SHORT NAPS THROUGHOUT NOC.
+
+CV:  REMAINS ON NIPRIDE GTT.  WEANED TO 0.5 MCG/KG/MIN.  BP AT PRESENT 119/62.  HR 103 110 ST NO VEA NOTED.  DENIES C/O CP.  
+
+RESP:  TACHYPNEIC.  RR 28-30,  HAS DRY NON-PRODUCTIVE COUGH.  LUNGS CLEAR.  O2 WEANED FROM 100% NRB TO NC NOW AT 3L/MIN.  PT. STATES BREATHING COMFORTABLE AT PRESENT.  BECOMES MORE TACHYPNEIC WITH MINIMAL EXERTION.  
+
+GI:  ABD. SOFT, LARGE.  + BOWEL SOUNDS.  GIVEN 30 GM KAEXELATE PO, NO STOOL.  TAKING ICE CHIPS ONLY.  NPO AFTER MIDNOC.  
+
+GU:  FOLEY PATENT.  DRAINING CLEAR YELLOW URINE IN GOOD AMTS. SEE FLOWSHEET FOR I/O.
+
+ENDO:  BLOOD GLUCOSE ELEVATED, HIGH 300'S  TREATING WITH SSRI.  
+
+LINES:  PIV LEFT ANTECUB, RIGHT IJ TL.  LEFT RADIAL ALINE.  
+",,
+5750,13758,7153,0,2516-01-05 18:40:00 EST,2516-01-05 19:08:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+Neuro: Alert and oriented x 3, MAE, answering questions appropriately.
+
+Pulm: LS CTA but decreased @ bases.  RR 20-40, becomes increasingly tachypneic w/ movement and talking.  Required NRB earlier today for worsening dyspnea, now more comfortable, weaned to 4L NC.  Sats 95-100%.  IVC filter placed today w/o difficulty.
+
+CV: Tele ST 100s-120s, HR up to 140s w/ movement and dyspnea.  HO does not want to treat ST.  SBP 100-160, nipride @ 0.5mcg/kg/min.  Hep @ 1500u/hr, PTT due at 2030.  Palp DP/PT pulses.  Pt developed lg hematoma around RIJ TLC extended down to her chest, area marked, no expansion since 0800.  Pulled @ 1230, pressure dsg in place.  Hct down from 28.6 to 22.7, transfused w/ 2uPRBC, #2 currently infusing.  Has metabolic acidosis-ABG 7.30/36/201/18, TCO2 17, given 1 [**1-23**] amp bicarb in 1L.  K 6.0 this morning, 30mg kaexylate given, now 5.0.  Recheck chem 7 @ 2030.  
+
+GI/GU: +BS, abd. soft, non-tender.  Given colace and ducolax supposity, sm G- BM.  Foley patent, draining cl yellow urine.  HUO 25-115/hr, 1/2NS @ 50/hr x 1L infusing.
+
+Endo: Started on insulin gtt for elevated BS, currently @ 2u/hr.  Last BS 108 @1830.
+
+Access: RIJ TLC d/c, 2 20G PIV in R arm, 1 18G PIV in L AC.  Pheresis catheter left in after IVC filter placed, may use as central line and instill w/ heparin after each use.  L radial aline in place.
+
+Social: Several family members in to visit pt, updated by RN and MD.
+
+A/P: IVC filter placed w/o problems.  Hct drop d/t hematoma around TLC, finishing 2nd unit PRBC.  Cont hep, titrate nipride for BP, titrate insulin gtt for BS.  Check chem 7, PTT @ 2030, Hct 3 hr after transfusion finished.  
+",,
+5750,13758,7153,0,2516-01-06 05:40:00 EST,2516-01-06 06:40:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: PE","
+CCU Nursing Progress Note 1900-0700: PE
+MS: A/O/X/3. Very pleasant and occasionally anxious. Obeys and follows commands appropriately. MAEs spontaneously. Denies taking anxiolytics at home. Given Ambien with good effect.
+
+CV: HR 100s to 130s. ST with no noted ectopy. ABPs 90s to 130s on 0.5mcgs/kg/min of Nipride. Clarified earlier in shift with Dr.[**Last Name (STitle) 1051**] in regards to goal BPs which where 110-130/60-70s. Now, Dr. [**Last Name (STitle) 1052**] accepting ABPs < 160 as stated per orders. Since then Nipride off at 4AM and ABPs 120s to 130s. (?)A-V sheath left in overnight from IVC filter procedure for access. Right groin CDI with palpaple pulses distal and (+) CSM. RLE slightly cooler than LLE. No signs of hematoma or ooze. Dsg intact. RIJ site pressure left intact with no signs of bleeding. Preliminary, CT of chest revealing (+) hematoma with some extension to mediastinal space and pressing on esophagus. No noted trachea shift. Pt does c/o of some discomfort when swallowing and associates pain at site with activity but not at rest. Declining pain medication overnight. Since chest CT Heparin infusion DC'd and pt transfused with 2UPRBCs. 
+
+RESP: LS vary with some coarseness, exp wheezes, diminished, and newly crackles at bases. O2Sats 99-100% on 4LNP. Occasionally pt becoming acutely SOB but maintaining sats at 100% and asking for ""more air."" ABGs with PO2s > 100(See ABGs in Carevue.) Placed on 100% NRB temporarily and switched back over to NPs. Pt refusing cool neb mask. In addition denies to wearing O2 at home. Dr.[**Last Name (STitle) 1052**] notified on one occasion of event and seeing pt with no change in plan of care. Pt also does not tolerate being flat and HOB at 30 degrees or > regardsless of sheaths. (+) cough overnight. Congested but non-productive. Sputum white and thin in small amounts. Pt states cough not new.
+
+GU/GI: Foley catheter draining CYU in adequate amounts. UO 40ccs/>. Abd softly distended with (+) BSs and flatus. Passing medium formed brown stool overnight. G(-). C/o of nausea times two overnight with dry heaves. Pt associates with ""chemo treatmeants."" Last treatment Thursday of last week. Pt taking medicine at home but can't remember name. Given Zofran 2mg times one with good effect. Tolerating POs well with no signs of aspiration. 
+
+ID: Afebrile. No issues.
+
+ENDO: Continues insulin gtt for hyperkalemia and metabolic acidsosis. Last K 4.4 and last ABG with resolved acidosis.  Insulin gtt titrated to BS 70-110. BS overnight 70-127. Inuslin gtt off times three hours and started back at 4AM for BS 93 at 0.5u/hr. Increased to 2.0u/hr for BS of 110 at 5AM with 6AM FS pending. 
+
+HEME: Repeat HCT on eves 24 immediately post transfusion. Transfused with 2UPRBCs overnight with 2U still infusing. HCT check in betwenn units pending. Suggested to Dr. [**Last Name (STitle) 1052**] Lasix for new crackles at bases and [**1-25**] way up on right. HO listening and not appreciating crackles. Holding off on Lasix for now. 
+
+SOC: No calls or visitors overnight.
+
+A/P: 68 yo female with squamous cell lung ca(stage IV) who presented with acute onse
+",,
+5750,13758,7153,0,2516-01-06 05:41:00 EST,2516-01-06 06:40:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700: PE","
+CCU Nursing Progress Note 1900-0700: PE
+(Continued)
+t of SOB at home and r/i for large bilateral PEs and EKG with noted ""RV strain."" PEs thus far succesfully treated with Heparin and IVC filter and Nipride for right-sided strain. ICU course then c/b hyperkalemia, metabolic acidosis, and RIJ hematoma
+
+Continue to follow HCT QID or as ordered
+Continue Insulin gtt as ordered, FS Q1H
+Continue to monitor resp status
+Possible sheath removal today
+Nipride as needed for BP < 160 
+Suggest possiblely starting anxiolytic
+
+",,
+5750,13758,7153,0,2516-01-06 14:59:00 EST,2516-01-06 15:04:00 EST,-1,"N",1,"Nursing/Other","Transfer Summery 0700-1500","
+Transfer Summery 0700-1500
+Summery written. Transfer planned for East Campus Will call report when bed available. Family will be notified.
+",,
+5750,13758,7153,0,2516-01-06 18:29:00 EST,2516-01-06 18:39:00 EST,379,"N",69,"Nursing/Other","FINARD 4 ICU NSG ACCEPTANCE NOTE 1700-1900","
+[**Hospital Ward Name 274**] 4 ICU NSG ACCEPTANCE NOTE 1700-1900
+ 62 yo woman,w/ stage 4 lung Ca, admitted to CCU w/ PE on [**1-4**]. Transferred to [**Hospital Ward Name **] 4 ICU for further mgmt of PE. See nsg admit/transfer note for details.
+ A&O on admitted. Some DOE noted during transfer. Denies pain. O2sats 96% on 4l n.c. Lungs w/ coarse upper airways w/intermittent wheezes and diminished at bases.
+ BP 137/62. HR 120s ST, which is her baseline since admit.
+ Foley in place draining cl yellow urine.
+ Afebrile.
+ .45 NS at 50cc/hr. Insulin gtt at 3u/hr w/FS 93. 
+ Plan to hold on Heparin gtt for ?HIT. No noted bleeding. Groin site without hematoma. R neck area w/ hematoma outlined. No noted bleeding anywhere at this time.
+ Accompanied by [**First Name9 (NamePattern2) 287**] [**Last Name (un) 1053**] and granddgt. [**Last Name (un) 1053**] is spokesperson. Pt,dgt and granddgt spoke w/ Dr. [**Last Name (STitle) 1054**] about course and prognosis. Pt is a full code at this time but would not like prolonged intub. per Dr. [**Last Name (STitle) 1054**].
+",,
+5750,13758,7153,0,2516-01-07 04:33:00 EST,2516-01-07 04:48:00 EST,-1,"N",69,"Nursing/Other","MSICU Nursing Progress Note","
+MSICU Nursing Progress Note
+Neuro:  Pt is A&O x3, pt MAE, however becomes DOE and O2 sats decrease.  Pt cooperative, and slightly readjusts self for comfort and pressure release.
+
+Cardiac:  Pt in ST HR 113-123, no ectopy.  BP 123-143/41-64.  Pt denies any CP, however with exertion pts HR increases.
+
+Resp:  Pt initially on 4L via NC, decreased to 2L.  O2 sat 95-100%.  BS clear in upper airway and decreased on lower lobes; one incident of exp wheezing, pt given albuterol tx, with good effect.  Pt becomes DOE along with an O2 sat decrease.  Pt resbounds quickly.  Pt has a productive cough expectorating clear sputum.
+
+GI:  Pt tolerating [**Doctor First Name 83**] diet.  Pt changed from insulin gtt to SS, tolerating well.  -BM, +BS.  Pt obese, pt refused ducolax in pm, and should take it in am to move bowels, colace not sufficent.
+
+GU:  Pt has f/c with good u/o.  Pt not receiving any IVF.
+
+Endo: Pt on SS
+
+Skin:  Skin intact.
+
+Heme:  Pt has R IJ hematoma, marked, con't to follow.  Pt unable to finish heparin course for PE secondary to bleeding complications.  Monitor Hct for further decreases.  Pt has received PRBC intermittently.  Pt has near occlusive thrombosis in L popliteal [**Last Name (un) 1055**].  Pt needs pneumo boots on R leg only.  Pt had IVC filter placed for PE prevention.
+
+Access:  Pt has PIV x3
+
+Misc:  Pt to be transfered to floor today...txr note written, needs to be updated and signed.
+
+",,
+5750,13758,7153,0,2516-01-07 15:20:00 EST,2516-01-07 15:25:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEARER THIS AFTERNOON. O2 SATS RANGE FROM 89-99% DEPENDING ON ACTIVITY. SOB WITH ANY EXERTION. O2 SATS DO REBOUND QUICKLY. ON 4L NP. 
+GI: DIET CHANGED TO [**Doctor First Name 83**]. APPETITE FAIR.
+RENAL: FOLEY DRAINING CLEAR URINE. TAKING PO'S. THIRSTY.
+NEURO: A%O.
+POST ANGIO: GROIN CLEAN AND DRY. PRESSURE DRSG. D/C'ED. 
+SKIN INTEGRITY: ECCHYMOSIS NOTED NEAR LEFT AXILLA AND ON CHEST. HCT STABLE. 
+PAIN CONTROL: C/O OF SHARP PAIN ON MOVEMENT AT AROUND 13PM. RESOLVED QUICKLY. 
+ENDOC: BS TX'ED WITH SSI. 
+SOCIAL: HER PCP WAS IN AND SPOKE TO HER ABOUT A DNR/DNI STATUS. SHE HAS MADE 1 DAUGHTER A PROXY AND THE FAMILY NEEDS TO TALK TOGETHER WITH HER RE: IF SHE WANTS TO BE A DNR. PRESENTLY SHE IS A FULL CODE. 
+
+",,

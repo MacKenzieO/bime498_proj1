@@ -1,0 +1,3232 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5072,,,,3036-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-1-30**] 11:50 AM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 8066**]
+     Reason: ?sinusitis
+     Admitting Diagnosis: DEHYDRATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with [**Location (un) 8067**] chromosome + ALL who has hx of acute on
+      chronic sinusitis.  Please assess status of this condition
+     REASON FOR THIS EXAMINATION:
+      ?sinusitis
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 44-year-old man with ALL, acute and chronic sinusitis.
+     
+     COMPARISON:  [**3036-1-6**].
+     
+     TECHNIQUE: Axial and coronal non-contrast images of the paranasal sinuses were
+     obtained.
+     
+     There is marked improvement of the thickening of the mucosa of the sinuses.
+     There is now only minimal residual thickening of the maxillary and sphenoid
+     sinus. There is an area of focal mucosal thickening or retention cyst in the
+     right maxillary sinus.  The ostiomeatal units are now open bilaterally.  The
+     anterior clinoids are not pneumatized.  The right cribriform plate is 2 mm
+     higher than the left cribriform plate.  The laminar papyracea is intact.  The
+     nasal septum is slightly deviated to the right.
+     
+     IMPRESSION:
+     Marked improvement in the sinusitis as described above.  Minimal residual
+     mucosal thickening on the maxillary and sphenoid sinus.
+
+",,
+5072,,,,3036-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-1**] 7:06 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 8068**]
+     Reason: 44 year old male with ALL and history of CNS involvement now
+     Admitting Diagnosis: DEHYDRATION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL with history of CNS involvement
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL and history of CNS involvement now with blurry
+      vision. Please evaluate for acute intracranial process
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR HEAD W/WO CONTRAST:
+     
+     HISTORY:  Acute lymphatic leukemia and history of CNS involvement.  Now with
+     blurry vision.
+     
+     Sagittal short TR, short TE spin echo imaging was performed through the brain.
+     Axial imaging was performed with long TR, long TE fast spin echo technique,
+     FLAIR technique, diffusion technique and GRE technique.  After administration
+     of Gadolinium IV contrast, axial and coronal short TR, short TE spin echo
+     imaging was performed.  Comparison to a head CT of [**3036-1-30**].
+     
+     FINDINGS:  The study is normal.  There is no evidence of hemorrhage, edema,
+     masses, mass effect, or infarction.  The ventricles and sulci are normal in
+     caliber and configuration.  There is no abnormal enhancement after contrast
+     administration.
+     
+     IMPRESSION:  The study is normal.
+
+",,
+5072,,,,3036-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-1**] 7:06 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 8068**]
+     Reason: 44 year old male with ALL and history of CNS involvement now
+     Admitting Diagnosis: DEHYDRATION
+      Contrast: MAGNEVIST Amt: 14
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL with history of CNS involvement
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL and history of CNS involvement now with blurry
+      vision. Please evaluate for acute intracranial process
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR HEAD W/WO CONTRAST:
+     
+     HISTORY:  Acute lymphatic leukemia and history of CNS involvement.  Now with
+     blurry vision.
+     
+     Sagittal short TR, short TE spin echo imaging was performed through the brain.
+     Axial imaging was performed with long TR, long TE fast spin echo technique,
+     FLAIR technique, diffusion technique and GRE technique.  After administration
+     of Gadolinium IV contrast, axial and coronal short TR, short TE spin echo
+     imaging was performed.  Comparison to a head CT of [**3036-1-30**].
+     
+     FINDINGS:  The study is normal.  There is no evidence of hemorrhage, edema,
+     masses, mass effect, or infarction.  The ventricles and sulci are normal in
+     caliber and configuration.  There is no abnormal enhancement after contrast
+     administration.
+     
+     IMPRESSION:  The study is normal.
+
+",,
+5072,249,,,3036-02-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3036-2-10**]     Discharge Date:  [**3036-3-28**]
+
+Date of Birth:   [**2991-7-11**]     Sex:  M
+
+Service:
+
+Please see previous dictation for full details.
+
+Mr. [**Known patient lastname **] was transferred to the [**Hospital Ward Name 3113**] Intensive Care
+Unit for further management after the patient was started to
+have fevers with rigors.  He was given Demerol on the medical
+floor and then his heart rate was noted to be elevated into
+the 120s to 160s.  The patient was given 5 mg of intravenous
+Lopressor and Diltiazem times two with no sustained effect.
+He was felt to be in rapid atrial fibrillation.  He had been
+having increasing confusion on the bone marrow transplant
+service and had cut his intravenous lines with some blood
+dripping onto the floor.  On presentation to the MICU his
+temperature was 99.6 axillary, heart rate was 166, blood
+pressure 105/70, respiratory rate 14 and he was 100% on room
+air.  He was placed on neutropenic precautions.  He was
+confused, but equally reoriented.  He thought he was in Nadic
+originally.  His HEENT was notable for oral ulcers whitish
+plaques on his tongue with diffuse erythema on mucous
+membranes.  Cardiovascular rapid irregular heart rate.
+Respiratory examination was coarse breath sounds on left mid
+lung field, decreased breath sounds at the right base.
+Abdomen with hypoactive bowel sounds, soft, nontender,
+nondistended.  No guarding.  No edema.  His peripheral
+extremities were warm.  He had some papular erythematous rash
+on his back.
+
+LABORATORIES ON TRANSFER:  Hematocrit 28.3, INR 1.2, normal
+chem 7.  His T bilirubin had increased to 5.2 from 1.7.  His
+direct bilirubin was up to 1.4 from 0.6.  His calcium was
+8.5, phos 3.4, magnesium 2.0.  He had some blood cultures,
+which were pending off a central, peripheral and Hickman
+lines.  CMV viral load was negative.  His sputum culture was
+notable for staph aureus 2+.
+
+HOSPITAL COURSE:  This 44 year-old male with [**Location (un) 3639**]
+chromosome positive ALL status post BMT [**3036-2-24**] with a
+clinical course complicated by febrile neutropenia and
+Mucositis with confusion associated with question of PCA
+Dilaudid for pain related to mucositis with episode of rigors
+prior to transfer was admitted for further observation.
+Possible etiologies of his rapid atrial fibrillation included
+his fevers, possible underlying lung infection,
+thyrotoxicosis possibly medication related or less likely a
+structure abnormalities from his Cytoxan related dilated
+cardiomyopathy or Daunorubicin associated cardiac toxicity.
+Though these two possibilities were considered to be much
+less likely.  The patient was started on a Diltiazem drip for
+management of his rapid atrial fibrillation.  His rate
+control was improved significantly overnight.  A chest x-ray
+was done, which showed no evidence of an acute intrapulmonary
+process.  His TSH was within normal limits so this ruled out
+thyrotoxicosis.  He had a cardiac echocardiogram to evaluate
+his ejection fraction and possible dilated cardiomyopathy.
+The echocardiogram showed mild symmetrical left ventricular
+hypertrophy with an ejection fraction of 55%, overall normal
+function.  The left atrium was mildly dilated.  There were no
+other structural abnormalities noted.  No pericardial
+effusion.  It was felt that the ............ medication could
+be contributing to his atrial fibrillation, however, it was
+likely his acute illness.
+
+ALL:  The patient's [**Location (un) 3639**] chromosome positive ALL was
+seen as involvement.  The BMT protocol was continued
+according to the BMT fellow recommendations during this
+hospitalization.  The BMT fellow continued to see the
+patient.  He was continued on immunosuppression for possible
+graft versus host disease.  His Cyclosporin level was
+monitored daily for adjustment.  Given the elevated
+bilirubinemia and the faint rash on his back as well as
+stomach complaints and worsening renal function, graft versus
+host disease was monitored very closely.
+
+Febrile neutropenia:  The patient was admitted on Ampicillin,
+Vancomycin and Cefepime.  Clindamycin was discontinued by BMT
+prior to transfer to the Intensive Care Unit.  His blood
+cultures were followed and were no growth.
+
+Grade four mucositis:  The patient was on a Dilaudid PCA for
+his grade four mucositis.  It was felt this may be
+contributing to his confusion.  The Dilaudid PCA was stopped
+and he was placed on morphine for pain control.  He was
+continued on the bicarb mouth washes and Nystatin swish and
+swallow.  The patient's grade four mucositis worsened
+significantly during this hospital stay.  He became
+increasingly agitated and disoriented in the Intensive Care
+Unit.  On Intensive Care Unit day number three the patient
+had to be emergently intubated for agitation and decreased
+oxygen saturation.  It was felt the patient had some mucous
+plugging, which caused him to be acutely hypoxic requiring
+intubation.  He had suddenly desaturated to 70%.  His
+oxygenation significantly improved after he was intubated.  A
+bronchoscopy was done at the time of intubation, which showed
+a mucous plug, but no other obvious abnormalities.  It was
+negative for diffuse alveolar hemorrhage, which had been in
+the differential given this patient with status post recent
+bone marrow transplant.  The patient remained intubated for
+seven days.  He was extubated on [**3036-3-9**] after sedation had
+been appropriately weaned.  He did well after extubation with
+increased ............ throughout the day.  He was slow to
+begin to talk.  He did have some mild agitation, which was
+treated with Haldol and morphine.  The patient was stable for
+transfer to the general medical floor on [**3036-3-10**].
+
+Acute renal failure:  During his stay in the Intensive Care
+Unit the patient developed some acute renal failure.  The
+Renal Service was consulted for assistance with management of
+the renal failure.  The patient was transfused red blood
+cells to increase his renal perfusion.  All of his
+medications were renally dosed.  There was some concern that
+this could be possible to a prerenal state versus
+Cyclosporin or Ambazone toxicity.  His creatinine remained
+stable at 1.6 throughout the remainder of his Intensive Care
+Unit stay.  Renal was continuing to follow the patient on
+transfer to the floor.
+
+Mental status changes:  During the time in the Intensive Care
+Unit the patient was agitated and confused prior to
+intubation and after extubation was again somewhat agitated.
+There was some concern it was a toxic metabolic state
+secondary to steroids, Cyclosporin or central nervous system
+involvement from his lymphoma.  There had been some
+discussion of getting a diagnostic lumbar puncture, though
+this had been done repeatedly by the bone marrow transplant
+service prior to transfer to the Intensive Care Unit and
+there was no central nervous system involvement in the
+cerebral spinal fluid.  The patient was not able to tolerate
+the procedure after extubation.  This was deferred until the
+patient was transferred to the floor.  In addition, the
+patient had to be transfused multiple bags of platelets given
+that he had some thrombocytopenia from his bone marrow
+suppression prior to having a lumbar puncture done.  We were
+unable to obtain platelets in his Intensive Care Unit stay in
+order to perform a lumbar puncture.  This should be performed
+by the oncology team if this is deemed necessary.
+
+Please see the next discharge summary addendum for the
+remainder of his hospital course.
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1806**], M.D.  [**MD Number 1807**]
+
+Dictated By:[**Name8 (MD) 1718**]
+
+MEDQUIST36
+
+D:  [**3036-4-20**]  04:27
+T:  [**3036-4-22**]  07:41
+JOB#:  [**Job Number 5772**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1806**]
+ on: MON [**3036-4-25**] 8:13 PM
+(End of Report)
+
+
+",,
+5072,249,,,3036-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-10**] 2:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8069**]
+     Reason: s/p cv line    ? position???pneumo????, please call [**6-/4426**] w
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia
+     REASON FOR THIS EXAMINATION:
+      s/p cv line    ? position???pneumo????
+      please call [**6-/4426**] with wet read    thanks   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     This is a portable chest dated [**3036-2-10**].
+     
+     INDICATION:  Line placement.
+     
+     This is a repeat dictation for previously lost report. It is presented for
+     repeat dictation on [**3037-3-28**].
+     
+     Since the prior study, a right subclavian catheter has been placed, crossing
+     the midline and extending into the left brachiocephalic and left subclavian
+     veins.  There is no evidence of pneumothorax.
+     
+     Malpositioned right subclavian vascular catheter.  Please note that radiology
+     record document that a repeat chest x-ray was performed on [**3036-2-11**]
+     with successful repositioning of a right subclavian catheter.
+
+",,
+5072,249,,,3036-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-11**] 6:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8071**]
+     Reason: s/p cv line  ?position????, please call [**6-/4426**] with wet read
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia
+     REASON FOR THIS EXAMINATION:
+      s/p cv line  ?position????
+      please call [**6-/4426**] with wet read   thanks   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Leukemia, s/p central venous line.
+     
+     VIEWS: CHEST AP.  Comparison is made to prior study of [**3036-2-10**]
+     
+     FINDINGS: There has been interval placement of a right-sided subclavian
+     central venous line with tip in satisfactory position within the mid-superior
+     vena cava.  A left-sided subclavian central venous line is present with tip in
+     the superior vena cava/right atrium junction, stable from the prior study.  No
+     pneumothorax is identified. Cardiac and mediastinal contours remain stable.
+     The lungs are clear without pleural effusions. The pulmonary vasculature is
+     within normal limits.
+     
+     IMPRESSION: Satisfactory placement of all lines.
+
+",,
+5072,249,,,3036-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-11**] 2:25 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 8070**]
+     Reason: 44 year old male with ALL with elevated LFTs. Please evaluat
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL with elevated LFTs
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL with elevated LFTs. Please evaluate for hepatic or
+      biliary pathology.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of ALL with elevated liver function tests.
+     
+     ABDOMEN ULTRASOUND:  The liver demonstrates a heterogeneous echotexture,
+     likely consistent with fatty infiltration.  There are no focal liver masses.
+     There is no intra- or extrahepatic ductal dilatation.  The common duct
+     measures 3 mm.  The gallbladder is normal.  The right kidney measures 10.0 cm
+     and the left kidney measures 11.5 cm.  Both kidneys are normal in appearance,
+     without masses, stones, or hydronephrosis.  The pancreatic head, spleen, and
+     aorta are normal.
+     
+     IMPRESSION:
+     
+     Heterogeneous liver, likely consistent with fatty infiltration.  Other forms
+     of liver disease and more advanced liver disease including significant hepatic
+     fibrosis/cirrhosis cannot be excluded on this study.
+
+",,
+5072,249,,,3036-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-20**] 4:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8072**]
+     Reason: 44 year old male with ALL with febrile neutropenia
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia and febrile neutropenia
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL with febrile neutropenia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Fever and neutropenia.
+     
+     PORTABLE UPRIGHT FRONTAL CHEST: Comparison:  [**3036-2-11**].
+     
+     The cardiac and mediastinal contours are stable.  Again are noted, a right
+     subclavian central venous catheter and left central venous catheter both
+     unchanged in appearance.  The lungs are clear with no effusions or focal
+     consolidations.  The pulmonary vasculature is within normal limits.  There is
+     no pneumothorax.
+     
+     IMPRESSION:  No pneumonia.
+     These findings were communicated to Dr. [**Last Name (STitle) 8073**].
+     
+     
+
+",,
+5072,249,,,3036-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-25**] 10:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8074**]
+     Reason: 44 year old male with ALL s/p alloBMT [**First Name9 (NamePattern2) 8075**] [**Last Name (un) 8076**]. evaluate 
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia and febrile neutropenia
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL s/p alloBMT [**First Name9 (NamePattern2) 8075**] [**Last Name (un) 8076**]. evaluate for infiltrate,
+      effusion, pulmonary edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE SINGLE VIEW.
+     
+     INDICATION: History of leukemia now febrile and neutropenia, evaluate for
+     infiltrate, effusion or pulmonary edema.
+     
+     FINDINGS: AP single chest view obtained in patient with semi-upright position
+     and directly compared with next previous similar study of [**3036-2-20**].
+     The findings are completely unchanged. This includes the position of the
+     previously described bilateral central venous lines. The lung fields remain
+     clear without evidence of infiltrates, the pleural lateral sinuses are
+     unremarkable and there is no evidence of any pulmonary vascular congestion.
+     
+     IMPRESSION: Persistent normal findings on AP single chest view examination,
+     thus no inflammatory process seen in chest that can account for patient's
+     fever and high white blood count.
+
+",,
+5072,249,,,3036-02-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-29**] 1:13 PM
+     DUPLEX DOPP ABD/PEL PORT; LIVER OR GALLBLADDER US (SINGLE ORGAN) PORTClip # [**Telephone/Fax (1) 8077**]
+     Reason: Please eval biliary tree and for [**Last Name (un) **]-occlusive disease.    
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL with elevated LFTs, fever, and ruq tenderness.         
+     REASON FOR THIS EXAMINATION:
+      Please eval biliary tree and for [**Last Name (un) **]-occlusive disease.                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Elevated LFT's, fever, and right upper quadrant tenderness.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND
+     
+     The gallbladder is filled with sludge. However, there is no evidence of
+     cholecystitis. The common duct is not dilated. The liver is of normal
+     echotexture without evidence of focal lesions.  The hepatic vein, artery, and
+     portal vein show normal flow wave forms.
+     
+     IMPRESSION:  Sludge in the gallbladder in an otherwise unremarkable study.
+
+",,
+5072,249,,,3036-02-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-29**] 1:13 PM
+     DUPLEX DOPP ABD/PEL PORT; LIVER OR GALLBLADDER US (SINGLE ORGAN) PORTClip # [**Telephone/Fax (1) 8077**]
+     Reason: Please eval biliary tree and for [**Last Name (un) **]-occlusive disease.    
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL with elevated LFTs, fever, and ruq tenderness.         
+     REASON FOR THIS EXAMINATION:
+      Please eval biliary tree and for [**Last Name (un) **]-occlusive disease.                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Elevated LFT's, fever, and right upper quadrant tenderness.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND
+     
+     The gallbladder is filled with sludge. However, there is no evidence of
+     cholecystitis. The common duct is not dilated. The liver is of normal
+     echotexture without evidence of focal lesions.  The hepatic vein, artery, and
+     portal vein show normal flow wave forms.
+     
+     IMPRESSION:  Sludge in the gallbladder in an otherwise unremarkable study.
+
+",,
+5072,249,,,3036-02-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-2-29**] 4:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8078**]
+     Reason: assess for pna                                              
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with leukemia and febrile neutropenia                          
+     REASON FOR THIS EXAMINATION:
+      assess for pna                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Febrile neutropenia.
+     
+     AP CHEST:  In comparison with [**3036-2-25**], there are no acute changes. The
+     bilateral central lines are unchanged.  No new infiltrates, vascular
+     congestion, effusion, or pneumothorax.  The cardiac and mediastinal contours
+     are stable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+5072,249,6300,0,3036-02-29 18:02:00 EST,3036-02-29 18:23:00 EST,511,"N",69,"Nursing/Other",,"
+
+THIS IS A 44 YR MAN WHO WAS TRANSFERRED FROM 7F AFTER UNDERGOING AN ALLO BMT 5 DAYS AGO. HE WAS INITIALLY ADMITTED IN [**Female First Name (un) **]. FOR DEHYDRATION AND DX WITH A SINUS INFECTION. +BLASTS NOTED ON PERIPH SMEAR. LP SHOWED A RECURRANCE OF HIS LEUKEMIA IN HIS CSF. PT. HAS BEEN TX'ED WITH VARIOUS CHEMO DRUGS PRIOR TO BMT. 
+TODAY WAS NOTED TO HAVE AN IRREGULAR PULSE, PLACED ON TELE AND WAS IN RAPID AF 150'S. GIVEN LOPRESSOR AND IVP DILT WITH LITTLE EFFECT IN RATE. PT. HYPOTENSIVE IN 80'S. NORMAL BP IN 100'S. TRANSFERRED TO THE MICU FOR IV DILT GTT. 
+PT. ALSO HAS BEEN VERY CONFUSED WHICH IS BEING ATTRIBUTED TO HIS DILAUDID PCA PUMP WHICH HE'S USED FOR HIS STOMATITIS.  (SEVERE). THIS WAS D/C'ED PRIOR TO TRANSFER. 
+PT. WAS ALSO FEBRILE TO 101.8 AND RIGORING. 
+
+RESP: BS'S COARSE ON ADMISSION. PT HAS A PRODUCTIVE COUGH AND IS ABLE TO RAISE THICK BLOOD-TINGED SPUTUM AT TIMES. O2 SATS IN HIGH 90'S WITH NO O2 REQUIREMENTS. CXR DONE. 
+GI: PT. HAVING EXPLOSIVE LIQUID DIARRHEA. HAD SEVERAL EPISODES OF INCONTINENCE BEFORE HE AGREED TO A FIB. FUNCTIONING WELL NOW. PT ONLY DRINKS POLAND SPRINGS WATER WHICH JUST ARRIVED. ALSO HAVE EPISODES OF NAUSEA WITH MIN. VOMITING. 
+RENAL: HNV SINCE ADMISSION. IVF'S 1/2 NS AT 100CC/HR X2L.
+ID: TEMP 99.6-101.8 AX. CONTINUES ON VARIOUS ANTIBIOTICS. PT. WAS PAN CX'ED ON 7F. NO RASH NOTED. HAS BEEN FOUND SCRATCHING, BUT DENIES ITCHINESS. UNABLE TO SWALLOW TYLENOL, D/T SEVERE STOMATITIS WHICH EXTENDS DOWN HIS THROAT. NO FURTHER RIGORING NOTED.
+NEURO: PT. CONFUSED ON ADMISSION. PT PULLING AT LEADS, FOUND CLIMBING OOB. DILAUDID PCA PUMP WAS D/C'ED PRIOR TO ADM. ? REASON FOR CONFUSION. LP DID SHOW ON [**2-2**] RECURRANCE OF HIS ALL IN HIS CSF.
+CARDIAC: PT. WAS IN A RAPID AF, WITH HR'S FROM 150-160'S. GIVEN 20MG DILT. IVP AND GTT STARTED. PRESENTLY AT 15MG/HR AND RATE HAS DROPPED TO 110'S. NO HYPOTENSION HERE IN THE MICU. PT. C/O CP? PRIOR TO TRANSFER, BUT NO EKG CHANGES NOTED.
+ACCESS: PT HAD CLIPPED FOR 2 PORTS FROM HIS TL LAST NIGHT WITH HIS  NAIL CLIPPPERS. DOES HAVE HICKMAN WITH 1 UNUSABLE PORT. 
+PAIN CONTROL: GIVEN MORPHINE FOR HIS STOMATITIS WITH LITTLE EFFECT. 
+SOCIAL: WIFE AND SISTER HAVE CALLED AND 1 SISTER CAME TO VISIT. PARENTS WERE NOTIFIED AND PLAN TO COME TOMORROW. 
+
+
+
+
+
+",,
+5072,249,6300,,3036-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-1**] 9:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8079**]
+     Reason: new fever r/o infiltrate                                    
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        44 year old man with leukemia and febrile neutropenia                         
+       
+     REASON FOR THIS EXAMINATION:
+      new fever r/o infiltrate                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Neutropenia and fever.
+     
+     AP UPRIGHT CHEST:  Comparison with one day prior, the bilateral central lines
+     are unchanged in position.  No pleural effusions.  There is slight vascular
+     congestion and cardiomegaly.  No definite focal infiltrates.  No pneumothorax.
+      There are lower lung volumes compared to one day prior.  Patchy bibasilar
+     atelectasis.
+     
+     IMPRESSION:  Low lung volumes but likely early mild cardiac failure.
+
+",,
+5072,249,6300,0,3036-03-01 05:34:00 EST,3036-03-01 05:49:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Pt. alert, restless, oriented to self and place but not time or year. Complaining of mouth and throat pain. MAE x4. PERL. Sitter at bedside to prevent pt. from pulling out lines or getting OOB. Frequent reassurance and reorientation given.
+CV: Low grade temps. HR 100s-140s AF, no ectopy noted. Diltiazem gtt continues at 15mg/hr. EKG done last pm. ECHO to be done today. BP stable overnight. Denies chest pain. Skin warm and dry with palpable pedal pulses bilat. 
+RESP: On RA with O2 Sat >96%. Pt. becomes dyspneic with exertion with RR 40s and labored but resolves w/i 5-10min. O2 Sat stable throughout night 97-100%. LS clear-coarse in upper lobes and diminished both bases. Intermittent cough of yellowish sputum. 
+GI/GU: Abd. soft, NT, ND with positive bowel sounds. Rectal bag replaced and pt. with large amts liquid brown/green heme + stool.  Pt. c/o intermittent cramping in abd.  Nausea with emesis last pm with emesis PH=3 and heme +, no visible blood seen. Phenegran given with good effect. No further nausea or vommitting. Taking sips of Poland Springs water but very painful to swallow d/t stomatitis. Mouth with ulcers throughout- mouthcare given and A&D cream appied around mouth. Voiding in urinal, amber, clear urine. TPN infusing and glucose checks q6hrs with ss insulin coverage as needed.
+SKIN: Intact. R TLC line intact with all ports patent. L Hickman with all ports patent. Reddened skin around R chest area. Mouth ulcers as described above. Buttocks with skin intact but slightly reddened area. 
+",,
+5072,249,6300,0,3036-03-01 06:39:00 EST,3036-03-01 06:41:00 EST,1196,"N",69,"Nursing/Other","MICU NSG NOTE ADDITION:","
+MICU NSG NOTE ADDITION:
+HCT=23.6 this a.m. from 28 [**Name8 (MD) 8187**] MD notified and to receive 1u PRBCs. VSS on Diltiazem gtt. Continue to monitor.
+",,
+5072,249,6300,0,3036-03-01 16:12:00 EST,3036-03-01 16:27:00 EST,1291,"N",69,"Nursing/Other",,"
+
+
+
+nursing note 0700hrs - 1600hrs
+
+
+neuro - continued confused agitated pulling @lines attempting to climb out of bed - orientaed on;y to person - ? increased agitation with morphine - ativan tried some resolution - presently haldol percribed/ administered to continue to observe - sitter required
+
+
+cvs -  b/p stable 110-130 systolic - riverted to sinus this am - ekg/ echo performed - diltiazem drip contiunes despite rhythm review presently @ 8mgs /hr - to wean over the course of the afternnon aim for rate 100-110
+? af riverted due to re- hydration - bolused with fluids and bicarb currently being replaced - for check lytes this eve 
+treansfussed x1 unit prbc and platlets for count<20 - for recheck this pm
+cyclosporin - redosed @ 23ccper/hr - when re-check peripheral stick required - liased with pharmacy for new set up Q24hrs @ 1000hrs
+afebrile - antibiotic therapy contiunes
+k replaced this am
+
+resp - when rested RR @ 25-30 - when agitaed or upon movement @ 30-40 - team aware - chest clear - RR rate ? related to bicarb level , repleted await check lytes - sats continued @ 98%
+
+g/i - diarrhoea contniues - sample requested - loose  brown/green - copious output =- butt bag insitu - tpn continues - no vomiting today
+
+g/u -  passed urine independently - incon x1 
+
+skin - intact - mouth ulcers evident mouth care contiunes as tolerated - very sore for patient - can have sips 'POLAR  water
+
+lines - patent, hickman rtij in use
+
+social -wife visited this am,
+",,
+5072,249,6300,,3036-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-2**] 2:26 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8081**]
+     Reason: ?opportuntistic infx vs leukemic involvment in CNS          
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with [**Location (un) 8067**] chromosome + ALL who has hx of acute on 
+      chronic sinusitis.  Please assess status of this condition
+     REASON FOR THIS EXAMINATION:
+      ?opportuntistic infx vs leukemic involvment in CNS                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Location (un) 8067**] chromosome ALL history of acute on chronic sinusitis
+     question opportunistic infection or leukemic involvement of CNS.
+     
+     TECHNIQUE: Pre- and postcontrast CT scans through the brain were obtained.
+     Sinuses are included.
+     
+     FINDINGS: Comparison is made to the MRI of the brain of [**3036-2-1**] and
+     the sinus CT of [**3036-1-30**].
+     
+     The brain appears structurally normal. No parenchymal attenuation
+     abnormalities are identified. The [**Doctor Last Name 20**]-white matter differentiation is
+     preserved. There is no abnormal intracranial enhancement. There is mucosal
+     thickening in the posterior ethmoid air cells and to a mild degree in the
+     sphenoid sinus and maxillary sinus. This was not present on the previous
+     study. The patient is currently intubated and there is opacification of the
+     nasal pharynx.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage. No abnormal
+     intracranial enhancement. No hydrocephalus.
+
+",,
+5072,249,6300,,3036-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5072,249,6300,,3036-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-2**] 2:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8080**]
+     Reason: emergent intubation                                         
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         44 year old man with leukemia and febrile neutropenia                        
+         
+     REASON FOR THIS EXAMINATION:
+      emergent intubation                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Febrile neutropenia.
+     
+     AP SUPINE CHEST:  Comparison with one day prior, there has been interval
+     insertion of an ET tube.  The bilateral central venous catheters are
+     unchanged.  There is now fluid within the right minor fissure and bilateral
+     pleural effusions. There is persistent patchy atelectasis within the right
+     upper lobe and left lower lobe.  A more focal opacity within the left lower
+     lobe could represent a new area of pneumonia.  Persistent vascular congestion
+     and cardiomegaly.  No pneumothorax.
+     
+     IMPRESSION:
+     
+     1. Mild cardiac failure.
+     2. Bilateral patchy atelectasis.
+     3. Focal opacity in the left lower lobe could represent a new pneumonia in
+     this neutropenic patient.
+
+",,
+5072,249,6300,,3036-03-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-2**] 2:26 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8081**]
+     Reason: ?opportuntistic infx vs leukemic involvment in CNS          
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with [**Location (un) 8067**] chromosome + ALL who has hx of acute on 
+      chronic sinusitis.  Please assess status of this condition
+     REASON FOR THIS EXAMINATION:
+      ?opportuntistic infx vs leukemic involvment in CNS                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Location (un) 8067**] chromosome ALL history of acute on chronic sinusitis
+     question opportunistic infection or leukemic involvement of CNS.
+     
+     TECHNIQUE: Pre- and postcontrast CT scans through the brain were obtained.
+     Sinuses are included.
+     
+     FINDINGS: Comparison is made to the MRI of the brain of [**3036-2-1**] and
+     the sinus CT of [**3036-1-30**].
+     
+     The brain appears structurally normal. No parenchymal attenuation
+     abnormalities are identified. The [**Doctor Last Name 20**]-white matter differentiation is
+     preserved. There is no abnormal intracranial enhancement. There is mucosal
+     thickening in the posterior ethmoid air cells and to a mild degree in the
+     sphenoid sinus and maxillary sinus. This was not present on the previous
+     study. The patient is currently intubated and there is opacification of the
+     nasal pharynx.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage. No abnormal
+     intracranial enhancement. No hydrocephalus.
+
+",,
+5072,249,6300,0,3036-03-02 04:25:00 EST,3036-03-02 04:45:00 EST,1468,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+Pt increasingly agitated and confused throughout shift.  Multiple doses of Haldol and Ativan given with no results-pt was constantly picking at lines and trying to get up.  Pt became stridorous and desaturated into 70's-requiring intubation at 0230.  Pt currently sedated on Diprivan at 40 mcg/kg/min; sats 100%; lungs diminished on R; see flow sheet for vent settings; bloody secretions noted-sputum cx sent.  Pt currently in and out of AF with HR 90-100's; HR had been as high as 170 during above mentioned episode with IV Diltiazem given per Dr. [**First Name (STitle) **]; SBP 90's; 2 pack PLT given this am;  CVP 9-14; Tmax 101 earlier this shift-blood cx, urine cx sent; temp currently 98.8.  Pt incontinent of stool and urine-multiple rectal bags/condom caths placed this shift; pt cont to have liquid brown diarrhea. Oral mucosa with mult. bleeding ulcers; perianal area excoriated.
+
+Plan: Cont on abx; will start on MSO4 gtt [**Name8 (MD) 17**] MD order; check ABG once A-line placed. 
+
+",,
+5072,249,6300,0,3036-03-02 05:09:00 EST,3036-03-02 05:13:00 EST,487,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+patient is a 41 Y.O. male with H/O ALL S/P allo BMT on [**2-12**]. Patient became stridorous at 2:30 requiring intubation with a # 7.5 ETT taped and secured at 23cm. ETCO2 checked with easycap. Breathsounds equal. Patient bronched shortly after intubation. Patient placed on mechanical ventilation. Settings: A/C 500 * 22 with 100% o2 and 5 peep. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Wean FIO2 as tolerated.
+",,
+5072,249,6300,0,3036-03-02 06:22:00 EST,3036-03-02 06:25:00 EST,1468,"N",69,"Nursing/Other",,"
+
+NPN Addendum
+
+ABG WNL this am; FiO2 down to 50%. Hct 23.4, PLT 30-MD notified but no transfusion ordered.  Holding MSO4 gtt for now [**Name8 (MD) 17**] MD order.  [**Last Name (LF) **], [**First Name3 (LF) **] cont to monitor.
+",,
+5072,249,6300,0,3036-03-02 16:50:00 EST,3036-03-02 16:59:00 EST,887,"N",69,"Nursing/Other",,"
+
+Review of Systems:
+
+Neuro: Pt remains sedated on propofol gtt @ 50 mcg/kg/min. pt grimaces and slightly withdraws to painful stim. Pt makes purposeful movements. [**Last Name (LF) 1613**], [**First Name3 (LF) 52**] slightly. Head CT done today with and without contrast for pts increasing confusion prior to intubation
+
+CV: Pt remains in AFIB per EKG done this AM, pt continued on Lopressor increased to 10 mg q 6 for rate control. pt bp stable WNL, currently 104/64.  Pt has  3+ pitting edema throughout ext and head/neck. Pt recived 1 unit of PRBC's for a post tx Hct of 26.6 up from 23.4.
+
+Resp: pt switched to PSV 5/18, ABG pending, from AC, pt sao2 > 96%. pt required q 4 hr suctioning for small amount of thick bloody secreations. Pt has + BBS, rhonchi throughout all lung fields.
+
+GI/GU: pt continues to have liq brown stool. pt has good UO per CC.
+",,
+5072,249,6300,,3036-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-3**] 7:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8082**]
+     Reason: please eval for blossoming pneumonia                        
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia and febrile neutropenia now intubated [**3-1**] for 
+      resp failure? aspiration pneumonia                            
+     REASON FOR THIS EXAMINATION:
+      please eval for blossoming pneumonia                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Febrile, neutropenia.
+     
+     AP SUPINE CHEST: Comparison with 1 day prior, shows persistent bilateral
+     pleural effusions, which are layering. The patchy opacities within the right
+     upper lobe and left lower lobe have increased. The cardiac and mediastinal
+     silhouettes are stable. Persistent vascular congestion. No change in tubes or
+     lines.
+     
+     IMPRESSION: Persistent mild cardiac failure. Allowing for technical
+     differences, the multifocal opacities appear to be resolving. Follow up images
+     are recommended to ensure resolution.
+
+",,
+5072,249,6300,,3036-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5072,249,6300,0,3036-03-03 03:27:00 EST,3036-03-03 03:36:00 EST,638,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on Psv. Psv weaned secondary to Resp alkalosis. Psv weaned from 18 to 14. Current vent settings Psv 14, Cpap 5, Fio2 40%. Spont vols 500's with RR mid 20's increasing to high 20's at times. Repeat Abg within normal limits. Bs clear bilaterally. Sx'd for sm amount of thick white sputum. CXR [**3-2**] patchy atelectasis RUL/LLL, LLL opacity, could represent  new area pna, bilateral effusions. No further changes made. Plan: Continue with Psv as tolerated. 
+",,
+5072,249,6300,0,3036-03-03 05:04:00 EST,3036-03-03 05:22:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Sedated on propofol and fentanyl gtts. Grimaces to pain and withdrawls slightly at times. Pupils equal with L pupil briskly reactive to light and R pupil noted to be sluggish to react to light. Positive cough, corneal and gag reflexes. Moving all extremities in bed slightly at times. 
+CV: Afeb. HR 80s-140s SR and in/out of AF overnight. Diltiazem 20mg IV x1 for AF 140s with good effect but continued to go in and out of AF throughout night. Lopressor changed back to 5mg IV q4hrs. BP stable via A-line. Skin warm and dry with palpable pedal and radial pulses bilaterally. Generalized 3+ edema. Scleral edema noted as well. HCT stable at 28.1. Platlets =22. K=4.2. Cyclosporine continues at 24cc/hr.
+RESP: Current vent settings: PS 14 Peep +5 FiO2 40% with TVs 500s and RR 24-30. RR up to 30s with nsg care/turning. O2 Sat >95%. LS coarse throughout with occasional scattered rhonchi. Sx'd for thick white, blood-tinged secretions. Copious oral secretions and gently using Yankar to sxn. 
+GI/GU: Abd. soft with hypoactive bowel sounds. Rectal bag in place with liquid brown stool- heme negative. TPN continues with glucose checks q6hrs and humalog insulin ss as ordered. Condom cath replaced and draining amber clear urine intermittently. BUN=60 Cr=1.3.
+SKIN: Mouth with ulcers- cleaned very gently with peridex. R TLC line intact with reddened area around insertion site- dsg changed. L Quinton cath intact with reddened area around insertion site- dsg changed. R radial a-line intact with good waveform- heparin flush changed to NS d/t pt's low platlet count.  Skin to back slightly red but intact. 
+",,
+5072,249,6300,0,3036-03-03 17:20:00 EST,3036-03-03 17:45:00 EST,887,"N",69,"Nursing/Other",,"
+
+Review of systems:
+
+Neuro:  Pt remains sedated on propofol and fentanyl, plan was to lighten sedation as toleratred for possible extubation tomorrow morning, pt became very aggitated (Inc HR, BP, and RR) with the first attempt to lower fent and prop (1 hour apart). pt is currently being slowly weaned of of fent first SLOWLY.  Currently pts Prop is @ 50 mcg/kg/min anf fentanyl is @ 30 mcg/kg/min.  Pt does not follow commands, but makes purposeful movements.  Pt withdraws to painful stim.  Pt right eye was slightly more sluggish in reaction, but now both pupils are ERRLA. pt MAE U>L.
+
+CV: Pt bp is stable WNL per art line, currently 116/68. pt is in and out of AF throughout shift, Pt metop dose was increased and seem to be working better to control rate and rhthym, pt currently in NSR 80-90.  pt remains fluid overloaded (pittind edema in ext.)
+
+Resp: Pt remains on vent PSV, there was attempt to wean pt today, and pt was weaned to a spont breathing trail, duril trial pt clinically looked bad( high rr 40's and aggitated) ABG was slightly worse but pt was placed back higher support settings, pt currently on PSV 8/5 40%, sao2 > 95%. pt has + BBS coarse throughout slightly decreased in right lower.  Pt requires q 4 hour sxn for small thick white blood tinge sxn.
+
+GI/GU: pt still has small amount of liq [**Last Name (un) 976**] stool per FIB, pt has poor UO per CC. renal consult called.
+",,
+5072,249,6300,,3036-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-4**] 8:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8083**]
+     Reason: evaluate for ? infiltrate, pulmonary edema                  
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with leukemia and febrile neutropenia now intubated [**3-1**] for  
+      resp failure? aspiration pneumonia                            
+     REASON FOR THIS EXAMINATION:
+      evaluate for ? infiltrate, pulmonary edema                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:  Compared to 1 day earlier.
+     
+     CLINICAL INDICATION:  Fever and neutropenia.
+     
+     Lines and tubes remain unchanged in position.  The cardiac and mediastinal
+     contours are within normal limits and stable allowing for differences in
+     technique.  There is interval decrease and hazy opacification in the right
+     lower lung zone, likely corresponding to a improving right pleural effusion.
+     There are patchy areas of opacity in the lung bases, which appear slightly
+     improved in the interval.  A small left pleural effusion is unchanged.
+     Diffuse haziness in the upper abdomen is suggestive of ascites.
+     
+     IMPRESSION:
+     
+     1)  Improving right pleural effusion.
+     2)  Slight improvement in patchy basilar opacities.
+     3)  Ascites.
+
+",,
+5072,249,6300,,3036-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-4**] 1:53 PM
+     DUPLEX DOP ABD/PEL LIMITED                                      Clip # [**Clip Number (Radiology) 8084**]
+     Reason: please eval for reversal of reversal of portal flow, abdomin
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with ALL s/p BMT day 11 with elevated bilirubin, fever, and 
+      ruq tenderness.         
+     REASON FOR THIS EXAMINATION:
+      please eval for reversal of reversal of portal flow, abdominal ascites, signs 
+      of VOD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, status post bone marrow transplant with elevated bilirubin,
+     fever, and right upper quadrant tenderness.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  The liver is normal in echogenicity, without
+     focal masses.  There is normal flow in the main, left, anterior right, and
+     posterior right portal veins.  There is no intra or extrahepatic ductal
+     dilatation.  The common duct measures 4 mm.  The gallbladder contains sludge
+     but is otherwise unremarkable.  There is no gallbladder wall edema and no
+     distention.
+     
+     IMPRESSION:
+     
+     Gallbladder sludge.  No evidence of cholecystitis.  Normal portal flow.
+
+",,
+5072,249,6300,0,3036-03-04 05:03:00 EST,3036-03-04 05:18:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Restless at beginning of shift with RR 35-40 and fentanyl gtt increased up to 40mcg/hr with good effect. Propofol continues for sedation. PERL with R pupil sluggish to react to light. MAE x4 in bed. No following commands but purposeful movement and withdraws to pain. Grimacing with any oral care d/t painful bleeding ulcers.
+CV: Afeb. HR 80s-90s SR and intermittently in/out AF throughout night with HR 120s-140s. BP stable via R radial a-line. Skin warm and dry with palpable pedal and radial pulses bilat. Generalized 3+ pitting edema. Scleral edema as well. Cyclosporine gtt continues as ordered IV. S/p 1u PRCBs with am HCT= 36.1. Plt=18. WBC=0.3.
+RESP: Vent with PS 8 Peep 5 FiO2 40% with TVs 500s-600s. O2 Sat >95%. LS coarse and diminished RLL. Sx'd for thick white secretions in moderate amts. Copious oral secretions. 
+GI/GU: Abd. soft with hypoactive bowel sounds. Coninues to have liquid brown stool via rectal bag. TPN at 74cc/hr. Condom cath on with urine amber and clear. Bun=72 Cr=1.6.
+SKIN: Buttocks reddened. Very small circular breakdown to R lower back with tegaderm applied. Repositioned side to side. R TLC line intact with reddened insertion site. L Quinton cath intact with reddened insertion site. Mouth and lips with bleeding oral ulcers- cleaned gently with peridex. 
+",,
+5072,249,6300,0,3036-03-04 16:31:00 EST,3036-03-04 16:53:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+NEURO: PT REMAINS SEDATED ON FENT AT 30MCG AND PROPOFOL AT 50MCG. 2CC BOLUSES GIVEN X2 FOR TURNING AND SUCTIONING OF MOUTH. PT BASICALLY UNRESPOSIVE EXCEPT FOR FACIAL GRIMACING AND MOVEMENT OF HEAD WHEN SUCTIONING MOUTH. A BRIEF EPSODE OF AGITATION IN EARLY AFTERNOON DUE TO AGITATION WITH TURNING PT MOVING BOTH ARMS AT THAT TIME AND EYES OPEN SLIGHTLY. 
+CAD HR 80-90 SR NO AFIB NOTED. NO ECTOPY NOTED. B/P 150-130'S/80-90'S. LOPRESSOR CONT Q4 HOURS.
+RESP: LS RHONCHEROUS TO CURRENTLY MORE CLEAR SOUNDING WITH DIM. BASES. SUCTIONED FOR SCANT AMT. OF WHITEISH SECRETIONS. PT REMAINS ON CPAP PS8 PEEP 5 FIO2 40% SATS 99 TO 100%. WILL ATTEMPT SBT IN AM. NO ISSUES. NO PLAN TO EXTUBATE AT THIS TIME. DUE TO MUCOSITIS AND EDEMA AND  POSSIBLE ASP. RISK .
+GI: ABD SOFT WITH BS+ RECTAL BAG IN PLACE DRAINING BROWN DARK GREEN TINGED LIQUID STOOL. SEE FLOW SHEET FOR AMTS. TPN CONT.
+GU: CONDOM CATH INTACT DRAINING CLEAR AMBER URINE. 560 TOTAL AS OF 1700 PT IS CURRENTLY APPROX. 3L.+. NABICARB GTT CONT AT 125CC/HR.
+ENDO: BS 214 AND 203 REQUIRING SSI COVERAGE. 
+ID: AFEBRILE: VANC TROUGH LEVEL DUE AT 1700. CONT ON FLAGYL . AMBISOME AND ACYCLOVIR DOSES CHANGED ** CHECK FOR NEW MAR LABELS DUE TO AWAITING PHARM APPROVAL. CYCLOSPORINE LEVEL 472 PER FELLOW MAINTAIN GTT AT CURRENT DOSE 276 = 23CC/HR.
+HEM:PT RECEIVED 1 UNIT OF PLATLETS= CURRENT LEVEL 39. PT CONT TO BLEED FROM ORAL MUCOSA. 
+SKIN: PT HAS TWO SMALL AREAS ON LEFT SIDE OF LIP AREA WHICH ARE BLEEDING PROFUSELY** GEL FOAM APPLIED CURRENTLY CEEMS CLOTTED OFF AND STABLE . DO NOT REMOVE DRSG.
+PLAN: CONT SEDATION TO MAINTAIN PT COMFORT. MONITOR UO, VS AND LABS (HCT AND PLATS), CONT TO MONITOR BLEDDING FROM ORAL MUCOSA, ESP OUTER LIP AREA. 
+ 
+",,
+5072,249,6300,0,3036-03-04 16:56:00 EST,3036-03-04 16:58:00 EST,1311,"N",69,"Nursing/Other",,"
+
+Resp Care. 
+Pt. remains intubated, current vent settings, PS 8/5 40%. no vent changes. Pt. comfortable at current settings. Sx for sm to moderate thick white secretions. Continue vent support and monitor.
+",,
+5072,249,6300,0,3036-03-05 05:36:00 EST,3036-03-05 06:03:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Sedated on propofol at 50mcg/kg/min and fentanyl gtt increased to 50 mcg/hr for increased RR and BP ?pain. PERL with R pupil sluggish to react to light. Grimaces to pain- especially with mouth care, otherwise appears comfortable. Moving head back and forth at times but otherwise only slight movements of extremities. 
+CV: Afeb. HR 80s-90s SR, occ. PACs. BP stable- slightly hypertensive with lopressor given IV as ordered. Na Bicarb gtt continues at 125cc/hr. Generalized 3+ edema. Skin warm and dry with palp. pedal pulses bilat.
+ID: Cycolsporine off at 12am as ordered and to be restarted at 8am at rate of 218mg/day. Abx continue as ordered. 
+RESP: Vent PS 14 Peep 5 FiO2 40% with O2 Sat >95%. LS rhonchorous in upper fields and coarse in lower lobes. Sx'd for moderate amts thick white-clear secretions. Copious oral secretions with careful sxing with NT catheter in order not to irritate oral ulcers. 
+GI/GU: Abd. soft with bowel sounds present and continues with liquid green stool via rectal bag - C-diff sample sent. TPN continues with ss humalog insulin coverage q 6hrs. Condom cath on with amber clear urine. UA sent last pm.
+SKIN: Two bleeding ulcers to lower lip covered with gelfoam and no further bleeding overnight. Oral mucosa with ulcers. R TLC line intact with insertion site reddened. L Quinton cath intact with insertions site reddened. R radial a-line intact with good waveform intact and patent. Back intact and repositioned side to side.
+
+",,
+5072,249,6300,0,3036-03-05 05:58:00 EST,3036-03-05 06:02:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory CAre
+Pt was received on 8 of psv/5 of peep/ 40%. Pressure support was increased back up to 14 pt appeared labored at times with resp rate up to 30s. He does appear more comfortable on the higher pressure support level. Lavaged/suctioned for moderate amount of thick white sputum. RSBI = 114.
+",,
+5072,249,6300,0,3036-03-05 16:41:00 EST,3036-03-05 16:59:00 EST,66,"N",69,"Nursing/Other","M/SICU Nursing Progress Note 7a-7p","
+M/SICU Nursing Progress Note 7a-7p
+See careview Flowsheet for Additional Objective Data
+Respiratory Failure s/p BMT, tachyarythmias, MS changes
+D:Remains intubated and mechanically ventilated with settings PSV:14 with PEEP:5 SRR:[**12-17**]/min SpO2:98-99% BS:Rhonchi in upper lung zones that clear with suctioning otherwise clear with coarse sounds at bases. Suctioning q 2-4 hours for small-mod amounts of thick white-clear secreations, continues to have mod-lg amounts of orals secreations.
+  Afebrile, WBC:.8 today, Cx data:C diff:-x2, Sp:mod staff coag+, no change in antibx therapy, doses reduced for ATN. Cyclosporin restarted at 08:00, level at 12 noon:485
+  No overt bleeding, hct stable at 35, plt:24, hemodynamically stable. Gelfoam remains intact on lower lip, no further bleeding
+  Remains in NSR rate 80-90/min, continues to receive lopressor IV q 4 hours
+  BUN/Cr:74/1.6(stable) U/O:condom cath in place voiding 260-400cc at a time. I/O's from midnoc:+2500cc [**3-3**]+ edema. Stool output approx 750cc since midnoc
+  Sedated on Propofol and Fentanyl, no change in dosing. Required 20mcg bolus of Fent in preparation of mouth care. Otherwise appears comfortable without untoward SE
+
+A:Reduced PSV:8 with PEEP:5
+  Restarted Cyclosporin at 08:00
+  Reduced antibx doses for ATN, awaiting vanco level prior to 18:00 dose
+  Spouse in and updated 
+  Pneumoboots and IV Protonix started
+
+R:Tolerated vent change without incident ABG:166/34/7.43/23/0 with SpO2:98-99% MV:9-11L/min, no further vent changes until patient ready for extubation, cont with pulm hygeine, frequent mouth care, Follow Cyclosporin levels qd at 12pm, peripheral IV draw, dose per levels, cont with antibx per order, follow vanco levels before dosing, consider D/C flagyl if pending last C diff cx negative, cont with supportive care as previously documented
+",,
+5072,249,6300,0,3036-03-05 17:16:00 EST,3036-03-05 17:17:00 EST,1311,"N",69,"Nursing/Other",,"
+
+Resp Care
+Patient remains intubated, on vent support titrated ps to [**8-4**] fio2 40% abg 7.43 34 166 23 . BS slightlly coarse, sx small clear secretions. Vt 600cc to 70cc . Continue vent support and monitor.
+",,
+5072,249,6300,0,3036-03-06 05:33:00 EST,3036-03-06 05:37:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated currently on IPS 8. VT 500, RR 15. Had an episode of tachpnea earlier in shift. RR up to 50's after being turned. IPS increased to 15, increased sedation with good effect. RSBI 40 this am. Appeared to have increased WOB. Placed back on IPS 8. See carevue.
+",,
+5072,249,6300,0,3036-03-06 07:03:00 EST,3036-03-06 07:15:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT REMAINS INTUBATED.  CURRENT VENT SETTINGS:  PS 8X40% + 5 OF PEEP.  RR TEENS TO 20'S, VT'S 500'S, SATS HIGH 90'S.  PROPAFOL IS AT 60/ FENTYNL IS AT 50.  PT HAS BEEN WELL SEDATED EXCEPT AFTER HE WAS TURNED ~ 8PM.  AT THAT TIME, HE DID NOT APPEAR AGITATED BUT RR WENT UP TO 56/MIN.  IPS INCREASED TO 15 AND PROPAFOL INCREASED TO 60.  PT SETTLED OUT TO RR IN THE 20'S W/IN A SHORT PERIOD OF TIME.  IPS EVENTUALLY DECREASED TO 8 AND AM ABG PND.  BS'S FAIRLY CLEAR.  SX'D FOR SM TO MOD AMTS OF THICK WHITE SECRETIONS X3.  AFEBRILE.  REMAINS HD STABLE W/ HR'S IN 90'S, SBP'S IN 140'S ON METOPROLOL 7.5 MG'S Q 4HRS.  D5W W/ 3 AMPS BICARB REMAINS AT 125 CC'S/HR.  UO 900 CC'S OVERNOC.  TPN CONT AS WELL.  3 U REG INS. GIVEN AT 3AM.  AM BS PND. MOUTH CARE GIVEN X 1 W/ GELCAM TOOTHPASTE AND PERIDEX MOUTH WASH.  LIP BEGAN TO BLEED BECAUSE TISSUE HAD COME OFF LIP, GELFOAM APPLIED W/ RELIEF.  
+",,
+5072,249,6300,0,3036-03-06 17:33:00 EST,3036-03-06 18:07:00 EST,535,"N",69,"Nursing/Other",,"
+
+nursing progress note see careview for details.
+
+neuro:Pupils 3mm and perl,remains sedated on propofol at 60mcg/kg/min and fentanyl at 50mcg/hr.does have positive gag and cough reflex.Appears well sedated,will react to painful stimuli,as suctioning or mouth care by grimaceing.
+
+cv:Remains in nsr to st  with rare pac,hr 95 to 104.Systolic bp 136 to 140,diastolic bp 88 to 90,map 105 to 115.color pale skin warm and edematous.Both feet warm with doppler dp and pt pulses present.Remains on metoprolol 7.5mg q 4hrs.cvp reading 8 to 10.
+
+resp:Breath sounds coarse,suctioned for moderate white thick secretions,and copious bloody thick oral secretions.Vent settings unchanged today.Remains intubated on cpap with pressure support of 8,and 5cm of peep, fio2 40% .Resp rate 16 to 25,with sp02 99% to 100%. Sodium Bicarbonate gtt has 
+
+gu:Condom cath in place to cd draining good amounts of yellow urine with sediment.
+
+gi:Abd soft with positive bowel sounds present which are hypoactive.Rectal bag to cd draining moderate amounts of liquid green stool which is heme positive.Continues on tpn.
+
+cyclosporin:dosage of 218mg/day,has been decreased to 206/mg/day rate was changed at 1700 to 23.7cc/hr to reflect the total dose over 16/hrs to be 206 mg/day.This iv rate has been verified by pharmacy.the cyclosporin will continue till 12mn and then be off for 8hrs.
+
+id:Metronidazole has been dcd today.Sputum is positive for mrsa.Transplant team to evaluate for continuing need for Neutropenic precautions.Currently on Neutropenic and MRSA precautions.
+
+endocrine:sliding scale coverage increased.
+
+social:Parents in to visit.Wife was updated over the phone.
+
+",,
+5072,249,6300,0,3036-03-06 18:38:00 EST,3036-03-06 18:41:00 EST,1311,"N",69,"Nursing/Other",,"
+
+Resp Care
+Patient remains intubated, current vent settings PS 8/5 40% . BS occassionally coarse. SX small white & clear secretions. Retaped oett and switch to other side of mouth. ORal secretions a lot. Less bleeding. If oral secretions lessened tomorrow, plan is to extubate.
+",,
+5072,249,6300,0,3036-03-07 05:06:00 EST,3036-03-07 05:09:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+ Pt. remains intubated overnoc on IPS 8. VT 400's RR 20. RSBI 46 this am, placed on SBT 440 am. Had episode earlier in shift of tachypnea, resolved with increased sedation. Plan to cont. to wean as tol. 
+",,
+5072,249,6300,0,3036-03-07 06:52:00 EST,3036-03-07 06:57:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT REMAINS INTUBATED.  HAS BEEN TOL A SBT FOR ~ 2 HRS NOW.  RR 20, VT'S 400, SATS HIGH 90'S, AM ABG PND.  BS'S COURSE.  SX'D Q 4 HRS FOR SM AMTS OF THICK WHITE SECRETIONS.  AFEBRILE.  ATTEMPT MADE TO DECREASE PROPAFOL TO 50 MCG'S, BUT RR WENT UP TO 46/MIN WHICH RESOLVED AFTER RETURNING TO 60 MCG'S (AND THIS HAS NOT HAPPENED AGAIN.)  OTHERWISE WELL SEDATED.  MOUTH CARE DONE, MOUTH CONT TO HEAL.  BS'S BETTER CONTROLLED ON CURRENT SSI.  CONT TO HAVE DIARRHEA, ""BUTT BAG"" INTACT.  UO ADEQUATE.   
+",,
+5072,249,6300,0,3036-03-07 15:07:00 EST,3036-03-07 15:07:00 EST,535,"N",69,"Nursing/Other",,"
+
+nursing progress note see careview for details.
+
+neuro:Remains sedated on propofol at 60mcg/kg/min, and fentanyl 50 mcg/hr.pupils perl,right pupil is more sluggishy to react than left pupil at times.Does not follow commands during sedation,but will grimmace during mouth care or suctioning.Did withdraw extremity during venipuncture for lab draw.PLan to wean propofol and have team evaluate neuro status.
+
+cv:Remains in nsr hr 78 to 93 without ectopy.Systolic bp 125 to 152,Diastolic bp 79 to 90,map 80 to 90.Cvp reading 6 to 8 with good waveform.Temp max  97.9 ax today,skin warm and dry.Extremites appear edematous,bed scale does not appear to have been zeroded but for trend has been no weight gain from yesterday.Palpable dp pulses present bil.
+
+gi:Continues on tpn,remains npo.Abd soft with positive bowel sounds present.Fecal incontinence bag intact to cd ,draining moderate amount of green liquid stool,heme positive.
+
+gu:Condom cath reapplied due to leakage ,to cd draining moderate amount of amber urine.
+
+endocrine:Blood sugars elevated,insulin sliding scale increased,using humalog for coverage.Insulin increased in todays tpn bag.
+
+Cyclosporine:Continues on 16 hrs cycle  on , and 8 hrs off.Started at 8am will run til 12mn.Currently on 25.8/cc/hr as calculated by pharmacy to deliver todays dose.Level is currently pending.
+
+skin:Has small abrasion on lower back,duoderm was applied.Lower lip has abrasion draining small amount of serrosanguinous drainage.Inside mouth has improved,geting nystatin swish to oral mucosa.
+
+social:Wife called for update on phone.Pts sister called.
+",,
+5072,249,6300,0,3036-03-07 17:57:00 EST,3036-03-07 18:01:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care note","
+Respiratory Care note
+Pt. tol sbt very well abg 742/43/136/29/3,  Pt place back on psv 8/5 tand will allow mouth to continue to heal prior to extubation. Tube re-taped without problems
+",,
+5072,249,6300,0,3036-03-07 18:47:00 EST,3036-03-07 18:51:00 EST,535,"N",69,"Nursing/Other",,"
+
+UPDATE:SEEN AND EVALUATED BY TRANSPLANT.PLAN TO DO LP IN AM WHILE PT IS INTUBATED.WILL NEED PLATLETS BEFORE PROCEDURE.FENTANYL AND PROFOL WERE HELD FOR A SHORT TIME TO EVALUATE MENTAL STATUS.PT DID AWAKEN BUT WAS LETHARGIC,DID FOLLOW SOME SIMPLE COMMANDS AND WAS ABLE TO MOVE ALL EXTREMITES.PT DID HAVE SPONTANEOUS BREATHING TRIAL THIS AM BUT WAS RETURNED TO 5 PEEP AND 8 OF PRESSURE SUPPORT,TEAM WILL REEVALUATE IN AM.VSS REMAIN STABLE.PT WAS ALSO SEEN AND EVALUATED BY RENAL.
+",,
+5072,249,6300,0,3036-03-08 05:28:00 EST,3036-03-08 05:40:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Sedated on 50mcg/hr fentanyl and 40mcg/kg/min of propofol with grimacing to pain and moving head back and forth but no other spontaneous movement noted. PERL with R pupil sluggish to react to light. Positive cough, gag and weak corneal reflex. 
+CV: Afeb. HR 60s-90s SR, no ectopy noted. BP elevated (see flowsheet)- continues on lopressor 7.5mg IV q4hrs. CVP 6-9. Generalized 3+ edema. Palpable pedal pulses bilat. Cyclosporine turned off at 12am and to be restarted at 8am. 
+RESP: Vent PS 8 Peep 5 FiO2 40% with O2 Sat >95% with TVs 500s-600s. Put on SBT this am and tolerating well with O2 Sat >95% and RR 12-20. LS coarse throughout. Sx'd for small amts thick clear secretions. Continues with copious oral secretions- clear. 
+GI/GU: Abd. soft with hypoactive bowel sounds. Rectal bag intact draining liquid green stool in small amts. TPN continues at 65cc/hr. Covered with humalog insulin per ss as ordered. Condom cath replaced and draining amber urine with small amts of sediment. 
+SKIN: Duoderm covering small abrasion to R lower back. Mouth with ulcers but no further bleeding noted. Nystatin s&s to mouth. Pneumoboots on. 
+",,
+5072,249,6300,0,3036-03-08 05:49:00 EST,3036-03-08 05:55:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care:Pt continues intubated and on ventilatory support with a/c, mult attempts overnoc to decrease fio2, unable to tol d/t persistent desat to 80's refractory to sxn, broncholdilation; bs diminished L>R, occ crackles, sxn thick bloody secretions, will cont full support.
+",,
+5072,249,6300,0,3036-03-08 05:57:00 EST,3036-03-08 06:00:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: disregard above note, wrong pt, sorry. Mr [**Known patient lastname 8188**] continues intubated and on ventilatory support with psv maintaining good abg; bs coarse, sxn minimal clear secretions, rsbi 27, placed on sbt early am per protocol.
+",,
+5072,249,6300,0,3036-03-08 16:05:00 EST,3036-03-08 16:08:00 EST,1069,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient weaning. Plan for extubation once sedation is lessened if he appears able to protect his airway. Spontaneous RR and depth adequate. Suctioned for med amounts of loose thin whitish sputum. BS coarse at times with scattered rhonchi which clear with suctioning. 
+",,
+5072,249,6300,0,3036-03-08 17:00:00 EST,3036-03-08 17:01:00 EST,535,"N",69,"Nursing/Other",,"
+
+nursing progress note see careview for details.
+
+neuro:Pupils perl,grimaces with pain when suctioned.Weaned propofol and fentanyl with hopes  of extubation and to evaluate neuro status.While intubated mouthing words,and weakly moving extremites to command.Able to lift head off of  the pillow and attempting to sit up.Remains lethargic and will fall back to [**Doctor Last Name 65**].
+
+cv:remains in nsr hr 84 to 88 without ectopy.Systolic bp 157 to 160,on lopressor 7.5mg iv q4hrs.Extremites remain edematous according to scale gained about 1kg from yesterday.No temp spikes today.Bil dp and pt pulses present.
+
+resp:Tolerated breathing trial this am,currently on cpap tolerating well but not fully awake,will continue to evaluate.Breath sounds coarse,suctioned for only scant clear to white secretions today.Resp rate 17 to 23,spo2 97% to 100%.Will continue to evaluate,pt to remain intubated overnight,unless awakens and is appropriate.
+
+gu:Condom cath has remained intact today,draining moderate amount of amber urine with sediment.
+
+gi:Abd soft with hypoactive bowel sounds present.remains npo.Mouth ulcers appear to be healing.Lower lip has large abrasion ,crusted with old dry blood.Rectal bag intact to cd draining green loose stool which is heme positive.
+
+social:Wife was in to visit today,agrees with plan of care.brothers also in to visit today.
+
+plan:continue to evaluate for extubation,most likely in am
+     Unable to obtain platlets today,if available in am,team will do 
+      lp.Cyclosporine continues ,rate calculated by pharmacy.
+      remains full code.
+",,
+5072,249,6300,0,3036-03-08 19:04:00 EST,3036-03-08 19:05:00 EST,535,"N",69,"Nursing/Other",,"
+
+update:cyclosporine dose was changed dose calculated by pharmacy for med to continue to run til mn.Pt more awake now,nods appropriately,and follows commands,still lethargic at times.wife called and spoke with md.
+",,
+5072,249,6300,,3036-03-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-9**] 2:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8085**]
+     Reason: s/p extubation, monitor parenchyma                          
+     Admitting Diagnosis: LEUKEMIA\BONE MARROW TRANSPLANT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia and febrile neutropenia now intubated [**3-1**] for   
+      pneumonia                            
+     REASON FOR THIS EXAMINATION:
+      s/p extubation, monitor parenchyma                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post extubation.  Febrile neutropenia.  Pneumonia.
+     
+     COMPARISON:  [**3036-3-4**].
+     
+     AP PORTABLE UPRIGHT CHEST:  Patient's chin obscures the lung apices and
+     superior mediastinum.  A right subclavian line is unchanged in position with
+     tip in the upper SVC.  A left IJ double-lumen central venous catheter has its
+     tip at the junction of the right atrium with the SVC.  The lungs are grossly
+     clear.
+     
+     IMPRESSION:  No pneumonia on this limited study.  
+
+",,
+5072,249,6300,0,3036-03-09 05:00:00 EST,3036-03-09 05:12:00 EST,1196,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: PERL 3-4mm bilat. with R pupil sluggish to react to light. Off propofol, pt. follows commands consistently and nodding appropriately to questions. Denies pain. Fentanyl at 25mcg/hr. Increasingly agitated last pm despite frequent verbal reassurance and eventually put back on propofol and will wean to off this am for possible extubation. MAE in bed. 
+CV: Afeb. HR 70s-90s SR, no ectopy noted. Hypertensive throughout night with a one time dose of 10mg hydralazine given with some effect. Increased BP/HR with agitation before propofol restarted. CVP 6-8. Skin warm and dry with palpable pedal and radial pulses bilat. Generalized 3+ edema. Cyclosporine off at 12am and to restart at 25.8cc/hr at 8am for order of 206mg/day. 
+RESP: Vent with PS 8 Peep 5 FiO2 40%. To be placed on SBT again this am. TVs 400s-600s. O2 Sat >96%. LS coarse throughout and sx'd for thin white-clear secretions in small amts. RR 10-29. 
+GI/GU: Abd. soft with hypoactive bowel sounds. Rectal bag draining greenish liquid-loose stool in moderate amts. TPN continues at 64.9cc/hr. Condom cath intact draining amber urine with some sediment. 
+SKIN: Duoderm to coccyx intact. R TLC line intact with reddened area around insertion site, no drainage. L Hickman with reddened area around insertion site, no drainage. R radial a-line intact with good waveform. Lower lip with healing ulcers, minimal drainage. 
+
+",,
+5072,249,6300,0,3036-03-09 06:15:00 EST,3036-03-09 06:18:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on minimal ventilatory support with psv up to 8 for overnoc rest; bs coarse, sxn sm amts thick white secretions, rsbi 33, placed on sbt per protocol with good abg, will cont wean to extubate as tol.
+",,
+5072,249,6300,0,3036-03-09 13:57:00 EST,3036-03-09 14:04:00 EST,1446,"N",69,"Nursing/Other",,"
+
+RESPIRATORY----Pt maintained on a 50% cool face mask with really good sats and stable vitals. Pt extubated this a.m. without complications. Mental status is guarded with engagement somewhat of an issue. CT will be scheduled for tomorrow if pt does not improve. gas exchang by ABG post extubation shows a resp. alkalosis with hyper-oxygenation. Plan is to cont with the mask O2, pt has a very good cough, assess MS in a.m.
+",,
+5072,249,6300,0,3036-03-09 17:01:00 EST,3036-03-09 17:01:00 EST,535,"N",69,"Nursing/Other",,"
+
+nursing progress note see careview for details.
+
+neuro:Awake,but lethargic,follows commands but not consistently.Answers some questions,but is slow to respond.Speech is usually understanable.Has moved all extremites to command,does appear to drift body to right side.Pupils perl,right pupil is sluggish at times ,left pupil briskly reactive.Was extubated today and propofol and fentanyl weaned to off.Pt denies pain but will grimace with mouth care.
+
+cv:Remains in nsr to st hr 71 to 100 with rare pvc noted.Questionable if aline is always accurate,cuff bp is usually 20 to 30 mm lower than aline.DR. [**Last Name (STitle) 472**] took  manual bp in right arm 135/85,left arm 145/80.For bp control,Hydralazine 10mg iv q6 hrs was started,and remains on lopressor 10mg iv q 4hrs.Feet warm with palpable dp and pt pulses present.Extremites remain edematous,bed scale broken unable to follow weight today.No temp spikes today.
+
+Resp:Was extubated this am at 1050 after fentanyl and propofol weaned to off.breath sounds clearer but diminished bibasilar.Has [**Last Name (un) **]-[**Doctor Last Name **] pattern of breathing,resp rate variable between 26 and 36.Team and DR.[**Last Name (STitle) 472**] aware of breathing pattern.Remains on fm at 50%,with spo2 100%.Has been able to cough and expectorate small amounts of white sputum.
+
+gu:Condom drainage was leaking,new penile pouch applied to cd draining good amounts of amber urine with sediment.
+
+gi:Abd soft with positive bowel sounds present.Fecal incontinence bag was leaking,new one was applied,skin under bag only had several small pink areas.Continues to drain moderate amount of green liquid stool heme positive.Remains on tpn today.
+
+endocrine:Blood sugars are covered by sliding scale insulin.Better control of blood sugars today.
+
+social:wife called and was updated on phone and agrees with plan of care.Pts sister [**Name (NI) **] also called today.
+",,
+5072,249,6300,0,3036-03-10 05:10:00 EST,3036-03-10 05:22:00 EST,928,"N",69,"Nursing/Other",,"
+
+Nsg Progress Note 1900-0700
+
+CV - BP maintained with metoprolol and hydralazine.  HR NSR with no ectopy.  Afebrile throughout the night.  
+
+Resp - Pt refused to wear O2 but sats have been >96% all shift.  RR decreasing slightly to 20-26.  BS cl bilat.  Weak non prod cough.
+
+GI - Abd soft and distended.  Positive BS.  Rectal bag draining sm to mod amt green liquid stool.  No c/o nausea
+
+GU - Bag cath working well - pt voiding approx 100cc/hr cl yellow urine.
+
+Endocrine - BS down to 63 at 0200.  No insulin given.  Up to 88 at 0400. Plan to recheck with labs at 6am.
+
+Neuro - Pt much more awake but easily agitated.  Oriented to person and place.  MAE and will assist with turning and repositioning.  Right pupil sl sluggish compared to left pupil.  Still loosely restrained to prevent pt from pulling at IV lines.  Med with haldol for agitation with min response.  Pt began to have tremors and pt denied pain or chills.  Med with MSO4 IV X2 with good relief of tremors and agitation.  Pt able to [**Doctor Last Name 65**] in naps but easily arousible.
+",,
+5072,249,6300,0,3036-03-10 15:08:00 EST,3036-03-10 15:19:00 EST,679,"N",69,"Nursing/Other",,"
+
+MICU/SICU Nursing Progress Note (0700-1500)
+
+Pt. awaiting bed on oncology unit.
+
+CNS: Pt. lethargic throughout most of the day, yet easily arousable to verbal stim. Able to follow commands, intermittently oriented to place. MAE. Pupils are equal at 4mm, right is sluggishly reactive to light, where left reacts briskly. MSO4 dosage changed to q6hr standing dose with prn coverage. Not given today due to lethargy...pt has been denying any pain. 
+
+CVS: Heart rate and B/P somewhat labile. Heart rate dropping to the 40's while asleep, lopressor held x 1 dose...given at 1500 as heart rate had increased to 100, ST. Standing hydralazine dose dc'ed and sl nifedipine started. Due to SBP in the 150's/, one time dose of hydralazine 15mg given and SBP now in the 120's/.
+
+GI: Small amounts of watery green stool via rectal bag. Pt. able to take small amount of fluid po with meds. Abdomen soft and non tender, denies any nausea.
+
+RESP: Lungs clear. Pt. has a strong cough, not raising any secretions. Sats of 95-99% on room air. 
+
+F and E: Good urine output, currently 300cc negative. 
+
+ID: T max of 99 axillary. Cyclosporine infusing at 26cc/hr (206mg over 16hr infusion). 
+",,
+5072,249,6300,0,3036-03-10 15:22:00 EST,3036-03-10 15:24:00 EST,679,"N",69,"Nursing/Other",,"
+
+NPN (cont'd)
+
+ENDO: Sliding scale coverage changed. Fingerstick at 1230 86, no coverage given. 
+
+SOCIAL: Wife and father in this AM. Wife called this afternoon and was told about planned transfer...she will call again in the AM.
+",,
+5072,,,,3036-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL s/p allo-BMT with likely cmv colitis here with new,
+      diffuse abdominal tenderness.
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of perforation, other pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  ALL s/p bone marrow transplant. Diffuse abdominal tenderness, likely
+     CMV colitis.
+     
+     COMPARISON:  No prior CT studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis were obtained with intravenous Optiray per CTE  protocol.  However,
+     oral contrast was not administered secondary to the patient's inability to
+     tolerate po intake or an NG tube, due to esophageal ulcers.  Coronal
+     reconstructions were performed.
+     
+     CONTRAST: 122 cc  of intravenous Optray were administered through a right
+     antecubital iv catheter. During the initial injection, a few cc's of Optiray
+     squirted out between the external portion of the iv catheter and the power
+     injector tubing. There was no subcutaneous infiltration of Optiray. The
+     intravenous line remained patent, allowing for normal drawing back of blood
+     and flushing with saline.  The power injector was reconnected to the iv
+     catheter, and injection of Optiray was continued without further
+     complications. The intravenous line was removed immediately after the study to
+     reduce the risk of infection.  There was no adverse reaction to Optiray during
+     or immediately following the study.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  Several subcentimeter nodular opacities
+     are present at the visualized lung bases.  The largest opacity in the right
+     lower lobe measures 8 mm, and the largest opacity in the left lower lobe
+     measures  5 mm.  There are no pleural effusions.
+     
+     There is diffuse wall thickening in the proximal small bowel, with associated
+     stranding and small lymph nodes in the proximal mesentery.  Both the proximal
+     and distal small bowel is distended with fluid.  However, there is no wall
+     thickening in the distal small bowel, including the terminal ileum.  This
+     appearance is consistent with enteritis, which may be due to graft-vs-host
+     disease or infection.
+     
+     There is a 2 mm appendicolith within the appendix.  The appendix does not
+     contain any air.  It measures 8 mm in cross-section diameter at the level of
+     the appendicolith, but appears smaller distal to the stone. The cecal tip
+     appears mildly thickened. There is some periappendiceal stranding, which is
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     less advanced than the stranding in the proximal small bowel mesentery. There
+     is no periappendiceal free air or fluid collection. These findings are
+     equivocal regarding the presence of appendicitis. There may be mild typhlitis
+     at the cecal tip , consistent with graft-vs-host disease. Serial clinical
+     exams are suggested. If clinically indicated, repeat imaging of the appendix
+     may be helpful.
+     
+     The remainder of the ascending colon and the transverse colon are distended
+     with fluid, without wall thickening.  The descending and sigmoid colon are
+     collapsed. There is no free air or free fluid. In addition to the previously
+     described proximal mesenteric stranding and small mesenteric lymph nodes,
+     there is stranding and small lymph nodes in the para-aortic retroperitoneum.
+     The liver, gallbladder, spleen, pancreas, kidneys, adrenal glands and ureters
+     are unremarkable.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  Calcifications are seen within the
+     prostate gland.  The bladder, seminal vesicles and rectum are unremarkable.
+     There is no pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions within the
+     visualized osseous structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of wall
+     thickening in the proximal small  bowel, with adjacent mesenteric stranding.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 8087**] at 11:40 pm on [**3036-3-29**].
+     
+     IMPRESSION:
+     
+     1)  Proximal enteritis, which may represent graft-vs-host disease or
+     infection.
+     
+     2)  Appendicolith.  The appearance of the appendix is equivocal for
+     appendicitis.  There may be mild typhlitis. Serial abdominal exams are
+     suggested. If clinically indicated, repeated imaging of the appendix may be
+     helpful.
+     
+     3) Subcentimeter peripheral nodular opacities at both lung bases, which are
+     nonspecific. Follow-up is suggested.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     
+     
+
+",,
+5072,,,,3036-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL s/p allo-BMT with likely cmv colitis here with new,
+      diffuse abdominal tenderness.
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of perforation, other pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  ALL s/p bone marrow transplant. Diffuse abdominal tenderness, likely
+     CMV colitis.
+     
+     COMPARISON:  No prior CT studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis were obtained with intravenous Optiray per CTE  protocol.  However,
+     oral contrast was not administered secondary to the patient's inability to
+     tolerate po intake or an NG tube, due to esophageal ulcers.  Coronal
+     reconstructions were performed.
+     
+     CONTRAST: 122 cc  of intravenous Optray were administered through a right
+     antecubital iv catheter. During the initial injection, a few cc's of Optiray
+     squirted out between the external portion of the iv catheter and the power
+     injector tubing. There was no subcutaneous infiltration of Optiray. The
+     intravenous line remained patent, allowing for normal drawing back of blood
+     and flushing with saline.  The power injector was reconnected to the iv
+     catheter, and injection of Optiray was continued without further
+     complications. The intravenous line was removed immediately after the study to
+     reduce the risk of infection.  There was no adverse reaction to Optiray during
+     or immediately following the study.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  Several subcentimeter nodular opacities
+     are present at the visualized lung bases.  The largest opacity in the right
+     lower lobe measures 8 mm, and the largest opacity in the left lower lobe
+     measures  5 mm.  There are no pleural effusions.
+     
+     There is diffuse wall thickening in the proximal small bowel, with associated
+     stranding and small lymph nodes in the proximal mesentery.  Both the proximal
+     and distal small bowel is distended with fluid.  However, there is no wall
+     thickening in the distal small bowel, including the terminal ileum.  This
+     appearance is consistent with enteritis, which may be due to graft-vs-host
+     disease or infection.
+     
+     There is a 2 mm appendicolith within the appendix.  The appendix does not
+     contain any air.  It measures 8 mm in cross-section diameter at the level of
+     the appendicolith, but appears smaller distal to the stone. The cecal tip
+     appears mildly thickened. There is some periappendiceal stranding, which is
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     less advanced than the stranding in the proximal small bowel mesentery. There
+     is no periappendiceal free air or fluid collection. These findings are
+     equivocal regarding the presence of appendicitis. There may be mild typhlitis
+     at the cecal tip , consistent with graft-vs-host disease. Serial clinical
+     exams are suggested. If clinically indicated, repeat imaging of the appendix
+     may be helpful.
+     
+     The remainder of the ascending colon and the transverse colon are distended
+     with fluid, without wall thickening.  The descending and sigmoid colon are
+     collapsed. There is no free air or free fluid. In addition to the previously
+     described proximal mesenteric stranding and small mesenteric lymph nodes,
+     there is stranding and small lymph nodes in the para-aortic retroperitoneum.
+     The liver, gallbladder, spleen, pancreas, kidneys, adrenal glands and ureters
+     are unremarkable.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  Calcifications are seen within the
+     prostate gland.  The bladder, seminal vesicles and rectum are unremarkable.
+     There is no pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions within the
+     visualized osseous structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of wall
+     thickening in the proximal small  bowel, with adjacent mesenteric stranding.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 8087**] at 11:40 pm on [**3036-3-29**].
+     
+     IMPRESSION:
+     
+     1)  Proximal enteritis, which may represent graft-vs-host disease or
+     infection.
+     
+     2)  Appendicolith.  The appearance of the appendix is equivocal for
+     appendicitis.  There may be mild typhlitis. Serial abdominal exams are
+     suggested. If clinically indicated, repeated imaging of the appendix may be
+     helpful.
+     
+     3) Subcentimeter peripheral nodular opacities at both lung bases, which are
+     nonspecific. Follow-up is suggested.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     
+     
+
+",,
+5072,,,,3036-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL s/p allo-BMT with likely cmv colitis here with new,
+      diffuse abdominal tenderness.
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of perforation, other pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  ALL s/p bone marrow transplant. Diffuse abdominal tenderness, likely
+     CMV colitis.
+     
+     COMPARISON:  No prior CT studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis were obtained with intravenous Optiray per CTE  protocol.  However,
+     oral contrast was not administered secondary to the patient's inability to
+     tolerate po intake or an NG tube, due to esophageal ulcers.  Coronal
+     reconstructions were performed.
+     
+     CONTRAST: 122 cc  of intravenous Optray were administered through a right
+     antecubital iv catheter. During the initial injection, a few cc's of Optiray
+     squirted out between the external portion of the iv catheter and the power
+     injector tubing. There was no subcutaneous infiltration of Optiray. The
+     intravenous line remained patent, allowing for normal drawing back of blood
+     and flushing with saline.  The power injector was reconnected to the iv
+     catheter, and injection of Optiray was continued without further
+     complications. The intravenous line was removed immediately after the study to
+     reduce the risk of infection.  There was no adverse reaction to Optiray during
+     or immediately following the study.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  Several subcentimeter nodular opacities
+     are present at the visualized lung bases.  The largest opacity in the right
+     lower lobe measures 8 mm, and the largest opacity in the left lower lobe
+     measures  5 mm.  There are no pleural effusions.
+     
+     There is diffuse wall thickening in the proximal small bowel, with associated
+     stranding and small lymph nodes in the proximal mesentery.  Both the proximal
+     and distal small bowel is distended with fluid.  However, there is no wall
+     thickening in the distal small bowel, including the terminal ileum.  This
+     appearance is consistent with enteritis, which may be due to graft-vs-host
+     disease or infection.
+     
+     There is a 2 mm appendicolith within the appendix.  The appendix does not
+     contain any air.  It measures 8 mm in cross-section diameter at the level of
+     the appendicolith, but appears smaller distal to the stone. The cecal tip
+     appears mildly thickened. There is some periappendiceal stranding, which is
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     less advanced than the stranding in the proximal small bowel mesentery. There
+     is no periappendiceal free air or fluid collection. These findings are
+     equivocal regarding the presence of appendicitis. There may be mild typhlitis
+     at the cecal tip , consistent with graft-vs-host disease. Serial clinical
+     exams are suggested. If clinically indicated, repeat imaging of the appendix
+     may be helpful.
+     
+     The remainder of the ascending colon and the transverse colon are distended
+     with fluid, without wall thickening.  The descending and sigmoid colon are
+     collapsed. There is no free air or free fluid. In addition to the previously
+     described proximal mesenteric stranding and small mesenteric lymph nodes,
+     there is stranding and small lymph nodes in the para-aortic retroperitoneum.
+     The liver, gallbladder, spleen, pancreas, kidneys, adrenal glands and ureters
+     are unremarkable.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  Calcifications are seen within the
+     prostate gland.  The bladder, seminal vesicles and rectum are unremarkable.
+     There is no pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions within the
+     visualized osseous structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of wall
+     thickening in the proximal small  bowel, with adjacent mesenteric stranding.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 8087**] at 11:40 pm on [**3036-3-29**].
+     
+     IMPRESSION:
+     
+     1)  Proximal enteritis, which may represent graft-vs-host disease or
+     infection.
+     
+     2)  Appendicolith.  The appearance of the appendix is equivocal for
+     appendicitis.  There may be mild typhlitis. Serial abdominal exams are
+     suggested. If clinically indicated, repeated imaging of the appendix may be
+     helpful.
+     
+     3) Subcentimeter peripheral nodular opacities at both lung bases, which are
+     nonspecific. Follow-up is suggested.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     
+     
+
+",,
+5072,,,,3036-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL s/p allo-BMT with likely cmv colitis here with new,
+      diffuse abdominal tenderness.
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of perforation, other pathology
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  ALL s/p bone marrow transplant. Diffuse abdominal tenderness, likely
+     CMV colitis.
+     
+     COMPARISON:  No prior CT studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis were obtained with intravenous Optiray per CTE  protocol.  However,
+     oral contrast was not administered secondary to the patient's inability to
+     tolerate po intake or an NG tube, due to esophageal ulcers.  Coronal
+     reconstructions were performed.
+     
+     CONTRAST: 122 cc  of intravenous Optray were administered through a right
+     antecubital iv catheter. During the initial injection, a few cc's of Optiray
+     squirted out between the external portion of the iv catheter and the power
+     injector tubing. There was no subcutaneous infiltration of Optiray. The
+     intravenous line remained patent, allowing for normal drawing back of blood
+     and flushing with saline.  The power injector was reconnected to the iv
+     catheter, and injection of Optiray was continued without further
+     complications. The intravenous line was removed immediately after the study to
+     reduce the risk of infection.  There was no adverse reaction to Optiray during
+     or immediately following the study.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  Several subcentimeter nodular opacities
+     are present at the visualized lung bases.  The largest opacity in the right
+     lower lobe measures 8 mm, and the largest opacity in the left lower lobe
+     measures  5 mm.  There are no pleural effusions.
+     
+     There is diffuse wall thickening in the proximal small bowel, with associated
+     stranding and small lymph nodes in the proximal mesentery.  Both the proximal
+     and distal small bowel is distended with fluid.  However, there is no wall
+     thickening in the distal small bowel, including the terminal ileum.  This
+     appearance is consistent with enteritis, which may be due to graft-vs-host
+     disease or infection.
+     
+     There is a 2 mm appendicolith within the appendix.  The appendix does not
+     contain any air.  It measures 8 mm in cross-section diameter at the level of
+     the appendicolith, but appears smaller distal to the stone. The cecal tip
+     appears mildly thickened. There is some periappendiceal stranding, which is
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     less advanced than the stranding in the proximal small bowel mesentery. There
+     is no periappendiceal free air or fluid collection. These findings are
+     equivocal regarding the presence of appendicitis. There may be mild typhlitis
+     at the cecal tip , consistent with graft-vs-host disease. Serial clinical
+     exams are suggested. If clinically indicated, repeat imaging of the appendix
+     may be helpful.
+     
+     The remainder of the ascending colon and the transverse colon are distended
+     with fluid, without wall thickening.  The descending and sigmoid colon are
+     collapsed. There is no free air or free fluid. In addition to the previously
+     described proximal mesenteric stranding and small mesenteric lymph nodes,
+     there is stranding and small lymph nodes in the para-aortic retroperitoneum.
+     The liver, gallbladder, spleen, pancreas, kidneys, adrenal glands and ureters
+     are unremarkable.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  Calcifications are seen within the
+     prostate gland.  The bladder, seminal vesicles and rectum are unremarkable.
+     There is no pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic lesions within the
+     visualized osseous structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of wall
+     thickening in the proximal small  bowel, with adjacent mesenteric stranding.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 8087**] at 11:40 pm on [**3036-3-29**].
+     
+     IMPRESSION:
+     
+     1)  Proximal enteritis, which may represent graft-vs-host disease or
+     infection.
+     
+     2)  Appendicolith.  The appearance of the appendix is equivocal for
+     appendicitis.  There may be mild typhlitis. Serial abdominal exams are
+     suggested. If clinically indicated, repeated imaging of the appendix may be
+     helpful.
+     
+     3) Subcentimeter peripheral nodular opacities at both lung bases, which are
+     nonspecific. Follow-up is suggested.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3036-3-29**] 10:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8086**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: eval for evidence of perforation, other pathology
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     
+     
+
+",,
+5072,,,,3036-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-30**] 8:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8088**]
+     Reason: eval for evidence of pna
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with leukemia s/p allo-BMT being re-admitted with cmv. 
+                                
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of pna
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 44-year-old male with leukocytosis status post bone marrow
+     transplant.  Rule out pneumonia.
+     
+     COMPARISON:  [**3036-3-9**].
+     
+     FINDINGS:  AP single view of the chest.  There is a left IJ central line with
+     the tip in the cavoatrial junction.  The heart is of normal size.  The
+     mediastinal and hilar contours are normal and unchanged.  The pulmonary
+     vascularity is normal.  The lung fields are clear.  There is no evidence of
+     pneumonia or pleural effusion.
+     
+     IMPRESSION:  There is no evidence of acute cardiopulmonary disease.
+     
+
+",,
+5072,,,,3036-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-3-31**] 11:13 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8089**]
+     Reason: r/o obstruction, perforation
+     Admitting Diagnosis: POST TRANSPLANT\NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with CMV colitis, distented abdomen, emesis after taking POs.
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, perforation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Abdominal distention and vomiting in patient with CMV colitis.
+     
+     Distribution of bowel gas is unremarkable. No evidence for intestinal
+     obstruction. No soft tissue masses or radiopaque calculi.
+     
+     IMPRESSION: No diagnostic abnormality.
+
+",,
+5072,,,,3036-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-4-19**] 7:18 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8090**]
+     Reason: r/o free air, perforation
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with AML s/p allo BMT, s/p CMV enteritis now w/ diarrhea , abd
+      pain. Please eval for obstruction, perf
+     REASON FOR THIS EXAMINATION:
+      r/o free air, perforation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  44 year old male with AML, status post BMT with diarrhea and
+     abdominal pain.
+     
+     FINDINGS:  Comparison is made to a prior study from [**3036-3-31**].
+     
+     Wall thickening is present within the descending colon as well as a loop of
+     bowel within the mid right abdomen.  No distended loops of loops of small
+     bowel are present to suggest obstruction.  There is no evidence of free air
+     and the osseous structures are unremarkable.  No suspicious soft-tissue
+     calcifications are identified.
+     
+     IMPRESSION:  Wall thickening that is most prominent within the descending
+     colon. No evidence of obstruction.
+
+",,
+5072,,,,3036-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-4-20**] 1:08 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 8091**]
+     Reason: arf, and hematuria
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with all day 54 allo bmt w diarrhea and acute renal failure w
+      minimal response to hydration.  Assess for obstruction, hydronephrosis. 
+     REASON FOR THIS EXAMINATION:
+      arf
+      and hematuria
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   ALL day 54 status post bone marrow transplant with diarrhea and
+     acute renal failure.  Minimal response to hydration.  Evalute for obstruction
+     or hydronephrosis.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Renal ultrasound.
+     
+     FINDINGS:  The right kidney measures 10.1 cm.  The left kidney measures 12.1
+     cm.  No stones, masses, or hydronephrosis are identified within either kidney.
+     A fluid and debris filled structure seen adjacent to the lower pole of the
+     right kidney is felt to represent a loop of bowel.
+     
+     IMPRESSION:  Normal renal ultrasound.  No evidence of hydronephrosis.
+
+",,
+5072,,,,3036-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-7-18**] 7:47 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8092**]
+     Reason: 45yo man with ALL with N/V diarrhea and abdominal pain
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL
+     REASON FOR THIS EXAMINATION:
+      45yo man with ALL with N/V diarrhea and abdominal pain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  History of ALL with nausea, vomiting and abdominal pain. 
+     
+     ABDOMEN, SUPINE AND ERECT:  There is minimal gas in the colon.  No gas
+     distended loops of small bowel or air fluid levels. No free intraperitoneal
+     gas.
+     
+     IMPRESSION: No definite plain film evidence for intestinal obstruction.  Loops
+     could be better evaluated by CT scan if clinically indicated. There is
+     probable splenomegaly.
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 3:40 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8093**]
+     Reason: Please evaluate for infectious etiology.                    
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with h/o ALL s/p transplant and chemo currently NEUTROPENIC 
+      with fevers, rigors, diarrhea along with back pain. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infectious etiology.                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY:   ALL with bone marrow transplant neutropenia, fevers and diarrhea.
+     
+     There is a relatively gasless abdomen as previously noted on the prior study.
+     No diagnostic abnormalities on this single supine film.
+     
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD paib, 
+      fever and rigors, no PO contrast
+     REASON FOR THIS EXAMINATION:
+      typhilitis, microperf                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     History:  45-year-old man with with ALL status-post bone marrow transplant;
+     now with acute abdominal pain, diarrhea, and fever.
+     
+     Technique:  Multiple axial images from the lung bases through the pubic
+     symphysis were obtained following the administration of 150 cc of Optiray.  No
+     oral contrast was used per ordering physician [**Name Initial (PRE) 5629**].
+     
+     Comparison:  Comparison was made to a prior study of [**3036-3-29**].
+     
+     CT of the Abdomen with IV contrast:  The lung bases are clear.  There are no
+     pleural effusions.  The previously seen nodules at the lung bases are not
+     visualized on the present exam.
+     
+     The liver, spleen, pancreas, gallbladder, adrenal glands, and kidneys are
+     unremarkable.
+     
+     The stomach and proximal small bowel loops are not dilated, but show mildly
+     edematous walls, and a modest amount of fluid is present in the stomach.
+     There is marked bowel wall thickening/edema of the mid and distal small bowel,
+     and of the entire colon. This has worsened and become much more extensive in
+     distribution in the interval since the prior study of [**3036-3-29**].These
+     findings are consistent with severe gastroenteritis and pancolitis. Causes
+     could include infectious (especially viral) agents as well as graft vs. host
+     disease.
+     
+     Again seen is an incidental appendicolith, unchanged from [**3036-3-29**].  There
+     is no free air or fluid in the abdomen.
+     
+     CT of the Pelvis with IV contrast:  There is a small amount of free fluid in 
+     the pelvis.  There is no free air in the pelvis.  The distal ureters, bladder,
+     are unremarkable.  No significantly enlarged inguinal or pelvic lymph nodes
+     are seen.
+     
+     Bone Windows:  No suspicious lytic or blastic lesions.
+     
+     Findings were communicated by telephone to Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 8096**] on [**3036-8-3**] at
+     approximately 5:45 PM.
+     
+                                                                 (Over)
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION
+     1.  Severe gastroenteritis and pancolitis. Causes could include infectious
+     (especially viral) agents as well as graft vs. host disease.
+      
+     2.  Small 2 mm incidental appendicolith in the appendix.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD paib, 
+      fever and rigors, no PO contrast
+     REASON FOR THIS EXAMINATION:
+      typhilitis, microperf                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     History:  45-year-old man with with ALL status-post bone marrow transplant;
+     now with acute abdominal pain, diarrhea, and fever.
+     
+     Technique:  Multiple axial images from the lung bases through the pubic
+     symphysis were obtained following the administration of 150 cc of Optiray.  No
+     oral contrast was used per ordering physician [**Name Initial (PRE) 5629**].
+     
+     Comparison:  Comparison was made to a prior study of [**3036-3-29**].
+     
+     CT of the Abdomen with IV contrast:  The lung bases are clear.  There are no
+     pleural effusions.  The previously seen nodules at the lung bases are not
+     visualized on the present exam.
+     
+     The liver, spleen, pancreas, gallbladder, adrenal glands, and kidneys are
+     unremarkable.
+     
+     The stomach and proximal small bowel loops are not dilated, but show mildly
+     edematous walls, and a modest amount of fluid is present in the stomach.
+     There is marked bowel wall thickening/edema of the mid and distal small bowel,
+     and of the entire colon. This has worsened and become much more extensive in
+     distribution in the interval since the prior study of [**3036-3-29**].These
+     findings are consistent with severe gastroenteritis and pancolitis. Causes
+     could include infectious (especially viral) agents as well as graft vs. host
+     disease.
+     
+     Again seen is an incidental appendicolith, unchanged from [**3036-3-29**].  There
+     is no free air or fluid in the abdomen.
+     
+     CT of the Pelvis with IV contrast:  There is a small amount of free fluid in 
+     the pelvis.  There is no free air in the pelvis.  The distal ureters, bladder,
+     are unremarkable.  No significantly enlarged inguinal or pelvic lymph nodes
+     are seen.
+     
+     Bone Windows:  No suspicious lytic or blastic lesions.
+     
+     Findings were communicated by telephone to Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 8096**] on [**3036-8-3**] at
+     approximately 5:45 PM.
+     
+                                                                 (Over)
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION
+     1.  Severe gastroenteritis and pancolitis. Causes could include infectious
+     (especially viral) agents as well as graft vs. host disease.
+      
+     2.  Small 2 mm incidental appendicolith in the appendix.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD paib, 
+      fever and rigors, no PO contrast
+     REASON FOR THIS EXAMINATION:
+      typhilitis, microperf                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     History:  45-year-old man with with ALL status-post bone marrow transplant;
+     now with acute abdominal pain, diarrhea, and fever.
+     
+     Technique:  Multiple axial images from the lung bases through the pubic
+     symphysis were obtained following the administration of 150 cc of Optiray.  No
+     oral contrast was used per ordering physician [**Name Initial (PRE) 5629**].
+     
+     Comparison:  Comparison was made to a prior study of [**3036-3-29**].
+     
+     CT of the Abdomen with IV contrast:  The lung bases are clear.  There are no
+     pleural effusions.  The previously seen nodules at the lung bases are not
+     visualized on the present exam.
+     
+     The liver, spleen, pancreas, gallbladder, adrenal glands, and kidneys are
+     unremarkable.
+     
+     The stomach and proximal small bowel loops are not dilated, but show mildly
+     edematous walls, and a modest amount of fluid is present in the stomach.
+     There is marked bowel wall thickening/edema of the mid and distal small bowel,
+     and of the entire colon. This has worsened and become much more extensive in
+     distribution in the interval since the prior study of [**3036-3-29**].These
+     findings are consistent with severe gastroenteritis and pancolitis. Causes
+     could include infectious (especially viral) agents as well as graft vs. host
+     disease.
+     
+     Again seen is an incidental appendicolith, unchanged from [**3036-3-29**].  There
+     is no free air or fluid in the abdomen.
+     
+     CT of the Pelvis with IV contrast:  There is a small amount of free fluid in 
+     the pelvis.  There is no free air in the pelvis.  The distal ureters, bladder,
+     are unremarkable.  No significantly enlarged inguinal or pelvic lymph nodes
+     are seen.
+     
+     Bone Windows:  No suspicious lytic or blastic lesions.
+     
+     Findings were communicated by telephone to Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 8096**] on [**3036-8-3**] at
+     approximately 5:45 PM.
+     
+                                                                 (Over)
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION
+     1.  Severe gastroenteritis and pancolitis. Causes could include infectious
+     (especially viral) agents as well as graft vs. host disease.
+      
+     2.  Small 2 mm incidental appendicolith in the appendix.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD paib, 
+      fever and rigors, no PO contrast
+     REASON FOR THIS EXAMINATION:
+      typhilitis, microperf                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     History:  45-year-old man with with ALL status-post bone marrow transplant;
+     now with acute abdominal pain, diarrhea, and fever.
+     
+     Technique:  Multiple axial images from the lung bases through the pubic
+     symphysis were obtained following the administration of 150 cc of Optiray.  No
+     oral contrast was used per ordering physician [**Name Initial (PRE) 5629**].
+     
+     Comparison:  Comparison was made to a prior study of [**3036-3-29**].
+     
+     CT of the Abdomen with IV contrast:  The lung bases are clear.  There are no
+     pleural effusions.  The previously seen nodules at the lung bases are not
+     visualized on the present exam.
+     
+     The liver, spleen, pancreas, gallbladder, adrenal glands, and kidneys are
+     unremarkable.
+     
+     The stomach and proximal small bowel loops are not dilated, but show mildly
+     edematous walls, and a modest amount of fluid is present in the stomach.
+     There is marked bowel wall thickening/edema of the mid and distal small bowel,
+     and of the entire colon. This has worsened and become much more extensive in
+     distribution in the interval since the prior study of [**3036-3-29**].These
+     findings are consistent with severe gastroenteritis and pancolitis. Causes
+     could include infectious (especially viral) agents as well as graft vs. host
+     disease.
+     
+     Again seen is an incidental appendicolith, unchanged from [**3036-3-29**].  There
+     is no free air or fluid in the abdomen.
+     
+     CT of the Pelvis with IV contrast:  There is a small amount of free fluid in 
+     the pelvis.  There is no free air in the pelvis.  The distal ureters, bladder,
+     are unremarkable.  No significantly enlarged inguinal or pelvic lymph nodes
+     are seen.
+     
+     Bone Windows:  No suspicious lytic or blastic lesions.
+     
+     Findings were communicated by telephone to Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 8096**] on [**3036-8-3**] at
+     approximately 5:45 PM.
+     
+                                                                 (Over)
+
+     DATE: [**3036-8-3**] 5:02 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8095**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: typhilitis, microperf                                       
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION
+     1.  Severe gastroenteritis and pancolitis. Causes could include infectious
+     (especially viral) agents as well as graft vs. host disease.
+      
+     2.  Small 2 mm incidental appendicolith in the appendix.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+5072,,,,3036-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-3**] 4:12 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8094**]
+     Reason: Please evaluate for perforation.                            
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old man with h/o ALL s/p transplant and chemo currently NEUTROPENIC  
+      with fevers, rigors, diarrhea along with back pain. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for perforation.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever, rigors, diarrhea, and back pain in patient with ALL.
+     
+     The abdomen is relatively gasless.  No diagnostic abnormalities in single
+     supine view.
+     
+
+",,
+5072,,,,3036-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-8**] 10:39 AM
+     CHEST FLUORO WITHOUT RADIOLOGIST                                Clip # [**Clip Number (Radiology) 8097**]
+     Reason: INSERTION OF VAD
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     A chest fluoro without radiologist present was performed in the operating
+     room. Insertion of a VAD. 1 minute of fluoro time was used. No images were
+     submitted.
+
+",,
+5072,,,,3036-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-8**] 10:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8098**]
+     Reason: s/p hickman   ?position???pneumo????, pt is in [**Hospital Ward Name **] pacu 
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with all
+     REASON FOR THIS EXAMINATION:
+      s/p hickman   ?position???pneumo????
+      pt is in [**Hospital Ward Name **] pacu   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 45 y/o man with line placement.
+     
+     TECHNIQUE: Portable AP chest radiograph.
+     
+     Comparison is made with the previous chest radiograph dated [**3036-3-30**].
+     
+     FINDINGS: The tip of the IV catheter is in right atrium. There is no
+     pneumothorax. The heart is normal in size. The vascularity in the right upper
+     lobe are slightly prominent. There is no pleural effusion. There is no
+     suspicious abnormalities in bony structures or in the upper abdomen.
+     
+     IMPRESSION: The tip of the IV catheter is in right atrium. Information is
+     discussed with referring person.
+
+",,
+5072,,,,3036-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD pain    
+       
+     REASON FOR THIS EXAMINATION:
+      perforation in setting of cmv colitis, sbo, cholecystitis, acute bleed with 
+      plts of 14K. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION: Abdominal pain.  CMV colitis.  History of ALL status post bone
+     marrow transplant with GI graft vs host disease and diarrhea.
+     
+     Comparison is made to the prior examination of [**3036-8-3**].
+     
+     TECHNIQUE: Contrast enhanced images of the abdomen and pelvis following the
+     administration of 150 cc of IV contrast were performed.  Images were
+     reconstructed in the sagittal and coronal planes.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used at the patient's request.
+     
+     CT ABDOMEN WITH CONTRAST:  The lung bases are clear.  There is a very small
+     amount of perihepatic free fluid, only slightly increased from previous exam.
+     The liver, gallbladder, pancreas, adrenal glands, and stomach are normal in
+     appearance.  The spleen is enlarged but otherwise unremarkable. There is no
+     free air.  Since the previous exam, there is marked improvement in the
+     appearance of the large bowel for which no significant bowel wall thickening
+     remains.  However, as noted on previous exam, there is diffuse bowel wall
+     thickening of the small bowel, mostly involving the proximal and mid bowel.
+     New since the prior exam is an ~ 1.5 cm peripheral hypodensity in the left
+     kidney at he medial midpole.  The right kidney is normal.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and distal ureters are normal. Prostate
+     and seminal vesicles are unremarkable.  There is a minimal amount of free
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     Note is made of edema in the subcutaneous soft tissues.
+     
+     CORONAL AND SAGITTAL RECONSTRUCTIONS: Images reconstructed in the sagittal and
+     coronal planes confirm thickening of the small bowel wall but marked improved
+     appearance of the large bowel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Marked improved appearance of the large bowel with near total resolution of
+     previously seen wall thickening.
+     
+     2) Persistent evidence of small bowel wall thickening, somewhat sparing the
+     distal small bowel.
+     
+     3) Small amount of perihepatic and pelvic free fluid.  The perhepatic fluid is
+     only slightly increased from previous exam.
+     
+     4) New 1.5 cm hypodensity in left kidney since exam of [**3036-8-3**] concerning for
+     infectious focus.  Clinical correlation is needed.
+     4) Subcutaneous soft tissue edema throughout the abdomen and pelvis.
+
+",,
+5072,,,,3036-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD pain    
+       
+     REASON FOR THIS EXAMINATION:
+      perforation in setting of cmv colitis, sbo, cholecystitis, acute bleed with 
+      plts of 14K. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION: Abdominal pain.  CMV colitis.  History of ALL status post bone
+     marrow transplant with GI graft vs host disease and diarrhea.
+     
+     Comparison is made to the prior examination of [**3036-8-3**].
+     
+     TECHNIQUE: Contrast enhanced images of the abdomen and pelvis following the
+     administration of 150 cc of IV contrast were performed.  Images were
+     reconstructed in the sagittal and coronal planes.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used at the patient's request.
+     
+     CT ABDOMEN WITH CONTRAST:  The lung bases are clear.  There is a very small
+     amount of perihepatic free fluid, only slightly increased from previous exam.
+     The liver, gallbladder, pancreas, adrenal glands, and stomach are normal in
+     appearance.  The spleen is enlarged but otherwise unremarkable. There is no
+     free air.  Since the previous exam, there is marked improvement in the
+     appearance of the large bowel for which no significant bowel wall thickening
+     remains.  However, as noted on previous exam, there is diffuse bowel wall
+     thickening of the small bowel, mostly involving the proximal and mid bowel.
+     New since the prior exam is an ~ 1.5 cm peripheral hypodensity in the left
+     kidney at he medial midpole.  The right kidney is normal.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and distal ureters are normal. Prostate
+     and seminal vesicles are unremarkable.  There is a minimal amount of free
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     Note is made of edema in the subcutaneous soft tissues.
+     
+     CORONAL AND SAGITTAL RECONSTRUCTIONS: Images reconstructed in the sagittal and
+     coronal planes confirm thickening of the small bowel wall but marked improved
+     appearance of the large bowel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Marked improved appearance of the large bowel with near total resolution of
+     previously seen wall thickening.
+     
+     2) Persistent evidence of small bowel wall thickening, somewhat sparing the
+     distal small bowel.
+     
+     3) Small amount of perihepatic and pelvic free fluid.  The perhepatic fluid is
+     only slightly increased from previous exam.
+     
+     4) New 1.5 cm hypodensity in left kidney since exam of [**3036-8-3**] concerning for
+     infectious focus.  Clinical correlation is needed.
+     4) Subcutaneous soft tissue edema throughout the abdomen and pelvis.
+
+",,
+5072,,,,3036-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD pain    
+       
+     REASON FOR THIS EXAMINATION:
+      perforation in setting of cmv colitis, sbo, cholecystitis, acute bleed with 
+      plts of 14K. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION: Abdominal pain.  CMV colitis.  History of ALL status post bone
+     marrow transplant with GI graft vs host disease and diarrhea.
+     
+     Comparison is made to the prior examination of [**3036-8-3**].
+     
+     TECHNIQUE: Contrast enhanced images of the abdomen and pelvis following the
+     administration of 150 cc of IV contrast were performed.  Images were
+     reconstructed in the sagittal and coronal planes.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used at the patient's request.
+     
+     CT ABDOMEN WITH CONTRAST:  The lung bases are clear.  There is a very small
+     amount of perihepatic free fluid, only slightly increased from previous exam.
+     The liver, gallbladder, pancreas, adrenal glands, and stomach are normal in
+     appearance.  The spleen is enlarged but otherwise unremarkable. There is no
+     free air.  Since the previous exam, there is marked improvement in the
+     appearance of the large bowel for which no significant bowel wall thickening
+     remains.  However, as noted on previous exam, there is diffuse bowel wall
+     thickening of the small bowel, mostly involving the proximal and mid bowel.
+     New since the prior exam is an ~ 1.5 cm peripheral hypodensity in the left
+     kidney at he medial midpole.  The right kidney is normal.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and distal ureters are normal. Prostate
+     and seminal vesicles are unremarkable.  There is a minimal amount of free
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     Note is made of edema in the subcutaneous soft tissues.
+     
+     CORONAL AND SAGITTAL RECONSTRUCTIONS: Images reconstructed in the sagittal and
+     coronal planes confirm thickening of the small bowel wall but marked improved
+     appearance of the large bowel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Marked improved appearance of the large bowel with near total resolution of
+     previously seen wall thickening.
+     
+     2) Persistent evidence of small bowel wall thickening, somewhat sparing the
+     distal small bowel.
+     
+     3) Small amount of perihepatic and pelvic free fluid.  The perhepatic fluid is
+     only slightly increased from previous exam.
+     
+     4) New 1.5 cm hypodensity in left kidney since exam of [**3036-8-3**] concerning for
+     infectious focus.  Clinical correlation is needed.
+     4) Subcutaneous soft tissue edema throughout the abdomen and pelvis.
+
+",,
+5072,,,,3036-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL s/p BMT , GI GVHD/diarrhea, now w/ acute ABD pain    
+       
+     REASON FOR THIS EXAMINATION:
+      perforation in setting of cmv colitis, sbo, cholecystitis, acute bleed with 
+      plts of 14K. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS
+     
+     INDICATION: Abdominal pain.  CMV colitis.  History of ALL status post bone
+     marrow transplant with GI graft vs host disease and diarrhea.
+     
+     Comparison is made to the prior examination of [**3036-8-3**].
+     
+     TECHNIQUE: Contrast enhanced images of the abdomen and pelvis following the
+     administration of 150 cc of IV contrast were performed.  Images were
+     reconstructed in the sagittal and coronal planes.
+     
+     IV CONTRAST: Nonionic IV Optiray contrast was used at the patient's request.
+     
+     CT ABDOMEN WITH CONTRAST:  The lung bases are clear.  There is a very small
+     amount of perihepatic free fluid, only slightly increased from previous exam.
+     The liver, gallbladder, pancreas, adrenal glands, and stomach are normal in
+     appearance.  The spleen is enlarged but otherwise unremarkable. There is no
+     free air.  Since the previous exam, there is marked improvement in the
+     appearance of the large bowel for which no significant bowel wall thickening
+     remains.  However, as noted on previous exam, there is diffuse bowel wall
+     thickening of the small bowel, mostly involving the proximal and mid bowel.
+     New since the prior exam is an ~ 1.5 cm peripheral hypodensity in the left
+     kidney at he medial midpole.  The right kidney is normal.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and distal ureters are normal. Prostate
+     and seminal vesicles are unremarkable.  There is a minimal amount of free
+     fluid.
+     
+     Bone windows demonstrate no suspicious lytic or blastic lesions.
+     
+     Note is made of edema in the subcutaneous soft tissues.
+     
+     CORONAL AND SAGITTAL RECONSTRUCTIONS: Images reconstructed in the sagittal and
+     coronal planes confirm thickening of the small bowel wall but marked improved
+     appearance of the large bowel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3036-8-18**] 10:52 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 8099**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: perforation in setting of cmv colitis, sbo, cholecystitis, a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     Field of view: 34 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Marked improved appearance of the large bowel with near total resolution of
+     previously seen wall thickening.
+     
+     2) Persistent evidence of small bowel wall thickening, somewhat sparing the
+     distal small bowel.
+     
+     3) Small amount of perihepatic and pelvic free fluid.  The perhepatic fluid is
+     only slightly increased from previous exam.
+     
+     4) New 1.5 cm hypodensity in left kidney since exam of [**3036-8-3**] concerning for
+     infectious focus.  Clinical correlation is needed.
+     4) Subcutaneous soft tissue edema throughout the abdomen and pelvis.
+
+",,
+5072,,,,3036-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-19**] 9:59 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 8100**]
+     Reason: 45yo man with ALL s/p alloSCT, GVHD and new abdominal pain a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ICD9 code from order: 204.0
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  The study was reviewed by Dr. [**Last Name (STitle) 647**] on [**3036-10-21**].  I completely
+     agree with the findings reported by Dr. [**Last Name (STitle) 4579**] reported [**3036-8-22**].
+     
+
+
+     DATE: [**3036-8-19**] 9:59 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 8100**]
+     Reason: 45yo man with ALL s/p alloSCT, GVHD and new abdominal pain a
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ICD9 code from order: 204.0
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL
+     REASON FOR THIS EXAMINATION:
+      45yo man with ALL s/p alloSCT, GVHD and new abdominal pain and increased
+      bilirubin. CT shows perihepatic fluid. Please evaluate liver with RUQ U/S.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  ALL with new abdominal pain and increased bilirubin.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  The liver is of normal echotexture without
+     evidence of focal lesions.  There is hepatopetal flow in the portal vein.  The
+     gallbladder is sludge filled.  The common duct is not dilated.  There is no
+     evidence of gallbladder wall edema.  A small amount of perihepatic fluid is
+     visualized.
+     
+     IMPRESSION:  Sludge-filled gallbladder.  No evidence of acute cholecystitis.
+
+",,
+5072,,,,3036-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-8-25**] 7:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8101**]
+     Reason: Please evaluate placement of Hickman catheter.              
+     Admitting Diagnosis: ACUTE MYELOGENOUS LEUKEMIA;NAUSEA;VOMITING;DIARRHEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old man with ALL and s/p Hickman which appears to be positionally 
+      occluded. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate placement of Hickman catheter.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Evaluation of placement of Hickman catheter.
+     
+     PORTABLE AP CHEST X RAY: Comparison made to study from [**3036-8-8**]. Again seen is
+     the Hickman catheter, entering the right subclavian vein, with the tip
+     positioned in the distal SVC. In comparison to the previous film, the tip has
+     been withdrawn by 3 cm. No opacities, pleural effusions, or pneumothoraces are
+     seen. Heart size, mediastinal contours are unchanged from the previous exam.
+     Pulmonary vasculature is normal. No osseous abnormalities noted.
+     
+     IMPRESSION: Right sided Hickman catheter, with the tip positioned in the
+     distal SVC. Results discussed with covering house officer.
+
+",,
+5072,1082,,,3036-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-8**] 10:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8102**]
+     Reason: r/o Pneumonia, CHF                                          
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL and CMV enteritis, fevers, hypotension.              
+     REASON FOR THIS EXAMINATION:
+      r/o Pneumonia, CHF                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of ALL and CMV enteritis, now with fevers. Evaluate for
+     pneumonia and CHF.
+     
+     PORTABLE AP CHEST X RAY: Comparison made to study from [**3036-8-25**]. A catheter
+     device is seen with the tip positioned in the distal SVC. A hazy opacity is
+     noted in the left middle lung zone, which is new in comparison to the previous
+     study. There is increased prominence of the pulmonary vasculature which is
+     likely secondary to low inspiratory lung volumes. No pleural effusions seen.
+     Heart size and mediastinal contours are relatively unchanged.
+     
+     IMPRESSION: No evidence of CHF. A hazy opacity is noted in the left middle
+     lung zone, which likely represents an infiltrate/pneumonia given the acuity of
+     its appearance.
+
+",,
+5072,1082,6301,0,3036-09-08 20:55:00 EST,3036-09-08 21:01:00 EST,6001,"N",69,"Nursing/Other",,"
+
+received this pt by ambulance stretcher at 2130, on dopamine 5 mcg/kg/min via tunneled line in rt subclavian area; pt arrived wearing a mask for neutropenic precautions (s/p BMT for leukemia); c/o severe soreness when he is moved due to bone pain, doesn't hurt when he is at rest; pt has fallen several times today, and has had diarrhea and vomiting, most recently at around 1500; pt also has weak congested cough although lungs are clear to auscultation; see flowsheet for objective data
+",,
+5072,1082,6301,,3036-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-9**] 11:43 AM
+     CHEST U.S. PORT                                                 Clip # [**Clip Number (Radiology) 8103**]
+     Reason: 45 YEAR OLD MAN WITH ALL S/P BMT WITH FEVER, HYPOTENSION AND SUSPECTED SEPSIS, ABSCESS OR HEMATOMA AT TUNNELED CATH SITE
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL s/p BMT with fever, hypotension and suspected sepsis   
+     REASON FOR THIS EXAMINATION:
+      abscess or hematoma at tunneled cath site                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45 year old male with ALL, status post bone marrow transplant with
+     fever, hypertension, suspected sepsis, assess for abscess or hematoma at
+     tunneled catheter site.
+     
+     ULTRASOUND EXAMINATION OF THE CHEST WALL:  This is a redictation.  The
+     original report got lost.  Ultrasound examination of the right chest wall was
+     performed at the catheter site.  There is no fluid collection in the area of
+     the catheter site.  The catheter itself is visualized.
+     
+     IMPRESSION:  No evidence for fluid collection at the catheter site.
+
+",,
+5072,1082,6301,,3036-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-9**] 1:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8104**]
+     Reason: Please check for proper IJ placement                        
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL and CMV enteritis, fevers, hypotension.                
+     REASON FOR THIS EXAMINATION:
+      Please check for proper IJ placement                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 45-year-old man with ALL and CMV enteritis, fever, ... ?
+     hypotension .., IJ placement.
+     
+     COMMENTS:  Portable AP radiograph of the chest is reviewed and compared with a
+     previous study of yesterday.
+     
+     The tip of the new left jugular IV catheter is identified with its tip in the
+     distal SVC.  No pneumothorax is seen.
+     
+     The lung volume is small.  There is continued mild pulmonary edema seen.  In
+     addition, there are increased patchy opacities in the left lung indicating
+     superimposed pneumonia.  The somewhat round appearance of the opacity in the
+     left upper lobe could indicate a fungal infection, if patient is neutropenic.
+     
+     The heart and mediastinum are within normal limits.  The Hickman catheter
+     remains in place.
+     
+     IMPRESSION:  Continued mild pulmonary edema.  Increased pneumonia in the left
+     lung, please see comment.  No pneumothorax.
+     
+
+",,
+5072,1082,6301,0,3036-09-09 05:16:00 EST,3036-09-09 05:27:00 EST,6001,"N",69,"Nursing/Other",,"
+
+neuro: continues fully oriented but somewhat irritable; moves all four extremities very weakly but purposefully due to bone pain
+
+cardiovascular: rhythm has been generally sinus tachy but with occasional runs of frequent pvc's; BP low but stable on levophed .04 mcg/kg/min; peripheral pulses easily palpable despite peripheral [**Last Name (un) 6695**]
+
+pulmonary: tachypneic all night but denies subjective distress; describes this is essentially his normal breathing pattern- well-saturated all night on 2 to 3 liters nasal o2; respiratory alkalosis on ABG; very weak congested cough noted but pt far too weak to give good sputum
+
+GU: condom cathetin place draining qs clear amber urine
+
+skin: very ecchymotic arms and very swollen legs; insertion site of Hickman catheter is very dry
+
+access: Hickman catheter in situ, apparently functioning well 
+
+labs: Hct low yesterday evening, transfusion of 2nd unit (of2) PRBC infusing
+
+status and plan: full code, neutropenic precautions, continue to transfuse as needed, continue supportive care
+
+",,
+5072,1082,6301,0,3036-09-09 17:19:00 EST,3036-09-09 17:37:00 EST,1427,"N",69,"Nursing/Other",,"
+
+Neuro: Pt is confused at times, thinking he is going home or getting oob etc. Declined pain medication throughout the day as he does not like the way it makes him feel. Did accept 4mg MSO4 IVP prior to surgeon d/c'ing port in RCW. 
+
+Resp: Pt is on 3L via NC and satting 100%. When he removes the O2 his sats drop into the 80's. Lungs are clear and there has been no sputum to send to lab this shift. 
+
+C/V: HR 111-146 and a fib vs sinus tach. NBP 60's to 80's. Levophed d/c'd as HR was rising, Neo hung at 0900 and now .25 mcg/kg/min, Vasopresin hung at 1200 and now .02 u/min. Goal is to keep MBP's >=60. Pt received 1 bag of platelets this AM and is due for another this evening when a port is free. Pt is receiving 4gm mag sulfate at this time for a magnesium of 1.5 this AM. 
+
+GU/GI: Pt has condom cath which leaks at times. HO does not want to insert a foley at this time. Urine is clear yellow and a spec was sent to the lab today for urine lytes. Abd is soft with +BS and med BM today. TPN was started this evening and blood sugars Q6hr with SS reg insulin has been ordered. Blood sugar at 1800 is 167 and pt will receive 2u reg insulin sc. 
+
+Access: Tunneled cath RCW removed this evening. A new quad lumen central line was placed in the left IJ and placement verified by X ray.
+
+Social: Wife in for a couple of hours today. She is anxious for pt to go back to the floor. She will be in again tomorrow. Pt is full code status but wife states that she does not believe pt would want to be intubated again. Pt also stated this AM that he did not want intubation. ABG drawn by HO this AM and was lost by lab. As pt does not have an A Line another ABG has not yet been drawn. 
+
+Plan: Titrate pressors to a MBP of 60. Monitor HR for a fib vs. sinus tachy. Monitor blood sugars and dose ins per ss. Monitor pt for incontinance and keep skin dry. Monitor old port site and new central line site for bleeding. Hang platelets when IV port becomes available after mag sulfate in. 
+",,
+5072,1082,6301,,3036-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-10**] 7:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8105**]
+     Reason: ?CHF.  This is a repeat request.                            
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old man with ALL and CMV enteritis, fevers, hypotension. now labored  
+      breathing with worsened breath sounds               
+     REASON FOR THIS EXAMINATION:
+      ?CHF.  This is a repeat request.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with acute lymphocytic leukemia, enteritis, fever.
+     
+     COMPARISON:  Comparison is made to the previous examination of a day earlier.
+     
+     CHEST, PORTABLE AP VIEW:  The left IJ lines remain in place.  The tip is in
+     the right atrium.  Since the previous study, there has been removal of the
+     right subclavian CVP line.  There is no evidence of pneumothorax.  There is
+     bilateral pleural effusions and bilateral pulmonary congestion at this time,
+     which is more pronounced than it was on the prior study.
+     
+     IMPRESSION
+     
+     1.  Worsening bilateral pulmonary vascular congestion associated with small
+         bilateral pleural effusions.
+     
+     2.  Interval removal of the right subclavian CVP line.
+     
+
+",,
+5072,1082,6301,0,3036-09-10 05:18:00 EST,3036-09-10 05:29:00 EST,909,"N",69,"Nursing/Other","MSICU NPN 1900-0700","
+MSICU NPN 1900-0700
+PT. 45 Y/O MALE W/HX. ALL - S/P ALLO BMT ON [**2-24**] COMPLICATED BY CNS RECURRENCE, RECENT ADMIT ON [**8-25**] FOR CMV ENTERITIS, MRSA BACTEREMIA, TX. W/GANCYCLOVIR, HIGH DOSE STEROIDS FOR ?GVHD. PRESENT INITIALLY TO [**Hospital3 8189**] HOSP. FOOLOWING DIARRHEA X24 HOURS, +VOMITING, LOSS OF BALANCE, EXTREME EXHAUSTION & BONE PAIN. MEDS. HAD BEEN RECENTLY CHANGED 2DAYS PRIOR TO ADMIT, WHERE HYPOTENSIVE TO 37/29, TACHYCARDIC TO THE 120'S, RR 2O'S AND O2SATS 95%. TO [**Hospital1 2**] PER PT. WISHES.  LABS ON ARRIVAL NOTABLE FOR HCT 21.7, PLT 35, WBC 3.4 - TX. W/5L FLUID, CEFIPIME, GANCYCLOVIR AND START ON DOPA. GTT.
+",,
+5072,1082,6301,0,3036-09-10 06:16:00 EST,3036-09-10 06:30:00 EST,909,"N",69,"Nursing/Other","MSICU - NPN - CONT. 1900-0700","
+MSICU - NPN - CONT. 1900-0700
+ROS:
+NEURO - PT. LETHARGIC - OX3. C/O POSITIONAL PAIN. TX. OVER/NOC W/ PRN MSO4 2MG EACH TIME W/GOOD EFFECT. 
+
+RESP - RECEIVED ON 4L NC W/O2SATS MID-HIGH 90S.  LS INITIALLY CTO.  EARLY AM @ 0500 PT. W/CONGESTED UPPER LS - NON-PROD. COUGH WITH WEAK COUGH EFFORT. PRECIPITOUSLY DROPPING SATS TO 64%.  RR UP TO 40'S. PLACED PT. ON 100%NRB, STIMULATED COUGH, GIVEN ROBITUSSIN AND MSO4 W/IMPROVE. SATS UP TO 90'S RR HIGH 20'S. WEANED TO HI-[**Last Name (un) **] NEB. .60% AND FEELING MUCH LESS LABORED. STIMULATED COUGH PRODUCED THIN, FORTHY SECRETIONS. TEAM NOTIFIED, GIVEN 20MG IV LASIX W/400CC INITIAL YIELD. CXRAY ALSO ORDERED - STILL AWAITING. 
+
+C/V - PT. IN AND OUT OF A-FIB. START ON DIG. OVER/NOC TX. X2 W/.25 DIG. HR MOST OF EVE. 90'S-ONE-TEENS.  WITH RESP. DECOMPENSATION HOEVER PT. BECOMING TACHY UP TO AS HIGH AS 160'S. TEAM AWARE. ?CARDIOVERSION IN PRIOR ADMIT - BUT PT. WIFE REFUSED.  PT. WILL NEED ECHO ?THROMBUS IN VENTRICLES;  ALSO W/PT. HX. BACTEREMIA ? ANY VALVULAR INVOLVEMENT. PT. RECEIVED ON NEO. GTT. @ .25MCG/KG/MIN AND VASOPRESSIN GTT.  NEO. WEANED TO OFF AND TOL WELL. VASOPRESSIN REMAINS ON .04U/MIN. GOAL MAP >/=60. NBP T/O SHIFT 90'S-ONE-TEENS/60'S-80'S.  ART. LINE PLACED THIS AM WITH SHARP WAVE FORM. PERIPHERAL PULSES PALPABLE. [**1-1**]+EDEMA TO EXTREM. START ON TPN YEST.
+
+ID - AFEBRILE OVER/NOC. CONT. TO TX. BACTEREMIA W/CEFIPIME AND VANC. WILL NEED VANC. TROUGH.  ALSO CONT. ON GANCYLOVIR FOR CMV AND HIGH DOSE STEROIDS FOR ?GVHD.
+
+ENDO - START ON QID RISS. TX. OVER/NOC FSBG 22O'S PER SS.
+
+HEME - PT. PANCYCTOPENIC. PLT. THIS AM 33. WILL MOST LIKELY NEED TRANSFUSION PLT. NO SIGNS ACTIVE BLEEDING.
+
+GI/GU - TOL. SIPS AND PO PILLS W/HOB ELEVATED. ABD. SOFT, ND W+BS. NO STOOL OVER/NOC. CONDOM CATH. IN PLACE - NO FOLEY AS PANCYTOPENIC  - ADEQUATE U/O OVER/NOC CLEAR, YELLOW.
+
+ACCESS - LIJ QUAD LUMEN IN PLACE - PATENT, SITE WNL.  NEWLY PLACED (R)RADIAL A-LINE W/SHARP WAVE FORM SITE WNL.
+
+SOCIAL - PT. MARRIED W/3 CHILDREN. NO CONTACT FROM FAMILY OVER/NOC.
+",,
+5072,1082,6301,0,3036-09-10 17:55:00 EST,3036-09-10 18:07:00 EST,228,"N",69,"Nursing/Other","PMICU NURSING PROGRESS NOTE","
+PMICU NURSING PROGRESS NOTE
+RESP:  PRESENTLY ON 60% HIGH FLOW WITH O2 SATS OF 96-100% AND A RESP RATE OF 22-28.  ON ROOM AIR PT'S SATS DROP TO 94%.  LUNG SOUNDS SHALLOW,WITH CRACKLES AND DEMINISHED AT THE BASES.  INTERMITTENT PRODUCTIVE COUGH OF THICK YELLOW SPUTUM, WHICH WAS SENT FOR CULTURE AND GRAM STAIN.  USING A YANKAUR SUCTION CATHETER TO OBTAIN ORAL SPUTUM PLUGS.
+
+CARDIAC:  BP 106-116/69-81 WITH A PULSE OF 89-148, FLIPPING IN AND OUT OF NRS AND AFIB.  RECEIVED .125MG OF DIG PO.  CVP OF 6-7 (GOAL IS TO HAVE CVP AROUND [**10-11**]).  PT RECEIVED A UNIT OF PACKED CELLS FOR VOLUMN.  VASOPRESSIN DRIP IS INFUSING AT .04U/MIN.  CONTINUES OFF THE NEO DRIP.  FEET SWOLLEN, BUT WARM TO TOUCH---WEAK PEDAL PULSES.  
+PT HAS RECEIVED 2MGS OF MORPHINE X2 FOR PAIN WHEN TURNING PT.
+
+ID:  CONTACT AND NEUTROPENIC PRECAUTIONS MAINTAINED.  SPUTUM SENT FOR CULTURE.  WBC WAS 1.9.  RECEIVING VANCO, CEFEPIME AND GANCYCLOVIR.  CATH TIP SENT ON [**9-9**] HAS GRAM POSITIVE BACTEREMIA AND 4 OUT OF 4 CULTURE BOTTLES GREW OUT MRSA.   
+
+GI: NPO.  ABDOMIN SOFT, WITH HYPOACTIVE BOWEL SOUNDS.  PASSED A SMALL LOOSE BROWN, OB NEG, STOOL.  TPN INFUSING AT 62.5CC/HR. TRIGLYCERIDES 319.  
+
+GU:  CONDOM CATH REPLACED, AS THE OTHER HAD FALLEN OFF. URINE OUTPUT FOR SHIFT > THEN 700.  BUN 37 AND CREAT 1.1.  
+
+HEME:  HCT 26.1--REC'D 1UPRBC .  PLTS 33.
+
+",,
+5072,1082,6301,,3036-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-11**] 11:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8106**]
+     Reason: Evaluate for worsening infiltrate                           
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL and CMV enteritis, fevers, hypotension. Worsened 
+      breath sounds.               
+     REASON FOR THIS EXAMINATION:
+      Evaluate for worsening infiltrate                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:   45 y/o with ALL and CMV, enteritis, fever and hypertension.
+     Worsened breath sounds.
+     
+     Comparison is made to a previous study of [**3036-9-10**].  The left IJ line remains
+     in place, the tip is in the distal superior vena cava.  Dense patchy
+     infiltration in the right upper lobe appears to be more pronounced at this
+     time than on the prior study.  There is also partial atelectasis involving the
+     right lower lobe which has worsened since the prior study.  An associated
+     right pleural effusion is suspected.  Areas of patchy infiltration in the left
+     upper lobe are also noted.  There is segmental atelectasis involving the left
+     lower lobe.  There is some left pleural effusion .
+     
+     IMPRESSION:
+     
+     There has been worsening in overall appearance of the chest with progression
+     of areas of patchy infiltration in the right upper lobe and left upper lobe
+     and worsening bilateral pleural effusion and right lower lobe partial
+     atelectasis.
+     
+     
+     
+
+",,
+5072,1082,6301,0,3036-09-11 02:40:00 EST,3036-09-11 02:54:00 EST,909,"N",69,"Nursing/Other","MSICU - NPN - 1900-0700","
+MSICU - NPN - 1900-0700
+NO SIGNIF. OVER/NOC EVENTS.
+
+NEURO - PT. LETHARGIC OX3. +MAE, THOUGH VERY MINIMAL AS PAINFUL TO MOVE. TX. T/O SHIFT W/PRN MSO4 FOR BODY PAIN.  ALSO X1 2MG ATIVAN FOR [**Doctor Last Name **] W/GOOD EFFECT.
+
+RESP - PLACED ON 4L NC OVER/NOC AND DOING WELL.  O2SATS 94-99% - DOES DROP TO 91-93 WHEN SELF REMOVES NC. LS CLEAR (OCCAS. COARSE)UPPER W/CRACKLES NOTED TO BILAT. BASES. PT. W/WEAK, PROD. COUGH (THICK, YELLOW) - USING YANKAUER INDEPENDENTLY. DENIES SOB.  ABG LAST @ 2300 7.43/31/93/21/-2.
+
+C/V - CONT. TO BE IN/OUT OF A-FIB - START YEST. ON DIG. HR 90'S-130'S, W/NO ECTOPY NOTED. REMAINED ON VASOPRESSIN T/O SHIFT - PLANNED DC THIS AM @ 1100 PER TEAM.  ABP STABLE T/O SHIFT 100'S130'S/60'S-80'S. CVP 7-11 (GOAL [**10-11**]) DID RECEIVED X1 500CC NS FLUID BOLUS WHEN CVP 7 WITH IMPROVE TO 11 POST FLUID BOLUS. PERIPHERAL PULSES PALPABLE. [**1-1**]+PERIPHERAL EDEMA. AWAITING ECHO ?VALVULAR INVOLVEMENT IN LIEU OF BACTEREMIA. DENIES CP.
+
+FEN - NO IVF MAINTENACE. NO LTYE REPLETION OVER/NOC. REMAINS ON TPN.
+
+ID - AFEBRILE. CONT. ON VANC. AND CEFIPIME FOR MRSA BACTEREMIA. [**4-3**] +BLD. CX. AND HICKMAN CATH. TIP +.  ALSO CONT. ON VANCONAZOLE, GANCYCLOVIR FOR CMV ENTERITIS AND HIGH DOSE STEROIDS ?GVHD. OLD HICKMAN SITE ERYTHEMATOUS AND TENDER TO PALPATE. 
+
+ENDO - ON QID RISS - TX. OVER/NOC FOR FSBG 160 PER SS.
+
+GI/GU - TOL. SIPS H2O OVER/NOC. ABD. SOFT, NTND W+BS. NO STOOL THIS SHIFT. CONDOM CATH. IN PLACE ; PATENT AND DRAINING ADEQUATE AMTS. CLEAR, YELLOW URINE.
+
+ACCESS - (R)RADIAL A-LINE IN PLACE; PATENT W/SHARP WAVE FORM, SITE WNL. LIJ IN PLACE AS WELL - PATENT, SITE WNL.
+
+SOCIAL - NO CONTACT FROM FAMILY OVER/NOC. 
+",,
+5072,1082,6301,0,3036-09-11 18:22:00 EST,3036-09-11 18:36:00 EST,228,"N",69,"Nursing/Other","pt micu progress note","
+pt micu progress note
+cardiac:  bp 114-135/70-82 p-84-166 nrs/st/afib, with no pvcs noted. vasopressin dc'd.  rec'd a total of 120 meq of kcl today.  pt rec'd lopressor iv by dr. [**Last Name (STitle) **] for elevated heart rate to 160 and was given 12.5mg lopressor po. 
+
+resp:  resp rate 24-28 with o2 sats of 91-100%.  room air sats 92-93%,  cxr--looked worse, ?? ""pneumonia picture"".  changed nasal prongs to 40% cool high flow.  cough is very weak and intermittently productive of thick yellow sputum.  lung sounds bronchial in the bases and coarse in the upper lobes.  pt tolerated cpt (premed with 4mg of mso4) and also used the incentive spironmeter--tv of 250cc.  
+
+id:  neutropenic and contact precautions.  temp 98.4 ax, 97.6 ax, and 97.3 ax.  continues on antibiotics of vanco, cefepime, voriconazole.  
+
+gi:  abdomin soft, + bowel sounds.  no stool passed today.  tpn infusing at 62.5cc/hr.  
+
+gu:  condom cath in place--1600 cc output for the shift.  bun 39 and creat .9.  
+
+heme:  to receive 1uprbc tonight.  plts 12.  
+
+endo:  fs 145 and 136---no reg insulin.  
+",,
+5072,1082,6301,,3036-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-12**] 6:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8107**]
+     Reason: Evaluate for infiltrate                                     
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old man with ALL and CMV enteritis, fevers, hypotension. Worsened  
+      breath sounds.               
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 45 y/o man with ALL and CMV enteritis, with fevers, hypotension,
+     and worsened breath sounds.
+     
+     CHEST, PORTABLE AP: Comparison is made to prior study from [**3036-9-11**].
+     There is a left internal jugular central venous line with tip at the superior
+     vena cava/right atrial junction. This is unchanged in position. The
+     cardiomediastinal silhouette is within normal limits. Multifocal bilateral
+     parenchymal opacities are present and have worsened in the left upper lobe.
+     The lung volumes are low.
+     
+     IMPRESSION: Worsened multifocal opacities consistent with worsened pneumonia.
+     Given the patient's history of ALL, an atypical infection can be considered.
+
+",,
+5072,1082,6301,0,3036-09-12 04:09:00 EST,3036-09-12 04:23:00 EST,909,"N",69,"Nursing/Other","MSICU - NPN - 1900-0700","
+MSICU - NPN - 1900-0700
+NEURO - PT. LETHARGIC OX3. +MAE, THOUGH VERY MINIMAL AS PT. WITH SIGNIF. PAIN WITH POSITIONING AS WELL AS PAIN TO SLIGHT TOUCH. TX. OVER/NOC WITH PRN MSO4. 
+
+RESP - OVER/NOC PT. PLACED ON SIMPLE FACE MASK FOR PT. COMFORT AS THE MIST FROM HI-[**Last Name (un) **] NEB. MADE HIM TOO COLD.  RR TEENS>30'S, O2SATS 91-97% DEC. WHEN MASK OFF. LS COARSE UPPER W/ BILAT. DIMIN. BASES. PT. WEAK, OCCAS. PROD. COUGH. CXRAY YEST. W/WORSEING FAILURE AND ?PNA. IS AT BEDSIDE - DENIES SOB. ABG THIS AM 7.45/30/76/21/-1.
+
+C/V - OVER/NOC PT. IN/OUT A-FIB. HR 80'S AND AS HIGH AS 160'S.  TX. W/X1 12.5 MG PO LOPRESSOR WITH GOOD EFFECT. ABP 130'S-160'S/60'S-80'S. DENIES CP. PERIPHERAL PULSES PALPABLE. CVP 7-8. 
+
+HEME - PT. TRANSFUSED 1U PLT AND 1U PRBCS @ START OF SHIFT.  POST PLT COUNT 38. 0400 PT. COUGHING UP BLD. AND THEN W/+ EPISTAXIS - REQUIRING PRESSURE AS BLEEDING WOULD NOT STOP.  TRANSFUSED 1 MORE U PLT AND POST PLT COUNT PENDING.  EPISTAXIS RESOLVED W/PLT TRANSFUSION AND HAS HAD NO FURTHER BLEEDING.
+
+ID - TMAX 99.2 OVER/NOC. CONT. ON VANC, CEFIPIME, VORICONAZOLE, GANGCYCLOVIR, & HIGH DOSE STEROIDS.
+
+ENDO - ON QID RISS - TX. OVER/NOC FSBG 157 W/2U REG. INSULIN PER SS.
+
+GI/GU - TOL SIPS CLEARS AND PO PILLS. ABD. SOFT, NTND W+BS. NO STOOL OVER/NOC. CONDOM CATH. IN PLACE - PRESENTLY PATENT - CHANGED X3 OVER/NOC FOR LEAKING.  GOOD AMTS. CLEAR, YELLOW, URINE OUT OVER/NOC.
+
+ACCESS - (R)RADIAL A-LINE IN PLACE- PATENT, W/SHARP WAVE FORM SITE WNL.  LIJ MULTI-LUMEN IN PLACE; PATENT, SITE WNL.
+
+SOCIAL - NO CONTACT FROM FAMILY OVER/NOC.
+",,
+5072,1082,6301,0,3036-09-12 05:26:00 EST,3036-09-12 05:32:00 EST,909,"N",69,"Nursing/Other","MICU - ADDENDUM - 0600","
+MICU - ADDENDUM - 0600
+PT. @ 0515 BEGAN COUGHING UP LG. AMTS. BLOOD W/CLOTS W/+EPISTAXIS.  PRESSURE HELD TO NOSE - AFRIN TO BOTH NARES W/HALT IN BLEEDING - TRANSFUSED 1BAG PLT AND 1U PRBCS. WILL NEED TO OBTAIN POST PLT AND HCT COUNT.  PT. ALSO DROPPING STAS DURING BLEEDING EPISODE (MASK ON/OFF IN EFFORT TO HOLD PRESSURE ON NOSE) REFLECTIVE ABG 7.43/33/46 - PT. PLACED ON NRB W/SATS IMPROVED FROM 83 TO 98% - CXRAY OBTAINED AND RESULTS ARE PENDING.  
+
+PT. K+ 3.2 AND MG. 1.9 - RECEIVING 15MMOL KPHOS OVER 6HOURS - UP @ 0600.
+",,
+5072,1082,6301,0,3036-09-12 17:47:00 EST,3036-09-12 18:00:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+resp: this morning pt had a nose bleed from left nares---applied pressure and the bleed resolved, then placed afrin. resp rate more labored than yesterday--prolonged expiratory phase. the nrb was changed to 50% cool neb, but throughout the day there has been a need to increase oxygen. 80% cool ""shovel"" mask with o2 sats of 93-96% and resp rate of 24-36.  intermittent productive cough of thick bloody clots--??whether from back of throat from nose bleed. cxr appears worse, and questioning effusions.  lung sounds deminished on the left, with crackles on the right. when anxious pt will have some expiratory wheezing. pt persists and removing mask and o2 sats on room air are 87-88%.
+
+cardiac:  bp 139-155/82-95 with a pulse of 89-102 sr.  pt had been in nsr until 6p when he removed his mask and sats dropped---he then went into afib.  rec'd k+ phos.  given 20mg lasix with a great response--bed incontinent x2.
+
+id:  afebrile.  temp 98.4 ax.  continues on vanco, cefepime and voriconazole.  wbc was 1.9--contact and neutropenic precautions maintained.
+
+gi:  tpn infusing at 62.5cc/hr.  abdomin soft, with positive bowel sounds.  no stool.
+
+gu:  condom cath newly replaced.  bun 41 and creat .9.  great response to lasix
+
+heme:  post hct was 27.3 and plts 55.
+
+skin:  area where hickman removed warm and more erythematous today.  feet swollen, but warm to touch.
+
+mental status:  pt more confused today.  pulling mask off.   and confrontational.
+
+endo:  no reg insulin given today.
+",,
+5072,1082,6301,,3036-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-13**] 7:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8108**]
+     Reason: Please evaluate for CHF                                     
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL and CMV enteritis, fevers, hypotension. Worsened 
+      breath sounds.               
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for CHF                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, CMV enteritis, worsened breath sounds.
+     
+     FINDINGS:  A single portable AP view of the chest shows patchy
+     consolidation/collapse of bilateral upper lobes and bilateral lower lobes.
+     Since the examination of [**3036-9-12**], there appears to be an increase
+     in the amount of upper lobe collapse.  There is slight cardiomegaly, but
+     diffuse patchy infiltrates obscure precise evaluation of the degree of cardiac
+     failure.  The left-sided central venous line remains in good position.
+     
+     IMPRESSION:  Interval increase in upper lobe infiltrates.
+     
+
+",,
+5072,1082,6301,0,3036-09-13 02:12:00 EST,3036-09-13 02:50:00 EST,909,"N",69,"Nursing/Other","MICU- NPN - 1900-0700","
+MICU- NPN - 1900-0700
+PT 45 Y/O MALE W/ HX. ALL - S/P BMT ON [**2-24**] COMPLICATED BY CNS RECURRENCE; RECENT ADMIT ON [**8-25**] FOR CMV ENTERITIS & TX. WITH HIGH DOSE STEROIDS FOR ?GVHD.  ADMIT [**9-8**] WITH MRSA SEPSIS FROM HICKMAN CATH (LINE DC'D)- REQUIRING PRESSORS (OFF ALL PRESSORS SINCE [**9-11**] - W/ABP STABLE). REMAINS IN ICU W/TENUOUS RESP. STATUS (+INFILTRATES, +PNA, + FLUID OVERLOAD AS PT. W/CHF AND IN/OUT OF A-FIB (PT. W/CONT. O2 REQUIREMENTS, START ON BETA BLOCKER FOR A-FIB AND CAPTOPRIL (ECHO W/GLOBAL HYPOKINESIS AND LOW EF)AND PRN DIURESIS. ALSO W/NEUTROPENIA - W+EPISTAXIS X3 YEST. - TX. W/PLT AND PRBCS (GOAL PLT COUNT>50 AND GOAL HCT>25):NO EPISODES BLEEDING OVER/NOC. 
+
+NO SIGNIF. OVER/NOC EVENTS.
+
+NEURO - PT. LETHARGIC OX2. +MAE - THOUGH VERY MINIMAL AS PT. WITH SIGNIF. AMT. PAIN TO TOUCH AND MOVEMENT.TX. OVER/NOC W/4MG MSO4 PER PRN W/EFFECT.
+
+RESP - PT. ON COOL NEB FACE TENT T/O SHIFT .80%. RR HIGH 20'S-30'S. O2SATS. 92-100% DEC. WHEN PT. REMOVING MASK. LS W/SCATTERED RHONCHI AND BILAT. DIMIN. BASES. WEAK NON-PROD. COUGH OVER/NOC. PLAN FOR CHEST CT WHEN PT. MORE STABLE. 
+
+C/V - IN/OUT A-FIB OVER/NOC. HR 70'S140'S, W/RARE>OCCAS. PVCS NOTED. X2 40MG IV LASIX OVER/NOC W/GOOD YIELD.  EVE. K+ 2.9 TX. W/80MEQ KCL. LOPRESSOR INC. TO 37.5MG TID.  ALSO AS ABOVE PT. START ON CAPTOPRIL OVER/NOC 25 MG. TID.  ABP 120'S-150'S/80'S-90'S THIS SHIFT.  PERIPHERAL PULSES PALPABLE. DENIES CP. CVP 4-5.
+
+ID - AFEBRILE.  REMAINS ON VANC., CEFIPIME, VORICONAZOLE, GANCYCLOVIR FOR MRSA BACTEREMIA, CMV ENTERITIS AND PNA.  HIGH DOSE STEROIDS FOR GVHD.
+
+HEME - NO BLD. PRODUCTS OVER/NOC. - NO EPISODES BLEEDING. PLT COUNT YEST. LATE AFTERNOON @ 55. GOAL PLT >50 AND GOAL HCT >25.
+
+ENDO - ON QID RISS - NO COVERAGE NEEDED OVER/NOC FOR FSBG 147.
+
+GI/GU - TOL. SIPS H2O AND PO PILLS.  ABD. SOFT, ND W/+BS. NO STOOL THIS SHIFT. ?BOWEL REGIME AS NEUTROPENIC. PLACED FIB OVER PENIS LAST NIGHT AS URINE COLLECTION BAG AS CONDOM CATH REPLACED 7-8 TIMES IN 24 HOUR PERIOD - PATENT, AND DRAINING LG. AMTS. CLEAR, YELLOW URINE.
+
+ACCESS - R-RADIAL A-LINE IN PLACE - PATENT W/SHARP WAVE FORM, SITE WNL.  LIJ MULTI-LUMEN IN PLACE - PATENT, SITE WNL.
+
+SOCIAL - NO CONTACT FROM FAMILY OVER/NOC.
+
+
+
+",,
+5072,1082,6301,0,3036-09-13 16:10:00 EST,3036-09-13 16:28:00 EST,188,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900","
+NURSING PROGRESS NOTE 0700-1900
+CARDIAC--REMAINED IN A-FIB UNCONTROLLED WITH BURSTS TO 170. SBP 140-150,HOWEVER PT'S BREATHING WAS LABORED,SAO2 90-92%. BOLUSED WITH 150MG IV AMIODARONE AND PLACED ON GTT OF 1MG/MIN. CONVERTED TO NSR ~20 MIN AFTER START ON CON'T INFUSION AND HAS BEEN IN NSR SINCE WITH RATE 80'S. NO VEA OBSERVED. SAO2 >97% NOW THAT HE IS IN NSR. PT ALSO DIURESED WITH 40MG IV LASIX WITH GOOD RESPONSE.
+
+RESP--LUNGS WITH BILATERAL RHONCHI IN UPPER LOBES, CRACKLES AND DIMINISHED IN BASES BILATERALLY. SAO2 ON 100% FACE TENT 100%. ON R/A AT PRESENT, SAO2 98%. SPUTUM INDUCED BY RESP FOR SEVERAL TESTS.
+
+GI--TOL SIPS OF WATER. REMAINS ON TPN. NO STOOL AT PRESENT. ORAL CAVITY WITH DRY MUCOUS MEMBRANES.
+
+GU--PT HAS MAKE SHIFT CONDOM CATH ON WHICH IS INTACT DRAINING LGR AMTS OF CLEAR URINE.>4L SINCE MN.
+
+ENDO--BS 174. COVERED WITH SSRI.
+
+NEURO--CONFUSED AND DISORIENTED AT TIMES. DELAYED RESPONSE TO SIMPLE QUESTIONS.MAE SPONT AND TO COMMAND. CONFUSED ABOUT PLACE, YEAR, PRESIDENT. WHEN ASKED IF HE WAS IN PAIN, PT STARTED RAMBLING NUMBERS BUT COULD NOT IDENTIFY ANSWERS. WHEN ASKED IF PT WANTED TO BE PLACED ON A RESP IF HIS LUNGS COULD NOT MEET THE DEMANDS OF HIS BODY, HE REPLIED ""NO"". PER PT'S WIFE [**Name (NI) **], SHE STATES THAT HE WOULD NOT WANT TO BE ON A VENT FOR AN UNDISCLOSED TIME.
+
+SKIN--BUTTOCKS WITHOUT BREAKDOWN. LIPS ARE WITH SCABS AND OLD ULCERS WHICH PT PICKS AT. PT HAS HAD BILATERAL WRIST RESTRAINTS ON AS HE PULLS O2 MASK OFF AND PICKS AT HIS CENTRAL LINE.
+
+ID--FEBRILE TO 100.0 AX. REMAINS ON NUMEROUS ABX. STARTED ON AMBISONE.
+
+PAIN--WHEN ASKED IF PT IS IN PAIN, HE RESPONDS NO . WHEN PT IS TURNED HE MOANS AND YELLS OUT THAT IT IS PAINFUL. MEDICATED X2 WITH 4MG IV MSO4 FOR SOME RELIEF .
+
+COPING--WIFE IS OUTWARDLY UPSET ABOUT PT'S DETERIORATING CONDITION.SHE HAS SPOKEN TO ICU ATTENDING REGARDING INTUBATION BUT WOULD LIKE TO SPEAK WITH DR [**First Name (STitle) **] REGARDING THIS. DR [**First Name (STitle) **] HAS BEEN PAGED SEVERAL TIMES TODAY BUT AT THIS WRITING, HE HAS NOT BEEN DOWN TO SEE PT OR WIFE. PT DOES NOT INITIATE CONVERSATION BUT WILL ANSWER SIMPLE QUESTIONS WITH A WORD OR 2.
+
+A--RESP STATUS IMPROVED WITH CONVERSION TO NSR.
+
+P--CON'T TO MONITOR. CHECK AND REPLETE LABS. OFFER SUPPORT TO PT AND WIFE,MEDICATE FOR PAIN ASSESS RELIEF. 1830 AMIODARONE GTT TO BE DECREASED TO .5MG/MIN.
+",,
+5072,1082,6301,0,3036-09-13 18:08:00 EST,3036-09-13 18:10:00 EST,188,"N",69,"Nursing/Other","ADDENDUM TO NOTE","
+ADDENDUM TO NOTE
+DR. [**First Name (STitle) **] IN TO SEE WIFE AND PT. PT WAS SLEEPING AND WAS NOT AWAKENED. HE DID SPEAK WITH WIFE.
+
+K+ 3.3. SLIDING SCALE KCL IN EFFECT.
+",,
+5072,1082,6301,,3036-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-14**] 7:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8109**]
+     Reason: Evaluate for infiltrate                                     
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL and CMV enteritis, fevers, hypotension. Worsened 
+      breath sounds.               
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  45 y/o male with ALL, CMV enteritis, fever. 
+     
+     PORTABLE AP CHEST:  Comparison is made to the prior study from [**3036-9-13**].
+     
+     FINDINGS: The heart is mildly enlarged in size.
+     
+     Again note is made of bilateral parenchymal infiltration, more prominent in
+     bilateral upper lobes, as well as left lower lobe which is slightly increased
+     in extent compared to the previous study. Bilateral pleural effusions layering
+     to the apex is again noted.
+     
+     The tip of the left IJ line is unchanged compared with the previous study.
+     
+     Again note is made of bilateral lung base atelectasis.
+     
+     IMPRESSION: Increased bilateral parenchymal infiltration in bilateral upper
+     lobes, with persistent pleural effusion and lower lobe atelectasis.
+
+",,
+5072,1082,6301,,3036-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-14**] 3:53 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8110**]
+     Reason: HX:ALL, MRSA LINE SEPSIS,  EVAL HEMORRHAGE/MASS EFFECT
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with ALL admitted for MRSA line sepsis no not responding 
+      verbally
+     REASON FOR THIS EXAMINATION:
+      acute hemmorhage or mass effect                                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF and creat 1.8
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: History of ALL admitted for MRSA line sepsis, now not responding
+     verbally, rule out acute hemorrhage or mass effect.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     COMPARISONS: Head CT of [**3036-3-2**].
+     
+     FINDINGS: There are moderately sized bilateral low-density fluid collections
+     most likely consistent with chronic subdural hematomas, which were not present
+     on most recent comparison study of [**3036-3-2**]. There is symmetric local
+     mass effect, with no evidence of midline shift. There is no evidence of more
+     acute intracranial bleed. There are no intracranial mass lesions,
+     hydrocephalus, or minor or major vasular territorial infarct. The surrounding
+     soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION: New bilateral low-attenuation fluid collections likely consistent
+     with chronic subdural hematomas, which were not present on the previous CT
+     examination of [**3036-3-2**]. No evidence of more acute intracranial bleed.
+     Symmetric mass effect with no evidence of midline shift. The results of this
+     CT scan were verbalized by telephone to Dr. [**First Name8 (NamePattern2) 2171**] [**Last Name (NamePattern1) **] on [**3036-9-14**], at approximately 5:30 PM.
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: In the setting of infection, these collections
+     may represent subdural effusions, which may be associated with meningitis.
+     This possibility was discussed with Dr. [**Last Name (STitle) **] at 11:10 am on [**3036-9-15**].
+     
+     
+     
+
+",,
+5072,1082,6301,0,3036-09-14 04:03:00 EST,3036-09-14 04:23:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+Neuro- No significant change in ms. [**Name13 (STitle) **] will not initiate conversation. Very slow to respond. Denies pain although will yell out when being turned.
+Cardiac- Remains in nsr with hr 67-81 on amiodarone at .5mg. Cont on lopressor/captopril/hydralize with stable bp and good uo. Given total 80meq kcl for k 3.3 with repeat k pending.
+Resp- On ra thoughout night with sats 96-97%. Cont with intermittent non-poductive cough.
+Gi/endo- Taking sm sips of water but with some difficulty. Takes a very long time. Cont on tpn and s/s insulin. Insulin scale increased for fs 250.
+Id- Remains afebrile. Changes in antibiotics made per ID. Vanco d/c'd for trough level 61.3.
+
+",,
+5072,1082,6301,0,3036-09-14 17:27:00 EST,3036-09-14 17:40:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+please see flowsheet for durther details..
+
+
+Lethargic. Responds to voice. Inconsistently follows commands. Non verbal. Pt's wife says he indicated he couldn't talk. Head Ct scan showed old subdural hematoma which probably would not account for this change in MS. [**Name13 (STitle) **] 1 bag platelets to maintain plt ct >50. Needs plt ct @ 1920. Plan to consult neuro surgery.
+
+Taking sips of water with pills crushed in water. Asp precautions.
+
+RA w/ O2sats mid-high 90s. Post ct scan his O2sats are now low 90s. Weak cough but able to expectorate sputum to front of mouth to be suctioned out with yankaur. RR 32 most of day.
+
+HR 60s NSR. Amiodarone gtt at .5mcg/min converted to po at 1500. 
+
+Afebrile. No stool. Will need spec for C-diff. U.O. adequate. He is ~800cc + since midnight.
+
+Wife and family members in most of day. Wife has gone back to hotel for night.
+",,
+5072,1082,6301,0,3036-09-15 02:42:00 EST,3036-09-15 02:55:00 EST,1197,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Opens eyes to voice and has eye contact when spoken to but no verbal or non-verbal responses to questions. Intermittent moaning and grimacing and increasing in frequency this am and appeared to be in pain but when asked would not respond. MSO4 prn with decrease in moaning/grimacing. No following of commands. PERL 2-3mm and brisk. 
+CV: Low grade temps axillary. BP stable via a-line. On po lopressor but pt. barely able to swallow pills when crushed and it should be changed to IV. Aspiration precautions maintained. HR 60s-80s SR with rare PVC. CVP 6-8. Goal plt. count >50 with am labs to be drawn. Skin warm to touch with palpable pedal pulses bilat.
+RESP: On RA with O2 Sat 92-96%. LS diminished upper lobes and coarse lower lobes. Productive cough of tan secretions and using Yankar to pt's mouth after coughing. RR 28-30s, shallow and at times appears labored. 
+GI/GU: Abd. soft with positive bowel sounds. No BM. Needs stool for c-diff sent if stools. Pills crushed and given with a little water with HOB at 90 degrees. Pt. not following commands to swallow and takes a little while to swallow on his own. No coughing noted after pills. TPN continues. Insulin ss continues q6hrs. Condom cath on and draining yellow, clear urine >30cc/hr. \
+SKIN: Mouth with healing oral/lip ulcers. Buttocks red in places but no open areas and repositioned side to side. Pt. moaning greatly with repositioning. Quad lumen central line to L IJ intact. A-line to R radial intact with good waveform.
+Pt. is DNR/DNI but continue with full treatment plan. Wife staying in hotel with number on white board in room.
+",,
+5072,1082,6301,0,3036-09-15 13:41:00 EST,3036-09-15 13:56:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: CONTINUES TO SAT WELL ON NO O2. C&R THICK DK TAN SPUTUM. 
+
+NEURO; CONT. TO BE LETHARGIC. DOES OPEN HIS EYES SPONT. AND SQUEEZES EYES SHUT WHEN ATTEMPTING TO CHECK PUPILS. PT. DOES HAVE A + CT SCAN FOR SUBDURAL HEMATOMAS OLD. BUT ? WHAT TO DO ABOUT THEM. MRI CANCELLED. NEUROSURGERY CONSULTED-WILL BE BY LATER TODAY.
+GI: REMAINS NPO. ALL MEDS CHANGED TO IV. 
+RENAL: CONDOM CATH DRAINING WELL. CREAT 2.3, BUN 121. RENAL CONSULT. URINE SENT FOR LYTES. CONT. TO USE CHEMO GLOVES WHEN EMPTYING URINE. 
+ENDOC: BS'S COVERED BY SSI. 
+HEM: PLTS GIVEN AFTER A-LINE D/C'ED, WHICH BLED QUITE PERFUSELY. 
+CV: AMIODURONE PO CHANGED TO IV. PT. REMAINS IN NSR. CONT. ON HYDRALAZINE. 
+ID: CONT. ON ANTIBIOTICS. WBC'S 4.0 
+PAIN CONTROL; MORPHINE 4MG IVP X1. PT. SLEPT IN NAPS.   
+SKIN INTEGRITY: SMALL SKIN TEARS. 
+SOCIAL: WIFE WENT HOME. PARENTS INTO VISIT. SPOKE WITH DR. [**First Name (STitle) **]. 
+",,
+5072,1082,6301,0,3036-09-15 18:10:00 EST,3036-09-15 18:15:00 EST,679,"N",69,"Nursing/Other",,"
+
+MICU/SICU Nursing Progress Note (1500-1900)
+
+Pt. non verbal, moaning and groaning with pain at any movement or intervention. Wife in and spoke with resident (Dr. [**Last Name (STitle) **]) and heme/onc fellow. Very tearful, pt now DNR/DNI. Family able to spend time with pt. privately.
+",,
+5072,1082,6301,,3036-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3036-9-16**] 9:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8111**]
+     Reason: worse pna                                                   
+     Admitting Diagnosis: LEUKEMIA;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old man with ALL and CMV enteritis, fevers, hypotension. Worsened  
+      breath sounds.               
+     REASON FOR THIS EXAMINATION:
+      worse pna                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST 9:35 A.M.:
+     
+     INDICATION: Leukemia, fever, abnormal breath sounds.
+     
+     Comparison with the prior chest x ray of [**3036-9-14**] shows slight clearing of the
+     bilateral upper lobe infiltrates. The heart is normal in size. Position of the
+     left IJ line catheter is unchanged.
+     
+     IMPRESSION: Slight improvement in the upper lobe infiltrates over the past 48
+     hours.
+
+",,
+5072,1082,6301,,3036-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5072,1082,6301,0,3036-09-16 04:30:00 EST,3036-09-16 04:52:00 EST,995,"N",69,"Nursing/Other",,"
+
+D Neuro: pt opens eyes spontaniously. PERL 7mm. react very slowly.noted to move legs on bed and will do it when asked  at times.moves arms minmally has no grasp. rt arm moves only very slightly. pt inconsistant with following comands.seems slightly more alert this am.
+Pain: pt moning and shaking head appears in pain. pt legs are extremely sensitive. repositioned with pillows and morphine 4mg given for pain. pt dozed .
+CV:  NSR to SR no ectopi. palp DP.  repleat PLT 64 awaiting am labs results pending. repleat as indicated.LIJ 4 lumen patent.CVP 0-5. vss see care view.
+Lungs: BS clear some coarseness to crackles in base.  RR 12-18 shallow productive cough. tan thick sputum. pt cough week difficulty expectorating. used yankar to suction back of throat.
+GI: ABD soft BS hypoactive but present. No BM. No N/V. TPN as ordered.
+GU: condum cath on voiding in large quantaties. clear yellow urine.
+Skin. arms with skin tears.osite and addaptic applied as indicated.
+A stable
+P  medicate around the clock for comfort. turn q4 incourage  note mental status change . possible LP or CT scan today. 
+",,
+5072,1082,6301,0,3036-09-16 11:31:00 EST,3036-09-16 11:32:00 EST,511,"N",69,"Nursing/Other",,"
+
+pt. transferred to 7 [**Hospital Ward Name **]. dr. [**First Name (STitle) **] into speak with wife. pt. to be comfort measures. given 4mg ms ivp at 12:15pm. bs 180-given 2u insulin reg sc. 
+",,

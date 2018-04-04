@@ -1,0 +1,797 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+5169,3989,,,2619-01-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2619-1-25**]     Discharge Date:  [**2619-2-5**]
+
+Date of Birth:   [**2566-11-2**]     Sex:  F
+
+Service:  [**Company **]
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 52-year-old woman
+with a history of cervical adenocarcinoma stage II, status
+post radiation in [**2609**] who was diagnosed with right lung
+adenocarcinoma with fine-needle aspiration in [**2618-6-22**]
+after CT scan revealed a right lung mass in the setting of
+elevated tumor marker with CEA up to 16.4.  The CT revealed a
+mass of 2.5 cm by 5 cm in the right upper lobe.  She had a
+PET scan which staged cancer as stage III A or B at [**Hospital3 5943**].  She had three runs of chemo which was stopped in
+[**2618-8-23**] secondary to hemolytic anemia but she did
+complete a course of XRT.
+
+She has been hospitalized at an outside hospital several
+times since [**2618-10-23**] for recurrent episodes of
+fevers, progressive pulmonary infiltrates and most recently
+intractable nausea and vomiting.
+
+HOSPITAL COURSE:  She was initially thought to have
+radiation-induced pneumonitis for which she was treated with
+steroids, but she also received Levaquin for presumptive
+pneumonia.  She has been on steroids for chemo-induced
+hemolytic anemia and radiation-induced pneumonitis.  She also
+received several transfusions for hemolytic anemia.
+
+On [**2618-12-31**], she had bronchioloalveolar lavage which
+revealed Aspergillus and [**Female First Name (un) 434**] and possible atypical
+Mycobacteria.  Hyphae was seen in cytology but the path was
+not sufficient for evaluation of invasive Aspergillus.  Her
+AFB studies had remained negative until bronchoalveolar
+lavage on [**2619-1-20**] which grew out positive atypical
+Mycobacteria (Gordonii) for which she was started on
+itraconazole on [**2619-1-2**] for possible invasive
+aspergillosis.  She was switched to Amphotericin B on [**2619-1-16**] secondary to failure to improve.  She was also
+started on triple regimen on [**2619-1-20**] for atypical
+Mycobacteria infection.  The triple regimen included
+Rifabutin, ethambutol, and Clarithromycin, but the CT scan
+showed progressive cavitary lesions in the upper right lower
+lobe and dense consolidation in the base of right lower lobe.
+
+She was started on vancomycin on [**2619-1-16**] after acute
+aspiration episode but the vancomycin was discontinued on
+[**2619-1-18**].  In addition, she was also started on
+meropenem on [**2619-1-16**] for Enterobacter UTI.
+
+Her most recent admission to the outside hospital on [**2619-1-10**] was notable for intractable nausea and vomiting.
+She had an EGD which revealed gastritis.  She continued to
+have intermittent fevers and a persistent productive cough of
+greenish sputum with right-sided chest pain but without
+hemoptysis.  She was transferred to [**Hospital1 83**] for further workup
+of the right lower lobe process including possible open lung
+biopsy.  She had repeated fine-needle aspiration of the right
+lower lobe cavitary lesion but the results were inconclusive.
+She is followed by both ID and the Pulmonary Service.
+
+She continued to have intermittent fevers and a persistent
+productive cough with right-sided chest pain.  Since her
+symptoms had no response to the broad antibiotic coverage and
+her cultures here remained unremarkable, triple antibiotics
+for atypical bacterial infection were discontinued and
+meropenem and the vancomycin were switched to levofloxacin
+and clindamycin to cover likely postobstructive pneumonia.
+Amphotericin B was also switched to p.o. voriconazole for
+possible invasive aspergillosis.
+
+After a long discussion between Infectious Disease, Pulmonary
+and Thoracic Surgery, the decision was made not to pursue
+open lung biopsy given her critical condition.  She was
+scheduled to go for a bronchoscopy on [**2619-2-5**] for
+both diagnostic biopsy and therapeutic stenting of the
+collapsed bronchial.
+
+Unfortunately, the patient went into respiratory failure in
+the early morning of [**2619-2-5**].  She was intubated on
+the floor and was transferred to the VICU for further care as
+the patient remained full code at that time.  However, the
+patient continued to deteriorate and required pressors for
+blood pressure support.
+
+Given her overall poor prognosis, after a long discussion
+with the family, the decision was made to withdrawal care at
+that time.  The patient passed away peacefully on [**2619-2-5**] in the presence of her family.
+
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1814**]
+
+Dictated By:[**Last Name (NamePattern1) 5944**]
+
+MEDQUIST36
+
+D:  [**2619-2-26**]  03:37
+T:  [**2619-2-27**]  22:28
+JOB#:  [**Job Number 5945**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2619-3-2**] 8:42 PM
+(End of Report)
+
+
+",,
+5169,3989,6417,0,2619-01-25 19:10:00 EST,2619-01-25 19:32:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NPN","
+[**Wardname **] 4 ICU NPN
+
+    52 YO admitted from OSH for further w/u cavitating leision R lung.
+    PMH: adno lung ca dx [**6-23**] Rx chemo & rads, hemolytic anemia r/t chemo, cervical Ca ""94"" Rx rads, diabetes r/t steroids, radiation pneumonitis, RAf/flutter, RUQ back pain, hyperlipidemia, cholithiasis, carpal tunnel syndrome.
+    ALLERGIES: PCN -> anaphalaxis, CODEINE, CONTRAST, ZOCOR, ? Latex (hives).
+    Please see Nursing ICU Adm History/FHP for HPI.
+    Arrived on 4L NP with sats 93-94%. BS clear with few scatterd ronchi. RR 20's.
+    CV: SBP 90's HR 90's 
+    MS: A&O.
+    C/O R mid scapula back pain (#5). Given Ms04 4mg X1 at 1800.
+    Voiding in bedpan as well as having stress inc with coughing.
+    ENDO: On standing & SSRI for steriod induced hyperglycemia. BS 151 at 1830. Covered per SS.
+    GI: States appitite fair to poor. Not following [**Doctor First Name **] diet at OSH d/t poor appitite & limited PO's. Drinking Boost supplement. Sandwitch ordered.
+    ACCESS: DL PICC placed L A/C at OSH today.
+    ID: Afeb. Awaiting ID approval on meds.
+    SOCIAL: Dtr [**Name (NI) **] visiting. She was updated on pt's condition. Questions answered. Waiting to speak to Dr. [**Last Name (STitle) 5518**]. Dtr indicated she is staying overnight. She was told she could stay in the waiting room & visit pt at X' overnight She is well aware of the ICU policy of not staying in the pt's room overnight.
+
+",,
+5169,3989,6417,,2619-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-26**] 3:17 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8726**]
+     Reason: Right cavitary lesion                                       
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  Rereview of the images reveals a 5 mm diameter well circumscribed
+     lung nodule in the periphery of the left lower lobe.  In a patient with known
+     primary neoplasm, differential diagnosis includes a focus of metastatic
+     disease vs. a benign nodule such as a noncalcified granuloma or intrapulmonary
+     lymph node.  Comparison to any outside studies would be helpful to determine
+     retrospective stability of this finding.
+
+
+     DATE: [**2619-1-26**] 3:17 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8726**]
+     Reason: Right cavitary lesion                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Right cavitary lesion                                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      Allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right cavitary lesion in patient with lung adenocarcinoma.
+     
+     TECHNIQUE:  CT scanning of the chest without IV contrast.  There is no prior
+     CT available for comparison.
+     
+     CT CHEST WITHOUT CONTRAST:  There are mildly prominent lymph nodes in the
+     superior mediastinum and right paratracheal regions. There are more grossly
+     enlarged nodes in the right hilum and subcarinal regions.  The pulmonary
+     artery is enlarged, with pulmonary hypertension.  Overall heart size is at the
+     upper limits of normal.  There is minimal pericardial thickening or a tiny
+     effusion.
+     
+     Lung windows demonstrate paramediastinal areas of volume loss and air
+     bronchograms, consistent with radiation fibrosis.  In addition, there is
+     subtotal consolidation of the right lower lobe.  In the superior segment of
+     the right lower lobe, there is a large cavity containing internal debris.  The
+     cavity has a thick wall, particularly medially, which is concerning for a
+     malignant etiology.  No fluid levels are apparent.  There is a small pleural
+     effusion adjacent to the cavitary lesion.
+     
+     In the upper abdomen, there are multiple large calcified gallstones.  The
+     spleen is enlarged.  No focal splenic or hepatic lesions are identified. The
+     adrenal glands are normal.  Bone windows demonstrate no suspicious lytic
+     lesions.
+     
+     IMPRESSION:
+     
+     1. Thick-walled cavitary lesion in the superior segment of the right lower
+     lobe with associated hilar and mediastinal lymphadenopathy.  The degree of
+     lymphadenopathy surrounding the right hilum raises the concern for neoplasm.
+     The presence of consolidation in the right lower lobe suggests the presence of
+     an infection and containment by the major fissure is not consistent with
+     radiation fibrosis at this site. Associated large right lower lobe cavity is
+     noted and could be due to cavitating infection (e.g. bacterial lung abscess or
+     TB) or cavitating neoplasm.
+     2. Bilateral pulmonary radiation fibrosis (separate from right lower lobe
+     consolidation).
+     
+                                                                 (Over)
+
+     DATE: [**2619-1-26**] 3:17 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8726**]
+     Reason: Right cavitary lesion                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5169,3989,6417,,2619-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-26**] 8:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8724**]
+     Reason: evaluate cavitary lung mass ( I will bring down films from O
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with  h/o adenocarcinoma of Rlung with cavitary mass ( + for 
+      [**Female First Name (un) 8725**], aspergillus, and atypical mycoplasma )
+     REASON FOR THIS EXAMINATION:
+      evaluate cavitary lung mass ( I will bring down films from OSH for comp )       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of adenocarcinoma of the lung, with cavitary mass.
+     
+     There are no prior studies available for comparison.
+     
+     AP CHEST:  Evaluation is limited without comparison studies. There is
+     cardiomegaly without evidence of failure. There is a large, cavitary, right
+     upper lobe mass, with associated atelectasis. There is fullness in the right
+     hilum, which likely represents the patient's known adenocarcinoma, with
+     collapse/consolidation of the right lower lobe.  There is also increased
+     opacity within the left hilar region, extending up into the left upper lobe,
+     which is suspicious for cross mediastinal extension of tumor.  The osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  Large cavitary lung mass in right upper lobe, increased opacity
+     in bilateral hilar regions.  Collapse/consolidation of right lower lobe.
+     Evaluation limited without prior studies for comparison.
+
+",,
+5169,3989,6417,0,2619-01-26 05:02:00 EST,2619-01-26 05:20:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Note for Micu/Sicu 1900-0700
+
+Neuro: awake,alert, and oriented x 3. medicating with ms 2-5 mg iv qhrs for c/o right midscapula discomfort ranging from [**3-30**]. Ms is taking effect for only approx 1-1.5 hrs. Needs additional pain control management. Medicated with restoril 15mg po for sleeplessness, did [**Doctor Last Name 65**] x 2 hrs and short naps throughout the night. MAE. Did ambulate with one assistance to the commode.
+
+CV: hr 88-120. nsr-st, did have a 5 beat run v-tach at 11:30 pm, asympt and no futher tx was given. had a hypotensive episode at 9 pm with a bp of 83, pt was tx with a 500 cc ns bolus with effect. Bp has been running in the 90's to low 100's, dr [**Last Name (STitle) 5518**] is aware. has had rare to freq multi focal pvc's. No evidence of afib/flutter. lopressor dose was changed to 12.5 mg bid. is on a dilt ER po.
+
+Resp: bs are diminished to rhonchi to clear at times. expec thick clear to tan secretions. spcul to be obtained. on 3 liter nc, sats 93-98% rr 21-26, no resp distress noted.
+
+GI/GU: pt's abd soft and + bs x4, did have a moderate sized bm on the commode. pt nauseous, reglan 10 mg iv will be changed to po qid,ac and hs. pt voiding on bedpan, small amts of dk amber urine. however has stress incont and is incont of lg amts of urine after coughing. awaiting to obtain u/a and c&s
+
+HEME: Chem 7 was repeated, due to low values, repeated values are pending, please see carevue for values.
+
+ENDO: on riss, has been coveredx 2 please see carevue for values.
+
+F/E: pt was cultured x 2 with fungal cx as well. from picc line and from venipuncture. spiked at 0430 with 101 fever. Dr [**Last Name (STitle) 5518**] aware.
+
+Social: daughter in at times throughout the night. updated.
+
+
+
+
+",,
+5169,3989,6417,0,2619-01-26 17:04:00 EST,2619-01-26 17:14:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress note:","
+[**Wardname **] 4 ICU nursing progress note:
+ Respiratory: Continues with strong productive cough..tan-orangy colored sputum. Had chest ct done this afternoon..Wearing nc 3l..rr 18-24 Sats 92-96. ??Needs assesment for ?bronch..?biopsy. Waiting to speak with MD from OSH and consults..
+ Cardiac: BP 90's most of day. No c/o lightheadedness..hr 90-80's nsr
+ GI: Very poor appetite..eating food family buys for her..picking. Taking in small amts of liquids. BM x1
+ GU: Using bedside commode..small amts very concentrated urine..incontinent most of day with coughing..hard to measure total output. 
+ Pain management: c/o back/r scapula pain..asking for MSO4..given x2..pt is able to fall asleep..started on po ativan also..seems to help pt relax.
+ Neuro: Alert/orientatd  conversant at times..flat affect..??depressed. Daughter with pt most of day..pt states this is a comfort to her. Explained again about daughter not staying overnoc in pts room. 
+ Social: As above..family currently waiting info from MDs on how to proceed with care.
+",,
+5169,3989,6417,,2619-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+5169,3989,6417,,2619-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-27**] 1:25 PM
+     CT LUNG/MEDIASTINAL BX; CT LOC BX                               Clip # [**Clip Number (Radiology) 8727**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: Cancer v. fungus v. bacterial infection                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with right pulmonary consolidation, cavitary lesion on CT, 
+      fungus, mycobacterium on bronch.  PLEASE SEND TISSUE FOR PATH, GRAM STAIN, 
+      AEROBIC AND ANAEROBIC CX, AFB, FUNGAL, AND OTHER STAINS-PLEASE PAGE [**Pager number 8728**] [**Pager number 8729**] IF ANY QUESTIONS ON WHAT MICRO TO SEND                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      Cancer v. fungus v. bacterial infection                                         
+     CONTRAINDICATIONS for IV CONTRAST:
+      ALLERGY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cavitary right upper lobe lesion.
+     
+     The procedure was fully explained to the patient and informed signed consent
+     was obtained.  The patient was prepped and draped in the usual sterile fashion
+     and 1% Lidocaine was used as local anesthetic.
+     
+     Conscious sedation and continuous monitoring was provided by the radiology
+     nurse.
+     
+     Preliminary unenhanced chest CT examination demonstrates a cavitary lesion in
+     the right upper lobe, unchanged in appearance from the prior CT examination of
+     [**2619-1-26**].
+     
+     Using CT fluoroscopy for guidance, a 19 gauge by 14.7 cm coaxial needle was
+     introduced into the periphery of the lesion from the posterior approach.  A 20
+     gauge by 20 cm Franseen needle was used for fine needle aspiration times 7.
+     Specimens were given to cytology for immediate evaluation.  Specimens were
+     also sent to microbiology.
+     
+     Post procedure limited chest CT demonstrates no evidence of pneumothorax.
+     
+     CT FLUOROSCOPY:  CT fluoroscopy was used for guidance of the needle into the
+     periphery of the cavitary lesion.  A total of 15 minutes of CT fluoroscopy
+     time was utilized.
+     
+     CONCLUSION:  Successful fine needle aspiration biopsy of cavitary lesion.
+     
+     [**First Name8 (NamePattern2) 3422**] [**Last Name (NamePattern1) 3423**], attending radiologist, was present for the entirety of the
+     procedure.
+     
+
+",,
+5169,3989,6417,,2619-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-27**] 1:25 PM
+     CT LUNG/MEDIASTINAL BX; CT LOC BX                               Clip # [**Clip Number (Radiology) 8727**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: Cancer v. fungus v. bacterial infection                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with right pulmonary consolidation, cavitary lesion on CT, 
+      fungus, mycobacterium on bronch.  PLEASE SEND TISSUE FOR PATH, GRAM STAIN, 
+      AEROBIC AND ANAEROBIC CX, AFB, FUNGAL, AND OTHER STAINS-PLEASE PAGE [**Pager number 8728**] [**Pager number 8729**] IF ANY QUESTIONS ON WHAT MICRO TO SEND                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      Cancer v. fungus v. bacterial infection                                         
+     CONTRAINDICATIONS for IV CONTRAST:
+      ALLERGY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cavitary right upper lobe lesion.
+     
+     The procedure was fully explained to the patient and informed signed consent
+     was obtained.  The patient was prepped and draped in the usual sterile fashion
+     and 1% Lidocaine was used as local anesthetic.
+     
+     Conscious sedation and continuous monitoring was provided by the radiology
+     nurse.
+     
+     Preliminary unenhanced chest CT examination demonstrates a cavitary lesion in
+     the right upper lobe, unchanged in appearance from the prior CT examination of
+     [**2619-1-26**].
+     
+     Using CT fluoroscopy for guidance, a 19 gauge by 14.7 cm coaxial needle was
+     introduced into the periphery of the lesion from the posterior approach.  A 20
+     gauge by 20 cm Franseen needle was used for fine needle aspiration times 7.
+     Specimens were given to cytology for immediate evaluation.  Specimens were
+     also sent to microbiology.
+     
+     Post procedure limited chest CT demonstrates no evidence of pneumothorax.
+     
+     CT FLUOROSCOPY:  CT fluoroscopy was used for guidance of the needle into the
+     periphery of the cavitary lesion.  A total of 15 minutes of CT fluoroscopy
+     time was utilized.
+     
+     CONCLUSION:  Successful fine needle aspiration biopsy of cavitary lesion.
+     
+     [**First Name8 (NamePattern2) 3422**] [**Last Name (NamePattern1) 3423**], attending radiologist, was present for the entirety of the
+     procedure.
+     
+
+",,
+5169,3989,6417,,2619-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-27**] 1:25 PM
+     CT LUNG/MEDIASTINAL BX; CT LOC BX                               Clip # [**Clip Number (Radiology) 8727**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: Cancer v. fungus v. bacterial infection                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with right pulmonary consolidation, cavitary lesion on CT, 
+      fungus, mycobacterium on bronch.  PLEASE SEND TISSUE FOR PATH, GRAM STAIN, 
+      AEROBIC AND ANAEROBIC CX, AFB, FUNGAL, AND OTHER STAINS-PLEASE PAGE [**Pager number 8728**] [**Pager number 8729**] IF ANY QUESTIONS ON WHAT MICRO TO SEND                                    
+                             
+     REASON FOR THIS EXAMINATION:
+      Cancer v. fungus v. bacterial infection                                         
+     CONTRAINDICATIONS for IV CONTRAST:
+      ALLERGY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cavitary right upper lobe lesion.
+     
+     The procedure was fully explained to the patient and informed signed consent
+     was obtained.  The patient was prepped and draped in the usual sterile fashion
+     and 1% Lidocaine was used as local anesthetic.
+     
+     Conscious sedation and continuous monitoring was provided by the radiology
+     nurse.
+     
+     Preliminary unenhanced chest CT examination demonstrates a cavitary lesion in
+     the right upper lobe, unchanged in appearance from the prior CT examination of
+     [**2619-1-26**].
+     
+     Using CT fluoroscopy for guidance, a 19 gauge by 14.7 cm coaxial needle was
+     introduced into the periphery of the lesion from the posterior approach.  A 20
+     gauge by 20 cm Franseen needle was used for fine needle aspiration times 7.
+     Specimens were given to cytology for immediate evaluation.  Specimens were
+     also sent to microbiology.
+     
+     Post procedure limited chest CT demonstrates no evidence of pneumothorax.
+     
+     CT FLUOROSCOPY:  CT fluoroscopy was used for guidance of the needle into the
+     periphery of the cavitary lesion.  A total of 15 minutes of CT fluoroscopy
+     time was utilized.
+     
+     CONCLUSION:  Successful fine needle aspiration biopsy of cavitary lesion.
+     
+     [**First Name8 (NamePattern2) 3422**] [**Last Name (NamePattern1) 3423**], attending radiologist, was present for the entirety of the
+     procedure.
+     
+
+",,
+5169,3989,6417,0,2619-01-27 05:58:00 EST,2619-01-27 06:04:00 EST,858,"N",69,"Nursing/Other",,"
+
+cns- neuro approp and wnl.  needing several doses of ms [**First Name (Titles) 14**] [**Last Name (Titles) **] ivp for relaxation/paincontrol.  pain in low back and mid scapular areas, and abdomen with coughing.
+
+cv- sr/st with occ pvc.  low grade temps with diaphoresis-good relief with tylenol.  vss.  see flowsheet for details. 
+
+resp- lungs coarse/decreased t/o- somewhat moreso on the right.  sats low to mid 90's on 3l nc.  strong frequent cough-prod brown/tan sputum. 
+
+gi- abd soft, bt+  takes po well.  no npo for poss biopsy today.
+
+gu- voids amber clear urine.  inc of urine with strong coughing.  
+
+
+",,
+5169,3989,,,2619-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-28**] 6:38 PM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 8731**]
+     Reason: T/L spine scan  to r/o bony mets                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with cervical and lung adenocarcinoma, large RLL cavitary 
+      lesion and dense consolidation, complained of severe R chest/flank/back pain.  
+      terder to palpation.
+     REASON FOR THIS EXAMINATION:
+      T/L spine scan  to r/o bony mets                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Lung adenocarcinoma and right-sided pain.
+     
+     TECHNIQUE:  Sagittal T1 and T2W images and sagittal STIR images were obtained.
+     
+     Thoracic spine MRI:
+     
+     FINDINGS:
+     
+     There is fatty replacement of the marrow of the T3 through T8 vertebral
+     bodies, most likely related to radiation therapy.  The marrow signal intensity
+     is otherwise unremarkable.  No compression fractures are seen. There is no
+     evidence of epidural disease.  There is moderate scoliosis.  Noted is small
+     central disc herniations at T6/7 and T9/10.  The cervical vertebrae are
+     partially visualized and grossly normal.
+     
+     IMPRESSION:  There are postradiation changes in the T3 through T8 vertebrae.
+     Consolidation in the right lung and posterior cavitary lesion are partially
+     visualized.
+     
+     LUMBAR SPINE MRI:
+     
+     CLINICAL HISTORY:  Pain.
+     
+     TECHNIQUE:  Sagittal T1W, T2W and STIR images were obtained.
+     
+     FINDINGS:
+     
+     No areas of abnormal signal intensity are seen to suggest bony metastatic
+     disease.  There are no compression fractures.  L4/5 and L5/S1 discs are
+     desiccated.  There is a disc bulge at L4/5 with central disc herniation and
+     inferior extension disc material.  At L5/S1 there is also a moderate sized
+     disc bulge and there is a moderate sized left paramedian disc herniation,
+     which could affect the left S1 nerve root.  No axial images were obtained.  A
+     disc bulge is noted at L1/2 as well.
+     
+     IMPRESSION:
+     
+     1. There is no evidence of lumbar metastatic disease.
+     
+     2. There is a left-sided disc herniation of L5/S1 and a central disc
+     herniation at L4/5, which could be further evaluated with axial T2W images.
+                                                                 (Over)
+
+     DATE: [**2619-1-28**] 6:38 PM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 8731**]
+     Reason: T/L spine scan  to r/o bony mets                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5169,3989,,,2619-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-28**] 8:33 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 8730**]
+     Reason: HEPATOSLENIC CANDIDIASIS W/ LUNG CANCER R/O MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman on prednisone with cavitary lesions, lung consolidation and 
+      fungus in BAL-eval for hepatosplenic candidiasis 
+     REASON FOR THIS EXAMINATION:
+      Hepatosplenic candidiasis                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cavitary lesion in the right lower lobe.  Evaluate for hepatosplenic
+     candidiasis.
+     
+     ABDOMINAL ULTRASOUND: The liver appears unremarkable without evidence of focal
+     abnormality.  There is no intrahepatic ductal dilatation. The gallbladder is
+     visualized which contains a 3 cm gallstone, but there is no evidence of
+     pericholecystic fluid, gallbladder wall thickening.  The gallbladder is not
+     distended. There is no sonographic [**Doctor Last Name 84**] sign. The CBD is visualized, which
+     measures 3 mm.  The right kidney measures 11.6 cm. The left kidney is poorly
+     visualized.  There is no definite evidence of hydronephrosis or renal calculi.
+     
+     IMPRESSION:  Cholelithiasis without evidence of cholecystitis.
+
+",,
+5169,3989,,,2619-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-28**] 6:38 PM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 8731**]
+     Reason: T/L spine scan  to r/o bony mets                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with cervical and lung adenocarcinoma, large RLL cavitary 
+      lesion and dense consolidation, complained of severe R chest/flank/back pain.  
+      terder to palpation.
+     REASON FOR THIS EXAMINATION:
+      T/L spine scan  to r/o bony mets                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Lung adenocarcinoma and right-sided pain.
+     
+     TECHNIQUE:  Sagittal T1 and T2W images and sagittal STIR images were obtained.
+     
+     Thoracic spine MRI:
+     
+     FINDINGS:
+     
+     There is fatty replacement of the marrow of the T3 through T8 vertebral
+     bodies, most likely related to radiation therapy.  The marrow signal intensity
+     is otherwise unremarkable.  No compression fractures are seen. There is no
+     evidence of epidural disease.  There is moderate scoliosis.  Noted is small
+     central disc herniations at T6/7 and T9/10.  The cervical vertebrae are
+     partially visualized and grossly normal.
+     
+     IMPRESSION:  There are postradiation changes in the T3 through T8 vertebrae.
+     Consolidation in the right lung and posterior cavitary lesion are partially
+     visualized.
+     
+     LUMBAR SPINE MRI:
+     
+     CLINICAL HISTORY:  Pain.
+     
+     TECHNIQUE:  Sagittal T1W, T2W and STIR images were obtained.
+     
+     FINDINGS:
+     
+     No areas of abnormal signal intensity are seen to suggest bony metastatic
+     disease.  There are no compression fractures.  L4/5 and L5/S1 discs are
+     desiccated.  There is a disc bulge at L4/5 with central disc herniation and
+     inferior extension disc material.  At L5/S1 there is also a moderate sized
+     disc bulge and there is a moderate sized left paramedian disc herniation,
+     which could affect the left S1 nerve root.  No axial images were obtained.  A
+     disc bulge is noted at L1/2 as well.
+     
+     IMPRESSION:
+     
+     1. There is no evidence of lumbar metastatic disease.
+     
+     2. There is a left-sided disc herniation of L5/S1 and a central disc
+     herniation at L4/5, which could be further evaluated with axial T2W images.
+                                                                 (Over)
+
+     DATE: [**2619-1-28**] 6:38 PM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 8731**]
+     Reason: T/L spine scan  to r/o bony mets                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+5169,3989,,,2619-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-29**] 12:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8732**]
+     Reason: please check for interval changes                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with hx of cervical adenocarcinoma adn right lung 
+      adenocarcinoma with progressive worsening of RLL cavitary lesions. Please call 
+      [**Doctor First Name **] [**Doctor Last Name **] #39529 with questions.
+     REASON FOR THIS EXAMINATION:
+      please check for interval changes                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up right lower lobe cavitary lesion in patient with lung
+     cancer.
+     
+     PORTABLE CHEST:  Comparison is made to [**2619-1-26**].  There is a left PICC with the
+     tip in the upper right atrium, as on the prior study.  The cavitary lesion in
+     the superior segment of the right lower lobe is without change.  There is
+     persistent consolidation of the remainder of the right lower lobe.  Bilateral
+     paramediastinal opacities consistent with radiation fibrosis are stable.
+     
+     IMPRESSION:  Stable radiographic appearance of the chest.
+
+",,
+5169,3989,,,2619-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-29**] 6:38 PM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 8733**]
+     Reason: SWOLLEN ARM ASSESS FOR DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with swelling arm at the PICC side.                           
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left arm swelling, left-sided PICC in place.
+     
+     LEFT UPPER EXTREMITY VEINS ULTRASOUND:  [**Doctor Last Name **]-scale and Doppler sonograms of
+     the left internal jugular, subclavian, axillary, brachial and basilic veins
+     were performed.  Normal waveforms, compressibility and augmentation were
+     demonstrated.  No definite intraluminal thrombus was identified.  Note that
+     the internal jugular/subclavian vein junction was not well visualized on the
+     present study, but normal venous waveforms in these vessels makes the
+     likelihood of an occlusive thrombus very unlikely.
+     
+     IMPRESSION:  No evidence of an occlusive deep venous thrombosis of the left
+     upper extremity, as discussed above.
+
+",,
+5169,3989,,,2619-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-30**] 12:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8734**]
+     Reason: PNA/pneumothorax.                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with hx of cervical adenocarcinoma adn right lung  
+      adenocarcinoma with progressive worsening of RLL cavitary lesions. With TEMP.
+     REASON FOR THIS EXAMINATION:
+      PNA/pneumothorax.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  52 y/o woman with history of cervical adenocarcinoma and right lung
+     adenocarcinoma with progressive worsening of right lower cavity lesion. Now
+     has temperature.  Rule out pneumonia/pneumothorax.
+     
+     [**2619-1-30**]  Portable upright film at 1:15 A.M..
+     
+     Comparison is made to previous study dated one day earlier.  There now appears
+     to be increasing density behind the heart suggesting a new left lower lobe
+     infiltrate.
+     
+     IMPRESSION:  Possible new left lower lobe infiltrate.
+
+",,
+5169,3989,,,2619-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-1-31**] 5:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8735**]
+     Reason: eval for the possible new infiltrates on LLL                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with  h/o adenocarcinoma of Rlung with cavitary mass ( + for 
+       [**Female First Name (un) 8725**], aspergillus, and atypical mycoplasma ) spiked fever yesterday, new 
+      infiltrates on LLL.
+     REASON FOR THIS EXAMINATION:
+      eval for the possible new infiltrates on LLL                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  53 y/o woman with history of adenocarcinoma of the right lung
+     with cavitary mass, positive for [**Female First Name (un) 8725**].  Aspergillous and atypical
+     microplasma, spiked fever yesterday. Please evaluate for new infiltrate on
+     the left. 
+     
+     PORTABLE AP UPRIGHT CHEST AT 6:19 P.M.:  Comparison is made to previous films
+     from yesterday.  There now appear to be air fluid levels in the right side of
+     the cavitary lesion.  There is total opacification of the lower half of the
+     right hemithorax.  Calcified mass in the left perihilar region is unchanged.
+     There is patchy density at the left base. I cannot r/o an infiltrate.
+
+",,
+5169,3989,,,2619-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-2-1**] 9:01 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8736**]
+     Reason:  PA&Lat CXR to eval for possible LLL infiltrates.           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        52 year old woman with  h/o adenocarcinoma of Rlung with cavitary mass ( + 
+      for   [**Female First Name (un) 8725**], aspergillus, and atypical mycoplasma ) spiked fever yesterday, 
+      new  infiltrates on LLL.
+     REASON FOR THIS EXAMINATION:
+       PA&Lat CXR to eval for possible LLL infiltrates.                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  52 y/o woman with a history of right lung adenocarcinoma and a
+     right lower lobe cavitary mass with fevers.  Evaluate for left lower lobe
+     infiltrates.
+     
+     COMPARISON:  [**2619-1-30**].
+     
+     PA AND LATERAL CHEST:  There is continued right middle lobe and right lower
+     lobe collapse/consolidation, unchanged. Again seen is a cavitary lesion in the
+     superior segment of the right lower lobe. The patchy atelectasis in the left
+     lower lobe has improved, with substantial aeration of the left lung.  Again
+     seen is a left PICC line in stable position.
+     
+     IMPRESSION:   Improved left lower lobe patchy atelectasis.
+
+",,
+5169,3989,,,2619-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2619-2-5**] 6:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8737**]
+     Reason: 52 y/o woman intubated for respiratory arrest.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with hx of cervical adenocarcinoma adn right lung  
+      adenocarcinoma with progressive worsening of RLL cavitary lesions. With TEMP.
+     REASON FOR THIS EXAMINATION:
+      52 y/o woman intubated for respiratory arrest.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever and respiratory arrest.  Patient with cervical and right
+     lung adenocarcinoma.
+     
+     PORTABLE CHEST:  Comparison study dated [**2619-2-1**].  An endotracheal tube has
+     been placed.  The tip is in good position, but the balloon appears
+     overinflated.  The tip of the nasogastric tube is in the region of the
+     gastroesophageal junction.  The tip of the central venous catheter is in the
+     mid SVC.  There is progressive opacification of the right lung with residual
+     aeration of the previously demonstrated cavity.  The left suprahilar lesion is
+     again noted.
+     
+     IMPRESSION:
+     1) Overinflation of endotracheal tube cuff.
+     2) Progressive opacification of right lung.
+
+",,
+5169,3989,6418,0,2619-02-05 16:28:00 EST,2619-02-05 17:18:00 EST,761,"N",69,"Nursing/Other","FIN 4 ICU NURSING ADMIT NOTE:","
+[**Wardname **] 4 ICU NURSING ADMIT NOTE:
+ 52 y/o woman known to ICU readmitted this am with respiratory failure. Pt with respiratory distress on 7f early am..required intubation and sent to MICU for further care.
+ Recently dc'd from ICU [**1-27**]..after 2 days..working up r lung cavity/lesion.
+ PMHX: Adeno lung ca
+       Cervical ca
+       Hemolytic anemia
+       Radiation pneumonitis
+See previous admit note for details..
+ Allergies: PCN,Codeine,contrast,latex,zocor
+Systems Review:
+ Respiratory: Intubated and vented..able to wean vent settings..AC/500/40%/18/5peep..scant orange liquid secretions..Initially overbreathing vent..required propofol for sedation..See care view for ABGs..
+ Cardiac: R/O protocol..HR 120-130's..st?mat..with sedation decreased rate to 90-100's..became severly hypotensive with propofol..1000cc ns bolus given..neo started and titrated to keep MAP 60-65.
+ ID: Has been spikeing temps..here 103=102.rectally. Maintained on antibiotics.. 
+ GI: NG placed..abdomen soft non-distended..no stool..
+ GU: Foley catheter placed..concentrated urine..??dry.
+ Neuro: Required wrist restraints prior to sedation..attempting to grab ETT.
+ Social: Daughter with pt..is spokesperson..rest of family arrived thru-out day..other sons and pts sisters..Felt pt would not want all this life support..Spoke at length with attending and MICU staff..Descion made to stop neo..change propofol to morephine..keep pt comfortable..Will also decreased vent settings. Pt is DNR..comfort care.
+",,
+5169,3989,6418,0,2619-02-05 23:55:00 EST,2619-02-06 00:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nsg Note (1900hrs-2400hrs)
+
+Received report from previous Rn on pt's plan of care. pt DNR/CMO.  Upon assessment morphine gtt at 13 mg/hr.  Daughter at bedside thru night with multiple family members.  Daughter reported and ""felt"" that mother was in discomfort; RR 22 with AC at 10/500/21%.  Morphine gtt increased to 15 mg/hr with improvement.  Over course of noc, HR and SBP decreased steadily.  Pt with no HR/BP at 10:50 pm.  Family present and informed; vent discontinued. Daughter requesting that all tubes be removed from mother prior to her departure. Family given time for farewell and spoke briefly with md.  Daughter took personal belongings and quilt.  Pt washed and brought to morgue with hospital security/transport.
+",,
+5169,3989,6418,,2619-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

@@ -12,23 +12,24 @@ def main():
     files = glob.glob("DischargeNotes-05/*.txt")
 
     conditions = []
-
+    diagnosis = False
     for file in files:
         f = open(file)
-        text = f.read()
-
-        if 'Discharge Diagnosis:' in text: 
-            a, b = text.split("Discharge Diagnosis:", 1)
-            c, d = b.split("Discharge Condition:", 1)
-
-            if c:
-                conditions.append(c)
-
+        text = f.read().lower()
+        lines = text.strip().splitlines();
+        for line in lines:
+            line = line.strip()
+            if diagnosis:
+                if line != '' and line != '.':
+                    conditions.append(line)
+                else:
+                    diagnosis = False
+            if line == 'discharge diagnosis:':
+                diagnosis = True
 
     df_conditions = pd.DataFrame(conditions)
     df_conditions.to_csv('discharge_diagnosis.csv', index=False, header=False)
 
-        
 
 if __name__ == "__main__":
     main()

@@ -23,6 +23,8 @@ def main():
 
             if c:
                 conditions.append(c)
+            else:
+            	print(file)
 
 
     df_conditions = pd.DataFrame(conditions)

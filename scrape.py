@@ -27,6 +27,7 @@ def main():
             if line == 'discharge diagnosis:':
                 diagnosis = True
 
+
     df_conditions = pd.DataFrame(conditions)
     df_conditions.to_csv('discharge_diagnosis.csv', index=False, header=False)
 

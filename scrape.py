@@ -13,6 +13,7 @@ def main():
 
     conditions = []
     diagnosis = False
+
     for file in files:
         f = open(file)
         text = f.read().lower()
@@ -25,9 +26,10 @@ def main():
                 else:
                     diagnosis = False
             if line == 'discharge diagnosis:':
-                diagnosis = True
+               diagnosis = True
 
 
+    
     df_conditions = pd.DataFrame(conditions)
     df_conditions.to_csv('discharge_diagnosis.csv', index=False, header=False)
 

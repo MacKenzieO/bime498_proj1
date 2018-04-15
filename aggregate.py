@@ -8,5 +8,10 @@ def main():
     counts = conditions.diagnosis.value_counts()
     counts.to_csv('counts.csv')
 
+    squarify.plot(sizes=counts, alpha=.8 )
+	plt.axis('off')
+	plt.show()
+
+
 if __name__ == "__main__":
     main()
